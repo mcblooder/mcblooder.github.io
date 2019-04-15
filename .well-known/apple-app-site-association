@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "KFA6VPVX93.com.magdv.kdvonline",
+        "paths": [
+          "/product/*",
+          "/passwordrecovery/*",
+          "/emailconfirm?*"
+        ]
+      }
+    ]
+  }
+}
+
