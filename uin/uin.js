@@ -66,7 +66,7 @@ function gen() {
   var year = formObject['year'];
   var month = formObject['month'];
   var day = formObject['day'];
-  var number = formObject['number'];
+  var number = formObject['number'].padStart(6, '0');
   var uin = `${kbk}${gos}${paymentType}${docType}${region}${year}${month}${day}${number}`;
   var generatedUin = splitDocNo(uin + '#');
   if (generatedUin.length == 20) {
