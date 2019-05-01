@@ -62,11 +62,11 @@ function gen() {
   var gos = formObject['gos'];
   var paymentType = formObject['paymentType'];
   var docType = formObject['docType'];
-  var region = formObject['region'];
-  var year = formObject['year'];
-  var month = formObject['month'];
-  var day = formObject['day'];
-  var number = formObject['number'].padStart(6, '0');
+  var region = formObject['region'].padStart(2, '0');
+  var year = formObject['year'].padStart(2, '0');
+  var month = formObject['month'].padStart(2, '0');
+  var day = formObject['day'].padStart(2, '0');
+  var number = formObject['number'].padStart(5, '0');
   var uin = `${kbk}${gos}${paymentType}${docType}${region}${year}${month}${day}${number}`;
   var generatedUin = splitDocNo(uin + '#');
   if (generatedUin.length == 20) {
