@@ -31,7 +31,39 @@ body {
     position: relative;
 }
 
+
+.flexInput {
+    align-self: start;
+    width: 48px;
+}
+
+.inputCoef {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.inputCoef select {
+    align-self: start;
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 48px;
+}
+
+input {
+    align-self: start;
+    font-family: "SF Pro Display", serif;
+    width: 100%;
+}
+
+.flexP {
+    align-self: flex-start;
+    margin-right: 20px;
+}
+
 .main-block {
+    margin-top: 128px;
+    margin-bottom: 128px;
     height: auto;
     width: 52.7%;
     border-radius: 30px;
@@ -42,13 +74,18 @@ body {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 50%);
+    transform: translate(-50%, 0%);
     word-break: break-all;
 }
 
 .main-block h1 {
     font-family: "SF Pro Display", serif;
     font-weight: normal;
+}
+
+.main-block h2 {
+    font-family: "SF Pro Display", serif;
+    font-weight: lighter;
 }
 
 .main-block p {
@@ -67,6 +104,64 @@ body {
     overflow: hidden;
     outline:none;
     color: rgb(0, 122, 255);
+}
+
+.textCentered {
+    text-align: center;
+}
+
+.backButton {
+    color: rgb(255, 59, 48);
+}
+
+table {
+    border-spacing: 1px;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    border: 1px solid lightgray;
+}
+table * {
+    position: relative;
+}
+table td, table th {
+    padding-left: 8px;
+
+}
+table thead tr {
+    height: 60px;
+    background: #36304a;
+}
+table tbody tr {
+    height: 50px;
+}
+table tbody tr:last-child {
+    border: 0;
+}
+
+tbody td {
+    border: 1px solid transparent;
+}
+
+tbody td:hover {
+    box-sizing: border-box;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f5f5f5;
+}
+
+tbody tr {
+    font-family: "SF Pro Display", serif;
+    font-weight: normal;
+    font-size: 15px;
+    color: #808080;
+    line-height: 1.2;
 }
 
 @media screen and (min-width: 1366px) {
