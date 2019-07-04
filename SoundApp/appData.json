@@ -1,5 +1,5 @@
 {
-    "updatedAt": "1562278963",
+    "updatedAt": "1562279419",
     "sounds": [
         {
             "name": "Look at this DUDE",
@@ -9,7 +9,7 @@
         {
             "name": "Airhorn",
             "url": "airhorn.mp3",
-            "color": "#BCBCBC"
+            "color": "red"
         }
     ]
 }
