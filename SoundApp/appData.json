@@ -1,5 +1,5 @@
 {
-  "updatedAt": "1562279771",
+  "updatedAt": "1562306766",
   "sounds": [
     {
         "name": "Вообще похуй",
@@ -19,12 +19,12 @@
     {
         "name": "Look at this DUDE",
         "url": "lookAtThisDude.wav",
-        "color": "blue"
     },
     {
         "name": "Airhorn",
         "url": "airhorn.mp3",
-        "color": "red"
+        "color": "red",
+        "volume": 0.6
     }
   ]
 }
