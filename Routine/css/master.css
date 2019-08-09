@@ -1,0 +1,67 @@
+body, html {
+  background-color: black;
+  display: grid;
+}
+
+#block {
+  font-family: 'Major Mono Display', monospace;
+  width: 100%;
+  height: auto;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#timer {
+  color: white;
+  font-size: 15vw;
+}
+
+#counter {
+  color: white;
+  font-size: 15vw;
+}
+
+#space {
+  width: 10%;
+}
+
+#modes {
+  margin: auto;
+  display: flex;
+}
+
+label {
+  width: 200px;
+  color: gray;
+  border-radius: 32px;
+  border: 2px solid rgba(10, 132, 255, 0.5);
+
+  /* background-color: gray; */
+}
+
+input.radio:empty {
+	margin-left: -9999999px;
+}
+
+input.radio:empty ~ label {
+  margin-left: 20px;
+  margin-right: 20px;
+	position: relative;
+	float: left;
+  text-align: center;
+	line-height: 4.5em;
+	margin-top: 2em;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+
+}
+
+input.radio:checked ~ label {
+  color: white;
+  box-shadow: 0px 0px 60px 1px rgb(10, 132, 255);
+}

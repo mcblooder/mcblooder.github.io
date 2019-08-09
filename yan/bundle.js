@@ -693,15 +693,24 @@ Module["asm"] = function(global, env, providedBuffer) {
 var ASM_CONSTS = [function() {
     return window.orientation
 }, function() {
-    return API.verifyFirstPosition()
+    console.log("verifyFirstPosition");
+    return 0;
+    // return API.verifyFirstPosition()
 }, function() {
-    return API.verifyRegularPosition()
+    console.log("verifyRegularPosition");
+    return 0;
+    // return API.verifyRegularPosition()
 }, function() {
-    return API.verifySecondPosition()
+    console.log("verifySecondPosition");
+    return 0;
+    // return API.verifySecondPosition()
 }, function() {
-    return API.finalizeCalibrating()
+    console.log("finalizeCalibrating");
+    return 0;
+    // return API.finalizeCalibrating()
 }, function($0) {
-    API.storeResult(UTF8ToString($0))
+    console.log("storeResult", $0);
+    // API.storeResult(UTF8ToString($0))
 }];
 
 function _emscripten_asm_const_i(code) {
@@ -4451,8 +4460,8 @@ function __registerOrientationChangeEventCallback(target, userData, useCapture, 
 }
 
 function _emscripten_set_orientationchange_callback_on_thread(userData, useCapture, callbackfunc, targetThread) {
-    if (!screen || !screen.addEventListener) return -1;
-    __registerOrientationChangeEventCallback(screen, userData, useCapture, callbackfunc, 18, "orientationchange", targetThread);
+    if (!screen || !screen.orientation.addEventListener) return -1;
+    __registerOrientationChangeEventCallback(screen.orientation, userData, useCapture, callbackfunc, 18, "orientationchange", targetThread);
     return 0
 }
 
