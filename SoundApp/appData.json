@@ -1,5 +1,5 @@
 {
-  "updatedAt": "1562306767",
+  "updatedAt": "1562306768",
   "sounds": [
     {
         "name": "1\nВообще похуй",
@@ -47,6 +47,12 @@
       "url": "noYou.wav",
       "color": "green",
       "volume": 10.0
+    },
+    {
+      "name": "9\nКВД",
+      "url": "kvd.wav",
+      "color": "green",
+      "volume": 15.0
     }
   ]
 }
