@@ -25,6 +25,16 @@
         "url": "airhorn.mp3",
         "color": "red",
         "volume": 0.6
+    },
+    {
+      "name": "Иди нахуй",
+      "url": "goNahui.mp3",
+      "color": "green"
+    },
+    {
+      "name": "Сам иди ^_^",
+      "url": "noYouGoNahui.mp3",
+      "color": "green"
     }
   ]
 }
