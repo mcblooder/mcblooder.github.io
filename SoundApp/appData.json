@@ -1,5 +1,5 @@
 {
-  "updatedAt": "1562306768",
+  "updatedAt": "1562306769",
   "sounds": [
     {
         "name": "1\nВообще похуй",
@@ -20,9 +20,9 @@
         "volume": 5.0
     },
     {
-        "name": "4\nLook at this DUDE",
-        "url": "lookAtThisDude.wav",
-        "volume": 3.0
+        "name": "4\nВы по записи?",
+        "url": "zapis.wav",
+        "volume": 6.0
     },
     {
         "name": "5\nAirhorn",
