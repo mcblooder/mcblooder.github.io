@@ -1,5 +1,5 @@
 {
-  "updatedAt": "1562306769",
+  "updatedAt": "1562306770",
   "sounds": [
     {
         "name": "1\nВообще похуй",
@@ -53,6 +53,12 @@
       "url": "kvd.wav",
       "color": "green",
       "volume": 15.0
+    },
+    {
+      "name": "10\nВылетающий мусор",
+      "url": "garbarge.mp3",
+      "color": "yellow",
+      "volume": 10.0
     }
   ]
 }
