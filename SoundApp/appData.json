@@ -1,5 +1,5 @@
 {
-  "updatedAt": "1562306772",
+  "updatedAt": "1562306774",
   "sounds": [
     {
         "name": "1\nВообще похуй",
@@ -65,6 +65,12 @@
       "url": "dontGiveAFuck.wav",
       "color": "yellow",
       "volume": 10.0
+    },
+    {
+      "name": "12\nПиздец, нахуй, блять",
+      "url": "phb.wav",
+      "color": "yellow",
+      "volume": 4.0
     }
   ]
 }
