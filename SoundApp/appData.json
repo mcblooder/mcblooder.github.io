@@ -1,5 +1,5 @@
 {
-  "updatedAt": "1562306777",
+  "updatedAt": "1562306780",
   "sounds": [
     {
         "name": "1\nВообще похуй",
@@ -20,9 +20,9 @@
         "volume": 5.0
     },
     {
-        "name": "4\nВы по записи?",
-        "url": "zapis.wav",
-        "volume": 6.0
+        "name": "4\nКакой пиздец",
+        "url": "pizdec.wav",
+        "volume": 15.0
     },
     {
         "name": "5\nAirhorn",
@@ -67,10 +67,10 @@
       "volume": 10.0
     },
     {
-      "name": "12\nПиздецнахуйблять",
+      "name": "12\nПиздецнахуйблять!",
       "url": "phb.wav",
       "color": "yellow",
-      "volume": 0.8
+      "volume": 1.25
     }
   ]
 }
