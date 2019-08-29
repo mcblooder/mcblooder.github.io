@@ -1,5 +1,5 @@
 {
-  "updatedAt": "1562306774",
+  "updatedAt": "1562306775",
   "sounds": [
     {
         "name": "1\nВообще похуй",
@@ -70,7 +70,7 @@
       "name": "12\nПиздец, нахуй, блять",
       "url": "phb.wav",
       "color": "yellow",
-      "volume": 4.0
+      "volume": 1.0
     }
   ]
 }
