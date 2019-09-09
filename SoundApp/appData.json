@@ -1,5 +1,5 @@
 {
-  "updatedAt": "1562306780",
+  "updatedAt": "1562306781",
   "sounds": [
     {
         "name": "1\nВообще похуй",
@@ -22,7 +22,7 @@
     {
         "name": "4\nКакой пиздец",
         "url": "pizdec.wav",
-        "volume": 15.0
+        "volume": 12.0
     },
     {
         "name": "5\nAirhorn",
