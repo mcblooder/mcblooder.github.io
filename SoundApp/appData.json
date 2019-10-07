@@ -1,5 +1,5 @@
 {
-  "updatedAt": "1562306782",
+  "updatedAt": "1562306783",
   "sounds": [
     {
         "name": "1\nВообще похуй",
@@ -49,10 +49,10 @@
       "volume": 10.0
     },
     {
-      "name": "9\nОй все",
-      "url": "oyVso.mp3",
+      "name": "9\nКВД",
+      "url": "kvd.wav",
       "color": "green",
-      "volume": 10.0
+      "volume": 15.0
     },
     {
       "name": "10\nВылетающий мусор",
