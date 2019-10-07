@@ -20,7 +20,7 @@
         "volume": 5.0
     },
     {
-        "name": "4\Ясна панятна",
+        "name": "4\nЯсна панятна",
         "url": "yasnaPanyatna.mp3",
         "volume": 10.0
     },
@@ -49,7 +49,7 @@
       "volume": 10.0
     },
     {
-      "name": "9\Ой все",
+      "name": "9\nОй все",
       "url": "oyVso.mp3",
       "color": "green",
       "volume": 10.0
@@ -67,7 +67,7 @@
       "volume": 10.0
     },
     {
-      "name": "12\Ладна!",
+      "name": "12\nЛадна!",
       "url": "ladna.mp3",
       "color": "yellow",
       "volume": 10.0
