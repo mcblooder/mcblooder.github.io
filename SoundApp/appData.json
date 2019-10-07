@@ -1,5 +1,5 @@
 {
-  "updatedAt": "1562306781",
+  "updatedAt": "1562306782",
   "sounds": [
     {
         "name": "1\nВообще похуй",
@@ -20,9 +20,9 @@
         "volume": 5.0
     },
     {
-        "name": "4\nКакой пиздец",
-        "url": "pizdec.wav",
-        "volume": 12.0
+        "name": "4\Ясна панятна",
+        "url": "yasnaPanyatna.mp3",
+        "volume": 10.0
     },
     {
         "name": "5\nAirhorn",
@@ -49,10 +49,10 @@
       "volume": 10.0
     },
     {
-      "name": "9\nКВД",
-      "url": "kvd.wav",
+      "name": "9\Ой все",
+      "url": "oyVso.mp3",
       "color": "green",
-      "volume": 15.0
+      "volume": 10.0
     },
     {
       "name": "10\nВылетающий мусор",
@@ -67,10 +67,10 @@
       "volume": 10.0
     },
     {
-      "name": "12\nПиздецнахуйблять!",
-      "url": "phb.wav",
+      "name": "12\Ладна!",
+      "url": "ladna.mp3",
       "color": "yellow",
-      "volume": 1.25
+      "volume": 10.0
     }
   ]
 }
