@@ -1,5 +1,5 @@
 {
-  "updatedAt": "1562306783",
+  "updatedAt": "1562306784",
   "sounds": [
     {
         "name": "1\nВообще похуй",
@@ -20,8 +20,8 @@
         "volume": 5.0
     },
     {
-        "name": "4\nЯсна панятна",
-        "url": "yasnaPanyatna.mp3",
+        "name": "4\Митинг",
+        "url": "goMeeting.mp3",
         "volume": 10.0
     },
     {
