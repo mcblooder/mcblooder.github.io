@@ -14,10 +14,10 @@
         "volume": 5.0
     },
     {
-        "name": "3\nБолит и болит",
-        "url": "painsAndPains.mp3",
+        "name": "3\nЧтобы что?",
+        "url": "forWhat.wav",
         "color": "orange",
-        "volume": 5.0
+        "volume": 10.0
     },
     {
         "name": "4\nМитинг",
