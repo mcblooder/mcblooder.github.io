@@ -1,5 +1,5 @@
 {
-  "updatedAt": "1562306785",
+  "updatedAt": "1562306786",
   "sounds": [
     {
         "name": "1\nВообще похуй",
@@ -17,7 +17,7 @@
         "name": "3\nЧтобы что?",
         "url": "forWhat.wav",
         "color": "orange",
-        "volume": 10.0
+        "volume": 6.0
     },
     {
         "name": "4\nМитинг",
