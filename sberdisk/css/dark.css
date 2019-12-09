@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+}
+
+.card {
+  --box-shadow-color: rgba(28.0, 28.0, 30.0, 1.0);
+}
+
+.inner-content {
+  background-color: rgb(28.0, 28.0, 30.0);
+}
+
+.description {
+  color: white;
+}
+
+.gradient {
+	background: linear-gradient(135deg, #295CC2, #7045AB);
+}
+
+.gradient.green {
+  background: linear-gradient(135deg, #007700, #00723C);
+}
+
+.title {
+	color: rgb(227.0, 227.0, 225.0);
+}

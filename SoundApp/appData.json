@@ -1,5 +1,5 @@
 {
-  "updatedAt": "1562306767",
+  "updatedAt": "1562306792",
   "sounds": [
     {
         "name": "1\nВообще похуй",
@@ -14,15 +14,15 @@
         "volume": 5.0
     },
     {
-        "name": "3\nБолит и болит",
-        "url": "painsAndPains.mp3",
+        "name": "3\nРейз консёрн?",
+        "url": "raiseConcern.wav",
         "color": "orange",
         "volume": 5.0
     },
     {
-        "name": "4\nLook at this DUDE",
-        "url": "lookAtThisDude.wav",
-        "volume": 3.0
+        "name": "4\nМитинг",
+        "url": "goMeeting.mp3",
+        "volume": 10.0
     },
     {
         "name": "5\nAirhorn",
@@ -46,6 +46,30 @@
       "name": "8\nНет, ты",
       "url": "noYou.wav",
       "color": "green",
+      "volume": 10.0
+    },
+    {
+      "name": "9\nКВД",
+      "url": "kvd.wav",
+      "color": "green",
+      "volume": 15.0
+    },
+    {
+      "name": "10\nВылетающий мусор",
+      "url": "garbarge.mp3",
+      "color": "yellow",
+      "volume": 10.0
+    },
+    {
+      "name": "11\nМне похуй",
+      "url": "dontGiveAFuck.wav",
+      "color": "yellow",
+      "volume": 10.0
+    },
+    {
+      "name": "12\nЛадна!",
+      "url": "ladna.mp3",
+      "color": "yellow",
       "volume": 10.0
     }
   ]
