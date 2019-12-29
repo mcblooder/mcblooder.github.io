@@ -1,0 +1,27 @@
+body {
+  background-color: white;
+}
+
+.card {
+  --box-shadow-color: rgba(0, 0, 0, 0.1);
+}
+
+.inner-content {
+  background-color: #fff;
+}
+
+.description {
+  color: black;
+}
+
+.gradient {
+	background: linear-gradient(135deg, #6e8efb, #a777e3);
+}
+
+.gradient.green {
+  background: linear-gradient(135deg, #33ad33, #22a76c);
+}
+
+.title {
+	color: white;
+}
