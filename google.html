@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>Big bro is watching you</title>
+   <meta charset="utf-8">
+   <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+
+     <script src="http://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="http://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="https://api-maps.yandex.ru/2.1/?apikey=3d7e5b82-4a8b-434b-b50b-885c6c4fb80f&lang=ru_RU" type="text/javascript"> </script>
+  <script type="text/javascript">
+  
+		let moveCamera = true;
+  
+		$( document ).ready(function() {
+			console.log("READY");
+			$( "#play" ).button({
+				icon: "ui-icon-play"
+			});
+			
+			$('#moveCamera').prop('checked', moveCamera);
+			$('#moveCamera').change(function() {
+				moveCamera = this.checked;
+			});
+		});
+	
+		let person;
+		let locations;
+		let start;
+		let end;
+		let myMap;
+		let isSliding = false;
+		
+		ymaps.ready(init);
+		function init(){
+			// Создание карты.
+			myMap = new ymaps.Map("map", {
+				center: [56.473270, 84.981419],
+				zoom: 13
+			});
+			
+			person = new ymaps.GeoObject({
+				geometry: {
+					type: "Point",
+					coordinates: [0, 0]
+				},
+
+			}, {
+				preset: 'islands#blueCircleDotIconWithCaption',
+			});
+			
+			myMap.geoObjects
+				.add(person)
+		}
+		
+	function readSingleFile(e) {
+	console.log("readSingleFile");
+	  var file = $(e).prop("files")[0];
+	  if (!file) {
+		return;
+	  }
+	  var reader = new FileReader();
+	  reader.onload = function(e) {
+		var contents = e.target.result;
+		displayContents(contents);
+	  };
+	  reader.readAsText(file);
+	}
+
+	function dateToString(date) {
+        let hours = date.getHours();
+        let minutes = date.getMinutes();
+        let seconds = date.getSeconds();
+        let day = date.getDate();
+        let month = date.getMonth();
+        let year = date.getFullYear();
+        return day + "." + month + "." + year + " " + hours + ":" + minutes + ":" + seconds;
+    }
+
+	let isPlaying = false;
+	let position = 0;
+	
+	function playPause() {
+		isPlaying = !isPlaying;
+		$( "#play" ).button( "option", "icon", isPlaying ? "ui-icon-pause" : "ui-icon-play");
+	}
+	
+	function playLoop() {
+		if (isPlaying == false || isSliding) {
+			return;
+		}
+		if (position >= locations.length - 1) {
+			playPause();
+			return;
+		}
+		let timestamp = locations[position++].timestampMs-0;
+		$("#slider").slider( "option", "value", position);
+		setTime(timestamp);
+	}
+
+	function closest(list, x) {
+		var min,
+			chosen = 0;
+		for (var i in list) {
+			min = Math.abs(list[chosen].timestampMs-0 - x);
+			if (Math.abs(list[i].timestampMs-0 - x) < min) {
+				chosen = i;
+			}
+		}
+		return chosen;
+	}
+
+	function setTime(timestampMs, isSlider = false) {
+		let index = closest(locations, timestampMs);
+		const frame = locations[index];
+		
+		if (isSlider) {
+			position = index-0;
+		}
+		
+		const datetime = new Date(frame.timestampMs-0);
+		
+		let lat = frame.latitudeE7;
+		let lon = frame.longitudeE7;
+		
+		if ( lat > 900000000 ) {
+			lat = lat - lon
+		}
+		if ( lon > 1800000000) {
+			lon = lon - 4294967296;
+		}
+		
+		lat = lat / 1e7;
+		lon = lon / 1e7;
+		
+		person.geometry.setCoordinates([lat, lon]);
+		if (moveCamera) {
+			myMap.setCenter([lat, lon]);
+		}
+		
+		$('#currentTime').html(datetime.toLocaleString("ru-RU", {timeZone: "Asia/Tomsk"}));
+		$('#position').html(`${position}/${locations.length - 1}`);
+		if (frame.activity !== undefined) {
+			$('#activity').html(frame.activity[0].activity[0].type);
+		}
+	}
+	
+	function displayContents(contents) {
+	  locations = JSON.parse(contents)["locations"].filter(function(location) {
+		if (location.accuracy > 2000) {
+			return false;
+		}
+		if (location.activity === undefined) {
+			return true;
+		}
+		if (location.activity[0].activity[0].type.toLowerCase() == "still") {
+			return false;
+		}
+		if (location.activity[0].activity[0].type.toLowerCase() == "tilting") {
+			return false;
+		}
+		return true;
+	  });
+	  
+	  start = locations[0].timestampMs-0;
+	  end = locations[locations.length - 1].timestampMs-0;
+	  
+	  //let interval = 480000 / locations.length;
+	  let interval = ((end - start) / locations.length) / 60000;
+	  console.log("Interval::", interval);
+	  setInterval(playLoop, interval);
+	  
+	  console.log(start, end, locations.length);
+	  $("#slider").slider({
+		max: locations.length - 1,
+		min: 0,
+		slide: function( event, ui ) {
+			let timestamp = locations[ui.value].timestampMs-0;
+			setTime(timestamp, true);
+		},
+		stop: function( event, ui ) {
+			isSliding = false;
+		},
+		start: function( event, ui ) {
+			isSliding = true;
+		}
+	  });
+	}
+  </script>
+
+ </head>
+ <body>
+  <input type="file" id="file-input" onchange="readSingleFile(this)"/>
+<input type="checkbox" id="moveCamera">Move camera</input>
+<pre id="file-content"></pre>
+
+<div style="display: flex; width: 100%; align-items: center; justify-content: center;">
+	<button id="play" onClick="playPause()" style="width: 54px;"></button> 
+	<div id="slider" style="width: 100%; margin-left: 10px;"></div>
+</div>
+<div id="info" style="display: flex; width: 100%; align-items: center; justify-content: center;">
+<h3 id="activity" style="margin-right: 128px;"></h3>
+<h3 id="currentTime"></h3>
+<p id="position" style="margin-left: 128px;"></p>
+</div>
+
+
+<div id="map" style="width: 100%; height: 90vh;"></div>
+ </body> 
+</html>
