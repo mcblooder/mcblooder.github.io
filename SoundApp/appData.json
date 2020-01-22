@@ -1,5 +1,5 @@
 {
-  "updatedAt": "1562306795",
+  "updatedAt": "1562306796",
   "sounds": [
     {
         "name": "1\nДиман идёт нахуй",
@@ -14,10 +14,10 @@
         "volume": 5.0
     },
     {
-        "name": "3\nAirhorn2?",
-        "url": "airhorn2.mp3",
+        "name": "3\nДиман?",
+        "url": "iDontCare.mp3",
         "color": "orange",
-        "volume": 0.4
+        "volume": 5.0
     },
     {
         "name": "4\nМитинг",
