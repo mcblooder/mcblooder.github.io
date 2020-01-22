@@ -1,11 +1,11 @@
 {
-  "updatedAt": "1562306796",
+  "updatedAt": "1562306799",
   "sounds": [
     {
         "name": "1\nДиман идёт нахуй",
         "url": "trash.wav",
         "color": "orange",
-        "volume": 10.0
+        "volume": 6.0
     },
     {
         "name": "2\nПО-ХУ-Ю",
