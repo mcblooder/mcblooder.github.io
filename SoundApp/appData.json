@@ -1,11 +1,11 @@
 {
-  "updatedAt": "1562306792",
+  "updatedAt": "1562306795",
   "sounds": [
     {
-        "name": "1\nВообще похуй",
-        "url": "iDontCare.mp3",
+        "name": "1\nДиман идёт нахуй",
+        "url": "trash.wav",
         "color": "orange",
-        "volume": 5.0
+        "volume": 10.0
     },
     {
         "name": "2\nПО-ХУ-Ю",
