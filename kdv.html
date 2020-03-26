@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  h2 { font-weight:normal; }
+  input {
+    width: 256px;
+    height: 44px;
+    font-size: 24pt;
+  }
+  button {
+    width: 256px;
+    height: 44px;
+  }
+</style>
+<script type="text/javascript">
+
+  //hardcoded for now
+  const holidays2020 = [
+    new Date(2020, 3-1, 9),
+    new Date(2020, 4-1, 22),
+    new Date(2020, 5-1, 1),
+    new Date(2020, 5-1, 4),
+    new Date(2020, 5-1, 5),
+    new Date(2020, 5-1, 11),
+    new Date(2020, 6-1, 12),
+    new Date(2020, 11-1, 4)
+  ];
+
+  function datesEqual(a, b)
+  {
+     return +a == +b;
+  }
+
+  function calc() {
+    const salary = document.getElementById("salary").value; // haha, const salary...
+    const now = new Date();
+    const year = now.getFullYear();
+    const month = now.getMonth();
+    const daysInMonth = new Date(year, month+1, 0).getDate();
+
+    var prepaidWorkDays = 0;
+    var balanceWorkDays = 0;
+
+    for (var i = 1; i <= daysInMonth; ++i) {
+      const day = new Date(year, month, i);
+      const dayOfWeek = day.getDay();
+      if (dayOfWeek != 0 && dayOfWeek != 6) {
+
+        var skip = false;
+
+        for (var j = 0; j < holidays2020.length; ++j) {
+          if (datesEqual(holidays2020[j], day)) {
+            skip = true;
+            break;
+          }
+        }
+
+        if (skip == false) {
+          if (i <= 15) {
+            prepaidWorkDays += 1;
+          } else {
+            balanceWorkDays += 1;
+          }
+        }
+      }
+    }
+
+    //До 15 марта было 9 рабочих дней, а с 16 марта - 12 рабочих дней. Вот и аванс дали как 9/(9+12)=42,857% от з/п. Или на 14,3% меньше половины з/п.
+    const totalWorkDays = prepaidWorkDays+balanceWorkDays;
+    prepaid = salary * (prepaidWorkDays / totalWorkDays);
+
+    document.getElementById("prepaid").innerHTML = "Prepaid";
+    document.getElementById("prepaidValue").innerHTML = prepaid;
+
+    document.getElementById("balance").innerHTML = "Balance";
+    document.getElementById("balanceValue").innerHTML = salary - prepaid;
+
+  }
+</script>
+<center>
+  <img src="kvd.jpeg"></img>
+  <br><br><br>
+  <p>Salary</p>
+  <br>
+  <input type="number" id="salary" min="0">
+  <br><br>
+  <button type="button" name="button" onclick="calc() ">calc</button>
+  <br><br>
+  <h1><p id="prepaid"></p></h1><br>
+  <h2><p id="prepaidValue"><p></h2>
+  <br>
+  <h1><p id="balance"></p></h1><br>
+  <h2><p id="balanceValue"><p></h2>
+  <br>
+</center>
+</body>
+</html>
