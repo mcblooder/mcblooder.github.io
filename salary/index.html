@@ -39,18 +39,34 @@
      return +a == +b;
   }
 
+  const now = new Date();
+  const year = now.getFullYear();
+  const month = now.getMonth();
+  const daysInMonth = new Date(year, month + 1, 0).getDate();
+
+  function ready() {
+    const select = document.getElementById("months");
+    for (var i = 1; i<= 12; i++) {
+      const month = new Date(0, i, 0);
+      var opt = document.createElement('option');
+      opt.value = i;
+      opt.innerHTML = month.toLocaleString('default', { month: 'long' });
+      select.appendChild(opt);
+    }
+    select.value = month + 1;
+  }
+
+  document.addEventListener("DOMContentLoaded", ready);
+
   function calc() {
     const salary = document.getElementById("salary").value; // haha, const salary...
-    const now = new Date();
-    const year = now.getFullYear();
-    const month = now.getMonth();
-    const daysInMonth = new Date(year, month+1, 0).getDate();
+    const monthSelect = document.getElementById("months");
 
     var prepaidWorkDays = 0;
     var balanceWorkDays = 0;
 
     for (var i = 1; i <= daysInMonth; ++i) {
-      const day = new Date(year, month, i);
+      const day = new Date(year, monthSelect.value - 1, i);
       const dayOfWeek = day.getDay();
       if (dayOfWeek != 0 && dayOfWeek != 6) {
 
@@ -91,6 +107,8 @@
   <p>Salary</p>
   <br>
   <input type="number" id="salary" min="0">
+  <br><br>
+  <select id="months"></select>
   <br><br>
   <button type="button" name="button" onclick="calc() ">calc</button>
   <br><br>
