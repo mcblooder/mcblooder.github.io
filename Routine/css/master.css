@@ -8,6 +8,7 @@ body, html {
   width: 100%;
   height: auto;
   margin: auto;
+  padding-top: 5vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,21 +16,20 @@ body, html {
 
 #timer {
   color: white;
-  font-size: 15vw;
+  font-size: 10vw;
 }
 
 #counter {
   color: white;
-  font-size: 15vw;
+  font-size: 10vw;
 }
 
 #space {
   width: 10%;
 }
 
-#modes {
-  margin: auto;
-  display: flex;
+#plan {
+  text-align: center;
 }
 
 label {

@@ -82,27 +82,20 @@ function run() {
   counter = 0;
   $("#counter").css("color", "rgb(255, 159, 10)");
   setInterval(function() {
-    runChecks();
+    //runChecks();
     elapsedTime = (Date.now() - startTime) / 1000;
-    $("#timer").html(elapsedTime.toFixed(2));
-  }, 10);
+    const minutes = `${Math.floor(elapsedTime / 60)}`.padStart(2, "0");
+    const seconds = `${(elapsedTime - minutes * 60).toFixed(0)}`.padStart(2, "0");
+    $("#timer").html(`${minutes}:${seconds}`);
+  }, 100);
 }
+
+const plan = [(7, 0), (5, 1), (30, 2), (10, 0)]
 
 function runChecks() {
   var restTime = 0;
   var workTime = 0;
-  switch (mode) {
-    case Mode.Basic:
-      restTime = 15;
-      workTime = 45;
-      break;
-    case Mode.Kg:
-      restTime = 5;
-      workTime = 5;
-      break;
-    default:
-      console.log("Unknown run mode");
-  }
+
   if (state == State.Work && elapsedTime >= (workTime / 2.0)) {
     if (lastPlayedSound != Sound.swap) {
       Sound.swap.start();
