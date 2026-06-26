@@ -50,7 +50,50 @@
       "type": "table",
       "rows": [
         [
-          "DENSO SRS unit records two DTCs B0001-11 and B0010-11 simultaneously in the event of a body short circuit fault"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Ground fault in cord between SRS unit and driver's airbag inflator (RA1+, RA1- lines) or ground fault in cord between SRS unit and passenger airbag inflator (LA1+, LA1- lines) Driver airbag internal failure (driver airbag inflator) or passenger airbag internal failure (passenger airbag inflator) SRS unit internal circuit failure"
+          }
+        ],
+        [
+          {
+            "text": "DENSO SRS unit records two DTCs B0001-11 and B0010-11 simultaneously in the event of a body short circuit fault",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -58,16 +101,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Ground fault in cord between SRS unit and driver's airbag inflator (RA1+, RA1- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Driver's airbag internal failure (driver's airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Ground fault in cord between SRS unit and driver's airbag inflator (RA1+, RA1- lines) Driver's airbag internal failure (driver's airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -75,7 +146,50 @@
       "type": "table",
       "rows": [
         [
-          "DENSO SRS unit records two DTCs B0001-12 and B0010-12 simultaneously in the event of a power short circuit fault"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Cord ceiling fault between SRS unit and driver's airbag inflator (RA1+, RA1- lines) or cord ceiling fault between SRS unit and front passenger airbag inflator (LA1+, LA1- lines) Driver's airbag internal failure (driver's airbag inflator) SRS unit internal circuit failure"
+          }
+        ],
+        [
+          {
+            "text": "DENSO SRS unit records two DTCs B0001-12 and B0010-12 simultaneously in the event of a power short circuit fault",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -83,16 +197,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Cord ceiling fault between SRS unit and driver's airbag inflator (RA1+, RA1- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Driver's airbag internal failure (driver's airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Cord ceiling fault between SRS unit and driver's airbag inflator (RA1+, RA1- lines) Driver's airbag internal failure (driver's airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -100,16 +242,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection or poor contact of cord between SRS unit and driver's airbag inflator (RA1+, RA1- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Driver's airbag internal failure (driver's airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection or poor contact of cord between SRS unit and driver's airbag inflator (RA1+, RA1- lines) Driver's airbag internal failure (driver's airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -117,16 +287,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Short circuit or poor contact between wires in cord between SRS unit and driver's airbag inflator (RA1+, RA1- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Driver's airbag internal failure (driver's airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Short circuit or poor contact between wires in cord between SRS unit and driver's airbag inflator (RA1+, RA1- lines) Driver's airbag internal failure (driver's airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -134,16 +332,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Ground fault in cord between SRS unit and passenger airbag inflator (LA1+, LA1- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Passenger airbag internal failure (passenger airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Ground fault in cord between SRS unit and passenger airbag inflator (LA1+, LA1- lines) Passenger airbag internal failure (passenger airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -151,12 +377,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Cord ceiling fault between SRS unit and passenger airbag inflator (LA1+, LA1- line)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Cord ceiling fault between SRS unit and passenger airbag inflator (LA1+, LA1- line) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -164,16 +422,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection or poor contact of cord between SRS unit and passenger airbag inflator (LA1+, LA1- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Passenger airbag internal failure (passenger airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection or poor contact of cord between SRS unit and passenger airbag inflator (LA1+, LA1- lines) Passenger airbag internal failure (passenger airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -181,16 +467,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Short circuit or poor contact between wires in cord between SRS unit and passenger airbag inflator (LA1+, LA1- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Passenger airbag internal failure (passenger airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Short circuit or poor contact between wires in cord between SRS unit and passenger airbag inflator (LA1+, LA1- lines) Passenger airbag internal failure (passenger airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -198,16 +512,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Ground fault in cord between SRS unit and passenger side airbag inflator (LSA+, LSA- line)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Passenger side airbag internal failure (passenger side airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Ground fault in cord between SRS unit and passenger side airbag inflator (LSA+, LSA- line) Passenger side airbag internal failure (passenger side airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -215,12 +557,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Tensioning of cord between SRS unit and passenger side airbag inflator (LSA+, LSA- line)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Tensioning of cord between SRS unit and passenger side airbag inflator (LSA+, LSA- line) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -228,16 +602,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection or poor contact of the cord between the SRS unit and the passenger side airbag inflator (LSA+, LSA- line)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Passenger side airbag internal failure (passenger side airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection or poor contact of the cord between the SRS unit and the passenger side airbag inflator (LSA+, LSA- line) Passenger side airbag internal failure (passenger side airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -245,16 +647,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Short circuit or poor contact between wires in cord between SRS unit and passenger side airbag inflator (LSA+, LSA- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Passenger side airbag internal failure (passenger side airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Short circuit or poor contact between wires in cord between SRS unit and passenger side airbag inflator (LSA+, LSA- lines) Passenger side airbag internal failure (passenger side airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -262,16 +692,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Ground fault in cord between SRS unit and left side curtain airbag inflator (LCA+, LCA- line)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Left side curtain airbag internal failure (left side curtain airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Ground fault in cord between SRS unit and left side curtain airbag inflator (LCA+, LCA- line) Left side curtain airbag internal failure (left side curtain airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -279,12 +737,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Cord tangling between SRS unit and left side curtain airbag inflator (LCA+, LCA- line)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Cord tangling between SRS unit and left side curtain airbag inflator (LCA+, LCA- line) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -292,16 +782,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection or poor contact of cord between SRS unit and left side curtain airbag inflator (LCA+, LCA- line)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Left side curtain airbag internal failure (left side curtain airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection or poor contact of cord between SRS unit and left side curtain airbag inflator (LCA+, LCA- line) Left side curtain airbag internal failure (left side curtain airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -309,16 +827,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Short circuit or poor contact (LCA+, LCA- line) between wires of cord between SRS unit and left side curtain airbag inflator"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Left side curtain airbag internal failure (left side curtain airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Short circuit or poor contact (LCA+, LCA- line) between wires of cord between SRS unit and left side curtain airbag inflator Left side curtain airbag internal failure (left side curtain airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -326,16 +872,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Ground fault in cord between SRS unit and driver's side airbag inflator (RSA+, RSA- line)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Driver's side airbag internal failure (driver's side airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Ground fault in cord between SRS unit and driver's side airbag inflator (RSA+, RSA- line) Driver's side airbag internal failure (driver's side airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -343,12 +917,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Tensioning of cord between SRS unit and driver's side airbag inflator (RSA+, RSA- line)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Tensioning of cord between SRS unit and driver's side airbag inflator (RSA+, RSA- line) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -356,16 +962,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection or poor contact of the cord between the SRS unit and the driver's side airbag inflator (RSA+, RSA- line)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Driver's side airbag internal failure (driver's side airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection or poor contact of the cord between the SRS unit and the driver's side airbag inflator (RSA+, RSA- line) Driver's side airbag internal failure (driver's side airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -373,16 +1007,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Short circuit or poor contact (RSA+, RSA- line) between wires of cord between SRS unit and driver's side airbag inflator"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Driver's side airbag internal failure (driver's side airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Short circuit or poor contact (RSA+, RSA- line) between wires of cord between SRS unit and driver's side airbag inflator Driver's side airbag internal failure (driver's side airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -390,16 +1052,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Ground fault in cord between SRS unit and right side curtain airbag inflator (RCA+, RCA- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Right side curtain airbag internal failure (right side curtain airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Ground fault in cord between SRS unit and right side curtain airbag inflator (RCA+, RCA- lines) Right side curtain airbag internal failure (right side curtain airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -407,12 +1097,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Cord tangling between SRS unit and right side curtain airbag inflator (RCA+, RCA- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Cord tangling between SRS unit and right side curtain airbag inflator (RCA+, RCA- lines) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -420,16 +1142,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection or poor contact of cord between SRS unit and right side curtain airbag inflator (RCA+, RCA- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Right side curtain airbag internal failure (right side curtain airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection or poor contact of cord between SRS unit and right side curtain airbag inflator (RCA+, RCA- lines) Right side curtain airbag internal failure (right side curtain airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -437,16 +1187,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Short circuit or poor contact (RCA+, RCA- lines) between wires of cord between SRS unit and right side curtain airbag inflator"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Right side curtain airbag internal failure (right side curtain airbag inflator)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Short circuit or poor contact (RCA+, RCA- lines) between wires of cord between SRS unit and right side curtain airbag inflator Right side curtain airbag internal failure (right side curtain airbag inflator) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -454,7 +1232,50 @@
       "type": "table",
       "rows": [
         [
-          "DENSO SRS unit records two DTCs B0070-11 and B0072-11 simultaneously in the event of a body short circuit fault"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Ground fault in cord between SRS unit and driver's seat belt pretensioner (RRP+, RRP- line) or ground fault in cord between SRS unit and passenger seat belt pretensioner (LRP+, LRP- line) Driver seat belt internal failure (driver seat belt pretensioner) or passenger seat belt internal failure (passenger seat belt pretensioner) SRS unit internal circuit failure"
+          }
+        ],
+        [
+          {
+            "text": "DENSO SRS unit records two DTCs B0070-11 and B0072-11 simultaneously in the event of a body short circuit fault",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -462,16 +1283,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Ground fault in cord between SRS unit and driver's seat belt pretensioner (RRP+, RRP- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Driver's seat belt internal failure (driver's seat belt pretensioner)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Ground fault in cord between SRS unit and driver's seat belt pretensioner (RRP+, RRP- lines) Driver's seat belt internal failure (driver's seat belt pretensioner) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -479,7 +1328,50 @@
       "type": "table",
       "rows": [
         [
-          "DENSO SRS unit records two DTCs B0070-12 and B0072-12 simultaneously in the event of a power short circuit fault"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Cord ceiling fault between SRS unit and driver's seat belt pretensioner (RRP+, RRP- line) or cord ceiling fault between SRS unit and front passenger seat belt pretensioner (LRP+, LRP- line) SRS unit internal circuit failure"
+          }
+        ],
+        [
+          {
+            "text": "DENSO SRS unit records two DTCs B0070-12 and B0072-12 simultaneously in the event of a power short circuit fault",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -487,12 +1379,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Cord skype between SRS unit and driver's seat belt pretensioner (RRP+, RRP- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Cord skype between SRS unit and driver's seat belt pretensioner (RRP+, RRP- lines) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -500,16 +1424,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection or poor contact of the cord between the SRS unit and the driver's seat belt pretensioner (RRP+, RRP- line)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Driver's seat belt internal failure (driver's seat belt pretensioner)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection or poor contact of the cord between the SRS unit and the driver's seat belt pretensioner (RRP+, RRP- line) Driver's seat belt internal failure (driver's seat belt pretensioner) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -517,16 +1469,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Short circuit or poor contact between wires in the cord between the SRS unit and the driver's seat belt pretensioner (RRP+, RRP- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Driver's seat belt internal failure (driver's seat belt pretensioner)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Short circuit or poor contact between wires in the cord between the SRS unit and the driver's seat belt pretensioner (RRP+, RRP- lines) Driver's seat belt internal failure (driver's seat belt pretensioner) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -534,16 +1514,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Ground fault in cord between SRS unit and passenger seat belt pretensioner (LRP+, LRP- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Front passenger seat belt internal failure (front passenger seat belt pretensioner)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Ground fault in cord between SRS unit and passenger seat belt pretensioner (LRP+, LRP- lines) Front passenger seat belt internal failure (front passenger seat belt pretensioner) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -551,12 +1559,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Tensioning of cords between SRS unit and passenger seat belt pretensioner (LRP+, LRP- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Tensioning of cords between SRS unit and passenger seat belt pretensioner (LRP+, LRP- lines) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -564,16 +1604,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection or poor contact of the cord between the SRS unit and the passenger seat belt pretensioner (LRP+, LRP- line)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Front passenger seat belt internal failure (front passenger seat belt pretensioner)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection or poor contact of the cord between the SRS unit and the passenger seat belt pretensioner (LRP+, LRP- line) Front passenger seat belt internal failure (front passenger seat belt pretensioner) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -581,16 +1649,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Short circuit or poor contact between wires of cord between SRS unit and passenger seat belt pretensioner (LRP+, LRP- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Front passenger seat belt internal failure (front passenger seat belt pretensioner)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Short circuit or poor contact between wires of cord between SRS unit and passenger seat belt pretensioner (LRP+, LRP- lines) Front passenger seat belt internal failure (front passenger seat belt pretensioner) SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -598,20 +1694,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Improper left side impact Improper assembly of sensor 1 (e.g., incorrectly assembled parts)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Improper assembly of SRS units (e.g., incorrectly assembled parts)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "Left side impact Sensor 1 internal failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Improper left side impact Improper assembly of sensor 1 (e.g., incorrectly assembled parts) Improper assembly of SRS units (e.g., incorrectly assembled parts) Left side impact Sensor 1 internal failure SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -619,16 +1739,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "SRS unit and left side Impact Cord breakage between sensor 1, short between wires, ground fault, sky fault, poor contact (LS1+, LS1- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Left side impact Sensor 1 internal failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "SRS unit and left side Impact Cord breakage between sensor 1, short between wires, ground fault, sky fault, poor contact (LS1+, LS1- lines) Left side impact Sensor 1 internal failure SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -636,12 +1784,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Left side impact Sensor 1 internal failure"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Left side impact Sensor 1 internal failure SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -649,20 +1829,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Improper left side impact Improper assembly of sensor 2 (e.g., incorrectly assembled parts)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Improper assembly of SRS units (e.g., incorrectly assembled parts)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "Left side impact Sensor 2 internal failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Improper left side impact Improper assembly of sensor 2 (e.g., incorrectly assembled parts) Improper assembly of SRS units (e.g., incorrectly assembled parts) Left side impact Sensor 2 internal failure SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -670,16 +1874,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "SRS unit and left side Impact Cord breakage between Sensor 2, shorts between wires, ground fault, sky fault, poor contact (LS2+, LS2- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Left side impact Sensor 2 internal failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "SRS unit and left side Impact Cord breakage between Sensor 2, shorts between wires, ground fault, sky fault, poor contact (LS2+, LS2- lines) Left side impact Sensor 2 internal failure SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -687,12 +1919,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Left side impact Sensor 2 internal failure"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Left side impact Sensor 2 internal failure SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -700,20 +1964,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Improper front impact sensor assembly (e.g., incorrectly assembled parts)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Improper assembly of SRS units (e.g., incorrectly assembled parts)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "Front Impact Sensor internal failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Improper front impact sensor assembly (e.g., incorrectly assembled parts) Improper assembly of SRS units (e.g., incorrectly assembled parts) Front Impact Sensor internal failure SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -721,16 +2009,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection of cord between SRS unit and front impact sensor, short circuit between wires, ground fault, sky fault, poor contact (LFS+, LFS- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Front Impact Sensor internal failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection of cord between SRS unit and front impact sensor, short circuit between wires, ground fault, sky fault, poor contact (LFS+, LFS- lines) Front Impact Sensor internal failure SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -738,12 +2054,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Front Impact Sensor internal failure"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Front Impact Sensor internal failure SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -751,20 +2099,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Improper right side impact Improper assembly of sensor 1 (e.g., incorrectly assembled parts)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Improper assembly of SRS units (e.g., incorrectly assembled parts)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "Right side impact Sensor 1 internal failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Improper right side impact Improper assembly of sensor 1 (e.g., incorrectly assembled parts) Improper assembly of SRS units (e.g., incorrectly assembled parts) Right side impact Sensor 1 internal failure SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -772,16 +2144,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "SRS unit and right side Impact Cord breakage between sensor 1, short between wires, ground fault, sky fault, poor contact (RS1+, RS1- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Right side impact Sensor 1 internal failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "SRS unit and right side Impact Cord breakage between sensor 1, short between wires, ground fault, sky fault, poor contact (RS1+, RS1- lines) Right side impact Sensor 1 internal failure SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -789,12 +2189,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Right side impact Sensor 1 internal failure"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Right side impact Sensor 1 internal failure SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -802,20 +2234,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Improper right side impact Improper assembly of sensor 2 (e.g., incorrectly assembled parts)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Improper assembly of SRS units (e.g., incorrectly assembled parts)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "Right side impact Sensor 2 internal failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Improper right side impact Improper assembly of sensor 2 (e.g., incorrectly assembled parts) Improper assembly of SRS units (e.g., incorrectly assembled parts) Right side impact Sensor 2 internal failure SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -823,59 +2279,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "SRS unit and right side Impact Cord breakage between Sensor 2, short between wires, ground fault, sky fault, poor contact (RS2+, RS2- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "Right side impact Sensor 2 internal failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
-        ]
-      ]
-    },
-    {
-      "type": "table",
-      "rows": [
-        [
-          "",
-          "Right side impact Sensor 2 internal failure"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
-        ]
-      ]
-    },
-    {
-      "type": "table",
-      "rows": [
-        [
-          "",
-          "SRS unit internal circuit failure"
-        ]
-      ]
-    },
-    {
-      "type": "table",
-      "rows": [
-        [
-          "DENSO SRS units record two DTCs B2840-13 and B2841-13 simultaneously in the event of a joint failure."
-        ]
-      ]
-    },
-    {
-      "type": "table",
-      "rows": [
-        [
-          "",
-          "Poor contact of SRS unit Coupler A"
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "SRS unit and right side Impact Cord breakage between Sensor 2, short between wires, ground fault, sky fault, poor contact (RS2+, RS2- lines) Right side impact Sensor 2 internal failure SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -883,12 +2324,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Poor contact of SRS unit coupler B"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
         ],
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Right side impact Sensor 2 internal failure SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -896,8 +2369,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "SRS unit internal circuit failure"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "SRS unit internal circuit failure"
+          }
         ]
       ]
     },
@@ -905,8 +2414,230 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "SRS unit update not completed"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Poor contact of SRS unit Coupler A or SRS unit Coupler B SRS unit internal circuit failure"
+          }
+        ],
+        [
+          {
+            "text": "DENSO SRS units record two DTCs B2840-13 and B2841-13 simultaneously in the event of a joint failure.",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Poor contact of SRS unit Coupler A SRS unit internal circuit failure"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Poor contact of SRS unit coupler B SRS unit internal circuit failure"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "SRS unit internal circuit failure"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10-16V Typical Methods:. 1. Turn ignition to ON mode and wait at least 6 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle SRS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "None"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "SRS unit update not completed"
+          }
         ]
       ]
     }

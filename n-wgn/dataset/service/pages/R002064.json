@@ -35,11 +35,6 @@
       "id": "G002060",
       "label": "Work Precautions",
       "resolved": true
-    },
-    {
-      "id": "T002080",
-      "label": "Select monitor diagnosis in the self-diagnosis menu and perform touch panel adjustment.",
-      "resolved": true
     }
   ],
   "blocks": [
@@ -142,14 +137,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Installation is the reverse of the removal procedure.",
-      "refs": [
-        {
-          "id": "T002080",
-          "label": "Select monitor diagnosis in the self-diagnosis menu and perform touch panel adjustment.",
-          "resolved": true
-        }
-      ]
+      "text": "Installation is the reverse of the removal procedure."
     },
     {
       "type": "attention",

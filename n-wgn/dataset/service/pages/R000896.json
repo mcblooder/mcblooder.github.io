@@ -61,7 +61,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Mode Disconnect the coupler from the motor. Mode Confirm that the motor operates in the DEF side when the positive (+) terminal of the 12V battery is connected to the No. 6 terminal of the motor and the negative (-) terminal is connected to the No. 7 terminal of the motor. (When connected in reverse, the motor should operate in the VENT side.)"
+      "text": "Mode Disconnect the coupler from the motor."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Mode Confirm that the motor operates in the DEF side when the positive (+) terminal of the 12V battery is connected to the No. 6 terminal of the motor and the negative (-) terminal is connected to the No. 7 terminal of the motor. (When connected in reverse, the motor should operate in the VENT side.)"
     },
     {
       "type": "attention",

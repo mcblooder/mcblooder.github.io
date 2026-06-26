@@ -154,24 +154,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Note that pulling the knuckle outward too hard will cause the roller of the driveshaft inboard joint to pull out."
-        },
-        {
-          "text": "Note that pulling the knuckle outward too hard will cause the roller of the driveshaft inboard joint to pull out."
-        },
-        {
-          "text": "When mounting, retain the damper mounting nut (B) and tighten the bolts to the specified torque."
-        },
-        {
-          "text": "When mounting, retain the damper mounting nut (B) and tighten the bolts to the specified torque."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "6. Relay box removal (when removing driver side front damper)",
@@ -237,24 +219,6 @@
       "items": [
         "The damper mounting rubber must be removed without prying, as the damper bearing (C) cap may come off.",
         "If the cap has come off, inspect it for damage and reinstall it on the damper bearing."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The damper mounting rubber must be removed without prying, as the damper bearing (C) cap may come off."
-        },
-        {
-          "text": "The damper mounting rubber must be removed without prying, as the damper bearing (C) cap may come off."
-        },
-        {
-          "text": "If the cap has come off, inspect it for damage and reinstall it on the damper bearing."
-        },
-        {
-          "text": "If the cap has come off, inspect it for damage and reinstall it on the damper bearing."
-        }
       ]
     },
     {

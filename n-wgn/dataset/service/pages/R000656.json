@@ -84,13 +84,35 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Tighten the wheel nut via a flat washer (A) of appropriate thickness to secure the brake disc. Place the dial gauge on the end face of the front hub and shake the brake disc axially to check for rattling of the wheel bearings. Front wheel bearing axial rattling: - Front wheel bearing axial rattling: - Front wheel bearing axial rattling Reference value 0－0.05mm If the measurement results are out of the standard value, Replace wheel bearings.",
+      "text": "Tighten the wheel nut via a flat washer (A) of appropriate thickness to secure the brake disc. Place the dial gauge on the end face of the front hub and shake the brake disc axially to check for rattling of the wheel bearings. If the measurement results are out of the standard value, Replace wheel bearings.",
       "refs": [
         {
           "id": "R000663",
           "label": "Replace wheel bearings.",
           "resolved": true
         }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Front wheel bearing axial rattling: - Front wheel bearing axial rattling: - Front wheel bearing axial rattling",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Reference value"
+          },
+          {
+            "text": "0－0.05mm"
+          }
+        ]
       ]
     },
     {
@@ -145,13 +167,35 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Tighten the wheel nut via a flat washer (A) of appropriate thickness to secure the brake drum. Apply a dial gauge to the center of the hub cap or the hub flange, and shake the brake drum axially to check for rattling of the hub bearing unit. Release the parking brake. Rear hub bearing unit axial misalignment: - Rear hub bearing unit axial misalignment: - Rear hub bearing unit axial misalignment Reference value 0－0.05mm If it is out of the standard value, Replace the hub bearing unit.",
+      "text": "Tighten the wheel nut via a flat washer (A) of appropriate thickness to secure the brake drum. Apply a dial gauge to the center of the hub cap or the hub flange, and shake the brake drum axially to check for rattling of the hub bearing unit. Release the parking brake. If it is out of the standard value, Replace the hub bearing unit.",
       "refs": [
         {
           "id": "R000671",
           "label": "Replace the hub bearing unit.",
           "resolved": true
         }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Rear hub bearing unit axial misalignment: - Rear hub bearing unit axial misalignment: - Rear hub bearing unit axial misalignment",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Reference value"
+          },
+          {
+            "text": "0－0.05mm"
+          }
+        ]
       ]
     },
     {

@@ -54,7 +54,20 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Measure the backlash of the ring gear at four diagonal points. Std. 0.06－0.16mm If it is out of the standard value, replace the rear differential assembly."
+      "text": "Measure the backlash of the ring gear at four diagonal points. If it is out of the standard value, replace the rear differential assembly."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.06－0.16mm"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -68,7 +81,20 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the rear differential case assembly (A) from the rear differential carrier. Install the rear drive shaft (B) to the rear differential case assembly. Install the rear differential case assembly to the V-block (C). Set the dial gauge (E) on the pinion gear (D) to measure the backlash of the pinion gear. Std. 0.05－0.15mm If it is out of the standard value, replace the rear differential assembly."
+      "text": "Remove the rear differential case assembly (A) from the rear differential carrier. Install the rear drive shaft (B) to the rear differential case assembly. Install the rear differential case assembly to the V-block (C). Set the dial gauge (E) on the pinion gear (D) to measure the backlash of the pinion gear. If it is out of the standard value, replace the rear differential assembly."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.05－0.15mm"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",

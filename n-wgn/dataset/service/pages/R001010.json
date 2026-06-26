@@ -63,7 +63,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the coupler (A). While pressing the tab, remove the wiper/washer switch (B)."
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "While pressing the tab, remove the wiper/washer switch (B)."
     },
     {
       "type": "heading",

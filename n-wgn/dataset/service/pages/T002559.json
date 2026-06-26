@@ -16,7 +16,33 @@
   ],
   "assetDir": "assets/T002559",
   "assets": [],
-  "crossRefs": [],
+  "crossRefs": [
+    {
+      "id": "T002560",
+      "label": "Idling Stop System Operation Inspection",
+      "resolved": true
+    },
+    {
+      "id": "T002563",
+      "label": "(Idling stop system failure diagnosis)",
+      "resolved": false
+    },
+    {
+      "id": "T002561",
+      "label": "(Idling Stop System warning light does not turn off)",
+      "resolved": false
+    },
+    {
+      "id": "T002562",
+      "label": "(Idling Stop Indicator Light/Idling Stop System Warning Light does not illuminate)",
+      "resolved": false
+    },
+    {
+      "id": "R000693",
+      "label": "Perform master power function check",
+      "resolved": true
+    }
+  ],
   "blocks": [
     {
       "type": "heading",
@@ -27,24 +53,100 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Check valve (built into the vacuum hose)"
+          {
+            "text": "Symptoms of Occurrence",
+            "header": true
+          },
+          {
+            "text": "Possible Causes",
+            "header": true
+          },
+          {
+            "text": "remarks",
+            "header": true
+          }
         ],
         [
-          "",
-          "Vacuum hoses and pipes"
+          {
+            "text": "Idling Stop System not working"
+          },
+          {
+            "text": "1. Idling Stop System Operation Inspection do 2. Failure Diagnosis by Symptom (Idling stop system failure diagnosis) do",
+            "refs": [
+              {
+                "id": "T002560",
+                "label": "Idling Stop System Operation Inspection",
+                "resolved": true
+              },
+              {
+                "id": "T002563",
+                "label": "(Idling stop system failure diagnosis)",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "",
-          "Vacuum tubing (between master power vacuum hose and master power negative pressure sensor)"
+          {
+            "text": "Idling stop system warning light (orange) stays on and does not turn off"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom (Idling Stop System warning light does not turn off) do",
+            "refs": [
+              {
+                "id": "T002561",
+                "label": "(Idling Stop System warning light does not turn off)",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "",
-          "Master Power"
+          {
+            "text": "Idling stop indicator light (green)/Idling stop system warning light (orange) does not illuminate"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom (Idling Stop Indicator Light/Idling Stop System Warning Light does not illuminate) do",
+            "refs": [
+              {
+                "id": "T002562",
+                "label": "(Idling Stop Indicator Light/Idling Stop System Warning Light does not illuminate)",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "",
-          "Rod seal or secondary cup on master cylinder *NOTE: Hermetic condition (magnitude of leakage) of the above components and idle stop events. A large leakage will result in a non-stop idle event. Small leaks result in events with short idle stop times."
+          {
+            "text": "Short idling stop time"
+          },
+          {
+            "text": "1. Perform master power function check Small leaks in the following parts will not keep the airtight condition and will shorten idle stop time. Check the following parts for leaks. Check valve (built into the vacuum hose) Vacuum hoses and pipes Vacuum tubing (between master power vacuum hose and master power negative pressure sensor) Master Power Rod seal or secondary cup on master cylinder *NOTE: Hermetic condition (magnitude of leakage) of the above components and idle stop events. A large leakage will result in a non-stop idle event. Small leaks result in events with short idle stop times. 2. Failure Diagnosis by Symptom (Idling stop system failure diagnosis) do",
+            "refs": [
+              {
+                "id": "R000693",
+                "label": "Perform master power function check",
+                "resolved": true
+              },
+              {
+                "id": "T002563",
+                "label": "(Idling stop system failure diagnosis)",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
         ]
       ]
     }

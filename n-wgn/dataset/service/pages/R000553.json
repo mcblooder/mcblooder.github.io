@@ -158,13 +158,18 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the snap pin (A) and pull out the control pin (B). Remove the control wire bracket (C) and separate the control wire (D) from the control lever (E). Inspect the bushing (F) at the control wire end for disconnection, wear, or other damage. Replace control wire if damaged."
+      "text": "Remove the snap pin (A) and pull out the control pin (B). Remove the control wire bracket (C) and separate the control wire (D) from the control lever (E)."
     },
     {
       "type": "attention",
       "items": [
         "Do not bend control wires more than necessary."
       ]
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Inspect the bushing (F) at the control wire end for disconnection, wear, or other damage. Replace control wire if damaged."
     },
     {
       "type": "heading",
@@ -218,7 +223,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Apply a thin coat of molybdenum grease to the inside of the control wire end bushing (A). Install the control wire bracket (B). Attach the control wire end with the bushing facing up to the control lever (C) and insert the control pin (D) to secure it in place. Attach the snap pin (F) to the control pin. Install the snap pin (F) onto the control pin securely until the tip of the snap pin (G) comes out of the bottom of the guide (H) on the control lever."
+      "text": "Apply a thin coat of molybdenum grease to the inside of the control wire end bushing (A). Install the control wire bracket (B). Attach the snap pin (F) to the control pin. Install the snap pin (F) onto the control pin securely until the tip of the snap pin (G) comes out of the bottom of the guide (H) on the control lever."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Attach the control wire end with the bushing facing up to the control lever (C) and insert the control pin (D) to secure it in place."
     },
     {
       "type": "attention",

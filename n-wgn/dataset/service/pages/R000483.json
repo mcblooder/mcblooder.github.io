@@ -128,36 +128,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "To avoid damaging the pipe, be sure to pull it out by hand without using any tools. ​"
-        },
-        {
-          "text": "To avoid damaging the pipe, be sure to pull it out by hand without using any tools. ​"
-        },
-        {
-          "text": "If there is sticking between the connector and the pipe (C), push and pull the connector with the retainer pinched by hand until it moves freely before pulling it out."
-        },
-        {
-          "text": "If there is sticking between the connector and the pipe (C), push and pull the connector with the retainer pinched by hand until it moves freely before pulling it out."
-        },
-        {
-          "text": "Do not remove the retainer remaining on the pipe side. ​"
-        },
-        {
-          "text": "Do not remove the retainer remaining on the pipe side. ​"
-        },
-        {
-          "text": "When a retainer is removed from a pipe, it must be replaced with a new retainer. ​"
-        },
-        {
-          "text": "When a retainer is removed from a pipe, it must be replaced with a new retainer. ​"
-        }
-      ]
-    },
-    {
       "type": "figure",
       "asset": "483_3.0_jpn_11582593_3.0_disp.png"
     },
@@ -216,63 +186,6 @@
         "TOKAI",
         "bitter orange (Citrus aurantium)",
         "9.5mm"
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": true,
-      "items": [
-        {
-          "text": "The retainer remaining on the pipe side cannot be reused after removal, and must be replaced with a new one in the following cases ​"
-        },
-        {
-          "text": "The retainer remaining on the pipe side cannot be reused after removal, and must be replaced with a new one in the following cases ​"
-        },
-        {
-          "text": "When replacing the fuel pump"
-        },
-        {
-          "text": "When replacing the fuel pump"
-        },
-        {
-          "text": "When replacing the fuel pump"
-        },
-        {
-          "text": "To replace the fuel filter"
-        },
-        {
-          "text": "To replace the fuel filter"
-        },
-        {
-          "text": "To replace the fuel feed pipe"
-        },
-        {
-          "text": "To replace the fuel feed pipe"
-        },
-        {
-          "text": "When replacing the fuel pipe"
-        },
-        {
-          "text": "When replacing the fuel pipe"
-        },
-        {
-          "text": "When the retainer is removed ​"
-        },
-        {
-          "text": "When the retainer is removed ​"
-        },
-        {
-          "text": "Scratches, damage, etc. to the retainer ​"
-        },
-        {
-          "text": "Scratches, damage, etc. to the retainer ​"
-        },
-        {
-          "text": "Retainers are of different shapes depending on the manufacturer and size, so be sure to use retainers of the same size from the same manufacturer. ​"
-        },
-        {
-          "text": "Retainers are of different shapes depending on the manufacturer and size, so be sure to use retainers of the same size from the same manufacturer. ​"
-        }
       ]
     },
     {
@@ -381,19 +294,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "When replacing the fuel feed tube (A), fuel feed pipe (B), fuel pipe (C) or fuel pump (D), open outward and pull out the remaining retainer (E) on the pipe side or fuel pump side and discard.",
-      "refs": [
-        {
-          "id": "R000412",
-          "label": "Remove the air cleaner",
-          "resolved": true
-        },
-        {
-          "id": "R000418",
-          "label": "Remove intercooler",
-          "resolved": true
-        }
-      ]
+      "text": "When replacing the fuel feed tube (A), fuel feed pipe (B), fuel pipe (C) or fuel pump (D), open outward and pull out the remaining retainer (E) on the pipe side or fuel pump side and discard."
     },
     {
       "type": "list",

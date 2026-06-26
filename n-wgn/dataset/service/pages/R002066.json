@@ -45,19 +45,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the door lining.",
-      "refs": [
-        {
-          "id": "R000720",
-          "label": "Front door lining",
-          "resolved": true
-        },
-        {
-          "id": "R000731",
-          "label": "Rear door lining",
-          "resolved": true
-        }
-      ]
+      "text": "Remove the door lining."
     },
     {
       "type": "list",

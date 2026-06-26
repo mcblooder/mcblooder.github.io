@@ -52,24 +52,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not scratch the instrument panel."
-        },
-        {
-          "text": "Do not scratch the instrument panel."
-        },
-        {
-          "text": "Minus Do not forcefully pry the driver."
-        },
-        {
-          "text": "Minus Do not forcefully pry the driver."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "2. Precautions for installation work"

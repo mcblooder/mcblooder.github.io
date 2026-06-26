@@ -52,7 +52,50 @@
       "type": "table",
       "rows": [
         [
-          "D/C: Drive Cycle"
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "By reproducible testing methods"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: off, D indicator light: flashing"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ],
+        [
+          {
+            "text": "D/C: Drive Cycle",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -65,7 +108,80 @@
       "type": "table",
       "rows": [
         [
-          "[ ]: HDS Parameters"
+          {
+            "text": "condition entry",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Engine RPM [engine rpm].",
+            "colspan": 2
+          },
+          {
+            "text": "500rpm"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Vehicle speed [vehicle speed].",
+            "colspan": 2
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "3km/h"
+          }
+        ],
+        [
+          {
+            "text": "select The lever position"
+          },
+          {
+            "text": "paddle shift switch car without equipment"
+          },
+          {
+            "text": "D, L, R",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "paddle shift switch equipped (with)"
+          },
+          {
+            "text": "D, S, R",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC",
+            "colspan": 2
+          },
+          {
+            "text": "P0502､ P0705､ P0706､ P0716､ P0717､ P0780､ P0792､ P0793､ P0797､ P0962､ P0963､ P0966､ P0967､ P0970､ P0971､ P1898､ P1899､ P2714､ P2715､ P2720､ P2721",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "[ ]: HDS Parameters",
+            "colspan": 4
+          }
         ]
       ]
     },

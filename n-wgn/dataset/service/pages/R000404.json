@@ -65,7 +65,20 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Attach two nuts (A) (JIS B1181 hexagonal low nuts - double-sided fine thread M20 pitch 1.5) to the new oil filter holder and tighten and secure them to each other. Apply engine oil to the oil filter holder threads, tighten to the specified torque, and remove the nut. Torque: 0.5 to 1.0 MPa 35N·m (3.6kgf·m)"
+      "text": "Attach two nuts (A) (JIS B1181 hexagonal low nuts - double-sided fine thread M20 pitch 1.5) to the new oil filter holder and tighten and secure them to each other. Apply engine oil to the oil filter holder threads, tighten to the specified torque, and remove the nut."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Torque: 0.5 to 1.0 MPa"
+          },
+          {
+            "text": "35N·m (3.6kgf·m)"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",

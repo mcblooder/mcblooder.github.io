@@ -105,19 +105,40 @@
       "type": "table",
       "rows": [
         [
-          "position",
-          "standard value",
-          "specified range"
+          {
+            "text": "position",
+            "header": true
+          },
+          {
+            "text": "standard value",
+            "header": true
+          },
+          {
+            "text": "specified range",
+            "header": true
+          }
         ],
         [
-          "D, L",
-          "3,000rpm",
-          "2,850－3,150rpm"
+          {
+            "text": "D, L"
+          },
+          {
+            "text": "3,000rpm"
+          },
+          {
+            "text": "2,850－3,150rpm"
+          }
         ],
         [
-          "R",
-          "3,000rpm",
-          "2,850－3,150rpm"
+          {
+            "text": "R"
+          },
+          {
+            "text": "3,000rpm"
+          },
+          {
+            "text": "2,850－3,150rpm"
+          }
         ]
       ]
     },
@@ -125,19 +146,40 @@
       "type": "table",
       "rows": [
         [
-          "position",
-          "standard value",
-          "specified range"
+          {
+            "text": "position",
+            "header": true
+          },
+          {
+            "text": "standard value",
+            "header": true
+          },
+          {
+            "text": "specified range",
+            "header": true
+          }
         ],
         [
-          "D, S",
-          "2,850rpm",
-          "2,800－2,900rpm"
+          {
+            "text": "D, S"
+          },
+          {
+            "text": "2,850rpm"
+          },
+          {
+            "text": "2,800－2,900rpm"
+          }
         ],
         [
-          "R",
-          "2,850rpm",
-          "2,800－2,900rpm"
+          {
+            "text": "R"
+          },
+          {
+            "text": "2,850rpm"
+          },
+          {
+            "text": "2,800－2,900rpm"
+          }
         ]
       ]
     },
@@ -145,9 +187,38 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "",
-          "Defective oil pump"
+          {
+            "text": "phenomenon",
+            "header": true
+          },
+          {
+            "text": "cause",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Stall RPMs in D, L or S, and R positions are all high"
+          },
+          {
+            "text": "Defective oil pump Clogged oil strainer Defective PH regulator valve Defective clutch reducing valve Defective clutch pressure control SOL.V. Defective backup valve Manual Valve failure"
+          }
+        ],
+        [
+          {
+            "text": "High stall rpm in R position"
+          },
+          {
+            "text": "Reverse Clutch Slipping"
+          }
+        ],
+        [
+          {
+            "text": "Low stall rpm in D, L or S, R position"
+          },
+          {
+            "text": "Insufficient engine power Defective PH regulator valve Defective drive pulley control SOL.V. Driven Puli Control SOL.V. Defective Defective DR control valve Defective DN control valve Torque converter One-way clutch slippage Defective clutch reducing valve Defective oil pump"
+          }
         ]
       ]
     }

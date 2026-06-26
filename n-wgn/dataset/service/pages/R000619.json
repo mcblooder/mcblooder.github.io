@@ -75,19 +75,7 @@
     {
       "type": "step",
       "number": "2",
-      "text": "Mark (B) the propeller shaft (A). Either No. 1 or No. 2 is acceptable. Start the engine and allow it to warm up until the radiator fan operates twice. With the car idling, move the select lever to the L or S position. Parking brake Press the pedal hard and measure the time per 10 revolutions of the propeller shaft.",
-      "refs": [
-        {
-          "id": "R000620",
-          "label": "Inspect rear differential fluid.",
-          "resolved": true
-        },
-        {
-          "id": "R000625",
-          "label": "Replace viscous coupling.",
-          "resolved": true
-        }
-      ]
+      "text": "Mark (B) the propeller shaft (A). Either No. 1 or No. 2 is acceptable. Start the engine and allow it to warm up until the radiator fan operates twice. With the car idling, move the select lever to the L or S position. Parking brake Press the pedal hard and measure the time per 10 revolutions of the propeller shaft."
     },
     {
       "type": "list",

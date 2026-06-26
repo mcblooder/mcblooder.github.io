@@ -48,7 +48,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Turn the steering wheel to the straight ahead position. Move the steering wheel to the left or right as far as the front wheel will not move and measure the amount of play. Steering Wheel Circumferential Play Std. 0－10mm If above standard value, Inspect steering coupling and if there are no abnormalities Rack Guide Adjustment (1) The company shall",
+      "text": "Turn the steering wheel to the straight ahead position. Move the steering wheel to the left or right as far as the front wheel will not move and measure the amount of play. If above standard value, Inspect steering coupling and if there are no abnormalities Rack Guide Adjustment (1) The company shall",
       "refs": [
         {
           "id": "R000631",
@@ -60,6 +60,19 @@
           "label": "Rack Guide Adjustment",
           "resolved": true
         }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0－10mm"
+          }
+        ]
       ]
     }
   ],

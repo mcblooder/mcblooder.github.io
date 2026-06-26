@@ -192,30 +192,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The instrument panel shall be free of dust and foreign matter."
-        },
-        {
-          "text": "The instrument panel shall be free of dust and foreign matter."
-        },
-        {
-          "text": "Do not use tools during installation. Tools may damage or deform the passenger airbag."
-        },
-        {
-          "text": "Do not use tools during installation. Tools may damage or deform the passenger airbag."
-        },
-        {
-          "text": "All hooks for the front passenger airbag shall be securely mounted in the hook holes on the instrument panel."
-        },
-        {
-          "text": "All hooks for the front passenger airbag shall be securely mounted in the hook holes on the instrument panel."
-        }
-      ]
-    },
-    {
       "type": "attention",
       "items": [
         "The airbag mounting bolt for the front passenger seat shall be replaced with a new one at the time of installation and tightened to the specified torque."
@@ -266,48 +242,6 @@
         "The instrument panel shall be free of dust and foreign matter.",
         "Do not use tools during installation. Tools may damage or deform the passenger airbag.",
         "All hooks for the front passenger airbag shall be securely mounted in the hook holes on the instrument panel."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The airbag mounting bolt for the front passenger seat shall be replaced with a new one at the time of installation."
-        },
-        {
-          "text": "The airbag mounting bolt for the front passenger seat shall be replaced with a new one at the time of installation."
-        },
-        {
-          "text": "Do not scratch the instrument panel."
-        },
-        {
-          "text": "Do not scratch the instrument panel."
-        },
-        {
-          "text": "To avoid placing a burden on the airbag deployment area, work with a cushion or similar material underneath."
-        },
-        {
-          "text": "To avoid placing a burden on the airbag deployment area, work with a cushion or similar material underneath."
-        },
-        {
-          "text": "The instrument panel shall be free of dust and foreign matter."
-        },
-        {
-          "text": "The instrument panel shall be free of dust and foreign matter."
-        },
-        {
-          "text": "Do not use tools during installation. Tools may damage or deform the passenger airbag."
-        },
-        {
-          "text": "Do not use tools during installation. Tools may damage or deform the passenger airbag."
-        },
-        {
-          "text": "All hooks for the front passenger airbag shall be securely mounted in the hook holes on the instrument panel."
-        },
-        {
-          "text": "All hooks for the front passenger airbag shall be securely mounted in the hook holes on the instrument panel."
-        }
       ]
     },
     {

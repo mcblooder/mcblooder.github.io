@@ -18,16 +18,6 @@
   "assets": [],
   "crossRefs": [
     {
-      "id": "R002134",
-      "label": "Reset the internal resistance value of the 12V battery",
-      "resolved": true
-    },
-    {
-      "id": "R000471",
-      "label": "Idling learning is complete.",
-      "resolved": true
-    },
-    {
       "id": "C001964",
       "label": "Warm up operation thoroughly and check if the following temperature conditions are met",
       "resolved": true
@@ -36,6 +26,16 @@
       "id": "T002563",
       "label": "Idling Stop System failure diagnosis.",
       "resolved": false
+    },
+    {
+      "id": "R002134",
+      "label": "Reset the internal resistance value of the 12V battery",
+      "resolved": true
+    },
+    {
+      "id": "R000471",
+      "label": "Idling learning is complete.",
+      "resolved": true
     }
   ],
   "blocks": [
@@ -60,16 +60,6 @@
       "number": "",
       "text": "1. Ensure that the following conditions are met 2. Warm up operation thoroughly and check if the following temperature conditions are met ​ 3. Perform test runs under the following conditions 4. Repeat steps 1-3 several times to see if the idling stop works. If it does not work, Idling Stop System failure diagnosis.",
       "refs": [
-        {
-          "id": "R002134",
-          "label": "Reset the internal resistance value of the 12V battery",
-          "resolved": true
-        },
-        {
-          "id": "R000471",
-          "label": "Idling learning is complete.",
-          "resolved": true
-        },
         {
           "id": "C001964",
           "label": "Warm up operation thoroughly and check if the following temperature conditions are met",
@@ -130,12 +120,6 @@
         {
           "text": "Driving on flat roads"
         }
-      ]
-    },
-    {
-      "type": "attention",
-      "items": [
-        "If the 12V battery is replaced, Reset the internal resistance value of the 12V battery after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
       ]
     },
     {

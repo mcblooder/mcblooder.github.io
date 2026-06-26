@@ -50,66 +50,24 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Inspect that parts are securely installed. Inspect parts for damage, wear due to interference with other parts, fuel leaks, and rust that is detrimental to function."
+      "text": "Inspect that parts are securely installed."
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Fuel tank (A)"
-        },
-        {
-          "text": "Fuel tank (A)"
-        },
-        {
-          "text": "Fuel feed pipe (B)"
-        },
-        {
-          "text": "Fuel feed pipe (B)"
-        },
-        {
-          "text": "Fuel feed tube (C)"
-        },
-        {
-          "text": "Fuel feed tube (C)"
-        },
-        {
-          "text": "Fuel pipe (D)"
-        },
-        {
-          "text": "Fuel pipe (D)"
-        },
-        {
-          "text": "Fuel injector (E)"
-        },
-        {
-          "text": "Fuel injector (E)"
-        }
-      ]
+      "type": "step",
+      "number": "2",
+      "text": "Inspect parts for damage, wear due to interference with other parts, fuel leaks, and rust that is detrimental to function."
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Fuel purge pipe (F)"
-        },
-        {
-          "text": "Fuel purge pipe (F)"
-        },
-        {
-          "text": "Quick connectors (G)"
-        },
-        {
-          "text": "Quick connectors (G)"
-        },
-        {
-          "text": "Fuel pump, fuel filter, pressure regulator (H)"
-        },
-        {
-          "text": "Fuel pump, fuel filter, pressure regulator (H)"
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Fuel tank (A) Fuel feed pipe (B) Fuel feed tube (C) Fuel pipe (D) Fuel injector (E)"
+          },
+          {
+            "text": "Fuel purge pipe (F) Quick connectors (G) Fuel pump, fuel filter, pressure regulator (H)"
+          }
+        ]
       ]
     },
     {

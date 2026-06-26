@@ -169,30 +169,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not mistake the heater hose for the inlet side or the outlet side."
-        },
-        {
-          "text": "Do not mistake the heater hose for the inlet side or the outlet side."
-        },
-        {
-          "text": "Heater hose clamps must be securely attached."
-        },
-        {
-          "text": "Heater hose clamps must be securely attached."
-        },
-        {
-          "text": "The O-ring at the pipe connection must be replaced with a new one, and compressor oil (SP-10) must be applied before installation."
-        },
-        {
-          "text": "The O-ring at the pipe connection must be replaced with a new one, and compressor oil (SP-10) must be applied before installation."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "8. Vacuuming/leak testing/refrigerant sealing",

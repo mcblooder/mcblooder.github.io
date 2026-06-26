@@ -37,24 +37,48 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Increased pressure actuation",
-          "Inlet valve open (OFF), outlet valve closed (OFF) Fluid from the master cylinder is routed through the inlet valve to the calipers."
+          {
+            "text": ""
+          },
+          {
+            "text": "Increased pressure actuation"
+          },
+          {
+            "text": "Inlet valve open (OFF), outlet valve closed (OFF) Fluid from the master cylinder is routed through the inlet valve to the calipers."
+          }
         ],
         [
-          "",
-          "Holding actuation:",
-          "Inlet valve closed (ON), outlet valve closed (OFF) Caliper fluid is shut off by inlet and outlet valves."
+          {
+            "text": ""
+          },
+          {
+            "text": "Holding actuation:"
+          },
+          {
+            "text": "Inlet valve closed (ON), outlet valve closed (OFF) Caliper fluid is shut off by inlet and outlet valves."
+          }
         ],
         [
-          "",
-          "Decompression actuation",
-          "Inlet valve closed (ON), outlet valve open (ON) Caliper fluid passes through the outlet valve to the reservoir."
+          {
+            "text": ""
+          },
+          {
+            "text": "Decompression actuation"
+          },
+          {
+            "text": "Inlet valve closed (ON), outlet valve open (ON) Caliper fluid passes through the outlet valve to the reservoir."
+          }
         ],
         [
-          "",
-          "Pressure actuation",
-          "Suction valve open (ON), regulator valve closed (current control) The fluid in the master cylinder is suctioned and discharged by the pump through the suction valve. The regulator valve pressurizes the caliper above the master cylinder pressure. The amount of pressurization is controlled by electric current control of the regulator valve to control the pressure according to each control."
+          {
+            "text": ""
+          },
+          {
+            "text": "Pressure actuation"
+          },
+          {
+            "text": "Suction valve open (ON), regulator valve closed (current control) The fluid in the master cylinder is suctioned and discharged by the pump through the suction valve. The regulator valve pressurizes the caliper above the master cylinder pressure. The amount of pressurization is controlled by electric current control of the regulator valve to control the pressure according to each control."
+          }
         ]
       ]
     }

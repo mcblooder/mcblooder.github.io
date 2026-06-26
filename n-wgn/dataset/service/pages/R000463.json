@@ -77,14 +77,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "With the foot off the accelerator pedal, check the AP sensor in the data list with HDS.",
-      "refs": [
-        {
-          "id": "R000464",
-          "label": "Replace the accelerator pedal assembly.",
-          "resolved": true
-        }
-      ]
+      "text": "With the foot off the accelerator pedal, check the AP sensor in the data list with HDS."
     },
     {
       "type": "list",

@@ -52,7 +52,50 @@
       "type": "table",
       "rows": [
         [
-          "D/C: Drive Cycle"
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "More than 1 second"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1D/C (single detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ],
+        [
+          {
+            "text": "D/C: Drive Cycle",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -65,7 +108,55 @@
       "type": "table",
       "rows": [
         [
-          "[ ]: HDS Parameters"
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Elapsed time after ignition ON mode"
+          },
+          {
+            "text": "3 seconds"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "12V battery voltage [battery voltage]"
+          },
+          {
+            "text": "10.0V"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "U0029",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "[ ]: HDS Parameters",
+            "colspan": 3
+          }
         ]
       ]
     },

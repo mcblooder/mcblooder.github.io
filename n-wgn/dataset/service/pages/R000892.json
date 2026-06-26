@@ -56,7 +56,25 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the coupler from the power transistor. Check the resistance between No.1 and No.3 terminals of the power transistor. Std. Approx. 1.5kΩ"
+      "text": "Disconnect the coupler from the power transistor."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Check the resistance between No.1 and No.3 terminals of the power transistor."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "Approx. 1.5kΩ"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -72,24 +90,6 @@
       "items": [
         "Do not break the claws on the terminals.",
         "Do not allow the unplugged terminals to come into contact with nearby objects."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not break the claws on the terminals."
-        },
-        {
-          "text": "Do not break the claws on the terminals."
-        },
-        {
-          "text": "Do not allow the unplugged terminals to come into contact with nearby objects."
-        },
-        {
-          "text": "Do not allow the unplugged terminals to come into contact with nearby objects."
-        }
       ]
     },
     {

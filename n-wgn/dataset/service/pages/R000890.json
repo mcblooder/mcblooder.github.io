@@ -42,7 +42,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Insert a flat-blade screwdriver into the notch on the solar radiation sensor (A), lift the solar radiation sensor slightly, and pull it out. Turn ignition to ON mode. Connect a (+) tester rod to the No. 2 terminal of the sunlight sensor and a (-) tester rod to the No. 3 terminal (for vehicles equipped with auto lights) or No. 1 terminal (for vehicles not equipped with auto lights), and check the voltage. Voltage changes cannot be confirmed by flashlights, fluorescent lights, or other light sources."
+      "text": "Insert a flat-blade screwdriver into the notch on the solar radiation sensor (A), lift the solar radiation sensor slightly, and pull it out. Turn ignition to ON mode."
     },
     {
       "type": "attention",
@@ -52,22 +52,9 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not scratch the instrument panel."
-        },
-        {
-          "text": "Do not scratch the instrument panel."
-        },
-        {
-          "text": "Minus Do not forcefully pry the driver."
-        },
-        {
-          "text": "Minus Do not forcefully pry the driver."
-        }
-      ]
+      "type": "step",
+      "number": "3",
+      "text": "Connect a (+) tester rod to the No. 2 terminal of the sunlight sensor and a (-) tester rod to the No. 3 terminal (for vehicles equipped with auto lights) or No. 1 terminal (for vehicles not equipped with auto lights), and check the voltage. Voltage changes cannot be confirmed by flashlights, fluorescent lights, or other light sources."
     },
     {
       "type": "list",

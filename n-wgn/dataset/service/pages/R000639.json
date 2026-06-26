@@ -45,13 +45,44 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Turn the steering wheel to the straight ahead position and release the lock lever. Attach the spring scale (B) to the uppermost point position (A) of the steering wheel and set the tilt position to the lowest position. Pull the spring scale vertically to read the tilt operating load in the upward direction. Std. 69N (7.0kgf) or less Replace the spring scale at the lowest point of the steering wheel (C) and set the tilt position to the highest position. Pull the spring scale vertically to read the downward tilt operating load. Std. 69N (7.0kgf) or less If the measurement results show that the operating load is above the standard value, Replace the steering column as an assembly.",
+      "text": "Turn the steering wheel to the straight ahead position and release the lock lever."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Attach the spring scale (B) to the uppermost point position (A) of the steering wheel and set the tilt position to the lowest position. Pull the spring scale vertically to read the tilt operating load in the upward direction. Replace the spring scale at the lowest point of the steering wheel (C) and set the tilt position to the highest position. Pull the spring scale vertically to read the downward tilt operating load. If the measurement results show that the operating load is above the standard value, Replace the steering column as an assembly.",
       "refs": [
         {
           "id": "R000636",
           "label": "Replace the steering column as an assembly.",
           "resolved": true
         }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "69N (7.0kgf) or less"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "69N (7.0kgf) or less"
+          }
+        ]
       ]
     },
     {
@@ -66,13 +97,26 @@
     {
       "type": "step",
       "number": "1",
-      "text": "After 3-5 pulls of the lock lever (A), the tilt position is set to the highest position, the lock lever is released, and the steering wheel is held in place. Push up a position 10 mm from the tip of the lock lever with a push gauge, etc., and measure the operating load of the lock lever at the time of locking. Std. 72N (7.3kgf) or less If the measurement results show that the operating load is above the standard value, Replace the steering column as an assembly.",
+      "text": "After 3-5 pulls of the lock lever (A), the tilt position is set to the highest position, the lock lever is released, and the steering wheel is held in place. Push up a position 10 mm from the tip of the lock lever with a push gauge, etc., and measure the operating load of the lock lever at the time of locking. If the measurement results show that the operating load is above the standard value, Replace the steering column as an assembly.",
       "refs": [
         {
           "id": "R000636",
           "label": "Replace the steering column as an assembly.",
           "resolved": true
         }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "72N (7.3kgf) or less"
+          }
+        ]
       ]
     },
     {
@@ -132,24 +176,6 @@
       "items": [
         "If any abnormality is found as a result of the inspection, replace the steering column with a steering column assembly.",
         "After filling the steering column with grease, make sure that no grease protrudes from the steering column."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "If any abnormality is found as a result of the inspection, replace the steering column with a steering column assembly."
-        },
-        {
-          "text": "If any abnormality is found as a result of the inspection, replace the steering column with a steering column assembly."
-        },
-        {
-          "text": "After filling the steering column with grease, make sure that no grease protrudes from the steering column."
-        },
-        {
-          "text": "After filling the steering column with grease, make sure that no grease protrudes from the steering column."
-        }
       ]
     },
     {

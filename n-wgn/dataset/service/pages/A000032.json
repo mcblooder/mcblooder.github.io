@@ -69,7 +69,65 @@
       "type": "table",
       "rows": [
         [
-          "D/C: Drive Cycle"
+          {
+            "text": "Detection frequency",
+            "colspan": 2
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)",
+            "colspan": 2
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Type 1"
+          },
+          {
+            "text": "Every 200 rpm"
+          }
+        ],
+        [
+          {
+            "text": "Type 2"
+          },
+          {
+            "text": "Every 1,000 rpm"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type",
+            "colspan": 2
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status",
+            "colspan": 2
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed, out of condition"
+          }
+        ],
+        [
+          {
+            "text": "D/C: Drive Cycle",
+            "colspan": 3
+          }
         ]
       ]
     },
@@ -82,7 +140,121 @@
       "type": "table",
       "rows": [
         [
-          "*: Variable depending on driving conditions *1: Models equipped with a turbo charger *2: Vehicles not equipped with a turbo charger [ ]: HDS Parameters"
+          {
+            "text": "condition entry",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Elapsed time since end of monitoring (except immediately after engine start)",
+            "colspan": 2
+          },
+          {
+            "text": "1.0 sec."
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine RPM [Engine RPM]",
+            "colspan": 2
+          },
+          {
+            "text": "500rpm"
+          },
+          {
+            "text": "4,500rpm"
+          }
+        ],
+        [
+          {
+            "text": "engine Inhalation air pressure [Intake pressure Sensor]*"
+          },
+          {
+            "text": "850rpm"
+          },
+          {
+            "text": "37kPa(276mmHg)* 1 34kPa(251mmHg)* 2"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "2,300rpm* 2"
+          },
+          {
+            "text": "25kPa(187mmHg)"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "2,650rpm* 1"
+          },
+          {
+            "text": "30kPa(225mmHg)"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Air-fuel ratio feedback control",
+            "colspan": 2
+          },
+          {
+            "text": "Fuel, except during cutting",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC",
+            "colspan": 2
+          },
+          {
+            "text": "P0107､ P0108､ P0117､ P0118､ P0122､ P0123､ P0222､ P0223､ P0335､ P0339､ P2228､ P2229",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Other",
+            "colspan": 2
+          },
+          {
+            "text": "To prevent misjudgment, test runs should be conducted on level ground.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "When the engine coolant temperature [water temperature sensor] at engine startup is -10°C or lower, the failure detection is executed when the engine coolant temperature [water temperature sensor] is 20°C or higher.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "*: Variable depending on driving conditions *1: Models equipped with a turbo charger *2: Vehicles not equipped with a turbo charger [ ]: HDS Parameters",
+            "colspan": 4
+          }
         ]
       ]
     },
@@ -99,7 +271,46 @@
       "type": "table",
       "rows": [
         [
-          "**: Variable depending on engine speed and engine load"
+          {
+            "text": "Lost-fire type",
+            "header": true
+          },
+          {
+            "text": "Engine RPM",
+            "header": true
+          },
+          {
+            "text": "Number of incidences of misfires",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Type 1"
+          },
+          {
+            "text": "Every 200 rpm"
+          },
+          {
+            "text": "20* 1 (24)* 2 -90 times**."
+          }
+        ],
+        [
+          {
+            "text": "Type 2"
+          },
+          {
+            "text": "Every 1,000 rpm"
+          },
+          {
+            "text": "85* 1 (104)* 2 counter for games, rounds, etc."
+          }
+        ],
+        [
+          {
+            "text": "**: Variable depending on engine speed and engine load",
+            "colspan": 3
+          }
         ]
       ]
     },

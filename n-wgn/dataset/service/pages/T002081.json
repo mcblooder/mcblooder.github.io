@@ -16,7 +16,88 @@
   ],
   "assetDir": "assets/T002081",
   "assets": [],
-  "crossRefs": [],
+  "crossRefs": [
+    {
+      "id": "T002083",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002079",
+      "label": "Radio reception",
+      "resolved": true
+    },
+    {
+      "id": "T002085",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002086",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002087",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002088",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002089",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002090",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002091",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002092",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002080",
+      "label": "Audio system self-diagnostic function ''Touch panel diagnostics''",
+      "resolved": true
+    },
+    {
+      "id": "T002093",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002094",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002095",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002096",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002097",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    }
+  ],
   "blocks": [
     {
       "type": "heading",
@@ -27,12 +108,404 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Low sound recording level"
+          {
+            "text": "symptoms",
+            "header": true
+          },
+          {
+            "text": "Inspection items/action items",
+            "header": true
+          },
+          {
+            "text": "related item",
+            "header": true
+          }
         ],
         [
-          "",
-          "Failure Diagnosis by Symptom ​"
+          {
+            "text": "Radio reception is not available or reception sensitivity is poor"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002083",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Radio reception",
+            "refs": [
+              {
+                "id": "T002079",
+                "label": "Radio reception",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Touch screen does not display information (no power input)"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002085",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Check for error messages (see operation manual)"
+          }
+        ],
+        [
+          {
+            "text": "No sound."
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002086",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Low or distorted sound"
+          },
+          {
+            "text": "Low sound recording level Failure Diagnosis by Symptom ​",
+            "refs": [
+              {
+                "id": "T002087",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Disc will not play."
+          },
+          {
+            "text": "Check the disc for scratches, dirt, etc."
+          },
+          {
+            "text": "Confirmation of available disks (refer to user's manual)"
+          }
+        ],
+        [
+          {
+            "text": "Unable to eject disk"
+          },
+          {
+            "text": "If the disk is ejected in a snagging manner, check the deformation of the disk."
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Disc sound jumps"
+          },
+          {
+            "text": "Check the disc for scratches, dirt, etc."
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Vehicle speed-linked volume does not work"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002088",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Audio Remote switch cannot be operated"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002089",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Audio unit lighting does not illuminate"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002090",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Audio Remote switch does not illuminate"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002091",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "USB device does not work"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002092",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Audio unit touch panel does not respond properly"
+          },
+          {
+            "text": "Audio system self-diagnostic function ''Touch panel diagnostics''",
+            "refs": [
+              {
+                "id": "T002080",
+                "label": "Audio system self-diagnostic function ''Touch panel diagnostics''",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Distance of own car position mark is shifted"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Since GPS reception is performed on the smartphone side, reception sensitivity may not be good depending on where the smartphone is placed."
+          }
+        ],
+        [
+          {
+            "text": "Does not display correct time"
+          },
+          {
+            "text": "Radio reception",
+            "refs": [
+              {
+                "id": "T002079",
+                "label": "Radio reception",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Rear Only the camera screen is not displayed."
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002093",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Rear camera view does not switch"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002094",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Rear Camera screen is misaligned."
+          },
+          {
+            "text": "Rear Check the condition of camera installation"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Rear camera screen guide line position is out of alignment."
+          },
+          {
+            "text": "Audio system self-diagnostic function ''Camera Guide Adjustment''",
+            "refs": [
+              {
+                "id": "T002080",
+                "label": "Audio system self-diagnostic function ''Camera Guide Adjustment''",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Cannot be operated by voice recognition"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002095",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "HFT switch lights do not illuminate"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002096",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Unable to connect Bluetooth devices"
+          },
+          {
+            "text": "Audio system self-diagnostic function ''HFT/microphone''",
+            "refs": [
+              {
+                "id": "T002080",
+                "label": "Audio system self-diagnostic function ''HFT/microphone''",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Check how to connect via Bluetooth (see user's manual)"
+          }
+        ],
+        [
+          {
+            "text": "Smartphone connection via HDMI is not possible."
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002097",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
         ]
       ]
     }

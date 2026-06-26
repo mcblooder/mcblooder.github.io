@@ -236,7 +236,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the cylinder head cover. Align the TDC mark (A) on the VTC actuator and exhaust camshaft sprocket with the top of the cylinder head, with the TDC marks (A) facing outward. This is the position at which the No. 1 piston is at the top dead center of the exhaust.",
+      "text": "Remove the cylinder head cover.",
       "refs": [
         {
           "id": "R000371",
@@ -244,6 +244,11 @@
           "resolved": true
         }
       ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Align the TDC mark (A) on the VTC actuator and exhaust camshaft sprocket with the top of the cylinder head, with the TDC marks (A) facing outward. This is the position at which the No. 1 piston is at the top dead center of the exhaust."
     },
     {
       "type": "heading",
@@ -432,24 +437,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Align the two color plates so that the punch mark is between the two color plates."
-        },
-        {
-          "text": "Align the two color plates so that the punch mark is between the two color plates."
-        },
-        {
-          "text": "After installing the cam chain, be sure to check that the crankshaft sprocket and camshaft sprocket are aligned with the upper dead center of the No. 1 piston exhaust."
-        },
-        {
-          "text": "After installing the cam chain, be sure to check that the crankshaft sprocket and camshaft sprocket are aligned with the upper dead center of the No. 1 piston exhaust."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "2. Cam Chain Guide/Cam Chain Tensioner Arm Mounting"
@@ -539,37 +526,18 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove old fluid packings, oil, and dirt from oil pan, cylinder block, cylinder head, chain case, bolts, and bolt holes. Apply Honda Genuine Fluid Packing 1216E to the cylinder head and cylinder block contact surfaces of the chain case."
+      "text": "Remove old fluid packings, oil, and dirt from oil pan, cylinder block, cylinder head, chain case, bolts, and bolt holes."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Apply Honda Genuine Fluid Packing 1216E to the cylinder head and cylinder block contact surfaces of the chain case."
     },
     {
       "type": "attention",
       "items": [
         "Apply liquid packing with a wire diameter of about 2.5 mm along the dashed line (A).",
         "The mating surface (B) of the cylinder head and cylinder block shall be coated with a 11 mm wide, 2.5 mm wire diameter liquid packing."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Apply liquid packing with a wire diameter of about 2.5 mm along the dashed line (A)."
-        },
-        {
-          "text": "Apply liquid packing with a wire diameter of about 2.5 mm along the dashed line (A)."
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The mating surface (B) of the cylinder head and cylinder block shall be coated with a 11 mm wide, 2.5 mm wire diameter liquid packing."
-        },
-        {
-          "text": "The mating surface (B) of the cylinder head and cylinder block shall be coated with a 11 mm wide, 2.5 mm wire diameter liquid packing."
-        }
       ]
     },
     {
@@ -586,30 +554,6 @@
       "items": [
         "Apply liquid packing with a wire diameter of about 2.5 mm along the dashed line (A).",
         "A liquid packing with a wire diameter of about 6 mm shall be applied to the shaded area (B)."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Apply liquid packing with a wire diameter of about 2.5 mm along the dashed line (A)."
-        },
-        {
-          "text": "Apply liquid packing with a wire diameter of about 2.5 mm along the dashed line (A)."
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "A liquid packing with a wire diameter of about 6 mm shall be applied to the shaded area (B)."
-        },
-        {
-          "text": "A liquid packing with a wire diameter of about 6 mm shall be applied to the shaded area (B)."
-        }
       ]
     },
     {
@@ -639,78 +583,6 @@
         "The engine should be started at least 3 hours after installation.",
         "Do not slide the chain case during installation, as this will cause the liquid packing to become uneven, resulting in oil leaks, etc.",
         "Wipe off any fluid packing that protrudes from the crankshaft pulley side."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "If the liquid packing is left on for more than 4 minutes after application, do not install it as it is. Remove the packing once and reapply."
-        },
-        {
-          "text": "If the liquid packing is left on for more than 4 minutes after application, do not install it as it is. Remove the packing once and reapply."
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Oil should be injected at least 30 minutes after installation."
-        },
-        {
-          "text": "Oil should be injected at least 30 minutes after installation."
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not touch the liquid packing-applied surface."
-        },
-        {
-          "text": "Do not touch the liquid packing-applied surface."
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The engine should be started at least 3 hours after installation."
-        },
-        {
-          "text": "The engine should be started at least 3 hours after installation."
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not slide the chain case during installation, as this will cause the liquid packing to become uneven, resulting in oil leaks, etc."
-        },
-        {
-          "text": "Do not slide the chain case during installation, as this will cause the liquid packing to become uneven, resulting in oil leaks, etc."
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Wipe off any fluid packing that protrudes from the crankshaft pulley side."
-        },
-        {
-          "text": "Wipe off any fluid packing that protrudes from the crankshaft pulley side."
-        }
       ]
     },
     {

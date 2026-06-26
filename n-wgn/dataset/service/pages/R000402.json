@@ -118,7 +118,65 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Fill the engine with the specified amount of engine oil according to the recommended oil table. Cars not equipped with a turbo charger Recommended oil Honda Genuine Oil ULTRA NEXT (Honda's new fuel-saving oil) Ultra Green (Honda's fuel-saving oil) Ultra LEO (API SN class SAE 0W-20) Or, API SM or SN class or higher of the above oil viscosity, or engine oil with the API CERTIFICATION mark on the oil can. Turbo Charger equipped vehicle Recommended oil Honda Genuine Oil Ultra LEO (API SN class SAE 0W-20)* Ultra LTD (API SN class SAE 5W-30) Or, API SM or SN class or higher of the above oil viscosity, or engine oil with API CERTIFICATION mark on the oil can. *: Only Ultra LEO can be used with SAE 0W-20 Prescribed volume (L) During disassembly and assembly 3.0 When only oil is changed 2.4 When oil and filter are changed at the same time 2.6"
+      "text": "Fill the engine with the specified amount of engine oil according to the recommended oil table."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Recommended oil"
+          },
+          {
+            "text": "Honda Genuine Oil ULTRA NEXT (Honda's new fuel-saving oil) Ultra Green (Honda's fuel-saving oil) Ultra LEO (API SN class SAE 0W-20) Or, API SM or SN class or higher of the above oil viscosity, or engine oil with the API CERTIFICATION mark on the oil can."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Recommended oil"
+          },
+          {
+            "text": "Honda Genuine Oil Ultra LEO (API SN class SAE 0W-20)* Ultra LTD (API SN class SAE 5W-30) Or, API SM or SN class or higher of the above oil viscosity, or engine oil with API CERTIFICATION mark on the oil can. *: Only Ultra LEO can be used with SAE 0W-20"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Prescribed volume (L)"
+          },
+          {
+            "text": "During disassembly and assembly"
+          },
+          {
+            "text": "3.0"
+          }
+        ],
+        [
+          {
+            "text": "When only oil is changed"
+          },
+          {
+            "text": "2.4"
+          }
+        ],
+        [
+          {
+            "text": "When oil and filter are changed at the same time"
+          },
+          {
+            "text": "2.6"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",

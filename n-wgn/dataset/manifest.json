@@ -3,7 +3,7 @@
   "model": "Honda N-WGN (JH1/JH2)",
   "derivation": "85",
   "version": "1.0",
-  "generatedAt": "2026-06-26T13:53:09",
+  "generatedAt": "2026-06-26T15:49:41",
   "categories": {
     "service": {
       "path": "service",
@@ -30,6 +30,26 @@
     }
   },
   "counts": {
+    "service": {
+      "entries": 1172,
+      "assetsCopied": 3403,
+      "crossRefs": 2730,
+      "parseErrors": 0,
+      "onDisk": 1172,
+      "inOutline": 1570
+    },
+    "electrical": {
+      "diagrams": 61,
+      "lookupItems": 757,
+      "systemSheets": 326,
+      "threedAssets": 76
+    },
+    "connectors": {
+      "entries": 269,
+      "faceviewAssets": 144,
+      "missingFaceview": 0,
+      "withoutGeometry": 25
+    },
     "fuseboxes": {
       "entries": 4,
       "fuses": 61,

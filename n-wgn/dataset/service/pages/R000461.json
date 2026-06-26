@@ -66,19 +66,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Check air cleaner for damage and replace if necessary.",
-      "refs": [
-        {
-          "id": "R000410",
-          "label": "Cars not equipped with a turbo charger",
-          "resolved": true
-        },
-        {
-          "id": "R000411",
-          "label": "Turbo Charger equipped vehicle",
-          "resolved": true
-        }
-      ]
+      "text": "Check air cleaner for damage and replace if necessary."
     },
     {
       "type": "list",
@@ -198,36 +186,6 @@
         "Do not clean the throttle valve bearing (A) to protect the molybdenum coating.",
         "Use the stock carburetor cleaner.",
         "Do not inject carburetor cleaner directly into the throttle body."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Be sure to remove the throttle body before starting work."
-        },
-        {
-          "text": "Be sure to remove the throttle body before starting work."
-        },
-        {
-          "text": "Do not clean the throttle valve bearing (A) to protect the molybdenum coating."
-        },
-        {
-          "text": "Do not clean the throttle valve bearing (A) to protect the molybdenum coating."
-        },
-        {
-          "text": "Use the stock carburetor cleaner."
-        },
-        {
-          "text": "Use the stock carburetor cleaner."
-        },
-        {
-          "text": "Do not inject carburetor cleaner directly into the throttle body."
-        },
-        {
-          "text": "Do not inject carburetor cleaner directly into the throttle body."
-        }
       ]
     },
     {

@@ -56,14 +56,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Attach the hand vacuum pump (A) to the fuel tank connection side of the 2-way valve (B), apply negative pressure, and check for ventilation.",
-      "refs": [
-        {
-          "id": "R000506",
-          "label": "Replace 2-way valve",
-          "resolved": true
-        }
-      ]
+      "text": "Attach the hand vacuum pump (A) to the fuel tank connection side of the 2-way valve (B), apply negative pressure, and check for ventilation."
     },
     {
       "type": "list",
@@ -98,14 +91,7 @@
     {
       "type": "step",
       "number": "2",
-      "text": "Attach the hand vacuum pump pressure side (A) to the fuel tank connection side of the 2-way valve, pressurize it, and check for venting.",
-      "refs": [
-        {
-          "id": "R000506",
-          "label": "Replace 2-way valve",
-          "resolved": true
-        }
-      ]
+      "text": "Attach the hand vacuum pump pressure side (A) to the fuel tank connection side of the 2-way valve, pressurize it, and check for venting."
     },
     {
       "type": "list",

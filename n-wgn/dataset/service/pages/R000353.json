@@ -91,30 +91,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Only the rear bearing insertion area should be intensively heated."
-        },
-        {
-          "text": "Only the rear bearing insertion area should be intensively heated."
-        },
-        {
-          "text": "Rear housing heating temperature shall be approximately 50-60°C and heating time shall be approximately 5 minutes."
-        },
-        {
-          "text": "Rear housing heating temperature shall be approximately 50-60°C and heating time shall be approximately 5 minutes."
-        },
-        {
-          "text": "The dryer should be about 1,000W."
-        },
-        {
-          "text": "The dryer should be about 1,000W."
-        }
-      ]
-    },
-    {
       "type": "attention",
       "items": [
         "Be very careful not to burn yourself."
@@ -141,24 +117,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not damage the stator coil with a screwdriver or the like."
-        },
-        {
-          "text": "Do not damage the stator coil with a screwdriver or the like."
-        },
-        {
-          "text": "The stator core shall be separated with the stator core attached to the rear housing side."
-        },
-        {
-          "text": "The stator core shall be separated with the stator core attached to the rear housing side."
-        }
-      ]
-    },
-    {
       "type": "figure",
       "asset": "353_4.0_jpn_11583169_4.0_disp.png"
     },
@@ -172,24 +130,6 @@
       "items": [
         "A soldering iron of about 100W should be used.",
         "Work should be performed quickly to prevent heat loss of the diode."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "A soldering iron of about 100W should be used."
-        },
-        {
-          "text": "A soldering iron of about 100W should be used."
-        },
-        {
-          "text": "Work should be performed quickly to prevent heat loss of the diode."
-        },
-        {
-          "text": "Work should be performed quickly to prevent heat loss of the diode."
-        }
       ]
     },
     {
@@ -207,27 +147,18 @@
       "text": "Inspect continuity between the following terminals in both directions, changing polarity, and verify that continuity exists in only one direction."
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "B－P（P 1 P 2 P 3 P 4 (between terminals)"
-        },
-        {
-          "text": "B－P（P 1 P 2 P 3 P 4 (between terminals)"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "E－P（P 1 P 2 P 3 P 4 (between terminals)"
-        },
-        {
-          "text": "E－P（P 1 P 2 P 3 P 4 (between terminals)"
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "B－P（P 1 P 2 P 3 P 4 (between terminals)"
+          }
+        ],
+        [
+          {
+            "text": "E－P（P 1 P 2 P 3 P 4 (between terminals)"
+          }
+        ]
       ]
     },
     {
@@ -276,24 +207,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "A soldering iron of about 100W should be used."
-        },
-        {
-          "text": "A soldering iron of about 100W should be used."
-        },
-        {
-          "text": "Work should be performed quickly to prevent heat loss of the diode."
-        },
-        {
-          "text": "Work should be performed quickly to prevent heat loss of the diode."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "4. Brush Inspection"
@@ -305,7 +218,28 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Measure the length of the brush. Brush length Std. 19mm Limit value: 1 5mm"
+      "text": "Measure the length of the brush."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "19mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "5mm"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -322,30 +256,6 @@
         "Brushes Don't forget the springs.",
         "Brushes shall be installed so that their lengths are standard values.",
         "Do not overload the solder."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Brushes Don't forget the springs."
-        },
-        {
-          "text": "Brushes Don't forget the springs."
-        },
-        {
-          "text": "Brushes shall be installed so that their lengths are standard values."
-        },
-        {
-          "text": "Brushes shall be installed so that their lengths are standard values."
-        },
-        {
-          "text": "Do not overload the solder."
-        },
-        {
-          "text": "Do not overload the solder."
-        }
       ]
     },
     {
@@ -366,7 +276,26 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Inspect for continuity between each lead wire (A). Inspect for continuity between each lead wire and stator core (B). Insulation resistance by megatester Std. 5MΩ (500V) min."
+      "text": "Inspect for continuity between each lead wire (A). Inspect for continuity between each lead wire and stator core (B)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Insulation resistance by megatester",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "5MΩ (500V) min."
+          }
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -394,7 +323,26 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Inspect for continuity between slip rings (A). Inspect for continuity between the slip ring and rotor (B). Inspect for continuity between slip ring and rotor shaft (C). Insulation resistance by megatester Std. 1MΩ (500V) or more"
+      "text": "Inspect for continuity between slip rings (A). Inspect for continuity between the slip ring and rotor (B). Inspect for continuity between slip ring and rotor shaft (C)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Insulation resistance by megatester",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "1MΩ (500V) or more"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -415,24 +363,6 @@
       "items": [
         "Due to the narrow clearance between the bearing and the slip ring (B), a puller (C) with strong and thin jaws should be used.",
         "Bearings shall not be reused."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Due to the narrow clearance between the bearing and the slip ring (B), a puller (C) with strong and thin jaws should be used."
-        },
-        {
-          "text": "Due to the narrow clearance between the bearing and the slip ring (B), a puller (C) with strong and thin jaws should be used."
-        },
-        {
-          "text": "Bearings shall not be reused."
-        },
-        {
-          "text": "Bearings shall not be reused."
-        }
       ]
     },
     {
@@ -462,18 +392,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The bearing shall be set so that no load is applied to the outer ring of the bearing during press fitting."
-        },
-        {
-          "text": "The bearing shall be set so that no load is applied to the outer ring of the bearing during press fitting."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "2. Pulley Mounting"
@@ -485,7 +403,20 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Assemble the front housing and rotor. Protect the rotor with a rag, clamp it with a vise, and tighten the pulley lock nut. Torque: 0.5 to 1.0 MPa 110N·m（11.2kgf·m）"
+      "text": "Assemble the front housing and rotor. Protect the rotor with a rag, clamp it with a vise, and tighten the pulley lock nut."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Torque: 0.5 to 1.0 MPa"
+          },
+          {
+            "text": "110N·m（11.2kgf·m）"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -499,31 +430,18 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install the lectifiers on the rear housing. Install the regulator and solder the entire terminal section."
+      "text": "Install the lectifiers on the rear housing."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install the regulator and solder the entire terminal section."
     },
     {
       "type": "attention",
       "items": [
         "A soldering iron of about 100W should be used.",
         "Work should be performed quickly to prevent heat loss of the diode."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "A soldering iron of about 100W should be used."
-        },
-        {
-          "text": "A soldering iron of about 100W should be used."
-        },
-        {
-          "text": "Work should be performed quickly to prevent heat loss of the diode."
-        },
-        {
-          "text": "Work should be performed quickly to prevent heat loss of the diode."
-        }
       ]
     },
     {
@@ -545,24 +463,6 @@
       "items": [
         "A soldering iron of about 100W should be used.",
         "Work should be performed quickly to prevent heat loss of the diode."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "A soldering iron of about 100W should be used."
-        },
-        {
-          "text": "A soldering iron of about 100W should be used."
-        },
-        {
-          "text": "Work should be performed quickly to prevent heat loss of the diode."
-        },
-        {
-          "text": "Work should be performed quickly to prevent heat loss of the diode."
-        }
       ]
     },
     {
@@ -598,24 +498,6 @@
       "items": [
         "Assembly shall be performed by heating the rear bearing insertion area of the rear housing in the same manner as when disassembling.",
         "Do not scratch the stator core."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Assembly shall be performed by heating the rear bearing insertion area of the rear housing in the same manner as when disassembling."
-        },
-        {
-          "text": "Assembly shall be performed by heating the rear bearing insertion area of the rear housing in the same manner as when disassembling."
-        },
-        {
-          "text": "Do not scratch the stator core."
-        },
-        {
-          "text": "Do not scratch the stator core."
-        }
       ]
     },
     {

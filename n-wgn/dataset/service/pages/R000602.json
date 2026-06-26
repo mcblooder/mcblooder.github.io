@@ -264,7 +264,22 @@
     {
       "type": "step",
       "number": "2",
-      "text": "Fix the transfer R. side case (A) to the vise (B). Transfer R. Side When fixing the case to the vise, protect the case with a piece of wood (C) or similar to prevent damage to the case. Attach companion flange holder to companion flange. While measuring the starting torque of the transfer hypoid gear, gradually tighten the lock nut within the tightening torque range so that the starting torque is within the standard value. Typical starting torque: 0.78-1.11 N-m (0.080-0.113 kgf-m) Tightening torque range: 41-158N-m (4.2-16.1kgf-m)"
+      "text": "Fix the transfer R. side case (A) to the vise (B). Transfer R. Side When fixing the case to the vise, protect the case with a piece of wood (C) or similar to prevent damage to the case. Attach companion flange holder to companion flange. While measuring the starting torque of the transfer hypoid gear, gradually tighten the lock nut within the tightening torque range so that the starting torque is within the standard value."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Typical starting torque: 0.78-1.11 N-m (0.080-0.113 kgf-m)"
+          }
+        ],
+        [
+          {
+            "text": "Tightening torque range: 41-158N-m (4.2-16.1kgf-m)"
+          }
+        ]
+      ]
     },
     {
       "type": "attention",
@@ -272,30 +287,6 @@
         "The companion flange shall be rotated several times to blend the bearings before measuring the starting torque.",
         "If the starting torque exceeds 1.11 N-m (0.113 kgf-m), replace the transfer spacer, reassemble and adjust. Do not loosen the lock nut for adjustment.",
         "If the starting torque does not reach the standard value even after the tightening torque exceeds 158 N-m (16.1 kgf-m), the transfer spacer shall be replaced and reassembled for adjustment."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The companion flange shall be rotated several times to blend the bearings before measuring the starting torque."
-        },
-        {
-          "text": "The companion flange shall be rotated several times to blend the bearings before measuring the starting torque."
-        },
-        {
-          "text": "If the starting torque exceeds 1.11 N-m (0.113 kgf-m), replace the transfer spacer, reassemble and adjust. Do not loosen the lock nut for adjustment."
-        },
-        {
-          "text": "If the starting torque exceeds 1.11 N-m (0.113 kgf-m), replace the transfer spacer, reassemble and adjust. Do not loosen the lock nut for adjustment."
-        },
-        {
-          "text": "If the starting torque does not reach the standard value even after the tightening torque exceeds 158 N-m (16.1 kgf-m), the transfer spacer shall be replaced and reassembled for adjustment."
-        },
-        {
-          "text": "If the starting torque does not reach the standard value even after the tightening torque exceeds 158 N-m (16.1 kgf-m), the transfer spacer shall be replaced and reassembled for adjustment."
-        }
       ]
     },
     {
@@ -419,36 +410,6 @@
         "Wipe off old sealant and remove dirt and oil from the sealing surface.",
         "If the sealant is left for more than 4 minutes after application, do not assemble the product as it is. Re-apply the sealant.",
         "Transfer fluid should be injected 30 minutes after assembly."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The sealant must be genuine Honda liquid packing 1216E."
-        },
-        {
-          "text": "The sealant must be genuine Honda liquid packing 1216E."
-        },
-        {
-          "text": "Wipe off old sealant and remove dirt and oil from the sealing surface."
-        },
-        {
-          "text": "Wipe off old sealant and remove dirt and oil from the sealing surface."
-        },
-        {
-          "text": "If the sealant is left for more than 4 minutes after application, do not assemble the product as it is. Re-apply the sealant."
-        },
-        {
-          "text": "If the sealant is left for more than 4 minutes after application, do not assemble the product as it is. Re-apply the sealant."
-        },
-        {
-          "text": "Transfer fluid should be injected 30 minutes after assembly."
-        },
-        {
-          "text": "Transfer fluid should be injected 30 minutes after assembly."
-        }
       ]
     },
     {

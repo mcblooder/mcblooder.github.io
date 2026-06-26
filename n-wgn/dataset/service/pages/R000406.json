@@ -233,7 +233,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the adhesive in the oil pump O-ring groove. Install the oil pump (B) using a new O-ring (A). Install the oil strainer (D) using the new packing (C)."
+      "text": "Remove the adhesive in the oil pump O-ring groove. Install the oil pump (B) using a new O-ring (A)."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Install the oil strainer (D) using the new packing (C)."
     },
     {
       "type": "heading",

@@ -52,24 +52,48 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "A:",
-          "Winding spring section"
+          {
+            "text": ""
+          },
+          {
+            "text": "A:"
+          },
+          {
+            "text": "Winding spring section"
+          }
         ],
         [
-          "",
-          "B:",
-          "Pre-tensioner section"
+          {
+            "text": ""
+          },
+          {
+            "text": "B:"
+          },
+          {
+            "text": "Pre-tensioner section"
+          }
         ],
         [
-          "",
-          "C:",
-          "Seat belt winding and load limiter section"
+          {
+            "text": ""
+          },
+          {
+            "text": "C:"
+          },
+          {
+            "text": "Seat belt winding and load limiter section"
+          }
         ],
         [
-          "",
-          "D:",
-          "ELR lock section"
+          {
+            "text": ""
+          },
+          {
+            "text": "D:"
+          },
+          {
+            "text": "ELR lock section"
+          }
         ]
       ]
     },

@@ -65,7 +65,133 @@
     {
       "type": "step",
       "number": "2",
-      "text": "Measure the height (C) from the end surface (A) of the torque converter case to the top surface (B) of the stator shaft and record the measurement. To bring the thrust clearance within the standard value, obtain a calculated value from the following formula based on the measurements in Step 1 and Step 2, and select a 43 x 54.5 mm thrust shim that corresponds to the calculated value. Formula: calculated value = Measured value of step 1 C - Measured value of step 2 C Example.) Measured value of step 1 C: 12.57 mm Measured value of step 2 C: 7.07mm calculated value ＝12.57mm－7.07mm ＝5.50mm Therefore, in this example, shim E is selected. 43 x 54.5 mm Thrust Shim No. Calculated value (mm) Thickness (mm) A 5.10－5.18 1.95－1.97 B 5.19－5.27 2.05－2.07 C 5.28－5.37 2.15－2.17 D 5.38－5.47 2.25－2.27 E 5.48－5.57 2.35－2.37 F 5.58－5.67 2.45－2.47 G 5.68－5.77 2.55－2.57 H 5.78－5.87 2.65－2.67 I 5.88－5.97 2.75－2.77 J 5.98－6.07 2.85－2.87"
+      "text": "Measure the height (C) from the end surface (A) of the torque converter case to the top surface (B) of the stator shaft and record the measurement. To bring the thrust clearance within the standard value, obtain a calculated value from the following formula based on the measurements in Step 1 and Step 2, and select a 43 x 54.5 mm thrust shim that corresponds to the calculated value. Formula: calculated value = Measured value of step 1 C - Measured value of step 2 C Example.) Measured value of step 1 C: 12.57 mm Measured value of step 2 C: 7.07mm calculated value ＝12.57mm－7.07mm ＝5.50mm Therefore, in this example, shim E is selected."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "No."
+          },
+          {
+            "text": "Calculated value (mm)"
+          },
+          {
+            "text": "Thickness (mm)"
+          }
+        ],
+        [
+          {
+            "text": "A"
+          },
+          {
+            "text": "5.10－5.18"
+          },
+          {
+            "text": "1.95－1.97"
+          }
+        ],
+        [
+          {
+            "text": "B"
+          },
+          {
+            "text": "5.19－5.27"
+          },
+          {
+            "text": "2.05－2.07"
+          }
+        ],
+        [
+          {
+            "text": "C"
+          },
+          {
+            "text": "5.28－5.37"
+          },
+          {
+            "text": "2.15－2.17"
+          }
+        ],
+        [
+          {
+            "text": "D"
+          },
+          {
+            "text": "5.38－5.47"
+          },
+          {
+            "text": "2.25－2.27"
+          }
+        ],
+        [
+          {
+            "text": "E"
+          },
+          {
+            "text": "5.48－5.57"
+          },
+          {
+            "text": "2.35－2.37"
+          }
+        ],
+        [
+          {
+            "text": "F"
+          },
+          {
+            "text": "5.58－5.67"
+          },
+          {
+            "text": "2.45－2.47"
+          }
+        ],
+        [
+          {
+            "text": "G"
+          },
+          {
+            "text": "5.68－5.77"
+          },
+          {
+            "text": "2.55－2.57"
+          }
+        ],
+        [
+          {
+            "text": "H"
+          },
+          {
+            "text": "5.78－5.87"
+          },
+          {
+            "text": "2.65－2.67"
+          }
+        ],
+        [
+          {
+            "text": "I"
+          },
+          {
+            "text": "5.88－5.97"
+          },
+          {
+            "text": "2.75－2.77"
+          }
+        ],
+        [
+          {
+            "text": "J"
+          },
+          {
+            "text": "5.98－6.07"
+          },
+          {
+            "text": "2.85－2.87"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",

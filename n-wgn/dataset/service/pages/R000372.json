@@ -195,19 +195,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the intake manifold.",
-      "refs": [
-        {
-          "id": "R000414",
-          "label": "Cars not equipped with a turbo charger",
-          "resolved": true
-        },
-        {
-          "id": "R000415",
-          "label": "Turbo Charger equipped vehicle",
-          "resolved": true
-        }
-      ]
+      "text": "Remove the intake manifold."
     },
     {
       "type": "list",
@@ -282,19 +270,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the catalytic converter.",
-      "refs": [
-        {
-          "id": "R000507",
-          "label": "Cars not equipped with a turbo charger",
-          "resolved": true
-        },
-        {
-          "id": "R002173",
-          "label": "Turbo Charger equipped vehicle",
-          "resolved": true
-        }
-      ]
+      "text": "Remove the catalytic converter."
     },
     {
       "type": "list",
@@ -511,7 +487,20 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Cylinder head bolts shall be replaced when the most detailed outside diameter of the threads is below the limit value. Limit value: 1 7.62mm"
+      "text": "Cylinder head bolts shall be replaced when the most detailed outside diameter of the threads is below the limit value."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "7.62mm"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -532,24 +521,6 @@
       "items": [
         "Use a plate type torque wrench whenever possible.",
         "If a bolt squeaks, loosen it once and retighten it."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Use a plate type torque wrench whenever possible."
-        },
-        {
-          "text": "Use a plate type torque wrench whenever possible."
-        },
-        {
-          "text": "If a bolt squeaks, loosen it once and retighten it."
-        },
-        {
-          "text": "If a bolt squeaks, loosen it once and retighten it."
-        }
       ]
     },
     {
@@ -589,24 +560,6 @@
       "items": [
         "Use a plate type torque wrench whenever possible.",
         "If a bolt squeaks, loosen it once and retighten it."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Use a plate type torque wrench whenever possible."
-        },
-        {
-          "text": "Use a plate type torque wrench whenever possible."
-        },
-        {
-          "text": "If a bolt squeaks, loosen it once and retighten it."
-        },
-        {
-          "text": "If a bolt squeaks, loosen it once and retighten it."
-        }
       ]
     },
     {
@@ -672,31 +625,32 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The camshaft holder must be assembled with the arrow pointing toward the cam chain."
-        },
-        {
-          "text": "The camshaft holder must be assembled with the arrow pointing toward the cam chain."
-        },
-        {
-          "text": "Check to make sure that the rocker arm is not tilted after the camshaft is installed."
-        },
-        {
-          "text": "Check to make sure that the rocker arm is not tilted after the camshaft is installed."
-        }
-      ]
-    },
-    {
       "type": "figure",
       "asset": "372_5.0_jpn_11582843_5.0_disp.png"
     },
     {
       "type": "step",
       "number": "2",
-      "text": "Lubricate the threads and seat surfaces of the camshaft holder bolts with engine oil and tighten them several times in numerical order. Specified torque － : 8.0N·m (0.82kgf·m)"
+      "text": "Lubricate the threads and seat surfaces of the camshaft holder bolts with engine oil and tighten them several times in numerical order."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Specified torque",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "－ :"
+          },
+          {
+            "text": "8.0N·m (0.82kgf·m)"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -796,19 +750,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install catalytic converter.",
-      "refs": [
-        {
-          "id": "R000507",
-          "label": "Cars not equipped with a turbo charger",
-          "resolved": true
-        },
-        {
-          "id": "R002173",
-          "label": "Turbo Charger equipped vehicle",
-          "resolved": true
-        }
-      ]
+      "text": "Install catalytic converter."
     },
     {
       "type": "list",
@@ -876,19 +818,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install the intake manifold.",
-      "refs": [
-        {
-          "id": "R000414",
-          "label": "Cars not equipped with a turbo charger",
-          "resolved": true
-        },
-        {
-          "id": "R000415",
-          "label": "Turbo Charger equipped vehicle",
-          "resolved": true
-        }
-      ]
+      "text": "Install the intake manifold."
     },
     {
       "type": "list",

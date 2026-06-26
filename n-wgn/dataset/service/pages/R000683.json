@@ -45,7 +45,33 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Turn up the floor carpet and insulator cutout (A) to make the floor a steel plate surface. Pedal height is measured from the projection of the floorboard (B) to the top of the pedal center. Start the engine. Gap with floorboards when stepped on:. After depressing the brake pedal 2-3 times, measure the clearance (C) between the brake pedal and the projection of the floor plate when the brake pedal is depressed. Clearance to floor plate (at tread force of 196 N (20 kgf)) 144mm or more Pedal height when not depressed:. Measure the height (D) from the projection of the floor plate to the top center of the brake pedal without the brake pedal depressed. Height: 1.5 201±5mm"
+      "text": "Turn up the floor carpet and insulator cutout (A) to make the floor a steel plate surface. Pedal height is measured from the projection of the floorboard (B) to the top of the pedal center. Start the engine. Gap with floorboards when stepped on:. After depressing the brake pedal 2-3 times, measure the clearance (C) between the brake pedal and the projection of the floor plate when the brake pedal is depressed. Pedal height when not depressed:. Measure the height (D) from the projection of the floor plate to the top center of the brake pedal without the brake pedal depressed."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Clearance to floor plate (at tread force of 196 N (20 kgf))"
+          },
+          {
+            "text": "144mm or more"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Height: 1.5"
+          },
+          {
+            "text": "201±5mm"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -59,7 +85,25 @@
     {
       "type": "step",
       "number": "1",
-      "text": "With the engine stopped, depress the brake pedal 2-3 times. Measure the amount of travel (play) (A) until resistance is felt by pressing the brake pedal with a finger. Play:. 1－6mm"
+      "text": "With the engine stopped, depress the brake pedal 2-3 times."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Measure the amount of travel (play) (A) until resistance is felt by pressing the brake pedal with a finger."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Play:."
+          },
+          {
+            "text": "1－6mm"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",

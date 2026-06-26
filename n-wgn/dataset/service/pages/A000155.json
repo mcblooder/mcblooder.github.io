@@ -54,8 +54,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Failure of rudder angle sensor"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more After IG voltage is above 10V and continues for 5 seconds Typical Methods:. 1. Turn ignition to ON mode."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 30 sec."
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "Steering speed feedback control stopped EPS function assist continued (If it is normal in the next ignition ON mode, it will be restored.)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Failure of rudder angle sensor"
+          }
         ]
       ]
     },
@@ -63,12 +107,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Internal failure of EPS motor"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine. 2. Turn the steering wheel a few revolutions to the left or right, then turn the wheel fully to the left or right and hold for at least 10 seconds."
+          }
         ],
         [
-          "",
-          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 1 second"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "EPS function assist stopped (If it is normal in the next ignition ON mode, it will be restored.)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Internal failure of EPS motor Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          }
         ]
       ]
     },
@@ -76,16 +160,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection or poor contact between steering column/EPS control unit and EPS motor terminals (M+, M- lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine. 2. Turn the steering wheel a few revolutions to the left or right, then turn the wheel fully to the left or right and hold for at least 10 seconds."
+          }
         ],
         [
-          "",
-          "Internal failure of EPS motor"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
         ],
         [
-          "",
-          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 5 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "EPS function assist stopped (If it is normal in the next ignition ON mode, it will be restored.)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection or poor contact between steering column/EPS control unit and EPS motor terminals (M+, M- lines) Internal failure of EPS motor Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          }
         ]
       ]
     },
@@ -93,12 +213,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Internal failure of EPS motor"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Wait at least 6 seconds after turning the ignition to ON mode. 2. Start the engine. 3. Turn the steering wheel a few revolutions to the left or right, then turn the wheel fully to the left or right and hold for at least 10 seconds."
+          }
         ],
         [
-          "",
-          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "EPS function assist not started or function assist stopped (If it is normal in the next ignition ON mode, it will be restored.)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Internal failure of EPS motor Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          }
         ]
       ]
     },
@@ -106,12 +266,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "EPS control unit program is not up-to-date"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Power supply to the torque sensor (no disconnection, etc.) Typical Methods:. 1. Wait at least 6 seconds after turning the ignition to ON mode. 2. Start the engine. 3. Turn the steering wheel a few revolutions to the left or right, then turn the wheel fully to the left or right and hold for at least 10 seconds."
+          }
         ],
         [
-          "",
-          "Internal circuit failure in steering column/EPS control unit (torque sensor)"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 1 second"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "EPS function assist stopped (If it is normal in the next ignition ON mode, it will be restored.)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "EPS control unit program is not up-to-date Internal circuit failure in steering column/EPS control unit (torque sensor)"
+          }
         ]
       ]
     },
@@ -119,12 +319,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "EPS control unit program is not up-to-date"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Power supply to the torque sensor (no disconnection, etc.) Typical Methods:. 1. Wait at least 6 seconds after turning the ignition to ON mode. 2. Start the engine. 3. Turn the steering wheel a few revolutions to the left or right, then turn the wheel fully to the left or right and hold for at least 10 seconds."
+          }
         ],
         [
-          "",
-          "Internal circuit failure in steering column/EPS control unit (torque sensor)"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 1 second"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "EPS function assist stopped (If it is normal in the next ignition ON mode, it will be restored.)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "EPS control unit program is not up-to-date Internal circuit failure in steering column/EPS control unit (torque sensor)"
+          }
         ]
       ]
     },
@@ -132,12 +372,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "EPS control unit program is not up-to-date"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Power supply to the torque sensor (no disconnection, etc.) Typical Methods:. 1. Wait at least 6 seconds after turning the ignition to ON mode. 2. Start the engine. 3. Turn the steering wheel a few revolutions to the left or right, then turn the wheel fully to the left or right and hold for at least 10 seconds."
+          }
         ],
         [
-          "",
-          "Internal circuit failure in steering column/EPS control unit (torque sensor)"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 1 second"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "EPS function assist stopped (If it is normal in the next ignition ON mode, it will be restored.)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "EPS control unit program is not up-to-date Internal circuit failure in steering column/EPS control unit (torque sensor)"
+          }
         ]
       ]
     },
@@ -145,12 +425,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "EPS control unit program is not up-to-date"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Fail-safe relay must be ON Typical Methods:. 1. Wait at least 6 seconds after turning the ignition to ON mode. 2. Start the engine. 3. Turn the steering wheel a few revolutions to the left or right, then turn the wheel fully to the left or right and hold for at least 10 seconds."
+          }
         ],
         [
-          "",
-          "Internal circuit failure in steering column/EPS control unit (torque sensor)"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 1 second"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "EPS function assist stopped (If it is normal in the next ignition ON mode, it will be restored.)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "EPS control unit program is not up-to-date Internal circuit failure in steering column/EPS control unit (torque sensor)"
+          }
         ]
       ]
     },
@@ -158,20 +478,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection, ground fault or poor contact of cord between steering column/EPS control unit and relay box (+B EPS line)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Start the engine. 2. Wait at least 1 second after the EPS warning light goes off."
+          }
         ],
         [
-          "",
-          "Blown fuse (relay box No. A3-2 (40A))"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
         ],
         [
-          "",
-          "EPS control unit program is not up-to-date"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 1 second"
+          }
         ],
         [
-          "",
-          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "EPS function assist stopped (If it is normal in the next ignition ON mode, it will be restored.)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection, ground fault or poor contact of cord between steering column/EPS control unit and relay box (+B EPS line) Blown fuse (relay box No. A3-2 (40A)) EPS control unit program is not up-to-date Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          }
         ]
       ]
     },
@@ -179,24 +531,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection or poor contact of cord between steering column/EPS control unit and PGM-FI ECU (F-CAN_H and F-CAN_L lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. Other DTCs not detected Typical Methods:. 1. Start the engine. 2. In a stopped vehicle, the engine speed must be 2,500 rpm or higher and the steering wheel must be turned 180° or more to the right or left and held for 30 seconds or more. (Within 5 minutes after ignition ON mode, engine speed 4,000 rpm The above test is performed above)"
+          }
         ],
         [
-          "",
-          "PGM-FI ECU program is not up-to-date"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
         ],
         [
-          "",
-          "EPS control unit program is not up-to-date"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 30 sec."
+          }
         ],
         [
-          "",
-          "Internal circuit failure of PGM-FI ECU"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
         ],
         [
-          "",
-          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "EPS Function Assist Continuation (Alternate Assist) (Returns if the vehicle speed signal is normal while driving)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection or poor contact of cord between steering column/EPS control unit and PGM-FI ECU (F-CAN_H and F-CAN_L lines) PGM-FI ECU program is not up-to-date EPS control unit program is not up-to-date Internal circuit failure of PGM-FI ECU Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          }
         ]
       ]
     },
@@ -204,16 +584,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Ground fault in code between EPS control unit and PGM-FI ECU (F-CAN_H, F-CAN_L lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. Idling Not in stop Typical Methods:. 1. Start the engine and wait at least 5 seconds."
+          }
         ],
         [
-          "",
-          "EPS control unit program is not up-to-date"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
         ],
         [
-          "",
-          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 1 second"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "EPS Function Assist Continuation (Alternate Assist)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Ground fault in code between EPS control unit and PGM-FI ECU (F-CAN_H, F-CAN_L lines) EPS control unit program is not up-to-date Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          }
         ]
       ]
     },
@@ -221,24 +637,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection or poor contact of cord between steering column/EPS control unit and PGM-FI ECU (F-CAN_H and F-CAN_L lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. Idling Not in stop Typical Methods:. 1. Start the engine. 2. Wait at least 60 seconds after the EPS warning light goes off."
+          }
         ],
         [
-          "",
-          "PGM-FI ECU program is not up-to-date"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
         ],
         [
-          "",
-          "EPS control unit program is not up-to-date"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 60 sec."
+          }
         ],
         [
-          "",
-          "Internal circuit failure of PGM-FI ECU"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
         ],
         [
-          "",
-          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "EPS function assist continues (alternative assist) or idling stop is prohibited (depends on case) (Returned if F-CAN signal is received normally)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection or poor contact of cord between steering column/EPS control unit and PGM-FI ECU (F-CAN_H and F-CAN_L lines) PGM-FI ECU program is not up-to-date EPS control unit program is not up-to-date Internal circuit failure of PGM-FI ECU Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          }
         ]
       ]
     },
@@ -246,20 +690,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection or poor contact of cords between steering column/EPS control unit and VSA modulator control unit (F-CAN_H and F-CAN_L lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more After IG voltage is above 10V and continues for 5 seconds Typical Methods:. 1. Start the engine. 2. Wait at least 60 seconds after the EPS warning light goes off."
+          }
         ],
         [
-          "",
-          "VSA Modulator Control Unit program is not up-to-date"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
         ],
         [
-          "",
-          "VSA Modulator Internal circuit failure in the control unit"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 60 sec."
+          }
         ],
         [
-          "",
-          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "Steering speed feedback control stopped EPS function assist continues (returns if normal at next ignition ON mode)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection or poor contact of cords between steering column/EPS control unit and VSA modulator control unit (F-CAN_H and F-CAN_L lines) VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          }
         ]
       ]
     },
@@ -267,20 +743,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection of cord between steering column/EPS control unit and rudder angle sensor, poor contact (F-CAN_H and F-CAN_L lines)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. Battery voltage is 10V or higher After IG voltage is above 10V and continues for 5 seconds Typical Methods:. 1. Start the engine. 2. Wait at least 60 seconds after the EPS warning light goes off."
+          }
         ],
         [
-          "",
-          "Rudder angle sensor program is not up-to-date"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
         ],
         [
-          "",
-          "Failure of rudder angle sensor"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 60 sec."
+          }
         ],
         [
-          "",
-          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "Steering speed feedback control stopped EPS function assist continues (returns if normal at next ignition ON mode)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection of cord between steering column/EPS control unit and rudder angle sensor, poor contact (F-CAN_H and F-CAN_L lines) Rudder angle sensor program is not up-to-date Failure of rudder angle sensor Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          }
         ]
       ]
     },
@@ -288,12 +796,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "EPS control unit program is not up-to-date"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Start the engine. 2. Turn the steering wheel a few revolutions to the left or right, then turn the wheel fully to the left or right and hold for at least 10 seconds."
+          }
         ],
         [
-          "",
-          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 6 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "EPS function assist stopped (If it is normal in the next ignition ON mode, it will be restored.)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "EPS control unit program is not up-to-date Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          }
         ]
       ]
     },
@@ -301,8 +849,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "EPS control unit program rewrite incomplete"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Start the engine."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "initial diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "-"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "EPS function assist stopped (Returned after completion of EPS control unit program rewriting)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "EPS control unit program rewrite incomplete"
+          }
         ]
       ]
     },
@@ -310,24 +902,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection or ground fault of the cord between the steering column/EPS control unit and the relay box, Poor contact (+B EPS line)"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. Fail-safe relay must be ON Typical Methods:. 1. Start the engine. 2. Wait at least 5 seconds after the EPS warning light goes off."
+          }
         ],
         [
-          "",
-          "Blown fuse (relay box No. A3-2 (40A))"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
         ],
         [
-          "",
-          "Defective 12V battery"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 5 seconds"
+          }
         ],
         [
-          "",
-          "EPS control unit program is not up-to-date"
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
         ],
         [
-          "",
-          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "EPS function assist stopped (Returned when the fail-safe relay contact voltage inside the EPS control unit is 10 V or more)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection or ground fault of the cord between the steering column/EPS control unit and the relay box, Poor contact (+B EPS line) Blown fuse (relay box No. A3-2 (40A)) Defective 12V battery EPS control unit program is not up-to-date Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+          }
         ]
       ]
     },
@@ -335,12 +955,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "High-voltage power supply connection"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Start the engine. 2. Wait at least 1 second after the EPS warning light goes off."
+          }
         ],
         [
-          "",
-          "A.C. generator failure"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 1 second"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "EPS function assist stopped (Returned when the fail-safe relay contact voltage inside the EPS control unit is 17.5V or less)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "High-voltage power supply connection A.C. generator failure"
+          }
         ]
       ]
     },
@@ -348,16 +1008,52 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "DC-DC converter failure"
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. Fail-safe relay must be ON Typical Methods:. 1. Start the engine. 2. Wait at least 1 second after the EPS warning light goes off."
+          }
         ],
         [
-          "",
-          "High-voltage power supply connection"
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
         ],
         [
-          "",
-          "A.C. generator failure"
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 1 second"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle EPS warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "EPS function assist stopped (Returned when the fail-safe relay contact voltage inside the EPS control unit is 17.5V or less)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "DC-DC converter failure High-voltage power supply connection A.C. generator failure"
+          }
         ]
       ]
     }

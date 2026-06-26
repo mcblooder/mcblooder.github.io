@@ -57,24 +57,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Manifold gauge sets must be used exclusively for HFC-134a (R-134a)."
-        },
-        {
-          "text": "Manifold gauge sets must be used exclusively for HFC-134a (R-134a)."
-        },
-        {
-          "text": "Use fluorocarbon gas recovery/recycling equipment exclusively for HFC-134a (R-134a) and follow the instruction manual for proper use."
-        },
-        {
-          "text": "Use fluorocarbon gas recovery/recycling equipment exclusively for HFC-134a (R-134a) and follow the instruction manual for proper use."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "2. Glove box removal",

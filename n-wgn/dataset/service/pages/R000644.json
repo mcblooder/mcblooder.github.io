@@ -147,24 +147,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not allow grease to adhere to the boot and joint housing press fitting (D) and ball pin taper (E)."
-        },
-        {
-          "text": "Do not allow grease to adhere to the boot and joint housing press fitting (D) and ball pin taper (E)."
-        },
-        {
-          "text": "Do not allow dust, etc. to get inside the boot or joint."
-        },
-        {
-          "text": "Do not allow dust, etc. to get inside the boot or joint."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "7. Tie Rod Ball Joint Boot Installation"
@@ -183,24 +165,6 @@
       "items": [
         "Press the edges of the boot evenly so that the boot is not mounted at an angle or there are no gaps in the press fit (B).",
         "After mounting the boot, completely wipe off any grease adhering to the ball pin taper (C) and thread (D)."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Press the edges of the boot evenly so that the boot is not mounted at an angle or there are no gaps in the press fit (B)."
-        },
-        {
-          "text": "Press the edges of the boot evenly so that the boot is not mounted at an angle or there are no gaps in the press fit (B)."
-        },
-        {
-          "text": "After mounting the boot, completely wipe off any grease adhering to the ball pin taper (C) and thread (D)."
-        },
-        {
-          "text": "After mounting the boot, completely wipe off any grease adhering to the ball pin taper (C) and thread (D)."
-        }
       ]
     },
     {

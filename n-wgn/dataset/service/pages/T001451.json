@@ -39,21 +39,23 @@
     {
       "type": "step",
       "number": "",
-      "text": "1. Disconnect each coupler from the fuse box 2. Check inputs and replace fuse box if all is normal and system is faulty inspection terminal Wiring color Measuring conditions result Inspection items in case of abnormality P1 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. B8 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. U17 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. T27 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. J13 tea Shift lever to P position Continuity must exist between the inspection terminal and body ground. J9 hollow Turn ignition to ON mode Battery voltage must be present between the inspection terminal and body ground. J8 new leaves Turn ignition to ON mode Battery voltage must be present between the inspection terminal and body ground. J15 * green Activate front wiper motor 0V to approx. 12V cycling between the inspection terminal and body ground during motor rotation. H19 * green Activate rear wiper motor 0V to approx. 12V cycling between the inspection terminal and body ground during motor rotation. C8 red Brake pedal Battery voltage must be present between the inspection terminal and body ground. H20 hollow Turn ignition to ON mode Battery voltage must be present between the inspection terminal and body ground. R22 black Turn wiper switch to INT or LO position There should be continuity between the inspection terminals. R26 purple R22 black Turn wiper switch to LO or HI position There should be continuity between the inspection terminals. R20 weak matcha R22 black Wiper switch to MIST position There should be continuity between the inspection terminals. R24 new leaves R22 black Turn washer switch ON There should be continuity between the inspection terminals. R25 green A10 new leaves Turn ignition to ON mode and short between A10 and B5 terminals Washer motor must operate. B5 hollow *: Reconnect the coupler",
+      "text": "1. Disconnect each coupler from the fuse box",
       "refs": [
         {
           "id": "R000925",
           "label": "Disconnect each coupler from the fuse box",
           "resolved": true
-        },
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. Check inputs and replace fuse box if all is normal and system is faulty",
+      "refs": [
         {
           "id": "R000925",
           "label": "Check inputs and replace fuse box if all is normal and system is faulty",
-          "resolved": true
-        },
-        {
-          "id": "R001012",
-          "label": "Inspect rear wiper motor.",
           "resolved": true
         }
       ]
@@ -97,231 +99,348 @@
       "asset": "1451_5.0_jpn_11579715_5.0_disp.png"
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G402)"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G202)"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G403)"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G402)"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G101)"
-        },
-        {
-          "text": "Shift position sensor"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G201)"
-        },
-        {
-          "text": "Blown No. A21 (20A) fuse in relay box"
-        },
-        {
-          "text": "Front wiper motor relay"
-        },
-        {
-          "text": "Front wiper intermittent relay"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G201)"
-        },
-        {
-          "text": "Blown No. A21 (20A) fuse in relay box"
-        },
-        {
-          "text": "Front wiper motor relay"
-        },
-        {
-          "text": "Front wiper HI/LO relay"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G201)"
-        },
-        {
-          "text": "Front wiper motor failure"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G503)"
-        },
-        {
-          "text": "Rear wiper motor failure"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Defective brake switch"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G503)"
-        },
-        {
-          "text": "Fuse box defective"
-        },
-        {
-          "text": "Blown No. C5 (10A) fuse in fuse box"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Wiper/washer switch"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Wiper/washer switch"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Wiper/washer switch"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Wiper/washer switch"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Blown No. A20 (10A) or No. A4-2 (50A) fuse in relay box"
-        },
-        {
-          "text": "Fuse box defective"
-        },
-        {
-          "text": "Washer Motor failure"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "P1"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "B8"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G202) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "U17"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G403) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "T27"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "J13"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "Shift lever to P position"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G101) Shift position sensor Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "J9"
+          },
+          {
+            "text": "hollow"
+          },
+          {
+            "text": "Turn ignition to ON mode"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G201) Blown No. A21 (20A) fuse in relay box Front wiper motor relay Front wiper intermittent relay Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "J8"
+          },
+          {
+            "text": "new leaves"
+          },
+          {
+            "text": "Turn ignition to ON mode"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G201) Blown No. A21 (20A) fuse in relay box Front wiper motor relay Front wiper HI/LO relay Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "J15 *"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Activate front wiper motor"
+          },
+          {
+            "text": "0V to approx. 12V cycling between the inspection terminal and body ground during motor rotation."
+          },
+          {
+            "text": "Grounding failure (G201) Front wiper motor failure Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "H19 *"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Activate rear wiper motor"
+          },
+          {
+            "text": "0V to approx. 12V cycling between the inspection terminal and body ground during motor rotation."
+          },
+          {
+            "text": "Grounding failure (G503) Rear wiper motor failure Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "C8"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "Brake pedal"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Defective brake switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "H20"
+          },
+          {
+            "text": "hollow"
+          },
+          {
+            "text": "Turn ignition to ON mode"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G503) Fuse box defective Blown No. C5 (10A) fuse in fuse box"
+          }
+        ],
+        [
+          {
+            "text": "R22"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "Turn wiper switch to INT or LO position"
+          },
+          {
+            "text": "There should be continuity between the inspection terminals."
+          },
+          {
+            "text": "Wiper/washer switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "R26"
+          },
+          {
+            "text": "purple"
+          }
+        ],
+        [
+          {
+            "text": "R22"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "Turn wiper switch to LO or HI position"
+          },
+          {
+            "text": "There should be continuity between the inspection terminals."
+          },
+          {
+            "text": "Wiper/washer switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "R20"
+          },
+          {
+            "text": "weak matcha"
+          }
+        ],
+        [
+          {
+            "text": "R22"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "Wiper switch to MIST position"
+          },
+          {
+            "text": "There should be continuity between the inspection terminals."
+          },
+          {
+            "text": "Wiper/washer switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "R24"
+          },
+          {
+            "text": "new leaves"
+          }
+        ],
+        [
+          {
+            "text": "R22"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "Turn washer switch ON"
+          },
+          {
+            "text": "There should be continuity between the inspection terminals."
+          },
+          {
+            "text": "Wiper/washer switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "R25"
+          },
+          {
+            "text": "green"
+          }
+        ],
+        [
+          {
+            "text": "A10"
+          },
+          {
+            "text": "new leaves"
+          },
+          {
+            "text": "Turn ignition to ON mode and short between A10 and B5 terminals"
+          },
+          {
+            "text": "Washer motor must operate."
+          },
+          {
+            "text": "Blown No. A20 (10A) or No. A4-2 (50A) fuse in relay box Fuse box defective Washer Motor failure Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "B5"
+          },
+          {
+            "text": "hollow"
+          }
+        ],
+        [
+          {
+            "text": "*: Reconnect the coupler",
+            "colspan": 5
+          }
+        ]
       ]
     }
   ],

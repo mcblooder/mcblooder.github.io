@@ -90,24 +90,6 @@
         "Check that the snap ring is securely attached and inspect whether the snap ring's mounting outer diameter dimension (A) is 16.4 mm or less.",
         "The groove of the snap ring shall be cleaned and a new snap ring shall be installed."
       ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Check that the snap ring is securely attached and inspect whether the snap ring's mounting outer diameter dimension (A) is 16.4 mm or less."
-        },
-        {
-          "text": "Check that the snap ring is securely attached and inspect whether the snap ring's mounting outer diameter dimension (A) is 16.4 mm or less."
-        },
-        {
-          "text": "The groove of the snap ring shall be cleaned and a new snap ring shall be installed."
-        },
-        {
-          "text": "The groove of the snap ring shall be cleaned and a new snap ring shall be installed."
-        }
-      ]
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000579_jpn/web/html/R000579_jpn_Content.html",

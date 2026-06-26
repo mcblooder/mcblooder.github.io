@@ -18,13 +18,7 @@
   "assets": [
     "411_3.0_jpn_11583021_3.0_disp.png"
   ],
-  "crossRefs": [
-    {
-      "id": "R000470",
-      "label": "Check idling RPM",
-      "resolved": true
-    }
-  ],
+  "crossRefs": [],
   "blocks": [
     {
       "type": "heading",
@@ -53,14 +47,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Installation is the reverse of the removal procedure.",
-      "refs": [
-        {
-          "id": "R000470",
-          "label": "Check idling RPM",
-          "resolved": true
-        }
-      ]
+      "text": "Installation is the reverse of the removal procedure."
     },
     {
       "type": "attention",
@@ -68,44 +55,6 @@
         "Do not engage the seal rubber of the air cleaner element during installation.",
         "After completing the work, make sure the check valve is secured in the joint rubber.",
         "If the idling continues to be unstable Check idling RPM (2) The following is a list of the items that shall be performed."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not engage the seal rubber of the air cleaner element during installation."
-        },
-        {
-          "text": "Do not engage the seal rubber of the air cleaner element during installation."
-        },
-        {
-          "text": "After completing the work, make sure the check valve is secured in the joint rubber."
-        },
-        {
-          "text": "After completing the work, make sure the check valve is secured in the joint rubber."
-        },
-        {
-          "text": "If the idling continues to be unstable Check idling RPM (2) The following is a list of the items that shall be performed.",
-          "refs": [
-            {
-              "id": "R000470",
-              "label": "Check idling RPM",
-              "resolved": true
-            }
-          ]
-        },
-        {
-          "text": "If the idling continues to be unstable Check idling RPM (2) The following is a list of the items that shall be performed.",
-          "refs": [
-            {
-              "id": "R000470",
-              "label": "Check idling RPM",
-              "resolved": true
-            }
-          ]
-        }
       ]
     },
     {

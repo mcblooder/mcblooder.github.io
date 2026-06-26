@@ -96,24 +96,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "After disconnecting, seal the connection immediately with a sealing plug or vinyl tape."
-        },
-        {
-          "text": "After disconnecting, seal the connection immediately with a sealing plug or vinyl tape."
-        },
-        {
-          "text": "Do not damage the inside of the front bumper with the disconnected hoses."
-        },
-        {
-          "text": "Do not damage the inside of the front bumper with the disconnected hoses."
-        }
-      ]
-    },
-    {
       "type": "figure",
       "asset": "880_5.0_jpn_11676402_3.0_disp.png"
     },
@@ -127,24 +109,6 @@
       "items": [
         "Maintenance Do not remove from lid opening.",
         "Remove the oil filter so that it will not be damaged by the compressor."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Maintenance Do not remove from lid opening."
-        },
-        {
-          "text": "Maintenance Do not remove from lid opening."
-        },
-        {
-          "text": "Remove the oil filter so that it will not be damaged by the compressor."
-        },
-        {
-          "text": "Remove the oil filter so that it will not be damaged by the compressor."
-        }
       ]
     },
     {
@@ -183,24 +147,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Maintenance Do not install through the lid opening."
-        },
-        {
-          "text": "Maintenance Do not install through the lid opening."
-        },
-        {
-          "text": "Do not damage the oil filter with the compressor."
-        },
-        {
-          "text": "Do not damage the oil filter with the compressor."
-        }
-      ]
-    },
-    {
       "type": "figure",
       "asset": "880_5.0_jpn_11580987_5.0_disp.png"
     },
@@ -214,24 +160,6 @@
       "items": [
         "The O-ring must be replaced with a new one and lubricated with compressor oil (SP-10) before installation.",
         "Do not damage the inside of the front bumper with the disconnected hoses."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The O-ring must be replaced with a new one and lubricated with compressor oil (SP-10) before installation."
-        },
-        {
-          "text": "The O-ring must be replaced with a new one and lubricated with compressor oil (SP-10) before installation."
-        },
-        {
-          "text": "Do not damage the inside of the front bumper with the disconnected hoses."
-        },
-        {
-          "text": "Do not damage the inside of the front bumper with the disconnected hoses."
-        }
       ]
     },
     {

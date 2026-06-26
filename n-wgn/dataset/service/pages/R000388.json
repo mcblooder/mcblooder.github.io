@@ -162,24 +162,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The bearing cap bolts should not be loosened all at once, but several times diagonally from outside to inside."
-        },
-        {
-          "text": "The bearing cap bolts should not be loosened all at once, but several times diagonally from outside to inside."
-        },
-        {
-          "text": "Before disassembling, check the mounting position of each component and mount them in the same position when installing."
-        },
-        {
-          "text": "Before disassembling, check the mounting position of each component and mount them in the same position when installing."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "8. Remove connecting rod cap/con-rod bearing"
@@ -213,15 +195,19 @@
       "type": "table",
       "rows": [
         [
-          "Torque: 0.5 to 1.0 MPa",
-          "10N·m (1.0kgf·m)"
+          {
+            "text": "Torque: 0.5 to 1.0 MPa"
+          },
+          {
+            "text": "10N·m (1.0kgf·m)"
+          }
         ]
       ]
     },
     {
       "type": "step",
       "number": "5",
-      "text": "Tighten connecting rod bolts 90°. Remove the connecting rod cap and connecting rod bearing, and measure the crushed width of the plastigauge with the scale printed on the bag of the plastigauge. Pin Oil Clearance Std. 0.020－0.038mm"
+      "text": "Tighten connecting rod bolts 90°. Remove the connecting rod cap and connecting rod bearing, and measure the crushed width of the plastigauge with the scale printed on the bag of the plastigauge."
     },
     {
       "type": "attention",
@@ -231,21 +217,16 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Measurements should be taken at the most widely crimped point."
-        },
-        {
-          "text": "Measurements should be taken at the most widely crimped point."
-        },
-        {
-          "text": "If the standard value is exceeded, the connecting rod shall be enlarged, the pin shall be inspected for wear, and if there is no abnormality, the connecting rod shall be replaced with an undersized bearing using the connecting rod bearing identification chart and the oil clearance shall be measured again."
-        },
-        {
-          "text": "If the standard value is exceeded, the connecting rod shall be enlarged, the pin shall be inspected for wear, and if there is no abnormality, the connecting rod shall be replaced with an undersized bearing using the connecting rod bearing identification chart and the oil clearance shall be measured again."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.020－0.038mm"
+          }
+        ]
       ]
     },
     {
@@ -285,7 +266,116 @@
     {
       "type": "step",
       "number": "9",
-      "text": "The identification color (A) of connecting rod bearings is blue-black-brown-green-yellow-peach-red, in that order, with each bearing having a tolerance of every 0.003 mm. markup Distinctive color tolerance G red -0.006－-0.003mm F peach -0.003－0mm E yellow 0－+0.003mm D green +0.003－+0.006mm C tea +0.006－+0.009mm B black +0.009－+0.012mm A green +0.012－+0.015mm Conrod bearing center wall thickness dimension: 1.5mm"
+      "text": "The identification color (A) of connecting rod bearings is blue-black-brown-green-yellow-peach-red, in that order, with each bearing having a tolerance of every 0.003 mm."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "markup",
+            "header": true
+          },
+          {
+            "text": "Distinctive color",
+            "header": true
+          },
+          {
+            "text": "tolerance",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "G"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "-0.006－-0.003mm"
+          }
+        ],
+        [
+          {
+            "text": "F"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "-0.003－0mm"
+          }
+        ],
+        [
+          {
+            "text": "E"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "0－+0.003mm"
+          }
+        ],
+        [
+          {
+            "text": "D"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "+0.003－+0.006mm"
+          }
+        ],
+        [
+          {
+            "text": "C"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "+0.006－+0.009mm"
+          }
+        ],
+        [
+          {
+            "text": "B"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "+0.009－+0.012mm"
+          }
+        ],
+        [
+          {
+            "text": "A"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "+0.012－+0.015mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Conrod bearing center wall thickness dimension:"
+          },
+          {
+            "text": "1.5mm"
+          }
+        ]
+      ]
     },
     {
       "type": "attention",
@@ -297,45 +387,108 @@
       "type": "table",
       "rows": [
         [
-          "Pin Journal Mating Marks",
-          "Mating marks on connecting rod hole diameter"
+          {
+            "text": "Pin Journal Mating Marks",
+            "header": true
+          },
+          {
+            "text": "Mating marks on connecting rod hole diameter",
+            "colspan": 4,
+            "header": true
+          }
         ],
         [
-          "1",
-          "2",
-          "3",
-          "4"
+          {
+            "text": "1",
+            "header": true
+          },
+          {
+            "text": "2",
+            "header": true
+          },
+          {
+            "text": "3",
+            "header": true
+          },
+          {
+            "text": "4",
+            "header": true
+          }
         ],
         [
-          "Connecting rod Bearing identification color"
+          {
+            "text": "Connecting rod Bearing identification color",
+            "colspan": 4,
+            "header": true
+          }
         ],
         [
-          "A",
-          "red",
-          "peach",
-          "yellow",
-          "green"
+          {
+            "text": "A"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "green"
+          }
         ],
         [
-          "B",
-          "peach",
-          "yellow",
-          "green",
-          "tea"
+          {
+            "text": "B"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "tea"
+          }
         ],
         [
-          "C",
-          "yellow",
-          "green",
-          "tea",
-          "black"
+          {
+            "text": "C"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "black"
+          }
         ],
         [
-          "D",
-          "green",
-          "tea",
-          "black",
-          "green"
+          {
+            "text": "D"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "green"
+          }
         ]
       ]
     },
@@ -351,7 +504,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Measure the outside diameter of the connecting rod bolt at two locations and determine the difference in outside diameters. Conrod Bolt O.D. Difference Limit value: 1 0－0.05mm"
+      "text": "Measure the outside diameter of the connecting rod bolt at two locations and determine the difference in outside diameters."
     },
     {
       "type": "attention",
@@ -362,27 +515,16 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "A micrometer should be used for the measurement."
-        },
-        {
-          "text": "A micrometer should be used for the measurement."
-        },
-        {
-          "text": "Measurements shall be taken on all connecting rod bolts."
-        },
-        {
-          "text": "Measurements shall be taken on all connecting rod bolts."
-        },
-        {
-          "text": "If the difference in outside diameter is greater than the limit, the connecting rod bolts should be replaced."
-        },
-        {
-          "text": "If the difference in outside diameter is greater than the limit, the connecting rod bolts should be replaced."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0－0.05mm"
+          }
+        ]
       ]
     },
     {
@@ -421,29 +563,15 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "When installing the connecting rod cap, be sure to align the mating marks (A) so as to avoid misorientation."
-        },
-        {
-          "text": "When installing the connecting rod cap, be sure to align the mating marks (A) so as to avoid misorientation."
-        },
-        {
-          "text": "Do not drop the thrust washer when rotating the crankshaft."
-        },
-        {
-          "text": "Do not drop the thrust washer when rotating the crankshaft."
-        }
-      ]
-    },
-    {
       "type": "table",
       "rows": [
         [
-          "Torque: 0.5 to 1.0 MPa",
-          "10N·m (1.0kgf·m)"
+          {
+            "text": "Torque: 0.5 to 1.0 MPa"
+          },
+          {
+            "text": "10N·m (1.0kgf·m)"
+          }
         ]
       ]
     },

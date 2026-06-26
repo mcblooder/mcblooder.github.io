@@ -115,7 +115,38 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Inspect the lining thickness (A). Lining thickness Std. 4.5mm Limit value: 1 1.0mm If it is below the limit value, replace the shoes as a set."
+      "text": "Inspect the lining thickness (A). If it is below the limit value, replace the shoes as a set."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Lining thickness",
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "4.5mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "1.0mm"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -129,7 +160,37 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Measure the inside diameter of the brake drum. Inner diameter of drum Reference value 180.0mm Limit value: 1 181.0mm If the limit value is exceeded, replace the brake drum. Inspect the inner surface of the brake drum for scratches or abnormal wear."
+      "text": "Measure the inside diameter of the brake drum. If the limit value is exceeded, replace the brake drum."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": "Reference value"
+          },
+          {
+            "text": "180.0mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "181.0mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Inspect the inner surface of the brake drum for scratches or abnormal wear."
     },
     {
       "type": "heading",

@@ -57,7 +57,50 @@
       "type": "table",
       "rows": [
         [
-          "D/C: Drive Cycle"
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "Once during D/C"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "2.0 seconds or longer"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ],
+        [
+          {
+            "text": "D/C: Drive Cycle",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -70,7 +113,133 @@
       "type": "table",
       "rows": [
         [
-          "[ ]: HDS Parameters"
+          {
+            "text": "condition entry",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Engine stop time",
+            "colspan": 2
+          },
+          {
+            "text": "6 hours"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine coolant temperature [Water temperature sensor]",
+            "colspan": 2
+          },
+          {
+            "text": "69℃"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine intake air temperature [Intake air temperature sensor]",
+            "colspan": 2
+          },
+          {
+            "text": "0℃"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine RPM [Engine RPM]",
+            "colspan": 2
+          },
+          {
+            "text": "3,250rpm"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "throttle aperture [Throttle opening sensor]"
+          },
+          {
+            "text": "3,250rpm"
+          },
+          {
+            "text": "41°"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "5,000rpm"
+          },
+          {
+            "text": "39°"
+          }
+        ],
+        [
+          {
+            "text": "Supercharging pressure difference from upper limit supercharging pressure (Actual boost pressure - Upper limit boost pressure)",
+            "colspan": 2
+          },
+          {
+            "text": "7kPa(47mmHg)"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC",
+            "colspan": 2
+          },
+          {
+            "text": "P0112､ P0113､ P0117､ P0118､ P0122､ P0123､ P0125､ P0222､ P0223､ P060A､ P1658､ P1659､ P1683､ P1684､ P2101､ P2118､ P2122､ P2123､ P2127､ P2128､ P2135､ P2138､ P2176",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Other",
+            "colspan": 2
+          },
+          {
+            "text": "Supercharging pressure is controlled at the upper limit of control pressure.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "No upper boost pressure fluctuation",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "[ ]: HDS Parameters",
+            "colspan": 4
+          }
         ]
       ]
     },
@@ -92,8 +261,12 @@
       "type": "table",
       "rows": [
         [
-          "Engine RPM [ Engine RPM].",
-          "2,250 rpm or more"
+          {
+            "text": "Engine RPM [ Engine RPM]."
+          },
+          {
+            "text": "2,250 rpm or more"
+          }
         ]
       ]
     },
@@ -110,7 +283,18 @@
       "type": "table",
       "rows": [
         [
-          "*: Variable depending on driving conditions"
+          {
+            "text": "Engine Intake Air Pressure [Intake pressure sensor]*"
+          },
+          {
+            "text": "214 kPa (1,600 mmHg) or higher"
+          }
+        ],
+        [
+          {
+            "text": "*: Variable depending on driving conditions",
+            "colspan": 2
+          }
         ]
       ]
     },

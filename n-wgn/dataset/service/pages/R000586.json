@@ -19,13 +19,7 @@
     "586_3.0_jpn_11582432_3.0_disp.png",
     "586_3.0_jpn_11582433_3.0_disp.png"
   ],
-  "crossRefs": [
-    {
-      "id": "R000587",
-      "label": "Thrust clearance shall be adjusted.",
-      "resolved": true
-    }
-  ],
+  "crossRefs": [],
   "blocks": [
     {
       "type": "heading",
@@ -68,14 +62,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install reverse drive gear (A). Install thrust needle bearing (B). Install the needle bearing (C). Install forward drive gear (D). Install thrust needle bearing (E). Install a new O-ring (F) and install the input shaft (G). Install the forward clutch assembly (H). Install 43 x 54.5 mm thrust shim (I). Install thrust needle bearing (J). Install a new sealing ring (K).",
-      "refs": [
-        {
-          "id": "R000587",
-          "label": "Thrust clearance shall be adjusted.",
-          "resolved": true
-        }
-      ]
+      "text": "Install reverse drive gear (A). Install thrust needle bearing (B). Install the needle bearing (C). Install forward drive gear (D). Install thrust needle bearing (E). Install a new O-ring (F) and install the input shaft (G). Install the forward clutch assembly (H). Install 43 x 54.5 mm thrust shim (I). Install thrust needle bearing (J). Install a new sealing ring (K)."
     },
     {
       "type": "attention",

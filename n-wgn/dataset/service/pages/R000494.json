@@ -118,14 +118,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "In HDS, select West Gate Control SOL.V. ON in the Inspect menu. Apply negative pressure and verify that negative pressure is not retained.",
-      "refs": [
-        {
-          "id": "R000496",
-          "label": "Replace the West Gate Control SOL.V.",
-          "resolved": true
-        }
-      ]
+      "text": "In HDS, select West Gate Control SOL.V. ON in the Inspect menu. Apply negative pressure and verify that negative pressure is not retained."
     },
     {
       "type": "attention",
@@ -177,14 +170,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Turn ignition OFF (LOCK) mode. Install the negative pressure tube (A) and hand vacuum pump (B). Press the negative pressure tube attachment (C) on the turbo charger line side with your finger. Apply negative pressure and verify that negative pressure is maintained.",
-      "refs": [
-        {
-          "id": "R000496",
-          "label": "Replace the West Gate Control SOL.V.",
-          "resolved": true
-        }
-      ]
+      "text": "Turn ignition OFF (LOCK) mode. Apply negative pressure and verify that negative pressure is maintained."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install the negative pressure tube (A) and hand vacuum pump (B). Press the negative pressure tube attachment (C) on the turbo charger line side with your finger."
     },
     {
       "type": "list",
@@ -226,14 +217,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Turn ignition to ON mode. In HDS, select West Gate Control SOL.V. ON in the Inspect menu. Apply negative pressure and verify that negative pressure is not retained.",
-      "refs": [
-        {
-          "id": "R000496",
-          "label": "Replace the West Gate Control SOL.V.",
-          "resolved": true
-        }
-      ]
+      "text": "Turn ignition to ON mode. In HDS, select West Gate Control SOL.V. ON in the Inspect menu. Apply negative pressure and verify that negative pressure is not retained."
     },
     {
       "type": "attention",

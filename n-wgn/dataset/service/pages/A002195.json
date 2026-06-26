@@ -52,7 +52,42 @@
       "type": "table",
       "rows": [
         [
-          "*: Idling stop system warning light (orange) illuminates D/C: Drive Cycle"
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1D/C (single detection method), brake warning light (orange): off*."
+          }
+        ],
+        [
+          {
+            "text": "*: Idling stop system warning light (orange) illuminates D/C: Drive Cycle",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -65,7 +100,72 @@
       "type": "table",
       "rows": [
         [
-          "[ ]: HDS Parameters"
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "",
+            "colspan": 2,
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Ignition switch/ ENGINE START STOP switch"
+          },
+          {
+            "text": "Ignition ON mode",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "P0555､ P0557､ P15C5､ P15C7",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Other"
+          },
+          {
+            "text": "After warming up the engine.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Stopping for more than 3.5 seconds when the vehicle speed [vehicle speed] is 0 km/h",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Total time including the time the vehicle speed [vehicle speed] is stopped from 30 km/h is between 4.5 seconds and 9.2 seconds or less",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Foil No spinning.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "No malfunction of speed sensor, atmospheric pressure sensor, or water temperature sensor",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "[ ]: HDS Parameters",
+            "colspan": 3
+          }
         ]
       ]
     },

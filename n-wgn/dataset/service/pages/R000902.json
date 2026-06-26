@@ -16,7 +16,28 @@
   ],
   "assetDir": "assets/R000902",
   "assets": [],
-  "crossRefs": [],
+  "crossRefs": [
+    {
+      "id": "R000880",
+      "label": "Compressor replacement",
+      "resolved": true
+    },
+    {
+      "id": "R000883",
+      "label": "Clutch Set",
+      "resolved": true
+    },
+    {
+      "id": "R000432",
+      "label": "Belt tension adjustment",
+      "resolved": true
+    },
+    {
+      "id": "R000433",
+      "label": "belt replacement",
+      "resolved": true
+    }
+  ],
   "blocks": [
     {
       "type": "heading",
@@ -32,9 +53,172 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "",
-          "Brackets replaced"
+          {
+            "text": "anomalous phenomenon",
+            "header": true
+          },
+          {
+            "text": "situation",
+            "header": true
+          },
+          {
+            "text": "probable cause",
+            "header": true
+          },
+          {
+            "text": "treatment",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Compressor noise"
+          },
+          {
+            "text": "Rattling sound (metal tapping)"
+          },
+          {
+            "text": "sliding part Damaged parts entrapment of a foreign object"
+          },
+          {
+            "text": "Compressor replacement",
+            "refs": [
+              {
+                "id": "R000880",
+                "label": "Compressor replacement",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Chirping sound when compressor is off or on"
+          },
+          {
+            "text": "Magnet Clutch contact noise"
+          },
+          {
+            "text": "Adjustment of clearance between center piece and rotor Check for rattling of rotor bearings and compressor boss, if necessary. Clutch Set , , Replace the compressor",
+            "refs": [
+              {
+                "id": "R000883",
+                "label": "Clutch Set",
+                "resolved": true
+              },
+              {
+                "id": "R000880",
+                "label": "Replace the compressor",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Rattles."
+          },
+          {
+            "text": "Magnet Clutch bearing noise"
+          },
+          {
+            "text": "Clutch set replacement Compressor replacement (when boss damaged) ​",
+            "refs": [
+              {
+                "id": "R000883",
+                "label": "Clutch set replacement",
+                "resolved": true
+              },
+              {
+                "id": "R000880",
+                "label": "Compressor replacement (when boss damaged)",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "I hear a warbling, warbling sound."
+          },
+          {
+            "text": "Compressor whine"
+          },
+          {
+            "text": "Compressor mounting bolts, etc., should be tightened properly."
+          }
+        ],
+        [
+          {
+            "text": "Crank pulley noise"
+          },
+          {
+            "text": "Rattling noise"
+          },
+          {
+            "text": "Crank pulley sound (emitted during idling and rapid acceleration. The sound is especially loud when the compressor is turned on, so it can easily be mistaken for a compressor sound.)"
+          },
+          {
+            "text": "Replace or (if no visual damage) retighten"
+          }
+        ],
+        [
+          {
+            "text": "Noise from belt"
+          },
+          {
+            "text": "I hear a continuous cueing sound."
+          },
+          {
+            "text": "Belt is loose (belt runout is also significant)"
+          },
+          {
+            "text": "Belt tension adjustment ​ belt replacement ​",
+            "refs": [
+              {
+                "id": "R000432",
+                "label": "Belt tension adjustment",
+                "resolved": true
+              },
+              {
+                "id": "R000433",
+                "label": "belt replacement",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Intermittent sound of tut, tut."
+          },
+          {
+            "text": "Pulley alignment is off (belt side wear is excessive)"
+          },
+          {
+            "text": "Pulley Check and repair alignment belt replacement ​",
+            "refs": [
+              {
+                "id": "R000433",
+                "label": "belt replacement",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Noise from component mounting area"
+          },
+          {
+            "text": "Continuous gargling sound (rattling when touched)"
+          },
+          {
+            "text": "Fixing bolt dropout or loosening Damage to brackets"
+          },
+          {
+            "text": "Put into regular tightening condition. Brackets replaced"
+          }
         ]
       ]
     }

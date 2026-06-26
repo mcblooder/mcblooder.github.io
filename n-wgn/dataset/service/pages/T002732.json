@@ -27,7 +27,170 @@
       "type": "table",
       "rows": [
         [
-          "*1: Vehicles equipped with headlight auto-leveling system *2: Cars equipped with plasma cluster *3: Models equipped with audio remote switch *4: Models equipped with side airbags *5: Vehicles equipped with the City Brake Active System *6: Cars equipped with mirror heaters *7: Vehicles equipped with door mirror side turn signal lights *8: Vehicles without door mirror side turn signal lights *9: Models without turbo charger *10: Vehicles equipped with auto lights *11: Vehicles equipped with 4-discharge headlights *12: Vehicles equipped with two discharge headlights *13: Vehicles equipped with 2-lamp halogen headlights *14: Vehicles equipped with front fog lights *15: Vehicles equipped with headlight manual leveling system *16: Vehicles equipped with TRW SRS unit *17: Vehicles equipped with DENSO SRS unit *18: Vehicles equipped with cruise control *19: Cars without audio remote switch *20: Models equipped with paddle shift switches"
+          {
+            "text": "(electrical) ground"
+          },
+          {
+            "text": "Connecting components"
+          }
+        ],
+        [
+          {
+            "text": "G1"
+          },
+          {
+            "text": "12V battery"
+          }
+        ],
+        [
+          {
+            "text": "G2"
+          },
+          {
+            "text": "engine"
+          }
+        ],
+        [
+          {
+            "text": "G3"
+          },
+          {
+            "text": "Transmission housing"
+          }
+        ],
+        [
+          {
+            "text": "G101"
+          },
+          {
+            "text": "No. 1 ignition coil, No. 2 ignition coil, No. 3 ignition coil, EGR valve *9 PGM-FI ECU, knock sensor, VTC hydraulic valve"
+          }
+        ],
+        [
+          {
+            "text": "G151"
+          },
+          {
+            "text": "Drive pulley control SOL.V., driven pulley control SOL.V, Lock-up clutch control SOL.V., accumulator control SOL.V."
+          }
+        ],
+        [
+          {
+            "text": "G152"
+          },
+          {
+            "text": "Clutch Pressure Control SOL.V."
+          }
+        ],
+        [
+          {
+            "text": "G201"
+          },
+          {
+            "text": "Brake fluid level switch, R. Front fog lights *14 , , R. Front turn signal light, R. Headlight (1 pc.) *13、 (2 pcs.) *11、*12 , , Accessories Lights *12 L. Front Position Light *11、*13 , , R. Front position lights, front wiper motor, Front wiper motor relay, R. Headlight leveling motor, Washer motor Relay"
+          }
+        ],
+        [
+          {
+            "text": "G202"
+          },
+          {
+            "text": "Starter Magnet Diode, ELD, Headlight auto-leveling control unit *1 , , R Side Turn Signal Light *8 , , Front wiper intermittent relay, DC-DC converter, Front washer motor relay circuit, Rear washer motor Relay circuit"
+          }
+        ],
+        [
+          {
+            "text": "G301"
+          },
+          {
+            "text": "Radiator fan motor, L. Front fog light *14 , , Hood latch switch, L. Front turn signal lights, L. Side turn signal light *8 L. Headlight (1 pc.) *13 (2 pcs.) *11、*12 , , L. Headlight leveling motor, L. Front position light *12"
+          }
+        ],
+        [
+          {
+            "text": "G302"
+          },
+          {
+            "text": "VSA Modulator Control Unit"
+          }
+        ],
+        [
+          {
+            "text": "G303"
+          },
+          {
+            "text": "PGM-FI ECU (2 pcs)"
+          }
+        ],
+        [
+          {
+            "text": "G401"
+          },
+          {
+            "text": "IG1 relay 1, IG1 relay 2, Steering column/EPS control unit, ACC relay"
+          }
+        ],
+        [
+          {
+            "text": "G402"
+          },
+          {
+            "text": "Paddle shift switch + (via cable reel), Paddle shift switch - (via cable reel), Combination meter, shift position indicator panel light, ECON switch (2 pcs), data link coupler, VSA OFF switch (2 pcs), Rudder angle sensor, ENGINE START STOP switch, MICU (2 pcs), audio unit, City Brake Active System Radar/Control Unit *5 , , City Brake Active System OFF Switch *5 , , Parking pin switch, power mirror switch, R. Miller Heater *6 Power window relay, power window master switch (2 pcs.), power window relay, power window master switch (2 pcs.) R. Side turn signal light *7 , , Cruise control combination switch (via cable reel) *18 , , Driver door lock knob switch, electronic steering lock, Auto light control unit, hazard switch, Headlight manual leveling switch, Assistant Cup Holder Light, Driver Cup Holder Light Center console box light, assistant foot light, driver foot light, Blower motor relay, coupler for connecting audio unit, Driver lock/unlock switch, room mirror, Door lock relay circuit, door unlock relay circuit, Audio remote switch (via cable reel) *3"
+          }
+        ],
+        [
+          {
+            "text": "G403"
+          },
+          {
+            "text": "Blower power transistor, auto A/C control unit (2 pcs.) Plasma cluster generator *2 Data Link Coupler, MICU, L. Miller Heater *6 L. Side turn signal light *7 Accessory socket, Assistant lock/unlock switch"
+          }
+        ],
+        [
+          {
+            "text": "G404"
+          },
+          {
+            "text": "SRS Unit"
+          }
+        ],
+        [
+          {
+            "text": "G451 *20"
+          },
+          {
+            "text": "Paddle shift switch + (via cable reel), Paddle shift switch - (via cable reel), Cruise control combination switch (via cable reel), Audio remote switch (via cable reel) *3"
+          }
+        ],
+        [
+          {
+            "text": "G501"
+          },
+          {
+            "text": "Seat belt buckle switch for driver and seat belt buckle switch for front passenger, Passenger Seat Seat Switch, Fuel Pump Module"
+          }
+        ],
+        [
+          {
+            "text": "G502"
+          },
+          {
+            "text": "L. Rear turn signal light, L. Back light, L. Brake/tail light (LED)"
+          }
+        ],
+        [
+          {
+            "text": "G503"
+          },
+          {
+            "text": "Seat belt buckle switch for right rear seat *16 , , Seat belt buckle switch for left rear seat *16 , , Tailgate latch switch, tailgate lock/unlock switch, Rear wiper motor, rear defroster, R. back light, R. rear turn signal light, R. Brake/tail light, license plate light, High-mount stop lamps (LED), answer-back buzzer"
+          }
+        ],
+        [
+          {
+            "text": "*1: Vehicles equipped with headlight auto-leveling system *2: Cars equipped with plasma cluster *3: Models equipped with audio remote switch *4: Models equipped with side airbags *5: Vehicles equipped with the City Brake Active System *6: Cars equipped with mirror heaters *7: Vehicles equipped with door mirror side turn signal lights *8: Vehicles without door mirror side turn signal lights *9: Models without turbo charger *10: Vehicles equipped with auto lights *11: Vehicles equipped with 4-discharge headlights *12: Vehicles equipped with two discharge headlights *13: Vehicles equipped with 2-lamp halogen headlights *14: Vehicles equipped with front fog lights *15: Vehicles equipped with headlight manual leveling system *16: Vehicles equipped with TRW SRS unit *17: Vehicles equipped with DENSO SRS unit *18: Vehicles equipped with cruise control *19: Cars without audio remote switch *20: Models equipped with paddle shift switches",
+            "colspan": 2
+          }
         ]
       ]
     }

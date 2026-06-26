@@ -66,7 +66,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Rotate the socket (A) counterclockwise to remove it. Remove the valve (B). Brake/Tail light: LED (non-disassembled (tail light assy. one piece)) Rear turn signal light: 12V-21W Backlight: 12V-16W"
+      "text": "Rotate the socket (A) counterclockwise to remove it."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the valve (B). Brake/Tail light: LED (non-disassembled (tail light assy. one piece)) Rear turn signal light: 12V-21W Backlight: 12V-16W"
     },
     {
       "type": "heading",

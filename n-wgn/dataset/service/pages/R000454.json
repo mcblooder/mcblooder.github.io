@@ -205,24 +205,6 @@
         "O-rings shall be replaced upon disassembly.",
         "When replenishing cooling water, do not allow the cooling water to adhere to electrical components or painted surfaces. If it does adhere, wipe it off immediately."
       ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "O-rings shall be replaced upon disassembly."
-        },
-        {
-          "text": "O-rings shall be replaced upon disassembly."
-        },
-        {
-          "text": "When replenishing cooling water, do not allow the cooling water to adhere to electrical components or painted surfaces. If it does adhere, wipe it off immediately."
-        },
-        {
-          "text": "When replenishing cooling water, do not allow the cooling water to adhere to electrical components or painted surfaces. If it does adhere, wipe it off immediately."
-        }
-      ]
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000454_jpn/web/html/R000454_jpn_Content.html",

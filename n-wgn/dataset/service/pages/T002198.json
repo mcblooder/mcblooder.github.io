@@ -46,19 +46,7 @@
     {
       "type": "step",
       "number": "",
-      "text": "1. Connect HDS to the data link coupler (A) located in the driver's seat. 2. Turn ignition to ON mode. 3. Verify that HDS communicates with the vehicle and the PGM-FI ECU. 4. Check DTC. 5. Check the cruise control input. signal Measuring conditions display items Inspection items in case of abnormality Cruise Main SW Press (release) the CRUISE button. Cruise Main SW signal value turns ON when button is pressed and OFF when released Cruise Set SW Press (release) the SET- button. Cruise Set SW signal value turns ON when button is pressed and OFF when released Cruise Resume SW Press (release) the RES+ button. Cruise Resume SW signal value turns ON when button is pressed and OFF when released Cruise Cancel SW Press (release) the CANCEL button. Cruise Cancel SW signal value turns ON when button is pressed and OFF when released Cruise Brake SW Brake pedal (release) Cruise The value of the brake SW signal becomes OPEN when the brake pedal is depressed and CLOSE when it is released. Cruise Indicator Press the CRUISE button when the car is ready to run, and set (cancel) cruise while driving at 40 km/h or more. Cruise indicator signal value turns ON when cruise is set and OFF when canceled",
-      "refs": [
-        {
-          "id": "T002567",
-          "label": "Inspect data link circuits",
-          "resolved": false
-        },
-        {
-          "id": "R000448",
-          "label": "Replace with a new PGM-FI ECU.",
-          "resolved": true
-        }
-      ]
+      "text": "1. Connect HDS to the data link coupler (A) located in the driver's seat. 2. Turn ignition to ON mode. 3. Verify that HDS communicates with the vehicle and the PGM-FI ECU. 4. Check DTC. 5. Check the cruise control input."
     },
     {
       "type": "figure",
@@ -109,57 +97,104 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Cruise control Combination switch"
-        },
-        {
-          "text": "Disconnected or shorted cord between combination meter and cruise control combination switch"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Cruise control Combination switch"
-        },
-        {
-          "text": "Disconnected or shorted cord between combination meter and cruise control combination switch"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Brake switch"
-        },
-        {
-          "text": "No. C32 (7.5A) fuse in fuse box"
-        },
-        {
-          "text": "Disconnection or short circuit of cord between PGM-FI ECU and brake switch"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Combination Meter"
-        },
-        {
-          "text": "Cruise control Combination switch"
-        },
-        {
-          "text": "Disconnected or shorted cord between combination meter and cruise control combination switch"
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "signal",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "display items",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Cruise Main SW"
+          },
+          {
+            "text": "Press (release) the CRUISE button."
+          },
+          {
+            "text": "Cruise Main SW signal value turns ON when button is pressed and OFF when released"
+          },
+          {
+            "text": "Cruise control Combination switch Disconnected or shorted cord between combination meter and cruise control combination switch"
+          }
+        ],
+        [
+          {
+            "text": "Cruise Set SW"
+          },
+          {
+            "text": "Press (release) the SET- button."
+          },
+          {
+            "text": "Cruise Set SW signal value turns ON when button is pressed and OFF when released"
+          },
+          {
+            "text": "Cruise control Combination switch Disconnected or shorted cord between combination meter and cruise control combination switch"
+          }
+        ],
+        [
+          {
+            "text": "Cruise Resume SW"
+          },
+          {
+            "text": "Press (release) the RES+ button."
+          },
+          {
+            "text": "Cruise Resume SW signal value turns ON when button is pressed and OFF when released"
+          }
+        ],
+        [
+          {
+            "text": "Cruise Cancel SW"
+          },
+          {
+            "text": "Press (release) the CANCEL button."
+          },
+          {
+            "text": "Cruise Cancel SW signal value turns ON when button is pressed and OFF when released"
+          }
+        ],
+        [
+          {
+            "text": "Cruise Brake SW"
+          },
+          {
+            "text": "Brake pedal (release)"
+          },
+          {
+            "text": "Cruise The value of the brake SW signal becomes OPEN when the brake pedal is depressed and CLOSE when it is released."
+          },
+          {
+            "text": "Brake switch No. C32 (7.5A) fuse in fuse box Disconnection or short circuit of cord between PGM-FI ECU and brake switch"
+          }
+        ],
+        [
+          {
+            "text": "Cruise Indicator"
+          },
+          {
+            "text": "Press the CRUISE button when the car is ready to run, and set (cancel) cruise while driving at 40 km/h or more."
+          },
+          {
+            "text": "Cruise indicator signal value turns ON when cruise is set and OFF when canceled"
+          },
+          {
+            "text": "Combination Meter Cruise control Combination switch Disconnected or shorted cord between combination meter and cruise control combination switch"
+          }
+        ]
       ]
     }
   ],

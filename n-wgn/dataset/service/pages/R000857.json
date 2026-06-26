@@ -138,14 +138,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install rear emblem/stickers.",
-      "refs": [
-        {
-          "id": "R000854",
-          "label": "For the rear center emblem, remove the rear license garnish.",
-          "resolved": true
-        }
-      ]
+      "text": "Install rear emblem/stickers."
     },
     {
       "type": "list",

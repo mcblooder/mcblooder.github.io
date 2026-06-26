@@ -188,24 +188,6 @@
         "The outer seal must be press-fitted to the bearing support end face.",
         "The outer seal shall be assembled so that the lip is not inverted."
       ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The outer seal must be press-fitted to the bearing support end face."
-        },
-        {
-          "text": "The outer seal must be press-fitted to the bearing support end face."
-        },
-        {
-          "text": "The outer seal shall be assembled so that the lip is not inverted."
-        },
-        {
-          "text": "The outer seal shall be assembled so that the lip is not inverted."
-        }
-      ]
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000611_jpn/web/html/R000611_jpn_Content.html",

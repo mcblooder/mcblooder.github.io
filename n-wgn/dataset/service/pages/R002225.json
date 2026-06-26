@@ -56,7 +56,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Turn ignition OFF (LOCK) mode. Disconnect the coupler (A). Disconnect the 12V battery sensor (B) from the negative (-) terminal of the 12V battery. 12V battery Disconnect cable (D) from sensor. 12V battery Remove cover (E) from sensor."
+      "text": "Turn ignition OFF (LOCK) mode. Disconnect the coupler (A)."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Disconnect the 12V battery sensor (B) from the negative (-) terminal of the 12V battery. 12V battery Disconnect cable (D) from sensor. 12V battery Remove cover (E) from sensor."
     },
     {
       "type": "attention",
@@ -128,24 +133,6 @@
       "items": [
         "To prevent breakage, do not hold the connector part (C) and do not perform the detachment operation.",
         "Tighten the 12V battery terminals with torque within the specified range depending on the looseness of the terminals."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "To prevent breakage, do not hold the connector part (C) and do not perform the detachment operation."
-        },
-        {
-          "text": "To prevent breakage, do not hold the connector part (C) and do not perform the detachment operation."
-        },
-        {
-          "text": "Tighten the 12V battery terminals with torque within the specified range depending on the looseness of the terminals."
-        },
-        {
-          "text": "Tighten the 12V battery terminals with torque within the specified range depending on the looseness of the terminals."
-        }
       ]
     }
   ],

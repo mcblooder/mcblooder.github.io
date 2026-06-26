@@ -60,7 +60,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the coupler from the inside/outside air switching motor. Confirm that the motor operates when the positive (+) terminal of the 12V battery is connected to the No. 4 terminal of the inside/outside air switching motor and the negative (-) terminal to the No. 1 or No. 2 terminal. A No. 1 or No. 2 terminal that does not operate when first connected is normal if the motor operates when reconnected for the last time. If the motor does not operate in step 2, remove the inside/outside air switching motor and check that the damper linkage operates smoothly. If the damper linkage operates smoothly, Replace the inside/outside air switching motor.",
+      "text": "Disconnect the coupler from the inside/outside air switching motor."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Confirm that the motor operates when the positive (+) terminal of the 12V battery is connected to the No. 4 terminal of the inside/outside air switching motor and the negative (-) terminal to the No. 1 or No. 2 terminal. A No. 1 or No. 2 terminal that does not operate when first connected is normal if the motor operates when reconnected for the last time. If the motor does not operate in step 2, remove the inside/outside air switching motor and check that the damper linkage operates smoothly. If the damper linkage operates smoothly, Replace the inside/outside air switching motor.",
       "refs": [
         {
           "id": "R000897",

@@ -85,19 +85,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the air cleaner.",
-      "refs": [
-        {
-          "id": "R000412",
-          "label": "Cars not equipped with a turbo charger",
-          "resolved": true
-        },
-        {
-          "id": "R000413",
-          "label": "Turbo Charger equipped vehicle",
-          "resolved": true
-        }
-      ]
+      "text": "Remove the air cleaner."
     },
     {
       "type": "list",

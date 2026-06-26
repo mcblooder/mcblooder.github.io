@@ -47,7 +47,7 @@
     {
       "type": "step",
       "number": "",
-      "text": "1. Disconnect headlight leveling motor 3-pin coupler The following is a list of the most common problems with the *1: Vehicles equipped with headlight auto-leveling system *2: Vehicles without headlight auto-leveling system 2. Check the input and if all is normal and there is an abnormality in the operation of the headlight leveling, Replace headlight leveling motor Do. Vehicles equipped with headlight auto-leveling system inspection terminal Wiring color Measuring conditions result Inspection items in case of abnormality 1 peach 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. 3 green Ignition ON mode Battery voltage must be present between the inspection terminal and ground. 2 white Ignition ON mode 10 to 90% of battery voltage between inspection terminal and body ground Vehicles not equipped with the headlight auto-leveling system inspection terminal Wiring color Measuring conditions result Inspection items in case of abnormality 1 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. 3 peach Ignition ON mode Battery voltage must be present between the inspection terminal and ground. Cord disconnection and terminal connection condition 2 white Headlight leveling switch dial 3 positions Resistance of approx. 2.5 kΩ between inspection terminal and body ground",
+      "text": "1. Disconnect headlight leveling motor 3-pin coupler The following is a list of the most common problems with the 2. Check the input and if all is normal and there is an abnormality in the operation of the headlight leveling, Replace headlight leveling motor Do.",
       "refs": [
         {
           "id": "R002231",
@@ -66,69 +66,169 @@
       "asset": "2766_3.0_jpn_11579706_3.0_disp.png"
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G202)"
-        },
-        {
-          "text": "Headlight auto-leveling control unit"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "*1: Vehicles equipped with headlight auto-leveling system *2: Vehicles without headlight auto-leveling system"
+          }
+        ]
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Headlight auto-leveling control unit"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G202) Headlight auto-leveling control unit Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Ignition ON mode"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and ground."
+          },
+          {
+            "text": "Headlight auto-leveling control unit Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "Ignition ON mode"
+          },
+          {
+            "text": "10 to 90% of battery voltage between inspection terminal and body ground"
+          },
+          {
+            "text": "Headlight auto-leveling control unit Cord disconnection and terminal connection condition"
+          }
+        ]
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Headlight auto-leveling control unit"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G201, G301)"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G402)"
-        },
-        {
-          "text": "Headlight manual leveling switch"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G201, G301) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "Ignition ON mode"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and ground."
+          },
+          {
+            "text": "Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "Headlight leveling switch dial 3 positions"
+          },
+          {
+            "text": "Resistance of approx. 2.5 kΩ between inspection terminal and body ground"
+          },
+          {
+            "text": "Grounding failure (G402) Headlight manual leveling switch Cord disconnection and terminal connection condition"
+          }
+        ]
       ]
     }
   ],

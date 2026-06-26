@@ -33,7 +33,148 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Inspect brake hoses for damage, interference with other parts, kinks, or leaks. Inspect brake pipes for crushed, bent, damaged, corroded, or leaking fluid. Inspect hose and pipe joints for oozing or leakage, and retighten as necessary to the specified torque. Inspect the joint between the VSA modulator control unit and the pipe for oozing or leakage, and retighten to the specified torque if necessary. symbol parts connection torque A Front brake caliper (12-inch brake spec. vehicle) Brake Hose (Oil Bolt) 35N·m（3.6kgf·m） Bleed screw 8.5N·m（0.87kgf·m） Front brake caliper (13-inch brake spec car) Brake Hose (Oil Bolt) 35N·m（3.6kgf·m） Bleed screw 7.9N·m（0.81kgf·m） B Rear wheel Cylinder Brake Pipe 15N·m（1.5kgf·m） Bleed screw 6.9N·m（0.70kgf·m） C Brake Hose Brake Pipe 15N·m（1.5kgf·m） D Master Cylinder Brake Pipe 22N·m（2.2kgf·m） E VSA Modulator Control Unit Brake Pipe (10 mm flare nut) 15N·m（1.5kgf·m） Brake Pipe (12 mm flare nut) 22N·m（2.2kgf·m）"
+      "text": "Inspect brake hoses for damage, interference with other parts, kinks, or leaks. Inspect brake pipes for crushed, bent, damaged, corroded, or leaking fluid. Inspect hose and pipe joints for oozing or leakage, and retighten as necessary to the specified torque."
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Inspect the joint between the VSA modulator control unit and the pipe for oozing or leakage, and retighten to the specified torque if necessary."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "symbol",
+            "header": true
+          },
+          {
+            "text": "parts",
+            "header": true
+          },
+          {
+            "text": "connection",
+            "header": true
+          },
+          {
+            "text": "torque",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "A"
+          },
+          {
+            "text": "Front brake caliper (12-inch brake spec. vehicle)"
+          },
+          {
+            "text": "Brake Hose (Oil Bolt)"
+          },
+          {
+            "text": "35N·m（3.6kgf·m）"
+          }
+        ],
+        [
+          {
+            "text": "Bleed screw"
+          },
+          {
+            "text": "8.5N·m（0.87kgf·m）"
+          }
+        ],
+        [
+          {
+            "text": "Front brake caliper (13-inch brake spec car)"
+          },
+          {
+            "text": "Brake Hose (Oil Bolt)"
+          },
+          {
+            "text": "35N·m（3.6kgf·m）"
+          }
+        ],
+        [
+          {
+            "text": "Bleed screw"
+          },
+          {
+            "text": "7.9N·m（0.81kgf·m）"
+          }
+        ],
+        [
+          {
+            "text": "B"
+          },
+          {
+            "text": "Rear wheel Cylinder"
+          },
+          {
+            "text": "Brake Pipe"
+          },
+          {
+            "text": "15N·m（1.5kgf·m）"
+          }
+        ],
+        [
+          {
+            "text": "Bleed screw"
+          },
+          {
+            "text": "6.9N·m（0.70kgf·m）"
+          }
+        ],
+        [
+          {
+            "text": "C"
+          },
+          {
+            "text": "Brake Hose"
+          },
+          {
+            "text": "Brake Pipe"
+          },
+          {
+            "text": "15N·m（1.5kgf·m）"
+          }
+        ],
+        [
+          {
+            "text": "D"
+          },
+          {
+            "text": "Master Cylinder"
+          },
+          {
+            "text": "Brake Pipe"
+          },
+          {
+            "text": "22N·m（2.2kgf·m）"
+          }
+        ],
+        [
+          {
+            "text": "E"
+          },
+          {
+            "text": "VSA Modulator Control Unit"
+          },
+          {
+            "text": "Brake Pipe (10 mm flare nut)"
+          },
+          {
+            "text": "15N·m（1.5kgf·m）"
+          }
+        ],
+        [
+          {
+            "text": "Brake Pipe (12 mm flare nut)"
+          },
+          {
+            "text": "22N·m（2.2kgf·m）"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",

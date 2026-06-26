@@ -16,7 +16,33 @@
   ],
   "assetDir": "assets/T001323",
   "assets": [],
-  "crossRefs": [],
+  "crossRefs": [
+    {
+      "id": "T002879",
+      "label": "P0555",
+      "resolved": false
+    },
+    {
+      "id": "T002880",
+      "label": "P0557",
+      "resolved": false
+    },
+    {
+      "id": "T002881",
+      "label": "P15C5",
+      "resolved": false
+    },
+    {
+      "id": "T002882",
+      "label": "P15C7",
+      "resolved": false
+    },
+    {
+      "id": "T002883",
+      "label": "P15C9",
+      "resolved": false
+    }
+  ],
   "blocks": [
     {
       "type": "heading",
@@ -27,28 +53,89 @@
       "type": "table",
       "rows": [
         [
-          "DTC",
-          "Failure diagnosis detection items"
+          {
+            "text": "DTC",
+            "header": true
+          },
+          {
+            "text": "Failure diagnosis detection items",
+            "header": true
+          }
         ],
         [
-          "P0555",
-          "Master Power negative pressure sensor A voltage high"
+          {
+            "text": "P0555",
+            "refs": [
+              {
+                "id": "T002879",
+                "label": "P0555",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Master Power negative pressure sensor A voltage high"
+          }
         ],
         [
-          "P0557",
-          "Master Power Negative Pressure Sensor A Voltage Low"
+          {
+            "text": "P0557",
+            "refs": [
+              {
+                "id": "T002880",
+                "label": "P0557",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Master Power Negative Pressure Sensor A Voltage Low"
+          }
         ],
         [
-          "P15C5",
-          "Master Power negative pressure sensor A characteristic abnormal (Lo side)"
+          {
+            "text": "P15C5",
+            "refs": [
+              {
+                "id": "T002881",
+                "label": "P15C5",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Master Power negative pressure sensor A characteristic abnormal (Lo side)"
+          }
         ],
         [
-          "P15C7",
-          "Master Power negative pressure sensor A characteristic abnormal (Hi side)"
+          {
+            "text": "P15C7",
+            "refs": [
+              {
+                "id": "T002882",
+                "label": "P15C7",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Master Power negative pressure sensor A characteristic abnormal (Hi side)"
+          }
         ],
         [
-          "P15C9",
-          "Master Power negative pressure sensor A characteristic abnormal (sticking)"
+          {
+            "text": "P15C9",
+            "refs": [
+              {
+                "id": "T002883",
+                "label": "P15C9",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Master Power negative pressure sensor A characteristic abnormal (sticking)"
+          }
         ]
       ]
     }

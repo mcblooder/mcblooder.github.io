@@ -16,7 +16,93 @@
   ],
   "assetDir": "assets/T001360",
   "assets": [],
-  "crossRefs": [],
+  "crossRefs": [
+    {
+      "id": "T001384",
+      "label": "U1280",
+      "resolved": false
+    },
+    {
+      "id": "T001385",
+      "label": "U128D",
+      "resolved": false
+    },
+    {
+      "id": "T001368",
+      "label": "B1225",
+      "resolved": false
+    },
+    {
+      "id": "T001369",
+      "label": "B1226",
+      "resolved": false
+    },
+    {
+      "id": "T001370",
+      "label": "B1227",
+      "resolved": false
+    },
+    {
+      "id": "T001371",
+      "label": "B1228",
+      "resolved": false
+    },
+    {
+      "id": "T001372",
+      "label": "B1229",
+      "resolved": false
+    },
+    {
+      "id": "T001373",
+      "label": "B1230",
+      "resolved": false
+    },
+    {
+      "id": "T001374",
+      "label": "B1231",
+      "resolved": false
+    },
+    {
+      "id": "T001375",
+      "label": "B1232",
+      "resolved": false
+    },
+    {
+      "id": "T002724",
+      "label": "B1233",
+      "resolved": false
+    },
+    {
+      "id": "T002725",
+      "label": "B1234",
+      "resolved": false
+    },
+    {
+      "id": "T002726",
+      "label": "B1235",
+      "resolved": false
+    },
+    {
+      "id": "T001379",
+      "label": "B1239",
+      "resolved": false
+    },
+    {
+      "id": "T001380",
+      "label": "B1240",
+      "resolved": false
+    },
+    {
+      "id": "T001381",
+      "label": "B1241",
+      "resolved": false
+    },
+    {
+      "id": "T001382",
+      "label": "B2969",
+      "resolved": false
+    }
+  ],
   "blocks": [
     {
       "type": "heading",
@@ -27,76 +113,269 @@
       "type": "table",
       "rows": [
         [
-          "DTC",
-          "Failure diagnosis detection items"
+          {
+            "text": "DTC",
+            "header": true
+          },
+          {
+            "text": "Failure diagnosis detection items",
+            "header": true
+          }
         ],
         [
-          "U1280",
-          "Auto A/C control unit communication circuit error (Bus off)"
+          {
+            "text": "U1280",
+            "refs": [
+              {
+                "id": "T001384",
+                "label": "U1280",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Auto A/C control unit communication circuit error (Bus off)"
+          }
         ],
         [
-          "U128D",
-          "Auto A/C control unit cannot receive communication from combination meter control unit"
+          {
+            "text": "U128D",
+            "refs": [
+              {
+                "id": "T001385",
+                "label": "U128D",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Auto A/C control unit cannot receive communication from combination meter control unit"
+          }
         ],
         [
-          "B1225",
-          "Disconnection of cord of internal air temperature sensor, sensor failure"
+          {
+            "text": "B1225",
+            "refs": [
+              {
+                "id": "T001368",
+                "label": "B1225",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of cord of internal air temperature sensor, sensor failure"
+          }
         ],
         [
-          "B1226",
-          "Shorted cord of internal air temperature sensor, defective sensor"
+          {
+            "text": "B1226",
+            "refs": [
+              {
+                "id": "T001369",
+                "label": "B1226",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Shorted cord of internal air temperature sensor, defective sensor"
+          }
         ],
         [
-          "B1227",
-          "Disconnection of cord of outside temperature sensor, sensor failure"
+          {
+            "text": "B1227",
+            "refs": [
+              {
+                "id": "T001370",
+                "label": "B1227",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of cord of outside temperature sensor, sensor failure"
+          }
         ],
         [
-          "B1228",
-          "Short-circuited cord of outside temperature sensor, defective sensor"
+          {
+            "text": "B1228",
+            "refs": [
+              {
+                "id": "T001371",
+                "label": "B1228",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Short-circuited cord of outside temperature sensor, defective sensor"
+          }
         ],
         [
-          "B1229",
-          "Disconnection of cord of solar radiation sensor, sensor failure"
+          {
+            "text": "B1229",
+            "refs": [
+              {
+                "id": "T001372",
+                "label": "B1229",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of cord of solar radiation sensor, sensor failure"
+          }
         ],
         [
-          "B1230",
-          "Short circuit in cord of solar radiation sensor, sensor failure"
+          {
+            "text": "B1230",
+            "refs": [
+              {
+                "id": "T001373",
+                "label": "B1230",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Short circuit in cord of solar radiation sensor, sensor failure"
+          }
         ],
         [
-          "B1231",
-          "Evaporator Disconnection of sensor cord, sensor failure"
+          {
+            "text": "B1231",
+            "refs": [
+              {
+                "id": "T001374",
+                "label": "B1231",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Evaporator Disconnection of sensor cord, sensor failure"
+          }
         ],
         [
-          "B1232",
-          "Evaporator Shorted sensor cord, defective sensor"
+          {
+            "text": "B1232",
+            "refs": [
+              {
+                "id": "T001375",
+                "label": "B1232",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Evaporator Shorted sensor cord, defective sensor"
+          }
         ],
         [
-          "B1233",
-          "Disconnection of potentiometer of air mix motor"
+          {
+            "text": "B1233",
+            "refs": [
+              {
+                "id": "T002724",
+                "label": "B1233",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of potentiometer of air mix motor"
+          }
         ],
         [
-          "B1234",
-          "Short circuit of potentiometer of air mix motor"
+          {
+            "text": "B1234",
+            "refs": [
+              {
+                "id": "T002725",
+                "label": "B1234",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Short circuit of potentiometer of air mix motor"
+          }
         ],
         [
-          "B1235",
-          "Air Mix Motor Locks"
+          {
+            "text": "B1235",
+            "refs": [
+              {
+                "id": "T002726",
+                "label": "B1235",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Air Mix Motor Locks"
+          }
         ],
         [
-          "B1239",
-          "Mode Disconnection or short-circuit of motor cord"
+          {
+            "text": "B1239",
+            "refs": [
+              {
+                "id": "T001379",
+                "label": "B1239",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Mode Disconnection or short-circuit of motor cord"
+          }
         ],
         [
-          "B1240",
-          "Mode Motor Lock"
+          {
+            "text": "B1240",
+            "refs": [
+              {
+                "id": "T001380",
+                "label": "B1240",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Mode Motor Lock"
+          }
         ],
         [
-          "B1241",
-          "Blower Motor cord break, short, blown fuse, motor lock"
+          {
+            "text": "B1241",
+            "refs": [
+              {
+                "id": "T001381",
+                "label": "B1241",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Blower Motor cord break, short, blown fuse, motor lock"
+          }
         ],
         [
-          "B2969",
-          "Unable to receive wiper frames from MICU"
+          {
+            "text": "B2969",
+            "refs": [
+              {
+                "id": "T001382",
+                "label": "B2969",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Unable to receive wiper frames from MICU"
+          }
         ]
       ]
     }

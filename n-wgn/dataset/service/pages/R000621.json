@@ -70,7 +70,36 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install a new sealing washer (A) and tighten the drain bolt (B). Inject the specified \"Honda Genuine Ultra HGO-μ (hypoid gear oil)\" through the filler bolt (C) hole to the same level as the underside of the screw. Specified oil Genuine Honda Ultra HGO-μ (hypoid gear oil) During overhaul 0.35L At exchange: 1 0.34L Install a new sealing washer (D) and tighten the filler bolt."
+      "text": "Install a new sealing washer (A) and tighten the drain bolt (B). Inject the specified \"Honda Genuine Ultra HGO-μ (hypoid gear oil)\" through the filler bolt (C) hole to the same level as the underside of the screw. Install a new sealing washer (D) and tighten the filler bolt."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Specified oil"
+          },
+          {
+            "text": "Genuine Honda Ultra HGO-μ (hypoid gear oil)"
+          }
+        ],
+        [
+          {
+            "text": "During overhaul"
+          },
+          {
+            "text": "0.35L"
+          }
+        ],
+        [
+          {
+            "text": "At exchange: 1"
+          },
+          {
+            "text": "0.34L"
+          }
+        ]
+      ]
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000621_jpn/web/html/R000621_jpn_Content.html",

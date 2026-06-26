@@ -101,19 +101,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the air cleaner.",
-      "refs": [
-        {
-          "id": "R000412",
-          "label": "Cars not equipped with a turbo charger",
-          "resolved": true
-        },
-        {
-          "id": "R000413",
-          "label": "Turbo Charger equipped vehicle",
-          "resolved": true
-        }
-      ]
+      "text": "Remove the air cleaner."
     },
     {
       "type": "list",
@@ -301,37 +289,26 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "If the liquid packing is left on for more than 4 minutes after application, do not install it as it is. Remove the packing once and reapply."
-        },
-        {
-          "text": "If the liquid packing is left on for more than 4 minutes after application, do not install it as it is. Remove the packing once and reapply."
-        },
-        {
-          "text": "Oil should be injected after at least 30 minutes after installation."
-        },
-        {
-          "text": "Oil should be injected after at least 30 minutes after installation."
-        },
-        {
-          "text": "Do not touch the liquid packing-applied surface."
-        },
-        {
-          "text": "Do not touch the liquid packing-applied surface."
-        }
-      ]
-    },
-    {
       "type": "figure",
       "asset": "371_5.0_jpn_11582823_5.0_disp.png"
     },
     {
       "type": "step",
       "number": "7",
-      "text": "Tighten the head cover bolts in three separate tightening cycles in numerical order. Torque: 0.5 to 1.0 MPa 7.0N·m (0.71kgf·m)"
+      "text": "Tighten the head cover bolts in three separate tightening cycles in numerical order."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Torque: 0.5 to 1.0 MPa"
+          },
+          {
+            "text": "7.0N·m (0.71kgf·m)"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -431,19 +408,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install the air cleaner.",
-      "refs": [
-        {
-          "id": "R000412",
-          "label": "Cars not equipped with a turbo charger",
-          "resolved": true
-        },
-        {
-          "id": "R000413",
-          "label": "Turbo Charger equipped vehicle",
-          "resolved": true
-        }
-      ]
+      "text": "Install the air cleaner."
     },
     {
       "type": "list",

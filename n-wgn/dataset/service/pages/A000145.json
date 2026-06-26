@@ -58,7 +58,50 @@
       "type": "table",
       "rows": [
         [
-          "D/C: Drive Cycle"
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "By reproducible testing methods"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: off, D indicator light: flashing"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ],
+        [
+          {
+            "text": "D/C: Drive Cycle",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -71,7 +114,89 @@
       "type": "table",
       "rows": [
         [
-          "*: Symptom 1 **: Symptom 2-A ***: Symptom 2-B [ ]: HDS Parameters"
+          {
+            "text": "condition entry",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Engine RPM [engine rpm].",
+            "colspan": 2
+          },
+          {
+            "text": "500rpm"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Vehicle speed [vehicle speed]*",
+            "colspan": 2
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "5km/h"
+          }
+        ],
+        [
+          {
+            "text": "Gas pedal Pedal Position",
+            "colspan": 2
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "2.7°*"
+          }
+        ],
+        [
+          {
+            "text": "4°** 、 ***"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Select Lever Position",
+            "colspan": 2
+          },
+          {
+            "text": "D",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC",
+            "colspan": 2
+          },
+          {
+            "text": "P0502､ P0705､ P0706､ P0716､ P0717､ P0780､ P0792､ P0793､ P0796､ P0797､ P0962､ P0963､ P0966､ P0967､ P0970､ P0971､ P1898､ P2714､ P2715､ P2720､ P2721",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "*: Symptom 1 **: Symptom 2-A ***: Symptom 2-B [ ]: HDS Parameters",
+            "colspan": 4
+          }
         ]
       ]
     },
@@ -100,25 +225,56 @@
       "type": "table",
       "rows": [
         [
-          "symptoms",
-          "Vehicle Condition",
-          "Information detected by PGM-FI ECU"
+          {
+            "text": "symptoms",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "Vehicle Condition",
+            "header": true
+          },
+          {
+            "text": "Information detected by PGM-FI ECU",
+            "header": true
+          }
         ],
         [
-          "1",
-          "In-gear stop",
-          "Pulley ratio greater than 0.3 and less than 0.6 for 2.5 seconds Continued from above"
+          {
+            "text": "1",
+            "colspan": 2
+          },
+          {
+            "text": "In-gear stop"
+          },
+          {
+            "text": "Pulley ratio greater than 0.3 and less than 0.6 for 2.5 seconds Continued from above"
+          }
         ],
         [
-          "2",
-          "2-A",
-          "takeoff",
-          "Input torque undersized"
+          {
+            "text": "2"
+          },
+          {
+            "text": "2-A"
+          },
+          {
+            "text": "takeoff"
+          },
+          {
+            "text": "Input torque undersized"
+          }
         ],
         [
-          "2-B",
-          "running",
-          "Pulley ratio exceeds 3.0"
+          {
+            "text": "2-B"
+          },
+          {
+            "text": "running"
+          },
+          {
+            "text": "Pulley ratio exceeds 3.0"
+          }
         ]
       ]
     },

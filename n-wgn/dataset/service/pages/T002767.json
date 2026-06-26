@@ -55,7 +55,7 @@
     {
       "type": "step",
       "number": "",
-      "text": "1. Disconnect the headlight auto-leveling control unit 12-pin coupler. The following is a list of the most common problems with the 2. Perform input inspection and if all is normal, step 3 Proceed to inspection terminal Wiring color Measuring conditions result Inspection items in case of abnormality 12 black Ignition ON mode There should be continuity between the inspection terminal and ground. 6 purple Ignition ON mode Battery voltage must be present between the inspection terminal and ground. 3. Reconnect Headlight Auto Leveling Control Unit 12P Coupler Do. 4. Perform input inspection, if all is normal and there is something wrong with the system, Replace headlight auto-leveling control unit Do. If the headlight auto-leveling control unit has been replaced, Perform initial position learning of headlights. The following is a list of the most common problems with the inspection terminal Wiring color Measuring conditions result Inspection items in case of abnormality 3 ash 24-hour (e.g. observation, operation (of a machine), care (of patient)) There should be continuity between the inspection terminal and ground. 4 peach 5 green Ignition ON mode, lighting switch LO position Battery voltage must be present between No. 5 and No. 4 terminals 4 peach 11 white Ignition ON mode, lighting switch LO position 10 to 90% of battery voltage between No. 11 and No. 4 terminals 4 peach 10 yellow Ignition ON mode 1 red 3 ash",
+      "text": "1. Disconnect the headlight auto-leveling control unit 12-pin coupler. The following is a list of the most common problems with the 2. Perform input inspection and if all is normal, step 3 Proceed to 3. Reconnect Headlight Auto Leveling Control Unit 12P Coupler Do. 4. Perform input inspection, if all is normal and there is something wrong with the system, Replace headlight auto-leveling control unit Do. If the headlight auto-leveling control unit has been replaced, Perform initial position learning of headlights. The following is a list of the most common problems with the",
       "refs": [
         {
           "id": "R000970",
@@ -84,93 +84,199 @@
       "asset": "2767_3.0_jpn_11278940_3.0_disp.png"
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G202)"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "12"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "Ignition ON mode"
+          },
+          {
+            "text": "There should be continuity between the inspection terminal and ground."
+          },
+          {
+            "text": "Grounding failure (G202) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "6"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "Ignition ON mode"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and ground."
+          },
+          {
+            "text": "Blown No. C7 (7.5A) fuse in fuse box Cord disconnection and terminal connection condition"
+          }
+        ]
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Blown No. C7 (7.5A) fuse in fuse box"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G202)"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Headlight Leveling Motor"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Headlight Leveling Motor"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Approximately 5 V between No. 10 and No. 3 terminals"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "There should be a voltage of approximately 0.5-4.5V between No.1 and No.3 terminals"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Rear headlight leveling sensor"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "ash"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "There should be continuity between the inspection terminal and ground."
+          },
+          {
+            "text": "Grounding failure (G202) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "peach"
+          }
+        ],
+        [
+          {
+            "text": "5"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Ignition ON mode, lighting switch LO position"
+          },
+          {
+            "text": "Battery voltage must be present between No. 5 and No. 4 terminals"
+          },
+          {
+            "text": "Headlight Leveling Motor Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "peach"
+          }
+        ],
+        [
+          {
+            "text": "11"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "Ignition ON mode, lighting switch LO position"
+          },
+          {
+            "text": "10 to 90% of battery voltage between No. 11 and No. 4 terminals"
+          },
+          {
+            "text": "Headlight Leveling Motor Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "peach"
+          }
+        ],
+        [
+          {
+            "text": "10"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "Ignition ON mode"
+          },
+          {
+            "text": "Approximately 5 V between No. 10 and No. 3 terminals There should be a voltage of approximately 0.5-4.5V between No.1 and No.3 terminals"
+          },
+          {
+            "text": "Rear headlight leveling sensor Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "red"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "ash"
+          }
+        ]
       ]
     }
   ],

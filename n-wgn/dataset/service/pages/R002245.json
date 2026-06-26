@@ -78,14 +78,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Turn ignition to ON mode. Connect HDS to the data link coupler (A) located in the driver's seat. Ensure that HDS communicates with the vehicle and the City Brake Active System radar/control unit. Select Adjustments from the HDS Driver Assistance System, City Brake Active System menu and perform radar calibration.",
-      "refs": [
-        {
-          "id": "T002567",
-          "label": "Inspect data link circuits",
-          "resolved": false
-        }
-      ]
+      "text": "Turn ignition to ON mode. Connect HDS to the data link coupler (A) located in the driver's seat. Ensure that HDS communicates with the vehicle and the City Brake Active System radar/control unit. Select Adjustments from the HDS Driver Assistance System, City Brake Active System menu and perform radar calibration."
     },
     {
       "type": "list",

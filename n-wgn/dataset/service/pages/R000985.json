@@ -49,7 +49,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the coupler (A). Rotate the brake switch (B) counterclockwise to remove it. Remove the clip (C)."
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Rotate the brake switch (B) counterclockwise to remove it. Remove the clip (C)."
     },
     {
       "type": "heading",

@@ -144,19 +144,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Put the ignition in the OFF (LOCK) mode and check that negative pressure is maintained.",
-      "refs": [
-        {
-          "id": "R000502",
-          "label": "2-way valve leaking",
-          "resolved": true
-        },
-        {
-          "id": "R000505",
-          "label": "Purge control SOL.V. in installed condition",
-          "resolved": true
-        }
-      ]
+      "text": "Put the ignition in the OFF (LOCK) mode and check that negative pressure is maintained."
     },
     {
       "type": "list",
@@ -255,19 +243,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the negative pressure tube (A) from the canister, connect the hand vacuum pump (B), and verify that negative pressure is generated.",
-      "refs": [
-        {
-          "id": "R000505",
-          "label": "Installed state",
-          "resolved": true
-        },
-        {
-          "id": "R000504",
-          "label": "Replace canister",
-          "resolved": true
-        }
-      ]
+      "text": "Disconnect the negative pressure tube (A) from the canister, connect the hand vacuum pump (B), and verify that negative pressure is generated."
     },
     {
       "type": "list",

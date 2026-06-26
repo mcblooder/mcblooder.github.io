@@ -59,7 +59,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Loosen the wheel nut (A). Jack up the vehicle to lift the wheels. Remove the wheel nuts and remove the wheel."
+      "text": "Loosen the wheel nut (A). Jack up the vehicle to lift the wheels."
     },
     {
       "type": "attention",
@@ -69,22 +69,9 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "When jacking up the front wheels, be sure to apply the parking brake and secure the wheels to the rear wheels."
-        },
-        {
-          "text": "When jacking up the front wheels, be sure to apply the parking brake and secure the wheels to the rear wheels."
-        },
-        {
-          "text": "When jacking up the rear wheels, be sure to use wheel stops on the front wheels."
-        },
-        {
-          "text": "When jacking up the rear wheels, be sure to use wheel stops on the front wheels."
-        }
-      ]
+      "type": "step",
+      "number": "3",
+      "text": "Remove the wheel nuts and remove the wheel."
     },
     {
       "type": "heading",

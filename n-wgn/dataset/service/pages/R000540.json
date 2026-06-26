@@ -107,7 +107,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Apply the parking brake. Check that the tire pressure is at the standard value (see the tire label on the vehicle). (See the tire label on the vehicle.) If it is out of the standard value, adjust the air pressure to the standard value. Connect HDS to the data link coupler (A) on the left side of the driver's seat. Turn ignition to ON mode. Verify that HDS communicates with the vehicle and the PGM-FI ECU. If there is no communication, check the data link circuit. Select \"AT\" from the \"System Selection Menu\" in HDS. Select \"Various Tests\" from the \"Test Mode Menu\". Select \"Inclination Sensor Learning\" from the \"Various Tests Menu\". Select \"Inclination sensor initial learning\" from \"Inclination sensor learning\". The learning is performed once. Proceed with the work according to the HDS display, and the initial learning of the tilt sensor is completed when the display indicates that the learning is complete. If a message other than \"Learning Completed\" is displayed, the work shall be performed in accordance with the indication of HDS.",
+      "text": "Apply the parking brake. Check that the tire pressure is at the standard value (see the tire label on the vehicle). (See the tire label on the vehicle.) If it is out of the standard value, adjust the air pressure to the standard value. Select \"AT\" from the \"System Selection Menu\" in HDS. Select \"Various Tests\" from the \"Test Mode Menu\". Select \"Inclination Sensor Learning\" from the \"Various Tests Menu\". Select \"Inclination sensor initial learning\" from \"Inclination sensor learning\". The learning is performed once. Proceed with the work according to the HDS display, and the initial learning of the tilt sensor is completed when the display indicates that the learning is complete. If a message other than \"Learning Completed\" is displayed, the work shall be performed in accordance with the indication of HDS."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Connect HDS to the data link coupler (A) on the left side of the driver's seat. Turn ignition to ON mode. Verify that HDS communicates with the vehicle and the PGM-FI ECU. If there is no communication, check the data link circuit.",
       "refs": [
         {
           "id": "T002567",
@@ -128,7 +133,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Apply the parking brake. Check that the tire pressure is at the standard value (see the tire label on the vehicle). (See the tire label on the vehicle.) If it is out of the standard value, adjust the air pressure to the standard value. Mark all tire locations. Connect HDS to the data link coupler (A) on the left side of the driver's seat. Turn ignition to ON mode. Verify that HDS communicates with the vehicle and the PGM-FI ECU. If there is no communication, check the data link circuit. Select \"AT\" from the \"System Selection Menu\" in HDS. Select \"Various Tests\" from the \"Test Mode Menu\". Select \"Inclination Sensor Learning\" from the \"Various Tests Menu\". Select \"Inclination sensor initial learning\" from \"Inclination sensor learning\". The number of times to learn is 2 times. After completing the first study, turn the vehicle around, align the tires with the marked positions, stop the vehicle, and apply the parking brake. The initial learning of the tilt sensor is completed when the display indicates that the learning is complete. If a message other than \"Learning Completed\" is displayed, the work shall be performed in accordance with the indication of HDS.",
+      "text": "Apply the parking brake. Check that the tire pressure is at the standard value (see the tire label on the vehicle). (See the tire label on the vehicle.) If it is out of the standard value, adjust the air pressure to the standard value. Mark all tire locations. Select \"AT\" from the \"System Selection Menu\" in HDS. Select \"Various Tests\" from the \"Test Mode Menu\". Select \"Inclination Sensor Learning\" from the \"Various Tests Menu\". Select \"Inclination sensor initial learning\" from \"Inclination sensor learning\". The number of times to learn is 2 times. After completing the first study, turn the vehicle around, align the tires with the marked positions, stop the vehicle, and apply the parking brake. The initial learning of the tilt sensor is completed when the display indicates that the learning is complete. If a message other than \"Learning Completed\" is displayed, the work shall be performed in accordance with the indication of HDS."
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Connect HDS to the data link coupler (A) on the left side of the driver's seat. Turn ignition to ON mode. Verify that HDS communicates with the vehicle and the PGM-FI ECU. If there is no communication, check the data link circuit.",
       "refs": [
         {
           "id": "T002567",

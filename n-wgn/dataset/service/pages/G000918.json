@@ -68,12 +68,231 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Lighting timing: (lit in dark condition) Min→Low→Mid→High→Max (lit in bright condition)"
+          {
+            "text": "unit",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          },
+          {
+            "text": "setting (of a computer or file, etc.)",
+            "header": true
+          },
+          {
+            "text": "initialization",
+            "header": true
+          },
+          {
+            "text": "description",
+            "header": true
+          }
         ],
         [
-          "",
-          "Turn off timing: (Turn off in dark condition)Min→Low→Mid→High→Max (Turn off in bright condition)"
+          {
+            "text": "MICU"
+          },
+          {
+            "text": "Keyless Ansa Back"
+          },
+          {
+            "text": "Activated/deactivated"
+          },
+          {
+            "text": "operation"
+          },
+          {
+            "text": "Keyless operation can be set to activate/deactivate the answer-back function. (Answer-back by hazard)"
+          }
+        ],
+        [
+          {
+            "text": "Keyless Relock Time"
+          },
+          {
+            "text": "30 seconds/60 seconds/90 seconds"
+          },
+          {
+            "text": "30 sec."
+          },
+          {
+            "text": "The door lock function (relock) automatically locks the doors after a certain period of time has elapsed after the keyless unlocking operation, and the time until this relock can be set."
+          }
+        ],
+        [
+          {
+            "text": "Interior Light Duration"
+          },
+          {
+            "text": "15 seconds/30 seconds/60 seconds"
+          },
+          {
+            "text": "30 sec."
+          },
+          {
+            "text": "Allows setting of interior light on time after door is closed."
+          }
+        ],
+        [
+          {
+            "text": "Security Functions"
+          },
+          {
+            "text": "Activated/deactivated"
+          },
+          {
+            "text": "operation"
+          },
+          {
+            "text": "Activation/deactivation of security functions can be set."
+          }
+        ],
+        [
+          {
+            "text": "Front wiper washer interlocked"
+          },
+          {
+            "text": "Interlocking/Disinterlocking"
+          },
+          {
+            "text": "linked"
+          },
+          {
+            "text": "Front Washer function that wipes in conjunction with the front washer. (Continuous operation while the washer switch is ON)."
+          }
+        ],
+        [
+          {
+            "text": "Front wiper operation at startup"
+          },
+          {
+            "text": "Activated/deactivated"
+          },
+          {
+            "text": "operation"
+          },
+          {
+            "text": "Change the activation/deactivation of the function to wipe the front wiper once in conjunction with the starting operation (brake switch, parking brake, or shift position P position from ON to all OFF) when the front wiper is linked to the vehicle speed."
+          }
+        ],
+        [
+          {
+            "text": "Rear wiper operation"
+          },
+          {
+            "text": "Activated/deactivated"
+          },
+          {
+            "text": "operation"
+          },
+          {
+            "text": "Change the intermittent operation (operation) (interval: 7 seconds) of the rear wiper to continuous operation (non-operation) (LO fixed)."
+          }
+        ],
+        [
+          {
+            "text": "Rear wiper washer interlocked"
+          },
+          {
+            "text": "Activated/deactivated"
+          },
+          {
+            "text": "operation"
+          },
+          {
+            "text": "Change the activation/deactivation of the function that wipes in conjunction with the rear wiper washer (continuous operation when the washer switch is ON)."
+          }
+        ],
+        [
+          {
+            "text": "Rear wiper reverse interlocked"
+          },
+          {
+            "text": "Activated/deactivated"
+          },
+          {
+            "text": "operation"
+          },
+          {
+            "text": "Activates when the reverse position is selected during intermittent rear wiper operation or front wiper operation (Hi, Lo, or intermittent). Changes the activation/deactivation of the rear wiper's continuous wipe function."
+          }
+        ],
+        [
+          {
+            "text": "Auto Light Control Unit"
+          },
+          {
+            "text": "Auto Light Sensitivity Adjustment"
+          },
+          {
+            "text": "Min/Low/Mid/High/Max"
+          },
+          {
+            "text": "Mid"
+          },
+          {
+            "text": "Auto Light Sensor sensitivity (normal on/off timing) can be adjusted in 5 steps. Lighting timing: (lit in dark condition) Min→Low→Mid→High→Max (lit in bright condition) Turn off timing: (Turn off in dark condition)Min→Low→Mid→High→Max (Turn off in bright condition)"
+          }
+        ],
+        [
+          {
+            "text": "Smart ECU"
+          },
+          {
+            "text": "Honda Smart Key System Feature"
+          },
+          {
+            "text": "Enable/Disable"
+          },
+          {
+            "text": "validity"
+          },
+          {
+            "text": "Smart entry function can be enabled/disabled."
+          }
+        ],
+        [
+          {
+            "text": "Ansa Back Buzzer Volume"
+          },
+          {
+            "text": "Volume high/low"
+          },
+          {
+            "text": "volume (sound) magnitude"
+          },
+          {
+            "text": "Honda Smart Key system activation with loud/small answer back buzzer volume."
+          }
+        ],
+        [
+          {
+            "text": "Door Handle Buzzer Answer Back"
+          },
+          {
+            "text": "Enable/Disable"
+          },
+          {
+            "text": "validity"
+          },
+          {
+            "text": "The buzzer may or may not be answered by operating the door outer handles (lock/unlock switch) when the Honda Smart Key System is activated."
+          }
+        ],
+        [
+          {
+            "text": "Door Handles Lights Ansa Back"
+          },
+          {
+            "text": "Enable/Disable"
+          },
+          {
+            "text": "validity"
+          },
+          {
+            "text": "The hazard warning system is activated/deactivated by operating the door outer handles (lock/unlock switch) when the Honda Smart Key System is activated."
+          }
         ]
       ]
     }

@@ -52,7 +52,42 @@
       "type": "table",
       "rows": [
         [
-          "*: Idling stop system warning light (orange) illuminates D/C: Drive Cycle"
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "More than 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1D/C (single detection method), brake warning light (orange): off*."
+          }
+        ],
+        [
+          {
+            "text": "*: Idling stop system warning light (orange) illuminates D/C: Drive Cycle",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -65,12 +100,22 @@
       "type": "table",
       "rows": [
         [
-          "condition entry",
-          ""
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "",
+            "header": true
+          }
         ],
         [
-          "Ignition switch/ ENGINE START STOP switch",
-          "Ignition ON mode"
+          {
+            "text": "Ignition switch/ ENGINE START STOP switch"
+          },
+          {
+            "text": "Ignition ON mode"
+          }
         ]
       ]
     },

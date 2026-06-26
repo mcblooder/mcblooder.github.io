@@ -119,7 +119,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Fold down the rear seatback. Remove clip (A) and hook (B). Insert the handy remover between the body and the cargo side lining (C) and remove the clips (D and E). Pull the entire lining toward you and remove the hooks (G) from the rear pillar garnish (F)."
+      "text": "Fold down the rear seatback."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove clip (A) and hook (B). Insert the handy remover between the body and the cargo side lining (C) and remove the clips (D and E). Pull the entire lining toward you and remove the hooks (G) from the rear pillar garnish (F)."
     },
     {
       "type": "attention",

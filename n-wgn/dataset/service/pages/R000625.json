@@ -255,7 +255,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Rotate the taper roller bearings several times to acclimate them and measure the preload. Standard preloading: 1. 1.10－1.51N·m(0.112－0.154kgf·m)"
+      "text": "Rotate the taper roller bearings several times to acclimate them and measure the preload."
     },
     {
       "type": "list",
@@ -279,6 +279,19 @@
         {
           "text": "If the standard preload is not reached even after the tightening torque exceeds 177 N-m (18.0 kgf-m), the rear differential spacer shall be replaced and adjusted again."
         }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Standard preloading: 1."
+          },
+          {
+            "text": "1.10－1.51N·m(0.112－0.154kgf·m)"
+          }
+        ]
       ]
     },
     {
@@ -334,36 +347,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The sealant must be genuine Honda liquid packing 1216E."
-        },
-        {
-          "text": "The sealant must be genuine Honda liquid packing 1216E."
-        },
-        {
-          "text": "Wipe off old sealant and remove dirt and oil from the sealing surface."
-        },
-        {
-          "text": "Wipe off old sealant and remove dirt and oil from the sealing surface."
-        },
-        {
-          "text": "If the sealant is left for more than 4 minutes after application, do not assemble the product as it is. Re-apply the sealant."
-        },
-        {
-          "text": "If the sealant is left for more than 4 minutes after application, do not assemble the product as it is. Re-apply the sealant."
-        },
-        {
-          "text": "Oil should be injected 30 minutes after assembly."
-        },
-        {
-          "text": "Oil should be injected 30 minutes after assembly."
-        }
-      ]
-    },
-    {
       "type": "figure",
       "asset": "625_3.0_jpn_11581986_3.0_disp.png"
     },
@@ -395,30 +378,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Wipe off old sealant and remove dirt and oil from the sealing surface."
-        },
-        {
-          "text": "Wipe off old sealant and remove dirt and oil from the sealing surface."
-        },
-        {
-          "text": "If the sealant is left for more than 4 minutes after application, do not assemble the product as it is. Re-apply the sealant."
-        },
-        {
-          "text": "If the sealant is left for more than 4 minutes after application, do not assemble the product as it is. Re-apply the sealant."
-        },
-        {
-          "text": "Oil should be injected 30 minutes after assembly."
-        },
-        {
-          "text": "Oil should be injected 30 minutes after assembly."
-        }
-      ]
-    },
-    {
       "type": "attention",
       "items": [
         "Press-fit the oil seal to the end face (B)."
@@ -444,30 +403,6 @@
         "Wipe off old sealant and remove dirt and oil from the sealing surface.",
         "If the sealant is left for more than 4 minutes after application, do not assemble the product as it is. Re-apply the sealant.",
         "Oil should be injected 30 minutes after assembly."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Wipe off old sealant and remove dirt and oil from the sealing surface."
-        },
-        {
-          "text": "Wipe off old sealant and remove dirt and oil from the sealing surface."
-        },
-        {
-          "text": "If the sealant is left for more than 4 minutes after application, do not assemble the product as it is. Re-apply the sealant."
-        },
-        {
-          "text": "If the sealant is left for more than 4 minutes after application, do not assemble the product as it is. Re-apply the sealant."
-        },
-        {
-          "text": "Oil should be injected 30 minutes after assembly."
-        },
-        {
-          "text": "Oil should be injected 30 minutes after assembly."
-        }
       ]
     },
     {

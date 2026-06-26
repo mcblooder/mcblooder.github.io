@@ -97,30 +97,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not suspend the caliper by the brake hose."
-        },
-        {
-          "text": "Do not suspend the caliper by the brake hose."
-        },
-        {
-          "text": "When securing the caliper, be very careful not to damage other parts."
-        },
-        {
-          "text": "When securing the caliper, be very careful not to damage other parts."
-        },
-        {
-          "text": "Do not forcefully twist the brake hose."
-        },
-        {
-          "text": "Do not forcefully twist the brake hose."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "4. Remove brake pads and shims"
@@ -164,7 +140,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Clean retainer (A). Clean the caliper bracket (B). Install the retainer."
+      "text": "Clean retainer (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Clean the caliper bracket (B). Install the retainer."
     },
     {
       "type": "attention",

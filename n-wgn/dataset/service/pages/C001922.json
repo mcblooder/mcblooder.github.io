@@ -53,20 +53,38 @@
       "type": "table",
       "rows": [
         [
-          "(data) item",
-          "Contents"
+          {
+            "text": "(data) item",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
         ],
         [
-          "On-board snapshot when DTC is stored",
-          "Stores vehicle status at the time of input/output component failure (DTC store)"
+          {
+            "text": "On-board snapshot when DTC is stored"
+          },
+          {
+            "text": "Stores vehicle status at the time of input/output component failure (DTC store)"
+          }
         ],
         [
-          "Onboard snapshot at engine stall",
-          "Memorize vehicle status at the time of engine stall"
+          {
+            "text": "Onboard snapshot at engine stall"
+          },
+          {
+            "text": "Memorize vehicle status at the time of engine stall"
+          }
         ],
         [
-          "On-board snapshot during startup failure",
-          "Memorize vehicle status at the time of startup failure"
+          {
+            "text": "On-board snapshot during startup failure"
+          },
+          {
+            "text": "Memorize vehicle status at the time of startup failure"
+          }
         ]
       ]
     },
@@ -129,24 +147,56 @@
       "type": "table",
       "rows": [
         [
-          "At engine startup Engine coolant temperature (°C)",
-          "-40",
-          "-30",
-          "-25",
-          "-20",
-          "-15",
-          "-10",
-          "90"
+          {
+            "text": "At engine startup Engine coolant temperature (°C)"
+          },
+          {
+            "text": "-40"
+          },
+          {
+            "text": "-30"
+          },
+          {
+            "text": "-25"
+          },
+          {
+            "text": "-20"
+          },
+          {
+            "text": "-15"
+          },
+          {
+            "text": "-10"
+          },
+          {
+            "text": "90"
+          }
         ],
         [
-          "Engine start time (sec) (Timer to determine starting failure)",
-          "20",
-          "10",
-          "5",
-          "3.5",
-          "2.5",
-          "1.5",
-          "1.5"
+          {
+            "text": "Engine start time (sec) (Timer to determine starting failure)"
+          },
+          {
+            "text": "20"
+          },
+          {
+            "text": "10"
+          },
+          {
+            "text": "5"
+          },
+          {
+            "text": "3.5"
+          },
+          {
+            "text": "2.5"
+          },
+          {
+            "text": "1.5"
+          },
+          {
+            "text": "1.5"
+          }
         ]
       ]
     },

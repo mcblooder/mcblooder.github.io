@@ -44,22 +44,47 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Door lock knob switch"
+          {
+            "text": "",
+            "header": true
+          },
+          {
+            "text": "Door lock knob switch",
+            "colspan": 2,
+            "header": true
+          }
         ],
         [
-          "LOCK circuit*.",
-          "UNLOCK circuit"
+          {
+            "text": "LOCK circuit*.",
+            "header": true
+          },
+          {
+            "text": "UNLOCK circuit",
+            "header": true
+          }
         ],
         [
-          "locking",
-          "ON",
-          "OFF"
+          {
+            "text": "locking"
+          },
+          {
+            "text": "ON"
+          },
+          {
+            "text": "OFF"
+          }
         ],
         [
-          "unlocking",
-          "OFF",
-          "ON"
+          {
+            "text": "unlocking"
+          },
+          {
+            "text": "OFF"
+          },
+          {
+            "text": "ON"
+          }
         ]
       ]
     },
@@ -84,20 +109,38 @@
       "type": "table",
       "rows": [
         [
-          "tailgate",
-          "switch"
+          {
+            "text": "tailgate",
+            "header": true
+          },
+          {
+            "text": "switch",
+            "header": true
+          }
         ],
         [
-          "opening",
-          "ON"
+          {
+            "text": "opening"
+          },
+          {
+            "text": "ON"
+          }
         ],
         [
-          "half-opened door (car door, etc.)",
-          "ON"
+          {
+            "text": "half-opened door (car door, etc.)"
+          },
+          {
+            "text": "ON"
+          }
         ],
         [
-          "closing",
-          "OFF"
+          {
+            "text": "closing"
+          },
+          {
+            "text": "OFF"
+          }
         ]
       ]
     },
@@ -118,16 +161,30 @@
       "type": "table",
       "rows": [
         [
-          "hood",
-          "switch"
+          {
+            "text": "hood",
+            "header": true
+          },
+          {
+            "text": "switch",
+            "header": true
+          }
         ],
         [
-          "opening",
-          "OFF"
+          {
+            "text": "opening"
+          },
+          {
+            "text": "OFF"
+          }
         ],
         [
-          "closing",
-          "ON"
+          {
+            "text": "closing"
+          },
+          {
+            "text": "ON"
+          }
         ]
       ]
     }

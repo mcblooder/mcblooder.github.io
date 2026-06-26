@@ -104,6 +104,16 @@
       ]
     },
     {
+      "type": "step",
+      "number": "1",
+      "text": "When an abnormality occurs in the system, the CPU diagnoses the fault location and the nature of the fault, and stores the DTC in EEPROM (nonvolatile memory)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "DTCs can only be cleared if the specified work procedures are followed and not under the following conditions"
+    },
+    {
       "type": "list",
       "ordered": false,
       "items": [
@@ -116,6 +126,21 @@
       ]
     },
     {
+      "type": "step",
+      "number": "3",
+      "text": "Up to 10 DTCs can be stored, with the latest DTC being stored and the oldest DTC being erased. However, the same DTC will be overwritten. Therefore, even if the same abnormality is detected multiple times, only one DTC is stored."
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Confirmation of DTC should be done according to the specified procedure."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "There are two types of self-diagnosis"
+    },
+    {
       "type": "list",
       "ordered": false,
       "items": [
@@ -126,6 +151,11 @@
           "text": "always-on diagnosis"
         }
       ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "If an abnormality is detected in self-diagnosis, the following control is performed."
     },
     {
       "type": "list",
@@ -141,6 +171,51 @@
           "text": "Deactivation of ABS, TCS, VSA, Hill Start Assist, EBD or Brake Assist control"
         }
       ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "During ABS control, the pump motor is activated. When the pump motor is activated, brake fluid in the modulator is pumped to the master cylinder, causing kickback. Therefore, even if kickback occurs, the brake pedal must be kept depressed as in the case of normal braking."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "The pump motor operates during ABS, brake assist, and VSA control."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "The VSA modulator control unit checks the operation of the pump motor during the first acceleration after ignition ON mode. In this case, an operating noise may be heard, but it is not abnormal."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Brake fluid replacement and bleeding should be performed in the same manner as for vehicles not equipped with VSA."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "The failure diagnosis by DTC is based on the assumption that a failure occurs and the ABS warning light, VSA warning light, brake warning light (red) or brake warning light (orange) illuminates. Therefore, if failure diagnosis is performed when the ABS warning light, VSA warning light, brake warning light (red) or brake warning light (orange) does not illuminate, it may result in an incorrect judgment."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "When checking for symptoms, a medical interview should be conducted, and whenever possible, the same conditions should be used as when the warning light comes on. The timing at which the warning light comes on covers a wide range, including during initial diagnosis, at each control, at the end of each control, and at startup. Therefore, if the conditions do not match, the symptoms cannot be confirmed."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "If the system abnormality is not reproduced after test driving and the ABS warning light, VSA warning light, brake warning light (red) or brake warning light (orange) does not illuminate, a transient failure due to poor coupler contact, etc. is considered, so when diagnosing the failure, check the coupler connection, disconnect the coupler, and then visually check the terminals After disconnecting the coupler, visually inspect the terminals."
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "After the repair is completed, clear the DTC and then test drive the vehicle to confirm that the ABS warning light, VSA warning light, brake warning light (red) or brake warning light (orange) does not illuminate."
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Coupler The illustration shows a female terminal coupler with a single frame and a male terminal coupler with a double frame."
     },
     {
       "type": "attention",

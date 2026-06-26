@@ -338,19 +338,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the air cleaner.",
-      "refs": [
-        {
-          "id": "R000412",
-          "label": "Cars not equipped with a turbo charger",
-          "resolved": true
-        },
-        {
-          "id": "R000413",
-          "label": "Turbo Charger equipped vehicle",
-          "resolved": true
-        }
-      ]
+      "text": "Remove the air cleaner."
     },
     {
       "type": "list",
@@ -428,7 +416,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove purge hose clamp (A). Remove the air cleaner stay (B)."
+      "text": "Remove purge hose clamp (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the air cleaner stay (B)."
     },
     {
       "type": "heading",
@@ -442,7 +435,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove purge hose clamp (A). Remove the intercooler stay (B)."
+      "text": "Remove purge hose clamp (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the intercooler stay (B)."
     },
     {
       "type": "heading",
@@ -470,19 +468,24 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the snap pin (A) and pull out the control pin (B). Remove the control wire bracket (C) and separate the control wire (D) from the control lever (E). Inspect the bushings (F) at the control wire ends for detachment, wear, or other damage. If there is damage, check for Replace control wires.",
+      "text": "Remove the snap pin (A) and pull out the control pin (B). Remove the control wire bracket (C) and separate the control wire (D) from the control lever (E)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not bend control wires more than necessary."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Inspect the bushings (F) at the control wire ends for detachment, wear, or other damage. If there is damage, check for Replace control wires.",
       "refs": [
         {
           "id": "R000553",
           "label": "Replace control wires.",
           "resolved": true
         }
-      ]
-    },
-    {
-      "type": "attention",
-      "items": [
-        "Do not bend control wires more than necessary."
       ]
     },
     {
@@ -712,13 +715,18 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the coupler (A). Remove the harness clamp (B)."
+      "text": "Disconnect the coupler (A)."
     },
     {
       "type": "attention",
       "items": [
         "Cover the coupler with a rag, etc. and be very careful to prevent dust, oil, etc. from entering the coupler."
       ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the harness clamp (B)."
     },
     {
       "type": "heading",
@@ -852,30 +860,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Be careful not to push the tool tip in too far, as this will damage the differential oil seal."
-        },
-        {
-          "text": "Be careful not to push the tool tip in too far, as this will damage the differential oil seal."
-        },
-        {
-          "text": "Be careful not to pull the differential oil seal out at an angle as this will damage the differential oil seal."
-        },
-        {
-          "text": "Be careful not to pull the differential oil seal out at an angle as this will damage the differential oil seal."
-        },
-        {
-          "text": "Do not pull the roller by holding the shaft part (B) because the roller will come off from the joint. If the roller comes off, remove the boot and reassemble."
-        },
-        {
-          "text": "Do not pull the roller by holding the shaft part (B) because the roller will come off from the joint. If the roller comes off, remove the boot and reassemble."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "40. Right side drive shaft inboard joint removal (2WD models)"
@@ -895,30 +879,6 @@
         "Be careful not to push the tool tip in too far, as this will damage the differential oil seal.",
         "Be careful not to pull the differential oil seal out at an angle as this will damage the differential oil seal.",
         "Do not pull the roller by holding the shaft part (B) because the roller will come off from the joint. If the roller comes off, remove the boot and reassemble."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Be careful not to push the tool tip in too far, as this will damage the differential oil seal."
-        },
-        {
-          "text": "Be careful not to push the tool tip in too far, as this will damage the differential oil seal."
-        },
-        {
-          "text": "Be careful not to pull the differential oil seal out at an angle as this will damage the differential oil seal."
-        },
-        {
-          "text": "Be careful not to pull the differential oil seal out at an angle as this will damage the differential oil seal."
-        },
-        {
-          "text": "Do not pull the roller by holding the shaft part (B) because the roller will come off from the joint. If the roller comes off, remove the boot and reassemble."
-        },
-        {
-          "text": "Do not pull the roller by holding the shaft part (B) because the roller will come off from the joint. If the roller comes off, remove the boot and reassemble."
-        }
       ]
     },
     {
@@ -1164,7 +1124,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Lay a plate on the transmission and support it with a transmission jack. Install the torque rod and tighten the new mounting nut (A). When installing the bolt on the front sub-frame side, align the non-turn plate (B) of the bolt with the notch (C) in the guide section of the front sub-frame, insert the bolt and install the nut. Temporarily tighten the new mounting bolts (D). Remove the transmission jack."
+      "text": "Lay a plate on the transmission and support it with a transmission jack. Temporarily tighten the new mounting bolts (D). Remove the transmission jack."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install the torque rod and tighten the new mounting nut (A). When installing the bolt on the front sub-frame side, align the non-turn plate (B) of the bolt with the notch (C) in the guide section of the front sub-frame, insert the bolt and install the nut."
     },
     {
       "type": "heading",
@@ -1373,7 +1338,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Apply a thin coat of molybdenum grease to the inside of the control wire end bushing (A). Install the control wire bracket (B). Attach the control wire end with the bushing facing up to the control lever (C) and insert the control pin (D) to secure it in place. Attach the snap pin (F) to the control pin. Install the snap pin (F) onto the control pin securely until the tip of the snap pin (G) comes out of the bottom of the guide (H) on the control lever."
+      "text": "Apply a thin coat of molybdenum grease to the inside of the control wire end bushing (A). Install the control wire bracket (B). Attach the snap pin (F) to the control pin. Install the snap pin (F) onto the control pin securely until the tip of the snap pin (G) comes out of the bottom of the guide (H) on the control lever."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Attach the control wire end with the bushing facing up to the control lever (C) and insert the control pin (D) to secure it in place."
     },
     {
       "type": "attention",
@@ -1437,19 +1407,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install the air cleaner.",
-      "refs": [
-        {
-          "id": "R000412",
-          "label": "Cars not equipped with a turbo charger",
-          "resolved": true
-        },
-        {
-          "id": "R000413",
-          "label": "Turbo Charger equipped vehicle",
-          "resolved": true
-        }
-      ]
+      "text": "Install the air cleaner."
     },
     {
       "type": "list",
@@ -1541,7 +1499,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install the harness clamp (A). Connect the coupler (B)."
+      "text": "Install the harness clamp (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Connect the coupler (B)."
     },
     {
       "type": "attention",

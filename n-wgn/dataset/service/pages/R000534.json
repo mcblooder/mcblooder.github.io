@@ -78,7 +78,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the coupler (A). Remove the driven pulley speed sensor (B). Remove the O-ring (C) from the driven pulley speed sensor."
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the driven pulley speed sensor (B). Remove the O-ring (C) from the driven pulley speed sensor."
     },
     {
       "type": "heading",

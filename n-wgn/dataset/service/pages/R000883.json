@@ -145,24 +145,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Align the protrusion of the field coil with the hole in the compressor front plate."
-        },
-        {
-          "text": "Align the protrusion of the field coil with the hole in the compressor front plate."
-        },
-        {
-          "text": "The snap ring shall be securely installed in the groove."
-        },
-        {
-          "text": "The snap ring shall be securely installed in the groove."
-        }
-      ]
-    },
-    {
       "type": "attention",
       "items": [
         "Field coil cords shall be securely attached with clamps to prevent contact with the rotor pulleys."
@@ -187,24 +169,6 @@
       "items": [
         "Do not force the rotor pulley into the machine while it is tilted.",
         "The snap ring shall be securely installed in the groove."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not force the rotor pulley into the machine while it is tilted."
-        },
-        {
-          "text": "Do not force the rotor pulley into the machine while it is tilted."
-        },
-        {
-          "text": "The snap ring shall be securely installed in the groove."
-        },
-        {
-          "text": "The snap ring shall be securely installed in the groove."
-        }
       ]
     },
     {

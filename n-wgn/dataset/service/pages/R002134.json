@@ -83,14 +83,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Turn off all electrical loads (A/C, headlights, etc.). Turn ignition OFF (LOCK) mode. Turn ignition ACC mode. Turn ignition to ON mode. Start the engine and keep it idling for 1 minute. Turn ignition OFF (LOCK) mode. Repeat Steps 2 through 6 at least four times. If the engine is started immediately from the ignition OFF (LOCK) mode without going through the ignition ACC and ON modes, the 12V battery internal resistance value may not be updated. Turn ignition to ON mode Select the data list of the PGM-FI system in HDS and check for idle stop prohibition (12V battery degradation) Turn ignition OFF (LOCK) mode. Remove HDS from the data link coupler.",
-      "refs": [
-        {
-          "id": "R002224",
-          "label": "Replace 12V battery",
-          "resolved": true
-        }
-      ]
+      "text": "Turn off all electrical loads (A/C, headlights, etc.). Turn ignition OFF (LOCK) mode. Turn ignition ACC mode. Turn ignition to ON mode. Start the engine and keep it idling for 1 minute. Turn ignition OFF (LOCK) mode. Repeat Steps 2 through 6 at least four times. If the engine is started immediately from the ignition OFF (LOCK) mode without going through the ignition ACC and ON modes, the 12V battery internal resistance value may not be updated. Turn ignition to ON mode Select the data list of the PGM-FI system in HDS and check for idle stop prohibition (12V battery degradation) Turn ignition OFF (LOCK) mode. Remove HDS from the data link coupler."
     },
     {
       "type": "list",

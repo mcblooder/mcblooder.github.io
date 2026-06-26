@@ -163,14 +163,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Installation is the reverse of the removal procedure.",
-      "refs": [
-        {
-          "id": "R000797",
-          "label": "When installing the seat back trim cover/pad, the airbag attachment wires must be properly assembled on the seat back frame.",
-          "resolved": true
-        }
-      ]
+      "text": "Installation is the reverse of the removal procedure."
     },
     {
       "type": "attention",
@@ -179,50 +172,6 @@
         "Side airbag mounting nuts shall be replaced with new ones at the time of installation and tightened to the specified torque.",
         "When installing the seat back trim cover/pad, the airbag attachment wires must be properly assembled on the seat back frame.",
         "The side airbag wire harnesses shall be assembled so that there is no binding or abnormal tension. Before connecting the side airbag coupler, operate the seat slide/recline to confirm that there is no abnormality."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not install the side airbag in a plastic packing bag."
-        },
-        {
-          "text": "Do not install the side airbag in a plastic packing bag."
-        },
-        {
-          "text": "Side airbag mounting nuts shall be replaced with new ones at the time of installation and tightened to the specified torque."
-        },
-        {
-          "text": "Side airbag mounting nuts shall be replaced with new ones at the time of installation and tightened to the specified torque."
-        },
-        {
-          "text": "When installing the seat back trim cover/pad, the airbag attachment wires must be properly assembled on the seat back frame.",
-          "refs": [
-            {
-              "id": "R000797",
-              "label": "When installing the seat back trim cover/pad, the airbag attachment wires must be properly assembled on the seat back frame.",
-              "resolved": true
-            }
-          ]
-        },
-        {
-          "text": "When installing the seat back trim cover/pad, the airbag attachment wires must be properly assembled on the seat back frame.",
-          "refs": [
-            {
-              "id": "R000797",
-              "label": "When installing the seat back trim cover/pad, the airbag attachment wires must be properly assembled on the seat back frame.",
-              "resolved": true
-            }
-          ]
-        },
-        {
-          "text": "The side airbag wire harnesses shall be assembled so that there is no binding or abnormal tension. Before connecting the side airbag coupler, operate the seat slide/recline to confirm that there is no abnormality."
-        },
-        {
-          "text": "The side airbag wire harnesses shall be assembled so that there is no binding or abnormal tension. Before connecting the side airbag coupler, operate the seat slide/recline to confirm that there is no abnormality."
-        }
       ]
     },
     {

@@ -21,6 +21,171 @@
       "id": "T001245",
       "label": "Check how to proceed with failure diagnosis",
       "resolved": true
+    },
+    {
+      "id": "T001255",
+      "label": "P0500（36）",
+      "resolved": false
+    },
+    {
+      "id": "T001256",
+      "label": "P0502（36）",
+      "resolved": false
+    },
+    {
+      "id": "T001257",
+      "label": "P0705（5）",
+      "resolved": false
+    },
+    {
+      "id": "T001258",
+      "label": "P0706（6）",
+      "resolved": false
+    },
+    {
+      "id": "T001259",
+      "label": "P0712（28）",
+      "resolved": false
+    },
+    {
+      "id": "T001260",
+      "label": "P0713（28）",
+      "resolved": false
+    },
+    {
+      "id": "T001261",
+      "label": "P0716（52）",
+      "resolved": false
+    },
+    {
+      "id": "T001262",
+      "label": "P0717（52）",
+      "resolved": false
+    },
+    {
+      "id": "T002867",
+      "label": "P0780（100） *1",
+      "resolved": false
+    },
+    {
+      "id": "T002868",
+      "label": "P0780（100） *2",
+      "resolved": false
+    },
+    {
+      "id": "T001264",
+      "label": "P0792（34）",
+      "resolved": false
+    },
+    {
+      "id": "T001265",
+      "label": "P0793（34）",
+      "resolved": false
+    },
+    {
+      "id": "T001266",
+      "label": "P0796（106）",
+      "resolved": false
+    },
+    {
+      "id": "T001267",
+      "label": "P0797（106）",
+      "resolved": false
+    },
+    {
+      "id": "T001268",
+      "label": "P0842（56）",
+      "resolved": false
+    },
+    {
+      "id": "T001269",
+      "label": "P0843（56）",
+      "resolved": false
+    },
+    {
+      "id": "T002157",
+      "label": "P0962（38）",
+      "resolved": false
+    },
+    {
+      "id": "T002158",
+      "label": "P0963（38）",
+      "resolved": false
+    },
+    {
+      "id": "T002159",
+      "label": "P0966（39）",
+      "resolved": false
+    },
+    {
+      "id": "T002160",
+      "label": "P0967（39）",
+      "resolved": false
+    },
+    {
+      "id": "T002161",
+      "label": "P0970（50）",
+      "resolved": false
+    },
+    {
+      "id": "T002162",
+      "label": "P0971（50）",
+      "resolved": false
+    },
+    {
+      "id": "T001276",
+      "label": "P1717（62）",
+      "resolved": false
+    },
+    {
+      "id": "T002166",
+      "label": "P1764（59）",
+      "resolved": false
+    },
+    {
+      "id": "T002165",
+      "label": "P1765（59）",
+      "resolved": false
+    },
+    {
+      "id": "T001277",
+      "label": "P1840（36）",
+      "resolved": false
+    },
+    {
+      "id": "T001278",
+      "label": "P1841（36）",
+      "resolved": false
+    },
+    {
+      "id": "T001279",
+      "label": "P1855（58）",
+      "resolved": false
+    },
+    {
+      "id": "T001280",
+      "label": "P1890（42）",
+      "resolved": false
+    },
+    {
+      "id": "T001284",
+      "label": "P2714（102）",
+      "resolved": false
+    },
+    {
+      "id": "T001285",
+      "label": "P2715（102）",
+      "resolved": false
+    },
+    {
+      "id": "T002163",
+      "label": "P2720（51）",
+      "resolved": false
+    },
+    {
+      "id": "T002164",
+      "label": "P2721（51）",
+      "resolved": false
     }
   ],
   "blocks": [
@@ -44,10 +209,878 @@
       "type": "table",
       "rows": [
         [
-          "*1: When detected at the same time as P1898"
+          {
+            "text": "SAE DTC (Number of times D indicator light blinks)",
+            "header": true
+          },
+          {
+            "text": "two consecutive Detection method ○○:Apply",
+            "header": true
+          },
+          {
+            "text": "D indicator light Flashing of",
+            "header": true
+          },
+          {
+            "text": "PGM-FI Warning lights on or off",
+            "header": true
+          },
+          {
+            "text": "Failure diagnosis detection items",
+            "header": true
+          }
         ],
         [
-          "*2: When detected at the same time as P1899"
+          {
+            "text": "P0500（36）",
+            "refs": [
+              {
+                "id": "T001255",
+                "label": "P0500（36）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Speed Sensor failure"
+          }
+        ],
+        [
+          {
+            "text": "P0502（36）",
+            "refs": [
+              {
+                "id": "T001256",
+                "label": "P0502（36）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Speed Sensor signal failure"
+          }
+        ],
+        [
+          {
+            "text": "P0705（5）",
+            "refs": [
+              {
+                "id": "T001257",
+                "label": "P0705（5）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Shift position sensor and sensor circuit Short circuit"
+          }
+        ],
+        [
+          {
+            "text": "P0706（6）",
+            "refs": [
+              {
+                "id": "T001258",
+                "label": "P0706（6）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "No blinking"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Shift position sensor and sensor circuit disconnected"
+          }
+        ],
+        [
+          {
+            "text": "P0712（28）",
+            "refs": [
+              {
+                "id": "T001259",
+                "label": "P0712（28）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Transmission Fluid temperature sensor short circuit"
+          }
+        ],
+        [
+          {
+            "text": "P0713（28）",
+            "refs": [
+              {
+                "id": "T001260",
+                "label": "P0713（28）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Transmission Fluid temperature sensor disconnected"
+          }
+        ],
+        [
+          {
+            "text": "P0716（52）",
+            "refs": [
+              {
+                "id": "T001261",
+                "label": "P0716（52）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Torque Converter Turbine Speed Sensor Failure"
+          }
+        ],
+        [
+          {
+            "text": "P0717（52）",
+            "refs": [
+              {
+                "id": "T001262",
+                "label": "P0717（52）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Torque converter Turbine Speed Sensor circuit Short circuit or disconnection"
+          }
+        ],
+        [
+          {
+            "text": "P0780（100） *1",
+            "refs": [
+              {
+                "id": "T002867",
+                "label": "P0780（100） *1",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Hydraulic control system failure"
+          }
+        ],
+        [
+          {
+            "text": "P0780（100） *2",
+            "refs": [
+              {
+                "id": "T002868",
+                "label": "P0780（100） *2",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Hydraulic control system failure"
+          }
+        ],
+        [
+          {
+            "text": "P0792（34）",
+            "refs": [
+              {
+                "id": "T001264",
+                "label": "P0792（34）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Drive Pulley Speed Sensor Failure"
+          }
+        ],
+        [
+          {
+            "text": "P0793（34）",
+            "refs": [
+              {
+                "id": "T001265",
+                "label": "P0793（34）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Drive Pulley Speed Sensor circuit Shorted or disconnected"
+          }
+        ],
+        [
+          {
+            "text": "P0796（106）",
+            "refs": [
+              {
+                "id": "T001266",
+                "label": "P0796（106）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Clutch pressure control SOL."
+          }
+        ],
+        [
+          {
+            "text": "P0797（106）",
+            "refs": [
+              {
+                "id": "T001267",
+                "label": "P0797（106）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Clutch pressure control SOL."
+          }
+        ],
+        [
+          {
+            "text": "P0842（56）",
+            "refs": [
+              {
+                "id": "T001268",
+                "label": "P0842（56）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Driven pulley oil pressure sensor circuit Short circuit"
+          }
+        ],
+        [
+          {
+            "text": "P0843（56）",
+            "refs": [
+              {
+                "id": "T001269",
+                "label": "P0843（56）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Driven pulley oil pressure sensor Failure or sensor circuit disconnection"
+          }
+        ],
+        [
+          {
+            "text": "P0962（38）",
+            "refs": [
+              {
+                "id": "T002157",
+                "label": "P0962（38）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Drive pulley Control SOL.V. circuit Short circuit or disconnection"
+          }
+        ],
+        [
+          {
+            "text": "P0963（38）",
+            "refs": [
+              {
+                "id": "T002158",
+                "label": "P0963（38）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Drive Pulley Control SOL.V. Failure"
+          }
+        ],
+        [
+          {
+            "text": "P0966（39）",
+            "refs": [
+              {
+                "id": "T002159",
+                "label": "P0966（39）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Driven Pulley Control SOL.V. circuit Short circuit or disconnection"
+          }
+        ],
+        [
+          {
+            "text": "P0967（39）",
+            "refs": [
+              {
+                "id": "T002160",
+                "label": "P0967（39）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Driven Puli Control SOL.V. Failure"
+          }
+        ],
+        [
+          {
+            "text": "P0970（50）",
+            "refs": [
+              {
+                "id": "T002161",
+                "label": "P0970（50）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Clutch pressure control SOL.V. circuit Short circuit or disconnection"
+          }
+        ],
+        [
+          {
+            "text": "P0971（50）",
+            "refs": [
+              {
+                "id": "T002162",
+                "label": "P0971（50）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Clutch pressure control SOL.V. failure"
+          }
+        ],
+        [
+          {
+            "text": "P1717（62）",
+            "refs": [
+              {
+                "id": "T001276",
+                "label": "P1717（62）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Shift position sensor ATPRVS switch circuit Disconnection"
+          }
+        ],
+        [
+          {
+            "text": "P1764（59）",
+            "refs": [
+              {
+                "id": "T002166",
+                "label": "P1764（59）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Accumulator control SOL.V. circuit Short circuit"
+          }
+        ],
+        [
+          {
+            "text": "P1765（59）",
+            "refs": [
+              {
+                "id": "T002165",
+                "label": "P1765（59）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Accumulator control SOL.V. circuit Disconnection"
+          }
+        ],
+        [
+          {
+            "text": "P1840（36）",
+            "refs": [
+              {
+                "id": "T001277",
+                "label": "P1840（36）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Driven Pulley Speed sensor Forward direction detection function failure"
+          }
+        ],
+        [
+          {
+            "text": "P1841（36）",
+            "refs": [
+              {
+                "id": "T001278",
+                "label": "P1841（36）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Driven pulley speed sensor Backward direction detection function failure"
+          }
+        ],
+        [
+          {
+            "text": "P1855（58）",
+            "refs": [
+              {
+                "id": "T001279",
+                "label": "P1855（58）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "No blinking"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Inclination sensor Failure"
+          }
+        ],
+        [
+          {
+            "text": "P1890（42）",
+            "refs": [
+              {
+                "id": "T001280",
+                "label": "P1890（42）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "CVT Transmission function failure"
+          }
+        ],
+        [
+          {
+            "text": "P1898（100）",
+            "refs": [
+              {
+                "id": "T002867",
+                "label": "P1898（100）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Drive pulley control SOL.V. ON stuck or driven pulley control SOL.V. OFF stuck"
+          }
+        ],
+        [
+          {
+            "text": "P1899（100）",
+            "refs": [
+              {
+                "id": "T002868",
+                "label": "P1899（100）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Drive pulley control SOL.V. OFF stuck or driven pulley control SOL.V. ON stuck"
+          }
+        ],
+        [
+          {
+            "text": "P2714（102）",
+            "refs": [
+              {
+                "id": "T001284",
+                "label": "P2714（102）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Lock-up Clutch Control SOL.V. OFF Stuck"
+          }
+        ],
+        [
+          {
+            "text": "P2715（102）",
+            "refs": [
+              {
+                "id": "T001285",
+                "label": "P2715（102）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Lock-up clutch control SOL.V. ON Solidification"
+          }
+        ],
+        [
+          {
+            "text": "P2720（51）",
+            "refs": [
+              {
+                "id": "T002163",
+                "label": "P2720（51）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Lock-up clutch Short circuit or disconnection of control SOL.V. circuit"
+          }
+        ],
+        [
+          {
+            "text": "P2721（51）",
+            "refs": [
+              {
+                "id": "T002164",
+                "label": "P2721（51）",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Lock-up clutch control SOL.V. failure"
+          }
+        ],
+        [
+          {
+            "text": "*1: When detected at the same time as P1898",
+            "colspan": 5
+          }
+        ],
+        [
+          {
+            "text": "*2: When detected at the same time as P1899",
+            "colspan": 5
+          }
         ]
       ]
     }

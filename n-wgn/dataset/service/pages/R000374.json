@@ -139,7 +139,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Apply engine oil to the threads of the exhaust camshaft sprocket mounting bolts and washer seat. Install the exhaust camshaft sprocket (A)."
+      "text": "Apply engine oil to the threads of the exhaust camshaft sprocket mounting bolts and washer seat."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install the exhaust camshaft sprocket (A)."
     },
     {
       "type": "attention",

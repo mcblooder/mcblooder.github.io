@@ -80,7 +80,20 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Check the fuse of the combination meter. Sub Fuse/ Relay box No.D4 IG1 METER（BST） (7.5A) Fuse"
+      "text": "Check the fuse of the combination meter."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Sub Fuse/ Relay box"
+          },
+          {
+            "text": "No.D4 IG1 METER（BST） (7.5A) Fuse"
+          }
+        ]
+      ]
     },
     {
       "type": "list",
@@ -239,14 +252,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "After confirming that the resistance between the No. 2 and No. 4 terminals of the fuel pump coupler changes smoothly by moving the float up and down, measure the resistance at the following float positions. 2WD vehicle Float position F 1/2 warning light E Resistance (Ω) 19－21 191.8－201.8 527－670 772－788 4WD vehicle Float position F 1/2 warning light E Resistance (Ω) 19－21 191.7－201.7 501.6－634.4 772－788",
-      "refs": [
-        {
-          "id": "R000487",
-          "label": "If any abnormality is found, replace the fuel sender unit.",
-          "resolved": true
-        }
-      ]
+      "text": "After confirming that the resistance between the No. 2 and No. 4 terminals of the fuel pump coupler changes smoothly by moving the float up and down, measure the resistance at the following float positions."
     },
     {
       "type": "list",
@@ -281,6 +287,84 @@
       ]
     },
     {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Float position"
+          },
+          {
+            "text": "F"
+          },
+          {
+            "text": "1/2"
+          },
+          {
+            "text": "warning light"
+          },
+          {
+            "text": "E"
+          }
+        ],
+        [
+          {
+            "text": "Resistance (Ω)"
+          },
+          {
+            "text": "19－21"
+          },
+          {
+            "text": "191.8－201.8"
+          },
+          {
+            "text": "527－670"
+          },
+          {
+            "text": "772－788"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Float position"
+          },
+          {
+            "text": "F"
+          },
+          {
+            "text": "1/2"
+          },
+          {
+            "text": "warning light"
+          },
+          {
+            "text": "E"
+          }
+        ],
+        [
+          {
+            "text": "Resistance (Ω)"
+          },
+          {
+            "text": "19－21"
+          },
+          {
+            "text": "191.7－201.7"
+          },
+          {
+            "text": "501.6－634.4"
+          },
+          {
+            "text": "772－788"
+          }
+        ]
+      ]
+    },
+    {
       "type": "heading",
       "level": 3,
       "text": "9. Combination Meter Inspection"
@@ -288,14 +372,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Connect the fuel pump coupler. Hold the float in the ''F'' position and put the ignition in the ignition ON mode. Check that the fuel meter pointer indicates the ''F'' position.",
-      "refs": [
-        {
-          "id": "R001029",
-          "label": "Replace the combination meter.",
-          "resolved": true
-        }
-      ]
+      "text": "Connect the fuel pump coupler. Hold the float in the ''F'' position and put the ignition in the ignition ON mode. Check that the fuel meter pointer indicates the ''F'' position."
     },
     {
       "type": "attention",

@@ -38,7 +38,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the high-mount stop lamp (A). Disconnect the coupler (B). High mount stop lamp: LED"
+      "text": "Remove the high-mount stop lamp (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Disconnect the coupler (B). High mount stop lamp: LED"
     },
     {
       "type": "heading",

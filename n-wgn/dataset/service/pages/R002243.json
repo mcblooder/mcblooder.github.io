@@ -88,7 +88,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Prepare the following The target should be located approximately 2.0 m from the front edge of the inspection vehicle. Place the steering wheel in the straight ahead position. Place the select lever in the P position. Apply the parking brake. Turn ignition OFF (LOCK) mode."
+      "text": "Prepare the following"
     },
     {
       "type": "list",
@@ -142,6 +142,11 @@
       ]
     },
     {
+      "type": "step",
+      "number": "2",
+      "text": "The target should be located approximately 2.0 m from the front edge of the inspection vehicle. Place the steering wheel in the straight ahead position. Place the select lever in the P position. Apply the parking brake. Turn ignition OFF (LOCK) mode."
+    },
+    {
       "type": "list",
       "ordered": false,
       "items": [
@@ -184,14 +189,7 @@
     {
       "type": "step",
       "number": "7",
-      "text": "Connect HDS to the data link coupler (A) located in the driver's seat. Turn ignition to ON mode. Ensure that HDS communicates with the vehicle and the City Brake Active System radar/control unit. Select the data list from the HDS Driver Assistance System, City Brake Active System menu and perform a function check. Inspections are performed with one person in the driver's seat. Verify that the inspection results are the following values data parameter Target distance 2.0m±50cm",
-      "refs": [
-        {
-          "id": "T002567",
-          "label": "Inspect data link circuits",
-          "resolved": false
-        }
-      ]
+      "text": "Connect HDS to the data link coupler (A) located in the driver's seat. Turn ignition to ON mode. Ensure that HDS communicates with the vehicle and the City Brake Active System radar/control unit. Select the data list from the HDS Driver Assistance System, City Brake Active System menu and perform a function check. Inspections are performed with one person in the driver's seat. Verify that the inspection results are the following values"
     },
     {
       "type": "list",
@@ -217,6 +215,31 @@
             }
           ]
         }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "data",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "parameter",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Target distance",
+            "colspan": 2
+          },
+          {
+            "text": "2.0m±50cm"
+          }
+        ]
       ]
     },
     {

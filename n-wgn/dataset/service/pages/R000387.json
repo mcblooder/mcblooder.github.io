@@ -184,7 +184,7 @@
     {
       "type": "step",
       "number": "5",
-      "text": "Remove the bearing cap bridge, bearing cap, and main bearing, and measure the crushed width of the plastigage with the scale printed on the bag of the plastigage. Journal Oil Clearance No. 1, 4 Journal Std. 0.013－0.029mm Limit value: 1 0.037mm No. 2, 3 Journal Std. 0.017－0.033mm Limit value: 1 0.041mm"
+      "text": "Remove the bearing cap bridge, bearing cap, and main bearing, and measure the crushed width of the plastigage with the scale printed on the bag of the plastigage."
     },
     {
       "type": "attention",
@@ -194,21 +194,52 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Measurements should be taken at the most widely crimped point."
-        },
-        {
-          "text": "Measurements should be taken at the most widely crimped point."
-        },
-        {
-          "text": "If the limit is exceeded, inspect the cylinder block for enlargement and journal wear, and if there are no abnormalities, replace the bearing with an undersized bearing according to the main bearing identification chart and measure the oil clearance again."
-        },
-        {
-          "text": "If the limit is exceeded, inspect the cylinder block for enlargement and journal wear, and if there are no abnormalities, replace the bearing with an undersized bearing according to the main bearing identification chart and measure the oil clearance again."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "No. 1, 4 Journal",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.013－0.029mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.037mm"
+          }
+        ],
+        [
+          {
+            "text": "No. 2, 3 Journal",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.017－0.033mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.041mm"
+          }
+        ]
       ]
     },
     {
@@ -218,12 +249,88 @@
     {
       "type": "step",
       "number": "6",
-      "text": "Examine the mating marks on the cylinder block. fit-mark tolerance A -0.010－-0.006mm B -0.006－-0.002mm C -0.002－+0.002mm D +0.002－+0.006mm E +0.006－+0.010mm F +0.010－+0.014mm Cylinder block bore diameter 43mm"
+      "text": "Examine the mating marks on the cylinder block."
     },
     {
       "type": "attention",
       "items": [
         "If the mating mark is not visible, do not scrub with a wire brush, screwdriver, etc., but clean with washing oil, etc., and check."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "fit-mark",
+            "header": true
+          },
+          {
+            "text": "tolerance",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "A"
+          },
+          {
+            "text": "-0.010－-0.006mm"
+          }
+        ],
+        [
+          {
+            "text": "B"
+          },
+          {
+            "text": "-0.006－-0.002mm"
+          }
+        ],
+        [
+          {
+            "text": "C"
+          },
+          {
+            "text": "-0.002－+0.002mm"
+          }
+        ],
+        [
+          {
+            "text": "D"
+          },
+          {
+            "text": "+0.002－+0.006mm"
+          }
+        ],
+        [
+          {
+            "text": "E"
+          },
+          {
+            "text": "+0.006－+0.010mm"
+          }
+        ],
+        [
+          {
+            "text": "F"
+          },
+          {
+            "text": "+0.010－+0.014mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Cylinder block bore diameter"
+          },
+          {
+            "text": "43mm"
+          }
+        ]
       ]
     },
     {
@@ -248,7 +355,116 @@
     {
       "type": "step",
       "number": "8",
-      "text": "The main bearing identification color (A) is blue, black, brown, green, yellow, peach, and red, in that order, with each bearing having a tolerance of every 0.004 mm. markup Distinctive color tolerance G red -0.013－-0.009mm F peach -0.009－-0.005mm E yellow -0.005－-0.001mm D green -0.001－+0.003mm C tea +0.003－+0.007mm B black +0.007－+0.011mm A green +0.011－+0.015mm Main bearing center wall thickness dimensions: (mm) 2.0mm"
+      "text": "The main bearing identification color (A) is blue, black, brown, green, yellow, peach, and red, in that order, with each bearing having a tolerance of every 0.004 mm."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "markup",
+            "header": true
+          },
+          {
+            "text": "Distinctive color",
+            "header": true
+          },
+          {
+            "text": "tolerance",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "G"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "-0.013－-0.009mm"
+          }
+        ],
+        [
+          {
+            "text": "F"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "-0.009－-0.005mm"
+          }
+        ],
+        [
+          {
+            "text": "E"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "-0.005－-0.001mm"
+          }
+        ],
+        [
+          {
+            "text": "D"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "-0.001－+0.003mm"
+          }
+        ],
+        [
+          {
+            "text": "C"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "+0.003－+0.007mm"
+          }
+        ],
+        [
+          {
+            "text": "B"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "+0.007－+0.011mm"
+          }
+        ],
+        [
+          {
+            "text": "A"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "+0.011－+0.015mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Main bearing center wall thickness dimensions: (mm)"
+          },
+          {
+            "text": "2.0mm"
+          }
+        ]
+      ]
     },
     {
       "type": "attention",
@@ -261,73 +477,186 @@
       "type": "table",
       "rows": [
         [
-          "Mating marks on crankshaft journal",
-          "Cylinder block hole diameter mating marks"
+          {
+            "text": "Mating marks on crankshaft journal",
+            "header": true
+          },
+          {
+            "text": "Cylinder block hole diameter mating marks",
+            "colspan": 6,
+            "header": true
+          }
         ],
         [
-          "A",
-          "B",
-          "C",
-          "D",
-          "E",
-          "F"
+          {
+            "text": "A",
+            "header": true
+          },
+          {
+            "text": "B",
+            "header": true
+          },
+          {
+            "text": "C",
+            "header": true
+          },
+          {
+            "text": "D",
+            "header": true
+          },
+          {
+            "text": "E",
+            "header": true
+          },
+          {
+            "text": "F",
+            "header": true
+          }
         ],
         [
-          "Main Bearing Identification Color"
+          {
+            "text": "Main Bearing Identification Color",
+            "colspan": 6,
+            "header": true
+          }
         ],
         [
-          "1",
-          "Red/Peach",
-          "Red/Peach",
-          "peach",
-          "Peach/Yellow",
-          "Peach/Yellow",
-          "yellow"
+          {
+            "text": "1"
+          },
+          {
+            "text": "Red/Peach"
+          },
+          {
+            "text": "Red/Peach"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "Peach/Yellow"
+          },
+          {
+            "text": "Peach/Yellow"
+          },
+          {
+            "text": "yellow"
+          }
         ],
         [
-          "2",
-          "peach",
-          "peach",
-          "Peach/Yellow",
-          "yellow",
-          "yellow",
-          "Yellow/Green"
+          {
+            "text": "2"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "Peach/Yellow"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "Yellow/Green"
+          }
         ],
         [
-          "3",
-          "Peach/Yellow",
-          "Peach/Yellow",
-          "yellow",
-          "Yellow/Green",
-          "Yellow/Green",
-          "green"
+          {
+            "text": "3"
+          },
+          {
+            "text": "Peach/Yellow"
+          },
+          {
+            "text": "Peach/Yellow"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "Yellow/Green"
+          },
+          {
+            "text": "Yellow/Green"
+          },
+          {
+            "text": "green"
+          }
         ],
         [
-          "4",
-          "yellow",
-          "yellow",
-          "Yellow/Green",
-          "green",
-          "green",
-          "Green/Brown"
+          {
+            "text": "4"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "Yellow/Green"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Green/Brown"
+          }
         ],
         [
-          "5",
-          "Yellow/Green",
-          "Yellow/Green",
-          "green",
-          "Green/Brown",
-          "Green/Brown",
-          "tea"
+          {
+            "text": "5"
+          },
+          {
+            "text": "Yellow/Green"
+          },
+          {
+            "text": "Yellow/Green"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Green/Brown"
+          },
+          {
+            "text": "Green/Brown"
+          },
+          {
+            "text": "tea"
+          }
         ],
         [
-          "6",
-          "green",
-          "green",
-          "Green/Brown",
-          "tea",
-          "tea",
-          "Brown/Black"
+          {
+            "text": "6"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Green/Brown"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "Brown/Black"
+          }
         ]
       ]
     },
@@ -335,73 +664,186 @@
       "type": "table",
       "rows": [
         [
-          "Mating marks on crankshaft journal",
-          "Cylinder block hole diameter mating marks"
+          {
+            "text": "Mating marks on crankshaft journal",
+            "header": true
+          },
+          {
+            "text": "Cylinder block hole diameter mating marks",
+            "colspan": 6,
+            "header": true
+          }
         ],
         [
-          "A",
-          "B",
-          "C",
-          "D",
-          "E",
-          "F"
+          {
+            "text": "A",
+            "header": true
+          },
+          {
+            "text": "B",
+            "header": true
+          },
+          {
+            "text": "C",
+            "header": true
+          },
+          {
+            "text": "D",
+            "header": true
+          },
+          {
+            "text": "E",
+            "header": true
+          },
+          {
+            "text": "F",
+            "header": true
+          }
         ],
         [
-          "Main Bearing Identification Color"
+          {
+            "text": "Main Bearing Identification Color",
+            "colspan": 6,
+            "header": true
+          }
         ],
         [
-          "1",
-          "yellow",
-          "yellow",
-          "Yellow/Green",
-          "green",
-          "green",
-          "Green/Brown"
+          {
+            "text": "1"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "Yellow/Green"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Green/Brown"
+          }
         ],
         [
-          "2",
-          "Yellow/Green",
-          "Yellow/Green",
-          "green",
-          "Green/Brown",
-          "Green/Brown",
-          "tea"
+          {
+            "text": "2"
+          },
+          {
+            "text": "Yellow/Green"
+          },
+          {
+            "text": "Yellow/Green"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Green/Brown"
+          },
+          {
+            "text": "Green/Brown"
+          },
+          {
+            "text": "tea"
+          }
         ],
         [
-          "3",
-          "green",
-          "green",
-          "Green/Brown",
-          "tea",
-          "tea",
-          "Brown/Black"
+          {
+            "text": "3"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Green/Brown"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "Brown/Black"
+          }
         ],
         [
-          "4",
-          "Green/Brown",
-          "Green/Brown",
-          "tea",
-          "Brown/Black",
-          "Brown/Black",
-          "black"
+          {
+            "text": "4"
+          },
+          {
+            "text": "Green/Brown"
+          },
+          {
+            "text": "Green/Brown"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "Brown/Black"
+          },
+          {
+            "text": "Brown/Black"
+          },
+          {
+            "text": "black"
+          }
         ],
         [
-          "5",
-          "tea",
-          "tea",
-          "Brown/Black",
-          "black",
-          "black",
-          "Black/Blue"
+          {
+            "text": "5"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "Brown/Black"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "Black/Blue"
+          }
         ],
         [
-          "6",
-          "Brown/Black",
-          "Brown/Black",
-          "black",
-          "Black/Blue",
-          "Black/Blue",
-          "green"
+          {
+            "text": "6"
+          },
+          {
+            "text": "Brown/Black"
+          },
+          {
+            "text": "Brown/Black"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "Black/Blue"
+          },
+          {
+            "text": "Black/Blue"
+          },
+          {
+            "text": "green"
+          }
         ]
       ]
     },
@@ -438,7 +880,20 @@
     {
       "type": "step",
       "number": "3",
-      "text": "Measure the distance (A, B) between the upper and lower crankshaft main bearings and both ends of the journal section, and confirm that the difference between the measured values is within the standard values. Standard value: -0.5－+0.5mm"
+      "text": "Measure the distance (A, B) between the upper and lower crankshaft main bearings and both ends of the journal section, and confirm that the difference between the measured values is within the standard values."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Standard value:"
+          },
+          {
+            "text": "-0.5－+0.5mm"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",

@@ -20,13 +20,13 @@
   ],
   "crossRefs": [
     {
-      "id": "R000952",
-      "label": "Replace the battery (CR1632) and",
+      "id": "R000913",
+      "label": "Register your Honda Smart Key.",
       "resolved": true
     },
     {
-      "id": "R000913",
-      "label": "Register your Honda Smart Key.",
+      "id": "R000952",
+      "label": "Replace the battery (CR1632) and",
       "resolved": true
     }
   ],
@@ -74,11 +74,6 @@
       "number": "1",
       "text": "Place the Honda Smart Key (B) in close contact with the back of the special tool (A). Press the button on the Honda Smart Key. If the indicator for the special tool does not light up after the battery has been replaced and inspected again, replace the Honda Smart Key with a good one, Register your Honda Smart Key.",
       "refs": [
-        {
-          "id": "R000952",
-          "label": "Replace the battery (CR1632) and",
-          "resolved": true
-        },
         {
           "id": "R000913",
           "label": "Register your Honda Smart Key.",

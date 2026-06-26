@@ -53,7 +53,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Vehicles equipped with side curtain airbags: If the side curtain airbags are deployed, replace them with new grab rails. Vehicles equipped with side curtain airbags: If the side curtain airbags are not deployed, inspect the grab rails (A) and stoppers (B) and replace if damaged, cracked or whitened."
+      "text": "Vehicles equipped with side curtain airbags: If the side curtain airbags are deployed, replace them with new grab rails."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Vehicles equipped with side curtain airbags: If the side curtain airbags are not deployed, inspect the grab rails (A) and stoppers (B) and replace if damaged, cracked or whitened."
     },
     {
       "type": "heading",

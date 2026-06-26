@@ -115,24 +115,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Mounting rubber must not interfere with jiggle pins."
-        },
-        {
-          "text": "Mounting rubber must not interfere with jiggle pins."
-        },
-        {
-          "text": "The thermostat must be installed with the jiggle pin (A) facing up."
-        },
-        {
-          "text": "The thermostat must be installed with the jiggle pin (A) facing up."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "6. Coolant Injection",
@@ -156,7 +138,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Place the thermostat (A) in the water. Heat the water and gradually increase the water temperature to test the valve opening temperature. Opening temperature (at 0.35mm lift) 80－84°C Temperature at full open 95°C Lift at full open 8.0 mm or more"
+      "text": "Place the thermostat (A) in the water."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Heat the water and gradually increase the water temperature to test the valve opening temperature."
     },
     {
       "type": "attention",
@@ -167,27 +154,32 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The thermostat should be replaced when the valve is even slightly open at room temperature."
-        },
-        {
-          "text": "The thermostat should be replaced when the valve is even slightly open at room temperature."
-        },
-        {
-          "text": "The thermostat should be kept at around 98°C for about 5 minutes to measure the valve opening lift because the surface area of the sensing part is small and there is a time delay."
-        },
-        {
-          "text": "The thermostat should be kept at around 98°C for about 5 minutes to measure the valve opening lift because the surface area of the sensing part is small and there is a time delay."
-        },
-        {
-          "text": "The thermostat should not touch the bottom of the container directly."
-        },
-        {
-          "text": "The thermostat should not touch the bottom of the container directly."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Opening temperature (at 0.35mm lift)"
+          },
+          {
+            "text": "80－84°C"
+          }
+        ],
+        [
+          {
+            "text": "Temperature at full open"
+          },
+          {
+            "text": "95°C"
+          }
+        ],
+        [
+          {
+            "text": "Lift at full open"
+          },
+          {
+            "text": "8.0 mm or more"
+          }
+        ]
       ]
     }
   ],

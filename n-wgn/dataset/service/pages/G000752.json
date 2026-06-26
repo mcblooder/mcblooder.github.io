@@ -27,16 +27,30 @@
       "type": "table",
       "rows": [
         [
-          "Adhesive type",
-          "Sealant for repairing water leakage"
+          {
+            "text": "Adhesive type",
+            "header": true
+          },
+          {
+            "text": "Sealant for repairing water leakage",
+            "header": true
+          }
         ],
         [
-          "Hamatite (WS-222) Urethane one-component adhesives (Yokohama Rubber Co.)",
-          "Hamatite (WS-222) Urethane one-component adhesives (Yokohama Rubber Co.)"
+          {
+            "text": "Hamatite (WS-222) Urethane one-component adhesives (Yokohama Rubber Co.)"
+          },
+          {
+            "text": "Hamatite (WS-222) Urethane one-component adhesives (Yokohama Rubber Co.)"
+          }
         ],
         [
-          "Penguin Seal #581 Super Urethane one-component adhesives (Sunsta Giken Co.)",
-          "Sunstar #860 (Sunsta Giken Co.)"
+          {
+            "text": "Penguin Seal #581 Super Urethane one-component adhesives (Sunsta Giken Co.)"
+          },
+          {
+            "text": "Sunstar #860 (Sunsta Giken Co.)"
+          }
         ]
       ]
     },

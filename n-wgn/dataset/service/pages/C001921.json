@@ -85,54 +85,117 @@
       "type": "table",
       "rows": [
         [
-          "Terminal No.",
-          "Terminal name",
-          "Contents"
+          {
+            "text": "Terminal No.",
+            "header": true
+          },
+          {
+            "text": "Terminal name",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
         ],
         [
-          "1",
-          "DIAG-H",
-          "HDS communication signal terminal (models equipped with Honda Smart Key System)"
+          {
+            "text": "1"
+          },
+          {
+            "text": "DIAG-H"
+          },
+          {
+            "text": "HDS communication signal terminal (models equipped with Honda Smart Key System)"
+          }
         ],
         [
-          "4",
-          "GND（PG）",
-          "Ground terminal for HDS (MVCI)"
+          {
+            "text": "4"
+          },
+          {
+            "text": "GND（PG）"
+          },
+          {
+            "text": "Ground terminal for HDS (MVCI)"
+          }
         ],
         [
-          "5",
-          "GND（LG）",
-          "Ground terminal for HDS communication signal"
+          {
+            "text": "5"
+          },
+          {
+            "text": "GND（LG）"
+          },
+          {
+            "text": "Ground terminal for HDS communication signal"
+          }
         ],
         [
-          "6",
-          "F-CAN_H",
-          "F-CAN communication terminal (for PGM-FI system communication)"
+          {
+            "text": "6"
+          },
+          {
+            "text": "F-CAN_H"
+          },
+          {
+            "text": "F-CAN communication terminal (for PGM-FI system communication)"
+          }
         ],
         [
-          "7",
-          "K-LINE",
-          "Terminals for communication with systems except PGM-FI system"
+          {
+            "text": "7"
+          },
+          {
+            "text": "K-LINE"
+          },
+          {
+            "text": "Terminals for communication with systems except PGM-FI system"
+          }
         ],
         [
-          "9",
-          "SCS",
-          "SCS short terminal"
+          {
+            "text": "9"
+          },
+          {
+            "text": "SCS"
+          },
+          {
+            "text": "SCS short terminal"
+          }
         ],
         [
-          "14",
-          "F-CAN_L",
-          "F-CAN communication terminal (for PGM-FI system communication)"
+          {
+            "text": "14"
+          },
+          {
+            "text": "F-CAN_L"
+          },
+          {
+            "text": "F-CAN communication terminal (for PGM-FI system communication)"
+          }
         ],
         [
-          "15",
-          "ACL",
-          "Terminal for communication with SRS system"
+          {
+            "text": "15"
+          },
+          {
+            "text": "ACL"
+          },
+          {
+            "text": "Terminal for communication with SRS system"
+          }
         ],
         [
-          "16",
-          "＋B",
-          "HDS (MVCI) terminal for power supply"
+          {
+            "text": "16"
+          },
+          {
+            "text": "＋B"
+          },
+          {
+            "text": "HDS (MVCI) terminal for power supply"
+          }
         ]
       ]
     }

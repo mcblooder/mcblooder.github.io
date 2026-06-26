@@ -16,7 +16,453 @@
   ],
   "assetDir": "assets/T001389",
   "assets": [],
-  "crossRefs": [],
+  "crossRefs": [
+    {
+      "id": "T002892",
+      "label": "B1002",
+      "resolved": false
+    },
+    {
+      "id": "T002893",
+      "label": "B1003",
+      "resolved": false
+    },
+    {
+      "id": "T002894",
+      "label": "B1028",
+      "resolved": false
+    },
+    {
+      "id": "T002895",
+      "label": "B1036",
+      "resolved": false
+    },
+    {
+      "id": "T002896",
+      "label": "B1077",
+      "resolved": false
+    },
+    {
+      "id": "T002898",
+      "label": "B1129",
+      "resolved": false
+    },
+    {
+      "id": "T002899",
+      "label": "B1275",
+      "resolved": false
+    },
+    {
+      "id": "T002900",
+      "label": "B1279",
+      "resolved": false
+    },
+    {
+      "id": "T002901",
+      "label": "B1280",
+      "resolved": false
+    },
+    {
+      "id": "T002902",
+      "label": "B1281",
+      "resolved": false
+    },
+    {
+      "id": "T002903",
+      "label": "U1280",
+      "resolved": false
+    },
+    {
+      "id": "T002904",
+      "label": "U128D",
+      "resolved": false
+    },
+    {
+      "id": "T001513",
+      "label": "B1175",
+      "resolved": false
+    },
+    {
+      "id": "T001514",
+      "label": "B1176",
+      "resolved": false
+    },
+    {
+      "id": "T001515",
+      "label": "U0029",
+      "resolved": false
+    },
+    {
+      "id": "T001516",
+      "label": "U0100",
+      "resolved": false
+    },
+    {
+      "id": "T001517",
+      "label": "U0122",
+      "resolved": false
+    },
+    {
+      "id": "T002890",
+      "label": "U12A7",
+      "resolved": false
+    },
+    {
+      "id": "T001518",
+      "label": "U0131",
+      "resolved": false
+    },
+    {
+      "id": "T001519",
+      "label": "U0151",
+      "resolved": false
+    },
+    {
+      "id": "T001520",
+      "label": "U1280",
+      "resolved": false
+    },
+    {
+      "id": "T001521",
+      "label": "U1281",
+      "resolved": false
+    },
+    {
+      "id": "T001522",
+      "label": "U3000-49",
+      "resolved": false
+    },
+    {
+      "id": "T001368",
+      "label": "B1225",
+      "resolved": false
+    },
+    {
+      "id": "T001369",
+      "label": "B1226",
+      "resolved": false
+    },
+    {
+      "id": "T001370",
+      "label": "B1227",
+      "resolved": false
+    },
+    {
+      "id": "T001371",
+      "label": "B1228",
+      "resolved": false
+    },
+    {
+      "id": "T001372",
+      "label": "B1229",
+      "resolved": false
+    },
+    {
+      "id": "T001373",
+      "label": "B1230",
+      "resolved": false
+    },
+    {
+      "id": "T001374",
+      "label": "B1231",
+      "resolved": false
+    },
+    {
+      "id": "T001375",
+      "label": "B1232",
+      "resolved": false
+    },
+    {
+      "id": "T002724",
+      "label": "B1233",
+      "resolved": false
+    },
+    {
+      "id": "T002725",
+      "label": "B1234",
+      "resolved": false
+    },
+    {
+      "id": "T002726",
+      "label": "B1235",
+      "resolved": false
+    },
+    {
+      "id": "T001379",
+      "label": "B1239",
+      "resolved": false
+    },
+    {
+      "id": "T001380",
+      "label": "B1240",
+      "resolved": false
+    },
+    {
+      "id": "T001381",
+      "label": "B1241",
+      "resolved": false
+    },
+    {
+      "id": "T001382",
+      "label": "B2969",
+      "resolved": false
+    },
+    {
+      "id": "T001384",
+      "label": "U1280",
+      "resolved": false
+    },
+    {
+      "id": "T001385",
+      "label": "U128D",
+      "resolved": false
+    },
+    {
+      "id": "T002805",
+      "label": "B1575",
+      "resolved": false
+    },
+    {
+      "id": "T002806",
+      "label": "U1280",
+      "resolved": false
+    },
+    {
+      "id": "T002807",
+      "label": "U1281",
+      "resolved": false
+    },
+    {
+      "id": "T002808",
+      "label": "U128D",
+      "resolved": false
+    },
+    {
+      "id": "T001477",
+      "label": "B1002",
+      "resolved": false
+    },
+    {
+      "id": "T001478",
+      "label": "B1601",
+      "resolved": false
+    },
+    {
+      "id": "T001479",
+      "label": "B1632",
+      "resolved": false
+    },
+    {
+      "id": "T001480",
+      "label": "B1644",
+      "resolved": false
+    },
+    {
+      "id": "T001481",
+      "label": "B1645",
+      "resolved": false
+    },
+    {
+      "id": "T001482",
+      "label": "B1646",
+      "resolved": false
+    },
+    {
+      "id": "T001483",
+      "label": "B1647",
+      "resolved": false
+    },
+    {
+      "id": "T001484",
+      "label": "B1648",
+      "resolved": false
+    },
+    {
+      "id": "T001485",
+      "label": "B1657",
+      "resolved": false
+    },
+    {
+      "id": "T001486",
+      "label": "B1658",
+      "resolved": false
+    },
+    {
+      "id": "T001487",
+      "label": "B1659",
+      "resolved": false
+    },
+    {
+      "id": "T001488",
+      "label": "B1660",
+      "resolved": false
+    },
+    {
+      "id": "T001489",
+      "label": "B1663",
+      "resolved": false
+    },
+    {
+      "id": "T001490",
+      "label": "B1664",
+      "resolved": false
+    },
+    {
+      "id": "T001491",
+      "label": "U1280",
+      "resolved": false
+    },
+    {
+      "id": "T001492",
+      "label": "U128D",
+      "resolved": false
+    },
+    {
+      "id": "T001453",
+      "label": "B1926",
+      "resolved": false
+    },
+    {
+      "id": "T001454",
+      "label": "B1931",
+      "resolved": false
+    },
+    {
+      "id": "T001455",
+      "label": "U1280",
+      "resolved": false
+    },
+    {
+      "id": "T001456",
+      "label": "U128D",
+      "resolved": false
+    },
+    {
+      "id": "T001458",
+      "label": "B12C5",
+      "resolved": false
+    },
+    {
+      "id": "T001459",
+      "label": "B12C6",
+      "resolved": false
+    },
+    {
+      "id": "T001460",
+      "label": "B12C7",
+      "resolved": false
+    },
+    {
+      "id": "T001461",
+      "label": "B12D0",
+      "resolved": false
+    },
+    {
+      "id": "T001462",
+      "label": "B12D1",
+      "resolved": false
+    },
+    {
+      "id": "T001463",
+      "label": "B12D2",
+      "resolved": false
+    },
+    {
+      "id": "T001464",
+      "label": "B12D3",
+      "resolved": false
+    },
+    {
+      "id": "T001465",
+      "label": "B12E0",
+      "resolved": false
+    },
+    {
+      "id": "T001466",
+      "label": "B12E1",
+      "resolved": false
+    },
+    {
+      "id": "T001467",
+      "label": "B12E2",
+      "resolved": false
+    },
+    {
+      "id": "T001468",
+      "label": "B12E3",
+      "resolved": false
+    },
+    {
+      "id": "T001469",
+      "label": "B12E4",
+      "resolved": false
+    },
+    {
+      "id": "T001470",
+      "label": "B12F0",
+      "resolved": false
+    },
+    {
+      "id": "T001471",
+      "label": "B12F1",
+      "resolved": false
+    },
+    {
+      "id": "T001472",
+      "label": "B12F2",
+      "resolved": false
+    },
+    {
+      "id": "T001473",
+      "label": "U0073",
+      "resolved": false
+    },
+    {
+      "id": "T001474",
+      "label": "U0100",
+      "resolved": false
+    },
+    {
+      "id": "T001475",
+      "label": "U0122",
+      "resolved": false
+    },
+    {
+      "id": "T002815",
+      "label": "B2477",
+      "resolved": false
+    },
+    {
+      "id": "T002816",
+      "label": "B2479",
+      "resolved": false
+    },
+    {
+      "id": "T002817",
+      "label": "B2480",
+      "resolved": false
+    },
+    {
+      "id": "T002818",
+      "label": "B2481",
+      "resolved": false
+    },
+    {
+      "id": "T002819",
+      "label": "B2482",
+      "resolved": false
+    },
+    {
+      "id": "T002820",
+      "label": "U1280",
+      "resolved": false
+    },
+    {
+      "id": "T002821",
+      "label": "U1281",
+      "resolved": false
+    }
+  ],
   "blocks": [
     {
       "type": "heading",
@@ -27,94 +473,328 @@
       "type": "table",
       "rows": [
         [
-          "B1002",
-          "MICU (EEPROM) error",
-          "internal error"
+          {
+            "text": "B1002",
+            "refs": [
+              {
+                "id": "T002892",
+                "label": "B1002",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "MICU (EEPROM) error"
+          },
+          {
+            "text": "internal error"
+          }
         ],
         [
-          "B1003",
-          "MICS unit update error",
-          "internal error"
+          {
+            "text": "B1003",
+            "refs": [
+              {
+                "id": "T002893",
+                "label": "B1003",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "MICS unit update error"
+          },
+          {
+            "text": "internal error"
+          }
         ],
         [
-          "B1028",
-          "Rear wiper switch (RR WIPER AS) signal error (intermittent wipers do not operate), wiper switch does not auto-stop when turned OFF",
-          "signal error"
+          {
+            "text": "B1028",
+            "refs": [
+              {
+                "id": "T002894",
+                "label": "B1028",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Rear wiper switch (RR WIPER AS) signal error (intermittent wipers do not operate), wiper switch does not auto-stop when turned OFF"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1036",
-          "IG1 input abnormal",
-          "signal error"
+          {
+            "text": "B1036",
+            "refs": [
+              {
+                "id": "T002895",
+                "label": "B1036",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "IG1 input abnormal"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1077",
-          "Wiper switch (AS) signal error (intermittent wipers do not operate, wiper switch does not auto-stop when turned OFF)",
-          "signal error"
+          {
+            "text": "B1077",
+            "refs": [
+              {
+                "id": "T002896",
+                "label": "B1077",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Wiper switch (AS) signal error (intermittent wipers do not operate, wiper switch does not auto-stop when turned OFF)"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1129",
-          "Driver Door lock knob switch LOCK/UNLOCK signal input simultaneously",
-          "signal error"
+          {
+            "text": "B1129",
+            "refs": [
+              {
+                "id": "T002898",
+                "label": "B1129",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Driver Door lock knob switch LOCK/UNLOCK signal input simultaneously"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1275",
-          "Headlight switch OFF position circuit abnormal",
-          "signal error"
+          {
+            "text": "B1275",
+            "refs": [
+              {
+                "id": "T002899",
+                "label": "B1275",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Headlight switch OFF position circuit abnormal"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1276",
-          "Headlight switch SMALL position circuit failure",
-          "signal error"
+          {
+            "text": "B1276",
+            "refs": [
+              {
+                "id": "T002899",
+                "label": "B1276",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Headlight switch SMALL position circuit failure"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1277",
-          "Headlight switch AUTO position circuit failure",
-          "signal error"
+          {
+            "text": "B1277",
+            "refs": [
+              {
+                "id": "T002899",
+                "label": "B1277",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Headlight switch AUTO position circuit failure"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1278",
-          "Headlight switch LO position circuit failure",
-          "signal error"
+          {
+            "text": "B1278",
+            "refs": [
+              {
+                "id": "T002899",
+                "label": "B1278",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Headlight switch LO position circuit failure"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1279",
-          "DIMMER/Passing switch circuit error",
-          "signal error"
+          {
+            "text": "B1279",
+            "refs": [
+              {
+                "id": "T002900",
+                "label": "B1279",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "DIMMER/Passing switch circuit error"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1280",
-          "Turn Signal Switch circuit abnormal",
-          "signal error"
+          {
+            "text": "B1280",
+            "refs": [
+              {
+                "id": "T002901",
+                "label": "B1280",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Turn Signal Switch circuit abnormal"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1281",
-          "Wiper switch MIST position circuit error",
-          "signal error"
+          {
+            "text": "B1281",
+            "refs": [
+              {
+                "id": "T002902",
+                "label": "B1281",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Wiper switch MIST position circuit error"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1282",
-          "Wiper switch INT position circuit error",
-          "signal error"
+          {
+            "text": "B1282",
+            "refs": [
+              {
+                "id": "T002902",
+                "label": "B1282",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Wiper switch INT position circuit error"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1283",
-          "Wiper switch LOW position circuit error",
-          "signal error"
+          {
+            "text": "B1283",
+            "refs": [
+              {
+                "id": "T002902",
+                "label": "B1283",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Wiper switch LOW position circuit error"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1284",
-          "Wiper switch HIGH position circuit error",
-          "signal error"
+          {
+            "text": "B1284",
+            "refs": [
+              {
+                "id": "T002902",
+                "label": "B1284",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Wiper switch HIGH position circuit error"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "U1280",
-          "Communication circuit error (BUS off)",
-          "Communication line error"
+          {
+            "text": "U1280",
+            "refs": [
+              {
+                "id": "T002903",
+                "label": "U1280",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Communication circuit error (BUS off)"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U128D",
-          "MICU cannot receive communication from Combination Meter Control Unit",
-          "Communication line error"
+          {
+            "text": "U128D",
+            "refs": [
+              {
+                "id": "T002904",
+                "label": "U128D",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "MICU cannot receive communication from Combination Meter Control Unit"
+          },
+          {
+            "text": "Communication line error"
+          }
         ]
       ]
     },
@@ -122,59 +802,202 @@
       "type": "table",
       "rows": [
         [
-          "B1175",
-          "Combination meter (fuel meter sender unit) circuit error (disconnection)",
-          "signal error"
+          {
+            "text": "B1175",
+            "refs": [
+              {
+                "id": "T001513",
+                "label": "B1175",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Combination meter (fuel meter sender unit) circuit error (disconnection)"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1176",
-          "Combination meter (fuel meter sender unit) circuit error (short circuit)",
-          "signal error"
+          {
+            "text": "B1176",
+            "refs": [
+              {
+                "id": "T001514",
+                "label": "B1176",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Combination meter (fuel meter sender unit) circuit error (short circuit)"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "U0029",
-          "F-CAN communication circuit error (BUS off)",
-          "Communication line error"
+          {
+            "text": "U0029",
+            "refs": [
+              {
+                "id": "T001515",
+                "label": "U0029",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "F-CAN communication circuit error (BUS off)"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U0100",
-          "Combination Meter Control Unit cannot receive transmission from PGM-FI ECU",
-          "Communication line error"
+          {
+            "text": "U0100",
+            "refs": [
+              {
+                "id": "T001516",
+                "label": "U0100",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Combination Meter Control Unit cannot receive transmission from PGM-FI ECU"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U0122",
-          "Combination Meter Control Unit cannot receive VSA frames sent from VSA Modulator Control Unit",
-          "Communication line error"
+          {
+            "text": "U0122",
+            "refs": [
+              {
+                "id": "T001517",
+                "label": "U0122",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Combination Meter Control Unit cannot receive VSA frames sent from VSA Modulator Control Unit"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U12A7",
-          "Combination Meter Control Unit cannot receive communication from City Brake Active System Radar/Control Unit",
-          "Communication line error"
+          {
+            "text": "U12A7",
+            "refs": [
+              {
+                "id": "T002890",
+                "label": "U12A7",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Combination Meter Control Unit cannot receive communication from City Brake Active System Radar/Control Unit"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U0131",
-          "Combination Meter Control Unit cannot receive EPS frames sent from the EPS Control Unit",
-          "Communication line error"
+          {
+            "text": "U0131",
+            "refs": [
+              {
+                "id": "T001518",
+                "label": "U0131",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Combination Meter Control Unit cannot receive EPS frames sent from the EPS Control Unit"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U0151",
-          "Combination Meter Control Unit cannot receive SRS frames sent from SRS unit",
-          "Communication line error"
+          {
+            "text": "U0151",
+            "refs": [
+              {
+                "id": "T001519",
+                "label": "U0151",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Combination Meter Control Unit cannot receive SRS frames sent from SRS unit"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U1280",
-          "B-CAN communication circuit error (BUS off)",
-          "Communication line error"
+          {
+            "text": "U1280",
+            "refs": [
+              {
+                "id": "T001520",
+                "label": "U1280",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "B-CAN communication circuit error (BUS off)"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U1281",
-          "Combination Meter Control Unit cannot receive communication from MICU",
-          "Communication line error"
+          {
+            "text": "U1281",
+            "refs": [
+              {
+                "id": "T001521",
+                "label": "U1281",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Combination Meter Control Unit cannot receive communication from MICU"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U3000-49",
-          "ECU internal circuit error",
-          "internal error"
+          {
+            "text": "U3000-49",
+            "refs": [
+              {
+                "id": "T001522",
+                "label": "U3000-49",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "ECU internal circuit error"
+          },
+          {
+            "text": "internal error"
+          }
         ]
       ]
     },
@@ -182,89 +1005,310 @@
       "type": "table",
       "rows": [
         [
-          "B1225",
-          "Disconnection of cord of internal air temperature sensor, sensor failure",
-          "signal error"
+          {
+            "text": "B1225",
+            "refs": [
+              {
+                "id": "T001368",
+                "label": "B1225",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of cord of internal air temperature sensor, sensor failure"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1226",
-          "Shorted cord of internal air temperature sensor, defective sensor",
-          "signal error"
+          {
+            "text": "B1226",
+            "refs": [
+              {
+                "id": "T001369",
+                "label": "B1226",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Shorted cord of internal air temperature sensor, defective sensor"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1227",
-          "Disconnection of cord of outside temperature sensor, sensor failure",
-          "signal error"
+          {
+            "text": "B1227",
+            "refs": [
+              {
+                "id": "T001370",
+                "label": "B1227",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of cord of outside temperature sensor, sensor failure"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1228",
-          "Short-circuited cord of outside temperature sensor, defective sensor",
-          "signal error"
+          {
+            "text": "B1228",
+            "refs": [
+              {
+                "id": "T001371",
+                "label": "B1228",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Short-circuited cord of outside temperature sensor, defective sensor"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1229",
-          "Disconnection of cord of solar radiation sensor, sensor failure",
-          "signal error"
+          {
+            "text": "B1229",
+            "refs": [
+              {
+                "id": "T001372",
+                "label": "B1229",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of cord of solar radiation sensor, sensor failure"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1230",
-          "Short circuit in cord of solar radiation sensor, sensor failure",
-          "signal error"
+          {
+            "text": "B1230",
+            "refs": [
+              {
+                "id": "T001373",
+                "label": "B1230",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Short circuit in cord of solar radiation sensor, sensor failure"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1231",
-          "Evaporator Disconnection of sensor cord, sensor failure",
-          "signal error"
+          {
+            "text": "B1231",
+            "refs": [
+              {
+                "id": "T001374",
+                "label": "B1231",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Evaporator Disconnection of sensor cord, sensor failure"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1232",
-          "Evaporator Shorted sensor cord, defective sensor",
-          "signal error"
+          {
+            "text": "B1232",
+            "refs": [
+              {
+                "id": "T001375",
+                "label": "B1232",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Evaporator Shorted sensor cord, defective sensor"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1233",
-          "Disconnection of potentiometer of air mix motor",
-          "signal error"
+          {
+            "text": "B1233",
+            "refs": [
+              {
+                "id": "T002724",
+                "label": "B1233",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of potentiometer of air mix motor"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1234",
-          "Short circuit of potentiometer of air mix motor",
-          "signal error"
+          {
+            "text": "B1234",
+            "refs": [
+              {
+                "id": "T002725",
+                "label": "B1234",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Short circuit of potentiometer of air mix motor"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1235",
-          "Air Mix Motor Locks",
-          "signal error"
+          {
+            "text": "B1235",
+            "refs": [
+              {
+                "id": "T002726",
+                "label": "B1235",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Air Mix Motor Locks"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1239",
-          "Mode Disconnection or short-circuit of motor cord",
-          "signal error"
+          {
+            "text": "B1239",
+            "refs": [
+              {
+                "id": "T001379",
+                "label": "B1239",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Mode Disconnection or short-circuit of motor cord"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1240",
-          "Mode Motor Lock",
-          "signal error"
+          {
+            "text": "B1240",
+            "refs": [
+              {
+                "id": "T001380",
+                "label": "B1240",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Mode Motor Lock"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1241",
-          "Blower Motor cord break, short, blown fuse, motor lock",
-          "signal error"
+          {
+            "text": "B1241",
+            "refs": [
+              {
+                "id": "T001381",
+                "label": "B1241",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Blower Motor cord break, short, blown fuse, motor lock"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B2969",
-          "Unable to receive wiper frames from MICU",
-          "Communication line error"
+          {
+            "text": "B2969",
+            "refs": [
+              {
+                "id": "T001382",
+                "label": "B2969",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Unable to receive wiper frames from MICU"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U1280",
-          "Auto A/C control unit communication circuit error (BUS off)",
-          "Communication line error"
+          {
+            "text": "U1280",
+            "refs": [
+              {
+                "id": "T001384",
+                "label": "U1280",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Auto A/C control unit communication circuit error (BUS off)"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U128D",
-          "Auto A/C control unit cannot receive communication from combination meter control unit",
-          "Communication line error"
+          {
+            "text": "U128D",
+            "refs": [
+              {
+                "id": "T001385",
+                "label": "U128D",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Auto A/C control unit cannot receive communication from combination meter control unit"
+          },
+          {
+            "text": "Communication line error"
+          }
         ]
       ]
     },
@@ -272,24 +1316,76 @@
       "type": "table",
       "rows": [
         [
-          "B1575",
-          "Auto Light Sensor Abnormality",
-          "internal error"
+          {
+            "text": "B1575",
+            "refs": [
+              {
+                "id": "T002805",
+                "label": "B1575",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Auto Light Sensor Abnormality"
+          },
+          {
+            "text": "internal error"
+          }
         ],
         [
-          "U1280",
-          "Communication circuit error (BUS off)",
-          "Communication line error"
+          {
+            "text": "U1280",
+            "refs": [
+              {
+                "id": "T002806",
+                "label": "U1280",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Communication circuit error (BUS off)"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U1281",
-          "Auto Light Control Unit cannot receive communication from MICU",
-          "Communication line error"
+          {
+            "text": "U1281",
+            "refs": [
+              {
+                "id": "T002807",
+                "label": "U1281",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Auto Light Control Unit cannot receive communication from MICU"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U128D",
-          "Auto Light Control Unit cannot receive communication from Combination Meter Control Unit",
-          "Communication line error"
+          {
+            "text": "U128D",
+            "refs": [
+              {
+                "id": "T002808",
+                "label": "U128D",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Auto Light Control Unit cannot receive communication from Combination Meter Control Unit"
+          },
+          {
+            "text": "Communication line error"
+          }
         ]
       ]
     },
@@ -297,84 +1393,292 @@
       "type": "table",
       "rows": [
         [
-          "B1002",
-          "MICU (EEPROM) error",
-          "internal error"
+          {
+            "text": "B1002",
+            "refs": [
+              {
+                "id": "T001477",
+                "label": "B1002",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "MICU (EEPROM) error"
+          },
+          {
+            "text": "internal error"
+          }
         ],
         [
-          "B1601",
-          "Smart Key ECU (CPU) error",
-          "internal error"
+          {
+            "text": "B1601",
+            "refs": [
+              {
+                "id": "T001478",
+                "label": "B1601",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Smart Key ECU (CPU) error"
+          },
+          {
+            "text": "internal error"
+          }
         ],
         [
-          "B1632",
-          "MTR CONT ON sticking to",
-          "signal error"
+          {
+            "text": "B1632",
+            "refs": [
+              {
+                "id": "T001479",
+                "label": "B1632",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "MTR CONT ON sticking to"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1644",
-          "Honda Smart Key LF circuit failure or short circuit failure",
-          "signal error"
+          {
+            "text": "B1644",
+            "refs": [
+              {
+                "id": "T001480",
+                "label": "B1644",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Honda Smart Key LF circuit failure or short circuit failure"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1645",
-          "Short circuit in driver door LF antenna line",
-          "signal error"
+          {
+            "text": "B1645",
+            "refs": [
+              {
+                "id": "T001481",
+                "label": "B1645",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Short circuit in driver door LF antenna line"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1646",
-          "Disconnection of driver door LF antenna line",
-          "signal error"
+          {
+            "text": "B1646",
+            "refs": [
+              {
+                "id": "T001482",
+                "label": "B1646",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of driver door LF antenna line"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1647",
-          "Assisted door LF antenna Short circuit in line",
-          "signal error"
+          {
+            "text": "B1647",
+            "refs": [
+              {
+                "id": "T001483",
+                "label": "B1647",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Assisted door LF antenna Short circuit in line"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1648",
-          "Assistant Door LF Antenna Disconnection of line",
-          "signal error"
+          {
+            "text": "B1648",
+            "refs": [
+              {
+                "id": "T001484",
+                "label": "B1648",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Assistant Door LF Antenna Disconnection of line"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1657",
-          "Short circuit in rear bumper LF antenna line",
-          "signal error"
+          {
+            "text": "B1657",
+            "refs": [
+              {
+                "id": "T001485",
+                "label": "B1657",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Short circuit in rear bumper LF antenna line"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1658",
-          "Disconnection of rear bumper LF antenna line",
-          "signal error"
+          {
+            "text": "B1658",
+            "refs": [
+              {
+                "id": "T001486",
+                "label": "B1658",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of rear bumper LF antenna line"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1659",
-          "Short circuit in front LF antenna line inside the vehicle",
-          "signal error"
+          {
+            "text": "B1659",
+            "refs": [
+              {
+                "id": "T001487",
+                "label": "B1659",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Short circuit in front LF antenna line inside the vehicle"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1660",
-          "Disconnection of front LF antenna line inside the vehicle",
-          "signal error"
+          {
+            "text": "B1660",
+            "refs": [
+              {
+                "id": "T001488",
+                "label": "B1660",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of front LF antenna line inside the vehicle"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1663",
-          "Short circuit in the rear LF antenna line inside the vehicle",
-          "signal error"
+          {
+            "text": "B1663",
+            "refs": [
+              {
+                "id": "T001489",
+                "label": "B1663",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Short circuit in the rear LF antenna line inside the vehicle"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B1664",
-          "Disconnection of rear LF antenna line inside the vehicle",
-          "signal error"
+          {
+            "text": "B1664",
+            "refs": [
+              {
+                "id": "T001490",
+                "label": "B1664",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of rear LF antenna line inside the vehicle"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "U1280",
-          "Communication circuit error (BUS off)",
-          "Communication line error"
+          {
+            "text": "U1280",
+            "refs": [
+              {
+                "id": "T001491",
+                "label": "U1280",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Communication circuit error (BUS off)"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U128D",
-          "Honda Smart Key ECU cannot receive VSP/NE frames sent from the combination meter",
-          "Communication line error"
+          {
+            "text": "U128D",
+            "refs": [
+              {
+                "id": "T001492",
+                "label": "U128D",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Honda Smart Key ECU cannot receive VSP/NE frames sent from the combination meter"
+          },
+          {
+            "text": "Communication line error"
+          }
         ]
       ]
     },
@@ -382,24 +1686,76 @@
       "type": "table",
       "rows": [
         [
-          "B1926",
-          "Backup control Antenna disconnection or short circuit",
-          "internal error"
+          {
+            "text": "B1926",
+            "refs": [
+              {
+                "id": "T001453",
+                "label": "B1926",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Backup control Antenna disconnection or short circuit"
+          },
+          {
+            "text": "internal error"
+          }
         ],
         [
-          "B1931",
-          "Backup Control Unit No Reply",
-          "signal error"
+          {
+            "text": "B1931",
+            "refs": [
+              {
+                "id": "T001454",
+                "label": "B1931",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Backup Control Unit No Reply"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "U1280",
-          "Backup control unit Bus line failure (BUS off)",
-          "Communication line error"
+          {
+            "text": "U1280",
+            "refs": [
+              {
+                "id": "T001455",
+                "label": "U1280",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Backup control unit Bus line failure (BUS off)"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U128D",
-          "Backup control unit cannot receive communication from combination meter control unit",
-          "Communication line error"
+          {
+            "text": "U128D",
+            "refs": [
+              {
+                "id": "T001456",
+                "label": "U128D",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Backup control unit cannot receive communication from combination meter control unit"
+          },
+          {
+            "text": "Communication line error"
+          }
         ]
       ]
     },
@@ -407,94 +1763,328 @@
       "type": "table",
       "rows": [
         [
-          "B12C5",
-          "ENGINE START STOP switch failure",
-          "internal error"
+          {
+            "text": "B12C5",
+            "refs": [
+              {
+                "id": "T001458",
+                "label": "B12C5",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "ENGINE START STOP switch failure"
+          },
+          {
+            "text": "internal error"
+          }
         ],
         [
-          "B12C6",
-          "Electronic steering lock switch C or D failure",
-          "internal error"
+          {
+            "text": "B12C6",
+            "refs": [
+              {
+                "id": "T001459",
+                "label": "B12C6",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Electronic steering lock switch C or D failure"
+          },
+          {
+            "text": "internal error"
+          }
         ],
         [
-          "B12C7",
-          "Electronic Steering Lock Motor Failure",
-          "internal error"
+          {
+            "text": "B12C7",
+            "refs": [
+              {
+                "id": "T001460",
+                "label": "B12C7",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Electronic Steering Lock Motor Failure"
+          },
+          {
+            "text": "internal error"
+          }
         ],
         [
-          "B12D0",
-          "IG1a output abnormal",
-          "internal error"
+          {
+            "text": "B12D0",
+            "refs": [
+              {
+                "id": "T001461",
+                "label": "B12D0",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "IG1a output abnormal"
+          },
+          {
+            "text": "internal error"
+          }
         ],
         [
-          "B12D1",
-          "IG1b output abnormal",
-          "internal error"
+          {
+            "text": "B12D1",
+            "refs": [
+              {
+                "id": "T001462",
+                "label": "B12D1",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "IG1b output abnormal"
+          },
+          {
+            "text": "internal error"
+          }
         ],
         [
-          "B12D2",
-          "IG2 output abnormal",
-          "internal error"
+          {
+            "text": "B12D2",
+            "refs": [
+              {
+                "id": "T001463",
+                "label": "B12D2",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "IG2 output abnormal"
+          },
+          {
+            "text": "internal error"
+          }
         ],
         [
-          "B12D3",
-          "IG latch failure",
-          "internal error"
+          {
+            "text": "B12D3",
+            "refs": [
+              {
+                "id": "T001464",
+                "label": "B12D3",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "IG latch failure"
+          },
+          {
+            "text": "internal error"
+          }
         ],
         [
-          "B12E0",
-          "Electronic steering lock failure",
-          "internal error"
+          {
+            "text": "B12E0",
+            "refs": [
+              {
+                "id": "T001465",
+                "label": "B12E0",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Electronic steering lock failure"
+          },
+          {
+            "text": "internal error"
+          }
         ],
         [
-          "B12E1",
-          "Electronic Steering Lock Motor Circuit Failure",
-          "internal error"
+          {
+            "text": "B12E1",
+            "refs": [
+              {
+                "id": "T001466",
+                "label": "B12E1",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Electronic Steering Lock Motor Circuit Failure"
+          },
+          {
+            "text": "internal error"
+          }
         ],
         [
-          "B12E2",
-          "MTR-CUT1 Lo failure",
-          "signal error"
+          {
+            "text": "B12E2",
+            "refs": [
+              {
+                "id": "T001467",
+                "label": "B12E2",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "MTR-CUT1 Lo failure"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B12E3",
-          "MTR-CUT1 Hi failure",
-          "signal error"
+          {
+            "text": "B12E3",
+            "refs": [
+              {
+                "id": "T001468",
+                "label": "B12E3",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "MTR-CUT1 Hi failure"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B12E4",
-          "MTR-CUT2 failure",
-          "signal error"
+          {
+            "text": "B12E4",
+            "refs": [
+              {
+                "id": "T001469",
+                "label": "B12E4",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "MTR-CUT2 failure"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B12F0",
-          "Communication failure between smart power control unit and electronic steering lock",
-          "Communication line error"
+          {
+            "text": "B12F0",
+            "refs": [
+              {
+                "id": "T001470",
+                "label": "B12F0",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Communication failure between smart power control unit and electronic steering lock"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "B12F1",
-          "Communication failure between Smart Power Control Unit and Backup Control Unit",
-          "Communication line error"
+          {
+            "text": "B12F1",
+            "refs": [
+              {
+                "id": "T001471",
+                "label": "B12F1",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Communication failure between Smart Power Control Unit and Backup Control Unit"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "B12F2",
-          "Communication error between Smart Power Control Unit and Honda Smart Key ECU",
-          "Communication line error"
+          {
+            "text": "B12F2",
+            "refs": [
+              {
+                "id": "T001472",
+                "label": "B12F2",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Communication error between Smart Power Control Unit and Honda Smart Key ECU"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U0073",
-          "Smart Power Control Unit F-CAN communication circuit error (BUS off)",
-          "Communication line error"
+          {
+            "text": "U0073",
+            "refs": [
+              {
+                "id": "T001473",
+                "label": "U0073",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Smart Power Control Unit F-CAN communication circuit error (BUS off)"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U0100",
-          "Communication error between Smart Power Control Unit and PGM-FI ECU",
-          "Communication line error"
+          {
+            "text": "U0100",
+            "refs": [
+              {
+                "id": "T001474",
+                "label": "U0100",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Communication error between Smart Power Control Unit and PGM-FI ECU"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U0122",
-          "Communication error between Smart Power Control Unit and VSA Modulator Control Unit",
-          "Communication line error"
+          {
+            "text": "U0122",
+            "refs": [
+              {
+                "id": "T001475",
+                "label": "U0122",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Communication error between Smart Power Control Unit and VSA Modulator Control Unit"
+          },
+          {
+            "text": "Communication line error"
+          }
         ]
       ]
     },
@@ -502,44 +2092,148 @@
       "type": "table",
       "rows": [
         [
-          "B2477",
-          "Rear headlight leveling sensor circuit error",
-          "signal error"
+          {
+            "text": "B2477",
+            "refs": [
+              {
+                "id": "T002815",
+                "label": "B2477",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Rear headlight leveling sensor circuit error"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B2479",
-          "Auto Leveling Control Unit (EEPROM) Error",
-          "internal error"
+          {
+            "text": "B2479",
+            "refs": [
+              {
+                "id": "T002816",
+                "label": "B2479",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Auto Leveling Control Unit (EEPROM) Error"
+          },
+          {
+            "text": "internal error"
+          }
         ],
         [
-          "B2480",
-          "Vehicle speed sensor failure value detection",
-          "signal error"
+          {
+            "text": "B2480",
+            "refs": [
+              {
+                "id": "T002817",
+                "label": "B2480",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Vehicle speed sensor failure value detection"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B2481",
-          "Abnormal value detection of speed sensor",
-          "signal error"
+          {
+            "text": "B2481",
+            "refs": [
+              {
+                "id": "T002818",
+                "label": "B2481",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Abnormal value detection of speed sensor"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "B2482",
-          "Lighting switch signal abnormal",
-          "signal error"
+          {
+            "text": "B2482",
+            "refs": [
+              {
+                "id": "T002819",
+                "label": "B2482",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Lighting switch signal abnormal"
+          },
+          {
+            "text": "signal error"
+          }
         ],
         [
-          "U1280",
-          "ALV Unit Bath Off",
-          "Communication line error"
+          {
+            "text": "U1280",
+            "refs": [
+              {
+                "id": "T002820",
+                "label": "U1280",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "ALV Unit Bath Off"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U1281",
-          "Auto Leveling Control Unit cannot receive communication from MICU",
-          "Communication line error"
+          {
+            "text": "U1281",
+            "refs": [
+              {
+                "id": "T002821",
+                "label": "U1281",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Auto Leveling Control Unit cannot receive communication from MICU"
+          },
+          {
+            "text": "Communication line error"
+          }
         ],
         [
-          "U128D",
-          "Auto Leveling Control Unit cannot receive communication from Combination Meter Control Unit",
-          "Communication line error"
+          {
+            "text": "U128D",
+            "refs": [
+              {
+                "id": "T002808",
+                "label": "U128D",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Auto Leveling Control Unit cannot receive communication from Combination Meter Control Unit"
+          },
+          {
+            "text": "Communication line error"
+          }
         ]
       ]
     }

@@ -111,14 +111,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "In HDS, select P2 relief valve control SOL.V. ON in the INSPECTION menu. Apply negative pressure and verify that negative pressure is not retained.",
-      "refs": [
-        {
-          "id": "R000495",
-          "label": "Replace the P2 relief valve control SOL.",
-          "resolved": true
-        }
-      ]
+      "text": "In HDS, select P2 relief valve control SOL.V. ON in the INSPECTION menu. Apply negative pressure and verify that negative pressure is not retained."
     },
     {
       "type": "list",
@@ -164,14 +157,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Turn ignition OFF (LOCK) mode. Remove the negative pressure tube and hand vacuum pump. Install the negative pressure tube (A) and hand vacuum pump (B). Apply negative pressure and verify that negative pressure is not retained.",
-      "refs": [
-        {
-          "id": "R000495",
-          "label": "Replace the P2 relief valve control SOL.",
-          "resolved": true
-        }
-      ]
+      "text": "Turn ignition OFF (LOCK) mode. Remove the negative pressure tube and hand vacuum pump."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Install the negative pressure tube (A) and hand vacuum pump (B). Apply negative pressure and verify that negative pressure is not retained."
     },
     {
       "type": "list",
@@ -213,14 +204,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Turn ignition to ON mode. In HDS, select P2 relief valve control SOL.V. ON in the INSPECTION menu. Apply negative pressure and verify that negative pressure is maintained.",
-      "refs": [
-        {
-          "id": "R000495",
-          "label": "Replace the P2 relief valve control SOL.",
-          "resolved": true
-        }
-      ]
+      "text": "Turn ignition to ON mode. In HDS, select P2 relief valve control SOL.V. ON in the INSPECTION menu. Apply negative pressure and verify that negative pressure is maintained."
     },
     {
       "type": "list",

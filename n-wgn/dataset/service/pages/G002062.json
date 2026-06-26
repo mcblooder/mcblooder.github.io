@@ -33,82 +33,190 @@
       "type": "table",
       "rows": [
         [
-          "port (e.g. LAN port)",
-          "Wiring color",
-          "Terminal name",
-          "Contents"
+          {
+            "text": "port (e.g. LAN port)",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Terminal name",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
         ],
         [
-          "1",
-          "green",
-          "CAMERA BIT1",
-          "Rear camera display switching signal"
+          {
+            "text": "1"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "CAMERA BIT1"
+          },
+          {
+            "text": "Rear camera display switching signal"
+          }
         ],
         [
-          "2",
-          "tea",
-          "CAMERA BIT0",
-          "Rear camera display switching signal"
+          {
+            "text": "2"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "CAMERA BIT0"
+          },
+          {
+            "text": "Rear camera display switching signal"
+          }
         ],
         [
-          "3",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "3"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "4",
-          "white",
-          "CAMERA VCC",
-          "Power supply for rear camera"
+          {
+            "text": "4"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "CAMERA VCC"
+          },
+          {
+            "text": "Power supply for rear camera"
+          }
         ],
         [
-          "5",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "5"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "6",
-          "black",
-          "RC GND",
-          "Rear Camera Grounding"
+          {
+            "text": "6"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "RC GND"
+          },
+          {
+            "text": "Rear Camera Grounding"
+          }
         ],
         [
-          "7",
-          "red",
-          "CAMERA GND",
-          "Rear Camera NTSC signal grounding"
+          {
+            "text": "7"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "CAMERA GND"
+          },
+          {
+            "text": "Rear Camera NTSC signal grounding"
+          }
         ],
         [
-          "8",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "8"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "9",
-          "green",
-          "CAMERA V",
-          "Rear camera NTSC signal"
+          {
+            "text": "9"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "CAMERA V"
+          },
+          {
+            "text": "Rear camera NTSC signal"
+          }
         ],
         [
-          "10",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "10"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "11",
-          "purple",
-          "CAMERA ADPT",
-          "Rear Camera connection detection signal"
+          {
+            "text": "11"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "CAMERA ADPT"
+          },
+          {
+            "text": "Rear Camera connection detection signal"
+          }
         ],
         [
-          "12",
-          "ash",
-          "SH CAMERA",
-          "Shield of terminal No.4, No.6, No.7, No.9"
+          {
+            "text": "12"
+          },
+          {
+            "text": "ash"
+          },
+          {
+            "text": "SH CAMERA"
+          },
+          {
+            "text": "Shield of terminal No.4, No.6, No.7, No.9"
+          }
         ]
       ]
     }

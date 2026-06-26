@@ -33,7 +33,12 @@
     {
       "type": "step",
       "number": "",
-      "text": "1. Connect HDS to the data link coupler. 2. Turn ignition to ON mode. 3. Perform a \"Self Check\" in the \"Test Mode Menu\" menu of HDS, and if there is a malfunction, inspect the corresponding part first. 4. Select \"Honda Smart Key ECU\" in the \"One Push Start System\" menu of HDS. 5. Perform the HDS \"Function Test\" and check the range in which the Honda Smart Key indicator (LED) lights up."
+      "text": "1. Connect HDS to the data link coupler. 2. Turn ignition to ON mode. 3. Perform a \"Self Check\" in the \"Test Mode Menu\" menu of HDS, and if there is a malfunction, inspect the corresponding part first. 4. Select \"Honda Smart Key ECU\" in the \"One Push Start System\" menu of HDS."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "5. Perform the HDS \"Function Test\" and check the range in which the Honda Smart Key indicator (LED) lights up."
     },
     {
       "type": "list",
@@ -64,7 +69,12 @@
     {
       "type": "step",
       "number": "",
-      "text": "1. Connect HDS to the data link coupler. 2. Turn ignition to ON mode. 3. Perform a \"Self Check\" in the \"Test Mode Menu\" menu of HDS, and if there is a malfunction, inspect the corresponding part first. 4. Select \"Honda Smart Key ECU\" in the \"One Push Start System\" menu of HDS. 5. At each measurement position, perform the HDS \"function test\" and check that the indicator (LED) on the Honda Smart Key lights up at the specified distance or greater."
+      "text": "1. Connect HDS to the data link coupler. 2. Turn ignition to ON mode. 3. Perform a \"Self Check\" in the \"Test Mode Menu\" menu of HDS, and if there is a malfunction, inspect the corresponding part first. 4. Select \"Honda Smart Key ECU\" in the \"One Push Start System\" menu of HDS."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "5. At each measurement position, perform the HDS \"function test\" and check that the indicator (LED) on the Honda Smart Key lights up at the specified distance or greater."
     },
     {
       "type": "list",

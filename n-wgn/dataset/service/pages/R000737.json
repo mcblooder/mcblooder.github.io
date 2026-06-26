@@ -55,7 +55,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Lower the glass. Remove the rear door molding (A) from the protruding terminal (B) on the inside of the door panel."
+      "text": "Lower the glass."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the rear door molding (A) from the protruding terminal (B) on the inside of the door panel."
     },
     {
       "type": "heading",

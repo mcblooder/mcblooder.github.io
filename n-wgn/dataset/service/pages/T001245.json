@@ -43,6 +43,16 @@
       "resolved": false
     },
     {
+      "id": "R000471",
+      "label": "Learning to idle.",
+      "resolved": true
+    },
+    {
+      "id": "R000540",
+      "label": "Perform initial learning of the tilt sensor.",
+      "resolved": true
+    },
+    {
       "id": "R000448",
       "label": "Remove the PGM-FI ECU.",
       "resolved": true
@@ -66,19 +76,7 @@
     {
       "type": "step",
       "number": "",
-      "text": "1. Turn the ignition to the ON mode and confirm that the D indicator light (A) is blinking. 2. After all failure diagnostics have been completed and the necessary repair work has been performed, the end of failure diagnostics is processed.",
-      "refs": [
-        {
-          "id": "T001246",
-          "label": "Failure diagnosis table by DTC",
-          "resolved": true
-        },
-        {
-          "id": "T002183",
-          "label": "Diagnostic chart of hydraulic system failures by symptom",
-          "resolved": true
-        }
-      ]
+      "text": "1. Turn the ignition to the ON mode and confirm that the D indicator light (A) is blinking. 2. After all failure diagnostics have been completed and the necessary repair work has been performed, the end of failure diagnostics is processed."
     },
     {
       "type": "list",
@@ -137,6 +135,11 @@
     },
     {
       "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "step",
       "number": "",
       "text": "2. Connect HDS to the data link coupler (A) on the left side of the driver's seat. For handling HDS, refer to the HDS instruction manual. 3. Turn ignition to ON mode. 4. Verify that HDS communicates with the PGM-FI ECU. If it does not communicate, Inspect the data link circuitry. 5. Clear DTC in HDS.",
       "refs": [
@@ -172,6 +175,11 @@
     },
     {
       "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "step",
       "number": "",
       "text": "2. Connect HDS to the data link coupler (A) on the left side of the driver's seat. For handling HDS, refer to the HDS instruction manual."
     },
@@ -180,8 +188,74 @@
       "asset": "1245_5.0_jpn_11579985_5.0_disp.png"
     },
     {
+      "type": "step",
+      "number": "3",
+      "text": "Turn ignition to ON mode."
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Verify that HDS communicates with the PGM-FI ECU. If it does not communicate, Inspect the data link circuitry.",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "Inspect the data link circuitry.",
+          "resolved": false
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Select AT Control Unit Reset from the HDS AT Test Mode menu."
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "Learning to idle. ​",
+      "refs": [
+        {
+          "id": "R000471",
+          "label": "Learning to idle.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "7",
+      "text": "Perform initial learning of the tilt sensor. ​",
+      "refs": [
+        {
+          "id": "R000540",
+          "label": "Perform initial learning of the tilt sensor.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "8",
+      "text": "Turn ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "step",
+      "number": "9",
+      "text": "Turn ignition to ON mode and wait for at least 30 seconds."
+    },
+    {
+      "type": "step",
+      "number": "10",
+      "text": "Turn the ignition to the OFF (LOCK) mode and disconnect the HDS from the data link coupler."
+    },
+    {
       "type": "paragraph",
       "text": "The PGM-FI ECU monitors the PGM-FI control system and rewrites system data for up to 60 minutes even after the ignition is turned to the OFF (LOCK) mode. disconnecting the PGM-FI ECU coupler while the PGM-FI ECU is monitoring the control system While the PGM-FI ECU is monitoring the control system, disconnecting the PGM-FI ECU coupler may damage the PGM-FI ECU. Therefore, the control system monitoring function of the PGM-FI ECU can be deactivated by executing the SCS short in SCS mode with HDS after the ignition is turned to the ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode."
     },
     {
       "type": "step",
@@ -191,6 +265,28 @@
     {
       "type": "figure",
       "asset": "1245_5.0_jpn_11579986_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Verify that HDS communicates with the PGM-FI ECU. If it does not communicate, Inspect the data link circuitry.",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "Inspect the data link circuitry.",
+          "resolved": false
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Execute SCS short in SCS mode with HDS."
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Also check the connection status of the PGM-FI ECU coupler and the connection status of the coupler at the presumed fault location. Even in the case of a poor coupler connection, the D indicator light may blink."
     },
     {
       "type": "step",

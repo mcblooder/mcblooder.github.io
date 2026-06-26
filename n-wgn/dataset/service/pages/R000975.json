@@ -87,7 +87,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Set the wall or screen relative to the vehicle. Measure the height (A) of the center of the front fog light bulb. Turn on the front fog lights and check the optical axis. Check the height of the cut-off line according to the distance to the wall or screen. If adjustment is necessary, adjust the optical axis at the adjust point (B). Adjust to illuminate the lower side from the indicated height."
+      "text": "Set the wall or screen relative to the vehicle. Turn on the front fog lights and check the optical axis. Check the height of the cut-off line according to the distance to the wall or screen. If adjustment is necessary, adjust the optical axis at the adjust point (B). Adjust to illuminate the lower side from the indicated height."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Measure the height (A) of the center of the front fog light bulb."
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000975_jpn/web/html/R000975_jpn_Content.html",

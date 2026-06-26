@@ -176,24 +176,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Special steering wheel bolts shall be used."
-        },
-        {
-          "text": "Special steering wheel bolts shall be used."
-        },
-        {
-          "text": "The steering rack and steering wheel must be in the same linear position."
-        },
-        {
-          "text": "The steering rack and steering wheel must be in the same linear position."
-        }
-      ]
-    },
-    {
       "type": "attention",
       "items": [
         "Cable reel The driver's airbag harness shall be routed under the sub harness."

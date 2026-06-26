@@ -28,6 +28,11 @@
       "id": "T002567",
       "label": "data link circuit",
       "resolved": false
+    },
+    {
+      "id": "T001323",
+      "label": "Failure diagnosis table by DTC",
+      "resolved": true
     }
   ],
   "blocks": [
@@ -35,6 +40,11 @@
       "type": "heading",
       "level": 1,
       "text": "How to proceed with diagnosis of brake negative pressure monitoring system failure"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "If this system detects a malfunction, the idling stop system warning light (orange) illuminates."
     },
     {
       "type": "attention",
@@ -100,6 +110,11 @@
     },
     {
       "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "step",
       "number": "",
       "text": "2. Connect HDS to the data link coupler (A) on the left side of the driver's seat. 3. Turn ignition to ON mode. 4. Verify that HDS communicates with the vehicle and the PGM-FI ECU. If it does not communicate data link circuit Inspect the 5. Turn ignition OFF (LOCK) mode. 6. Execute SCS short in SCS mode with HDS.",
       "refs": [
@@ -135,6 +150,18 @@
         },
         {
           "text": "Even after the ignition is turned to the ignition OFF (LOCK) mode, the PGM-FI ECU is still powered on (for up to 60 minutes) to monitor the vehicle status for a certain period of time. If the PGM-FI ECU coupler is disconnected before the PGM-FI ECU is completely turned off, the PGM-FI ECU may be damaged. This mode can be removed by disconnecting the 12V battery (-) terminal or shorting the SCS line with HDS after the ignition is turned off (LOCK) mode."
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "8",
+      "text": "When using the PGM-FI ECU coupler for inspection, select a test probe that fits the inspection hole of the coupler. Failure diagnosis by DTC is, Failure diagnosis table by DTC for reference.",
+      "refs": [
+        {
+          "id": "T001323",
+          "label": "Failure diagnosis table by DTC",
+          "resolved": true
         }
       ]
     },

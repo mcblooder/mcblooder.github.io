@@ -101,36 +101,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Before removing the piston/conrod assy. remove the carbon from the top of the cylinder and do not scratch the piston."
-        },
-        {
-          "text": "Before removing the piston/conrod assy. remove the carbon from the top of the cylinder and do not scratch the piston."
-        },
-        {
-          "text": "Do not damage the cylinder with the connecting rod."
-        },
-        {
-          "text": "Do not damage the cylinder with the connecting rod."
-        },
-        {
-          "text": "When the piston/con-rod assembly is removed, mark the cylinder number on the piston head or connecting rod (but do not damage it). When installing, install in the same position as the cylinder number."
-        },
-        {
-          "text": "When the piston/con-rod assembly is removed, mark the cylinder number on the piston head or connecting rod (but do not damage it). When installing, install in the same position as the cylinder number."
-        },
-        {
-          "text": "Do not scratch or dent the gasket mating surface of the cylinder block."
-        },
-        {
-          "text": "Do not scratch or dent the gasket mating surface of the cylinder block."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "4. Piston ring removal"
@@ -149,24 +119,6 @@
       "items": [
         "The removed rings should be organized by piston.",
         "Do not scratch the piston."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The removed rings should be organized by piston."
-        },
-        {
-          "text": "The removed rings should be organized by piston."
-        },
-        {
-          "text": "Do not scratch the piston."
-        },
-        {
-          "text": "Do not scratch the piston."
-        }
       ]
     },
     {
@@ -200,24 +152,6 @@
         "0.20－0.50mm",
         "Limit value: 1",
         "0.6mm"
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "If the limit is exceeded, install a new piston ring and measure again. Next, inspect the inside diameter of the cylinder block."
-        },
-        {
-          "text": "If the limit is exceeded, install a new piston ring and measure again. Next, inspect the inside diameter of the cylinder block."
-        },
-        {
-          "text": "When inserting the piston ring into the cylinder block, push in with the piston head so that the piston ring is horizontal."
-        },
-        {
-          "text": "When inserting the piston ring into the cylinder block, push in with the piston head so that the piston ring is horizontal."
-        }
       ]
     },
     {
@@ -261,7 +195,54 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Inspect connecting rods for cracks and damage. Each connecting rod is marked with a number indicating the inside diameter; any combination of 1, 2, 3, or 4 may be used. Inner diameter of connecting rod: 39mm fit-mark tolerance 1 0.000－+0.006mm 2 +0.006－+0.012mm 3 +0.012－+0.018mm 4 +0.018－+0.024mm"
+      "text": "Inspect connecting rods for cracks and damage. Each connecting rod is marked with a number indicating the inside diameter; any combination of 1, 2, 3, or 4 may be used."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "fit-mark",
+            "header": true
+          },
+          {
+            "text": "tolerance",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "0.000－+0.006mm"
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "+0.006－+0.012mm"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "+0.012－+0.018mm"
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "+0.018－+0.024mm"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -275,7 +256,20 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Measure the outside diameter of the new piston pin. Piston Pin O.D. Std. 16.996－17.000mm"
+      "text": "Measure the outside diameter of the new piston pin."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "16.996－17.000mm"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -293,12 +287,25 @@
     {
       "type": "step",
       "number": "3",
-      "text": "Insert cylinder gauge into piston and check clearance between piston pin and piston. Piston pin to piston clearance Std. 0.010－0.017mm"
+      "text": "Insert cylinder gauge into piston and check clearance between piston pin and piston."
     },
     {
       "type": "attention",
       "items": [
         "If the value is other than the standard value, the piston should be replaced."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.010－0.017mm"
+          }
+        ]
       ]
     },
     {
@@ -308,12 +315,25 @@
     {
       "type": "step",
       "number": "4",
-      "text": "Insert cylinder gauge into connecting rod and check clearance between connecting rod and piston pin. Clearance between connecting rod and piston pin Std. -0.036－-0.019mm"
+      "text": "Insert cylinder gauge into connecting rod and check clearance between connecting rod and piston pin."
     },
     {
       "type": "attention",
       "items": [
         "If the value is other than the standard value, the connecting rod shall be replaced."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "-0.036－-0.019mm"
+          }
+        ]
       ]
     },
     {
@@ -347,24 +367,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "When installing the piston pin, be sure to use a dedicated tool and a hydraulic press."
-        },
-        {
-          "text": "When installing the piston pin, be sure to use a dedicated tool and a hydraulic press."
-        },
-        {
-          "text": "When installing the piston pin, the outer circumference should be coated with engine oil or molybdenum disulfide."
-        },
-        {
-          "text": "When installing the piston pin, the outer circumference should be coated with engine oil or molybdenum disulfide."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "2. Piston Ring Installation"
@@ -389,36 +391,6 @@
         "The top ring has a 1R mark and the second ring has a 2R mark.",
         "Piston rings must be installed with the mark facing up.",
         "Do not scratch the piston."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Clean the ring groove of the piston before installing the piston ring."
-        },
-        {
-          "text": "Clean the ring groove of the piston before installing the piston ring."
-        },
-        {
-          "text": "The top ring has a 1R mark and the second ring has a 2R mark."
-        },
-        {
-          "text": "The top ring has a 1R mark and the second ring has a 2R mark."
-        },
-        {
-          "text": "Piston rings must be installed with the mark facing up."
-        },
-        {
-          "text": "Piston rings must be installed with the mark facing up."
-        },
-        {
-          "text": "Do not scratch the piston."
-        },
-        {
-          "text": "Do not scratch the piston."
-        }
       ]
     },
     {
@@ -448,7 +420,49 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Measure the clearance between the piston ring and ring groove. Top Rings Std. 0.035－0.060mm Limit value: 1 0.135mm Second Ring Std. 0.030－0.055mm Limit value: 1 0.130mm"
+      "text": "Measure the clearance between the piston ring and ring groove."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.035－0.060mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.135mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.030－0.055mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.130mm"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -466,7 +480,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Apply engine oil or molybdenum disulfide to main bearing and connecting rod bearing surfaces. Apply engine oil to the sides of the piston and the inside surface of the cylinder wall. Piston ''' With the ''' mark (A) facing the cam chain, gently push the cylinder block with a hammer handle or the like."
+      "text": "Apply engine oil or molybdenum disulfide to main bearing and connecting rod bearing surfaces. Apply engine oil to the sides of the piston and the inside surface of the cylinder wall."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Piston ''' With the ''' mark (A) facing the cam chain, gently push the cylinder block with a hammer handle or the like."
     },
     {
       "type": "attention",

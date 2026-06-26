@@ -110,18 +110,39 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Start the engine and measure the fuel pressure at idle rpm. Reference fuel pressure Cars not equipped with a turbo charger 385－415kPa (3.93－4.23kgf/cm 2 ) Turbo Charger equipped vehicle 325－360kPa (3.31－3.67kgf/cm 2 ) After using the fuel pressure gauge attachment, disassemble and clean it, and store it in disassembled condition to prevent dust and debris from adhering to it. If the fuel pressure is not within the standard value, inspect the following items",
-      "refs": [
-        {
-          "id": "R000485",
-          "label": "Defective pressure regulator",
-          "resolved": true
-        },
-        {
-          "id": "R000479",
-          "label": "Fuel pump operation",
-          "resolved": true
-        }
+      "text": "Start the engine and measure the fuel pressure at idle rpm. After using the fuel pressure gauge attachment, disassemble and clean it, and store it in disassembled condition to prevent dust and debris from adhering to it. If the fuel pressure is not within the standard value, inspect the following items"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Cars not equipped with a turbo charger",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "385－415kPa (3.93－4.23kgf/cm 2 )"
+          }
+        ],
+        [
+          {
+            "text": "Turbo Charger equipped vehicle",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "325－360kPa (3.31－3.67kgf/cm 2 )"
+          }
+        ]
       ]
     },
     {

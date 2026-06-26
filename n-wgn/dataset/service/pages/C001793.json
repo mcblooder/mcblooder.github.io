@@ -42,100 +42,232 @@
       "type": "table",
       "rows": [
         [
-          "symbol",
-          "Hydraulic circuit name",
-          "symbol",
-          "Hydraulic circuit name"
+          {
+            "text": "symbol",
+            "header": true
+          },
+          {
+            "text": "Hydraulic circuit name",
+            "header": true
+          },
+          {
+            "text": "symbol",
+            "header": true
+          },
+          {
+            "text": "Hydraulic circuit name",
+            "header": true
+          }
         ],
         [
-          "PH",
-          "High hydraulic pressure",
-          "90",
-          "Torque Converter pressure"
+          {
+            "text": "PH"
+          },
+          {
+            "text": "High hydraulic pressure"
+          },
+          {
+            "text": "90"
+          },
+          {
+            "text": "Torque Converter pressure"
+          }
         ],
         [
-          "PH'",
-          "High hydraulic pressure",
-          "90'",
-          "Torque Converter pressure"
+          {
+            "text": "PH'"
+          },
+          {
+            "text": "High hydraulic pressure"
+          },
+          {
+            "text": "90'"
+          },
+          {
+            "text": "Torque Converter pressure"
+          }
         ],
         [
-          "DN",
-          "Driven Puli Pressure",
-          "91",
-          "Torque Converter pressure"
+          {
+            "text": "DN"
+          },
+          {
+            "text": "Driven Puli Pressure"
+          },
+          {
+            "text": "91"
+          },
+          {
+            "text": "Torque Converter pressure"
+          }
         ],
         [
-          "DR",
-          "Drive pulley pressure",
-          "92",
-          "Torque Converter pressure"
+          {
+            "text": "DR"
+          },
+          {
+            "text": "Drive pulley pressure"
+          },
+          {
+            "text": "92"
+          },
+          {
+            "text": "Torque Converter pressure"
+          }
         ],
         [
-          "CR",
-          "Clutch Reducing pressure",
-          "92'",
-          "Torque Converter pressure"
+          {
+            "text": "CR"
+          },
+          {
+            "text": "Clutch Reducing pressure"
+          },
+          {
+            "text": "92'"
+          },
+          {
+            "text": "Torque Converter pressure"
+          }
         ],
         [
-          "CR'",
-          "Clutch Reducing pressure",
-          "93",
-          "Oil Cooler Pressure"
+          {
+            "text": "CR'"
+          },
+          {
+            "text": "Clutch Reducing pressure"
+          },
+          {
+            "text": "93"
+          },
+          {
+            "text": "Oil Cooler Pressure"
+          }
         ],
         [
-          "CR''",
-          "Clutch Reducing pressure",
-          "94",
-          "Torque Converter pressure"
+          {
+            "text": "CR''"
+          },
+          {
+            "text": "Clutch Reducing pressure"
+          },
+          {
+            "text": "94"
+          },
+          {
+            "text": "Torque Converter pressure"
+          }
         ],
         [
-          "5",
-          "clutch pressure",
-          "95",
-          "Lubrication pressure"
+          {
+            "text": "5"
+          },
+          {
+            "text": "clutch pressure"
+          },
+          {
+            "text": "95"
+          },
+          {
+            "text": "Lubrication pressure"
+          }
         ],
         [
-          "FWD",
-          "Forward Clutch Pressure",
-          "96",
-          "Torque Converter pressure"
+          {
+            "text": "FWD"
+          },
+          {
+            "text": "Forward Clutch Pressure"
+          },
+          {
+            "text": "96"
+          },
+          {
+            "text": "Torque Converter pressure"
+          }
         ],
         [
-          "RVS",
-          "Reverse Clutch Pressure",
-          "96'",
-          "Torque Converter pressure"
+          {
+            "text": "RVS"
+          },
+          {
+            "text": "Reverse Clutch Pressure"
+          },
+          {
+            "text": "96'"
+          },
+          {
+            "text": "Torque Converter pressure"
+          }
         ],
         [
-          "PHC",
-          "High hydraulic control pressure",
-          "99",
-          "Suction pressure"
+          {
+            "text": "PHC"
+          },
+          {
+            "text": "High hydraulic control pressure"
+          },
+          {
+            "text": "99"
+          },
+          {
+            "text": "Suction pressure"
+          }
         ],
         [
-          "DNC",
-          "Driven Pulley Control Pressure",
-          "B/U",
-          "System Backup"
+          {
+            "text": "DNC"
+          },
+          {
+            "text": "Driven Pulley Control Pressure"
+          },
+          {
+            "text": "B/U"
+          },
+          {
+            "text": "System Backup"
+          }
         ],
         [
-          "DRC",
-          "Drive Pulley Control Pressure",
-          "X",
-          "drain"
+          {
+            "text": "DRC"
+          },
+          {
+            "text": "Drive Pulley Control Pressure"
+          },
+          {
+            "text": "X"
+          },
+          {
+            "text": "drain"
+          }
         ],
         [
-          "CPC",
-          "Clutch Pressure Control Pressure",
-          "HX",
-          "High position drain"
+          {
+            "text": "CPC"
+          },
+          {
+            "text": "Clutch Pressure Control Pressure"
+          },
+          {
+            "text": "HX"
+          },
+          {
+            "text": "High position drain"
+          }
         ],
         [
-          "LCC",
-          "Lock-up clutch control pressure",
-          "",
-          ""
+          {
+            "text": "LCC"
+          },
+          {
+            "text": "Lock-up clutch control pressure"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
         ]
       ]
     }

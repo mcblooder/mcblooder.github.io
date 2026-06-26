@@ -177,14 +177,7 @@
     {
       "type": "step",
       "number": "",
-      "text": "1. Connect HDS to the data link coupler (A) located in the driver's seat. 2. Turn ignition to ON mode. 3. Ensure that HDS communicates with the vehicle and the City Brake Active System radar/control unit. 4. Select History Data in the City Brake Active System menu and check the pause history in HDS. Auto Cancel History (Pause History) Pause history detection item Status Indicators CITY BRAKE ACTIVE SYSTEM warning light Brake warning light (orange) illuminated or not Sensor Shielding Normal or with shielding history Flashing. ○ Unit temperature Normal or with high temperature history Flashing. ○ Steering Condition Normal or with unlearned history Lights up - 5. Turn ignition OFF (LOCK) mode. 6. Remove the HDS from the data link coupler. Once auto cancel history (auto stop history) is detected, the history is not deleted until DTC clearing is performed",
-      "refs": [
-        {
-          "id": "T002567",
-          "label": "Inspect data link circuits",
-          "resolved": false
-        }
-      ]
+      "text": "1. Connect HDS to the data link coupler (A) located in the driver's seat. 2. Turn ignition to ON mode. 3. Ensure that HDS communicates with the vehicle and the City Brake Active System radar/control unit. 4. Select History Data in the City Brake Active System menu and check the pause history in HDS. 5. Turn ignition OFF (LOCK) mode. 6. Remove the HDS from the data link coupler. Once auto cancel history (auto stop history) is detected, the history is not deleted until DTC clearing is performed"
     },
     {
       "type": "figure",
@@ -204,6 +197,67 @@
             }
           ]
         }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Pause history detection item"
+          },
+          {
+            "text": "Status Indicators"
+          },
+          {
+            "text": "CITY BRAKE ACTIVE SYSTEM warning light"
+          },
+          {
+            "text": "Brake warning light (orange) illuminated or not"
+          }
+        ],
+        [
+          {
+            "text": "Sensor Shielding"
+          },
+          {
+            "text": "Normal or with shielding history"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "○"
+          }
+        ],
+        [
+          {
+            "text": "Unit temperature"
+          },
+          {
+            "text": "Normal or with high temperature history"
+          },
+          {
+            "text": "Flashing."
+          },
+          {
+            "text": "○"
+          }
+        ],
+        [
+          {
+            "text": "Steering Condition"
+          },
+          {
+            "text": "Normal or with unlearned history"
+          },
+          {
+            "text": "Lights up"
+          },
+          {
+            "text": "-"
+          }
+        ]
       ]
     }
   ],

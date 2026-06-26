@@ -356,7 +356,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Tilt both rear seatbacks forward. Remove the headrests from the front seats on both sides, shift them fully forward and fold the seatbacks backward. Disconnect the harness clips (B, C) of the interior wire harness (A) from the body at the front pillar and inside the instrument panel. Disconnect the coupler (D)."
+      "text": "Tilt both rear seatbacks forward. Remove the headrests from the front seats on both sides, shift them fully forward and fold the seatbacks backward."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Disconnect the harness clips (B, C) of the interior wire harness (A) from the body at the front pillar and inside the instrument panel. Disconnect the coupler (D)."
     },
     {
       "type": "figure",
@@ -415,30 +420,6 @@
         "Work shall be performed in such a way as to avoid scratching the roof lining.",
         "Do not force it down and do not damage it.",
         "The work should be done while being held by another person."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Work shall be performed in such a way as to avoid scratching the roof lining."
-        },
-        {
-          "text": "Work shall be performed in such a way as to avoid scratching the roof lining."
-        },
-        {
-          "text": "Do not force it down and do not damage it."
-        },
-        {
-          "text": "Do not force it down and do not damage it."
-        },
-        {
-          "text": "The work should be done while being held by another person."
-        },
-        {
-          "text": "The work should be done while being held by another person."
-        }
       ]
     },
     {

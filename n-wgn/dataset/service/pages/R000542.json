@@ -63,7 +63,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Warm up the radiator fan until it operates twice. Place the vehicle on a level surface. Turn the steering wheel to the left. Turn ignition OFF (LOCK) mode. Remove the transmission fluid level gauge (A) and wipe with a clean cloth. Return the transmission fluid level gauge to the level gauge hole."
+      "text": "Warm up the radiator fan until it operates twice. Place the vehicle on a level surface. Turn the steering wheel to the left. Remove the transmission fluid level gauge (A) and wipe with a clean cloth. Return the transmission fluid level gauge to the level gauge hole."
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Turn ignition OFF (LOCK) mode."
     },
     {
       "type": "figure",
@@ -106,24 +111,6 @@
       "items": [
         "Do not replenish HMMF beyond the upper level. If the upper level is exceeded, be sure to remove HMMF to the proper amount.",
         "Be careful to prevent dust and other debris from entering the transmission."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not replenish HMMF beyond the upper level. If the upper level is exceeded, be sure to remove HMMF to the proper amount."
-        },
-        {
-          "text": "Do not replenish HMMF beyond the upper level. If the upper level is exceeded, be sure to remove HMMF to the proper amount."
-        },
-        {
-          "text": "Be careful to prevent dust and other debris from entering the transmission."
-        },
-        {
-          "text": "Be careful to prevent dust and other debris from entering the transmission."
-        }
       ]
     },
     {

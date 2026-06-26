@@ -209,7 +209,20 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Connect starter and 12V battery as shown. Check that the drive gear flies out while rotating, and if the current is within the range of standard values, it is normal. standard value Current: 1.5V 60A or less Read the ammeter reading where the display is stable."
+      "text": "Connect starter and 12V battery as shown. Check that the drive gear flies out while rotating, and if the current is within the range of standard values, it is normal. Read the ammeter reading where the display is stable."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Current: 1.5V"
+          },
+          {
+            "text": "60A or less"
+          }
+        ]
+      ]
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000340_jpn/web/html/R000340_jpn_Content.html",

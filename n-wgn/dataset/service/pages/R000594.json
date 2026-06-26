@@ -82,7 +82,68 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Measure the side clearance between the set ring (A) and the differential case bearing (B) with a Thickness Gauge (C). Clearance standard value: 0-0.15mm If the clearance is out of the standard value, remove the set ring, measure the thickness, and select a set ring from the table to install so that the clearance is within the standard value. Set Ring 77mm No. Thickness (mm) 1 1.5 2 1.6 3 1.7 4 1.8 5 1.9 6 2.0 If the set ring is replaced, inspect the clearance again."
+      "text": "Measure the side clearance between the set ring (A) and the differential case bearing (B) with a Thickness Gauge (C). Clearance standard value: 0-0.15mm If the clearance is out of the standard value, remove the set ring, measure the thickness, and select a set ring from the table to install so that the clearance is within the standard value. If the set ring is replaced, inspect the clearance again."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "No."
+          },
+          {
+            "text": "Thickness (mm)"
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "1.5"
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "1.6"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "1.7"
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "1.8"
+          }
+        ],
+        [
+          {
+            "text": "5"
+          },
+          {
+            "text": "1.9"
+          }
+        ],
+        [
+          {
+            "text": "6"
+          },
+          {
+            "text": "2.0"
+          }
+        ]
+      ]
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000594_jpn/web/html/R000594_jpn_Content.html",

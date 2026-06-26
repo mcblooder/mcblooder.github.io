@@ -122,7 +122,7 @@
     {
       "type": "step",
       "number": "2",
-      "text": "Point the timing light at the crankshaft pulley and check that the alignment mark (A) and ignition mark (B) (white marking) (white marking) are aligned when idling and rotating. Ignition timing BTDC 0±2° at idle rpm (N or P position) If other than the standard value, if the PGM-FI ECU program is not up-to-date Update to the latest version If the program is up-to-date, Re-check with a new PGM-FI ECU. Turn ignition OFF (LOCK) mode. Remove HDS and timing lights.",
+      "text": "Point the timing light at the crankshaft pulley and check that the alignment mark (A) and ignition mark (B) (white marking) (white marking) are aligned when idling and rotating. If other than the standard value, if the PGM-FI ECU program is not up-to-date Update to the latest version If the program is up-to-date, Re-check with a new PGM-FI ECU. Turn ignition OFF (LOCK) mode. Remove HDS and timing lights.",
       "refs": [
         {
           "id": "R000447",
@@ -140,6 +140,21 @@
       "type": "attention",
       "items": [
         "Confirmation shall be made from the specified viewing direction (C)."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Ignition timing"
+          }
+        ],
+        [
+          {
+            "text": "BTDC 0±2° at idle rpm (N or P position)"
+          }
+        ]
       ]
     }
   ],

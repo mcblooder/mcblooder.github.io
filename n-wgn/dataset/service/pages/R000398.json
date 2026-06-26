@@ -48,14 +48,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the coupler (A). Check continuity between oil pressure switch terminal (B) and body ground. Connect the coupler.",
-      "refs": [
-        {
-          "id": "R000399",
-          "label": "Replace oil pressure switch.",
-          "resolved": true
-        }
-      ]
+      "text": "Disconnect the coupler (A). Check continuity between oil pressure switch terminal (B) and body ground. Connect the coupler."
     },
     {
       "type": "list",

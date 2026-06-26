@@ -27,30 +27,61 @@
       "type": "table",
       "rows": [
         [
-          "Date of Occurrence",
-          "",
-          ""
+          {
+            "text": "Date of Occurrence"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Location of Occurrence",
-          "",
-          ""
+          {
+            "text": "Location of Occurrence"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Vehicle modifications",
-          "No modifications",
-          "Modified parts are available."
+          {
+            "text": "Vehicle modifications"
+          },
+          {
+            "text": "No modifications"
+          },
+          {
+            "text": "Modified parts are available."
+          }
         ],
         [
-          "Situation at the time of occurrence (while driving, while stopped, and presence/absence of sound or vibration)"
+          {
+            "text": "Situation at the time of occurrence (while driving, while stopped, and presence/absence of sound or vibration)",
+            "colspan": 3
+          }
         ],
         [
-          "",
-          "1) The engine stalls due to a muffled sound or vibration while decelerating or coming to a stop."
+          {
+            "text": ""
+          },
+          {
+            "text": "1) The engine stalls due to a muffled sound or vibration while decelerating or coming to a stop.",
+            "colspan": 2
+          }
         ],
         [
-          "",
-          "Engine stall occurs without vibration or noise."
+          {
+            "text": ""
+          },
+          {
+            "text": "Engine stall occurs without vibration or noise.",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -58,16 +89,38 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Transient failure of the ignition coil relay (only for vehicles equipped with an ignition coil relay)"
+          {
+            "text": "Situation at the time of occurrence",
+            "header": true
+          },
+          {
+            "text": "Possible Causes",
+            "header": true
+          }
         ],
         [
-          "",
-          "PGM-FI Main Transient failure of relay 1"
+          {
+            "text": "Vehicle Modifications"
+          },
+          {
+            "text": "Modifications to the ignition system, intake ducts, intake manifold, or exhaust system may cause engine starting failure or engine stall. (May occur transiently due to modifications)"
+          }
         ],
         [
-          "",
-          "Transient failure of LAF sensor relay (only for vehicles equipped with LAF sensor relay)"
+          {
+            "text": "The engine stalls due to a muffled sound or vibration while decelerating or coming to a stop."
+          },
+          {
+            "text": "Possible failure in the following components PGM-FI Main Transient failure of relay 2 Fuel supply failure (ST fuel trim parameter) EGR operation delay (EGR parameters) (EGR equipped vehicles only) VTEC and VTC system operation delay (VTEC parameter) (VTEC or VTC equipped vehicles only) Lock-up actuation delay (Torque Converter Transfer Ratio (ETR) parameter)"
+          }
+        ],
+        [
+          {
+            "text": "No noise, vibration, etc., and engine stall occurs."
+          },
+          {
+            "text": "Possible failure in the following components Transient failure of the ignition coil relay (only for vehicles equipped with an ignition coil relay) PGM-FI Main Transient failure of relay 1 Transient failure of LAF sensor relay (only for vehicles equipped with LAF sensor relay)"
+          }
         ]
       ]
     }

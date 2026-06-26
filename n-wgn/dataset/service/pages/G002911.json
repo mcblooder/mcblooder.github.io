@@ -27,46 +27,117 @@
       "type": "table",
       "rows": [
         [
-          "nickname",
-          "trade name",
-          "Body shape classification",
-          "Driving method",
-          "model (e.g. of a vehicle)",
-          "type",
-          "frame",
-          "engine",
-          "transmission"
+          {
+            "text": "nickname"
+          },
+          {
+            "text": "trade name"
+          },
+          {
+            "text": "Body shape classification"
+          },
+          {
+            "text": "Driving method"
+          },
+          {
+            "text": "model (e.g. of a vehicle)"
+          },
+          {
+            "text": "type"
+          },
+          {
+            "text": "frame",
+            "colspan": 2
+          },
+          {
+            "text": "engine",
+            "colspan": 2
+          },
+          {
+            "text": "transmission",
+            "colspan": 2
+          }
         ],
         [
-          "model (e.g. of a vehicle)",
-          "No.",
-          "model (e.g. of a vehicle)",
-          "No.",
-          "model (e.g. of a vehicle)",
-          "No."
+          {
+            "text": "model (e.g. of a vehicle)"
+          },
+          {
+            "text": "No."
+          },
+          {
+            "text": "model (e.g. of a vehicle)"
+          },
+          {
+            "text": "No."
+          },
+          {
+            "text": "model (e.g. of a vehicle)"
+          },
+          {
+            "text": "No."
+          }
         ],
         [
-          "N-WGN",
-          "N-WGN",
-          "4-door station wagon",
-          "2WD （FF）",
-          "DBA-JH1",
-          "G",
-          "JH1",
-          "8000001",
-          "S07A",
-          "7000001",
-          "SZ3A",
-          "1000001"
+          {
+            "text": "N-WGN"
+          },
+          {
+            "text": "N-WGN"
+          },
+          {
+            "text": "4-door station wagon"
+          },
+          {
+            "text": "2WD （FF）"
+          },
+          {
+            "text": "DBA-JH1"
+          },
+          {
+            "text": "G"
+          },
+          {
+            "text": "JH1"
+          },
+          {
+            "text": "8000001"
+          },
+          {
+            "text": "S07A"
+          },
+          {
+            "text": "7000001"
+          },
+          {
+            "text": "SZ3A"
+          },
+          {
+            "text": "1000001"
+          }
         ],
         [
-          "",
-          "",
-          "",
-          "4WD",
-          "DBA-JH2",
-          "JH2",
-          "SZ4A"
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "4WD"
+          },
+          {
+            "text": "DBA-JH2"
+          },
+          {
+            "text": "JH2"
+          },
+          {
+            "text": "SZ4A"
+          }
         ]
       ]
     }

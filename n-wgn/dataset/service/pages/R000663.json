@@ -130,30 +130,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "When securing the caliper, be very careful not to damage other parts."
-        },
-        {
-          "text": "When securing the caliper, be very careful not to damage other parts."
-        },
-        {
-          "text": "Do not secure the caliper with brake hose."
-        },
-        {
-          "text": "Do not secure the caliper with brake hose."
-        },
-        {
-          "text": "Do not forcefully twist the brake hose."
-        },
-        {
-          "text": "Do not forcefully twist the brake hose."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "4. Front wheel sensor removal",
@@ -291,24 +267,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Be careful not to pull the knuckle outward too hard, as this will dislodge the roller of the driveshaft inboard joint. Remove the outboard joint from the knuckle by lightly pulling the knuckle and striking the end of the drive shaft (D) with a plastic hammer."
-        },
-        {
-          "text": "Be careful not to pull the knuckle outward too hard, as this will dislodge the roller of the driveshaft inboard joint. Remove the outboard joint from the knuckle by lightly pulling the knuckle and striking the end of the drive shaft (D) with a plastic hammer."
-        },
-        {
-          "text": "Molybdenum grease shall be applied to the contact surface (E) of the outboard joint and wheel bearing during installation."
-        },
-        {
-          "text": "Molybdenum grease shall be applied to the contact surface (E) of the outboard joint and wheel bearing during installation."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "11. Installation Precautions"
@@ -400,24 +358,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Knuckles shall be held in place with a press attachment (C) or similar."
-        },
-        {
-          "text": "Knuckles shall be held in place with a press attachment (C) or similar."
-        },
-        {
-          "text": "The attachment should be applied in a position that does not deform the splash guard (D)."
-        },
-        {
-          "text": "The attachment should be applied in a position that does not deform the splash guard (D)."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "2. Bearing inner race removal"
@@ -484,42 +424,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The inner surface of the wheel bearing press fitting on the knuckle must be cleaned before assembly."
-        },
-        {
-          "text": "The inner surface of the wheel bearing press fitting on the knuckle must be cleaned before assembly."
-        },
-        {
-          "text": "Note the direction of the wheel bearing press-fit. Press-fit the wheel bearing with the encoder (brown) mounted with the inside seal (E) side toward the knuckle."
-        },
-        {
-          "text": "Note the direction of the wheel bearing press-fit. Press-fit the wheel bearing with the encoder (brown) mounted with the inside seal (E) side toward the knuckle."
-        },
-        {
-          "text": "The encoder surface should be free of grease, dust, and dirt."
-        },
-        {
-          "text": "The encoder surface should be free of grease, dust, and dirt."
-        },
-        {
-          "text": "Keep magnetized tools and other objects away from the encoder surface."
-        },
-        {
-          "text": "Keep magnetized tools and other objects away from the encoder surface."
-        },
-        {
-          "text": "Do not damage the encoder surface during press fitting."
-        },
-        {
-          "text": "Do not damage the encoder surface during press fitting."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "6. Splash guard and circlip installation"
@@ -554,36 +458,6 @@
         "Keep magnetized tools and other objects away from the encoder surface.",
         "Do not damage the encoder surface during press fitting.",
         "After assembly, make sure that the encoder surface is free of oil, grease, dust, and dirt."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The surfaces of the hub press fitting shall be cleaned prior to assembly."
-        },
-        {
-          "text": "The surfaces of the hub press fitting shall be cleaned prior to assembly."
-        },
-        {
-          "text": "Keep magnetized tools and other objects away from the encoder surface."
-        },
-        {
-          "text": "Keep magnetized tools and other objects away from the encoder surface."
-        },
-        {
-          "text": "Do not damage the encoder surface during press fitting."
-        },
-        {
-          "text": "Do not damage the encoder surface during press fitting."
-        },
-        {
-          "text": "After assembly, make sure that the encoder surface is free of oil, grease, dust, and dirt."
-        },
-        {
-          "text": "After assembly, make sure that the encoder surface is free of oil, grease, dust, and dirt."
-        }
       ]
     }
   ],

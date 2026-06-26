@@ -53,7 +53,20 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Depress the parking brake pedal (A) with a force of 294 N (30 kgf). Inspect the number of notches when the pedal locks. Pedal travel: 1.5 5-7 Notch"
+      "text": "Depress the parking brake pedal (A) with a force of 294 N (30 kgf). Inspect the number of notches when the pedal locks."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Pedal travel: 1.5"
+          },
+          {
+            "text": "5-7 Notch"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -147,7 +160,20 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Depress the parking brake pedal (A) with a force of 294 N (30 kgf). Inspect the number of notches when the pedal locks. Pedal travel: 1.5 5-7 Notch"
+      "text": "Depress the parking brake pedal (A) with a force of 294 N (30 kgf). Inspect the number of notches when the pedal locks."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Pedal travel: 1.5"
+          },
+          {
+            "text": "5-7 Notch"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",

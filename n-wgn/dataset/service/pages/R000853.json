@@ -57,7 +57,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Open the tailgate. Remove the bolt from inside the tailgate. Close the tailgate."
+      "text": "Open the tailgate. Close the tailgate."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the bolt from inside the tailgate."
     },
     {
       "type": "figure",

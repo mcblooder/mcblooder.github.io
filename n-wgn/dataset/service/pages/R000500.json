@@ -63,14 +63,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Check that the PCV valve makes a seating sound when the hose (A) between the PCV valve and intake manifold is lightly crushed during idling.",
-      "refs": [
-        {
-          "id": "R000503",
-          "label": "Replace PCV valve",
-          "resolved": true
-        }
-      ]
+      "text": "Check that the PCV valve makes a seating sound when the hose (A) between the PCV valve and intake manifold is lightly crushed during idling."
     },
     {
       "type": "list",

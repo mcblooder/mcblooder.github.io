@@ -121,24 +121,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not allow grease to adhere to the press fitting (C) of the boot and joint housing."
-        },
-        {
-          "text": "Do not allow grease to adhere to the press fitting (C) of the boot and joint housing."
-        },
-        {
-          "text": "Do not allow dust, etc. to get inside the boot or joint."
-        },
-        {
-          "text": "Do not allow dust, etc. to get inside the boot or joint."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "6. Ball Joint Boot Installation"
@@ -159,36 +141,6 @@
         "Boots shall be pressed evenly to prevent the boots from being installed at an angle or creating gaps in the press fit (B).",
         "After mounting the boot, completely wipe off any grease adhering to the ball pin taper (C) and thread (D).",
         "After installation, the center (belly) of the boot should be lightly pressed to release air in the boot, and any dents or other deformities should be corrected before connecting the boot to the knuckle."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Place a rag or similar material on the bottom of the ball joint and press-fit by hand."
-        },
-        {
-          "text": "Place a rag or similar material on the bottom of the ball joint and press-fit by hand."
-        },
-        {
-          "text": "Boots shall be pressed evenly to prevent the boots from being installed at an angle or creating gaps in the press fit (B)."
-        },
-        {
-          "text": "Boots shall be pressed evenly to prevent the boots from being installed at an angle or creating gaps in the press fit (B)."
-        },
-        {
-          "text": "After mounting the boot, completely wipe off any grease adhering to the ball pin taper (C) and thread (D)."
-        },
-        {
-          "text": "After mounting the boot, completely wipe off any grease adhering to the ball pin taper (C) and thread (D)."
-        },
-        {
-          "text": "After installation, the center (belly) of the boot should be lightly pressed to release air in the boot, and any dents or other deformities should be corrected before connecting the boot to the knuckle."
-        },
-        {
-          "text": "After installation, the center (belly) of the boot should be lightly pressed to release air in the boot, and any dents or other deformities should be corrected before connecting the boot to the knuckle."
-        }
       ]
     },
     {

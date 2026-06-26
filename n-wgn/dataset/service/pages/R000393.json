@@ -88,7 +88,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove oil and dirt from pulley end crankshaft oil seal housing. Apply engine oil to the lip of the pulley end crankshaft oil seal with your finger. Using the remover base 47 × 49 (07HAF-SF10130), securely drive the pulley end crankshaft oil seal into the chain case."
+      "text": "Remove oil and dirt from pulley end crankshaft oil seal housing. Apply engine oil to the lip of the pulley end crankshaft oil seal with your finger."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Using the remover base 47 × 49 (07HAF-SF10130), securely drive the pulley end crankshaft oil seal into the chain case."
     },
     {
       "type": "attention",

@@ -16,7 +16,33 @@
   ],
   "assetDir": "assets/T001655",
   "assets": [],
-  "crossRefs": [],
+  "crossRefs": [
+    {
+      "id": "T001656",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T001657",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T001658",
+      "label": "Vehicles equipped with seat belt reminders",
+      "resolved": false
+    },
+    {
+      "id": "T001659",
+      "label": "Seat belt reminder",
+      "resolved": false
+    },
+    {
+      "id": "T002567",
+      "label": "Inspect data link circuits",
+      "resolved": false
+    }
+  ],
   "blocks": [
     {
       "type": "heading",
@@ -27,12 +53,95 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Vehicles equipped with seat belt reminders"
+          {
+            "text": "symptoms",
+            "header": true
+          },
+          {
+            "text": "Contents of Diagnosis",
+            "header": true
+          },
+          {
+            "text": "related item",
+            "header": true
+          }
         ],
         [
-          "",
-          "Seat belt reminder"
+          {
+            "text": "Non-illumination of SRS warning light"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T001656",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Non-extinction of SRS warning light"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T001657",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Abnormal seat belt warning display"
+          },
+          {
+            "text": "Vehicles equipped with seat belt reminders Seat belt reminder",
+            "refs": [
+              {
+                "id": "T001658",
+                "label": "Vehicles equipped with seat belt reminders",
+                "resolved": false
+              },
+              {
+                "id": "T001659",
+                "label": "Seat belt reminder",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "HDS does not communicate with SRS unit or vehicle"
+          },
+          {
+            "text": "Inspect data link circuits",
+            "refs": [
+              {
+                "id": "T002567",
+                "label": "Inspect data link circuits",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
         ]
       ]
     }

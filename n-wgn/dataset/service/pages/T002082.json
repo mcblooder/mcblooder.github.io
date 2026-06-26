@@ -21,6 +21,41 @@
       "id": "T002079",
       "label": "DTCs (Hard Error Codes) for audio units cannot be checked by HDS; refer to the Error History of the audio system self-diagnostics for information on how to check DTCs.",
       "resolved": true
+    },
+    {
+      "id": "T002524",
+      "label": "1101",
+      "resolved": false
+    },
+    {
+      "id": "T002525",
+      "label": "1102",
+      "resolved": false
+    },
+    {
+      "id": "T002907",
+      "label": "1401",
+      "resolved": false
+    },
+    {
+      "id": "T002526",
+      "label": "2608",
+      "resolved": false
+    },
+    {
+      "id": "T002527",
+      "label": "2610",
+      "resolved": false
+    },
+    {
+      "id": "T002528",
+      "label": "2703",
+      "resolved": false
+    },
+    {
+      "id": "T002529",
+      "label": "2705",
+      "resolved": false
     }
   ],
   "blocks": [
@@ -44,43 +79,141 @@
       "type": "table",
       "rows": [
         [
-          "DTC (Hardware) error (Code)",
-          "Failure diagnosis detection items"
+          {
+            "text": "DTC (Hardware) error (Code)",
+            "header": true
+          },
+          {
+            "text": "Failure diagnosis detection items",
+            "colspan": 2,
+            "header": true
+          }
         ],
         [
-          "1101",
-          "Media Bus Send Error",
-          "Audio unit internal communication error"
+          {
+            "text": "1101",
+            "refs": [
+              {
+                "id": "T002524",
+                "label": "1101",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Media Bus Send Error"
+          },
+          {
+            "text": "Audio unit internal communication error"
+          }
         ],
         [
-          "1102",
-          "USB Diag",
-          "USB memory stick detection error"
+          {
+            "text": "1102",
+            "refs": [
+              {
+                "id": "T002525",
+                "label": "1102",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "USB Diag"
+          },
+          {
+            "text": "USB memory stick detection error"
+          }
         ],
         [
-          "1401",
-          "Audio Error1",
-          "Internal AMP abnormal"
+          {
+            "text": "1401",
+            "refs": [
+              {
+                "id": "T002907",
+                "label": "1401",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Audio Error1"
+          },
+          {
+            "text": "Internal AMP abnormal"
+          }
         ],
         [
-          "2608 *",
-          "R-Camera Diag",
-          "Rear camera connection error"
+          {
+            "text": "2608 *",
+            "refs": [
+              {
+                "id": "T002526",
+                "label": "2608",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "R-Camera Diag"
+          },
+          {
+            "text": "Rear camera connection error"
+          }
         ],
         [
-          "2610 *",
-          "DRAM Diag",
-          "Audio unit DRAM error"
+          {
+            "text": "2610 *",
+            "refs": [
+              {
+                "id": "T002527",
+                "label": "2610",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "DRAM Diag"
+          },
+          {
+            "text": "Audio unit DRAM error"
+          }
         ],
         [
-          "2703 *",
-          "Aircon Diag",
-          "Air conditioner communication error"
+          {
+            "text": "2703 *",
+            "refs": [
+              {
+                "id": "T002528",
+                "label": "2703",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Aircon Diag"
+          },
+          {
+            "text": "Air conditioner communication error"
+          }
         ],
         [
-          "2705 *",
-          "HFT Diag",
-          "HFT abnormalities"
+          {
+            "text": "2705 *",
+            "refs": [
+              {
+                "id": "T002529",
+                "label": "2705",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "HFT Diag"
+          },
+          {
+            "text": "HFT abnormalities"
+          }
         ]
       ]
     },
@@ -88,7 +221,9 @@
       "type": "table",
       "rows": [
         [
-          "*: Detected when system connection diagnostics are performed."
+          {
+            "text": "*: Detected when system connection diagnostics are performed."
+          }
         ]
       ]
     }

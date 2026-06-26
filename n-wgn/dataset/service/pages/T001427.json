@@ -76,6 +76,26 @@
     },
     {
       "type": "step",
+      "number": "1",
+      "text": "Press and hold the Select/Reset knob."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Set the headlight switch to the SMALL position."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Turn ignition to ON mode."
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Operate the lighting switch OFF, SMALL, and OFF within at least 2 seconds and no more than 5 seconds."
+    },
+    {
+      "type": "step",
       "number": "",
       "text": "5. Press the select/reset knob three times within 5 seconds to enter self-diagnostic mode."
     },
@@ -173,6 +193,11 @@
     {
       "type": "paragraph",
       "text": "The combination meter sends a customization reset signal to each unit via the B-CAN communication line to reset the user-customized items to the factory defaults. Self-diagnosis continues during the Customize Reset operation."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "While the self-diagnostic mode of the combination meter is in operation, press and hold the select/reset knob for at least 10 seconds with the headlight switch (SMALL position) in the ON position."
     },
     {
       "type": "step",

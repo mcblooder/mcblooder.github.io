@@ -160,16 +160,6 @@
           "id": "R000725",
           "label": "Remove the driver door glass regulator.",
           "resolved": true
-        },
-        {
-          "id": "R000725",
-          "label": "Replace driver door glass regulator",
-          "resolved": true
-        },
-        {
-          "id": "R000741",
-          "label": "Adjust the driver door glass erection.",
-          "resolved": true
         }
       ]
     },
@@ -271,18 +261,58 @@
     {
       "type": "step",
       "number": "4",
-      "text": "Measure the voltage between each terminal of the power window master switch during motor rotation. inspection terminal Voltage value (V) （＋） （－） 15 18 Battery voltage 16 18 Approx. 0V Pulse waveform of approx. 5 V*. 17 18 *: To check the motor pulse, it is necessary to inspect the inspection terminal with an oscilloscope and check the output waveform.",
-      "refs": [
-        {
-          "id": "R001005",
-          "label": "Replace power window master switch",
-          "resolved": true
-        },
-        {
-          "id": "R000725",
-          "label": "Replace driver door glass regulator",
-          "resolved": true
-        }
+      "text": "Measure the voltage between each terminal of the power window master switch during motor rotation. *: To check the motor pulse, it is necessary to inspect the inspection terminal with an oscilloscope and check the output waveform."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "colspan": 2
+          },
+          {
+            "text": "Voltage value (V)"
+          }
+        ],
+        [
+          {
+            "text": "（＋）"
+          },
+          {
+            "text": "（－）"
+          }
+        ],
+        [
+          {
+            "text": "15"
+          },
+          {
+            "text": "18"
+          },
+          {
+            "text": "Battery voltage"
+          }
+        ],
+        [
+          {
+            "text": "16"
+          },
+          {
+            "text": "18"
+          },
+          {
+            "text": "Approx. 0V Pulse waveform of approx. 5 V*."
+          }
+        ],
+        [
+          {
+            "text": "17"
+          },
+          {
+            "text": "18"
+          }
+        ]
       ]
     },
     {

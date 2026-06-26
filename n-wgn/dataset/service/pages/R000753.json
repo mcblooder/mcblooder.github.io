@@ -290,7 +290,67 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install the clip (A). Align seal (B) with mounting position (C) and install. （C）： 0B 72mm 2LB 68mm 2RB 67mm 4LB 64mm 4RB 61mm"
+      "text": "Install the clip (A). Align seal (B) with mounting position (C) and install."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "（C）："
+          },
+          {
+            "text": "0B"
+          },
+          {
+            "text": "72mm"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "2LB"
+          },
+          {
+            "text": "68mm"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "2RB"
+          },
+          {
+            "text": "67mm"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "4LB"
+          },
+          {
+            "text": "64mm"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "4RB"
+          },
+          {
+            "text": "61mm"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",

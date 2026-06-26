@@ -60,7 +60,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the coupler (A). Inspect continuity between No. 1 and No. 2 terminals of the coupler (B) and check the following items If abnormal, the parking pin switch is defective, Replace parking pin switch. Connect the coupler.",
+      "text": "Disconnect the coupler (A). If abnormal, the parking pin switch is defective, Replace parking pin switch. Connect the coupler.",
       "refs": [
         {
           "id": "R001901",
@@ -68,6 +68,11 @@
           "resolved": true
         }
       ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Inspect continuity between No. 1 and No. 2 terminals of the coupler (B) and check the following items"
     },
     {
       "type": "list",

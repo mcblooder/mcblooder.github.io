@@ -178,24 +178,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The bearing cap bolts should not be loosened all at once, but several times diagonally from outside to inside."
-        },
-        {
-          "text": "The bearing cap bolts should not be loosened all at once, but several times diagonally from outside to inside."
-        },
-        {
-          "text": "Before disassembling, check the mounting position of each component and mount them in the same position when installing."
-        },
-        {
-          "text": "Before disassembling, check the mounting position of each component and mount them in the same position when installing."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "8. Remove connecting rod cap/con-rod bearing"
@@ -231,24 +213,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The connecting rod caps must be aligned with the bottom dead center of each cylinder before removal."
-        },
-        {
-          "text": "The connecting rod caps must be aligned with the bottom dead center of each cylinder before removal."
-        },
-        {
-          "text": "Do not damage the crank pulse plate (B)."
-        },
-        {
-          "text": "Do not damage the crank pulse plate (B)."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "1. Crankshaft Inspection"
@@ -260,7 +224,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Measure roundness at the center of the journal. circularity Std. 0.005 mm or less Limit value: 1 0.010mm"
+      "text": "Measure roundness at the center of the journal."
     },
     {
       "type": "attention",
@@ -270,21 +234,24 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Roundness shall be measured at points A1 and B1 of the outside diameter of the main journal and pin journal of the crankshaft, and the difference between A1 and B1 shall be determined."
-        },
-        {
-          "text": "Roundness shall be measured at points A1 and B1 of the outside diameter of the main journal and pin journal of the crankshaft, and the difference between A1 and B1 shall be determined."
-        },
-        {
-          "text": "If the limit value is exceeded, the crankshaft shall be replaced."
-        },
-        {
-          "text": "If the limit value is exceeded, the crankshaft shall be replaced."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.005 mm or less"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.010mm"
+          }
+        ]
       ]
     },
     {
@@ -298,12 +265,20 @@
       "type": "table",
       "rows": [
         [
-          "Std.",
-          "0.005 mm or less"
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.005 mm or less"
+          }
         ],
         [
-          "Limit value: 1",
-          "0.010mm"
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.010mm"
+          }
         ]
       ]
     },
@@ -314,7 +289,7 @@
     {
       "type": "step",
       "number": "5",
-      "text": "Using a surface plate and V-block, measure the runout of the crankshaft. Crankshaft runout Std. 0.03 mm or less Limit value: 1 0.04mm"
+      "text": "Using a surface plate and V-block, measure the runout of the crankshaft."
     },
     {
       "type": "attention",
@@ -326,33 +301,24 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The journal sections at both ends shall be supported by V-blocks."
-        },
-        {
-          "text": "The journal sections at both ends shall be supported by V-blocks."
-        },
-        {
-          "text": "Inspect the crankshaft runout with a dial gauge."
-        },
-        {
-          "text": "Inspect the crankshaft runout with a dial gauge."
-        },
-        {
-          "text": "Inspect while rotating the crankshaft."
-        },
-        {
-          "text": "Inspect while rotating the crankshaft."
-        },
-        {
-          "text": "If the limit value is exceeded, the crankshaft shall be replaced."
-        },
-        {
-          "text": "If the limit value is exceeded, the crankshaft shall be replaced."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.03 mm or less"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.04mm"
+          }
+        ]
       ]
     },
     {
@@ -401,24 +367,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The crank pulse plate shall be installed with the model mark (C) facing outward and the tab (D) on the pulse plate aligned with the groove (E) on the crankshaft."
-        },
-        {
-          "text": "The crank pulse plate shall be installed with the model mark (C) facing outward and the tab (D) on the pulse plate aligned with the groove (E) on the crankshaft."
-        },
-        {
-          "text": "Do not damage the crank pulse plate."
-        },
-        {
-          "text": "Do not damage the crank pulse plate."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "4. Thrust Washer Installation"
@@ -450,7 +398,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Measure the outside diameter of the connecting rod bolt at two locations and determine the difference in outside diameters. Conrod Bolt O.D. Difference Std. 0－0.05mm"
+      "text": "Measure the outside diameter of the connecting rod bolt at two locations and determine the difference in outside diameters."
     },
     {
       "type": "attention",
@@ -461,27 +409,16 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "A micrometer should be used for the measurement."
-        },
-        {
-          "text": "A micrometer should be used for the measurement."
-        },
-        {
-          "text": "Measurements shall be taken on all connecting rod bolts."
-        },
-        {
-          "text": "Measurements shall be taken on all connecting rod bolts."
-        },
-        {
-          "text": "If the difference in outside diameter is greater than the standard value, the connecting rod bolt should be replaced."
-        },
-        {
-          "text": "If the difference in outside diameter is greater than the standard value, the connecting rod bolt should be replaced."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0－0.05mm"
+          }
+        ]
       ]
     },
     {
@@ -520,29 +457,15 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "When installing the connecting rod cap, be sure to align the mating marks (A) so as to avoid misorientation."
-        },
-        {
-          "text": "When installing the connecting rod cap, be sure to align the mating marks (A) so as to avoid misorientation."
-        },
-        {
-          "text": "Do not drop the thrust washer when rotating the crankshaft."
-        },
-        {
-          "text": "Do not drop the thrust washer when rotating the crankshaft."
-        }
-      ]
-    },
-    {
       "type": "table",
       "rows": [
         [
-          "Torque: 0.5 to 1.0 MPa",
-          "10N·m (1.0kgf·m)"
+          {
+            "text": "Torque: 0.5 to 1.0 MPa"
+          },
+          {
+            "text": "10N·m (1.0kgf·m)"
+          }
         ]
       ]
     },

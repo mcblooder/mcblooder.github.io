@@ -34,22 +34,50 @@
       "type": "table",
       "rows": [
         [
-          "port (e.g. LAN port) No.",
-          "Wiring color",
-          "Terminal Symbols",
-          "Contents"
+          {
+            "text": "port (e.g. LAN port) No.",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Terminal Symbols",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
         ],
         [
-          "1",
-          "black",
-          "GND",
-          "EPS control unit grounding"
+          {
+            "text": "1"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "GND"
+          },
+          {
+            "text": "EPS control unit grounding"
+          }
         ],
         [
-          "2",
-          "green",
-          "＋B EPS",
-          "Motor drive power supply"
+          {
+            "text": "2"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "＋B EPS"
+          },
+          {
+            "text": "Motor drive power supply"
+          }
         ]
       ]
     },
@@ -61,28 +89,64 @@
       "type": "table",
       "rows": [
         [
-          "port (e.g. LAN port) No.",
-          "Wiring color",
-          "Terminal Symbols",
-          "Contents"
+          {
+            "text": "port (e.g. LAN port) No.",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Terminal Symbols",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
         ],
         [
-          "2",
-          "white",
-          "F-CAN_H",
-          "Transmission and reception of F-CAN communication signals"
+          {
+            "text": "2"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "F-CAN_H"
+          },
+          {
+            "text": "Transmission and reception of F-CAN communication signals"
+          }
         ],
         [
-          "7",
-          "red",
-          "F-CAN_L",
-          "Transmission and reception of F-CAN communication signals"
+          {
+            "text": "7"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "F-CAN_L"
+          },
+          {
+            "text": "Transmission and reception of F-CAN communication signals"
+          }
         ],
         [
-          "10",
-          "weak matcha",
-          "IG1 VSA/ABS",
-          "Power Switch Power Supply"
+          {
+            "text": "10"
+          },
+          {
+            "text": "weak matcha"
+          },
+          {
+            "text": "IG1 VSA/ABS"
+          },
+          {
+            "text": "Power Switch Power Supply"
+          }
         ]
       ]
     }

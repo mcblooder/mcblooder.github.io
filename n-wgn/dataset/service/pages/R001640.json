@@ -133,36 +133,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Torx bolts cannot be reused because they are coated with threadlocker. When installing, replace with new ones and tighten to the specified torque."
-        },
-        {
-          "text": "Torx bolts cannot be reused because they are coated with threadlocker. When installing, replace with new ones and tighten to the specified torque."
-        },
-        {
-          "text": "When tightening the driver's airbag, tighten the left and right Torx bolts alternately so that the clearance between the side of the horn pad and the steering wheel is uniform within the standard value."
-        },
-        {
-          "text": "When tightening the driver's airbag, tighten the left and right Torx bolts alternately so that the clearance between the side of the horn pad and the steering wheel is uniform within the standard value."
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Check the operation of the horn."
-        },
-        {
-          "text": "Check the operation of the horn."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "4. SRS warning light Check"

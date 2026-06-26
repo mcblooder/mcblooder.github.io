@@ -50,32 +50,62 @@
       "type": "table",
       "rows": [
         [
-          "SAE DTC",
-          "Failure diagnosis detection items"
+          {
+            "text": "SAE DTC",
+            "header": true
+          },
+          {
+            "text": "Failure diagnosis detection items",
+            "header": true
+          }
         ],
         [
-          "P0562",
-          "Charging device voltage low"
+          {
+            "text": "P0562"
+          },
+          {
+            "text": "Charging device voltage low"
+          }
         ],
         [
-          "P065A",
-          "ACG failure"
+          {
+            "text": "P065A"
+          },
+          {
+            "text": "ACG failure"
+          }
         ],
         [
-          "P1549",
-          "Charging device voltage high"
+          {
+            "text": "P1549"
+          },
+          {
+            "text": "Charging device voltage high"
+          }
         ],
         [
-          "P16BB",
-          "A.C. generator B terminal voltage low"
+          {
+            "text": "P16BB"
+          },
+          {
+            "text": "A.C. generator B terminal voltage low"
+          }
         ],
         [
-          "P16E2",
-          "LIN communication error (ACG)"
+          {
+            "text": "P16E2"
+          },
+          {
+            "text": "LIN communication error (ACG)"
+          }
         ],
         [
-          "P16E4",
-          "ACG high temperature"
+          {
+            "text": "P16E4"
+          },
+          {
+            "text": "ACG high temperature"
+          }
         ]
       ]
     }

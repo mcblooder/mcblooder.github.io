@@ -115,16 +115,6 @@
           "id": "R000725",
           "label": "Remove the assisted door glass regulator.",
           "resolved": true
-        },
-        {
-          "id": "R000725",
-          "label": "Replace assisted door glass regulator",
-          "resolved": true
-        },
-        {
-          "id": "R000741",
-          "label": "Assistants Adjust door glass erection.",
-          "resolved": true
         }
       ]
     },

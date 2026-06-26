@@ -72,7 +72,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Prepare the following items Remove the rear door glass run channel (A) as required. Gradually peel off the old sash tape while warming it in a dryer. Degrease the surface to which the sash tape is attached completely with white gasoline or alcohol on a rag."
+      "text": "Prepare the following items Gradually peel off the old sash tape while warming it in a dryer. Degrease the surface to which the sash tape is attached completely with white gasoline or alcohol on a rag."
     },
     {
       "type": "list",
@@ -103,6 +103,11 @@
           "text": "dryer"
         }
       ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the rear door glass run channel (A) as required."
     },
     {
       "type": "list",

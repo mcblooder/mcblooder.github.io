@@ -18,13 +18,7 @@
   "assets": [
     "676_3.0_jpn_11035809_3.0_disp.png"
   ],
-  "crossRefs": [
-    {
-      "id": "G000326",
-      "label": "The damper unit should be disposed of after venting the gas.",
-      "resolved": true
-    }
-  ],
+  "crossRefs": [],
   "blocks": [
     {
       "type": "heading",
@@ -43,14 +37,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install the nut onto the rod. Push the damper rod in by hand as shown in the figure and check if it extends naturally at a constant speed when the force is released. If the rod does not extend naturally, the damper unit should be replaced because the filled gas is leaking. Also, inspect for oil leakage, abnormal noise, deformation, etc.",
-      "refs": [
-        {
-          "id": "G000326",
-          "label": "The damper unit should be disposed of after venting the gas.",
-          "resolved": true
-        }
-      ]
+      "text": "Install the nut onto the rod."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Push the damper rod in by hand as shown in the figure and check if it extends naturally at a constant speed when the force is released. If the rod does not extend naturally, the damper unit should be replaced because the filled gas is leaking. Also, inspect for oil leakage, abnormal noise, deformation, etc."
     },
     {
       "type": "attention",

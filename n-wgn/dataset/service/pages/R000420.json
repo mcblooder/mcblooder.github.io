@@ -255,36 +255,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not have a waist gate section."
-        },
-        {
-          "text": "Do not have a waist gate section."
-        },
-        {
-          "text": "Do not shock the turbo charger."
-        },
-        {
-          "text": "Do not shock the turbo charger."
-        },
-        {
-          "text": "Do not touch the impeller of the turbo charger."
-        },
-        {
-          "text": "Do not touch the impeller of the turbo charger."
-        },
-        {
-          "text": "Seal the intake/exhaust and oil passages with duct tape to prevent dust and foreign matter from entering the removed turbocharger."
-        },
-        {
-          "text": "Seal the intake/exhaust and oil passages with duct tape to prevent dust and foreign matter from entering the removed turbocharger."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "1. Turbo Charger Installation"
@@ -296,7 +266,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Clean the mating surfaces of the packing and gasket of the turbocharger. Ensure that there are no foreign objects in the cylinder head and turbocharger in-pipe. Inject a small amount of oil through the oil hole (A) in the turbocharger. Install the turbocharger (C) using the new gasket (B)."
+      "text": "Clean the mating surfaces of the packing and gasket of the turbocharger. Ensure that there are no foreign objects in the cylinder head and turbocharger in-pipe."
     },
     {
       "type": "attention",
@@ -305,35 +275,16 @@
       ]
     },
     {
+      "type": "step",
+      "number": "3",
+      "text": "Inject a small amount of oil through the oil hole (A) in the turbocharger. Install the turbocharger (C) using the new gasket (B)."
+    },
+    {
       "type": "attention",
       "items": [
         "Do not have a waist gate section.",
         "Do not shock the turbo charger.",
         "Do not touch the impeller of the turbo charger."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not have a waist gate section."
-        },
-        {
-          "text": "Do not have a waist gate section."
-        },
-        {
-          "text": "Do not shock the turbo charger."
-        },
-        {
-          "text": "Do not shock the turbo charger."
-        },
-        {
-          "text": "Do not touch the impeller of the turbo charger."
-        },
-        {
-          "text": "Do not touch the impeller of the turbo charger."
-        }
       ]
     },
     {

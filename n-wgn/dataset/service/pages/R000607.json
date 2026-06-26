@@ -206,30 +206,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Be careful not to push the tool tip in too far, as this will damage the differential oil seal."
-        },
-        {
-          "text": "Be careful not to push the tool tip in too far, as this will damage the differential oil seal."
-        },
-        {
-          "text": "Be careful not to pull the differential oil seal out at an angle as this will damage the differential oil seal."
-        },
-        {
-          "text": "Be careful not to pull the differential oil seal out at an angle as this will damage the differential oil seal."
-        },
-        {
-          "text": "Be careful not to pull the roller out of the joint by holding the shaft part (B). If the roller is pulled out, remove the boot and reassemble the joint."
-        },
-        {
-          "text": "Be careful not to pull the roller out of the joint by holding the shaft part (B). If the roller is pulled out, remove the boot and reassemble the joint."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "9. Set Ring Removal"
@@ -283,7 +259,34 @@
     {
       "type": "step",
       "number": "1",
-      "text": "For 4WD vehicles, apply grease to the right side inboard joint spline. Right side inboard joint Spline section Specified grease Kyodo Yushi Morylex CS No.1 Application volume 0.5－1.0g"
+      "text": "For 4WD vehicles, apply grease to the right side inboard joint spline."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Right side inboard joint Spline section",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Specified grease"
+          },
+          {
+            "text": "Kyodo Yushi Morylex CS No.1"
+          }
+        ],
+        [
+          {
+            "text": "Application volume"
+          },
+          {
+            "text": "0.5－1.0g"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -306,12 +309,33 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Apply 5 g of molybdenum grease to the contact surface of the front wheel bearing and outboard joint. Specified grease Molybdenum grease Application volume 5g"
+      "text": "Apply 5 g of molybdenum grease to the contact surface of the front wheel bearing and outboard joint."
     },
     {
       "type": "attention",
       "items": [
         "Molybdenum grease must be applied to prevent abnormal noise and vibration."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Specified grease"
+          },
+          {
+            "text": "Molybdenum grease"
+          }
+        ],
+        [
+          {
+            "text": "Application volume"
+          },
+          {
+            "text": "5g"
+          }
+        ]
       ]
     },
     {

@@ -209,30 +209,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "For vehicles equipped with 12-inch brakes, brake fluid shall be applied to the outer surface of the piston and the inner surface of the cylinder in the caliper body."
-        },
-        {
-          "text": "For vehicles equipped with 12-inch brakes, brake fluid shall be applied to the outer surface of the piston and the inner surface of the cylinder in the caliper body."
-        },
-        {
-          "text": "For vehicles equipped with 13-inch brakes, metal rubber grease #20 shall be applied to the outer circumference of the piston and the inner surface of the caliper body cylinder."
-        },
-        {
-          "text": "For vehicles equipped with 13-inch brakes, metal rubber grease #20 shall be applied to the outer circumference of the piston and the inner surface of the caliper body cylinder."
-        },
-        {
-          "text": "Do not insert at an angle or push in forcibly."
-        },
-        {
-          "text": "Do not insert at an angle or push in forcibly."
-        }
-      ]
-    },
-    {
       "type": "attention",
       "items": [
         "Be careful not to damage the dust cover."
@@ -262,30 +238,6 @@
         "For vehicles equipped with 12-inch brakes, Nigroove RM made by Nippon Grease shall be applied.",
         "For vehicles equipped with 13-inch brakes, Cosmo rubber grease must be applied.",
         "Do not allow dust, etc. to adhere to the sliding parts of the pins."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "For vehicles equipped with 12-inch brakes, Nigroove RM made by Nippon Grease shall be applied."
-        },
-        {
-          "text": "For vehicles equipped with 12-inch brakes, Nigroove RM made by Nippon Grease shall be applied."
-        },
-        {
-          "text": "For vehicles equipped with 13-inch brakes, Cosmo rubber grease must be applied."
-        },
-        {
-          "text": "For vehicles equipped with 13-inch brakes, Cosmo rubber grease must be applied."
-        },
-        {
-          "text": "Do not allow dust, etc. to adhere to the sliding parts of the pins."
-        },
-        {
-          "text": "Do not allow dust, etc. to adhere to the sliding parts of the pins."
-        }
       ]
     },
     {

@@ -87,7 +87,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Vehicles equipped with side curtain airbags: If the side curtain airbags are deployed, replace them with new sun visors. Vehicles equipped with side curtain airbags: If the side curtain airbags are not deployed, perform the following inspection and replace the applicable items, if any. If the visor holder is damaged, replace it with a new holder."
+      "text": "Vehicles equipped with side curtain airbags: If the side curtain airbags are deployed, replace them with new sun visors."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Vehicles equipped with side curtain airbags: If the side curtain airbags are not deployed, perform the following inspection and replace the applicable items, if any. If the visor holder is damaged, replace it with a new holder."
     },
     {
       "type": "list",

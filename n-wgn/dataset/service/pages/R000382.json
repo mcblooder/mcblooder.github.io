@@ -25,11 +25,6 @@
       "id": "R002131",
       "label": "Camshaft removal",
       "resolved": true
-    },
-    {
-      "id": "R000402",
-      "label": "Use recommended engine oil.",
-      "resolved": true
     }
   ],
   "blocks": [
@@ -76,14 +71,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Place hydraulic tappet (A) in new engine oil. Press the check ball (B) to release air bubbles from the hydraulic tappet. Repeat this operation slowly until no air bubbles appear.",
-      "refs": [
-        {
-          "id": "R000402",
-          "label": "Use recommended engine oil.",
-          "resolved": true
-        }
-      ]
+      "text": "Place hydraulic tappet (A) in new engine oil. Press the check ball (B) to release air bubbles from the hydraulic tappet. Repeat this operation slowly until no air bubbles appear."
     },
     {
       "type": "attention",

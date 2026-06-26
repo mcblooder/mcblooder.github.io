@@ -109,7 +109,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the coupler (A). Remove the ground terminal (B). Remove the transmission fluid temperature sensor (C)."
+      "text": "Disconnect the coupler (A). Remove the transmission fluid temperature sensor (C)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the ground terminal (B)."
     },
     {
       "type": "figure",

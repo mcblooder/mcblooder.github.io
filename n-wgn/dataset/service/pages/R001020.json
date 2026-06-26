@@ -53,42 +53,6 @@
         "Washer Tube disconnected, clogged, or broken",
         "Clogged washer nozzle"
       ]
-    },
-    {
-      "type": "list",
-      "ordered": true,
-      "items": [
-        {
-          "text": "If there is a problem with the motor and it does not rotate smoothly, replace the washer motor."
-        },
-        {
-          "text": "If there is a problem with the motor and it does not rotate smoothly, replace the washer motor."
-        },
-        {
-          "text": "If the motor is not abnormal, rotates smoothly, and does not discharge washer fluid, inspect the following items."
-        },
-        {
-          "text": "If the motor is not abnormal, rotates smoothly, and does not discharge washer fluid, inspect the following items."
-        },
-        {
-          "text": "Washer Tube disconnected, clogged, or broken"
-        },
-        {
-          "text": "Washer Tube disconnected, clogged, or broken"
-        },
-        {
-          "text": "Washer Tube disconnected, clogged, or broken"
-        },
-        {
-          "text": "Clogged washer nozzle"
-        },
-        {
-          "text": "Clogged washer nozzle"
-        },
-        {
-          "text": "Clogged washer nozzle"
-        }
-      ]
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001020_jpn/web/html/R001020_jpn_Content.html",

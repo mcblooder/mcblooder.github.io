@@ -28,18 +28,28 @@
   "crossRefs": [
     {
       "id": "T002540",
-      "label": "Turn the ignition to the ON mode and check that the idling stop system warning light (orange) (A) illuminates.",
+      "label": "Failure diagnosis table by DTC",
       "resolved": true
     },
     {
       "id": "T002544",
-      "label": "Failure Diagnosis Chart by Symptom",
+      "label": "Failure Diagnosis by Symptom",
       "resolved": true
     },
     {
       "id": "T002567",
       "label": "Inspect data link circuits",
       "resolved": false
+    },
+    {
+      "id": "R002909",
+      "label": "Clear ECU learning values (ECU reset)",
+      "resolved": true
+    },
+    {
+      "id": "R000471",
+      "label": "Learning to idle.",
+      "resolved": true
     }
   ],
   "blocks": [
@@ -60,6 +70,28 @@
     {
       "type": "figure",
       "asset": "2547_5.0_jpn_11393876_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "If the PGM-FI warning light continues to illuminate, check the DTC (Diagnostic Trouble Code), Failure diagnosis table by DTC Diagnose the malfunction of the DTC indicated by the If the PGM-FI warning light is not illuminated, check the DTC, and if there is a DTC, diagnose the malfunction of the displayed DTC. if there is no DTC, check the DTC by Failure Diagnosis by Symptom (1) The company shall",
+      "refs": [
+        {
+          "id": "T002540",
+          "label": "Failure diagnosis table by DTC",
+          "resolved": true
+        },
+        {
+          "id": "T002544",
+          "label": "Failure Diagnosis by Symptom",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "After all failure diagnostics are completed, perform necessary repair work and take action after failure diagnostics are completed."
     },
     {
       "type": "step",
@@ -178,6 +210,16 @@
     },
     {
       "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Execute SCS short in SCS mode with HDS."
+    },
+    {
+      "type": "step",
       "number": "",
       "text": "3. Disconnect ECU couplers A (50P) and E (80P)."
     },
@@ -253,6 +295,40 @@
           "text": "Out of Condition: Self-diagnosis is interrupted because the vehicle is out of its DTC self-diagnostic condition."
         }
       ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Clear ECU learning values (ECU reset) (1) The company shall",
+      "refs": [
+        {
+          "id": "R002909",
+          "label": "Clear ECU learning values (ECU reset)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Learning to idle. The following is a list of the most common problems with the \"C\" in the \"C\" column.",
+      "refs": [
+        {
+          "id": "R000471",
+          "label": "Learning to idle.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Turn ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Remove the HDS from the data link coupler."
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002547_jpn/web/html/T002547_jpn_Content.html",

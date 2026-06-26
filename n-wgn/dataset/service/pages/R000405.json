@@ -90,24 +90,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "If the nozzle of the oil jet is bent or damaged, it should be replaced."
-        },
-        {
-          "text": "If the nozzle of the oil jet is bent or damaged, it should be replaced."
-        },
-        {
-          "text": "When inspecting the hole diameter, insert a 1.05 mm round bar."
-        },
-        {
-          "text": "When inspecting the hole diameter, insert a 1.05 mm round bar."
-        }
-      ]
-    },
-    {
       "type": "attention",
       "items": [
         "When inspecting, insert a 0.8 mm round rod that will not damage the check ball."

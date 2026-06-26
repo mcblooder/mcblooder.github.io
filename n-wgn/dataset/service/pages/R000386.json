@@ -140,7 +140,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Measure the axial play of the crankshaft. Crankshaft axial play Std. 0.40－0.95mm Limit value: 1 1.05mm"
+      "text": "Measure the axial play of the crankshaft."
     },
     {
       "type": "attention",
@@ -150,21 +150,24 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Set the dial gauge and read the dial gauge by moving the crankshaft in the axial direction with a flat-blade screwdriver or the like."
-        },
-        {
-          "text": "Set the dial gauge and read the dial gauge by moving the crankshaft in the axial direction with a flat-blade screwdriver or the like."
-        },
-        {
-          "text": "If the limit value is exceeded, replace the thrust washer and re-inspect. If the limit value is still exceeded during the re-inspection, replace the crankshaft."
-        },
-        {
-          "text": "If the limit value is exceeded, replace the thrust washer and re-inspect. If the limit value is still exceeded during the re-inspection, replace the crankshaft."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.40－0.95mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "1.05mm"
+          }
+        ]
       ]
     },
     {

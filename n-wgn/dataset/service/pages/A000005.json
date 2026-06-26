@@ -52,7 +52,50 @@
       "type": "table",
       "rows": [
         [
-          "D/C: Drive Cycle"
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "More than 15 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ],
+        [
+          {
+            "text": "D/C: Drive Cycle",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -74,40 +117,91 @@
       "type": "table",
       "rows": [
         [
-          "condition entry",
-          "lower limit",
-          "upper limit"
+          {
+            "text": "condition entry",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
         ],
         [
-          "Elapsed time after engine start",
-          "for 10 seconds",
-          "―"
+          {
+            "text": "Elapsed time after engine start",
+            "colspan": 2
+          },
+          {
+            "text": "for 10 seconds"
+          },
+          {
+            "text": "―"
+          }
         ],
         [
-          "Engine cooling water temperature [Water temperature sensor]*",
-          "-5℃",
-          "70℃",
-          "―"
+          {
+            "text": "Engine cooling water temperature [Water temperature sensor]*"
+          },
+          {
+            "text": "-5℃"
+          },
+          {
+            "text": "70℃"
+          },
+          {
+            "text": "―"
+          }
         ],
         [
-          "-25℃",
-          "85℃",
-          "―"
+          {
+            "text": "-25℃"
+          },
+          {
+            "text": "85℃"
+          },
+          {
+            "text": "―"
+          }
         ],
         [
-          "Engine RPM [Engine RPM]**",
-          "95℃",
-          "1,100rpm",
-          "―"
+          {
+            "text": "Engine RPM [Engine RPM]**"
+          },
+          {
+            "text": "95℃"
+          },
+          {
+            "text": "1,100rpm"
+          },
+          {
+            "text": "―"
+          }
         ],
         [
-          "106℃",
-          "1,600rpm",
-          "―"
+          {
+            "text": "106℃"
+          },
+          {
+            "text": "1,600rpm"
+          },
+          {
+            "text": "―"
+          }
         ],
         [
-          "DTC requesting the prohibition of detection of the relevant DTC",
-          "P0010､ P0107､ P0108､ P0112､ P0113､ P0117､ P0118､ P0122､ P0123､ P0222､ P0223､ P0335､ P0339､ P0340､ P0341､ P0344､ P060A､ P1009､ P1659､ P2101､ P2118､ P2135､ P2176､ P2228､ P2229"
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC",
+            "colspan": 2
+          },
+          {
+            "text": "P0010､ P0107､ P0108､ P0112､ P0113､ P0117､ P0118､ P0122､ P0123､ P0222､ P0223､ P0335､ P0339､ P0340､ P0341､ P0344､ P060A､ P1009､ P1659､ P2101､ P2118､ P2135､ P2176､ P2228､ P2229",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -124,7 +218,85 @@
       "type": "table",
       "rows": [
         [
-          "*: Engine coolant temperature at startup **: Engine coolant temperature [ ]: HDS Parameters"
+          {
+            "text": "condition entry",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Engine cooling water temperature [Water temperature sensor]*"
+          },
+          {
+            "text": "-5℃"
+          },
+          {
+            "text": "-5℃"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "-25℃"
+          },
+          {
+            "text": "45℃"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "TDC sensor signal after engine start*."
+          },
+          {
+            "text": "40℃"
+          },
+          {
+            "text": "0 times"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "-25℃"
+          },
+          {
+            "text": "17,625 times"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC",
+            "colspan": 2
+          },
+          {
+            "text": "P0010､ P0107､ P0108､ P0112､ P0113､ P0117､ P0118､ P0122､ P0123､ P0222､ P0223､ P0335､ P0339､ P0340､ P0341､ P0344､ P060A､ P1009､ P1659､ P2101､ P2118､ P2135､ P2176､ P2228､ P2229",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "*: Engine coolant temperature at startup **: Engine coolant temperature [ ]: HDS Parameters",
+            "colspan": 4
+          }
         ]
       ]
     },

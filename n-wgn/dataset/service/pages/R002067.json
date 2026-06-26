@@ -119,7 +119,109 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Measure the resistance between the audio remote switch 12P coupler No. 2 and No. 5 terminals at each position. position Resistance value I'm not pressing anything. Approx. 10kΩ SOURCE switch Approx. 3.7kΩ VOL. UP (+) switch Approx. 357Ω VOL. DOWN (-) switch Approx. 99Ω CH. UP（ ) Switch Approx. 1.7kΩ CH. DOWN（ ) Switch Approx. 775Ω Measure the resistance between the No. 3 and No. 5 terminals of the audio remote switch 12P coupler at each position. position Resistance value I'm not pressing anything. without continuity DISP switch Approx. 363Ω MENU switch Approx. 33Ω If it is out of the standard value, replace the audio remote switch."
+      "text": "Measure the resistance between the audio remote switch 12P coupler No. 2 and No. 5 terminals at each position. Measure the resistance between the No. 3 and No. 5 terminals of the audio remote switch 12P coupler at each position. If it is out of the standard value, replace the audio remote switch."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "position",
+            "header": true
+          },
+          {
+            "text": "Resistance value",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "I'm not pressing anything."
+          },
+          {
+            "text": "Approx. 10kΩ"
+          }
+        ],
+        [
+          {
+            "text": "SOURCE switch"
+          },
+          {
+            "text": "Approx. 3.7kΩ"
+          }
+        ],
+        [
+          {
+            "text": "VOL. UP (+) switch"
+          },
+          {
+            "text": "Approx. 357Ω"
+          }
+        ],
+        [
+          {
+            "text": "VOL. DOWN (-) switch"
+          },
+          {
+            "text": "Approx. 99Ω"
+          }
+        ],
+        [
+          {
+            "text": "CH. UP（ ) Switch"
+          },
+          {
+            "text": "Approx. 1.7kΩ"
+          }
+        ],
+        [
+          {
+            "text": "CH. DOWN（ ) Switch"
+          },
+          {
+            "text": "Approx. 775Ω"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "position",
+            "header": true
+          },
+          {
+            "text": "Resistance value",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "I'm not pressing anything."
+          },
+          {
+            "text": "without continuity"
+          }
+        ],
+        [
+          {
+            "text": "DISP switch"
+          },
+          {
+            "text": "Approx. 363Ω"
+          }
+        ],
+        [
+          {
+            "text": "MENU switch"
+          },
+          {
+            "text": "Approx. 33Ω"
+          }
+        ]
+      ]
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002067_jpn/web/html/R002067_jpn_Content.html",

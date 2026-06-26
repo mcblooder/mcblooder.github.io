@@ -65,67 +65,166 @@
       "type": "table",
       "rows": [
         [
-          "Select Lever",
-          "Shift position Sensor signal input"
+          {
+            "text": "Select Lever"
+          },
+          {
+            "text": "Shift position Sensor signal input",
+            "colspan": 7
+          }
         ],
         [
-          "ATP-P",
-          "ATP-R",
-          "ATP-N",
-          "ATP-D",
-          "ATP-L",
-          "ATP-FWD",
-          "ATP-RVS"
+          {
+            "text": "ATP-P"
+          },
+          {
+            "text": "ATP-R"
+          },
+          {
+            "text": "ATP-N"
+          },
+          {
+            "text": "ATP-D"
+          },
+          {
+            "text": "ATP-L"
+          },
+          {
+            "text": "ATP-FWD"
+          },
+          {
+            "text": "ATP-RVS"
+          }
         ],
         [
-          "P",
-          "○",
-          "×",
-          "×",
-          "×",
-          "×",
-          "×",
-          "×"
+          {
+            "text": "P"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          }
         ],
         [
-          "R",
-          "×",
-          "○",
-          "×",
-          "×",
-          "×",
-          "×",
-          "○"
+          {
+            "text": "R"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          }
         ],
         [
-          "N",
-          "×",
-          "×",
-          "○",
-          "×",
-          "×",
-          "×",
-          "×"
+          {
+            "text": "N"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          }
         ],
         [
-          "D",
-          "×",
-          "×",
-          "×",
-          "○",
-          "×",
-          "○",
-          "×"
+          {
+            "text": "D"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          }
         ],
         [
-          "L",
-          "×",
-          "×",
-          "×",
-          "×",
-          "○",
-          "○",
-          "×"
+          {
+            "text": "L"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          }
         ]
       ]
     },
@@ -137,7 +236,172 @@
       "type": "table",
       "rows": [
         [
-          "○: LO signal - close (0V) ×: HI signal - open (12V)"
+          {
+            "text": "Select Lever"
+          },
+          {
+            "text": "Shift position Sensor signal input",
+            "colspan": 7
+          }
+        ],
+        [
+          {
+            "text": "ATP-P"
+          },
+          {
+            "text": "ATP-R"
+          },
+          {
+            "text": "ATP-N"
+          },
+          {
+            "text": "ATP-D"
+          },
+          {
+            "text": "ATP-S"
+          },
+          {
+            "text": "ATP-FWD"
+          },
+          {
+            "text": "ATP-RVS"
+          }
+        ],
+        [
+          {
+            "text": "P"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "R"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          }
+        ],
+        [
+          {
+            "text": "N"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "D"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "S"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "○: LO signal - close (0V) ×: HI signal - open (12V)",
+            "colspan": 8
+          }
         ]
       ]
     },
@@ -154,7 +418,50 @@
       "type": "table",
       "rows": [
         [
-          "D/C: Drive Cycle"
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "By reproducible testing methods"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning lamp: off, D indicator lamp: off"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ],
+        [
+          {
+            "text": "D/C: Drive Cycle",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -167,21 +474,43 @@
       "type": "table",
       "rows": [
         [
-          "condition entry",
-          ""
+          {
+            "text": "condition entry",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "",
+            "header": true
+          }
         ],
         [
-          "select The lever position",
-          "paddle shift switch car without equipment",
-          "D"
+          {
+            "text": "select The lever position"
+          },
+          {
+            "text": "paddle shift switch car without equipment"
+          },
+          {
+            "text": "D"
+          }
         ],
         [
-          "paddle shift switch equipped (with)",
-          "D, S"
+          {
+            "text": "paddle shift switch equipped (with)"
+          },
+          {
+            "text": "D, S"
+          }
         ],
         [
-          "DTC requesting the prohibition of detection of the relevant DTC",
-          "P0705"
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC",
+            "colspan": 2
+          },
+          {
+            "text": "P0705"
+          }
         ]
       ]
     },

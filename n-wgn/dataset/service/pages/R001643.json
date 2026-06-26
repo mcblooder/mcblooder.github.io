@@ -122,14 +122,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Installation is the reverse of the removal procedure.",
-      "refs": [
-        {
-          "id": "R001639",
-          "label": "If the airbags are deployed, adjust the lap allowance of the roof lining and pillar garnish.",
-          "resolved": true
-        }
-      ]
+      "text": "Installation is the reverse of the removal procedure."
     },
     {
       "type": "attention",
@@ -141,54 +134,6 @@
         "Apply light force to the inflator and adapter pipe to make sure there is no rattle or looseness.",
         "Side curtains After the airbags are installed, make sure that they are not twisted.",
         "The roof lining must be installed after confirming the operation of the SRS warning light."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Side curtain airbag mounting bolts shall be replaced with new ones at the time of installation and tightened to the specified torque."
-        },
-        {
-          "text": "Side curtain airbag mounting bolts shall be replaced with new ones at the time of installation and tightened to the specified torque."
-        },
-        {
-          "text": "The side curtain airbag wire harnesses must be assembled in such a way that they do not become entangled."
-        },
-        {
-          "text": "The side curtain airbag wire harnesses must be assembled in such a way that they do not become entangled."
-        },
-        {
-          "text": "Side curtains If the airbag is frayed or damaged, it must be replaced. Do not repair airbags."
-        },
-        {
-          "text": "Side curtains If the airbag is frayed or damaged, it must be replaced. Do not repair airbags."
-        },
-        {
-          "text": "When installing the side curtain airbags, make sure that no bolts or other objects are caught between the side curtain airbags and the bracket, since deployment of the airbags with an object caught in them can cause serious injury to the occupants."
-        },
-        {
-          "text": "When installing the side curtain airbags, make sure that no bolts or other objects are caught between the side curtain airbags and the bracket, since deployment of the airbags with an object caught in them can cause serious injury to the occupants."
-        },
-        {
-          "text": "Apply light force to the inflator and adapter pipe to make sure there is no rattle or looseness."
-        },
-        {
-          "text": "Apply light force to the inflator and adapter pipe to make sure there is no rattle or looseness."
-        },
-        {
-          "text": "Side curtains After the airbags are installed, make sure that they are not twisted."
-        },
-        {
-          "text": "Side curtains After the airbags are installed, make sure that they are not twisted."
-        },
-        {
-          "text": "The roof lining must be installed after confirming the operation of the SRS warning light."
-        },
-        {
-          "text": "The roof lining must be installed after confirming the operation of the SRS warning light."
-        }
       ]
     },
     {

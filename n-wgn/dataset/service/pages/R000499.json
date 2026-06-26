@@ -77,12 +77,33 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Carbon monoxide concentration (CO%) and hydrocarbon concentration (HCppm) are measured using an analyzer and checked to see if they are within the standard values. CO concentration at idling: (%) 0.1% or less HC concentration at idling: (%) Less than 100ppm"
+      "text": "Carbon monoxide concentration (CO%) and hydrocarbon concentration (HCppm) are measured using an analyzer and checked to see if they are within the standard values."
     },
     {
       "type": "attention",
       "items": [
         "In the event of an idle stop, the ECON switch shall be pressed to turn the ECON system to the OFF state, and the engine shall be restarted before taking measurements."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "CO concentration at idling: (%)"
+          },
+          {
+            "text": "0.1% or less"
+          }
+        ],
+        [
+          {
+            "text": "HC concentration at idling: (%)"
+          },
+          {
+            "text": "Less than 100ppm"
+          }
+        ]
       ]
     }
   ],

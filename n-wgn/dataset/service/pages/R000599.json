@@ -200,30 +200,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "O-rings and gaskets shall be replaced with new ones."
-        },
-        {
-          "text": "O-rings and gaskets shall be replaced with new ones."
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Be very careful to prevent dust and other debris from entering the transmission."
-        },
-        {
-          "text": "Be very careful to prevent dust and other debris from entering the transmission."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "10. Transfer Fluid Refill",

@@ -52,24 +52,6 @@
         "Do not mix different brands or grades of oil, or use low-quality oil, as it will alter the quality and cause malfunctions.",
         "Always check for oil leaks if the oil level is low."
       ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not mix different brands or grades of oil, or use low-quality oil, as it will alter the quality and cause malfunctions."
-        },
-        {
-          "text": "Do not mix different brands or grades of oil, or use low-quality oil, as it will alter the quality and cause malfunctions."
-        },
-        {
-          "text": "Always check for oil leaks if the oil level is low."
-        },
-        {
-          "text": "Always check for oil leaks if the oil level is low."
-        }
-      ]
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000401_jpn/web/html/R000401_jpn_Content.html",

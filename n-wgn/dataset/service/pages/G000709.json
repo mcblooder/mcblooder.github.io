@@ -33,238 +33,554 @@
       "type": "table",
       "rows": [
         [
-          "Terminal No.",
-          "Wiring color",
-          "Terminal Symbols",
-          "Contents"
+          {
+            "text": "Terminal No.",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Terminal Symbols",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
         ],
         [
-          "1",
-          "black",
-          "GND",
-          "VSA Modulator Control Unit Control Circuit Grounding"
+          {
+            "text": "1"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "GND"
+          },
+          {
+            "text": "VSA Modulator Control Unit Control Circuit Grounding"
+          }
         ],
         [
-          "2",
-          "green",
-          "+B ABS/VSA MTR",
-          "Pump motor Relay power supply always 12V Battery voltage"
+          {
+            "text": "2"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "+B ABS/VSA MTR"
+          },
+          {
+            "text": "Pump motor Relay power supply always 12V Battery voltage"
+          }
         ],
         [
-          "3",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "3"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "4",
-          "red",
-          "+B ABS/VSA FSR",
-          "Fail-safe relay power supply"
+          {
+            "text": "4"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "+B ABS/VSA FSR"
+          },
+          {
+            "text": "Fail-safe relay power supply"
+          }
         ],
         [
-          "5 *1",
-          "red",
-          "STOP SW",
-          "Detects brake light relay drive"
+          {
+            "text": "5 *1"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "STOP SW"
+          },
+          {
+            "text": "Detects brake light relay drive"
+          }
         ],
         [
-          "6",
-          "white",
-          "F-CAN_H",
-          "F-CAN communication line"
+          {
+            "text": "6"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "F-CAN_H"
+          },
+          {
+            "text": "F-CAN communication line"
+          }
         ],
         [
-          "7",
-          "red",
-          "F-CAN_L",
-          "F-CAN communication line"
+          {
+            "text": "7"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "F-CAN_L"
+          },
+          {
+            "text": "F-CAN communication line"
+          }
         ],
         [
-          "8",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "8"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "9",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "9"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "10",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "10"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "11",
-          "weak matcha",
-          "IG1 VSA/ABS",
-          "System startup power supply"
+          {
+            "text": "11"
+          },
+          {
+            "text": "weak matcha"
+          },
+          {
+            "text": "IG1 VSA/ABS"
+          },
+          {
+            "text": "System startup power supply"
+          }
         ],
         [
-          "12",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "12"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "13",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "13"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "14",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "14"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "15",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "15"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "16",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "16"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "17",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "17"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "18",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "18"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "19",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "19"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "20",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "20"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "21",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "21"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "22",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "22"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "23",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "23"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "24",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "24"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "25",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "25"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "26",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "26"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "27",
-          "hollow",
-          "FR L ABS SNSR－",
-          "Detects front left wheel speed"
+          {
+            "text": "27"
+          },
+          {
+            "text": "hollow"
+          },
+          {
+            "text": "FR L ABS SNSR－"
+          },
+          {
+            "text": "Detects front left wheel speed"
+          }
         ],
         [
-          "28",
-          "green",
-          "FR L ABS SNSR＋",
-          "Detects front left wheel speed"
+          {
+            "text": "28"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "FR L ABS SNSR＋"
+          },
+          {
+            "text": "Detects front left wheel speed"
+          }
         ],
         [
-          "29",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "29"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "30",
-          "green",
-          "RR R ABS SNSR＋",
-          "Detects rear right wheel speed"
+          {
+            "text": "30"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "RR R ABS SNSR＋"
+          },
+          {
+            "text": "Detects rear right wheel speed"
+          }
         ],
         [
-          "31",
-          "new leaves",
-          "RR R ABS SNSR－",
-          "Detects rear right wheel speed"
+          {
+            "text": "31"
+          },
+          {
+            "text": "new leaves"
+          },
+          {
+            "text": "RR R ABS SNSR－"
+          },
+          {
+            "text": "Detects rear right wheel speed"
+          }
         ],
         [
-          "32",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "32"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "33",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "33"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "34",
-          "ash",
-          "RR L ABS SNSR－",
-          "Detects rear left wheel speed"
+          {
+            "text": "34"
+          },
+          {
+            "text": "ash"
+          },
+          {
+            "text": "RR L ABS SNSR－"
+          },
+          {
+            "text": "Detects rear left wheel speed"
+          }
         ],
         [
-          "35",
-          "white",
-          "RR L ABS SNSR＋",
-          "Detects rear left wheel speed"
+          {
+            "text": "35"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "RR L ABS SNSR＋"
+          },
+          {
+            "text": "Detects rear left wheel speed"
+          }
         ],
         [
-          "36 *1",
-          "peach",
-          "BRK LAMP",
-          "Drive brake light relay"
+          {
+            "text": "36 *1"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "BRK LAMP"
+          },
+          {
+            "text": "Drive brake light relay"
+          }
         ],
         [
-          "37",
-          "red",
-          "FR R ABS SNSR＋",
-          "Detect front right wheel speed"
+          {
+            "text": "37"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "FR R ABS SNSR＋"
+          },
+          {
+            "text": "Detect front right wheel speed"
+          }
         ],
         [
-          "38",
-          "peach",
-          "FR R ABS SNSR－",
-          "Detect front right wheel speed"
+          {
+            "text": "38"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "FR R ABS SNSR－"
+          },
+          {
+            "text": "Detect front right wheel speed"
+          }
         ]
       ]
     },

@@ -98,7 +98,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove air from the tire. Cut off the valve (A) from the base using a cutter, etc., and push the valve rubber part remaining in the wheel hole into the tire using a flat-blade screwdriver, etc. Put the tire on the workbench and stand the tire up."
+      "text": "Remove air from the tire."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Cut off the valve (A) from the base using a cutter, etc., and push the valve rubber part remaining in the wheel hole into the tire using a flat-blade screwdriver, etc. Put the tire on the workbench and stand the tire up."
     },
     {
       "type": "attention",

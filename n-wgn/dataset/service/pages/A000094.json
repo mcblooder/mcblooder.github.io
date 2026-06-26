@@ -52,7 +52,50 @@
       "type": "table",
       "rows": [
         [
-          "*: Throttle valve closed side **: Throttle valve open side D/C: Drive Cycle"
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "0.25 seconds or longer*. More than 0.5 seconds**."
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1D/C (single detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ],
+        [
+          {
+            "text": "*: Throttle valve closed side **: Throttle valve open side D/C: Drive Cycle",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -65,7 +108,53 @@
       "type": "table",
       "rows": [
         [
-          "[ ]: HDS Parameters"
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "12V battery voltage [battery voltage]"
+          },
+          {
+            "text": "6.0V"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Ignition switch/ ENGINE START STOP switch"
+          },
+          {
+            "text": "Ignition ON mode",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "P0122､ P0123､ P0222､ P0223､ P2118､ P2122､ P2123､ P2127､ P2128､ P2135､ P2138､ P2176",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "[ ]: HDS Parameters",
+            "colspan": 3
+          }
         ]
       ]
     },
@@ -78,28 +167,54 @@
       "type": "table",
       "rows": [
         [
-          "Throttle valve opening target value",
-          "Throttle valve opening target value and Actual Throttle Valve Opening Difference"
+          {
+            "text": "Throttle valve opening target value",
+            "header": true
+          },
+          {
+            "text": "Throttle valve opening target value and Actual Throttle Valve Opening Difference",
+            "header": true
+          }
         ],
         [
-          "2°",
-          "4° or more"
+          {
+            "text": "2°"
+          },
+          {
+            "text": "4° or more"
+          }
         ],
         [
-          "6°",
-          "5.4° or more"
+          {
+            "text": "6°"
+          },
+          {
+            "text": "5.4° or more"
+          }
         ],
         [
-          "10°",
-          "5.7° or more"
+          {
+            "text": "10°"
+          },
+          {
+            "text": "5.7° or more"
+          }
         ],
         [
-          "15°",
-          "6° or more"
+          {
+            "text": "15°"
+          },
+          {
+            "text": "6° or more"
+          }
         ],
         [
-          "90°",
-          "6° or more"
+          {
+            "text": "90°"
+          },
+          {
+            "text": "6° or more"
+          }
         ]
       ]
     },

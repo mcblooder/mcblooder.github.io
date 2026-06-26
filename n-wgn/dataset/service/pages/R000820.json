@@ -35,7 +35,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Loosen the bolts and tighten them to the extent that each component does not move. Adjust the position and closure of the hood (A). Vertical adjustment of the bonnet lock (D) shall be made to adjust the hood closure. Also, the bonnet lock shall be adjusted in the left and right directions so that it locks at the center without interference with the striker (E). Tighten each bolt. Ensure that the hood locks securely and opens smoothly. Apply touch-up paint to each hinge mounting bolt and to the hinge mounting points on the body to prevent rusting."
+      "text": "Loosen the bolts and tighten them to the extent that each component does not move."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Adjust the position and closure of the hood (A). Vertical adjustment of the bonnet lock (D) shall be made to adjust the hood closure. Also, the bonnet lock shall be adjusted in the left and right directions so that it locks at the center without interference with the striker (E). Tighten each bolt. Ensure that the hood locks securely and opens smoothly. Apply touch-up paint to each hinge mounting bolt and to the hinge mounting points on the body to prevent rusting."
     },
     {
       "type": "list",

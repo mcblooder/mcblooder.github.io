@@ -384,7 +384,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install parking brake cable A. Attach parking brake cable A to parking brake pedal (B). Install the joint pin (C) and joint pin clip (D). Install the joint pin clips as shown in Figure (E). Attach cable clip (F)."
+      "text": "Install parking brake cable A."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Attach parking brake cable A to parking brake pedal (B). Install the joint pin (C) and joint pin clip (D). Install the joint pin clips as shown in Figure (E). Attach cable clip (F)."
     },
     {
       "type": "figure",

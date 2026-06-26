@@ -184,7 +184,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the wheel. ​ Remove the wheel center cap. Aluminum wheel specification vehicles: Install the special tool from the backside of the wheel. Mount the wheels. ​ Attach the camber caster gauge (A) to the hub end face via the special tool. Place the front wheels in a straight line position. Correct the position of the gauge so that the bubble in the gauge attachment level is centered and the camber level scale is read. Camber Angle: 1.5 Reference value Front wheel: 1.5 mm (0.005 in.) 0°00’±1° Limit of left-right difference 0°30’ Rear wheel: 1.5 mm (0.005 in.) -1°30’±1°",
+      "text": "Remove the wheel. ​ Remove the wheel center cap. Aluminum wheel specification vehicles: Install the special tool from the backside of the wheel. Mount the wheels. ​",
       "refs": [
         {
           "id": "R000659",
@@ -196,6 +196,70 @@
           "label": "Mount the wheels.",
           "resolved": true
         }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Attach the camber caster gauge (A) to the hub end face via the special tool. Place the front wheels in a straight line position. Correct the position of the gauge so that the bubble in the gauge attachment level is centered and the camber level scale is read."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Camber Angle: 1.5",
+            "colspan": 5
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Reference value",
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": "Front wheel: 1.5 mm (0.005 in.)",
+            "colspan": 2
+          },
+          {
+            "text": "0°00’±1°"
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": "Limit of left-right difference",
+            "colspan": 2
+          },
+          {
+            "text": "0°30’"
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": "Rear wheel: 1.5 mm (0.005 in.)",
+            "colspan": 2
+          },
+          {
+            "text": "-1°30’±1°"
+          }
+        ]
       ]
     },
     {
@@ -232,7 +296,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the front wheel. Remove the wheel center cap. Install the special tool from the back side of the wheel. (Only for vehicles with aluminum wheels) Install the front wheel. Place the front wheel gently on the center of the turntable of the turning radius gage (A) and simultaneously place the rear wheel on a platform at the same height as the radius gage. Remove the locking pin from the gauge and place the front wheel in a straight line position. Attach the camber caster gauge (B) to the hub end face via the special tool. Camber caster The wheel on which the gauge is mounted is rotated outward 20° and the bubble on the gauge's mounting level is centered. With the camber caster gauge in step 8, turn the adjuster to set the bubble on the level to 0. Return the front wheel to the straight ahead position, and at a 20° tilt to the opposite side of step 8, the bubble on the gauge's mounting level should be in the center position. In this position, read the caster level scale. Caster Angle: 1.5° to 1.0°. Reference value 2WD vehicles: 2WD vehicles 4°05’±30’ 4WD Vehicles: 4WD Vehicles 3°50’±30’ Limit of left-right difference 0°30’ The caster angle cannot be adjusted. If it is out of the standard value, inspect the front suspension components or the body for deformation.",
+      "text": "Remove the front wheel. Remove the wheel center cap. Install the special tool from the back side of the wheel. (Only for vehicles with aluminum wheels) Install the front wheel.",
       "refs": [
         {
           "id": "R000659",
@@ -247,9 +311,70 @@
       ]
     },
     {
+      "type": "step",
+      "number": "5",
+      "text": "Place the front wheel gently on the center of the turntable of the turning radius gage (A) and simultaneously place the rear wheel on a platform at the same height as the radius gage. Remove the locking pin from the gauge and place the front wheel in a straight line position. Attach the camber caster gauge (B) to the hub end face via the special tool. Camber caster The wheel on which the gauge is mounted is rotated outward 20° and the bubble on the gauge's mounting level is centered. With the camber caster gauge in step 8, turn the adjuster to set the bubble on the level to 0. Return the front wheel to the straight ahead position, and at a 20° tilt to the opposite side of step 8, the bubble on the gauge's mounting level should be in the center position. In this position, read the caster level scale. The caster angle cannot be adjusted. If it is out of the standard value, inspect the front suspension components or the body for deformation."
+    },
+    {
       "type": "attention",
       "items": [
         "Do not allow the vehicle to drive itself onto the gauge. The driving force may cause the gauge to fly off, resulting in unexpected damage or injury."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Caster Angle: 1.5° to 1.0°.",
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Reference value",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": "2WD vehicles: 2WD vehicles"
+          },
+          {
+            "text": "4°05’±30’"
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": "4WD Vehicles: 4WD Vehicles"
+          },
+          {
+            "text": "3°50’±30’"
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": "Limit of left-right difference"
+          },
+          {
+            "text": "0°30’"
+          }
+        ]
       ]
     },
     {
@@ -264,7 +389,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Move the vehicle back and forth about 1 m to remove any deflection of the bushings. Apply duct tape (A) to the left and right tire treads at the height of the axle center. Align the toe gauge (B) with the height of the axle center and place it in the back of the wheel. Mark the tire tread center position (C) at the axle center height on the gummed tape attached to the tire."
+      "text": "Move the vehicle back and forth about 1 m to remove any deflection of the bushings."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Apply duct tape (A) to the left and right tire treads at the height of the axle center. Align the toe gauge (B) with the height of the axle center and place it in the back of the wheel. Mark the tire tread center position (C) at the axle center height on the gummed tape attached to the tire."
     },
     {
       "type": "figure",
@@ -273,7 +403,83 @@
     {
       "type": "step",
       "number": "5",
-      "text": "Measure the distance (a) between the left and right marks (between the left and right tread centers) with a toe gauge. Drive the vehicle slowly straight ahead, and the mark you made in step 4 180° Allow the position to be rotated. Measure the distance (b) between the left and right tread centers on the front side of the wheel. The value of the toe is obtained by calculating the distance (a)-(b). Rear toe cannot be adjusted. If it is out of the standard value, inspect the rear suspension components or body for deformation. Toe-in:. Reference value Front: (1) 0±3mm Rear: Rear 2WD vehicles: 2WD vehicles 3±3mm 4WD Vehicles: 4WD Vehicles 2 ＋4 －2 mm"
+      "text": "Measure the distance (a) between the left and right marks (between the left and right tread centers) with a toe gauge. Drive the vehicle slowly straight ahead, and the mark you made in step 4 180° Allow the position to be rotated. Measure the distance (b) between the left and right tread centers on the front side of the wheel. The value of the toe is obtained by calculating the distance (a)-(b). Rear toe cannot be adjusted. If it is out of the standard value, inspect the rear suspension components or body for deformation."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Toe-in:.",
+            "colspan": 5
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Reference value",
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": "Front: (1)",
+            "colspan": 2
+          },
+          {
+            "text": "0±3mm"
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": "Rear: Rear",
+            "colspan": 2
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "2WD vehicles: 2WD vehicles"
+          },
+          {
+            "text": "3±3mm"
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "4WD Vehicles: 4WD Vehicles"
+          },
+          {
+            "text": "2 ＋4 －2 mm"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -287,12 +493,164 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Place the front wheel gently on the center of the turntable of the turning radius gage (A) and simultaneously place the rear wheel on a platform at the same height as the radius gage. Remove the locking pin from the gauge and turn the handlebars fully to the left and right to check the angle of the front wheel. Front wheel angle: 0.5 Reference value Inside: 1.5 mm (0.005 in.) 2WD vehicles: 2WD vehicles Vehicles equipped with 14-inch wheels: (1) 43°00’±2° Cars equipped with 15-inch wheels:: 15-inch wheels 41°00’±2° 4WD Vehicles: 4WD Vehicles 41°00’±2° Outside (reference value) 2WD vehicles: 2WD vehicles Vehicles equipped with 14-inch wheels: (1) 37°00’±1° Cars equipped with 15-inch wheels:: 15-inch wheels 36°00’±1° 4WD Vehicles: 4WD Vehicles 35°00’±1° If there is a left-right difference in the inside cutting angle or if it deviates from the standard value, inspect and adjust the toe."
+      "text": "Place the front wheel gently on the center of the turntable of the turning radius gage (A) and simultaneously place the rear wheel on a platform at the same height as the radius gage. Remove the locking pin from the gauge and turn the handlebars fully to the left and right to check the angle of the front wheel. If there is a left-right difference in the inside cutting angle or if it deviates from the standard value, inspect and adjust the toe."
     },
     {
       "type": "attention",
       "items": [
         "Do not allow the vehicle to drive itself onto the gauge. The driving force may cause the gauge to fly off, resulting in unexpected damage or injury."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Front wheel angle: 0.5",
+            "colspan": 6
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Reference value",
+            "colspan": 5
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": "Inside: 1.5 mm (0.005 in.)",
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "2WD vehicles: 2WD vehicles",
+            "colspan": 2
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Vehicles equipped with 14-inch wheels: (1)"
+          },
+          {
+            "text": "43°00’±2°"
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Cars equipped with 15-inch wheels:: 15-inch wheels"
+          },
+          {
+            "text": "41°00’±2°"
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "4WD Vehicles: 4WD Vehicles",
+            "colspan": 2
+          },
+          {
+            "text": "41°00’±2°"
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": "Outside (reference value)",
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "2WD vehicles: 2WD vehicles",
+            "colspan": 2
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Vehicles equipped with 14-inch wheels: (1)"
+          },
+          {
+            "text": "37°00’±1°"
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Cars equipped with 15-inch wheels:: 15-inch wheels"
+          },
+          {
+            "text": "36°00’±1°"
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "4WD Vehicles: 4WD Vehicles",
+            "colspan": 2
+          },
+          {
+            "text": "35°00’±1°"
+          }
+        ]
       ]
     },
     {
@@ -307,7 +665,29 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Inspect side slips using the side slip tester (A). Read the amount of side slip of the front wheels when the vehicle moves one meter forward. Side Slip: 1.5mm Reference value 0±5mm If the measurement shows that side slip is outside the standard values, check the wheel alignment of the front suspension."
+      "text": "Inspect side slips using the side slip tester (A). Read the amount of side slip of the front wheels when the vehicle moves one meter forward. If the measurement shows that side slip is outside the standard values, check the wheel alignment of the front suspension."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Side Slip: 1.5mm",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Reference value"
+          },
+          {
+            "text": "0±5mm"
+          }
+        ]
+      ]
     },
     {
       "type": "attention",
@@ -327,13 +707,20 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the front wheel. Loosen the mounting nut of the damper and knuckle, and adjust the camber angle by moving the lower part of the damper within the play range of the mounting bolt. After tightening the mounting nut to the specified torque, tighten the mounting bolt side to the specified torque and inspect for looseness. Front wheel mounted Ground the vehicle. Shake the vehicle up and down to stabilize the ride height, then check the camber angle again.",
+      "text": "Remove the front wheel.",
       "refs": [
         {
           "id": "R000659",
           "label": "Remove the front wheel.",
           "resolved": true
-        },
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Loosen the mounting nut of the damper and knuckle, and adjust the camber angle by moving the lower part of the damper within the play range of the mounting bolt. After tightening the mounting nut to the specified torque, tighten the mounting bolt side to the specified torque and inspect for looseness. Front wheel mounted Ground the vehicle. Shake the vehicle up and down to stabilize the ride height, then check the camber angle again.",
+      "refs": [
         {
           "id": "R000659",
           "label": "Front wheel mounted",

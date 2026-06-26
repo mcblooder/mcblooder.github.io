@@ -42,7 +42,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Start the engine. Warm-up operation until the radiator fan operates twice. Stop the engine. Depress the pedal with normal brake force. The first pedal stroke should be large (A), and as the pedal is depressed two or three times, the pedal stroke should decrease (B). In case of airtightness failure, inspect the airtightness of the following parts Start the engine again. Pedal with normal tread force. The engine is stopped in that state."
+      "text": "Start the engine. Warm-up operation until the radiator fan operates twice. Stop the engine. Depress the pedal with normal brake force."
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "The first pedal stroke should be large (A), and as the pedal is depressed two or three times, the pedal stroke should decrease (B). In case of airtightness failure, inspect the airtightness of the following parts Start the engine again. Pedal with normal tread force. The engine is stopped in that state."
     },
     {
       "type": "list",
@@ -102,8 +107,12 @@
       "type": "table",
       "rows": [
         [
-          "Reference Negative Pressure Reduction Degree",
-          "2.7 kPa (20 mmHg) or less (for 20 seconds)"
+          {
+            "text": "Reference Negative Pressure Reduction Degree"
+          },
+          {
+            "text": "2.7 kPa (20 mmHg) or less (for 20 seconds)"
+          }
         ]
       ]
     },
@@ -164,7 +173,64 @@
     {
       "type": "step",
       "number": "5",
-      "text": "The brake pedal is pressed with a force gauge (A) at 98 N (10 kgf) and 294 N (30 kgf), and if the standard output hydraulic pressure is generated at each negative pressure, it is good. negative pressure kPa（mmHg） tread (of a wheel) N（kgf） Output hydraulic pressure kPa（kgf/cm 2 ) or more 0（0） 98（10.0） 173kPa（1.76kgf/cm 2 ） 294（30.0） 2728kPa（27.82kgf/cm 2 ） 66.7（500） 98（10.0） 4764kPa（48.58kgf/cm 2 ） 294（30.0） 6297kPa（64.21kgf/cm 2 ） If the standard output fluid pressure cannot be obtained, check the master power airtightness, and if normal, replace the master cylinder as an assembly."
+      "text": "The brake pedal is pressed with a force gauge (A) at 98 N (10 kgf) and 294 N (30 kgf), and if the standard output hydraulic pressure is generated at each negative pressure, it is good. If the standard output fluid pressure cannot be obtained, check the master power airtightness, and if normal, replace the master cylinder as an assembly."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "negative pressure kPa（mmHg）",
+            "header": true
+          },
+          {
+            "text": "tread (of a wheel) N（kgf）",
+            "header": true
+          },
+          {
+            "text": "Output hydraulic pressure kPa（kgf/cm 2 ) or more",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "0（0）"
+          },
+          {
+            "text": "98（10.0）"
+          },
+          {
+            "text": "173kPa（1.76kgf/cm 2 ）"
+          }
+        ],
+        [
+          {
+            "text": "294（30.0）"
+          },
+          {
+            "text": "2728kPa（27.82kgf/cm 2 ）"
+          }
+        ],
+        [
+          {
+            "text": "66.7（500）"
+          },
+          {
+            "text": "98（10.0）"
+          },
+          {
+            "text": "4764kPa（48.58kgf/cm 2 ）"
+          }
+        ],
+        [
+          {
+            "text": "294（30.0）"
+          },
+          {
+            "text": "6297kPa（64.21kgf/cm 2 ）"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -178,7 +244,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the vacuum hose (A). The check valve (B) is good if it vents when air is blown in from the master power side and does not vent when air is blown in from the opposite direction. If the check valve is defective, replace the vacuum hose as an assembly."
+      "text": "Disconnect the vacuum hose (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "The check valve (B) is good if it vents when air is blown in from the master power side and does not vent when air is blown in from the opposite direction. If the check valve is defective, replace the vacuum hose as an assembly."
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000693_jpn/web/html/R000693_jpn_Content.html",

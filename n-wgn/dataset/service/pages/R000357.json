@@ -169,7 +169,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the 12V battery. Remove the coolant reserve tank.",
+      "text": "Remove the 12V battery.",
       "refs": [
         {
           "id": "R002224",
@@ -177,6 +177,11 @@
           "resolved": true
         }
       ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the coolant reserve tank."
     },
     {
       "type": "figure",

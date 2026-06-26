@@ -63,7 +63,26 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the oil filter using the oil filter wrench 64 (07HAA-PJ70101). Recommended replacement time Vehicles without turbo charger: Every 20,000 km * Vehicles equipped with a turbo charger: Every 10,000 km *Every 10,000 km for severe conditions."
+      "text": "Remove the oil filter using the oil filter wrench 64 (07HAA-PJ70101)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Recommended replacement time"
+          },
+          {
+            "text": "Vehicles without turbo charger: Every 20,000 km * Vehicles equipped with a turbo charger: Every 10,000 km"
+          }
+        ],
+        [
+          {
+            "text": "*Every 10,000 km for severe conditions.",
+            "colspan": 2
+          }
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -88,37 +107,13 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Inspect the oil filter seating and thread (C) for dents and damage."
-        },
-        {
-          "text": "Inspect the oil filter seating and thread (C) for dents and damage."
-        },
-        {
-          "text": "If the packing of the old oil filter remains in the oil filter seating area, be sure to remove it."
-        },
-        {
-          "text": "If the packing of the old oil filter remains in the oil filter seating area, be sure to remove it."
-        },
-        {
-          "text": "The oil filter seating area must be cleaned because if it is not cleaned, the packing will not seat properly and may cause damage to the engine (oil leakage or other problems)."
-        },
-        {
-          "text": "The oil filter seating area must be cleaned because if it is not cleaned, the packing will not seat properly and may cause damage to the engine (oil leakage or other problems)."
-        }
-      ]
-    },
-    {
       "type": "figure",
       "asset": "403_3.0_jpn_11034353_3.0_disp.png"
     },
     {
       "type": "step",
       "number": "3",
-      "text": "After seating the packing, use an oil filter wrench to tighten it to the specified rotation angle or torque. Prescribed rotation angle: 1.5° to 2.0°. 3/4 turn Torque: 0.5 to 1.0 MPa 12N·m (1.2kgf·m)"
+      "text": "After seating the packing, use an oil filter wrench to tighten it to the specified rotation angle or torque."
     },
     {
       "type": "attention",
@@ -128,21 +123,24 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "If an oil filter wrench is not used and the specified tightening method is not followed, damage to the engine (oil leakage or other problems) may result. Therefore, always use an oil filter wrench to tighten the oil filter, and work securely with the specified torque or specified angle of rotation."
-        },
-        {
-          "text": "If an oil filter wrench is not used and the specified tightening method is not followed, damage to the engine (oil leakage or other problems) may result. Therefore, always use an oil filter wrench to tighten the oil filter, and work securely with the specified torque or specified angle of rotation."
-        },
-        {
-          "text": "Do not over-tighten beyond the specified torque or rotation angle."
-        },
-        {
-          "text": "Do not over-tighten beyond the specified torque or rotation angle."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Prescribed rotation angle: 1.5° to 2.0°."
+          },
+          {
+            "text": "3/4 turn"
+          }
+        ],
+        [
+          {
+            "text": "Torque: 0.5 to 1.0 MPa"
+          },
+          {
+            "text": "12N·m (1.2kgf·m)"
+          }
+        ]
       ]
     },
     {
@@ -180,18 +178,38 @@
       "type": "table",
       "rows": [
         [
-          "Mark when packing is seated",
-          "1 or ▼",
-          "2 or ▼▼▼",
-          "3 or ▼ ▼ ▼ ▼",
-          "4 or ▼▼▼▼"
+          {
+            "text": "Mark when packing is seated"
+          },
+          {
+            "text": "1 or ▼"
+          },
+          {
+            "text": "2 or ▼▼▼"
+          },
+          {
+            "text": "3 or ▼ ▼ ▼ ▼"
+          },
+          {
+            "text": "4 or ▼▼▼▼"
+          }
         ],
         [
-          "Mark after 3/4-turn tightening",
-          "4 or ▼▼▼▼",
-          "1 or ▼",
-          "2 or ▼▼▼",
-          "3 or ▼ ▼ ▼ ▼"
+          {
+            "text": "Mark after 3/4-turn tightening"
+          },
+          {
+            "text": "4 or ▼▼▼▼"
+          },
+          {
+            "text": "1 or ▼"
+          },
+          {
+            "text": "2 or ▼▼▼"
+          },
+          {
+            "text": "3 or ▼ ▼ ▼ ▼"
+          }
         ]
       ]
     },

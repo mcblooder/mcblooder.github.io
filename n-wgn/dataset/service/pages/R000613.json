@@ -263,7 +263,28 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Lubricate inboard joints and inboard boots with grease. Specified grease Kyodo Yushi NKG708 Fill volume: 1,000 45－65g"
+      "text": "Lubricate inboard joints and inboard boots with grease."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Specified grease"
+          },
+          {
+            "text": "Kyodo Yushi NKG708"
+          }
+        ],
+        [
+          {
+            "text": "Fill volume: 1,000"
+          },
+          {
+            "text": "45－65g"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -279,24 +300,6 @@
       "items": [
         "After the inboard joint is assembled, be careful not to point the inboard joint downward as it will fall.",
         "Care should be taken to prevent grease from adhering to the boot mounting groove."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "After the inboard joint is assembled, be careful not to point the inboard joint downward as it will fall."
-        },
-        {
-          "text": "After the inboard joint is assembled, be careful not to point the inboard joint downward as it will fall."
-        },
-        {
-          "text": "Care should be taken to prevent grease from adhering to the boot mounting groove."
-        },
-        {
-          "text": "Care should be taken to prevent grease from adhering to the boot mounting groove."
-        }
       ]
     },
     {
@@ -326,12 +329,51 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Adjust the space between the inboard and outboard joints to the specified dimensions. Length between joints Left side driveshaft: (1) Std. 581.3－586.3mm Right side driveshaft: (1) Std. 484.3－489.3mm"
+      "text": "Adjust the space between the inboard and outboard joints to the specified dimensions."
     },
     {
       "type": "attention",
       "items": [
         "The air pressure in the boot shall be atmospheric when the length between joints (A) is within the standard value to prevent deformation of the boot."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Left side driveshaft: (1)",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "581.3－586.3mm"
+          }
+        ],
+        [
+          {
+            "text": "Right side driveshaft: (1)",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "484.3－489.3mm"
+          }
+        ]
       ]
     },
     {
@@ -346,7 +388,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Wrap the drive shaft side locking clip band (A) around the inboard boot (B) and bend the lever (C). Fold the clip section (D). Assemble the inboard joint side locking clip band (E) in the same manner. Make sure the band is not loose and wipe off any grease or other contaminants on the boot or drive shaft surface."
+      "text": "Wrap the drive shaft side locking clip band (A) around the inboard boot (B) and bend the lever (C). Fold the clip section (D)."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Assemble the inboard joint side locking clip band (E) in the same manner. Make sure the band is not loose and wipe off any grease or other contaminants on the boot or drive shaft surface."
     },
     {
       "type": "heading",
@@ -374,12 +421,33 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Check the size of the new stop ring. standard value Outer diameter (A) 20.4mm Wire diameter (B) 1.6mm"
+      "text": "Check the size of the new stop ring."
     },
     {
       "type": "attention",
       "items": [
         "Be sure to check the size of the stop ring, as installing a stop ring other than the specified one will damage the driveshaft and the vehicle."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Outer diameter (A)"
+          },
+          {
+            "text": "20.4mm"
+          }
+        ],
+        [
+          {
+            "text": "Wire diameter (B)"
+          },
+          {
+            "text": "1.6mm"
+          }
+        ]
       ]
     },
     {
@@ -398,7 +466,20 @@
     {
       "type": "step",
       "number": "3",
-      "text": "Fill the outboard joints with 20 g of the specified grease. Specified grease Kyodo Yushi NKG708"
+      "text": "Fill the outboard joints with 20 g of the specified grease."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Specified grease"
+          },
+          {
+            "text": "Kyodo Yushi NKG708"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -426,24 +507,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Spread a rag on the floor and be careful not to damage the drive shaft end (threaded part)."
-        },
-        {
-          "text": "Spread a rag on the floor and be careful not to damage the drive shaft end (threaded part)."
-        },
-        {
-          "text": "Do not use hammers."
-        },
-        {
-          "text": "Do not use hammers."
-        }
-      ]
-    },
-    {
       "type": "figure",
       "asset": "613_3.0_jpn_11582113_3.0_disp.png"
     },
@@ -465,7 +528,28 @@
     {
       "type": "step",
       "number": "7",
-      "text": "Lubricate grease in outboard joints and outboard boots. Specified grease Kyodo Yushi NKG708 Total fill volume: 1,000 30－50g"
+      "text": "Lubricate grease in outboard joints and outboard boots."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Specified grease"
+          },
+          {
+            "text": "Kyodo Yushi NKG708"
+          }
+        ],
+        [
+          {
+            "text": "Total fill volume: 1,000"
+          },
+          {
+            "text": "30－50g"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -494,12 +578,51 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Adjust the space between the inboard and outboard joints to the specified dimensions. Length between joints Left side driveshaft: (1) Std. 581.3－586.3mm Right side driveshaft: (1) Std. 484.3－489.3mm"
+      "text": "Adjust the space between the inboard and outboard joints to the specified dimensions."
     },
     {
       "type": "attention",
       "items": [
         "The air pressure in the boot shall be atmospheric when the length between joints (A) is within the standard value to prevent deformation of the boot."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Left side driveshaft: (1)",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "581.3－586.3mm"
+          }
+        ],
+        [
+          {
+            "text": "Right side driveshaft: (1)",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "484.3－489.3mm"
+          }
+        ]
       ]
     },
     {
@@ -514,7 +637,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Wrap the drive shaft side locking clip band (A) around the outboard boot (B) and bend the lever (C). Fold the clip section (D). Assemble the locking clip band (E) on the outboard joint side in the same manner. Make sure the band is not loose and wipe off any grease or other contaminants on the boot or drive shaft surface."
+      "text": "Wrap the drive shaft side locking clip band (A) around the outboard boot (B) and bend the lever (C). Fold the clip section (D)."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Assemble the locking clip band (E) on the outboard joint side in the same manner. Make sure the band is not loose and wipe off any grease or other contaminants on the boot or drive shaft surface."
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000613_jpn/web/html/R000613_jpn_Content.html",

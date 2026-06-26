@@ -143,7 +143,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Turn ignition OFF (LOCK) mode. Attach the hand vacuum pump (A) to the suction tube (B) and apply negative pressure. Check to see if negative pressure is maintained."
+      "text": "Turn ignition OFF (LOCK) mode. Check to see if negative pressure is maintained."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Attach the hand vacuum pump (A) to the suction tube (B) and apply negative pressure."
     },
     {
       "type": "list",
@@ -257,7 +262,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Lift up the vehicle. Attach a hand vacuum pump (B) to the breather tube (A) on the filler neck side to provide negative pressure. Check to see if negative pressure is maintained."
+      "text": "Lift up the vehicle. Check to see if negative pressure is maintained."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Attach a hand vacuum pump (B) to the breather tube (A) on the filler neck side to provide negative pressure."
     },
     {
       "type": "list",

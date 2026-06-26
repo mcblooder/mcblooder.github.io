@@ -47,7 +47,34 @@
     {
       "type": "step",
       "number": "3",
-      "text": "Remove your hand from the clutch disc and place the clutch compressor attachment for clearance measurement on the clutch end plate. Using a push/pull gauge, press the center of the clutch compressor attachment with a force of 39 N (4.0 kgf) (including the weight of the clutch compressor attachment) and read the scale on the dial gauge to measure the clutch clearance. Measure at least 3 places at equal intervals. Standard clearance between clutch end plate and clutch disc Forward clutch:. 0.5－0.7mm Reverse clutch 1.0－1.2mm If the clearance is out of the standard value, replace the clutch assy."
+      "text": "Remove your hand from the clutch disc and place the clutch compressor attachment for clearance measurement on the clutch end plate. Using a push/pull gauge, press the center of the clutch compressor attachment with a force of 39 N (4.0 kgf) (including the weight of the clutch compressor attachment) and read the scale on the dial gauge to measure the clutch clearance. Measure at least 3 places at equal intervals. If the clearance is out of the standard value, replace the clutch assy."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Standard clearance between clutch end plate and clutch disc",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Forward clutch:."
+          },
+          {
+            "text": "0.5－0.7mm"
+          }
+        ],
+        [
+          {
+            "text": "Reverse clutch"
+          },
+          {
+            "text": "1.0－1.2mm"
+          }
+        ]
+      ]
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000584_jpn/web/html/R000584_jpn_Content.html",

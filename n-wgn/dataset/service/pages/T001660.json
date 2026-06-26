@@ -227,6 +227,11 @@
     },
     {
       "type": "step",
+      "number": "1",
+      "text": "Turn the ignition to the OFF (LOCK) mode and wait at least 10 seconds."
+    },
+    {
+      "type": "step",
       "number": "",
       "text": "2. Connect the HDS (Honda Diagnostics System) to the data link coupler (A) on the left side of the driver's seat. For information on the use of HDS, refer to the HDS instruction manual. 3. Turn ignition to ON mode. 4. Verify that HDS communicates with the vehicle and the SRS unit. If it does not communicate, Inspect data link circuits The following is a list of the most common problems with the 5. Select a trouble code from the HDS DTC menu and check the DTC. 6. Turn the ignition to the OFF (LOCK) mode and wait at least 10 seconds. 7. Proceed to failure diagnosis.",
       "refs": [
@@ -240,6 +245,11 @@
     {
       "type": "figure",
       "asset": "1660_3.0_jpn_11261505_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn the ignition to the OFF (LOCK) mode and wait at least 10 seconds."
     },
     {
       "type": "step",
@@ -260,6 +270,11 @@
     {
       "type": "paragraph",
       "text": "If any failure has occurred in the past but there is no failure at present, the SRS warning light comes on because it is memorized as a transient failure. if the DTC is inspected and determined to be a transient failure, the following procedure is used to check it."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "After confirming and recording the initial DTC in advance, clear the DTC."
     },
     {
       "type": "step",

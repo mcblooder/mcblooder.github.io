@@ -146,7 +146,28 @@
     {
       "type": "step",
       "number": "3",
-      "text": "Measure the outside diameter of the commutator (A) and if it is worn below the limit, replace it with a new one. Outer Diameter of Commutator Std. 28.0－28.1mm Limit value: 1 27.5mm"
+      "text": "Measure the outside diameter of the commutator (A) and if it is worn below the limit, replace it with a new one."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "28.0－28.1mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "27.5mm"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -155,7 +176,28 @@
     {
       "type": "step",
       "number": "4",
-      "text": "Use a dial gauge to measure the runout of the commutator (A), and if runout exceeds the limit, replace the armature. Commutator swing Std. 0.02 mm or less Limit value: 1 0.05mm"
+      "text": "Use a dial gauge to measure the runout of the commutator (A), and if runout exceeds the limit, replace the armature."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.02 mm or less"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.05mm"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -164,7 +206,28 @@
     {
       "type": "step",
       "number": "5",
-      "text": "Measure the mica depth (A) using calipers, and if it is below the limit, replace the armature. Mica Depth Std. 0.4－0.5mm Limit value: 1 0.15mm"
+      "text": "Measure the mica depth (A) using calipers, and if it is below the limit, replace the armature."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.4－0.5mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.15mm"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -233,7 +296,28 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Using calipers, measure the length of brush (A) and if worn below the limit, replace the brush holder set. Brush length Std. 10.8－11.2mm Limit value: 1 4mm"
+      "text": "Using calipers, measure the length of brush (A) and if worn below the limit, replace the brush holder set."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "10.8－11.2mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "4mm"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",

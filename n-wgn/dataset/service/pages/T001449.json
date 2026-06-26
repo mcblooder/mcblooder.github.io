@@ -40,6 +40,16 @@
       "asset": "1449_3.0_jpn_11038368_3.0_disp.png"
     },
     {
+      "type": "step",
+      "number": "2",
+      "text": "Turn ignition to ON mode."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Turn on the rear defroster/mirror heater* switch and verify that there is battery voltage between the (+) and (-) terminals. *：Mirror Heater-equipped vehicles"
+    },
+    {
       "type": "list",
       "ordered": true,
       "items": [

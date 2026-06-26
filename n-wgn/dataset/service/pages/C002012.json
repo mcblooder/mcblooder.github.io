@@ -118,20 +118,44 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Each seat door Switch OFF (door closed)"
+          {
+            "text": "Set start"
+          },
+          {
+            "text": "Carry Honda Smart Key and lock with request switch Locked with Honda Smart Key"
+          }
         ],
         [
-          "",
-          "Tailgate latch switch OFF (tailgate closed)"
+          {
+            "text": "reset release"
+          },
+          {
+            "text": "Unlocked with Honda Smart Key Carry Honda Smart Key and unlock with request switch Carry the Honda Smart Key and press the ENGINE START STOP switch"
+          }
         ],
         [
-          "",
-          "Bonnet latch switch ON (bonnet closed)"
+          {
+            "text": "Set starting conditions (all related systems are assumed to be normal)"
+          },
+          {
+            "text": "Each seat door Switch OFF (door closed) Tailgate latch switch OFF (tailgate closed) Bonnet latch switch ON (bonnet closed) Ignition OFF (LOCK) mode"
+          }
         ],
         [
-          "",
-          "Ignition OFF (LOCK) mode"
+          {
+            "text": "Alarm start"
+          },
+          {
+            "text": "When any of the respective monitoring switch signals is input without receiving a set release signal"
+          }
+        ],
+        [
+          {
+            "text": "Warning Lifting"
+          },
+          {
+            "text": "Same as set release conditions"
+          }
         ]
       ]
     },

@@ -37,7 +37,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Push the tabs (A) in the direction of the arrow to unlock and remove the cover (B). Disconnect the coupler (C). Remove the blower motor (D)."
+      "text": "Push the tabs (A) in the direction of the arrow to unlock and remove the cover (B)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Disconnect the coupler (C). Remove the blower motor (D)."
     },
     {
       "type": "heading",

@@ -48,7 +48,28 @@
     {
       "type": "step",
       "number": "1",
-      "text": "When the front wiper arm stops at the automatic stop position, confirm that it is in the reference position. a: 23.1mm±5mm from cowl top edge (A) b: 26.9mm±5mm from cowl top edge (A)"
+      "text": "When the front wiper arm stops at the automatic stop position, confirm that it is in the reference position."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "a:"
+          },
+          {
+            "text": "23.1mm±5mm from cowl top edge (A)"
+          }
+        ],
+        [
+          {
+            "text": "b:"
+          },
+          {
+            "text": "26.9mm±5mm from cowl top edge (A)"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -62,7 +83,64 @@
     {
       "type": "step",
       "number": "1",
-      "text": "When washer fluid is sprayed, at least 50% of the sprayed fluid should land within the shaded area. If not in the standard position, adjust the front washer nozzle. landing on the water position Black Ceramic solid terminal line landing on the water position Black Ceramic solid terminal line landing zone Black Ceramic solid terminal line landing on the water position Black Ceramic solid terminal line a From A to 238.9mm b From A to 465.3mm c From A to 504.9mm d From A to 214.9mm"
+      "text": "When washer fluid is sprayed, at least 50% of the sprayed fluid should land within the shaded area. If not in the standard position, adjust the front washer nozzle."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "landing on the water position"
+          },
+          {
+            "text": "Black Ceramic solid terminal line"
+          },
+          {
+            "text": "landing on the water position"
+          },
+          {
+            "text": "Black Ceramic solid terminal line"
+          },
+          {
+            "text": "landing zone"
+          },
+          {
+            "text": "Black Ceramic solid terminal line"
+          },
+          {
+            "text": "landing on the water position"
+          },
+          {
+            "text": "Black Ceramic solid terminal line"
+          }
+        ],
+        [
+          {
+            "text": "a"
+          },
+          {
+            "text": "From A to 238.9mm"
+          },
+          {
+            "text": "b"
+          },
+          {
+            "text": "From A to 465.3mm"
+          },
+          {
+            "text": "c"
+          },
+          {
+            "text": "From A to 504.9mm"
+          },
+          {
+            "text": "d"
+          },
+          {
+            "text": "From A to 214.9mm"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -76,7 +154,20 @@
     {
       "type": "step",
       "number": "1",
-      "text": "When the rear wiper arm stops at the automatic stop position, confirm that it is in the reference position. a: 40.8mm from glass end line (A)"
+      "text": "When the rear wiper arm stops at the automatic stop position, confirm that it is in the reference position."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "a:"
+          },
+          {
+            "text": "40.8mm from glass end line (A)"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -90,7 +181,40 @@
     {
       "type": "step",
       "number": "1",
-      "text": "When washer fluid is sprayed, it should land at the water landing position. If it is not in the standard position, adjust the rear washer nozzle. landing on the water position Black Ceramic solid terminal line landing on the water position width a A to 38.5mm b 88.3mm"
+      "text": "When washer fluid is sprayed, it should land at the water landing position. If it is not in the standard position, adjust the rear washer nozzle."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "landing on the water position"
+          },
+          {
+            "text": "Black Ceramic solid terminal line"
+          },
+          {
+            "text": "landing on the water position"
+          },
+          {
+            "text": "width"
+          }
+        ],
+        [
+          {
+            "text": "a"
+          },
+          {
+            "text": "A to 38.5mm"
+          },
+          {
+            "text": "b"
+          },
+          {
+            "text": "88.3mm"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",

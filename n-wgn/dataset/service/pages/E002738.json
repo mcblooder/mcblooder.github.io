@@ -35,94 +35,214 @@
       "type": "table",
       "rows": [
         [
-          "internal connection",
-          "reference number",
-          "Number of coupler pins",
-          "access point"
+          {
+            "text": "internal connection"
+          },
+          {
+            "text": "reference number"
+          },
+          {
+            "text": "Number of coupler pins"
+          },
+          {
+            "text": "access point"
+          }
         ],
         [
-          "Lighting Relay 1",
-          "1",
-          "4",
-          ""
+          {
+            "text": "Lighting Relay 1"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Small Light Relay",
-          "2",
-          "4",
-          ""
+          {
+            "text": "Small Light Relay"
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Compressor Clutch Relay",
-          "3",
-          "4",
-          ""
+          {
+            "text": "Compressor Clutch Relay"
+          },
+          {
+            "text": "3"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Radiator Fan Relay",
-          "4",
-          "4",
-          ""
+          {
+            "text": "Radiator Fan Relay"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Front wiper motor relay",
-          "5",
-          "4",
-          ""
+          {
+            "text": "Front wiper motor relay"
+          },
+          {
+            "text": "5"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Starter cut Relay 1",
-          "6",
-          "4",
-          ""
+          {
+            "text": "Starter cut Relay 1"
+          },
+          {
+            "text": "6"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Starter cut Relay 2",
-          "7",
-          "4",
-          ""
+          {
+            "text": "Starter cut Relay 2"
+          },
+          {
+            "text": "7"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Lighting Relay 2",
-          "8",
-          "4",
-          ""
+          {
+            "text": "Lighting Relay 2"
+          },
+          {
+            "text": "8"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Horn Relay",
-          "9",
-          "4",
-          ""
+          {
+            "text": "Horn Relay"
+          },
+          {
+            "text": "9"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Front wiper intermittent relay",
-          "12",
-          "5",
-          ""
+          {
+            "text": "Front wiper intermittent relay"
+          },
+          {
+            "text": "12"
+          },
+          {
+            "text": "5"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "ELD",
-          "13",
-          "3",
-          ""
+          {
+            "text": "ELD"
+          },
+          {
+            "text": "13"
+          },
+          {
+            "text": "3"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Front wiper HI/LO relay",
-          "14",
-          "5",
-          ""
+          {
+            "text": "Front wiper HI/LO relay"
+          },
+          {
+            "text": "14"
+          },
+          {
+            "text": "5"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "T1",
-          "10",
-          "",
-          "Engine Wire Harness"
+          {
+            "text": "T1"
+          },
+          {
+            "text": "10"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Engine Wire Harness"
+          }
         ],
         [
-          "T101",
-          "11",
-          "",
-          "Engine Wire Harness"
+          {
+            "text": "T101"
+          },
+          {
+            "text": "11"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Engine Wire Harness"
+          }
         ]
       ]
     },
@@ -134,178 +254,410 @@
       "type": "table",
       "rows": [
         [
-          "internal connection",
-          "reference number",
-          "Number of coupler pins",
-          "access point"
+          {
+            "text": "internal connection"
+          },
+          {
+            "text": "reference number"
+          },
+          {
+            "text": "Number of coupler pins"
+          },
+          {
+            "text": "access point"
+          }
         ],
         [
-          "Blower motor Relay",
-          "1",
-          "4",
-          ""
+          {
+            "text": "Blower motor Relay"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "",
-          "2",
-          "4",
-          "unused"
+          {
+            "text": ""
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": "unused"
+          }
         ],
         [
-          "",
-          "3",
-          "4",
-          "unused"
+          {
+            "text": ""
+          },
+          {
+            "text": "3"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": "unused"
+          }
         ],
         [
-          "A",
-          "4",
-          "34",
-          "Engine compartment wire harness"
+          {
+            "text": "A"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": "34"
+          },
+          {
+            "text": "Engine compartment wire harness"
+          }
         ],
         [
-          "B",
-          "5",
-          "10",
-          "Engine compartment wire harness"
+          {
+            "text": "B"
+          },
+          {
+            "text": "5"
+          },
+          {
+            "text": "10"
+          },
+          {
+            "text": "Engine compartment wire harness"
+          }
         ],
         [
-          "C",
-          "6",
-          "10",
-          "Engine compartment wire harness"
+          {
+            "text": "C"
+          },
+          {
+            "text": "6"
+          },
+          {
+            "text": "10"
+          },
+          {
+            "text": "Engine compartment wire harness"
+          }
         ],
         [
-          "D",
-          "7",
-          "16",
-          "Floor Wire Harness"
+          {
+            "text": "D"
+          },
+          {
+            "text": "7"
+          },
+          {
+            "text": "16"
+          },
+          {
+            "text": "Floor Wire Harness"
+          }
         ],
         [
-          "E",
-          "8",
-          "8",
-          "Floor Wire Harness"
+          {
+            "text": "E"
+          },
+          {
+            "text": "8"
+          },
+          {
+            "text": "8"
+          },
+          {
+            "text": "Floor Wire Harness"
+          }
         ],
         [
-          "F",
-          "9",
-          "18",
-          "Driver Door Wire Harness"
+          {
+            "text": "F"
+          },
+          {
+            "text": "9"
+          },
+          {
+            "text": "18"
+          },
+          {
+            "text": "Driver Door Wire Harness"
+          }
         ],
         [
-          "Z",
-          "10",
-          "1",
-          "Engine compartment wire harness"
+          {
+            "text": "Z"
+          },
+          {
+            "text": "10"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "Engine compartment wire harness"
+          }
         ],
         [
-          "K",
-          "11",
-          "4",
-          ""
+          {
+            "text": "K"
+          },
+          {
+            "text": "11"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "J",
-          "12",
-          "24",
-          "Engine compartment wire harness"
+          {
+            "text": "J"
+          },
+          {
+            "text": "12"
+          },
+          {
+            "text": "24"
+          },
+          {
+            "text": "Engine compartment wire harness"
+          }
         ],
         [
-          "H",
-          "13",
-          "20",
-          "Floor Wire Harness"
+          {
+            "text": "H"
+          },
+          {
+            "text": "13"
+          },
+          {
+            "text": "20"
+          },
+          {
+            "text": "Floor Wire Harness"
+          }
         ],
         [
-          "G",
-          "14",
-          "6",
-          "unused"
+          {
+            "text": "G"
+          },
+          {
+            "text": "14"
+          },
+          {
+            "text": "6"
+          },
+          {
+            "text": "unused"
+          }
         ],
         [
-          "Power Wind Relay",
-          "15",
-          "4",
-          ""
+          {
+            "text": "Power Wind Relay"
+          },
+          {
+            "text": "15"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "PGM-FI Main Relay 1",
-          "16",
-          "4",
-          ""
+          {
+            "text": "PGM-FI Main Relay 1"
+          },
+          {
+            "text": "16"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "",
-          "17",
-          "4",
-          "unused"
+          {
+            "text": ""
+          },
+          {
+            "text": "17"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": "unused"
+          }
         ],
         [
-          "X",
-          "18",
-          "1",
-          "Instrument Wire Harness"
+          {
+            "text": "X"
+          },
+          {
+            "text": "18"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "Instrument Wire Harness"
+          }
         ],
         [
-          "M",
-          "19",
-          "10",
-          "Instrument Wire Harness"
+          {
+            "text": "M"
+          },
+          {
+            "text": "19"
+          },
+          {
+            "text": "10"
+          },
+          {
+            "text": "Instrument Wire Harness"
+          }
         ],
         [
-          "N",
-          "20",
-          "4",
-          "Instrument Wire Harness"
+          {
+            "text": "N"
+          },
+          {
+            "text": "20"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": "Instrument Wire Harness"
+          }
         ],
         [
-          "P",
-          "21",
-          "8",
-          "Instrument Wire Harness"
+          {
+            "text": "P"
+          },
+          {
+            "text": "21"
+          },
+          {
+            "text": "8"
+          },
+          {
+            "text": "Instrument Wire Harness"
+          }
         ],
         [
-          "Q",
-          "22",
-          "4",
-          "Instrument Wire Harness"
+          {
+            "text": "Q"
+          },
+          {
+            "text": "22"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": "Instrument Wire Harness"
+          }
         ],
         [
-          "S",
-          "23",
-          "20",
-          "Instrument Wire Harness"
+          {
+            "text": "S"
+          },
+          {
+            "text": "23"
+          },
+          {
+            "text": "20"
+          },
+          {
+            "text": "Instrument Wire Harness"
+          }
         ],
         [
-          "U",
-          "24",
-          "24",
-          "Instrument Wire Harness"
+          {
+            "text": "U"
+          },
+          {
+            "text": "24"
+          },
+          {
+            "text": "24"
+          },
+          {
+            "text": "Instrument Wire Harness"
+          }
         ],
         [
-          "W",
-          "25",
-          "2",
-          "Instrument Wire Harness"
+          {
+            "text": "W"
+          },
+          {
+            "text": "25"
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "Instrument Wire Harness"
+          }
         ],
         [
-          "T",
-          "26",
-          "34",
-          "Instrument Wire Harness"
+          {
+            "text": "T"
+          },
+          {
+            "text": "26"
+          },
+          {
+            "text": "34"
+          },
+          {
+            "text": "Instrument Wire Harness"
+          }
         ],
         [
-          "R",
-          "27",
-          "28",
-          "Instrument Wire Harness"
+          {
+            "text": "R"
+          },
+          {
+            "text": "27"
+          },
+          {
+            "text": "28"
+          },
+          {
+            "text": "Instrument Wire Harness"
+          }
         ],
         [
-          "Y",
-          "28",
-          "16",
-          "Instrument Wire Harness"
+          {
+            "text": "Y"
+          },
+          {
+            "text": "28"
+          },
+          {
+            "text": "16"
+          },
+          {
+            "text": "Instrument Wire Harness"
+          }
         ]
       ]
     },
@@ -317,28 +669,60 @@
       "type": "table",
       "rows": [
         [
-          "internal connection",
-          "reference number",
-          "Number of coupler pins",
-          "access point"
+          {
+            "text": "internal connection"
+          },
+          {
+            "text": "reference number"
+          },
+          {
+            "text": "Number of coupler pins"
+          },
+          {
+            "text": "access point"
+          }
         ],
         [
-          "ACC Relay",
-          "3",
-          "4",
-          ""
+          {
+            "text": "ACC Relay"
+          },
+          {
+            "text": "3"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "IG1 Relay 1",
-          "1",
-          "4",
-          ""
+          {
+            "text": "IG1 Relay 1"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "IG1 Relay 2",
-          "2",
-          "4",
-          ""
+          {
+            "text": "IG1 Relay 2"
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ]
       ]
     },
@@ -350,28 +734,60 @@
       "type": "table",
       "rows": [
         [
-          "internal connection",
-          "reference number",
-          "Number of coupler pins",
-          "access point"
+          {
+            "text": "internal connection"
+          },
+          {
+            "text": "reference number"
+          },
+          {
+            "text": "Number of coupler pins"
+          },
+          {
+            "text": "access point"
+          }
         ],
         [
-          "DBW Relay",
-          "2",
-          "4",
-          ""
+          {
+            "text": "DBW Relay"
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "PGM-FI Main Relay 2",
-          "3",
-          "4",
-          ""
+          {
+            "text": "PGM-FI Main Relay 2"
+          },
+          {
+            "text": "3"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Washer motor Relay",
-          "1",
-          "4",
-          ""
+          {
+            "text": "Washer motor Relay"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
         ]
       ]
     },
@@ -383,7 +799,52 @@
       "type": "table",
       "rows": [
         [
-          "*1: Vehicles equipped with the City Brake Active System *2: Vehicles equipped with dual discharge headlights"
+          {
+            "text": "internal connection"
+          },
+          {
+            "text": "reference number"
+          },
+          {
+            "text": "Number of coupler pins"
+          },
+          {
+            "text": "access point"
+          }
+        ],
+        [
+          {
+            "text": "Brake light relay *1"
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "5"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Hood COMP Relay *2"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "*1: Vehicles equipped with the City Brake Active System *2: Vehicles equipped with dual discharge headlights",
+            "colspan": 4
+          }
         ]
       ]
     },
@@ -395,7 +856,38 @@
       "type": "table",
       "rows": [
         [
-          "*：Vehicles equipped with front fog lights"
+          {
+            "text": "internal connection"
+          },
+          {
+            "text": "reference number"
+          },
+          {
+            "text": "Number of coupler pins"
+          },
+          {
+            "text": "access point"
+          }
+        ],
+        [
+          {
+            "text": "Front Fog Light Relay *"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "*：Vehicles equipped with front fog lights",
+            "colspan": 4
+          }
         ]
       ]
     },
@@ -407,7 +899,52 @@
       "type": "table",
       "rows": [
         [
-          "*：Mirror Heater-equipped vehicles"
+          {
+            "text": "internal connection"
+          },
+          {
+            "text": "reference number"
+          },
+          {
+            "text": "Number of coupler pins"
+          },
+          {
+            "text": "access point"
+          }
+        ],
+        [
+          {
+            "text": "Rear defroster relay"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Miller Heater Relay *"
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "*：Mirror Heater-equipped vehicles",
+            "colspan": 4
+          }
         ]
       ]
     },

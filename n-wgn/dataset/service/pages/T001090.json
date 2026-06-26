@@ -21,6 +21,11 @@
       "id": "T002547",
       "label": "Check DTC",
       "resolved": true
+    },
+    {
+      "id": "T001427",
+      "label": "Check the self-diagnostic function of the combination meter",
+      "resolved": true
     }
   ],
   "blocks": [
@@ -44,14 +49,36 @@
       "type": "table",
       "rows": [
         [
-          "symptoms",
-          "diagnostic item",
-          "related item"
+          {
+            "text": "symptoms",
+            "header": true
+          },
+          {
+            "text": "diagnostic item",
+            "header": true
+          },
+          {
+            "text": "related item",
+            "header": true
+          }
         ],
         [
-          "Charging warning light does not turn off",
-          "Check the self-diagnostic function of the combination meter",
-          ""
+          {
+            "text": "Charging warning light does not turn off"
+          },
+          {
+            "text": "Check the self-diagnostic function of the combination meter",
+            "refs": [
+              {
+                "id": "T001427",
+                "label": "Check the self-diagnostic function of the combination meter",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
         ]
       ]
     }

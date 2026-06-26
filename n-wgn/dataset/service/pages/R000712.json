@@ -219,7 +219,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Ensure that the front wheels are in a straight line. Push in the cable reel/steering angle sensor (A) until the upper and lower locks engage."
+      "text": "Ensure that the front wheels are in a straight line."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Push in the cable reel/steering angle sensor (A) until the upper and lower locks engage."
     },
     {
       "type": "figure",
@@ -336,14 +341,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Inspect the following items",
-      "refs": [
-        {
-          "id": "R000655",
-          "label": "If adjustment is necessary, turn the tie rods by the same amount on both sides.",
-          "resolved": true
-        }
-      ]
+      "text": "Inspect the following items"
     },
     {
       "type": "list",

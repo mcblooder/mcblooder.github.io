@@ -53,7 +53,50 @@
       "type": "table",
       "rows": [
         [
-          "D/C: Drive Cycle"
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "Once during D/C"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "More than 7.5 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, running, out of condition"
+          }
+        ],
+        [
+          {
+            "text": "D/C: Drive Cycle",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -66,7 +109,132 @@
       "type": "table",
       "rows": [
         [
-          "*1: Models equipped with a turbo charger *2: Vehicles not equipped with a turbo charger [ ]: HDS Parameters"
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Secondary O after engine start 2 Sensor activity judging inhibition time"
+          },
+          {
+            "text": "For 20 sec."
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine coolant temperature [Water temperature sensor]"
+          },
+          {
+            "text": "69℃"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine intake air temperature [Intake air temperature sensor]"
+          },
+          {
+            "text": "-15℃* 1 -25℃* 2"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Estimated catalytic converter temperature"
+          },
+          {
+            "text": "550℃* 1 600℃* 2"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Vehicle speed [vehicle speed]."
+          },
+          {
+            "text": "41km/h"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Fuel trim (Fuel correction value)"
+          },
+          {
+            "text": "0.73"
+          },
+          {
+            "text": "1.47"
+          }
+        ],
+        [
+          {
+            "text": "Air-fuel ratio feedback control"
+          },
+          {
+            "text": "closed-loop",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Priority Detection DTC"
+          },
+          {
+            "text": "P0133",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "P0010､ P0011､ P0102､ P0103､ P0107､ P0108､ P0112､ P0113､ P0117､ P0118､ P0122､ P0123､ P0133､ P0134､ P0135､ P0137､ P0138､ P0139､ P0141､ P0171､ P0172､ P0201､ P0202､ P0203､ P0222､ P0223､ P0300､ P0301､ P0302､ P0303､ P0335､ P0339､ P0340､ P0341､ P0344､ P0351､ P0352､ P0353､ P0401､ P0404､ P0443､ P0502､ P060A､ P1009､ P1157､ P1659､ P2101､ P2118､ P2122､ P2123､ P2127､ P2128､ P2135､ P2138､ P2176､ P21CF､ P21D0､ P21D1､ P2228､ P2229､ P2238､ P2252､ P2413､ P2A00",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Other"
+          },
+          {
+            "text": "Must have at least one deceleration history",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Load above cruise run",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "*1: Models equipped with a turbo charger *2: Vehicles not equipped with a turbo charger [ ]: HDS Parameters",
+            "colspan": 3
+          }
         ]
       ]
     },

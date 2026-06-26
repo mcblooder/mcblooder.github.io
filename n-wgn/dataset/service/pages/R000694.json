@@ -166,24 +166,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not damage master power surfaces and stud bolt threads."
-        },
-        {
-          "text": "Do not damage master power surfaces and stud bolt threads."
-        },
-        {
-          "text": "Do not deform the brake pipe significantly."
-        },
-        {
-          "text": "Do not deform the brake pipe significantly."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "8. Installation Precautions"

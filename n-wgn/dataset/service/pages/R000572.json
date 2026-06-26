@@ -292,7 +292,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Caulk the lock washer (A). Remove the mounting bolt (B) and lock washer. Remove the control lever (C)."
+      "text": "Caulk the lock washer (A). Remove the mounting bolt (B) and lock washer."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the control lever (C)."
     },
     {
       "type": "heading",
@@ -422,7 +427,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the sealing ring (A). Remove the snap ring (B). Remove the cotter retainer (C) and cotter (D). Remove the forward driven gear (E). Remove the thrust needle bearing (F). Remove the reverse driven gear (G). Remove the needle bearing (H). Remove the thrust needle bearing (I). Remove the reverse gear collar (J). Remove the reverse clutch assembly (K). Remove the O-ring (L)."
+      "text": "Remove the sealing ring (A). Remove the snap ring (B). Remove the cotter retainer (C) and cotter (D). Remove the forward driven gear (E). Remove the thrust needle bearing (F). Remove the reverse driven gear (G). Remove the needle bearing (H). Remove the thrust needle bearing (I). Remove the reverse clutch assembly (K). Remove the O-ring (L)."
+    },
+    {
+      "type": "step",
+      "number": "9",
+      "text": "Remove the reverse gear collar (J)."
     },
     {
       "type": "heading",
@@ -464,24 +474,6 @@
       "items": [
         "When caulking up the lock nut, be careful not to let any chirico, etc., get inside the transmission.",
         "Caulk the locknut sufficiently and remove it carefully so as not to damage the shaft."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "When caulking up the lock nut, be careful not to let any chirico, etc., get inside the transmission."
-        },
-        {
-          "text": "When caulking up the lock nut, be careful not to let any chirico, etc., get inside the transmission."
-        },
-        {
-          "text": "Caulk the locknut sufficiently and remove it carefully so as not to damage the shaft."
-        },
-        {
-          "text": "Caulk the locknut sufficiently and remove it carefully so as not to damage the shaft."
-        }
       ]
     },
     {
@@ -976,42 +968,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "If the liquid packing is left on for more than 4 minutes after application, do not install it as it is. Remove the packing once and reapply."
-        },
-        {
-          "text": "If the liquid packing is left on for more than 4 minutes after application, do not install it as it is. Remove the packing once and reapply."
-        },
-        {
-          "text": "Oil should be injected at least one hour after installation."
-        },
-        {
-          "text": "Oil should be injected at least one hour after installation."
-        },
-        {
-          "text": "Do not touch the liquid packing-applied surface."
-        },
-        {
-          "text": "Do not touch the liquid packing-applied surface."
-        },
-        {
-          "text": "The engine should be started at least 3 hours after installation."
-        },
-        {
-          "text": "The engine should be started at least 3 hours after installation."
-        },
-        {
-          "text": "Note that sliding the case during installation may result in uneven liquid packing and cause oil leaks, etc."
-        },
-        {
-          "text": "Note that sliding the case during installation may result in uneven liquid packing and cause oil leaks, etc."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "15. Transmission Hanger Installation"
@@ -1094,7 +1050,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install the control lever (A). Install the new lock washer (B) and install the mounting bolt (C). Crimp the lock washer."
+      "text": "Install the control lever (A). Install the new lock washer (B) and install the mounting bolt (C)."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Crimp the lock washer."
     },
     {
       "type": "heading",

@@ -101,34 +101,45 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Select Fuel Pump Force Activation in the HDS inspection menu to activate the fuel pump. Check for discharge. If there is discharge, stop the fuel pump forced operation, scrap the discharged fuel, select the fuel pump forced operation again, and measure the discharge for 10 seconds. Reference discharge rate (at 12V battery voltage): 12V Cars not equipped with a turbo charger 111mL or more/10 sec. Turbo Charger equipped vehicle 150mL or more/10 sec.",
-      "refs": [
-        {
-          "id": "R000488",
-          "label": "Fuel pump",
-          "resolved": true
-        },
-        {
-          "id": "T002565",
-          "label": "Disconnection or poor contact of wire harness (turbo charger equipped vehicles)",
-          "resolved": false
-        },
-        {
-          "id": "T002565",
-          "label": "Disconnection or poor contact of wire harness (vehicles not equipped with turbo charger)",
-          "resolved": false
-        },
-        {
-          "id": "R000485",
-          "label": "Defective pressure regulator",
-          "resolved": true
-        }
-      ]
+      "text": "Select Fuel Pump Force Activation in the HDS inspection menu to activate the fuel pump. Check for discharge. If there is discharge, stop the fuel pump forced operation, scrap the discharged fuel, select the fuel pump forced operation again, and measure the discharge for 10 seconds."
     },
     {
       "type": "attention",
       "items": [
         "Measure under no-load conditions with no headlights, blower motor, rear defroster, radiator fan, A/C, etc. in operation."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Cars not equipped with a turbo charger",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "111mL or more/10 sec."
+          }
+        ],
+        [
+          {
+            "text": "Turbo Charger equipped vehicle",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "150mL or more/10 sec."
+          }
+        ]
       ]
     },
     {

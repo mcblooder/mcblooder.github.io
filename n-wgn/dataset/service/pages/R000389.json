@@ -170,24 +170,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not disconnect the suction and discharge hoses."
-        },
-        {
-          "text": "Do not disconnect the suction and discharge hoses."
-        },
-        {
-          "text": "The removed compressor should be hung by a rope or other means, taking care not to interfere with the capacitor."
-        },
-        {
-          "text": "The removed compressor should be hung by a rope or other means, taking care not to interfere with the capacitor."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "7. Exhaust pipe/silencer removal",
@@ -310,7 +292,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove old fluid packings, oil, and dirt from oil pan, cylinder block, chain case, bolts, and bolt holes. Remove the adhesive in the O-ring groove of the oil pan. Install new oil pan packings (A), new O-rings (B), and knock pins (C) in the oil pan."
+      "text": "Remove old fluid packings, oil, and dirt from oil pan, cylinder block, chain case, bolts, and bolt holes. Remove the adhesive in the O-ring groove of the oil pan."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Install new oil pan packings (A), new O-rings (B), and knock pins (C) in the oil pan."
     },
     {
       "type": "figure",
@@ -327,30 +314,6 @@
         "Apply liquid packing with a wire diameter of about 2.5 mm along the dashed line (A).",
         "A liquid packing with a wire diameter of about 6 mm shall be applied to the shaded area (B).",
         "A liquid packing with a wire diameter of about 3 mm shall be applied to the shaded area (C)."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Apply liquid packing with a wire diameter of about 2.5 mm along the dashed line (A)."
-        },
-        {
-          "text": "Apply liquid packing with a wire diameter of about 2.5 mm along the dashed line (A)."
-        },
-        {
-          "text": "A liquid packing with a wire diameter of about 6 mm shall be applied to the shaded area (B)."
-        },
-        {
-          "text": "A liquid packing with a wire diameter of about 6 mm shall be applied to the shaded area (B)."
-        },
-        {
-          "text": "A liquid packing with a wire diameter of about 3 mm shall be applied to the shaded area (C)."
-        },
-        {
-          "text": "A liquid packing with a wire diameter of about 3 mm shall be applied to the shaded area (C)."
-        }
       ]
     },
     {
@@ -373,49 +336,40 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "If the liquid packing is left on for more than 4 minutes after application, do not install it as it is. Remove the packing once and reapply."
-        },
-        {
-          "text": "If the liquid packing is left on for more than 4 minutes after application, do not install it as it is. Remove the packing once and reapply."
-        },
-        {
-          "text": "Oil should be injected at least 30 minutes after installation."
-        },
-        {
-          "text": "Oil should be injected at least 30 minutes after installation."
-        },
-        {
-          "text": "Do not touch the liquid packing-applied surface."
-        },
-        {
-          "text": "Do not touch the liquid packing-applied surface."
-        },
-        {
-          "text": "Wipe off any fluid packing that protrudes from the crankshaft pulley and drive plate side."
-        },
-        {
-          "text": "Wipe off any fluid packing that protrudes from the crankshaft pulley and drive plate side."
-        },
-        {
-          "text": "The engine should be started at least 3 hours after installation."
-        },
-        {
-          "text": "The engine should be started at least 3 hours after installation."
-        }
-      ]
-    },
-    {
       "type": "figure",
       "asset": "389_5.0_jpn_11582935_5.0_disp.png"
     },
     {
       "type": "step",
       "number": "6",
-      "text": "Tighten the oil pan mounting bolts several times in numerical order. Specified torque ①－⑩: 12N･m (1.2kgf･m) ⑪: 44N･m (4.5kgf･m)"
+      "text": "Tighten the oil pan mounting bolts several times in numerical order."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Specified torque",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "①－⑩:"
+          },
+          {
+            "text": "12N･m (1.2kgf･m)"
+          }
+        ],
+        [
+          {
+            "text": "⑪:"
+          },
+          {
+            "text": "44N･m (4.5kgf･m)"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",

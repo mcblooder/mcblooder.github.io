@@ -53,6 +53,11 @@
       "text": "The following factors may cause poor radio audio reception"
     },
     {
+      "type": "step",
+      "number": "1",
+      "text": "Disturbance Factors"
+    },
+    {
       "type": "list",
       "ordered": false,
       "items": [
@@ -69,6 +74,11 @@
           "text": "illegal radio"
         }
       ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "redundancy factor"
     },
     {
       "type": "list",
@@ -91,6 +101,11 @@
     {
       "type": "paragraph",
       "text": "DTCs (Hard Error Codes) for audio units cannot be verified by HDS."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition to ON mode."
     },
     {
       "type": "step",

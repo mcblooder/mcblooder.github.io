@@ -23,7 +23,98 @@
     "1366_3.0_jpn_11266161_2.0_disp.png",
     "1366_3.0_jpn_11266162_2.0_disp.png"
   ],
-  "crossRefs": [],
+  "crossRefs": [
+    {
+      "id": "T002567",
+      "label": "Inspect the data link circuitry.",
+      "resolved": false
+    },
+    {
+      "id": "T001368",
+      "label": "B1225",
+      "resolved": false
+    },
+    {
+      "id": "T001369",
+      "label": "B1226",
+      "resolved": false
+    },
+    {
+      "id": "T001370",
+      "label": "B1227",
+      "resolved": false
+    },
+    {
+      "id": "T001371",
+      "label": "B1228",
+      "resolved": false
+    },
+    {
+      "id": "T001372",
+      "label": "B1229",
+      "resolved": false
+    },
+    {
+      "id": "T001373",
+      "label": "B1230",
+      "resolved": false
+    },
+    {
+      "id": "T001374",
+      "label": "B1231",
+      "resolved": false
+    },
+    {
+      "id": "T001375",
+      "label": "B1232",
+      "resolved": false
+    },
+    {
+      "id": "T002724",
+      "label": "B1233",
+      "resolved": false
+    },
+    {
+      "id": "T002725",
+      "label": "B1234",
+      "resolved": false
+    },
+    {
+      "id": "T002726",
+      "label": "B1235",
+      "resolved": false
+    },
+    {
+      "id": "T001380",
+      "label": "B1240",
+      "resolved": false
+    },
+    {
+      "id": "T001379",
+      "label": "B1239",
+      "resolved": false
+    },
+    {
+      "id": "T001381",
+      "label": "B1241",
+      "resolved": false
+    },
+    {
+      "id": "T001384",
+      "label": "U1280",
+      "resolved": false
+    },
+    {
+      "id": "T001385",
+      "label": "U128D",
+      "resolved": false
+    },
+    {
+      "id": "T001383",
+      "label": "C0",
+      "resolved": false
+    }
+  ],
   "blocks": [
     {
       "type": "heading",
@@ -36,12 +127,44 @@
     },
     {
       "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "step",
       "number": "",
       "text": "2. Connect HDS to the data link coupler (A)."
     },
     {
       "type": "figure",
       "asset": "1366_3.0_jpn_11266161_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Turn ignition to ON mode"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Verify that HDS communicates with the vehicle and the auto A/C control unit. If it does not communicate, Inspect the data link circuitry.",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "Inspect the data link circuitry.",
+          "resolved": false
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Select Body Electrical -> Auto A/C -> DTC in HDS."
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "Check DTC."
     },
     {
       "type": "list",
@@ -60,12 +183,39 @@
     },
     {
       "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "step",
       "number": "",
       "text": "2. Connect HDS to the data link coupler (A)."
     },
     {
       "type": "figure",
       "asset": "1366_3.0_jpn_11266162_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Turn ignition to ON mode"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Verify that HDS communicates with the vehicle and the auto A/C control unit. If it does not communicate, Inspect the data link circuitry.",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "Inspect the data link circuitry.",
+          "resolved": false
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Execute Body Electrical -> Auto A/C -> Inspect -> Auto A/C Self-Check in HDS."
     },
     {
       "type": "list",
@@ -85,6 +235,16 @@
     {
       "type": "paragraph",
       "text": "The auto A/C control unit has a self-diagnostic function."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode and then ON mode."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Press and hold the ON/OFF switch, then press the rear defroster/mirror heater switch five times within 10 seconds. All LCD segments light up for 2 seconds, and immediately after that, self-diagnosis begins."
     },
     {
       "type": "list",
@@ -109,12 +269,47 @@
     },
     {
       "type": "step",
+      "number": "4",
+      "text": "During the self-diagnostic function, normal operation is restored by pressing any switch (except the A/C switch) or by putting the ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode and then ON mode."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Press and hold the AUTO switch, then press and hold the ON/OFF switch. While keeping both switches pressed, the failure code history is displayed."
+    },
+    {
+      "type": "step",
       "number": "",
       "text": "3. If there has been an abnormality in the past, the error code corresponding to the faulty part of the set temperature indicator ''88'' will light up. The error code is illuminated for 1 second, followed by 0.5 seconds of the light being off, after which the error code is illuminated repeatedly. If there is more than one failure, the error codes are turned on in order of error code (from 01 to number), and after all error codes are turned on, the display returns to the first error code. If there is no abnormality, ''no'' lights up."
     },
     {
       "type": "figure",
       "asset": "1366_3.0_jpn_11038193_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Ignition OFF (LOCK) mode to return to normal operation."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Press the AUTO switch and the front defroster switch simultaneously, and while holding them down, place the ignition in the ON mode. Holding both switches down for 5 seconds clears the history, and the front defroster indicator flashes while both switches are held down."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Check the failure code history again to see if any failure history points remain."
     },
     {
       "type": "paragraph",
@@ -128,99 +323,342 @@
       "type": "table",
       "rows": [
         [
-          "Error Code",
-          "DTC",
-          "trouble spot"
+          {
+            "text": "Error Code",
+            "header": true
+          },
+          {
+            "text": "DTC",
+            "header": true
+          },
+          {
+            "text": "trouble spot",
+            "header": true
+          }
         ],
         [
-          "01",
-          "B1225",
-          "Disconnection of cord of internal air temperature sensor, sensor failure"
+          {
+            "text": "01"
+          },
+          {
+            "text": "B1225",
+            "refs": [
+              {
+                "id": "T001368",
+                "label": "B1225",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of cord of internal air temperature sensor, sensor failure"
+          }
         ],
         [
-          "02",
-          "B1226",
-          "Shorted cord of internal air temperature sensor, defective sensor"
+          {
+            "text": "02"
+          },
+          {
+            "text": "B1226",
+            "refs": [
+              {
+                "id": "T001369",
+                "label": "B1226",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Shorted cord of internal air temperature sensor, defective sensor"
+          }
         ],
         [
-          "05",
-          "B1227",
-          "Disconnection of cord of outside temperature sensor, sensor failure"
+          {
+            "text": "05"
+          },
+          {
+            "text": "B1227",
+            "refs": [
+              {
+                "id": "T001370",
+                "label": "B1227",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of cord of outside temperature sensor, sensor failure"
+          }
         ],
         [
-          "06",
-          "B1228",
-          "Short-circuited cord of outside temperature sensor, defective sensor"
+          {
+            "text": "06"
+          },
+          {
+            "text": "B1228",
+            "refs": [
+              {
+                "id": "T001371",
+                "label": "B1228",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Short-circuited cord of outside temperature sensor, defective sensor"
+          }
         ],
         [
-          "07",
-          "B1229",
-          "Disconnection of cord of solar radiation sensor, sensor failure"
+          {
+            "text": "07"
+          },
+          {
+            "text": "B1229",
+            "refs": [
+              {
+                "id": "T001372",
+                "label": "B1229",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of cord of solar radiation sensor, sensor failure"
+          }
         ],
         [
-          "08",
-          "B1230",
-          "Short circuit in cord of solar radiation sensor, sensor failure"
+          {
+            "text": "08"
+          },
+          {
+            "text": "B1230",
+            "refs": [
+              {
+                "id": "T001373",
+                "label": "B1230",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Short circuit in cord of solar radiation sensor, sensor failure"
+          }
         ],
         [
-          "09",
-          "B1231",
-          "Evaporator Disconnection of sensor cord, sensor failure"
+          {
+            "text": "09"
+          },
+          {
+            "text": "B1231",
+            "refs": [
+              {
+                "id": "T001374",
+                "label": "B1231",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Evaporator Disconnection of sensor cord, sensor failure"
+          }
         ],
         [
-          "0A",
-          "B1232",
-          "Evaporator Shorted sensor cord, defective sensor"
+          {
+            "text": "0A"
+          },
+          {
+            "text": "B1232",
+            "refs": [
+              {
+                "id": "T001375",
+                "label": "B1232",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Evaporator Shorted sensor cord, defective sensor"
+          }
         ],
         [
-          "40",
-          "B1233",
-          "Disconnection of potentiometer of air mix motor"
+          {
+            "text": "40"
+          },
+          {
+            "text": "B1233",
+            "refs": [
+              {
+                "id": "T002724",
+                "label": "B1233",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of potentiometer of air mix motor"
+          }
         ],
         [
-          "41",
-          "B1234",
-          "Short circuit of potentiometer of air mix motor"
+          {
+            "text": "41"
+          },
+          {
+            "text": "B1234",
+            "refs": [
+              {
+                "id": "T002725",
+                "label": "B1234",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Short circuit of potentiometer of air mix motor"
+          }
         ],
         [
-          "42",
-          "B1235",
-          "Air Mix Motor Locks"
+          {
+            "text": "42"
+          },
+          {
+            "text": "B1235",
+            "refs": [
+              {
+                "id": "T002726",
+                "label": "B1235",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Air Mix Motor Locks"
+          }
         ],
         [
-          "4b",
-          "B1240",
-          "Mode Motor Lock"
+          {
+            "text": "4b"
+          },
+          {
+            "text": "B1240",
+            "refs": [
+              {
+                "id": "T001380",
+                "label": "B1240",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Mode Motor Lock"
+          }
         ],
         [
-          "4C",
-          "B1239",
-          "Mode Disconnection or short-circuit of motor cord"
+          {
+            "text": "4C"
+          },
+          {
+            "text": "B1239",
+            "refs": [
+              {
+                "id": "T001379",
+                "label": "B1239",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Mode Disconnection or short-circuit of motor cord"
+          }
         ],
         [
-          "59",
-          "B1241",
-          "Blower Motor cord break, short, blown fuse, motor lock"
+          {
+            "text": "59"
+          },
+          {
+            "text": "B1241",
+            "refs": [
+              {
+                "id": "T001381",
+                "label": "B1241",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Blower Motor cord break, short, blown fuse, motor lock"
+          }
         ],
         [
-          "80",
-          "U1280",
-          "Auto A/C control unit communication circuit error (Bus off)"
+          {
+            "text": "80"
+          },
+          {
+            "text": "U1280",
+            "refs": [
+              {
+                "id": "T001384",
+                "label": "U1280",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Auto A/C control unit communication circuit error (Bus off)"
+          }
         ],
         [
-          "81",
-          "U128D",
-          "Auto A/C Control Unit cannot receive communication from Combination Meter Control Unit (water temperature frame)"
+          {
+            "text": "81"
+          },
+          {
+            "text": "U128D",
+            "refs": [
+              {
+                "id": "T001385",
+                "label": "U128D",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Auto A/C Control Unit cannot receive communication from Combination Meter Control Unit (water temperature frame)"
+          }
         ],
         [
-          "83",
-          "U128D",
-          "Auto A/C Control Unit cannot receive communication from Combination Meter Control Unit (VSP frame)"
+          {
+            "text": "83"
+          },
+          {
+            "text": "U128D",
+            "refs": [
+              {
+                "id": "T001385",
+                "label": "U128D",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Auto A/C Control Unit cannot receive communication from Combination Meter Control Unit (VSP frame)"
+          }
         ],
         [
-          "C0",
-          "―――",
-          "Auto A/C control unit internal failure"
+          {
+            "text": "C0",
+            "refs": [
+              {
+                "id": "T001383",
+                "label": "C0",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "Auto A/C control unit internal failure"
+          }
         ]
       ]
     },
@@ -253,69 +691,150 @@
       "type": "table",
       "rows": [
         [
-          "Sensor No.",
-          "Indication Sensor",
-          "unit"
+          {
+            "text": "Sensor No.",
+            "header": true
+          },
+          {
+            "text": "Indication Sensor",
+            "header": true
+          },
+          {
+            "text": "unit",
+            "header": true
+          }
         ],
         [
-          "1",
-          "Internal temperature sensor",
-          "（°C）"
+          {
+            "text": "1"
+          },
+          {
+            "text": "Internal temperature sensor"
+          },
+          {
+            "text": "（°C）"
+          }
         ],
         [
-          "2",
-          "Outside temperature sensor",
-          "（°C）"
+          {
+            "text": "2"
+          },
+          {
+            "text": "Outside temperature sensor"
+          },
+          {
+            "text": "（°C）"
+          }
         ],
         [
-          "3",
-          "Solar radiation sensor",
-          "（10W/m 2 ）"
+          {
+            "text": "3"
+          },
+          {
+            "text": "Solar radiation sensor"
+          },
+          {
+            "text": "（10W/m 2 ）"
+          }
         ],
         [
-          "4",
-          "Evaporator Sensor",
-          "（°C）"
+          {
+            "text": "4"
+          },
+          {
+            "text": "Evaporator Sensor"
+          },
+          {
+            "text": "（°C）"
+          }
         ],
         [
-          "5",
-          "Air mix motor (potentiometer value)",
-          "（%）"
+          {
+            "text": "5"
+          },
+          {
+            "text": "Air mix motor (potentiometer value)"
+          },
+          {
+            "text": "（%）"
+          }
         ],
         [
-          "6",
-          "vehicle speed",
-          "（10km/h）"
+          {
+            "text": "6"
+          },
+          {
+            "text": "vehicle speed"
+          },
+          {
+            "text": "（10km/h）"
+          }
         ],
         [
-          "7",
-          "water temperature",
-          "（°C）"
+          {
+            "text": "7"
+          },
+          {
+            "text": "water temperature"
+          },
+          {
+            "text": "（°C）"
+          }
         ],
         [
-          "8",
-          "Required outlet temperature",
-          "（°C）"
+          {
+            "text": "8"
+          },
+          {
+            "text": "Required outlet temperature"
+          },
+          {
+            "text": "（°C）"
+          }
         ],
         [
-          "9",
-          "Illumination (dimming step)**",
-          "―――"
+          {
+            "text": "9"
+          },
+          {
+            "text": "Illumination (dimming step)**"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "A",
-          "Idle Stop Not Allowed Flag",
-          "―――"
+          {
+            "text": "A"
+          },
+          {
+            "text": "Idle Stop Not Allowed Flag"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "b",
-          "not used",
-          "―――"
+          {
+            "text": "b"
+          },
+          {
+            "text": "not used"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "C",
-          "not used",
-          "―――"
+          {
+            "text": "C"
+          },
+          {
+            "text": "not used"
+          },
+          {
+            "text": "―――"
+          }
         ]
       ]
     },
@@ -331,39 +850,84 @@
       "type": "table",
       "rows": [
         [
-          "Temperature (°C)",
-          "Potentiometric value (%)",
-          "Segment Display"
+          {
+            "text": "Temperature (°C)",
+            "header": true
+          },
+          {
+            "text": "Potentiometric value (%)",
+            "header": true
+          },
+          {
+            "text": "Segment Display",
+            "header": true
+          }
         ],
         [
-          "－1°C－－9°C",
-          "－1%－－9%",
-          "A1－A9"
+          {
+            "text": "－1°C－－9°C"
+          },
+          {
+            "text": "－1%－－9%"
+          },
+          {
+            "text": "A1－A9"
+          }
         ],
         [
-          "－10°C－－19°C",
-          "－10%－－19%",
-          "B0－B9"
+          {
+            "text": "－10°C－－19°C"
+          },
+          {
+            "text": "－10%－－19%"
+          },
+          {
+            "text": "B0－B9"
+          }
         ],
         [
-          "－20°C－－29°C",
-          "－20%－－29%",
-          "C0－C9"
+          {
+            "text": "－20°C－－29°C"
+          },
+          {
+            "text": "－20%－－29%"
+          },
+          {
+            "text": "C0－C9"
+          }
         ],
         [
-          "－30°C－－39°C",
-          "－30%－－39%",
-          "D0－D9"
+          {
+            "text": "－30°C－－39°C"
+          },
+          {
+            "text": "－30%－－39%"
+          },
+          {
+            "text": "D0－D9"
+          }
         ],
         [
-          "－40°C－－49°C",
-          "－40%－－49%",
-          "E0－E9"
+          {
+            "text": "－40°C－－49°C"
+          },
+          {
+            "text": "－40%－－49%"
+          },
+          {
+            "text": "E0－E9"
+          }
         ],
         [
-          "100°C－109°C",
-          "100%－109%",
-          "F0－F9"
+          {
+            "text": "100°C－109°C"
+          },
+          {
+            "text": "100%－109%"
+          },
+          {
+            "text": "F0－F9"
+          }
         ]
       ]
     },

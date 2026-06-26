@@ -163,24 +163,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "When tightening the intake manifold mounting bolts, tighten them several times diagonally from inside to outside."
-        },
-        {
-          "text": "When tightening the intake manifold mounting bolts, tighten them several times diagonally from inside to outside."
-        },
-        {
-          "text": "Refer to the development drawing when installing add-ons."
-        },
-        {
-          "text": "Refer to the development drawing when installing add-ons."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "2. Tube/Coupler Connection"

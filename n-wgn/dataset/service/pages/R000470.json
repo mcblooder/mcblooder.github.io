@@ -18,13 +18,7 @@
   "assets": [
     "470_3.0_jpn_11291988_2.0_disp.png"
   ],
-  "crossRefs": [
-    {
-      "id": "T002544",
-      "label": "Inspect according to the symptom-based failure diagnosis table.",
-      "resolved": true
-    }
-  ],
+  "crossRefs": [],
   "blocks": [
     {
       "type": "heading",
@@ -71,13 +65,19 @@
     {
       "type": "step",
       "number": "1",
-      "text": "With the steering wheel in the straight ahead position, check the headlight, blower motor, rear defroster, radiator fan, A/C, etc. after at least one minute of no-load operation. Idling rpm (no load) 850±50 rpm (N or P position)",
-      "refs": [
-        {
-          "id": "T002544",
-          "label": "Inspect according to the symptom-based failure diagnosis table.",
-          "resolved": true
-        }
+      "text": "With the steering wheel in the straight ahead position, check the headlight, blower motor, rear defroster, radiator fan, A/C, etc. after at least one minute of no-load operation."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "850±50 rpm (N or P position)"
+          }
+        ]
       ]
     },
     {
@@ -94,13 +94,19 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Turn on the A/C switch, set the A/C temperature to the lowest setting, set the blower fan to maximum airflow, turn on the rear defroster, and set the headlights to \"HI\" and check after at least one minute with the compressor running. Idling RPM (high electrical load):. 910±50 rpm (N or P position)",
-      "refs": [
-        {
-          "id": "T002544",
-          "label": "Inspect according to the symptom-based failure diagnosis table.",
-          "resolved": true
-        }
+      "text": "Turn on the A/C switch, set the A/C temperature to the lowest setting, set the blower fan to maximum airflow, turn on the rear defroster, and set the headlights to \"HI\" and check after at least one minute with the compressor running."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "910±50 rpm (N or P position)"
+          }
+        ]
       ]
     },
     {

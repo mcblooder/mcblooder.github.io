@@ -66,30 +66,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "O-rings shall be replaced upon disassembly."
-        },
-        {
-          "text": "O-rings shall be replaced upon disassembly."
-        },
-        {
-          "text": "When installing, the sleeve surface shall be cleaned with oil wash and dried with compressed air, and engine oil shall be applied before assembly to ensure that there is no foreign matter such as dust adhering to the sleeve surface."
-        },
-        {
-          "text": "When installing, the sleeve surface shall be cleaned with oil wash and dried with compressed air, and engine oil shall be applied before assembly to ensure that there is no foreign matter such as dust adhering to the sleeve surface."
-        },
-        {
-          "text": "Do not use rags or other materials during the work."
-        },
-        {
-          "text": "Do not use rags or other materials during the work."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "1. VTC Hydraulic valve Inspection"
@@ -101,7 +77,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Check each port of the VTC hydraulic valve to make sure that there are no foreign objects, etc., entrapped in the valve. Ensure that the valve (A) is at least 5.0 mm from the tip."
+      "text": "Check each port of the VTC hydraulic valve to make sure that there are no foreign objects, etc., entrapped in the valve."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Ensure that the valve (A) is at least 5.0 mm from the tip."
     },
     {
       "type": "figure",

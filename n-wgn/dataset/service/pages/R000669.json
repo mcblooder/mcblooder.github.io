@@ -22,13 +22,7 @@
     "669_3.0_jpn_11035769_3.0_disp.png",
     "669_3.0_jpn_11035770_3.0_disp.png"
   ],
-  "crossRefs": [
-    {
-      "id": "G000326",
-      "label": "The damper unit should be disposed of after venting the gas.",
-      "resolved": true
-    }
-  ],
+  "crossRefs": [],
   "blocks": [
     {
       "type": "heading",
@@ -80,14 +74,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install the nut onto the rod. Push the damper rod in by hand as shown in the figure and check if it extends naturally at a constant speed when the force is released. If the rod does not extend naturally, the damper unit should be replaced because the filled gas is leaking. Also, inspect for oil leakage, abnormal noise, deformation, etc.",
-      "refs": [
-        {
-          "id": "G000326",
-          "label": "The damper unit should be disposed of after venting the gas.",
-          "resolved": true
-        }
-      ]
+      "text": "Install the nut onto the rod."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Push the damper rod in by hand as shown in the figure and check if it extends naturally at a constant speed when the force is released. If the rod does not extend naturally, the damper unit should be replaced because the filled gas is leaking. Also, inspect for oil leakage, abnormal noise, deformation, etc."
     },
     {
       "type": "attention",
@@ -111,7 +103,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Assemble bump stop rubber and damper bearing to upper spring seat. Place the upper spring seat with assembled parts on top of the spring. Set the spring in the coil spring compressor (A) and compress it lightly. Insert the damper unit (B) under the compressed spring. Align the lower end face (D) of the spring with the stepped lower seat (C) of the damper unit."
+      "text": "Assemble bump stop rubber and damper bearing to upper spring seat. Place the upper spring seat with assembled parts on top of the spring."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Set the spring in the coil spring compressor (A) and compress it lightly. Insert the damper unit (B) under the compressed spring. Align the lower end face (D) of the spring with the stepped lower seat (C) of the damper unit."
     },
     {
       "type": "figure",

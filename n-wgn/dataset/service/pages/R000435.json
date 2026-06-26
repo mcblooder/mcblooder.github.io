@@ -112,7 +112,69 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Replace at each recommended replacement time to prevent rusting of the cooling water. designated money Genuine Honda Ultra e-Coolant Regulated volume (L) (including 0.33L for reserve tank) Cars not equipped with a turbo charger at breakdown time 3.86 time to switch over 2.80 Turbo Charger equipped vehicle at breakdown time 3.93 time to switch over 2.85 Fill to the top of the water filler with genuine Honda Ultra e-Coolant."
+      "text": "Replace at each recommended replacement time to prevent rusting of the cooling water."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "designated money"
+          },
+          {
+            "text": "Genuine Honda Ultra e-Coolant"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Regulated volume (L) (including 0.33L for reserve tank)",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Cars not equipped with a turbo charger"
+          },
+          {
+            "text": "at breakdown time"
+          },
+          {
+            "text": "3.86"
+          }
+        ],
+        [
+          {
+            "text": "time to switch over"
+          },
+          {
+            "text": "2.80"
+          }
+        ],
+        [
+          {
+            "text": "Turbo Charger equipped vehicle"
+          },
+          {
+            "text": "at breakdown time"
+          },
+          {
+            "text": "3.93"
+          }
+        ],
+        [
+          {
+            "text": "time to switch over"
+          },
+          {
+            "text": "2.85"
+          }
+        ]
+      ]
     },
     {
       "type": "attention",
@@ -128,22 +190,9 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Avoid mixing with other brands."
-        },
-        {
-          "text": "Avoid mixing with other brands."
-        },
-        {
-          "text": "Do not use coolant other than that specified, as it may cause rust, etc."
-        },
-        {
-          "text": "Do not use coolant other than that specified, as it may cause rust, etc."
-        }
-      ]
+      "type": "step",
+      "number": "2",
+      "text": "Fill to the top of the water filler with genuine Honda Ultra e-Coolant."
     },
     {
       "type": "attention",
@@ -163,7 +212,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Tighten the radiator cap one step and warm up the engine at a slightly higher rpm than the specified idling rpm (approximately 1,500 rpm) until the radiator fan operates twice. Stop the engine and refill the Genuine Honda Ultra e-Coolant to the top of the water filler again, and at the same time fill the reserve tank to the upper limit (MAX) (A). Start the engine again, and at approximately 1,500 rpm, check that the fluid level does not drop, and tighten the radiator cap. Install the front license plate."
+      "text": "Tighten the radiator cap one step and warm up the engine at a slightly higher rpm than the specified idling rpm (approximately 1,500 rpm) until the radiator fan operates twice. Start the engine again, and at approximately 1,500 rpm, check that the fluid level does not drop, and tighten the radiator cap. Install the front license plate."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Stop the engine and refill the Genuine Honda Ultra e-Coolant to the top of the water filler again, and at the same time fill the reserve tank to the upper limit (MAX) (A)."
     },
     {
       "type": "attention",

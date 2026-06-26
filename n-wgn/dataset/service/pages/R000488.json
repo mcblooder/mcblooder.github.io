@@ -163,24 +163,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "When inserting the fuel pump packings into the fuel pump, be careful not to damage the packings."
-        },
-        {
-          "text": "When inserting the fuel pump packings into the fuel pump, be careful not to damage the packings."
-        },
-        {
-          "text": "Be careful not to bend the float arm of the sender unit."
-        },
-        {
-          "text": "Be careful not to bend the float arm of the sender unit."
-        }
-      ]
-    },
-    {
       "type": "figure",
       "asset": "488_3.0_jpn_11034669_3.0_disp.png"
     },

@@ -105,24 +105,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Torx bolts shall be replaced with new ones at the time of installation and tightened to the specified torque."
-        },
-        {
-          "text": "Torx bolts shall be replaced with new ones at the time of installation and tightened to the specified torque."
-        },
-        {
-          "text": "The rear side garnish must be installed after confirming the operation of the SRS warning light."
-        },
-        {
-          "text": "The rear side garnish must be installed after confirming the operation of the SRS warning light."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "5. SRS warning light Check"

@@ -52,7 +52,37 @@
     {
       "type": "step",
       "number": "1",
-      "text": "With the vehicle horizontal, remove the filler bolt (A) and sealing washer (B). Inject the specified ''Honda Genuine Ultra DPSF-II (Dual Pump System Fluid)'' through the filler bolt hole (C) to the same level as the underside of the screw. Designated transfer fluid: Honda Genuine Ultra DPSF-II Transfer fluid volume: When replaced: 0.43L When overhauled: 0.44L Install a new sealing washer and tighten the filler bolt."
+      "text": "With the vehicle horizontal, remove the filler bolt (A) and sealing washer (B). Inject the specified ''Honda Genuine Ultra DPSF-II (Dual Pump System Fluid)'' through the filler bolt hole (C) to the same level as the underside of the screw. Install a new sealing washer and tighten the filler bolt."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Designated transfer fluid:"
+          }
+        ],
+        [
+          {
+            "text": "Honda Genuine Ultra DPSF-II"
+          }
+        ],
+        [
+          {
+            "text": "Transfer fluid volume:"
+          }
+        ],
+        [
+          {
+            "text": "When replaced: 0.43L"
+          }
+        ],
+        [
+          {
+            "text": "When overhauled: 0.44L"
+          }
+        ]
+      ]
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000597_jpn/web/html/R000597_jpn_Content.html",

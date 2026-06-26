@@ -60,7 +60,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Measure the strain on the cylinder block mating surfaces of the cylinder head. Cylinder head and cylinder block mating surface distortion Std. 0.05 mm or less Cylinder Head Height Std. 125.95－126.05mm"
+      "text": "Measure the strain on the cylinder block mating surfaces of the cylinder head."
     },
     {
       "type": "attention",
@@ -70,27 +70,29 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The measurement shall be made without scratching or dents on the gasket mating surface of the cylinder head."
-        },
-        {
-          "text": "The measurement shall be made without scratching or dents on the gasket mating surface of the cylinder head."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.05 mm or less"
+          }
+        ]
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "If the strain is greater than the standard value, it shall be corrected within the standard height of the cylinder head."
-        },
-        {
-          "text": "If the strain is greater than the standard value, it shall be corrected within the standard height of the cylinder head."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "125.95－126.05mm"
+          }
+        ]
       ]
     },
     {

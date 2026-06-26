@@ -42,32 +42,72 @@
       "type": "table",
       "rows": [
         [
-          "input signal",
-          "Vehicle Condition",
-          "output (e.g. of dynamo)"
+          {
+            "text": "input signal",
+            "header": true
+          },
+          {
+            "text": "Vehicle Condition",
+            "header": true
+          },
+          {
+            "text": "output (e.g. of dynamo)",
+            "colspan": 2,
+            "header": true
+          }
         ],
         [
-          "Door switches for each seat",
-          "Ignition switch",
-          "pre-entry state",
-          "post-entry activation"
+          {
+            "text": "Door switches for each seat"
+          },
+          {
+            "text": "Ignition switch"
+          },
+          {
+            "text": "pre-entry state"
+          },
+          {
+            "text": "post-entry activation"
+          }
         ],
         [
-          "Either ON (Door open)",
-          "―",
-          "―",
-          "lighting (a lamp)"
+          {
+            "text": "Either ON (Door open)"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "lighting (a lamp)"
+          }
         ],
         [
-          "―",
-          "―",
-          "Operated by Timer 3"
+          {
+            "text": "―"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "Operated by Timer 3"
+          }
         ],
         [
-          "All OFF (DOOR CLOSES)",
-          "―",
-          "―",
-          "dimming"
+          {
+            "text": "All OFF (DOOR CLOSES)"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "dimming"
+          }
         ]
       ]
     },
@@ -83,50 +123,115 @@
       "type": "table",
       "rows": [
         [
-          "input signal",
-          "Vehicle Condition",
-          "output (e.g. of dynamo)"
+          {
+            "text": "input signal",
+            "header": true
+          },
+          {
+            "text": "Vehicle Condition",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "output (e.g. of dynamo)",
+            "colspan": 2,
+            "header": true
+          }
         ],
         [
-          "Door lock knob switch",
-          "Door of each seat switch",
-          "ignition switch",
-          "pre-entry state",
-          "post-entry activation"
+          {
+            "text": "Door lock knob switch"
+          },
+          {
+            "text": "Door of each seat switch"
+          },
+          {
+            "text": "ignition switch"
+          },
+          {
+            "text": "pre-entry state"
+          },
+          {
+            "text": "post-entry activation"
+          }
         ],
         [
-          "ON (lock) from (e.g. time, place, numerical quantity) OFF (unlocked)",
-          "All OFF (DOOR CLOSES)",
-          "OFF mode",
-          "lighting conditions",
-          "Operated by Timer 1"
+          {
+            "text": "ON (lock) from (e.g. time, place, numerical quantity) OFF (unlocked)"
+          },
+          {
+            "text": "All OFF (DOOR CLOSES)"
+          },
+          {
+            "text": "OFF mode"
+          },
+          {
+            "text": "lighting conditions"
+          },
+          {
+            "text": "Operated by Timer 1"
+          }
         ],
         [
-          "unlit state",
-          "Operated by Timer 4"
+          {
+            "text": "unlit state"
+          },
+          {
+            "text": "Operated by Timer 4"
+          }
         ],
         [
-          "OFF mode",
-          "―",
-          "Continuation of pre-input state"
+          {
+            "text": "OFF mode"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "Continuation of pre-input state"
+          }
         ],
         [
-          "Either one is ON (Door open)",
-          "OFF mode",
-          "―"
+          {
+            "text": "Either one is ON (Door open)"
+          },
+          {
+            "text": "OFF mode"
+          },
+          {
+            "text": "―"
+          }
         ],
         [
-          "OFF (unlocked) from (e.g. time, place, numerical quantity) ON (lock)",
-          "All OFF (DOOR CLOSES)",
-          "OFF mode",
-          "―",
-          "dimming"
+          {
+            "text": "OFF (unlocked) from (e.g. time, place, numerical quantity) ON (lock)"
+          },
+          {
+            "text": "All OFF (DOOR CLOSES)"
+          },
+          {
+            "text": "OFF mode"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "dimming"
+          }
         ],
         [
-          "Either one is ON (Door open)",
-          "OFF mode",
-          "―",
-          "Continuation of pre-input state"
+          {
+            "text": "Either one is ON (Door open)"
+          },
+          {
+            "text": "OFF mode"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "Continuation of pre-input state"
+          }
         ]
       ]
     },
@@ -142,62 +247,139 @@
       "type": "table",
       "rows": [
         [
-          "input",
-          "Vehicle Condition",
-          "output (e.g. of dynamo)"
+          {
+            "text": "input",
+            "header": true
+          },
+          {
+            "text": "Vehicle Condition",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "output (e.g. of dynamo)",
+            "colspan": 2,
+            "header": true
+          }
         ],
         [
-          "Door switches for each seat",
-          "Door locks Knob Switch",
-          "ignition switch",
-          "pre-entry state",
-          "post-entry activation"
+          {
+            "text": "Door switches for each seat"
+          },
+          {
+            "text": "Door locks Knob Switch"
+          },
+          {
+            "text": "ignition switch"
+          },
+          {
+            "text": "pre-entry state"
+          },
+          {
+            "text": "post-entry activation"
+          }
         ],
         [
-          "Any ON (door open) to all OFF (door closed)",
-          "OFF",
-          "OFF mode",
-          "lighting conditions",
-          "Operated by Timer 2"
+          {
+            "text": "Any ON (door open) to all OFF (door closed)"
+          },
+          {
+            "text": "OFF"
+          },
+          {
+            "text": "OFF mode"
+          },
+          {
+            "text": "lighting conditions"
+          },
+          {
+            "text": "Operated by Timer 2"
+          }
         ],
         [
-          "unlit state",
-          "Continuation of pre-input state"
+          {
+            "text": "unlit state"
+          },
+          {
+            "text": "Continuation of pre-input state"
+          }
         ],
         [
-          "ON mode",
-          "―",
-          "dimming"
+          {
+            "text": "ON mode"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "dimming"
+          }
         ],
         [
-          "―",
-          "―",
-          "dimming"
+          {
+            "text": "―"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "dimming"
+          }
         ],
         [
-          "ON",
-          "―",
-          "―"
+          {
+            "text": "ON"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "―"
+          }
         ],
         [
-          "Either OFF (door closed) to ON (door open)",
-          "―",
-          "OFF mode",
-          "lighting conditions",
-          "Operated by Timer 3 (Timer restart)"
+          {
+            "text": "Either OFF (door closed) to ON (door open)"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "OFF mode"
+          },
+          {
+            "text": "lighting conditions"
+          },
+          {
+            "text": "Operated by Timer 3 (Timer restart)"
+          }
         ],
         [
-          "unlit state",
-          "Operated by Timer 3"
+          {
+            "text": "unlit state"
+          },
+          {
+            "text": "Operated by Timer 3"
+          }
         ],
         [
-          "ON mode",
-          "―",
-          "lighting (a lamp)"
+          {
+            "text": "ON mode"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "lighting (a lamp)"
+          }
         ],
         [
-          "―",
-          "―"
+          {
+            "text": "―"
+          },
+          {
+            "text": "―"
+          }
         ]
       ]
     },
@@ -213,46 +395,102 @@
       "type": "table",
       "rows": [
         [
-          "input",
-          "Vehicle Condition",
-          "output (e.g. of dynamo)"
+          {
+            "text": "input",
+            "header": true
+          },
+          {
+            "text": "Vehicle Condition",
+            "header": true
+          },
+          {
+            "text": "output (e.g. of dynamo)",
+            "colspan": 2,
+            "header": true
+          }
         ],
         [
-          "ignition switch",
-          "Door switches for each seat",
-          "pre-entry state",
-          "post-entry activation"
+          {
+            "text": "ignition switch"
+          },
+          {
+            "text": "Door switches for each seat"
+          },
+          {
+            "text": "pre-entry state"
+          },
+          {
+            "text": "post-entry activation"
+          }
         ],
         [
-          "OFF mode from ON mode",
-          "All OFF (door closed)",
-          "lighting conditions",
-          "Operated by Timer 1"
+          {
+            "text": "OFF mode from ON mode"
+          },
+          {
+            "text": "All OFF (door closed)"
+          },
+          {
+            "text": "lighting conditions"
+          },
+          {
+            "text": "Operated by Timer 1"
+          }
         ],
         [
-          "unlit state",
-          "Operated by Timer 4"
+          {
+            "text": "unlit state"
+          },
+          {
+            "text": "Operated by Timer 4"
+          }
         ],
         [
-          "Either one is ON (door open)",
-          "―",
-          "Operated by Timer 3"
+          {
+            "text": "Either one is ON (door open)"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "Operated by Timer 3"
+          }
         ],
         [
-          "―",
-          "―",
-          "Continuation of pre-input state"
+          {
+            "text": "―"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "Continuation of pre-input state"
+          }
         ],
         [
-          "ON mode from OFF mode",
-          "All OFF (door closed)",
-          "―",
-          "dimming"
+          {
+            "text": "ON mode from OFF mode"
+          },
+          {
+            "text": "All OFF (door closed)"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "dimming"
+          }
         ],
         [
-          "Either one is ON (door open)",
-          "―",
-          "lighting (a lamp)"
+          {
+            "text": "Either one is ON (door open)"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "lighting (a lamp)"
+          }
         ]
       ]
     },
@@ -268,52 +506,121 @@
       "type": "table",
       "rows": [
         [
-          "input",
-          "Vehicle Condition",
-          "output (e.g. of dynamo)"
+          {
+            "text": "input",
+            "header": true
+          },
+          {
+            "text": "Vehicle Condition",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "output (e.g. of dynamo)",
+            "colspan": 2,
+            "header": true
+          }
         ],
         [
-          "keyless signal",
-          "Door switches for each seat",
-          "Door lock knob switch",
-          "pre-entry state",
-          "post-entry activation"
+          {
+            "text": "keyless signal"
+          },
+          {
+            "text": "Door switches for each seat"
+          },
+          {
+            "text": "Door lock knob switch"
+          },
+          {
+            "text": "pre-entry state"
+          },
+          {
+            "text": "post-entry activation"
+          }
         ],
         [
-          "unlock signal",
-          "All OFF (door closed)",
-          "ON (lock) to OFF (unlock) or OFF (unlock)",
-          "―",
-          "Operated by Timer 4"
+          {
+            "text": "unlock signal"
+          },
+          {
+            "text": "All OFF (door closed)"
+          },
+          {
+            "text": "ON (lock) to OFF (unlock) or OFF (unlock)"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "Operated by Timer 4"
+          }
         ],
         [
-          "ON (lock)",
-          "―",
-          "Continuation of pre-input state"
+          {
+            "text": "ON (lock)"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "Continuation of pre-input state"
+          }
         ],
         [
-          "Either one is ON (door open)",
-          "―",
-          "―",
-          "Operated by Timer 3"
+          {
+            "text": "Either one is ON (door open)"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "Operated by Timer 3"
+          }
         ],
         [
-          "lock signal",
-          "All OFF (door closed)",
-          "OFF (unlock) to ON (lock) or ON (lock)",
-          "―",
-          "dimming"
+          {
+            "text": "lock signal"
+          },
+          {
+            "text": "All OFF (door closed)"
+          },
+          {
+            "text": "OFF (unlock) to ON (lock) or ON (lock)"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "dimming"
+          }
         ],
         [
-          "OFF (unlocked)",
-          "―",
-          "Continuation of pre-input state"
+          {
+            "text": "OFF (unlocked)"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "Continuation of pre-input state"
+          }
         ],
         [
-          "Either one is ON (door open)",
-          "―",
-          "―",
-          "Continuation of pre-input state"
+          {
+            "text": "Either one is ON (door open)"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "Continuation of pre-input state"
+          }
         ]
       ]
     },

@@ -36,103 +36,252 @@
       "type": "table",
       "rows": [
         [
-          "No.",
-          "Lubricating oil point",
-          "Oil and fat name",
-          "remarks"
+          {
+            "text": "No."
+          },
+          {
+            "text": "Lubricating oil point",
+            "colspan": 2
+          },
+          {
+            "text": "Oil and fat name",
+            "colspan": 2
+          },
+          {
+            "text": "remarks"
+          }
         ],
         [
-          "",
-          "engine",
-          "Cars not equipped with a turbo charger",
-          "Recommended engine oil",
-          "Honda Genuine Oil ULTRA NEXT* (Honda's new fuel-saving oil) ULTRA Green (Honda fuel-saving oil) ULTRA LEO（API SN SAE 0W-20） Or engine oil with the above oil viscosity API SM or SN or higher, or with the API CERTIFICATION mark on the oil can. * : The most fuel-efficient oil",
-          ""
+          {
+            "text": ""
+          },
+          {
+            "text": "engine"
+          },
+          {
+            "text": "Cars not equipped with a turbo charger"
+          },
+          {
+            "text": "Recommended engine oil"
+          },
+          {
+            "text": "Honda Genuine Oil ULTRA NEXT* (Honda's new fuel-saving oil) ULTRA Green (Honda fuel-saving oil) ULTRA LEO（API SN SAE 0W-20） Or engine oil with the above oil viscosity API SM or SN or higher, or with the API CERTIFICATION mark on the oil can. * : The most fuel-efficient oil"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Turbo Charger equipped vehicle",
-          "Recommended engine oil",
-          "Honda Genuine Oil ULTRA LEO* 1 (API SN or higher, SAE 0W-20) ULTRA LTD (API SN or higher, SAE 5W-30) Or engine oil with API SM or SN or higher, or with API CERTIFICATION mark on the oil can. * 1 Oil with the best fuel economy",
-          ""
+          {
+            "text": "Turbo Charger equipped vehicle"
+          },
+          {
+            "text": "Recommended engine oil"
+          },
+          {
+            "text": "Honda Genuine Oil ULTRA LEO* 1 (API SN or higher, SAE 0W-20) ULTRA LTD (API SN or higher, SAE 5W-30) Or engine oil with API SM or SN or higher, or with API CERTIFICATION mark on the oil can. * 1 Oil with the best fuel economy"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "",
-          "CVT",
-          "Specified Transmission Fluid",
-          "Honda Genuine Ultra HMMF",
-          ""
+          {
+            "text": ""
+          },
+          {
+            "text": "CVT",
+            "colspan": 2
+          },
+          {
+            "text": "Specified Transmission Fluid"
+          },
+          {
+            "text": "Honda Genuine Ultra HMMF"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "",
-          "Transfer Fluid",
-          "Designated Transfer Fluid",
-          "Genuine Honda DPSF-II",
-          ""
+          {
+            "text": ""
+          },
+          {
+            "text": "Transfer Fluid",
+            "colspan": 2
+          },
+          {
+            "text": "Designated Transfer Fluid"
+          },
+          {
+            "text": "Genuine Honda DPSF-II"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "",
-          "Rear differential",
-          "Designated Rear Differential Fluid",
-          "Genuine Honda Ultra HGO-μ (hypoid gear oil)",
-          ""
+          {
+            "text": ""
+          },
+          {
+            "text": "Rear differential",
+            "colspan": 2
+          },
+          {
+            "text": "Designated Rear Differential Fluid"
+          },
+          {
+            "text": "Genuine Honda Ultra HGO-μ (hypoid gear oil)"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "",
-          "Brake Line VSA Line",
-          "Specified brake fluid",
-          "Genuine Honda Ultra Brake Fluid DOT3 or DOT4",
-          ""
+          {
+            "text": ""
+          },
+          {
+            "text": "Brake Line VSA Line",
+            "colspan": 2
+          },
+          {
+            "text": "Specified brake fluid"
+          },
+          {
+            "text": "Genuine Honda Ultra Brake Fluid DOT3 or DOT4"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "",
-          "Hood Locks and Hinges",
-          "grease",
-          "Dia Mondo Multi-Purpose Grease",
-          ""
+          {
+            "text": ""
+          },
+          {
+            "text": "Hood Locks and Hinges",
+            "colspan": 2
+          },
+          {
+            "text": "grease"
+          },
+          {
+            "text": "Dia Mondo Multi-Purpose Grease"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "",
-          "Battery Terminal"
+          {
+            "text": ""
+          },
+          {
+            "text": "Battery Terminal",
+            "colspan": 2
+          }
         ],
         [
-          "",
-          "Fuel filler lid/hinge"
+          {
+            "text": ""
+          },
+          {
+            "text": "Fuel filler lid/hinge",
+            "colspan": 2
+          }
         ],
         [
-          "",
-          "Tailgate hinge"
+          {
+            "text": ""
+          },
+          {
+            "text": "Tailgate hinge",
+            "colspan": 2
+          }
         ],
         [
-          "",
-          "Brake pedal joint Pin and yoke section"
+          {
+            "text": ""
+          },
+          {
+            "text": "Brake pedal joint Pin and yoke section",
+            "colspan": 2
+          }
         ],
         [
-          "",
-          "Caliper Pin",
-          "Pin Grease",
-          "Nigroove RM",
-          ""
+          {
+            "text": ""
+          },
+          {
+            "text": "Caliper Pin",
+            "colspan": 2
+          },
+          {
+            "text": "Pin Grease"
+          },
+          {
+            "text": "Nigroove RM"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "",
-          "Rear brake shoe Linkage",
-          "grease",
-          "Cosmo Rubber Grease",
-          ""
+          {
+            "text": ""
+          },
+          {
+            "text": "Rear brake shoe Linkage",
+            "colspan": 2
+          },
+          {
+            "text": "grease"
+          },
+          {
+            "text": "Cosmo Rubber Grease"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "",
-          "air conditioner compressor",
-          "Compressor oil",
-          "SP-10 (P/N 38897-P13-003, 38898-P13-003, or 38899-P13-J01)",
-          "For refrigerant HFC-134a (R-134a)"
+          {
+            "text": ""
+          },
+          {
+            "text": "air conditioner compressor",
+            "colspan": 2
+          },
+          {
+            "text": "Compressor oil"
+          },
+          {
+            "text": "SP-10 (P/N 38897-P13-003, 38898-P13-003, or 38899-P13-J01)"
+          },
+          {
+            "text": "For refrigerant HFC-134a (R-134a)"
+          }
         ],
         [
-          "",
-          "radiator",
-          "Designated coolant",
-          "Genuine Honda Ultra e-Coolant",
-          ""
+          {
+            "text": ""
+          },
+          {
+            "text": "radiator",
+            "colspan": 2
+          },
+          {
+            "text": "Designated coolant"
+          },
+          {
+            "text": "Genuine Honda Ultra e-Coolant"
+          },
+          {
+            "text": ""
+          }
         ]
       ]
     },

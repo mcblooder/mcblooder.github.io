@@ -55,7 +55,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the washer tube from the washer motor. Remove each clip and remove the washer tube."
+      "text": "Disconnect the washer tube from the washer motor."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove each clip and remove the washer tube."
     },
     {
       "type": "figure",

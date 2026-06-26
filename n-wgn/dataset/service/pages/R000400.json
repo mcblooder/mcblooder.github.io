@@ -80,14 +80,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "After warm-up is complete, measure oil pressure and if oil pressure is low, perform the following inspections. Oil pressure (after completion of warm-up) When idling: 1 70kPa(0.71kgf/cm 2 ) or more At 3,000 rpm: 1,000 rpm 230kPa(2.35kgf/cm 2 ) or more After measurement, remove the oil pressure gauge set and the oil pressure gauge attachment PT/1/8.",
-      "refs": [
-        {
-          "id": "R000407",
-          "label": "Inspect oil pump relief valve.",
-          "resolved": true
-        }
-      ]
+      "text": "After warm-up is complete, measure oil pressure and if oil pressure is low, perform the following inspections. After measurement, remove the oil pressure gauge set and the oil pressure gauge attachment PT/1/8."
     },
     {
       "type": "list",
@@ -125,6 +118,33 @@
             }
           ]
         }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Oil pressure (after completion of warm-up)",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "When idling: 1"
+          },
+          {
+            "text": "70kPa(0.71kgf/cm 2 ) or more"
+          }
+        ],
+        [
+          {
+            "text": "At 3,000 rpm: 1,000 rpm"
+          },
+          {
+            "text": "230kPa(2.35kgf/cm 2 ) or more"
+          }
+        ]
       ]
     },
     {

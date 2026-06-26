@@ -175,7 +175,62 @@
     {
       "type": "step",
       "number": "5",
-      "text": "If the center electrode (A) is spherical, replace it with a new one. Spark Plug Type Cars without turbo charger NGK: DILZKAR7C11S DENSO: DXE22HCR11S Vehicles equipped with a turbo charger NGK: ILZKAR8F8S DENSO: SXE24HCR8S Measure the electrode clearance (B) and replace if it exceeds the standard value. Electrode gap standard value Vehicles without turbo charger: 1.0-1.1mm Cars equipped with turbo charger: 0.7-0.8mm"
+      "text": "If the center electrode (A) is spherical, replace it with a new one. Measure the electrode clearance (B) and replace if it exceeds the standard value."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Spark Plug Type",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Cars without turbo charger",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "NGK:"
+          },
+          {
+            "text": "DILZKAR7C11S"
+          }
+        ],
+        [
+          {
+            "text": "DENSO:"
+          },
+          {
+            "text": "DXE22HCR11S"
+          }
+        ],
+        [
+          {
+            "text": "Vehicles equipped with a turbo charger",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "NGK:"
+          },
+          {
+            "text": "ILZKAR8F8S"
+          }
+        ],
+        [
+          {
+            "text": "DENSO:"
+          },
+          {
+            "text": "SXE24HCR8S"
+          }
+        ]
+      ]
     },
     {
       "type": "attention",
@@ -185,21 +240,32 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Never adjust the iridium plugs."
-        },
-        {
-          "text": "Never adjust the iridium plugs."
-        },
-        {
-          "text": "Iridium plugs shall be measured with a plug gauge (wire type)."
-        },
-        {
-          "text": "Iridium plugs shall be measured with a plug gauge (wire type)."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Electrode gap",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "standard value",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Vehicles without turbo charger: 1.0-1.1mm",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Cars equipped with turbo charger: 0.7-0.8mm",
+            "colspan": 2
+          }
+        ]
       ]
     },
     {

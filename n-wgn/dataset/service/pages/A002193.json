@@ -52,7 +52,42 @@
       "type": "table",
       "rows": [
         [
-          "*: Idling stop system warning light (orange) illuminates D/C: Drive Cycle"
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "10.5 seconds or longer"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1D/C (single detection method), brake warning light (orange): off*."
+          }
+        ],
+        [
+          {
+            "text": "*: Idling stop system warning light (orange) illuminates D/C: Drive Cycle",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -65,7 +100,68 @@
       "type": "table",
       "rows": [
         [
-          "[ ]: HDS Parameters"
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Vehicle speed [vehicle speed]."
+          },
+          {
+            "text": "30km/h"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Ignition switch/ ENGINE START STOP switch"
+          },
+          {
+            "text": "Ignition ON mode",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "P0555､ P0557､ P15C7､ P15C9",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Other"
+          },
+          {
+            "text": "Must have a history of stopping after engine warm-up",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "No malfunction of speed sensor, atmospheric pressure sensor, or water temperature sensor",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "[ ]: HDS Parameters",
+            "colspan": 3
+          }
         ]
       ]
     },

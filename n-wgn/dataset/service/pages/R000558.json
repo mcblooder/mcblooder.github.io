@@ -91,7 +91,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove heater hose clamp (A). Remove the air cleaner stay (B)."
+      "text": "Remove heater hose clamp (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the air cleaner stay (B)."
     },
     {
       "type": "heading",
@@ -105,7 +110,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove heater hose clamp (A). Remove the intercooler stay (B)."
+      "text": "Remove heater hose clamp (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the intercooler stay (B)."
     },
     {
       "type": "heading",
@@ -119,19 +129,24 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Set the select lever to the P position. Remove the snap pin (A) and pull out the control pin (B). Remove the control wire bracket (C) and separate the control wire (D) from the control lever (E). Inspect the bushings (F) at the control wire ends for detachment, wear, or other damage. If there is damage, check for Replace control wires.",
+      "text": "Set the select lever to the P position. Remove the snap pin (A) and pull out the control pin (B). Remove the control wire bracket (C) and separate the control wire (D) from the control lever (E)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not bend control wires more than necessary."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Inspect the bushings (F) at the control wire ends for detachment, wear, or other damage. If there is damage, check for Replace control wires.",
       "refs": [
         {
           "id": "R000553",
           "label": "Replace control wires.",
           "resolved": true
         }
-      ]
-    },
-    {
-      "type": "attention",
-      "items": [
-        "Do not bend control wires more than necessary."
       ]
     },
     {
@@ -259,7 +274,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Set the select lever to the P position. Apply a thin coat of molybdenum grease to the inside of the control wire end bushing (A). Install the control wire bracket (B). Attach the control wire end with the bushing facing up to the control lever (C) and insert the control pin (D) to secure it in place. Attach the snap pin (F) to the control pin. Install the snap pin (F) onto the control pin securely until the tip of the snap pin (G) comes out of the bottom of the guide (H) on the control lever."
+      "text": "Set the select lever to the P position. Apply a thin coat of molybdenum grease to the inside of the control wire end bushing (A). Install the control wire bracket (B). Attach the snap pin (F) to the control pin. Install the snap pin (F) onto the control pin securely until the tip of the snap pin (G) comes out of the bottom of the guide (H) on the control lever."
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Attach the control wire end with the bushing facing up to the control lever (C) and insert the control pin (D) to secure it in place."
     },
     {
       "type": "attention",

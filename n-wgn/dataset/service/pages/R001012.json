@@ -77,13 +77,26 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the coupler (A). Connect the (+) terminal of the 12V battery to the No. 1 terminal of the coupler (B) and the (-) terminal to the No. 3 terminal, and check that the rear wiper motor rotates smoothly without any abnormality. Between No.2 and No.3 terminals Confirm that continuity is repeated during motor rotation. Use an analog tester. If there is a problem with the motor and it does not rotate smoothly Replace rear wiper motor. Before installing the rear wiper arm, operate the rear wiper motor to the automatic stop position. Connect the coupler.",
+      "text": "Disconnect the coupler (A). Connect the (+) terminal of the 12V battery to the No. 1 terminal of the coupler (B) and the (-) terminal to the No. 3 terminal, and check that the rear wiper motor rotates smoothly without any abnormality. Use an analog tester. If there is a problem with the motor and it does not rotate smoothly Replace rear wiper motor. Before installing the rear wiper arm, operate the rear wiper motor to the automatic stop position. Connect the coupler.",
       "refs": [
         {
           "id": "R000735",
           "label": "Replace rear wiper motor.",
           "resolved": true
         }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Between No.2 and No.3 terminals"
+          },
+          {
+            "text": "Confirm that continuity is repeated during motor rotation."
+          }
+        ]
       ]
     },
     {

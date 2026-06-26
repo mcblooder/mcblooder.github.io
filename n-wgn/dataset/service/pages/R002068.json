@@ -86,7 +86,54 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Measure the resistance between the No. 2 and No. 3 terminals of the HFT switch 4P coupler in each position. position Resistance value I'm not pressing anything. Approx. 10kΩ speech switch Approx. 2.2kΩ Off Hook Switch Approx. 222Ω On hook/cancel switch Approx. 47Ω If it is out of the standard value, replace the HFT switch."
+      "text": "Measure the resistance between the No. 2 and No. 3 terminals of the HFT switch 4P coupler in each position. If it is out of the standard value, replace the HFT switch."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "position",
+            "header": true
+          },
+          {
+            "text": "Resistance value",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "I'm not pressing anything."
+          },
+          {
+            "text": "Approx. 10kΩ"
+          }
+        ],
+        [
+          {
+            "text": "speech switch"
+          },
+          {
+            "text": "Approx. 2.2kΩ"
+          }
+        ],
+        [
+          {
+            "text": "Off Hook Switch"
+          },
+          {
+            "text": "Approx. 222Ω"
+          }
+        ],
+        [
+          {
+            "text": "On hook/cancel switch"
+          },
+          {
+            "text": "Approx. 47Ω"
+          }
+        ]
+      ]
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002068_jpn/web/html/R002068_jpn_Content.html",

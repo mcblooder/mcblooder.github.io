@@ -35,11 +35,6 @@
       "id": "R000659",
       "label": "Left rear wheel removal",
       "resolved": true
-    },
-    {
-      "id": "R000477",
-      "label": "When connecting the fuel filler tube and breather tube, pay attention to the direction and position of the clamps.",
-      "resolved": true
     }
   ],
   "blocks": [
@@ -157,14 +152,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Installation is the reverse of the removal procedure.",
-      "refs": [
-        {
-          "id": "R000477",
-          "label": "When connecting the fuel filler tube and breather tube, pay attention to the direction and position of the clamps.",
-          "resolved": true
-        }
-      ]
+      "text": "Installation is the reverse of the removal procedure."
     },
     {
       "type": "attention",

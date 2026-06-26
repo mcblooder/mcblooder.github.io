@@ -16,7 +16,88 @@
   ],
   "assetDir": "assets/T001653",
   "assets": [],
-  "crossRefs": [],
+  "crossRefs": [
+    {
+      "id": "T001662",
+      "label": "B0001-11",
+      "resolved": false
+    },
+    {
+      "id": "T001664",
+      "label": "B0001-12",
+      "resolved": false
+    },
+    {
+      "id": "T001666",
+      "label": "B0001-13",
+      "resolved": false
+    },
+    {
+      "id": "T001667",
+      "label": "B0001-1A",
+      "resolved": false
+    },
+    {
+      "id": "T001670",
+      "label": "B0010-13",
+      "resolved": false
+    },
+    {
+      "id": "T001671",
+      "label": "B0010-1A",
+      "resolved": false
+    },
+    {
+      "id": "T001691",
+      "label": "B0070-11",
+      "resolved": false
+    },
+    {
+      "id": "T001693",
+      "label": "B0070-12",
+      "resolved": false
+    },
+    {
+      "id": "T001695",
+      "label": "B0070-13",
+      "resolved": false
+    },
+    {
+      "id": "T001696",
+      "label": "B0070-1A",
+      "resolved": false
+    },
+    {
+      "id": "T001699",
+      "label": "B0072-13",
+      "resolved": false
+    },
+    {
+      "id": "T001700",
+      "label": "B0072-1A",
+      "resolved": false
+    },
+    {
+      "id": "T002153",
+      "label": "B0094-4A",
+      "resolved": false
+    },
+    {
+      "id": "T002154",
+      "label": "B0094-87",
+      "resolved": false
+    },
+    {
+      "id": "T001715",
+      "label": "B2800-49",
+      "resolved": false
+    },
+    {
+      "id": "T001716",
+      "label": "B2840-13",
+      "resolved": false
+    }
+  ],
   "blocks": [
     {
       "type": "heading",
@@ -27,7 +108,385 @@
       "type": "table",
       "rows": [
         [
-          "When checking the manufacturer name of the SRS unit, use HDS to check the ECU manufacturer displayed in the data list."
+          {
+            "text": "DTC",
+            "header": true
+          },
+          {
+            "text": "Failure detection items",
+            "colspan": 2,
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "B0001-11",
+            "refs": [
+              {
+                "id": "T001662",
+                "label": "B0001-11",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Driver's airbag deployment circuit 1"
+          },
+          {
+            "text": "body short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0001-12",
+            "refs": [
+              {
+                "id": "T001664",
+                "label": "B0001-12",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Power supply short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0001-13",
+            "refs": [
+              {
+                "id": "T001666",
+                "label": "B0001-13",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Increased resistance or disconnection"
+          }
+        ],
+        [
+          {
+            "text": "B0001-1A",
+            "refs": [
+              {
+                "id": "T001667",
+                "label": "B0001-1A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Resistance decrease or short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0010-11",
+            "refs": [
+              {
+                "id": "T001662",
+                "label": "B0010-11",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Front-passenger airbag deployment circuit 1"
+          },
+          {
+            "text": "body short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0010-12",
+            "refs": [
+              {
+                "id": "T001664",
+                "label": "B0010-12",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Power supply short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0010-13",
+            "refs": [
+              {
+                "id": "T001670",
+                "label": "B0010-13",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Increased resistance or disconnection"
+          }
+        ],
+        [
+          {
+            "text": "B0010-1A",
+            "refs": [
+              {
+                "id": "T001671",
+                "label": "B0010-1A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Resistance decrease or short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0070-11",
+            "refs": [
+              {
+                "id": "T001691",
+                "label": "B0070-11",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Driver's seat belt pretensioner deployment circuit"
+          },
+          {
+            "text": "body short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0070-12",
+            "refs": [
+              {
+                "id": "T001693",
+                "label": "B0070-12",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Power supply short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0070-13",
+            "refs": [
+              {
+                "id": "T001695",
+                "label": "B0070-13",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Increased resistance or disconnection"
+          }
+        ],
+        [
+          {
+            "text": "B0070-1A",
+            "refs": [
+              {
+                "id": "T001696",
+                "label": "B0070-1A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Resistance decrease or short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0072-11",
+            "refs": [
+              {
+                "id": "T001691",
+                "label": "B0072-11",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Passenger seat belt pretensioner deployment circuit"
+          },
+          {
+            "text": "body short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0072-12",
+            "refs": [
+              {
+                "id": "T001693",
+                "label": "B0072-12",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Power supply short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0072-13",
+            "refs": [
+              {
+                "id": "T001699",
+                "label": "B0072-13",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Increased resistance or disconnection"
+          }
+        ],
+        [
+          {
+            "text": "B0072-1A",
+            "refs": [
+              {
+                "id": "T001700",
+                "label": "B0072-1A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Resistance decrease or short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0094-4A",
+            "refs": [
+              {
+                "id": "T002153",
+                "label": "B0094-4A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Front Impact Sensor Circuit"
+          },
+          {
+            "text": "Front Internal failure of sensor"
+          }
+        ],
+        [
+          {
+            "text": "B0094-87",
+            "refs": [
+              {
+                "id": "T002154",
+                "label": "B0094-87",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Signal system anomalies"
+          }
+        ],
+        [
+          {
+            "text": "B0094-92",
+            "refs": [
+              {
+                "id": "T002153",
+                "label": "B0094-92",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Output abnormal"
+          }
+        ],
+        [
+          {
+            "text": "B2800-49",
+            "refs": [
+              {
+                "id": "T001715",
+                "label": "B2800-49",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Internal failure of SRS unit",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "B2840-13",
+            "refs": [
+              {
+                "id": "T001716",
+                "label": "B2840-13",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "SRS unit Coupler A Poor connection",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "B2841-13",
+            "refs": [
+              {
+                "id": "T001716",
+                "label": "B2841-13",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "SRS unit Coupler B Poor connection",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "U3000-49",
+            "refs": [
+              {
+                "id": "T001715",
+                "label": "U3000-49",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Internal failure of SRS unit",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "When checking the manufacturer name of the SRS unit, use HDS to check the ECU manufacturer displayed in the data list.",
+            "colspan": 3
+          }
         ]
       ]
     }

@@ -60,7 +60,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the coupler from the air mix motor. Confirm that the motor operates on the COOL side when the positive (+) terminal of the 12V battery is connected to the No. 4 terminal of the air mix motor and the negative (-) terminal to the No. 5 terminal. (When connected in reverse, the motor should operate in the HOT side.) Confirm that the resistance between No.1 and No.3 terminals is the following value Std. 4.2－7.8kΩ Connect the coupler to the air mix motor. Turn ignition to ON mode. Verify that the voltage between the No. 1 and No. 2 terminals is the following value When MAX HOT: 1 Approx. 4.0V At MAX COOL: (at the time of Approx. 1.0V If the motor does not operate in step 2, remove the air mix motor and check that the damper linkage operates smoothly. If the damper linkage operates smoothly, Replace air mix motor.",
+      "text": "Disconnect the coupler from the air mix motor."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Confirm that the motor operates on the COOL side when the positive (+) terminal of the 12V battery is connected to the No. 4 terminal of the air mix motor and the negative (-) terminal to the No. 5 terminal. (When connected in reverse, the motor should operate in the HOT side.) Confirm that the resistance between No.1 and No.3 terminals is the following value Connect the coupler to the air mix motor. Turn ignition to ON mode. Verify that the voltage between the No. 1 and No. 2 terminals is the following value If the motor does not operate in step 2, remove the air mix motor and check that the damper linkage operates smoothly. If the damper linkage operates smoothly, Replace air mix motor.",
       "refs": [
         {
           "id": "R000893",
@@ -73,6 +78,40 @@
       "type": "attention",
       "items": [
         "Disconnect the 12V battery immediately after the motor stops running."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "4.2－7.8kΩ"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "When MAX HOT: 1"
+          },
+          {
+            "text": "Approx. 4.0V"
+          }
+        ],
+        [
+          {
+            "text": "At MAX COOL: (at the time of"
+          },
+          {
+            "text": "Approx. 1.0V"
+          }
+        ]
       ]
     },
     {

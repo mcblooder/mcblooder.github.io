@@ -64,7 +64,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Measure the wear and taper of the cylinder block bore. Measure 3 locations each in the X and Y directions. Cylinder Block I.D. Std. X direction 64.000－64.020mm Y direction 64.000－64.015mm Limit value: 1 X direction 64.065mm Y direction 64.065mm Difference between upper and lower I.D. Limit value: 1 0.05mm"
+      "text": "Measure the wear and taper of the cylinder block bore."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Measure 3 locations each in the X and Y directions."
     },
     {
       "type": "attention",
@@ -74,21 +79,65 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not scratch or dent the gasket mating surface of the cylinder block."
-        },
-        {
-          "text": "Do not scratch or dent the gasket mating surface of the cylinder block."
-        },
-        {
-          "text": "If the limit value is exceeded, the cylinder block should be replaced."
-        },
-        {
-          "text": "If the limit value is exceeded, the cylinder block should be replaced."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "X direction"
+          },
+          {
+            "text": "64.000－64.020mm"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Y direction"
+          },
+          {
+            "text": "64.000－64.015mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "X direction"
+          },
+          {
+            "text": "64.065mm"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Y direction"
+          },
+          {
+            "text": "64.065mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.05mm"
+          }
+        ]
       ]
     },
     {
@@ -102,12 +151,25 @@
     {
       "type": "step",
       "number": "3",
-      "text": "Measure the strain on the cylinder block. Cylinder block strain Std. 0.07mm or less"
+      "text": "Measure the strain on the cylinder block."
     },
     {
       "type": "attention",
       "items": [
         "If the strain is greater than the standard value, the cylinder block should be replaced."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.07mm or less"
+          }
+        ]
       ]
     },
     {
@@ -126,12 +188,59 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Inspect pistons for strains and cracks and replace if necessary. Measure the outside diameter (A) of the piston. Piston skirt outer diameter Std. 63.970－63.977mm Limit value: 1 63.97mm Clearance with cylinder block bore (Y-direction) Std. 0.023－0.045mm Limit value: 1 0.055mm"
+      "text": "Inspect pistons for strains and cracks and replace if necessary."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Measure the outside diameter (A) of the piston."
     },
     {
       "type": "attention",
       "items": [
         "If it is below the limit value, the piston should be replaced."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "63.970－63.977mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "63.97mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.023－0.045mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.055mm"
+          }
+        ]
       ]
     },
     {

@@ -63,13 +63,18 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Turn the VTC actuator to the left or right and confirm that it is locked. Cover the VTC slow angle hole (A) on the intake camshaft with vinyl tape and secure with tie wrap."
+      "text": "Turn the VTC actuator to the left or right and confirm that it is locked."
     },
     {
       "type": "attention",
       "items": [
         "If the VTC actuator is not locked, the VTC actuator shall be replaced."
       ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Cover the VTC slow angle hole (A) on the intake camshaft with vinyl tape and secure with tie wrap."
     },
     {
       "type": "figure",

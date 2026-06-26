@@ -82,7 +82,59 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Inspect the thickness (C) of the inner pad (A) and outer pad (B). Pad thickness Std. 12-inch brake spec. vehicle: 12-inch brake spec. vehicle: 12-inch brake spec. vehicle 8.5mm 13\" brake spec. car:. 9.5mm Limit value: 1 1.6mm The backing plate is not included in the thickness. If it is below the use limit value, replace the inner and outer pads as a set."
+      "text": "Inspect the thickness (C) of the inner pad (A) and outer pad (B). The backing plate is not included in the thickness. If it is below the use limit value, replace the inner and outer pads as a set."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Pad thickness",
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Std.",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": "12-inch brake spec. vehicle: 12-inch brake spec. vehicle: 12-inch brake spec. vehicle"
+          },
+          {
+            "text": "8.5mm"
+          }
+        ],
+        [
+          {
+            "text": "13\" brake spec. car:."
+          },
+          {
+            "text": "9.5mm"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Limit value: 1",
+            "colspan": 2
+          },
+          {
+            "text": "1.6mm"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",

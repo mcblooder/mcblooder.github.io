@@ -140,12 +140,33 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Using a Thickness Gauge, measure the axial girth at the large end of the connecting rod. Connecting rod large end axial misalignment Std. 0.2－0.4mm Limit value: 1 0.5mm"
+      "text": "Using a Thickness Gauge, measure the axial girth at the large end of the connecting rod."
     },
     {
       "type": "attention",
       "items": [
         "If the limit value is exceeded, replace the connecting rod and re-inspect. If the limit value is still exceeded at the re-inspection, replace the crankshaft."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.2－0.4mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.5mm"
+          }
+        ]
       ]
     },
     {

@@ -93,24 +93,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not use air or cleaning fluids after disconnecting."
-        },
-        {
-          "text": "Do not use air or cleaning fluids after disconnecting."
-        },
-        {
-          "text": "Seal connections with sealing plugs or vinyl tape."
-        },
-        {
-          "text": "Seal connections with sealing plugs or vinyl tape."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "5. Expansion valve removal"

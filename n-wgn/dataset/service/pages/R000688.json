@@ -94,30 +94,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "When securing the caliper, be very careful not to damage other parts."
-        },
-        {
-          "text": "When securing the caliper, be very careful not to damage other parts."
-        },
-        {
-          "text": "Do not suspend the caliper by the brake hose."
-        },
-        {
-          "text": "Do not suspend the caliper by the brake hose."
-        },
-        {
-          "text": "Do not forcefully twist the brake hose."
-        },
-        {
-          "text": "Do not forcefully twist the brake hose."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "4. Brake disc removal"

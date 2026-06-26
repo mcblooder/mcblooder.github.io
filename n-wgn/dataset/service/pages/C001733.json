@@ -39,27 +39,51 @@
       "type": "table",
       "rows": [
         [
-          "(data) item",
-          "form (something takes)"
+          {
+            "text": "(data) item",
+            "header": true
+          },
+          {
+            "text": "form (something takes)",
+            "header": true
+          }
         ],
         [
-          "Front Brake",
-          "12\" solid disc brakes or 13\" ventilated disc brakes"
+          {
+            "text": "Front Brake"
+          },
+          {
+            "text": "12\" solid disc brakes or 13\" ventilated disc brakes"
+          }
         ],
         [
-          "Rear brake",
-          "Φ180mm drum brake"
+          {
+            "text": "Rear brake"
+          },
+          {
+            "text": "Φ180mm drum brake"
+          }
         ],
         [
-          "Parking Brake",
-          "foot-operated"
+          {
+            "text": "Parking Brake"
+          },
+          {
+            "text": "foot-operated"
+          }
         ],
         [
-          "Rear brake common type"
+          {
+            "text": "Rear brake common type"
+          }
         ],
         [
-          "Master Power/Master Cylinder",
-          "8-inch single type, vacuum double power type"
+          {
+            "text": "Master Power/Master Cylinder"
+          },
+          {
+            "text": "8-inch single type, vacuum double power type"
+          }
         ]
       ]
     },

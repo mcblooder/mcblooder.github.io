@@ -269,34 +269,7 @@
     {
       "type": "step",
       "number": "",
-      "text": "1. Turn the POWER switch to the OFF mode, disconnect the negative (-) terminal of the 12V battery, and let it stand for at least 3 minutes. 2. Disconnect the coupler connections on the yellow, green with yellow cover or gray with yellow cover of the deployment processing parts. 3. Cut the cord of the deployed processing part in front of the coupler, peel off about 15 mm of the sheath, and fit it together (A). The same applies to passenger airbags, seat belt pretensioners, side airbags, and side curtain airbags. When using deployment tools 4. Unscrew the cords of the deployment processing parts and connect the yellow alligator clips (A) of the deployment tool to each of the cords. If you do not use deployment tools 5. Untangle the cords of the deployed part, connect the untangled side of the vinyl parallel wire to the deployed part, and cover it with insulation tape (A). When using deployment tools 6. Release the pinch points of the alligator clip red positive (+) terminal (A) and black negative (-) terminal (B) for the power supply, connect the alligator clips to the 12V battery terminal (C) respectively, check that the red light comes on, and press the activation switch (D) to deploy the airbag. If you do not use deployment tools 7. Untangle the 12V battery side vinyl parallel wires (A), connect them to the 12V battery terminals (B), respectively, and deploy the airbag. 8. Allow the airbag to cool for at least 30 minutes after activation. After leaving the airbag in place, push the driver's airbag back into its original position and hold it in place with duct tape (for easier driving when moving the vehicle). (To make it easier to drive when moving the vehicle.) 9. Discard (scrap) while still attached to the vehicle.",
-      "refs": [
-        {
-          "id": "R001640",
-          "label": "Driver's seat airbag",
-          "resolved": true
-        },
-        {
-          "id": "R001641",
-          "label": "Passenger seat airbag",
-          "resolved": true
-        },
-        {
-          "id": "R000807",
-          "label": "Seat belt pretensioner",
-          "resolved": true
-        },
-        {
-          "id": "R001642",
-          "label": "Side Airbags",
-          "resolved": true
-        },
-        {
-          "id": "R001643",
-          "label": "Side curtains Airbags",
-          "resolved": true
-        }
-      ]
+      "text": "1. Turn the POWER switch to the OFF mode, disconnect the negative (-) terminal of the 12V battery, and let it stand for at least 3 minutes. 2. Disconnect the coupler connections on the yellow, green with yellow cover or gray with yellow cover of the deployment processing parts. When using deployment tools If you do not use deployment tools When using deployment tools If you do not use deployment tools"
     },
     {
       "type": "list",
@@ -355,20 +328,45 @@
       ]
     },
     {
+      "type": "step",
+      "number": "",
+      "text": "3. Cut the cord of the deployed processing part in front of the coupler, peel off about 15 mm of the sheath, and fit it together (A). The same applies to passenger airbags, seat belt pretensioners, side airbags, and side curtain airbags."
+    },
+    {
       "type": "figure",
       "asset": "326_3.0_jpn_11583255_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "4. Unscrew the cords of the deployment processing parts and connect the yellow alligator clips (A) of the deployment tool to each of the cords."
     },
     {
       "type": "figure",
       "asset": "326_3.0_jpn_11583256_3.0_disp.png"
     },
     {
+      "type": "step",
+      "number": "",
+      "text": "5. Untangle the cords of the deployed part, connect the untangled side of the vinyl parallel wire to the deployed part, and cover it with insulation tape (A)."
+    },
+    {
       "type": "figure",
       "asset": "326_3.0_jpn_11583257_3.0_disp.png"
     },
     {
+      "type": "step",
+      "number": "",
+      "text": "6. Release the pinch points of the alligator clip red positive (+) terminal (A) and black negative (-) terminal (B) for the power supply, connect the alligator clips to the 12V battery terminal (C) respectively, check that the red light comes on, and press the activation switch (D) to deploy the airbag."
+    },
+    {
       "type": "figure",
       "asset": "326_3.0_jpn_11583258_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "7. Untangle the 12V battery side vinyl parallel wires (A), connect them to the 12V battery terminals (B), respectively, and deploy the airbag. 8. Allow the airbag to cool for at least 30 minutes after activation. After leaving the airbag in place, push the driver's airbag back into its original position and hold it in place with duct tape (for easier driving when moving the vehicle). (To make it easier to drive when moving the vehicle.) 9. Discard (scrap) while still attached to the vehicle."
     },
     {
       "type": "figure",
@@ -377,34 +375,7 @@
     {
       "type": "step",
       "number": "",
-      "text": "1. Provide a deployable driver/front passenger airbag, seat belt pretensioner, and side airbags or side curtain airbags. How to remove from the vehicle When deploying the side curtain airbag, the airbag should be cut off 10 cm in front of the inflator. 2. One set of two tires without wheels (A), and one set of tires with wheels (B) and one set of tires without wheels (C), each of which is connected to an automotive wire harness (core wire cross-sectional area 1.25 mm) 2 (or more) or wire (D) with a wire diameter of 1.2 mm or more, wrapped and tied in two or more layers. 3. Driver airbag (A), passenger airbag (B), seat belt pretensioner (C), side airbag (D), and side curtain airbag (E) to be deployed and processed inside one wheel-less tire are connected to an automotive wire harness (core wire cross-sectional area 1.25 mm) as shown in the figure. 2 (or more) or wire (F) with a wire diameter of 1.2 mm or more, triple wrapped and tied to secure. Fix the tire so that the pad surface (deployed side) faces the center of the tire. 4. Place one set of two wheel-less tires (A) on a flat surface, and place the tire (B) with the deployment processing parts set on top of it. 5. Cut the harness of the deployed part in front of the coupler, peel off about 15 mm of the sheath, and align the parts that have been stripped of their sheath (C). When using deployment tools 6. Unscrew the cords of the deployment processing parts and connect the yellow alligator clips (A) of the deployment tool to each of the cords. If you do not use deployment tools 7. Untangle the cords of the parts to be deployed, connect the untangled end of the vinyl parallels to the part to be deployed, and cover with insulation tape (A). 8. Stack the tire with wheeled tire set on top of the tire with the deployment processing parts secured, and bind it to the set of wheel-less tires on the underside. When using deployment tools 9. Release the pinch points of the alligator clip red positive (+) terminal (A) and black negative (-) terminal (B) for the power supply, connect the alligator clips to the 12V battery terminal (C) respectively, check that the red light comes on, and then press the activation switch (D) to deploy the airbag, etc. Press the activation switch (D) to deploy the airbag, etc. If you do not use deployment tools 10. Untangle the 12V battery side vinyl parallel wires (A), connect them to the 12V battery terminals (B), respectively, and deploy the airbag. 11. Allow to cool for at least 30 minutes after operation. 12. Place the activated (deployed) airbags, etc. (A) in a sturdy plastic bag (B), seal it, and dispose of it.",
-      "refs": [
-        {
-          "id": "R001640",
-          "label": "Driver's seat airbag",
-          "resolved": true
-        },
-        {
-          "id": "R001641",
-          "label": "Passenger seat airbag",
-          "resolved": true
-        },
-        {
-          "id": "R000807",
-          "label": "Seat belt pretensioner",
-          "resolved": true
-        },
-        {
-          "id": "R001642",
-          "label": "Side Airbags",
-          "resolved": true
-        },
-        {
-          "id": "R001643",
-          "label": "Side curtains Airbags",
-          "resolved": true
-        }
-      ]
+      "text": "1. Provide a deployable driver/front passenger airbag, seat belt pretensioner, and side airbags or side curtain airbags. How to remove from the vehicle When deploying the side curtain airbag, the airbag should be cut off 10 cm in front of the inflator. When using deployment tools If you do not use deployment tools 8. Stack the tire with wheeled tire set on top of the tire with the deployment processing parts secured, and bind it to the set of wheel-less tires on the underside. When using deployment tools If you do not use deployment tools"
     },
     {
       "type": "list",
@@ -463,20 +434,45 @@
       ]
     },
     {
+      "type": "step",
+      "number": "",
+      "text": "2. One set of two tires without wheels (A), and one set of tires with wheels (B) and one set of tires without wheels (C), each of which is connected to an automotive wire harness (core wire cross-sectional area 1.25 mm) 2 (or more) or wire (D) with a wire diameter of 1.2 mm or more, wrapped and tied in two or more layers."
+    },
+    {
       "type": "figure",
       "asset": "326_3.0_jpn_11583260_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "3. Driver airbag (A), passenger airbag (B), seat belt pretensioner (C), side airbag (D), and side curtain airbag (E) to be deployed and processed inside one wheel-less tire are connected to an automotive wire harness (core wire cross-sectional area 1.25 mm) as shown in the figure. 2 (or more) or wire (F) with a wire diameter of 1.2 mm or more, triple wrapped and tied to secure. Fix the tire so that the pad surface (deployed side) faces the center of the tire."
     },
     {
       "type": "figure",
       "asset": "326_3.0_jpn_11588364_2.0_disp.png"
     },
     {
+      "type": "step",
+      "number": "",
+      "text": "4. Place one set of two wheel-less tires (A) on a flat surface, and place the tire (B) with the deployment processing parts set on top of it. 5. Cut the harness of the deployed part in front of the coupler, peel off about 15 mm of the sheath, and align the parts that have been stripped of their sheath (C)."
+    },
+    {
       "type": "figure",
       "asset": "326_3.0_jpn_11583262_3.0_disp.png"
     },
     {
+      "type": "step",
+      "number": "",
+      "text": "6. Unscrew the cords of the deployment processing parts and connect the yellow alligator clips (A) of the deployment tool to each of the cords."
+    },
+    {
       "type": "figure",
       "asset": "326_3.0_jpn_11583263_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "7. Untangle the cords of the parts to be deployed, connect the untangled end of the vinyl parallels to the part to be deployed, and cover with insulation tape (A)."
     },
     {
       "type": "figure",
@@ -501,12 +497,27 @@
       ]
     },
     {
+      "type": "step",
+      "number": "",
+      "text": "9. Release the pinch points of the alligator clip red positive (+) terminal (A) and black negative (-) terminal (B) for the power supply, connect the alligator clips to the 12V battery terminal (C) respectively, check that the red light comes on, and then press the activation switch (D) to deploy the airbag, etc. Press the activation switch (D) to deploy the airbag, etc."
+    },
+    {
       "type": "figure",
       "asset": "326_3.0_jpn_11583265_3.0_disp.png"
     },
     {
+      "type": "step",
+      "number": "",
+      "text": "10. Untangle the 12V battery side vinyl parallel wires (A), connect them to the 12V battery terminals (B), respectively, and deploy the airbag. 11. Allow to cool for at least 30 minutes after operation."
+    },
+    {
       "type": "figure",
       "asset": "326_3.0_jpn_11583266_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "12. Place the activated (deployed) airbags, etc. (A) in a sturdy plastic bag (B), seal it, and dispose of it."
     },
     {
       "type": "attention",
@@ -514,21 +525,6 @@
         "Always wear protective goggles and gloves (vinyl or rubber) when handling deployed airbags.",
         "Always wash hands after work is completed. ​",
         "Dispose of the product in accordance with each prefectural ordinance. ​"
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Always wear protective goggles and gloves (vinyl or rubber) when handling deployed airbags."
-        },
-        {
-          "text": "Always wash hands after work is completed. ​"
-        },
-        {
-          "text": "Dispose of the product in accordance with each prefectural ordinance. ​"
-        }
       ]
     },
     {

@@ -58,7 +58,50 @@
       "type": "table",
       "rows": [
         [
-          "D/C: Drive Cycle"
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "Once during D/C"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "State in which P0404 and P2413 are determined to be normal"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "At least 3.5 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, running, out of condition"
+          }
+        ],
+        [
+          {
+            "text": "D/C: Drive Cycle",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -71,7 +114,106 @@
       "type": "table",
       "rows": [
         [
-          "[ ]: HDS Parameters"
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Engine coolant temperature [Water temperature sensor]"
+          },
+          {
+            "text": "69℃"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine speed [engine rpm]."
+          },
+          {
+            "text": "1,100rpm"
+          },
+          {
+            "text": "4,000rpm"
+          }
+        ],
+        [
+          {
+            "text": "Engine Intake Air Pressure [Intake air pressure sensor]"
+          },
+          {
+            "text": "14kPa(100mmHg)"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Vehicle speed [vehicle speed]."
+          },
+          {
+            "text": "41km/h"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "12V battery voltage [battery voltage]"
+          },
+          {
+            "text": "10.5V"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "throttle position"
+          },
+          {
+            "text": "Totally closed",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Air-fuel ratio feedback control"
+          },
+          {
+            "text": "At fully closed throttle deceleration",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "P0010､ P0011､ P0102､ P0103､ P0107､ P0108､ P0112､ P0113､ P0117､ P0118､ P0122､ P0123､ P0134､ P0135､ P0201､ P0202､ P0203､ P0222､ P0223､ P0300､ P0301､ P0302､ P0303､ P0335､ P0339､ P0341､ P0351､ P0352､ P0353､ P0404､ P0406､ P0443､ P0502､ P060A､ P1009､ P1157､ P1659､ P2101､ P2118､ P2122､ P2123､ P2127､ P2128､ P2135､ P2138､ P2176､ P21CF､ P21D0､ P21D1､ P2228､ P2229､ P2238､ P2252､ P2413",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "[ ]: HDS Parameters",
+            "colspan": 3
+          }
         ]
       ]
     },
@@ -92,22 +234,47 @@
       "type": "table",
       "rows": [
         [
-          "Engine RPM [Engine RPM]",
-          "atmospheric pressure"
+          {
+            "text": "Engine RPM [Engine RPM]",
+            "header": true
+          },
+          {
+            "text": "atmospheric pressure",
+            "colspan": 2,
+            "header": true
+          }
         ],
         [
-          "52kPa(390mmHg)",
-          "101kPa(760mmHg)"
+          {
+            "text": "52kPa(390mmHg)",
+            "header": true
+          },
+          {
+            "text": "101kPa(760mmHg)",
+            "header": true
+          }
         ],
         [
-          "1,500rpm",
-          "16kPa(126mmHg)",
-          "37kPa(281mmHg)"
+          {
+            "text": "1,500rpm"
+          },
+          {
+            "text": "16kPa(126mmHg)"
+          },
+          {
+            "text": "37kPa(281mmHg)"
+          }
         ],
         [
-          "3,000rpm",
-          "7kPa(55mmHg)",
-          "14kPa(109mmHg)"
+          {
+            "text": "3,000rpm"
+          },
+          {
+            "text": "7kPa(55mmHg)"
+          },
+          {
+            "text": "14kPa(109mmHg)"
+          }
         ]
       ]
     },

@@ -153,12 +153,22 @@
       "type": "table",
       "rows": [
         [
-          "Measuring pressure",
-          "Standard value kPa (kgf/cm) 2 ）"
+          {
+            "text": "Measuring pressure",
+            "header": true
+          },
+          {
+            "text": "Standard value kPa (kgf/cm) 2 ）",
+            "header": true
+          }
         ],
         [
-          "Drive pulley pressure",
-          "594－986（6.1－10.1）"
+          {
+            "text": "Drive pulley pressure"
+          },
+          {
+            "text": "594－986（6.1－10.1）"
+          }
         ]
       ]
     },
@@ -166,12 +176,22 @@
       "type": "table",
       "rows": [
         [
-          "Measuring pressure",
-          "Standard value kPa (kgf/cm) 2 ）"
+          {
+            "text": "Measuring pressure",
+            "header": true
+          },
+          {
+            "text": "Standard value kPa (kgf/cm) 2 ）",
+            "header": true
+          }
         ],
         [
-          "Drive pulley pressure",
-          "590－982（6.0－10.0）"
+          {
+            "text": "Drive pulley pressure"
+          },
+          {
+            "text": "590－982（6.0－10.0）"
+          }
         ]
       ]
     },
@@ -179,9 +199,30 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "",
-          "Drive Pulley Control SOL.V."
+          {
+            "text": "failure phenomenon",
+            "header": true
+          },
+          {
+            "text": "Estimated Failure Location",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "No or low drive pulley pressure"
+          },
+          {
+            "text": "Oil pumps PH regulator valve DR Control Valve Clutch Reducing Valve Drive Pulley Control SOL.V."
+          }
+        ],
+        [
+          {
+            "text": "High drive pulley pressure"
+          },
+          {
+            "text": "PH regulator valve DR Control Valve Clutch Reducing Valve Drive Pulley Control SOL.V."
+          }
         ]
       ]
     },
@@ -217,12 +258,22 @@
       "type": "table",
       "rows": [
         [
-          "Measuring pressure",
-          "Standard value kPa (kgf/cm) 2 ）"
+          {
+            "text": "Measuring pressure",
+            "header": true
+          },
+          {
+            "text": "Standard value kPa (kgf/cm) 2 ）",
+            "header": true
+          }
         ],
         [
-          "Driven Puli Pressure",
-          "754－1,146（7.7－11.7）"
+          {
+            "text": "Driven Puli Pressure"
+          },
+          {
+            "text": "754－1,146（7.7－11.7）"
+          }
         ]
       ]
     },
@@ -230,12 +281,22 @@
       "type": "table",
       "rows": [
         [
-          "Measuring pressure",
-          "Standard value kPa (kgf/cm) 2 ）"
+          {
+            "text": "Measuring pressure",
+            "header": true
+          },
+          {
+            "text": "Standard value kPa (kgf/cm) 2 ）",
+            "header": true
+          }
         ],
         [
-          "Driven Puli Pressure",
-          "741－1,134（7.6－11.6）"
+          {
+            "text": "Driven Puli Pressure"
+          },
+          {
+            "text": "741－1,134（7.6－11.6）"
+          }
         ]
       ]
     },
@@ -243,9 +304,30 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "",
-          "Drive Pulley Control SOL.V."
+          {
+            "text": "failure phenomenon",
+            "header": true
+          },
+          {
+            "text": "Estimated Failure Location",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Driven No or low pulley pressure"
+          },
+          {
+            "text": "Oil pumps PH regulator valve DN Control Valve Clutch Reducing Valve Drive Pulley Control SOL.V."
+          }
+        ],
+        [
+          {
+            "text": "Driven High pulley pressure"
+          },
+          {
+            "text": "PH regulator valve DN Control Valve Clutch Reducing Valve Drive Pulley Control SOL.V."
+          }
         ]
       ]
     },
@@ -275,12 +357,22 @@
       "type": "table",
       "rows": [
         [
-          "Measuring pressure",
-          "Standard value kPa (kgf/cm) 2 ）"
+          {
+            "text": "Measuring pressure",
+            "header": true
+          },
+          {
+            "text": "Standard value kPa (kgf/cm) 2 ）",
+            "header": true
+          }
         ],
         [
-          "Forward Clutch Pressure",
-          "760－961（7.8－9.8）"
+          {
+            "text": "Forward Clutch Pressure"
+          },
+          {
+            "text": "760－961（7.8－9.8）"
+          }
         ]
       ]
     },
@@ -288,12 +380,22 @@
       "type": "table",
       "rows": [
         [
-          "Measuring pressure",
-          "Standard value kPa (kgf/cm) 2 ）"
+          {
+            "text": "Measuring pressure",
+            "header": true
+          },
+          {
+            "text": "Standard value kPa (kgf/cm) 2 ）",
+            "header": true
+          }
         ],
         [
-          "Forward Clutch Pressure",
-          "598－794（6.1－8.1）"
+          {
+            "text": "Forward Clutch Pressure"
+          },
+          {
+            "text": "598－794（6.1－8.1）"
+          }
         ]
       ]
     },
@@ -301,9 +403,22 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "",
-          "Clutch Pressure Control SOL.V."
+          {
+            "text": "failure phenomenon",
+            "header": true
+          },
+          {
+            "text": "Estimated Failure Location",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Forward No or low clutch pressure"
+          },
+          {
+            "text": "Oil pumps Forward clutch Manual valve Back-up valve Clutch Reducing Valve PH regulator valve Clutch Pressure Control SOL.V."
+          }
         ]
       ]
     },
@@ -345,12 +460,22 @@
       "type": "table",
       "rows": [
         [
-          "Measuring pressure",
-          "Standard value kPa (kgf/cm) 2 ）"
+          {
+            "text": "Measuring pressure",
+            "header": true
+          },
+          {
+            "text": "Standard value kPa (kgf/cm) 2 ）",
+            "header": true
+          }
         ],
         [
-          "Reverse Clutch Pressure",
-          "943－1,139（9.6－11.6）"
+          {
+            "text": "Reverse Clutch Pressure"
+          },
+          {
+            "text": "943－1,139（9.6－11.6）"
+          }
         ]
       ]
     },
@@ -358,12 +483,22 @@
       "type": "table",
       "rows": [
         [
-          "Measuring pressure",
-          "Standard value kPa (kgf/cm) 2 ）"
+          {
+            "text": "Measuring pressure",
+            "header": true
+          },
+          {
+            "text": "Standard value kPa (kgf/cm) 2 ）",
+            "header": true
+          }
         ],
         [
-          "Reverse Clutch Pressure",
-          "738－934（7.5－9.5）"
+          {
+            "text": "Reverse Clutch Pressure"
+          },
+          {
+            "text": "738－934（7.5－9.5）"
+          }
         ]
       ]
     },
@@ -371,9 +506,22 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "",
-          "Clutch Pressure Control SOL.V."
+          {
+            "text": "failure phenomenon",
+            "header": true
+          },
+          {
+            "text": "Estimated Failure Location",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Reverse No or low clutch pressure"
+          },
+          {
+            "text": "Oil pumps Reverse clutch Manual valve Back-up valve Clutch Reducing Valve PH regulator valve Clutch Pressure Control SOL.V."
+          }
         ]
       ]
     },

@@ -38,16 +38,30 @@
       "type": "table",
       "rows": [
         [
-          "(data) item",
-          "form (something takes)"
+          {
+            "text": "(data) item",
+            "header": true
+          },
+          {
+            "text": "form (something takes)",
+            "header": true
+          }
         ],
         [
-          "Front Suspension",
-          "MacPherson strut type"
+          {
+            "text": "Front Suspension"
+          },
+          {
+            "text": "MacPherson strut type"
+          }
         ],
         [
-          "Rear Suspension",
-          "H-type torsion beam type"
+          {
+            "text": "Rear Suspension"
+          },
+          {
+            "text": "H-type torsion beam type"
+          }
         ]
       ]
     }

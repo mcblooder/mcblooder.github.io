@@ -47,7 +47,25 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the radiator cap. Fill the upper tank to the top with cooling water. Install the radiator cap tester adapter (ACKER-GP0-0110) and tester in the radiator cap opening. Pump up to the normal pressure value and inspect for leaks. Normal pressure: 0.5 to 1.0 MPa 94-122kPa (0.96－1.24kgf/cm 2 ) Radiator cap tester Remove the adapter and tester, and install the radiator cap."
+      "text": "Remove the radiator cap. Fill the upper tank to the top with cooling water."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Install the radiator cap tester adapter (ACKER-GP0-0110) and tester in the radiator cap opening. Pump up to the normal pressure value and inspect for leaks. Radiator cap tester Remove the adapter and tester, and install the radiator cap."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Normal pressure: 0.5 to 1.0 MPa"
+          },
+          {
+            "text": "94-122kPa (0.96－1.24kgf/cm 2 )"
+          }
+        ]
+      ]
     },
     {
       "type": "list",

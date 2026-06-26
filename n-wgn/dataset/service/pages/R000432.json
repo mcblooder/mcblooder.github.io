@@ -112,7 +112,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install the belt tension gauge (07JGG-0010101) and inspect the belt tension. Belt tension When belt is reused Reference value 245－343N (25－35kgf) When new belt is replaced:. Reference value 490－638N (50－65kgf)"
+      "text": "Install the belt tension gauge (07JGG-0010101) and inspect the belt tension."
     },
     {
       "type": "attention",
@@ -126,45 +126,36 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not rotate the crankshaft pulley during inspection."
-        },
-        {
-          "text": "Do not rotate the crankshaft pulley during inspection."
-        },
-        {
-          "text": "Always use a belt tension gauge."
-        },
-        {
-          "text": "Always use a belt tension gauge."
-        },
-        {
-          "text": "Refer to the instruction manual for the gauge for belt tension gauge usage."
-        },
-        {
-          "text": "Refer to the instruction manual for the gauge for belt tension gauge usage."
-        },
-        {
-          "text": "When installing, removing, and measuring belt tension gauges, as far as possible, the belt tension gauges should not be placed against any object other than the belt."
-        },
-        {
-          "text": "When installing, removing, and measuring belt tension gauges, as far as possible, the belt tension gauges should not be placed against any object other than the belt."
-        },
-        {
-          "text": "The reset button must not touch any other parts of the belt when it is removed from the belt."
-        },
-        {
-          "text": "The reset button must not touch any other parts of the belt when it is removed from the belt."
-        },
-        {
-          "text": "When a remote cable is used for measurement, it should be free from unreasonable bends."
-        },
-        {
-          "text": "When a remote cable is used for measurement, it should be free from unreasonable bends."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "When belt is reused",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Reference value"
+          },
+          {
+            "text": "245－343N (25－35kgf)"
+          }
+        ],
+        [
+          {
+            "text": "When new belt is replaced:.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Reference value"
+          },
+          {
+            "text": "490－638N (50－65kgf)"
+          }
+        ]
       ]
     },
     {
@@ -179,7 +170,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Inspect the amount of deflection when the center portion (A) between the pulleys is pressed with a force of 98 N (10 kgf). Belt deflection When belt is reused Reference value 8.5－9.5mm/98N (10kgf) When new belt is replaced:. Reference value 6－7mm/98N (10kgf)"
+      "text": "Inspect the amount of deflection when the center portion (A) between the pulleys is pressed with a force of 98 N (10 kgf)."
     },
     {
       "type": "attention",
@@ -189,21 +180,36 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not rotate the crankshaft pulley during inspection."
-        },
-        {
-          "text": "Do not rotate the crankshaft pulley during inspection."
-        },
-        {
-          "text": "Push-pull gauges should be used for measurement."
-        },
-        {
-          "text": "Push-pull gauges should be used for measurement."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "When belt is reused",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Reference value"
+          },
+          {
+            "text": "8.5－9.5mm/98N (10kgf)"
+          }
+        ],
+        [
+          {
+            "text": "When new belt is replaced:.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Reference value"
+          },
+          {
+            "text": "6－7mm/98N (10kgf)"
+          }
+        ]
       ]
     },
     {

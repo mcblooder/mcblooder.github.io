@@ -57,7 +57,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Check that the seat belt can be pulled out smoothly when installed in the vehicle. When the seat belt assy.(A) is gently folded down from the installation angle, check that it does not lock within 15° and that it remains locked at an angle of 40° or more."
+      "text": "Check that the seat belt can be pulled out smoothly when installed in the vehicle."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "When the seat belt assy.(A) is gently folded down from the installation angle, check that it does not lock within 15° and that it remains locked at an angle of 40° or more."
     },
     {
       "type": "attention",

@@ -30,11 +30,6 @@
       "id": "R000659",
       "label": "Front wheel removal",
       "resolved": true
-    },
-    {
-      "id": "R000665",
-      "label": "The lower arm shall be replaced.",
-      "resolved": true
     }
   ],
   "blocks": [
@@ -89,14 +84,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Inspect the mounting bolts, nuts, and bushings of suspension components to ensure that they are not loose, damaged, or deteriorated. Shake the lower arm end (A) up and down in small increments to inspect the ball joint for rattling (B). B in the illustration shows where rattling occurs in the ball joint.",
-      "refs": [
-        {
-          "id": "R000665",
-          "label": "The lower arm shall be replaced.",
-          "resolved": true
-        }
-      ]
+      "text": "Inspect the mounting bolts, nuts, and bushings of suspension components to ensure that they are not loose, damaged, or deteriorated."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Shake the lower arm end (A) up and down in small increments to inspect the ball joint for rattling (B). B in the illustration shows where rattling occurs in the ball joint."
     },
     {
       "type": "attention",

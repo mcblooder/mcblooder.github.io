@@ -44,14 +44,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Perform self-diagnosis of the combination meter.",
-      "refs": [
-        {
-          "id": "R001029",
-          "label": "Replace the combination meter.",
-          "resolved": true
-        }
-      ]
+      "text": "Perform self-diagnosis of the combination meter."
     },
     {
       "type": "list",
@@ -107,14 +100,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Select ''Test Mode Menu'' from the body electrical and check the DTC.",
-      "refs": [
-        {
-          "id": "R000480",
-          "label": "Inspect the fuel sender unit.",
-          "resolved": true
-        }
-      ]
+      "text": "Select ''Test Mode Menu'' from the body electrical and check the DTC."
     },
     {
       "type": "list",

@@ -27,189 +27,456 @@
       "type": "table",
       "rows": [
         [
-          "(data) item",
-          "nickname",
-          "N WGN"
+          {
+            "text": "(data) item",
+            "colspan": 2
+          },
+          {
+            "text": "nickname"
+          },
+          {
+            "text": "N WGN",
+            "colspan": 2
+          }
         ],
         [
-          "type",
-          "N-WGN",
-          "N-WGN Custom"
+          {
+            "text": "type"
+          },
+          {
+            "text": "N-WGN"
+          },
+          {
+            "text": "N-WGN Custom"
+          }
         ],
         [
-          "G",
-          "G"
+          {
+            "text": "G"
+          },
+          {
+            "text": "G"
+          }
         ],
         [
-          "engine",
-          "S07A water-cooled 3-cylinder transversely mounted 0.658L DOHC (PGM-FI)",
-          "◎",
-          "◎"
+          {
+            "text": "engine"
+          },
+          {
+            "text": "S07A water-cooled 3-cylinder transversely mounted 0.658L DOHC (PGM-FI)",
+            "colspan": 2
+          },
+          {
+            "text": "◎"
+          },
+          {
+            "text": "◎"
+          }
         ],
         [
-          "S07A water-cooled 3-cylinder transversely mounted 0.658L DOHC (PGM-FI) + Intercooler Turbo",
-          "◎",
-          "◎"
+          {
+            "text": "S07A water-cooled 3-cylinder transversely mounted 0.658L DOHC (PGM-FI) + Intercooler Turbo",
+            "colspan": 2
+          },
+          {
+            "text": "◎"
+          },
+          {
+            "text": "◎"
+          }
         ],
         [
-          "transmission",
-          "Electronically controlled CVT",
-          "○",
-          "◎"
+          {
+            "text": "transmission"
+          },
+          {
+            "text": "Electronically controlled CVT",
+            "colspan": 2
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "◎"
+          }
         ],
         [
-          "Electronically controlled CVT + paddle shifters",
-          "",
-          "◎"
+          {
+            "text": "Electronically controlled CVT + paddle shifters",
+            "colspan": 2
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◎"
+          }
         ],
         [
-          "tire",
-          "Standard tire",
-          "155/65 R14 75S",
-          "○",
-          "◎"
+          {
+            "text": "tire"
+          },
+          {
+            "text": "Standard tire"
+          },
+          {
+            "text": "155/65 R14 75S"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "◎"
+          }
         ],
         [
-          "165/55 R15 75V",
-          "",
-          "◎"
+          {
+            "text": "165/55 R15 75V"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◎"
+          }
         ],
         [
-          "Spare tire",
-          "Spare tire less (Emergency puncture repair kit)",
-          "○",
-          "○"
+          {
+            "text": "Spare tire"
+          },
+          {
+            "text": "Spare tire less (Emergency puncture repair kit)"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          }
         ],
         [
-          "wheel",
-          "Steel wheel",
-          "14 X 4 1/2J",
-          "◎",
-          ""
+          {
+            "text": "wheel"
+          },
+          {
+            "text": "Steel wheel"
+          },
+          {
+            "text": "14 X 4 1/2J"
+          },
+          {
+            "text": "◎"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "",
-          "Aluminum wheel",
-          "14 X 4 1/2J",
-          "◎",
-          "◎"
+          {
+            "text": ""
+          },
+          {
+            "text": "Aluminum wheel"
+          },
+          {
+            "text": "14 X 4 1/2J"
+          },
+          {
+            "text": "◎"
+          },
+          {
+            "text": "◎"
+          }
         ],
         [
-          "",
-          "15 X 4 1/2J",
-          "",
-          "◎"
+          {
+            "text": ""
+          },
+          {
+            "text": "15 X 4 1/2J"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◎"
+          }
         ],
         [
-          "safety device",
-          "Driver/front-passenger SRS airbag system",
-          "○",
-          "○"
+          {
+            "text": "safety device"
+          },
+          {
+            "text": "Driver/front-passenger SRS airbag system",
+            "colspan": 2
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          }
         ],
         [
-          "Driver/front-passenger side airbag system",
-          "◎",
-          "◎"
+          {
+            "text": "Driver/front-passenger side airbag system",
+            "colspan": 2
+          },
+          {
+            "text": "◎"
+          },
+          {
+            "text": "◎"
+          }
         ],
         [
-          "Side curtain airbag system",
-          "◎",
-          "◎"
+          {
+            "text": "Side curtain airbag system",
+            "colspan": 2
+          },
+          {
+            "text": "◎"
+          },
+          {
+            "text": "◎"
+          }
         ],
         [
-          "",
-          "City Brake Active System",
-          "◎",
-          "◎"
+          {
+            "text": ""
+          },
+          {
+            "text": "City Brake Active System",
+            "colspan": 2
+          },
+          {
+            "text": "◎"
+          },
+          {
+            "text": "◎"
+          }
         ],
         [
-          "",
-          "Vehicle stability assist system (Vehicle behavior stabilization control system)",
-          "○",
-          "○"
+          {
+            "text": ""
+          },
+          {
+            "text": "Vehicle stability assist system (Vehicle behavior stabilization control system)",
+            "colspan": 2
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          }
         ],
         [
-          "",
-          "Electronic Brake Distribution (Electronically controlled brake power distribution system)",
-          "○",
-          "○"
+          {
+            "text": ""
+          },
+          {
+            "text": "Electronic Brake Distribution (Electronically controlled brake power distribution system)",
+            "colspan": 2
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          }
         ],
         [
-          "",
-          "Halogen headlights",
-          "◎",
-          ""
+          {
+            "text": ""
+          },
+          {
+            "text": "Halogen headlights",
+            "colspan": 2
+          },
+          {
+            "text": "◎"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "",
-          "Discharge headlights",
-          "◎",
-          "○"
+          {
+            "text": ""
+          },
+          {
+            "text": "Discharge headlights",
+            "colspan": 2
+          },
+          {
+            "text": "◎"
+          },
+          {
+            "text": "○"
+          }
         ],
         [
-          "",
-          "Front Fog Lights",
-          "",
-          "○"
+          {
+            "text": ""
+          },
+          {
+            "text": "Front Fog Lights",
+            "colspan": 2
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "○"
+          }
         ],
         [
-          "",
-          "High mount stop light",
-          "○",
-          "○"
+          {
+            "text": ""
+          },
+          {
+            "text": "High mount stop light",
+            "colspan": 2
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          }
         ],
         [
-          "",
-          "Rear camera",
-          "◎",
-          "◎"
+          {
+            "text": ""
+          },
+          {
+            "text": "Rear camera",
+            "colspan": 2
+          },
+          {
+            "text": "◎"
+          },
+          {
+            "text": "◎"
+          }
         ],
         [
-          "environmental improvement",
-          "Idling stop system",
-          "○",
-          "○"
+          {
+            "text": "environmental improvement"
+          },
+          {
+            "text": "Idling stop system",
+            "colspan": 2
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          }
         ],
         [
-          "",
-          "ECON Switch",
-          "○",
-          "○"
+          {
+            "text": ""
+          },
+          {
+            "text": "ECON Switch",
+            "colspan": 2
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          }
         ],
         [
-          "comfortable equipment",
-          "Cruise Control",
-          "",
-          "◎"
+          {
+            "text": "comfortable equipment"
+          },
+          {
+            "text": "Cruise Control",
+            "colspan": 2
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◎"
+          }
         ],
         [
-          "",
-          "autolight",
-          "◎",
-          "○"
+          {
+            "text": ""
+          },
+          {
+            "text": "autolight",
+            "colspan": 2
+          },
+          {
+            "text": "◎"
+          },
+          {
+            "text": "○"
+          }
         ],
         [
-          "",
-          "Plasma Cluster Air Conditioner",
-          "",
-          "◎"
+          {
+            "text": ""
+          },
+          {
+            "text": "Plasma Cluster Air Conditioner",
+            "colspan": 2
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◎"
+          }
         ],
         [
-          "",
-          "One-push smart entry",
-          "○",
-          "○"
+          {
+            "text": ""
+          },
+          {
+            "text": "One-push smart entry",
+            "colspan": 2
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          }
         ],
         [
-          "7-inch display Audio",
-          "◎",
-          "◎"
+          {
+            "text": "7-inch display Audio",
+            "colspan": 2
+          },
+          {
+            "text": "◎"
+          },
+          {
+            "text": "◎"
+          }
         ],
         [
-          "",
-          "Steering wheel with tilt function",
-          "○",
-          "○"
+          {
+            "text": ""
+          },
+          {
+            "text": "Steering wheel with tilt function",
+            "colspan": 2
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          }
         ]
       ]
     },

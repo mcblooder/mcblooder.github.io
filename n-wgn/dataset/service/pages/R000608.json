@@ -344,12 +344,33 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Check the size of the new stop ring. standard value Outer diameter (A) 22.0mm Wire diameter (B) 1.8mm"
+      "text": "Check the size of the new stop ring."
     },
     {
       "type": "attention",
       "items": [
         "Be sure to check the size of the stop ring, as installing a stop ring other than the specified one will damage the driveshaft and the vehicle."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Outer diameter (A)"
+          },
+          {
+            "text": "22.0mm"
+          }
+        ],
+        [
+          {
+            "text": "Wire diameter (B)"
+          },
+          {
+            "text": "1.8mm"
+          }
+        ]
       ]
     },
     {
@@ -384,24 +405,6 @@
       "items": [
         "Place a rag on the floor and take care not to damage the spider.",
         "Do not use hammers."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Place a rag on the floor and take care not to damage the spider."
-        },
-        {
-          "text": "Place a rag on the floor and take care not to damage the spider."
-        },
-        {
-          "text": "Do not use hammers."
-        },
-        {
-          "text": "Do not use hammers."
-        }
       ]
     },
     {
@@ -467,7 +470,68 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Lubricate inboard joints and inboard boots with grease. Vehicles not equipped with a turbo charger Specified grease Nippon Oil Corporation U131-15 Fill volume: 1,000 60－70g Turbo Charger: Cars equipped with a turbo charger: Cars equipped with a turbo charger: Cars equipped with a turbo charger Specified grease Kyodo Yushi NKG302 Fill volume: 1,000 100－120g"
+      "text": "Lubricate inboard joints and inboard boots with grease."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Vehicles not equipped with a turbo charger",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Specified grease"
+          },
+          {
+            "text": "Nippon Oil Corporation U131-15"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Fill volume: 1,000"
+          },
+          {
+            "text": "60－70g"
+          }
+        ],
+        [
+          {
+            "text": "Turbo Charger: Cars equipped with a turbo charger: Cars equipped with a turbo charger: Cars equipped with a turbo charger",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Specified grease"
+          },
+          {
+            "text": "Kyodo Yushi NKG302"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Fill volume: 1,000"
+          },
+          {
+            "text": "100－120g"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -483,24 +547,6 @@
       "items": [
         "Be careful not to drop the roller (C).",
         "After the inboard joint is assembled, be careful not to point the inboard joint downward as it will fall."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Be careful not to drop the roller (C)."
-        },
-        {
-          "text": "Be careful not to drop the roller (C)."
-        },
-        {
-          "text": "After the inboard joint is assembled, be careful not to point the inboard joint downward as it will fall."
-        },
-        {
-          "text": "After the inboard joint is assembled, be careful not to point the inboard joint downward as it will fall."
-        }
       ]
     },
     {
@@ -534,12 +580,142 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Adjust the space between the inboard and outboard joints to the specified dimensions. Length between joints model rabbit horns (used as a metaphor for things that do not exist) type standard value turbo charger car without equipment 2WD vehicle left 1 453－458mm right 1 658－663mm 4WD vehicle left 1 453－458mm right 2 442－447mm turbo charger equipped (with) 2WD vehicle left 1 454-459mm right 1 659-664mm 4WD vehicle left 1 454-459mm right 2 444.5-449.5mm"
+      "text": "Adjust the space between the inboard and outboard joints to the specified dimensions."
     },
     {
       "type": "attention",
       "items": [
         "The air pressure in the boot shall be atmospheric when the length between joints (A) is within the standard value to prevent deformation of the boot."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "model",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "rabbit horns (used as a metaphor for things that do not exist)",
+            "header": true
+          },
+          {
+            "text": "type",
+            "header": true
+          },
+          {
+            "text": "standard value",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "turbo charger car without equipment"
+          },
+          {
+            "text": "2WD vehicle"
+          },
+          {
+            "text": "left"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "453－458mm"
+          }
+        ],
+        [
+          {
+            "text": "right"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "658－663mm"
+          }
+        ],
+        [
+          {
+            "text": "4WD vehicle"
+          },
+          {
+            "text": "left"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "453－458mm"
+          }
+        ],
+        [
+          {
+            "text": "right"
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "442－447mm"
+          }
+        ],
+        [
+          {
+            "text": "turbo charger equipped (with)"
+          },
+          {
+            "text": "2WD vehicle"
+          },
+          {
+            "text": "left"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "454-459mm"
+          }
+        ],
+        [
+          {
+            "text": "right"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "659-664mm"
+          }
+        ],
+        [
+          {
+            "text": "4WD vehicle"
+          },
+          {
+            "text": "left"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "454-459mm"
+          }
+        ],
+        [
+          {
+            "text": "right"
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "444.5-449.5mm"
+          }
+        ]
       ]
     },
     {
@@ -585,24 +761,6 @@
       "items": [
         "The boot band should be tightened slowly until a clicking sound is heard.",
         "Do not tighten after confirming the clicking sound, as it may cause grease leakage."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The boot band should be tightened slowly until a clicking sound is heard."
-        },
-        {
-          "text": "The boot band should be tightened slowly until a clicking sound is heard."
-        },
-        {
-          "text": "Do not tighten after confirming the clicking sound, as it may cause grease leakage."
-        },
-        {
-          "text": "Do not tighten after confirming the clicking sound, as it may cause grease leakage."
-        }
       ]
     },
     {
@@ -662,12 +820,73 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Check the size of the new stop ring. standard value Vehicles not equipped with a turbo charger Outer diameter (A) 22.0mm Wire diameter (B) 1.8mm Turbo Charger: Cars equipped with a turbo charger: Cars equipped with a turbo charger: Cars equipped with a turbo charger Outer diameter (A) 25.3mm Wire diameter (B) 1.6mm"
+      "text": "Check the size of the new stop ring."
     },
     {
       "type": "attention",
       "items": [
         "Be sure to check the size of the stop ring, as installing a stop ring other than the specified one will damage the driveshaft and the vehicle."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Vehicles not equipped with a turbo charger",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Outer diameter (A)"
+          },
+          {
+            "text": "22.0mm"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Wire diameter (B)"
+          },
+          {
+            "text": "1.8mm"
+          }
+        ],
+        [
+          {
+            "text": "Turbo Charger: Cars equipped with a turbo charger: Cars equipped with a turbo charger: Cars equipped with a turbo charger",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Outer diameter (A)"
+          },
+          {
+            "text": "25.3mm"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Wire diameter (B)"
+          },
+          {
+            "text": "1.6mm"
+          }
+        ]
       ]
     },
     {
@@ -686,7 +905,46 @@
     {
       "type": "step",
       "number": "3",
-      "text": "Fill the outboard joints with 35 g of the specified grease. Vehicles not equipped with a turbo charger Specified grease Nippon Oil Corporation U2600-70 Turbo Charger: Cars equipped with a turbo charger: Cars equipped with a turbo charger: Cars equipped with a turbo charger Specified grease Kyodo Yushi NTG2218-M"
+      "text": "Fill the outboard joints with 35 g of the specified grease."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Vehicles not equipped with a turbo charger",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Specified grease"
+          },
+          {
+            "text": "Nippon Oil Corporation U2600-70"
+          }
+        ],
+        [
+          {
+            "text": "Turbo Charger: Cars equipped with a turbo charger: Cars equipped with a turbo charger: Cars equipped with a turbo charger",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Specified grease"
+          },
+          {
+            "text": "Kyodo Yushi NTG2218-M"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -714,24 +972,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Spread a rag on the floor and be careful not to damage the drive shaft end (threaded part)."
-        },
-        {
-          "text": "Spread a rag on the floor and be careful not to damage the drive shaft end (threaded part)."
-        },
-        {
-          "text": "Do not use hammers."
-        },
-        {
-          "text": "Do not use hammers."
-        }
-      ]
-    },
-    {
       "type": "figure",
       "asset": "608_3.0_jpn_11582059_3.0_disp.png"
     },
@@ -753,7 +993,68 @@
     {
       "type": "step",
       "number": "7",
-      "text": "Lubricate grease in outboard joints and outboard boots. Vehicles not equipped with a turbo charger Specified grease Nippon Oil Corporation U2600-70 Total fill volume: 1,000 50－60g Turbo Charger: Cars equipped with a turbo charger: Cars equipped with a turbo charger: Cars equipped with a turbo charger Specified grease Kyodo Yushi NTG2218-M Total fill volume: 1,000 85－105g"
+      "text": "Lubricate grease in outboard joints and outboard boots."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Vehicles not equipped with a turbo charger",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Specified grease"
+          },
+          {
+            "text": "Nippon Oil Corporation U2600-70"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Total fill volume: 1,000"
+          },
+          {
+            "text": "50－60g"
+          }
+        ],
+        [
+          {
+            "text": "Turbo Charger: Cars equipped with a turbo charger: Cars equipped with a turbo charger: Cars equipped with a turbo charger",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Specified grease"
+          },
+          {
+            "text": "Kyodo Yushi NTG2218-M"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Total fill volume: 1,000"
+          },
+          {
+            "text": "85－105g"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -786,12 +1087,142 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Adjust the space between the inboard and outboard joints to the specified dimensions. Length between joints model rabbit horns (used as a metaphor for things that do not exist) type standard value turbo charger car without equipment 2WD vehicle left 1 453-458mm right 1 658－663mm 4WD vehicle left 1 453－458mm right 2 442－447mm turbo charger equipped (with) 2WD vehicle left 1 454-459mm right 1 659-664mm 4WD vehicle left 1 454-459mm right 2 444.5-449.5mm"
+      "text": "Adjust the space between the inboard and outboard joints to the specified dimensions."
     },
     {
       "type": "attention",
       "items": [
         "The air pressure in the boot shall be atmospheric when the length between joints (A) is within the standard value to prevent deformation of the boot."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "model",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "rabbit horns (used as a metaphor for things that do not exist)",
+            "header": true
+          },
+          {
+            "text": "type",
+            "header": true
+          },
+          {
+            "text": "standard value",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "turbo charger car without equipment"
+          },
+          {
+            "text": "2WD vehicle"
+          },
+          {
+            "text": "left"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "453-458mm"
+          }
+        ],
+        [
+          {
+            "text": "right"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "658－663mm"
+          }
+        ],
+        [
+          {
+            "text": "4WD vehicle"
+          },
+          {
+            "text": "left"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "453－458mm"
+          }
+        ],
+        [
+          {
+            "text": "right"
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "442－447mm"
+          }
+        ],
+        [
+          {
+            "text": "turbo charger equipped (with)"
+          },
+          {
+            "text": "2WD vehicle"
+          },
+          {
+            "text": "left"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "454-459mm"
+          }
+        ],
+        [
+          {
+            "text": "right"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "659-664mm"
+          }
+        ],
+        [
+          {
+            "text": "4WD vehicle"
+          },
+          {
+            "text": "left"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "454-459mm"
+          }
+        ],
+        [
+          {
+            "text": "right"
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "444.5-449.5mm"
+          }
+        ]
       ]
     },
     {

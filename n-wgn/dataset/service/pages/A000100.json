@@ -57,7 +57,50 @@
       "type": "table",
       "rows": [
         [
-          "D/C: Drive Cycle"
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "More than 0.2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1D/C (single detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ],
+        [
+          {
+            "text": "D/C: Drive Cycle",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -70,7 +113,62 @@
       "type": "table",
       "rows": [
         [
-          "*: Short circuit fault **: Correlation anomaly [ ]: HDS Parameters"
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Throttle opening sensor 2 voltage*. [throttle opening sensor 2]."
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "2.3V"
+          }
+        ],
+        [
+          {
+            "text": "Ignition switch/ ENGINE START STOP switch"
+          },
+          {
+            "text": "Ignition ON mode",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "P0122､ P0123､ P0222､ P0223､ P2101､ P2118､ P2122､ P2123､ P2127､ P2128､ P2138､ P2176",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Other** (**)"
+          },
+          {
+            "text": "After completion of all closed studies",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "*: Short circuit fault **: Correlation anomaly [ ]: HDS Parameters",
+            "colspan": 3
+          }
         ]
       ]
     },
@@ -99,7 +197,36 @@
       "type": "table",
       "rows": [
         [
-          "***: If the deviation between the throttle position sensor 1 voltage [throttle position sensor 1] and the throttle position sensor 2 voltage [throttle position sensor 2] is greater than or equal to the above table, count up 19; if less than the above table, count down 1."
+          {
+            "text": "Throttle opening calculated from throttle opening sensor 1 [throttle opening sensor 1].",
+            "header": true
+          },
+          {
+            "text": "Throttle opening calculated from throttle opening sensor 1 Throttle opening degree sensor 1] and [Throttle opening degree sensor 2 Throttle opening calculated from Deviation of [throttle position sensor 2",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "0°"
+          },
+          {
+            "text": "1.8° or more"
+          }
+        ],
+        [
+          {
+            "text": "83.3°"
+          },
+          {
+            "text": "14.7° or more"
+          }
+        ],
+        [
+          {
+            "text": "***: If the deviation between the throttle position sensor 1 voltage [throttle position sensor 1] and the throttle position sensor 2 voltage [throttle position sensor 2] is greater than or equal to the above table, count up 19; if less than the above table, count down 1.",
+            "colspan": 2
+          }
         ]
       ]
     },

@@ -33,53 +33,121 @@
       "type": "table",
       "rows": [
         [
-          "nickname",
-          "N-WGN"
+          {
+            "text": "nickname"
+          },
+          {
+            "text": "N-WGN",
+            "colspan": 7
+          }
         ],
         [
-          "trade name",
-          "N-WGN"
+          {
+            "text": "trade name"
+          },
+          {
+            "text": "N-WGN",
+            "colspan": 7
+          }
         ],
         [
-          "Body shape classification",
-          "4 door station wagon"
+          {
+            "text": "Body shape classification"
+          },
+          {
+            "text": "4 door station wagon",
+            "colspan": 7
+          }
         ],
         [
-          "model (e.g. of a vehicle)",
-          "DBA-JH1",
-          "DBA-JH2"
+          {
+            "text": "model (e.g. of a vehicle)"
+          },
+          {
+            "text": "DBA-JH1",
+            "colspan": 3
+          },
+          {
+            "text": "DBA-JH2",
+            "colspan": 4
+          }
         ],
         [
-          "steering system",
-          "2WS"
+          {
+            "text": "steering system"
+          },
+          {
+            "text": "2WS",
+            "colspan": 7
+          }
         ],
         [
-          "Driving method",
-          "2WD（FF）",
-          "4WD"
+          {
+            "text": "Driving method"
+          },
+          {
+            "text": "2WD（FF）",
+            "colspan": 3
+          },
+          {
+            "text": "4WD",
+            "colspan": 4
+          }
         ],
         [
-          "Engine type",
-          "S07A (Vehicles not equipped with a turbo charger)",
-          "S07A (Turbo Charger-equipped vehicles)",
-          "S07A (Vehicles not equipped with a turbo charger)",
-          "S07A (Turbo Charger-equipped vehicles)"
+          {
+            "text": "Engine type"
+          },
+          {
+            "text": "S07A (Vehicles not equipped with a turbo charger)",
+            "colspan": 2
+          },
+          {
+            "text": "S07A (Turbo Charger-equipped vehicles)"
+          },
+          {
+            "text": "S07A (Vehicles not equipped with a turbo charger)",
+            "colspan": 3
+          },
+          {
+            "text": "S07A (Turbo Charger-equipped vehicles)"
+          }
         ],
         [
-          "Total displacement (cm) 3 ）",
-          "658"
+          {
+            "text": "Total displacement (cm) 3 ）"
+          },
+          {
+            "text": "658",
+            "colspan": 7
+          }
         ],
         [
-          "Fuel supply system",
-          "PGM-FI"
+          {
+            "text": "Fuel supply system"
+          },
+          {
+            "text": "PGM-FI",
+            "colspan": 7
+          }
         ],
         [
-          "valve mechanism",
-          "DOHC"
+          {
+            "text": "valve mechanism"
+          },
+          {
+            "text": "DOHC",
+            "colspan": 7
+          }
         ],
         [
-          "type",
-          "G"
+          {
+            "text": "type"
+          },
+          {
+            "text": "G",
+            "colspan": 7
+          }
         ]
       ]
     }

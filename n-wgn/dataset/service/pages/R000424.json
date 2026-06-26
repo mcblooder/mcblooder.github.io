@@ -47,12 +47,25 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install the radiator cap tester adapter (ACKER-GP0-0110) and radiator cap (A) on the tester, pump up, and check that it remains in the normal pressure range (cap open pressure) for approximately 6 seconds. Normal pressure: 0.5 to 1.0 MPa 94-122kPa (0.96－1.24kgf/cm 2 ) If the measurement results show that the normal pressure cannot be maintained, replace the radiator cap with a new one."
+      "text": "Install the radiator cap tester adapter (ACKER-GP0-0110) and radiator cap (A) on the tester, pump up, and check that it remains in the normal pressure range (cap open pressure) for approximately 6 seconds. If the measurement results show that the normal pressure cannot be maintained, replace the radiator cap with a new one."
     },
     {
       "type": "attention",
       "items": [
         "When attaching the cap to the tester, the sealing surface should be well coated with water."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Normal pressure: 0.5 to 1.0 MPa"
+          },
+          {
+            "text": "94-122kPa (0.96－1.24kgf/cm 2 )"
+          }
+        ]
       ]
     }
   ],

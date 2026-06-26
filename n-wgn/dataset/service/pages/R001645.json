@@ -29,11 +29,6 @@
       "id": "R000780",
       "label": "Center lower cover removal",
       "resolved": true
-    },
-    {
-      "id": "R001638",
-      "label": "Update SRS unit.",
-      "resolved": true
     }
   ],
   "blocks": [
@@ -109,14 +104,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Installation is the reverse of the removal procedure.",
-      "refs": [
-        {
-          "id": "R001638",
-          "label": "Update SRS unit.",
-          "resolved": true
-        }
-      ]
+      "text": "Installation is the reverse of the removal procedure."
     },
     {
       "type": "attention",
@@ -124,24 +112,6 @@
         "Torx bolts shall be replaced with new ones at the time of installation and tightened to the specified torque.",
         "The center lower cover must be installed after confirming the operation of the SRS warning light.",
         "For TRW SRS units, check to see if the unit's program is up-to-date. If the program is not up-to-date, Update SRS unit."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Torx bolts shall be replaced with new ones at the time of installation and tightened to the specified torque."
-        },
-        {
-          "text": "Torx bolts shall be replaced with new ones at the time of installation and tightened to the specified torque."
-        },
-        {
-          "text": "The center lower cover must be installed after confirming the operation of the SRS warning light."
-        },
-        {
-          "text": "The center lower cover must be installed after confirming the operation of the SRS warning light."
-        }
       ]
     },
     {

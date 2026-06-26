@@ -137,22 +137,50 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Wide View",
-          "Normal View",
-          "Top Down View"
+          {
+            "text": "",
+            "header": true
+          },
+          {
+            "text": "Wide View",
+            "header": true
+          },
+          {
+            "text": "Normal View",
+            "header": true
+          },
+          {
+            "text": "Top Down View",
+            "header": true
+          }
         ],
         [
-          "CAMERA BIT0",
-          "OFF（0V）",
-          "ON（8V）",
-          "OFF（0V）"
+          {
+            "text": "CAMERA BIT0"
+          },
+          {
+            "text": "OFF（0V）"
+          },
+          {
+            "text": "ON（8V）"
+          },
+          {
+            "text": "OFF（0V）"
+          }
         ],
         [
-          "CAMERA BIT1",
-          "OFF（0V）",
-          "OFF（0V）",
-          "ON（8V）"
+          {
+            "text": "CAMERA BIT1"
+          },
+          {
+            "text": "OFF（0V）"
+          },
+          {
+            "text": "OFF（0V）"
+          },
+          {
+            "text": "ON（8V）"
+          }
         ]
       ]
     },

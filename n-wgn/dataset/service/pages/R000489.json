@@ -50,16 +50,6 @@
       "resolved": true
     },
     {
-      "id": "R000506",
-      "label": "When connecting the fuel vent tube to the canister, pay attention to the direction and position of the clamp.",
-      "resolved": true
-    },
-    {
-      "id": "R000477",
-      "label": "When connecting the fuel filler tube and breather tube, pay attention to the direction and position of the clamps.",
-      "resolved": true
-    },
-    {
       "id": "R000483",
       "label": "Connect the quick-connect fuel tube (B).",
       "resolved": true
@@ -252,71 +242,13 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Installation is the reverse of the removal procedure.",
-      "refs": [
-        {
-          "id": "R000506",
-          "label": "When connecting the fuel vent tube to the canister, pay attention to the direction and position of the clamp.",
-          "resolved": true
-        },
-        {
-          "id": "R000477",
-          "label": "When connecting the fuel filler tube and breather tube, pay attention to the direction and position of the clamps.",
-          "resolved": true
-        }
-      ]
+      "text": "Installation is the reverse of the removal procedure."
     },
     {
       "type": "attention",
       "items": [
         "When connecting the fuel vent tube to the canister, pay attention to the direction and position of the clamp.",
         "When connecting the fuel filler tube and breather tube, pay attention to the direction and position of the clamps."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "When connecting the fuel vent tube to the canister, pay attention to the direction and position of the clamp.",
-          "refs": [
-            {
-              "id": "R000506",
-              "label": "When connecting the fuel vent tube to the canister, pay attention to the direction and position of the clamp.",
-              "resolved": true
-            }
-          ]
-        },
-        {
-          "text": "When connecting the fuel vent tube to the canister, pay attention to the direction and position of the clamp.",
-          "refs": [
-            {
-              "id": "R000506",
-              "label": "When connecting the fuel vent tube to the canister, pay attention to the direction and position of the clamp.",
-              "resolved": true
-            }
-          ]
-        },
-        {
-          "text": "When connecting the fuel filler tube and breather tube, pay attention to the direction and position of the clamps.",
-          "refs": [
-            {
-              "id": "R000477",
-              "label": "When connecting the fuel filler tube and breather tube, pay attention to the direction and position of the clamps.",
-              "resolved": true
-            }
-          ]
-        },
-        {
-          "text": "When connecting the fuel filler tube and breather tube, pay attention to the direction and position of the clamps.",
-          "refs": [
-            {
-              "id": "R000477",
-              "label": "When connecting the fuel filler tube and breather tube, pay attention to the direction and position of the clamps.",
-              "resolved": true
-            }
-          ]
-        }
       ]
     },
     {

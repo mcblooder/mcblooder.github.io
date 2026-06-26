@@ -16,7 +16,68 @@
   ],
   "assetDir": "assets/T001392",
   "assets": [],
-  "crossRefs": [],
+  "crossRefs": [
+    {
+      "id": "T001398",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T001397",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T001403",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T001393",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T001404",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T001399",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T001396",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T001400",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T001402",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T001394",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T001401",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T001395",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    }
+  ],
   "blocks": [
     {
       "type": "heading",
@@ -53,24 +114,234 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Disconnection or short-circuit of B-CAN line"
+          {
+            "text": "symptoms",
+            "header": true
+          },
+          {
+            "text": "diagnostic procedure",
+            "header": true
+          },
+          {
+            "text": "checklist",
+            "header": true
+          }
         ],
         [
-          "",
-          "Disconnection or short-circuit of F-CAN line"
+          {
+            "text": "Smart operation does not turn ON mode (backup operation (when smart key contacts ENGINE START STOP switch) also does not turn ON mode)"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T001398",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection or short-circuit of SS1 (+) line Disconnection or short-circuit of SS2 (-) line ENGINE START STOP switch ESL PWR line disconnected or shorted Disconnection or short-circuit of MTR CUT1 (CONT) line Disconnection or short-circuit of MTR CUT2 (IG1) line ESL SW B/C/D line disconnected or shorted Disconnection or short-circuit of IGN TRX line Disconnection or short-circuit of MTR CONT line Honda Smart Key LF Antenna Electronic Steering Lock MICU"
+          }
         ],
         [
-          "",
-          "Combination Meter"
+          {
+            "text": "Smart operation does not turn ON mode, but backup operation (when smart key touches ENGINE START STOP switch) turns ON mode."
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T001397",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Honda Smart Key Not Registered LF Antenna ENGINE START STOP switch"
+          }
         ],
         [
-          "",
-          "PGM-FI ECU"
+          {
+            "text": "Backup operation (when smart key contacts ENGINE START STOP switch) does not turn ON mode, but smart operation does."
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T001403",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "ENGINE START STOP switch Honda Smart Key Not Registered MICU"
+          }
         ],
         [
-          "",
-          "MICU"
+          {
+            "text": "Engine does not start (power supply is normal)"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T001393",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Parking brake switch Disconnection or short circuit of PARKING BRAKE SW line Brake switch Disconnection or short-circuit of STOP SW line Shift position sensor Disconnection or short-circuit of ATP-P line Parking pin switch P-PIN SW line disconnected or shorted Disconnection or short-circuit of STS line ESL SW Disconnection or short-circuit of B line Disconnection or short-circuit of S-NET line Disconnection or short-circuit of IG1 MAIN line MICU"
+          }
+        ],
+        [
+          {
+            "text": "Can't turn it off."
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T001404",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection or short-circuit of SS1 (+) line Disconnection or short-circuit of SS2 (-) line ENGINE START STOP switch MICU Parking pin switch P-PIN SW line disconnected or shorted Shift position sensor Disconnection or short-circuit of ATP-P line Disconnection or short-circuit of B-CAN line Disconnection or short-circuit of F-CAN line"
+          }
+        ],
+        [
+          {
+            "text": "Cannot be locked/unlocked by smart operation (lock/unlock switch) or keyless entry operation"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T001399",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Honda Smart Key Not Registered Each door Switch Tailgate latch switch Disconnection or short-circuit of FR DOOR SW line Disconnection or short-circuit of OTHER DOOR SW line Door lock knob switch Blown No. C23 (15A), No. C35 (15A), No. C37 (15A), No. C38 (15A) fuses in fuse box No. C23 (15A), No. C35 (15A), No. C37 (15A), No. C38 (15A) fuse lines in fuse box disconnected or shorted Each door lock actuator Honda Smart Key LF Antenna MICU"
+          }
+        ],
+        [
+          {
+            "text": "Keyless Entry operation fails to lock/unlock door locks (normal for smart operation)"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T001396",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Honda Smart Key LF Antenna MICU"
+          }
+        ],
+        [
+          {
+            "text": "Door locks cannot be locked/unlocked by smart operation (lock/unlock switch) (normal for keyless entry operation)"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T001400",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Each door Switch Tailgate latch switch Disconnection or short-circuit of FR DOOR SW line Disconnection or short-circuit of OTHER DOOR SW line Honda Smart Key LF Antenna MICU"
+          }
+        ],
+        [
+          {
+            "text": "Door locks lock by itself"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T001402",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "MICU Each door Switch Tailgate latch switch Disconnection or short-circuit of FR DOOR SW line Disconnection or short-circuit of OTHER DOOR SW line"
+          }
+        ],
+        [
+          {
+            "text": "Lost key warning blows when in ACC/ON mode"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T001394",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "MICU LF Antenna Honda Smart Key"
+          }
+        ],
+        [
+          {
+            "text": "Smart warning light does not come on or go off"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T001401",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection or short-circuit of B-CAN line Disconnection or short-circuit of F-CAN line Combination Meter MICU"
+          }
+        ],
+        [
+          {
+            "text": "Immobilizer indicator does not light or does not turn off"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T001395",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection or short-circuit of B-CAN line Disconnection or short-circuit of F-CAN line Combination Meter PGM-FI ECU MICU"
+          }
         ]
       ]
     }

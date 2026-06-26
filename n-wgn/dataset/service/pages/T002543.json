@@ -27,128 +27,315 @@
       "type": "table",
       "rows": [
         [
-          "Date of Occurrence",
-          "",
-          "",
-          "",
-          ""
+          {
+            "text": "Date of Occurrence",
+            "colspan": 2
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Location of Occurrence",
-          "",
-          "",
-          "",
-          ""
+          {
+            "text": "Location of Occurrence",
+            "colspan": 2
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Frequency of occurrence",
-          "(_____) times/day",
-          "(___) times/month"
+          {
+            "text": "Frequency of occurrence",
+            "colspan": 2
+          },
+          {
+            "text": "(_____) times/day",
+            "colspan": 2
+          },
+          {
+            "text": "(___) times/month",
+            "colspan": 2
+          }
         ],
         [
-          "Occurrence",
-          ""
+          {
+            "text": "Occurrence",
+            "colspan": 2
+          },
+          {
+            "text": "",
+            "colspan": 4
+          }
         ],
         [
-          "",
-          "(1) Weather",
-          "1. air temperature (________℃)"
+          {
+            "text": ""
+          },
+          {
+            "text": "(1) Weather"
+          },
+          {
+            "text": "1. air temperature (________℃)",
+            "colspan": 4
+          }
         ],
         [
-          "",
-          "",
-          "2. weather (sunny, cloudy, rainy)"
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "2. weather (sunny, cloudy, rainy)",
+            "colspan": 4
+          }
         ],
         [
-          "",
-          "(2) Parking Hours",
-          "1. parking time (_____) hours or (_____) days"
+          {
+            "text": ""
+          },
+          {
+            "text": "(2) Parking Hours"
+          },
+          {
+            "text": "1. parking time (_____) hours or (_____) days",
+            "colspan": 4
+          }
         ],
         [
-          "",
-          "Parking location",
-          "1. flat road",
-          "2. downhill",
-          "3. uphill",
-          ""
+          {
+            "text": ""
+          },
+          {
+            "text": "Parking location"
+          },
+          {
+            "text": "1. flat road"
+          },
+          {
+            "text": "2. downhill"
+          },
+          {
+            "text": "3. uphill"
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "Refueling Status",
-          ""
+          {
+            "text": "Refueling Status",
+            "colspan": 2
+          },
+          {
+            "text": "",
+            "colspan": 4
+          }
         ],
         [
-          "",
-          "(1) Date of refueling",
-          "(_____) days or (_____) months before refueling"
+          {
+            "text": ""
+          },
+          {
+            "text": "(1) Date of refueling"
+          },
+          {
+            "text": "(_____) days or (_____) months before refueling",
+            "colspan": 4
+          }
         ],
         [
-          "",
-          "(2) Fuel used",
-          "1. regular",
-          "2. high octane"
+          {
+            "text": ""
+          },
+          {
+            "text": "(2) Fuel used"
+          },
+          {
+            "text": "1. regular",
+            "colspan": 2
+          },
+          {
+            "text": "2. high octane",
+            "colspan": 2
+          }
         ],
         [
-          "",
-          "",
-          "3. alcohol fuel",
-          ""
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "3. alcohol fuel",
+            "colspan": 2
+          },
+          {
+            "text": "",
+            "colspan": 2
+          }
         ],
         [
-          "",
-          "Gasoline additive",
-          "1. put in",
-          "2. not included."
+          {
+            "text": ""
+          },
+          {
+            "text": "Gasoline additive"
+          },
+          {
+            "text": "1. put in"
+          },
+          {
+            "text": "2. not included.",
+            "colspan": 3
+          }
         ],
         [
-          "",
-          "(4) Remaining fuel level",
-          "1. full tank",
-          "2. half",
-          "3. refueling warning light comes on"
+          {
+            "text": ""
+          },
+          {
+            "text": "(4) Remaining fuel level"
+          },
+          {
+            "text": "1. full tank"
+          },
+          {
+            "text": "2. half"
+          },
+          {
+            "text": "3. refueling warning light comes on",
+            "colspan": 2
+          }
         ],
         [
-          "Cranking operation and status at the time of occurrence"
+          {
+            "text": "Cranking operation and status at the time of occurrence",
+            "colspan": 6
+          }
         ],
         [
-          "",
-          "(1) Cranking condition",
-          "1. cranking feels heavier than normal"
+          {
+            "text": ""
+          },
+          {
+            "text": "(1) Cranking condition"
+          },
+          {
+            "text": "1. cranking feels heavier than normal",
+            "colspan": 4
+          }
         ],
         [
-          "",
-          "",
-          "2. did not feel particularly uncomfortable"
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "2. did not feel particularly uncomfortable",
+            "colspan": 4
+          }
         ],
         [
-          "",
-          "(2) Cranking operation",
-          "1. continued cranking until the engine started"
+          {
+            "text": ""
+          },
+          {
+            "text": "(2) Cranking operation"
+          },
+          {
+            "text": "1. continued cranking until the engine started",
+            "colspan": 4
+          }
         ],
         [
-          "",
-          "",
-          "2. stopped cranking in (_____) seconds regardless of whether the engine starts or not."
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "2. stopped cranking in (_____) seconds regardless of whether the engine starts or not.",
+            "colspan": 4
+          }
         ],
         [
-          "",
-          "",
-          "Cranking started immediately after the ignition was turned to the ON mode (vehicles not equipped with the Honda Smart Key System)."
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Cranking started immediately after the ignition was turned to the ON mode (vehicles not equipped with the Honda Smart Key System).",
+            "colspan": 4
+          }
         ],
         [
-          "",
-          "",
-          "After turning the ignition to the ON mode, wait (_______) seconds before cranking (vehicles not equipped with the Honda Smart Key System)."
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "After turning the ignition to the ON mode, wait (_______) seconds before cranking (vehicles not equipped with the Honda Smart Key System).",
+            "colspan": 4
+          }
         ],
         [
-          "",
-          "(iii) First bombing or not",
-          "1. with first explosion",
-          "2. No first explosion"
+          {
+            "text": ""
+          },
+          {
+            "text": "(iii) First bombing or not"
+          },
+          {
+            "text": "1. with first explosion",
+            "colspan": 2
+          },
+          {
+            "text": "2. No first explosion",
+            "colspan": 2
+          }
         ],
         [
-          "Vehicle modifications",
-          "1. modified.",
-          "2. not modified"
+          {
+            "text": "Vehicle modifications",
+            "colspan": 2
+          },
+          {
+            "text": "1. modified.",
+            "colspan": 2
+          },
+          {
+            "text": "2. not modified",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -156,12 +343,70 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Modifying the vehicle."
+          {
+            "text": "Situation at the time of occurrence",
+            "header": true
+          },
+          {
+            "text": "Possible Causes",
+            "header": true
+          }
         ],
         [
-          "",
-          "Check engine oil, ATF (CVTF), and A/C gas levels"
+          {
+            "text": "hot day Stop the engine after driving and restart it about 3 hours later."
+          },
+          {
+            "text": "If the purge control SOL.V. leaks when hot, evaporative gases in the fuel tank may enter the intake manifold, resulting in a thicker mixture and poor starting."
+          }
+        ],
+        [
+          {
+            "text": "A windy day"
+          },
+          {
+            "text": "If a headwind blows into the muffler, exhaust gases may be retained in the combustion chamber or intake manifold, resulting in non-starting or longer start-up times"
+          }
+        ],
+        [
+          {
+            "text": "cold day Refueled more than 2 months ago."
+          },
+          {
+            "text": "If fuel is refueled during high temperatures (summer, etc.) and used during low temperatures (winter, etc.), starting performance may deteriorate and start-up time may increase."
+          }
+        ],
+        [
+          {
+            "text": "Use of undesignated fuels Use of alcohol fuels and gasoline additives"
+          },
+          {
+            "text": "Use of unspecified fuel, alcohol fuel, or gasoline additives may increase engine start-up time"
+          }
+        ],
+        [
+          {
+            "text": "Start cranking immediately after turning ignition ON mode Cranking is heavier than usual."
+          },
+          {
+            "text": "If cranking is performed at the same time as the fuel pump is driven for 2 seconds after ignition ON mode, starting time may be longer due to voltage drop if the 12V battery is weak."
+          }
+        ],
+        [
+          {
+            "text": "Parking area is downhill or uphill Refueling warning light is on."
+          },
+          {
+            "text": "When the fuel level is low in a parking lot other than on a flat road, the fuel pump may have difficulty drawing fuel, resulting in a lack of fuel pressure and a long start-up time."
+          }
+        ],
+        [
+          {
+            "text": "Modifying the vehicle. Check engine oil, ATF (CVTF), and A/C gas levels"
+          },
+          {
+            "text": "Modifications to the ignition system, intake ducts, intake manifold, and muffler may increase startup time Use of engine oil or ATF other than specified, or high amounts of engine oil, ATF (CVTF), or A/C gas may increase engine resistance and start-up time"
+          }
         ]
       ]
     }

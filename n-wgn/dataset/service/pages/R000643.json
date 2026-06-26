@@ -32,11 +32,6 @@
       "resolved": true
     },
     {
-      "id": "G000321",
-      "label": "In this work, the effective length changes when a special tool is connected to the torque wrench. Therefore, the tightening work shall be performed with the correct torque reading calculated by the calculation formula.",
-      "resolved": true
-    },
-    {
       "id": "R000632",
       "label": "Steering wheel play inspection",
       "resolved": true
@@ -133,13 +128,19 @@
     {
       "type": "step",
       "number": "6",
-      "text": "From the tightened position, return the rack guide screw (A) to the standard return angle (B). Reference Return Angle: 1.5 17±3° Secure the rack guide screw with a wrench and tighten the locknut (C).",
-      "refs": [
-        {
-          "id": "G000321",
-          "label": "In this work, the effective length changes when a special tool is connected to the torque wrench. Therefore, the tightening work shall be performed with the correct torque reading calculated by the calculation formula.",
-          "resolved": true
-        }
+      "text": "From the tightened position, return the rack guide screw (A) to the standard return angle (B). Secure the rack guide screw with a wrench and tighten the locknut (C)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Reference Return Angle: 1.5"
+          },
+          {
+            "text": "17±3°"
+          }
+        ]
       ]
     },
     {

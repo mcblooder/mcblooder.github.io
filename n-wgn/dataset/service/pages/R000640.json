@@ -370,36 +370,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Serrated portion of pinion shaft"
-        },
-        {
-          "text": "Serrated portion of pinion shaft"
-        },
-        {
-          "text": "Gearbox flange section"
-        },
-        {
-          "text": "Gearbox flange section"
-        },
-        {
-          "text": "Tie Rod End Ball Joint Boot"
-        },
-        {
-          "text": "Tie Rod End Ball Joint Boot"
-        },
-        {
-          "text": "Steering gearbox Boots"
-        },
-        {
-          "text": "Steering gearbox Boots"
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "1. Steering gearbox installation"
@@ -421,36 +391,6 @@
         "Gearbox flange section",
         "Tie Rod End Ball Joint Boot",
         "Steering gearbox Boots"
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Serrated portion of pinion shaft"
-        },
-        {
-          "text": "Serrated portion of pinion shaft"
-        },
-        {
-          "text": "Gearbox flange section"
-        },
-        {
-          "text": "Gearbox flange section"
-        },
-        {
-          "text": "Tie Rod End Ball Joint Boot"
-        },
-        {
-          "text": "Tie Rod End Ball Joint Boot"
-        },
-        {
-          "text": "Steering gearbox Boots"
-        },
-        {
-          "text": "Steering gearbox Boots"
-        }
       ]
     },
     {
@@ -492,30 +432,6 @@
         "Gearbox mounting bolts shall be tightened in the order shown in the figure with the specified torque.",
         "After mounting the gearbox, tighten the gearbox mounting bolts again to the specified torque for confirmation.",
         "Washers (B) shall be securely installed."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Gearbox mounting bolts shall be tightened in the order shown in the figure with the specified torque."
-        },
-        {
-          "text": "Gearbox mounting bolts shall be tightened in the order shown in the figure with the specified torque."
-        },
-        {
-          "text": "After mounting the gearbox, tighten the gearbox mounting bolts again to the specified torque for confirmation."
-        },
-        {
-          "text": "After mounting the gearbox, tighten the gearbox mounting bolts again to the specified torque for confirmation."
-        },
-        {
-          "text": "Washers (B) shall be securely installed."
-        },
-        {
-          "text": "Washers (B) shall be securely installed."
-        }
       ]
     },
     {
@@ -762,42 +678,43 @@
     {
       "type": "step",
       "number": "1",
-      "text": "With the tires not touching the floor (lifted up), turn the steering wheel fully to the left and right several times and inspect for the symptoms listed in the following table. symptoms Possible Causes Contact between steering joint and cover Poor serration engagement of steering joint and pinion shaft Poor connection of steering joint (kink, sticking)"
+      "text": "With the tires not touching the floor (lifted up), turn the steering wheel fully to the left and right several times and inspect for the symptoms listed in the following table."
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Resin rubbing noise from near the feet"
-        },
-        {
-          "text": "Resin rubbing noise from near the feet"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Gurgling sound from near the feet, gurgling sensation felt in the hand through the steering wheel, or a catching sensation while turning the wheel"
-        },
-        {
-          "text": "Gurgling sound from near the feet, gurgling sensation felt in the hand through the steering wheel, or a catching sensation while turning the wheel"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Periodic steering force undulation"
-        },
-        {
-          "text": "Periodic steering force undulation"
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "symptoms"
+          },
+          {
+            "text": "Possible Causes"
+          }
+        ],
+        [
+          {
+            "text": "Resin rubbing noise from near the feet"
+          },
+          {
+            "text": "Contact between steering joint and cover"
+          }
+        ],
+        [
+          {
+            "text": "Gurgling sound from near the feet, gurgling sensation felt in the hand through the steering wheel, or a catching sensation while turning the wheel"
+          },
+          {
+            "text": "Poor serration engagement of steering joint and pinion shaft"
+          }
+        ],
+        [
+          {
+            "text": "Periodic steering force undulation"
+          },
+          {
+            "text": "Poor connection of steering joint (kink, sticking)"
+          }
+        ]
       ]
     },
     {

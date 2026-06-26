@@ -516,8 +516,59 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "Auto A/C control unit failure"
+          {
+            "text": "When the idle stop time calculated by the auto A/C control unit is less than 10 seconds"
+          }
+        ],
+        [
+          {
+            "text": "When the outside air temperature exceeds 40°C (104°F)"
+          }
+        ],
+        [
+          {
+            "text": "When the outside air temperature is lower than -20°C"
+          }
+        ],
+        [
+          {
+            "text": "When DEF is selected in manual operation"
+          }
+        ],
+        [
+          {
+            "text": "In case of outside temperature sensor failure"
+          }
+        ],
+        [
+          {
+            "text": "In case of internal air temperature sensor failure"
+          }
+        ],
+        [
+          {
+            "text": "In case of solar radiation sensor failure"
+          }
+        ],
+        [
+          {
+            "text": "Evaporator In case of sensor failure"
+          }
+        ],
+        [
+          {
+            "text": "When water temperature frames cannot be received from the meter"
+          }
+        ],
+        [
+          {
+            "text": "When VSP/NE frames from the meter cannot be received"
+          }
+        ],
+        [
+          {
+            "text": "Auto A/C control unit failure"
+          }
         ]
       ]
     }

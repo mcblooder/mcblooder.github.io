@@ -34,13 +34,586 @@
       "type": "table",
       "rows": [
         [
-          "*1: Wires with instructions can be changed to any wiring color as specified by the manufacturer."
+          {
+            "text": "port (e.g. LAN port)",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Terminal Symbols",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
         ],
         [
-          "*2: TRW SRS units are connected to the data link coupler with a cord, but do not communicate with or control HDS."
+          {
+            "text": "1"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
         ],
         [
-          "When checking the manufacturer name of the SRS unit, use HDS to check the ECU manufacturer displayed in the data list."
+          {
+            "text": "2"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "5"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "6"
+          },
+          {
+            "text": "red *1"
+          },
+          {
+            "text": "RA1＋"
+          },
+          {
+            "text": "Power source for driver's airbag inflator"
+          }
+        ],
+        [
+          {
+            "text": "7"
+          },
+          {
+            "text": "peach *1"
+          },
+          {
+            "text": "RA1－"
+          },
+          {
+            "text": "Driver's airbag inflator grounding"
+          }
+        ],
+        [
+          {
+            "text": "8"
+          },
+          {
+            "text": "green *1"
+          },
+          {
+            "text": "LA1＋"
+          },
+          {
+            "text": "Power source for passenger airbag inflator"
+          }
+        ],
+        [
+          {
+            "text": "9"
+          },
+          {
+            "text": "hollow *1"
+          },
+          {
+            "text": "LA1－"
+          },
+          {
+            "text": "Passenger airbag inflator grounding"
+          }
+        ],
+        [
+          {
+            "text": "10"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "11"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "12"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "13"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "14"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "15"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "16"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "17"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "18"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "19* 2"
+          },
+          {
+            "text": "tea *1"
+          },
+          {
+            "text": "L-LINE (Not used)"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "20"
+          },
+          {
+            "text": "white *1"
+          },
+          {
+            "text": "F-CAN_H"
+          },
+          {
+            "text": "F-CAN communication line"
+          }
+        ],
+        [
+          {
+            "text": "21"
+          },
+          {
+            "text": "red *1"
+          },
+          {
+            "text": "F-CAN_L"
+          },
+          {
+            "text": "F-CAN communication line"
+          }
+        ],
+        [
+          {
+            "text": "22"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "23"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "24"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "25"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "26"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "27"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "28"
+          },
+          {
+            "text": "green *1"
+          },
+          {
+            "text": "LFS＋"
+          },
+          {
+            "text": "Left Front Impact Power supply for sensor"
+          }
+        ],
+        [
+          {
+            "text": "29"
+          },
+          {
+            "text": "hollow *1"
+          },
+          {
+            "text": "LFS－"
+          },
+          {
+            "text": "Left Front Impact Sensor Grounding"
+          }
+        ],
+        [
+          {
+            "text": "30"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "31"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "32"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "33"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "34"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "35"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "36"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "37"
+          },
+          {
+            "text": "black *1"
+          },
+          {
+            "text": "GND"
+          },
+          {
+            "text": "Grounding of SRS unit (G404)"
+          }
+        ],
+        [
+          {
+            "text": "38"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "39"
+          },
+          {
+            "text": "bitter orange (Citrus aurantium) *1"
+          },
+          {
+            "text": "VA"
+          },
+          {
+            "text": "Power supply for SRS unit"
+          }
+        ],
+        [
+          {
+            "text": "*1: Wires with instructions can be changed to any wiring color as specified by the manufacturer.",
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "*2: TRW SRS units are connected to the data link coupler with a cord, but do not communicate with or control HDS.",
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "When checking the manufacturer name of the SRS unit, use HDS to check the ECU manufacturer displayed in the data list.",
+            "colspan": 4
+          }
         ]
       ]
     },
@@ -52,10 +625,580 @@
       "type": "table",
       "rows": [
         [
-          "*: Wiring with instructions can be changed to any manufacturer's wiring color."
+          {
+            "text": "port (e.g. LAN port)",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Terminal Symbols",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
         ],
         [
-          "When checking the manufacturer name of the SRS unit, use HDS to check the ECU manufacturer displayed in the data list."
+          {
+            "text": "1"
+          },
+          {
+            "text": "white *"
+          },
+          {
+            "text": "LCA＋"
+          },
+          {
+            "text": "Left Side Curtain Airbag Inflator Power Supply"
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "ash *"
+          },
+          {
+            "text": "LCA－"
+          },
+          {
+            "text": "Left Side Curtain Airbag Inflator Grounding"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "red *"
+          },
+          {
+            "text": "RSA＋"
+          },
+          {
+            "text": "Driver's side airbag Power source for inflator"
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "peach *"
+          },
+          {
+            "text": "RSA－"
+          },
+          {
+            "text": "Driver's side airbag inflator grounding"
+          }
+        ],
+        [
+          {
+            "text": "5"
+          },
+          {
+            "text": "green *"
+          },
+          {
+            "text": "LSA＋"
+          },
+          {
+            "text": "Passenger side airbag inflator power supply"
+          }
+        ],
+        [
+          {
+            "text": "6"
+          },
+          {
+            "text": "hollow *"
+          },
+          {
+            "text": "LSA－"
+          },
+          {
+            "text": "Passenger side airbag inflator grounding"
+          }
+        ],
+        [
+          {
+            "text": "7"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "8"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "9"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "10"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "11"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "12"
+          },
+          {
+            "text": "green *"
+          },
+          {
+            "text": "RCA＋"
+          },
+          {
+            "text": "Right Side Curtain Airbag Inflator Power Supply"
+          }
+        ],
+        [
+          {
+            "text": "13"
+          },
+          {
+            "text": "new leaves *"
+          },
+          {
+            "text": "RCA－"
+          },
+          {
+            "text": "Right Side Curtain Airbag Inflator Grounding"
+          }
+        ],
+        [
+          {
+            "text": "14"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "15"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "16"
+          },
+          {
+            "text": "hollow *"
+          },
+          {
+            "text": "FRBO"
+          },
+          {
+            "text": "Driver's seat belt buckle Switch input signal"
+          }
+        ],
+        [
+          {
+            "text": "17"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "18"
+          },
+          {
+            "text": "new leaves *"
+          },
+          {
+            "text": "FLBO"
+          },
+          {
+            "text": "Input signal for passenger seat belt buckle switch"
+          }
+        ],
+        [
+          {
+            "text": "19"
+          },
+          {
+            "text": "green *"
+          },
+          {
+            "text": "RLB"
+          },
+          {
+            "text": "Left rear seat seat belt buckle switch input signal"
+          }
+        ],
+        [
+          {
+            "text": "20"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "21"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "22"
+          },
+          {
+            "text": "yellow *"
+          },
+          {
+            "text": "RRP＋"
+          },
+          {
+            "text": "Driver's seat belt Power source for pretensioner"
+          }
+        ],
+        [
+          {
+            "text": "23"
+          },
+          {
+            "text": "purple *"
+          },
+          {
+            "text": "RRP－"
+          },
+          {
+            "text": "Driver's seat belt pretensioner grounding"
+          }
+        ],
+        [
+          {
+            "text": "24"
+          },
+          {
+            "text": "bitter orange (Citrus aurantium) *"
+          },
+          {
+            "text": "LRP＋"
+          },
+          {
+            "text": "Power source for front passenger seat belt pretensioner"
+          }
+        ],
+        [
+          {
+            "text": "25"
+          },
+          {
+            "text": "tea *"
+          },
+          {
+            "text": "LRP－"
+          },
+          {
+            "text": "Passenger seat belt pretensioner grounding"
+          }
+        ],
+        [
+          {
+            "text": "26"
+          },
+          {
+            "text": "peach *"
+          },
+          {
+            "text": "RS1＋"
+          },
+          {
+            "text": "Power source for right side impact sensor 1 and right side impact sensor 2"
+          }
+        ],
+        [
+          {
+            "text": "27"
+          },
+          {
+            "text": "green *"
+          },
+          {
+            "text": "RS1－"
+          },
+          {
+            "text": "Right Side Impact Sensor 1, Right Side Impact Sensor 2 Grounding"
+          }
+        ],
+        [
+          {
+            "text": "28"
+          },
+          {
+            "text": "green *"
+          },
+          {
+            "text": "LS1＋"
+          },
+          {
+            "text": "Power source for left side impact sensor 1 and left side impact sensor 2"
+          }
+        ],
+        [
+          {
+            "text": "29"
+          },
+          {
+            "text": "hollow *"
+          },
+          {
+            "text": "LS1－"
+          },
+          {
+            "text": "Left Side Impact Sensor 1, Left Side Impact Sensor 2 Grounding"
+          }
+        ],
+        [
+          {
+            "text": "30"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "31"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "32"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "33"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "34"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "35"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "36"
+          },
+          {
+            "text": "peach *"
+          },
+          {
+            "text": "RRB"
+          },
+          {
+            "text": "Right rear seat seat belt buckle switch input signal"
+          }
+        ],
+        [
+          {
+            "text": "37"
+          },
+          {
+            "text": "green *"
+          },
+          {
+            "text": "SS＋"
+          },
+          {
+            "text": "Input signal of passenger seat seating switch"
+          }
+        ],
+        [
+          {
+            "text": "38"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "39"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "*: Wiring with instructions can be changed to any manufacturer's wiring color.",
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": "When checking the manufacturer name of the SRS unit, use HDS to check the ECU manufacturer displayed in the data list.",
+            "colspan": 4
+          }
         ]
       ]
     }

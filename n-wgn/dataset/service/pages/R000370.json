@@ -239,36 +239,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "If the liquid packing is left on for more than 4 minutes after application, do not install it as it is. Remove the packing once and reapply."
-        },
-        {
-          "text": "If the liquid packing is left on for more than 4 minutes after application, do not install it as it is. Remove the packing once and reapply."
-        },
-        {
-          "text": "Oil should be injected after at least 30 minutes after installation."
-        },
-        {
-          "text": "Oil should be injected after at least 30 minutes after installation."
-        },
-        {
-          "text": "Do not touch the liquid packing-applied surface."
-        },
-        {
-          "text": "Do not touch the liquid packing-applied surface."
-        },
-        {
-          "text": "The engine should be started at least 3 hours after installation."
-        },
-        {
-          "text": "The engine should be started at least 3 hours after installation."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "4. Crankshaft pulley Installation",

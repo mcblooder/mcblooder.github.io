@@ -155,7 +155,20 @@
     {
       "type": "step",
       "number": "4",
-      "text": "Set the dynamic damper weight at the specified dimension (A). Std. 455－461mm"
+      "text": "Set the dynamic damper weight at the specified dimension (A)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "455－461mm"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",

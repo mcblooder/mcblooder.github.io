@@ -53,19 +53,59 @@
     {
       "type": "step",
       "number": "1",
-      "text": "With the steering wheel in the straight ahead position, check the relative throttle opening sensor in the data list with HDS after at least 1 minute under no load with no headlights, blower motor, rear defroster, radiator fan, A/C, etc. operating. Cars not equipped with a turbo charger For 2.62° or greater, Clean the throttle body. Turbo Charger equipped vehicle For 3.00° or greater, Clean the throttle body.",
-      "refs": [
-        {
-          "id": "R000461",
-          "label": "Clean the throttle body.",
-          "resolved": true
-        }
-      ]
+      "text": "With the steering wheel in the straight ahead position, check the relative throttle opening sensor in the data list with HDS after at least 1 minute under no load with no headlights, blower motor, rear defroster, radiator fan, A/C, etc. operating."
     },
     {
       "type": "attention",
       "items": [
         "The display unit shall be \"° (degree)\"."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Cars not equipped with a turbo charger",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "For 2.62° or greater, Clean the throttle body.",
+            "refs": [
+              {
+                "id": "R000461",
+                "label": "Clean the throttle body.",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Turbo Charger equipped vehicle",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "For 3.00° or greater, Clean the throttle body.",
+            "refs": [
+              {
+                "id": "R000461",
+                "label": "Clean the throttle body.",
+                "resolved": true
+              }
+            ]
+          }
+        ]
       ]
     }
   ],

@@ -107,24 +107,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not step on the accelerator pedal before stopping the engine."
-        },
-        {
-          "text": "Do not step on the accelerator pedal before stopping the engine."
-        },
-        {
-          "text": "The PGM-FI warning light may come on and DTCs may be detected during this procedure, but clearing the DTCs should be done after all work related to fuel pressure removal has been completed."
-        },
-        {
-          "text": "The PGM-FI warning light may come on and DTCs may be detected during this procedure, but clearing the DTCs should be done after all work related to fuel pressure removal has been completed."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "4. 12V battery Negative (-) terminal Disconnect"
@@ -217,36 +199,6 @@
         "If there is a sticking point between the connector and the pipe, push and pull the connector with the retainer pinched by hand until it moves freely before pulling it out.",
         "Do not remove the retainer remaining on the pipe side.",
         "When a retainer is removed from a pipe, it must be replaced with a new retainer."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "To avoid damaging the pipe, be sure to pull it out by hand without using any tools."
-        },
-        {
-          "text": "To avoid damaging the pipe, be sure to pull it out by hand without using any tools."
-        },
-        {
-          "text": "If there is a sticking point between the connector and the pipe, push and pull the connector with the retainer pinched by hand until it moves freely before pulling it out."
-        },
-        {
-          "text": "If there is a sticking point between the connector and the pipe, push and pull the connector with the retainer pinched by hand until it moves freely before pulling it out."
-        },
-        {
-          "text": "Do not remove the retainer remaining on the pipe side."
-        },
-        {
-          "text": "Do not remove the retainer remaining on the pipe side."
-        },
-        {
-          "text": "When a retainer is removed from a pipe, it must be replaced with a new retainer."
-        },
-        {
-          "text": "When a retainer is removed from a pipe, it must be replaced with a new retainer."
-        }
       ]
     },
     {
@@ -379,36 +331,6 @@
         "If there is a sticking point between the connector and the pipe, push and pull the connector with the retainer pinched by hand until it moves freely before pulling it out.",
         "Do not remove the retainer remaining on the pipe side.",
         "When a retainer is removed from a pipe, it must be replaced with a new retainer."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "To avoid damaging the pipe, be sure to pull it out by hand without using any tools."
-        },
-        {
-          "text": "To avoid damaging the pipe, be sure to pull it out by hand without using any tools."
-        },
-        {
-          "text": "If there is a sticking point between the connector and the pipe, push and pull the connector with the retainer pinched by hand until it moves freely before pulling it out."
-        },
-        {
-          "text": "If there is a sticking point between the connector and the pipe, push and pull the connector with the retainer pinched by hand until it moves freely before pulling it out."
-        },
-        {
-          "text": "Do not remove the retainer remaining on the pipe side."
-        },
-        {
-          "text": "Do not remove the retainer remaining on the pipe side."
-        },
-        {
-          "text": "When a retainer is removed from a pipe, it must be replaced with a new retainer."
-        },
-        {
-          "text": "When a retainer is removed from a pipe, it must be replaced with a new retainer."
-        }
       ]
     }
   ],

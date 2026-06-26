@@ -16,7 +16,23 @@
   ],
   "assetDir": "assets/T001104",
   "assets": [],
-  "crossRefs": [],
+  "crossRefs": [
+    {
+      "id": "T002547",
+      "label": "Check DTC",
+      "resolved": true
+    },
+    {
+      "id": "R000419",
+      "label": "Inspect P2 relief valve",
+      "resolved": true
+    },
+    {
+      "id": "R000421",
+      "label": "West gate inspection",
+      "resolved": true
+    }
+  ],
   "blocks": [
     {
       "type": "heading",
@@ -27,16 +43,87 @@
       "type": "table",
       "rows": [
         [
-          "1.",
-          "Check DTC"
+          {
+            "text": "symptoms",
+            "header": true
+          },
+          {
+            "text": "diagnostic item",
+            "header": true
+          },
+          {
+            "text": "related item",
+            "header": true
+          }
         ],
         [
-          "2.",
-          "Vacuum tube crush/damage inspection of West Gate valve control SOL.V"
+          {
+            "text": "Noise from engine during fuel cut deceleration"
+          },
+          {
+            "text": "1. Check DTC 2. P2 relief valve Inspect for crushed or damaged vacuum tube at control SOL.V 3. Inspect P2 relief valve",
+            "refs": [
+              {
+                "id": "T002547",
+                "label": "Check DTC",
+                "resolved": true
+              },
+              {
+                "id": "R000419",
+                "label": "Inspect P2 relief valve",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "3.",
-          "West gate inspection"
+          {
+            "text": "No power."
+          },
+          {
+            "text": "1. Check DTC 2. Vacuum tube crush/damage inspection of West Gate valve control SOL.V 3. West gate inspection",
+            "refs": [
+              {
+                "id": "T002547",
+                "label": "Check DTC",
+                "resolved": true
+              },
+              {
+                "id": "R000421",
+                "label": "West gate inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Fuel cutoff limiter is activated at around 4,000-5,000 rpm during acceleration."
+          },
+          {
+            "text": "1. Check DTC 2. Vacuum tube crush/damage inspection of West Gate valve control SOL.V 3. West gate inspection",
+            "refs": [
+              {
+                "id": "T002547",
+                "label": "Check DTC",
+                "resolved": true
+              },
+              {
+                "id": "R000421",
+                "label": "West gate inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
         ]
       ]
     }

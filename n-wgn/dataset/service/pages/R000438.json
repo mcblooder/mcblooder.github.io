@@ -187,24 +187,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not disconnect the discharge hose and receiver pipe."
-        },
-        {
-          "text": "Do not disconnect the discharge hose and receiver pipe."
-        },
-        {
-          "text": "Do not bend the receiver pipe."
-        },
-        {
-          "text": "Do not bend the receiver pipe."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "12. Radiator removal"

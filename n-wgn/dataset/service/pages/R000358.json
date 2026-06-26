@@ -156,7 +156,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Raise the car body using a lift. Loosen the torque rod mounting bolt (A). Lower the vehicle body."
+      "text": "Raise the car body using a lift. Lower the vehicle body."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Loosen the torque rod mounting bolt (A)."
     },
     {
       "type": "figure",

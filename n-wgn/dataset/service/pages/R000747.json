@@ -79,30 +79,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Check that the actuator rod is inserted into the actuator, and if it is not, insert it securely."
-        },
-        {
-          "text": "Check that the actuator rod is inserted into the actuator, and if it is not, insert it securely."
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Ensure that the actuator boot covers the entire actuator rod. If the actuator boot tip is misaligned or out of root, return it to the correct position."
-        },
-        {
-          "text": "Ensure that the actuator boot covers the entire actuator rod. If the actuator boot tip is misaligned or out of root, return it to the correct position."
-        }
-      ]
-    },
-    {
       "type": "figure",
       "asset": "747_3.0_jpn_11581148_3.0_disp.png"
     },

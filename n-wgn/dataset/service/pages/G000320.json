@@ -75,42 +75,95 @@
       "type": "table",
       "rows": [
         [
-          "Towing Method",
-          "Driving method",
-          "shift position",
-          "Conditions or precautions"
+          {
+            "text": "Towing Method"
+          },
+          {
+            "text": "Driving method",
+            "colspan": 2
+          },
+          {
+            "text": "shift position"
+          },
+          {
+            "text": "Conditions or precautions"
+          }
         ],
         [
-          "2WD",
-          "4WD"
+          {
+            "text": "2WD"
+          },
+          {
+            "text": "4WD"
+          }
         ],
         [
-          "Towing by rope",
-          "○",
-          "○",
-          "N-position",
-          "(1) Make sure that the HMMF amount is between the upper and lower limit of the level gauge. (If it is below the lower limit, 2WD vehicles should be towed by lifting the front wheels, and 4WD vehicles should be transported by lifting all four wheels.) (2) If the engine starts, start the engine, turn the select lever to the D position once, hold it for about 5 seconds, and then turn it to the N position. If the engine does not start, turn the ignition to ACC mode or ON mode. (3) Release the parking brake."
+          {
+            "text": "Towing by rope"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "N-position"
+          },
+          {
+            "text": "(1) Make sure that the HMMF amount is between the upper and lower limit of the level gauge. (If it is below the lower limit, 2WD vehicles should be towed by lifting the front wheels, and 4WD vehicles should be transported by lifting all four wheels.) (2) If the engine starts, start the engine, turn the select lever to the D position once, hold it for about 5 seconds, and then turn it to the N position. If the engine does not start, turn the ignition to ACC mode or ON mode. (3) Release the parking brake."
+          }
         ],
         [
-          "Towing by lifting the front wheels",
-          "○",
-          "×",
-          "N-position",
-          "Release the parking brake. 4WD vehicle: Never tow a truck with the front or rear wheels on the dolly because the drive unit may be damaged or the wheels may fly off the dolly."
+          {
+            "text": "Towing by lifting the front wheels"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "N-position"
+          },
+          {
+            "text": "Release the parking brake. 4WD vehicle: Never tow a truck with the front or rear wheels on the dolly because the drive unit may be damaged or the wheels may fly off the dolly."
+          }
         ],
         [
-          "Lifting and transporting 4-wheeled vehicles",
-          "○",
-          "○",
-          "P position",
-          "The vehicle must be secured to prevent it from flying out of the vehicle. Apply the parking brake."
+          {
+            "text": "Lifting and transporting 4-wheeled vehicles"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "P position"
+          },
+          {
+            "text": "The vehicle must be secured to prevent it from flying out of the vehicle. Apply the parking brake."
+          }
         ],
         [
-          "Towing by trekker",
-          "○",
-          "×",
-          "N-position",
-          "Release the parking brake. 4WD vehicle: Never tow a truck with the front or rear wheels on the dolly because the drive unit may be damaged or the wheels may fly off the dolly."
+          {
+            "text": "Towing by trekker"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "N-position"
+          },
+          {
+            "text": "Release the parking brake. 4WD vehicle: Never tow a truck with the front or rear wheels on the dolly because the drive unit may be damaged or the wheels may fly off the dolly."
+          }
         ]
       ]
     },

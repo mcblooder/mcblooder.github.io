@@ -57,34 +57,79 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "When replacing capacitor (including 10mL receiver tank capacity)",
-          "25mL"
+          {
+            "text": ""
+          },
+          {
+            "text": "When replacing capacitor (including 10mL receiver tank capacity)",
+            "colspan": 3
+          },
+          {
+            "text": "25mL",
+            "colspan": 2
+          }
         ],
         [
-          "Receiver When replacing tank",
-          "10mL"
+          {
+            "text": "Receiver When replacing tank",
+            "colspan": 3
+          },
+          {
+            "text": "10mL",
+            "colspan": 2
+          }
         ],
         [
-          "When replacing the evaporator",
-          "35mL"
+          {
+            "text": "When replacing the evaporator",
+            "colspan": 3
+          },
+          {
+            "text": "35mL",
+            "colspan": 2
+          }
         ],
         [
-          "When replacing pipes (per pipe)",
-          "10mL each"
+          {
+            "text": "When replacing pipes (per pipe)",
+            "colspan": 3
+          },
+          {
+            "text": "10mL each",
+            "colspan": 2
+          }
         ],
         [
-          "In case of refrigerant gas leakage",
-          "25mL"
+          {
+            "text": "In case of refrigerant gas leakage",
+            "colspan": 3
+          },
+          {
+            "text": "25mL",
+            "colspan": 2
+          }
         ],
         [
-          "",
-          "Be sure to use the specified oil, since the use of non-designated oil for the A/C system with refrigerant HFC-134a (R-134a) may cause compressor failure due to poor lubrication. Do not use oil specifically for the refrigerant HFC-134a (R-134a) as it will adversely affect the acrylic resin, so do not splash the oil. Also, be sure to plug the oil after use because it is highly water absorbent."
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": "Be sure to use the specified oil, since the use of non-designated oil for the A/C system with refrigerant HFC-134a (R-134a) may cause compressor failure due to poor lubrication. Do not use oil specifically for the refrigerant HFC-134a (R-134a) as it will adversely affect the acrylic resin, so do not splash the oil. Also, be sure to plug the oil after use because it is highly water absorbent.",
+            "colspan": 4
+          }
         ],
         [
-          "",
-          "",
-          "When replacing a compressor, remove the amount of oil from the new compressor using the following formula. Amount of oil removed from a new compressor = Amount of oil that can be removed from a new compressor - Amount removed from the removed compressor."
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "When replacing a compressor, remove the amount of oil from the new compressor using the following formula. Amount of oil removed from a new compressor = Amount of oil that can be removed from a new compressor - Amount removed from the removed compressor.",
+            "colspan": 4
+          }
         ]
       ]
     },
@@ -116,16 +161,18 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "P/N 38897-P13-003（120mL）"
+          {
+            "text": "*SP-10:",
+            "colspan": 2
+          }
         ],
         [
-          "",
-          "P/N 38898-P13-003（250mL）"
-        ],
-        [
-          "",
-          "P/N 38899-P13-J01（40mL）"
+          {
+            "text": ""
+          },
+          {
+            "text": "P/N 38897-P13-003（120mL） P/N 38898-P13-003（250mL） P/N 38899-P13-J01（40mL）"
+          }
         ]
       ]
     }

@@ -102,7 +102,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Inspect each part of the valve. Intake: 1 A Std. 101.55－102.05mm B Std. 24.4－24.6mm C Std. 5.48－5.49mm Limit value: 1 5.45mm Exhaust: (1) A Std. 101.25－101.75mm B Std. 20.4－20.6mm C Std. 5.45－5.46mm Limit value: 1 5.42mm"
+      "text": "Inspect each part of the valve."
     },
     {
       "type": "attention",
@@ -112,21 +112,108 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "If below the limit value, the valve shall be replaced."
-        },
-        {
-          "text": "If below the limit value, the valve shall be replaced."
-        },
-        {
-          "text": "If bent or damaged, the valve shall be replaced."
-        },
-        {
-          "text": "If bent or damaged, the valve shall be replaced."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Intake: 1",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "A"
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "101.55－102.05mm"
+          }
+        ],
+        [
+          {
+            "text": "B"
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "24.4－24.6mm"
+          }
+        ],
+        [
+          {
+            "text": "C"
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "5.48－5.49mm"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "5.45mm"
+          }
+        ],
+        [
+          {
+            "text": "Exhaust: (1)",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "A"
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "101.25－101.75mm"
+          }
+        ],
+        [
+          {
+            "text": "B"
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "20.4－20.6mm"
+          }
+        ],
+        [
+          {
+            "text": "C"
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "5.45－5.46mm"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "5.42mm"
+          }
+        ]
       ]
     },
     {
@@ -207,24 +294,6 @@
       "items": [
         "Valve Stem Tap perpendicular to the head and do not bend the valve.",
         "To prevent damage to the valves, always work with the cylinder head raised off the workbench."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Valve Stem Tap perpendicular to the head and do not bend the valve."
-        },
-        {
-          "text": "Valve Stem Tap perpendicular to the head and do not bend the valve."
-        },
-        {
-          "text": "To prevent damage to the valves, always work with the cylinder head raised off the workbench."
-        },
-        {
-          "text": "To prevent damage to the valves, always work with the cylinder head raised off the workbench."
-        }
       ]
     },
     {

@@ -225,7 +225,26 @@
     {
       "type": "step",
       "number": "1",
-      "text": "With the rocker arm and hydraulic tappet removed, install the camshaft and camshaft holder, apply engine oil to the threads and seat of the camshaft holder bolts, and tighten them several times in numerical order. Specified torque － : 8.0N·m (0.82kgf·m)"
+      "text": "With the rocker arm and hydraulic tappet removed, install the camshaft and camshaft holder, apply engine oil to the threads and seat of the camshaft holder bolts, and tighten them several times in numerical order."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Specified torque",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "－ :"
+          },
+          {
+            "text": "8.0N·m (0.82kgf·m)"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -234,7 +253,7 @@
     {
       "type": "step",
       "number": "2",
-      "text": "Inspect the camshaft for axial misalignment. Camshaft axial misalignment Std. 0.075－0.175mm Limit value: 1 0.375mm"
+      "text": "Inspect the camshaft for axial misalignment."
     },
     {
       "type": "attention",
@@ -246,33 +265,24 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The measurement shall be made without scratching or dents on the gasket mating surface of the cylinder head."
-        },
-        {
-          "text": "The measurement shall be made without scratching or dents on the gasket mating surface of the cylinder head."
-        },
-        {
-          "text": "Inspect with the camshaft in the top dead center position (knock pin up) of the No. 1 piston."
-        },
-        {
-          "text": "Inspect with the camshaft in the top dead center position (knock pin up) of the No. 1 piston."
-        },
-        {
-          "text": "Set the dial gauge and move the camshaft axially to read the dial gauge."
-        },
-        {
-          "text": "Set the dial gauge and move the camshaft axially to read the dial gauge."
-        },
-        {
-          "text": "If the limit value is exceeded, replace the camshaft and re-inspect. If the limit value is still exceeded during the re-inspection, replace the cylinder head."
-        },
-        {
-          "text": "If the limit value is exceeded, replace the camshaft and re-inspect. If the limit value is still exceeded during the re-inspection, replace the cylinder head."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.075－0.175mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.375mm"
+          }
+        ]
       ]
     },
     {
@@ -297,7 +307,26 @@
     {
       "type": "step",
       "number": "7",
-      "text": "Install the camshafts and camshaft holders, lubricate the threads and seat surfaces of the camshaft holder bolts with engine oil, and tighten the bolts several times in numerical order. Specified torque － : 8.0N·m (0.82kgf·m)"
+      "text": "Install the camshafts and camshaft holders, lubricate the threads and seat surfaces of the camshaft holder bolts with engine oil, and tighten the bolts several times in numerical order."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Specified torque",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "－ :"
+          },
+          {
+            "text": "8.0N·m (0.82kgf·m)"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",
@@ -306,7 +335,7 @@
     {
       "type": "step",
       "number": "8",
-      "text": "Remove the camshaft holder and measure the crushed width of the plastigauge with the scale printed on the bag of the plastigauge. Camshaft oil clearance No. 1 Journal:. Std. 0.030－0.069mm Limit value: 1 0.12mm No. 2, 3, 4 Journal:. Std. 0.060－0.090mm Limit value: 1 0.15mm"
+      "text": "Remove the camshaft holder and measure the crushed width of the plastigauge with the scale printed on the bag of the plastigauge."
     },
     {
       "type": "attention",
@@ -316,21 +345,52 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Measurements should be taken at the widest crushed point."
-        },
-        {
-          "text": "Measurements should be taken at the widest crushed point."
-        },
-        {
-          "text": "If the limit value is exceeded, replace the cylinder head and re-inspect. If the limit value is still exceeded during the re-inspection, replace the camshafts."
-        },
-        {
-          "text": "If the limit value is exceeded, replace the cylinder head and re-inspect. If the limit value is still exceeded during the re-inspection, replace the camshafts."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "No. 1 Journal:.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.030－0.069mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.12mm"
+          }
+        ],
+        [
+          {
+            "text": "No. 2, 3, 4 Journal:.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.060－0.090mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.15mm"
+          }
+        ]
       ]
     },
     {
@@ -340,7 +400,7 @@
     {
       "type": "step",
       "number": "9",
-      "text": "Measure the runout of the camshaft. Camshaft runout Std. 0.03 mm or less"
+      "text": "Measure the runout of the camshaft."
     },
     {
       "type": "attention",
@@ -352,33 +412,16 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The journal sections at both ends shall be supported by V-blocks or other means."
-        },
-        {
-          "text": "The journal sections at both ends shall be supported by V-blocks or other means."
-        },
-        {
-          "text": "Inspect camshaft runout with a dial gauge."
-        },
-        {
-          "text": "Inspect camshaft runout with a dial gauge."
-        },
-        {
-          "text": "Inspect while rotating the camshaft."
-        },
-        {
-          "text": "Inspect while rotating the camshaft."
-        },
-        {
-          "text": "If runout is greater than the standard value, the camshaft should be replaced."
-        },
-        {
-          "text": "If runout is greater than the standard value, the camshaft should be replaced."
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.03 mm or less"
+          }
+        ]
       ]
     },
     {
@@ -388,7 +431,40 @@
     {
       "type": "step",
       "number": "10",
-      "text": "Inspect cam surfaces for damage or wear and measure height (A). Cam Height Intake: 1 Std. 33.263mm Exhaust: (1) Std. 33.260mm"
+      "text": "Inspect cam surfaces for damage or wear and measure height (A)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Intake: 1",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "33.263mm"
+          }
+        ],
+        [
+          {
+            "text": "Exhaust: (1)",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "33.260mm"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -505,31 +581,32 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The camshaft holder must be assembled with the arrow pointing toward the cam chain."
-        },
-        {
-          "text": "The camshaft holder must be assembled with the arrow pointing toward the cam chain."
-        },
-        {
-          "text": "Check to make sure that the rocker arm is not tilted after the camshaft is installed."
-        },
-        {
-          "text": "Check to make sure that the rocker arm is not tilted after the camshaft is installed."
-        }
-      ]
-    },
-    {
       "type": "figure",
       "asset": "2131_7.0_jpn_11582876_7.0_disp.png"
     },
     {
       "type": "step",
       "number": "2",
-      "text": "Lubricate the threads and seat surfaces of the camshaft holder bolts with engine oil and tighten them several times in numerical order. Specified torque － : 8.0N·m (0.82kgf·m) Fix the hexagonal part of the camshaft with a wrench, etc., and turn the VTC actuator clockwise to lock it."
+      "text": "Lubricate the threads and seat surfaces of the camshaft holder bolts with engine oil and tighten them several times in numerical order. Fix the hexagonal part of the camshaft with a wrench, etc., and turn the VTC actuator clockwise to lock it."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Specified torque",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "－ :"
+          },
+          {
+            "text": "8.0N·m (0.82kgf·m)"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",

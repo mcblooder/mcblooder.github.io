@@ -107,6 +107,11 @@
     },
     {
       "type": "step",
+      "number": "1",
+      "text": "Turn the ignition to the ON mode. To perform system connection diagnostics and F-CAN diagnostics, start the engine."
+    },
+    {
+      "type": "step",
       "number": "",
       "text": "2. With the map screen displayed, press the eject button, power ( Press and hold down the (▲) and HOME buttons simultaneously until the diagnostic menu screen is displayed."
     },
@@ -140,11 +145,66 @@
     {
       "type": "step",
       "number": "",
-      "text": "1. When system connection diagnostics is selected, the system starts diagnostics of the connection between the audio unit and the external connection unit and audio input/output diagnostics by outputting electronic sounds. During the system diagnosis, the display shows ''Diagnosis in progress ...'' at the bottom of the screen. is displayed at the bottom of the screen during system diagnosis. 2. Select ''Hard Key'' to perform diagnosis (see Unit Diagnostics section). Select ''Return'' after diagnosis is completed. 3. Check the color of the box being displayed. Box Color condition white under diagnosis ash without diagnosis *1 yellow No connection (YOP) or warning *2 red Connection (diagnosis) NG green Connection (diagnosis) OK *1: *2: For error history, if there is even one error in the error history (both hardware and software errors), it is displayed in yellow. 4. If there is a red or yellow box, select the box to view the unit diagnostic details (see each unit diagnostic item). 5. To exit diagnosis, select ''Exit Diag'' to switch to the normal screen. Selecting ''Back'' will switch to the diagnostic menu screen."
+      "text": "1. When system connection diagnostics is selected, the system starts diagnostics of the connection between the audio unit and the external connection unit and audio input/output diagnostics by outputting electronic sounds. During the system diagnosis, the display shows ''Diagnosis in progress ...'' at the bottom of the screen. is displayed at the bottom of the screen during system diagnosis. 2. Select ''Hard Key'' to perform diagnosis (see Unit Diagnostics section). Select ''Return'' after diagnosis is completed. 3. Check the color of the box being displayed. *1: *2: For error history, if there is even one error in the error history (both hardware and software errors), it is displayed in yellow. 4. If there is a red or yellow box, select the box to view the unit diagnostic details (see each unit diagnostic item). 5. To exit diagnosis, select ''Exit Diag'' to switch to the normal screen. Selecting ''Back'' will switch to the diagnostic menu screen."
     },
     {
       "type": "figure",
       "asset": "2080_3.0_jpn_11390517_2.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Box Color",
+            "header": true
+          },
+          {
+            "text": "condition",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "white"
+          },
+          {
+            "text": "under diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "ash"
+          },
+          {
+            "text": "without diagnosis *1"
+          }
+        ],
+        [
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "No connection (YOP) or warning *2"
+          }
+        ],
+        [
+          {
+            "text": "red"
+          },
+          {
+            "text": "Connection (diagnosis) NG"
+          }
+        ],
+        [
+          {
+            "text": "green"
+          },
+          {
+            "text": "Connection (diagnosis) OK"
+          }
+        ]
+      ]
     },
     {
       "type": "list",
@@ -426,16 +486,30 @@
       "type": "table",
       "rows": [
         [
-          "data-name",
-          "Transmitting Unit"
+          {
+            "text": "data-name",
+            "header": true
+          },
+          {
+            "text": "Transmitting Unit",
+            "header": true
+          }
         ],
         [
-          "VSPNE, AT, ILLUMI, STRG_ANG, ODO_TRIP, TRICOM1-4",
-          "Combination Meter"
+          {
+            "text": "VSPNE, AT, ILLUMI, STRG_ANG, ODO_TRIP, TRICOM1-4"
+          },
+          {
+            "text": "Combination Meter"
+          }
         ],
         [
-          "ACINFO",
-          "Auto A/C control unit"
+          {
+            "text": "ACINFO"
+          },
+          {
+            "text": "Auto A/C control unit"
+          }
         ]
       ]
     },
@@ -467,49 +541,106 @@
       "type": "table",
       "rows": [
         [
-          "display items",
-          "source (e.g. query)",
-          "remarks"
+          {
+            "text": "display items",
+            "header": true
+          },
+          {
+            "text": "source (e.g. query)",
+            "header": true
+          },
+          {
+            "text": "remarks",
+            "header": true
+          }
         ],
         [
-          "BACK",
-          "BACK LT Line",
-          "1: When select lever is in R position 0: Other than above"
+          {
+            "text": "BACK"
+          },
+          {
+            "text": "BACK LT Line"
+          },
+          {
+            "text": "1: When select lever is in R position 0: Other than above"
+          }
         ],
         [
-          "IG",
-          "B-CAN Line",
-          "1: In ignition ON mode 0: Other than above"
+          {
+            "text": "IG"
+          },
+          {
+            "text": "B-CAN Line"
+          },
+          {
+            "text": "1: In ignition ON mode 0: Other than above"
+          }
         ],
         [
-          "ILL",
-          "B-CAN Line",
-          "1: With small lights or headlights on 0: Other than above"
+          {
+            "text": "ILL"
+          },
+          {
+            "text": "B-CAN Line"
+          },
+          {
+            "text": "1: With small lights or headlights on 0: Other than above"
+          }
         ],
         [
-          "ILL CANCEL",
-          "B-CAN Line",
-          "1: With the small light on and illumination illumination brightness greater than 90%. 0: Other than above"
+          {
+            "text": "ILL CANCEL"
+          },
+          {
+            "text": "B-CAN Line"
+          },
+          {
+            "text": "1: With the small light on and illumination illumination brightness greater than 90%. 0: Other than above"
+          }
         ],
         [
-          "ILL STEP",
-          "B-CAN Line",
-          "Illumination illumination intensity in steps of 1 to 22 when small lights are turned on"
+          {
+            "text": "ILL STEP"
+          },
+          {
+            "text": "B-CAN Line"
+          },
+          {
+            "text": "Illumination illumination intensity in steps of 1 to 22 when small lights are turned on"
+          }
         ],
         [
-          "Speed",
-          "B-CAN Line",
-          "Display of vehicle speed in km/h"
+          {
+            "text": "Speed"
+          },
+          {
+            "text": "B-CAN Line"
+          },
+          {
+            "text": "Display of vehicle speed in km/h"
+          }
         ],
         [
-          "PARK-VIDEO",
-          "PARKING BRAKE SW line",
-          "1: Apply the parking brake 0: Release the parking brake"
+          {
+            "text": "PARK-VIDEO"
+          },
+          {
+            "text": "PARKING BRAKE SW line"
+          },
+          {
+            "text": "1: Apply the parking brake 0: Release the parking brake"
+          }
         ],
         [
-          "PARK",
-          "B-CAN Line",
-          "1: Apply the parking brake 0: Release the parking brake"
+          {
+            "text": "PARK"
+          },
+          {
+            "text": "B-CAN Line"
+          },
+          {
+            "text": "1: Apply the parking brake 0: Release the parking brake"
+          }
         ]
       ]
     },
@@ -759,12 +890,20 @@
       "type": "table",
       "rows": [
         [
-          "Order of speaker sound when ''UP'' is selected: ''UP'' is selected.",
-          "→ → → → → →"
+          {
+            "text": "Order of speaker sound when ''UP'' is selected: ''UP'' is selected."
+          },
+          {
+            "text": "→ → → → → →"
+          }
         ],
         [
-          "Order of speaker sound when ''Down'' is selected.",
-          "→ → → → → →"
+          {
+            "text": "Order of speaker sound when ''Down'' is selected."
+          },
+          {
+            "text": "→ → → → → →"
+          }
         ]
       ]
     },
@@ -772,44 +911,95 @@
       "type": "table",
       "rows": [
         [
-          "",
-          "display screen",
-          "condition"
+          {
+            "text": "",
+            "header": true
+          },
+          {
+            "text": "display screen",
+            "header": true
+          },
+          {
+            "text": "condition",
+            "header": true
+          }
         ],
         [
-          "",
-          "FL",
-          "Front left side loudspeaker ringing"
+          {
+            "text": ""
+          },
+          {
+            "text": "FL"
+          },
+          {
+            "text": "Front left side loudspeaker ringing"
+          }
         ],
         [
-          "",
-          "FR",
-          "Front right side loudspeaker ringing"
+          {
+            "text": ""
+          },
+          {
+            "text": "FR"
+          },
+          {
+            "text": "Front right side loudspeaker ringing"
+          }
         ],
         [
-          "",
-          "RR",
-          "Rear right side loudspeaker sounds"
+          {
+            "text": ""
+          },
+          {
+            "text": "RR"
+          },
+          {
+            "text": "Rear right side loudspeaker sounds"
+          }
         ],
         [
-          "",
-          "RL",
-          "Rear left side loudspeaker sounds"
+          {
+            "text": ""
+          },
+          {
+            "text": "RL"
+          },
+          {
+            "text": "Rear left side loudspeaker sounds"
+          }
         ],
         [
-          "",
-          "FL-TW *",
-          "―――"
+          {
+            "text": ""
+          },
+          {
+            "text": "FL-TW *"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "",
-          "FR-TW *",
-          "―――"
+          {
+            "text": ""
+          },
+          {
+            "text": "FR-TW *"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "",
-          "ALL",
-          "All loudspeakers sound"
+          {
+            "text": ""
+          },
+          {
+            "text": "ALL"
+          },
+          {
+            "text": "All loudspeakers sound"
+          }
         ]
       ]
     },
@@ -817,7 +1007,9 @@
       "type": "table",
       "rows": [
         [
-          "*: Diagnostics not applicable for this model"
+          {
+            "text": "*: Diagnostics not applicable for this model"
+          }
         ]
       ]
     },
@@ -1158,6 +1350,11 @@
     {
       "type": "paragraph",
       "text": "If an inline dialog is displayed when the audio unit is activated, cancel and reconfigure the inline dialog."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition to ON mode."
     },
     {
       "type": "step",

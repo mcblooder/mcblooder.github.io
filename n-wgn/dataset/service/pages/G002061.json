@@ -39,154 +39,358 @@
       "type": "table",
       "rows": [
         [
-          "port (e.g. LAN port)",
-          "Wiring color",
-          "Terminal name",
-          "Contents"
+          {
+            "text": "port (e.g. LAN port)",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Terminal name",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
         ],
         [
-          "1",
-          "black",
-          "GND",
-          "Grounding of Audio & Navigation Units (G402)"
+          {
+            "text": "1"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "GND"
+          },
+          {
+            "text": "Grounding of Audio & Navigation Units (G402)"
+          }
         ],
         [
-          "2",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "2"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "3",
-          "yellow",
-          "＋B BACKUP BST",
-          "12V battery power"
+          {
+            "text": "3"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "＋B BACKUP BST"
+          },
+          {
+            "text": "12V battery power"
+          }
         ],
         [
-          "4",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "4"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "5",
-          "white",
-          "RL SPKR＋",
-          "rear left audio signal"
+          {
+            "text": "5"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "RL SPKR＋"
+          },
+          {
+            "text": "rear left audio signal"
+          }
         ],
         [
-          "6",
-          "ash",
-          "RL SPKR－",
-          "rear left audio signal"
+          {
+            "text": "6"
+          },
+          {
+            "text": "ash"
+          },
+          {
+            "text": "RL SPKR－"
+          },
+          {
+            "text": "rear left audio signal"
+          }
         ],
         [
-          "7",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "7"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "8",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "8"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "9",
-          "green",
-          "RR SPKR＋",
-          "Rear right voice signal"
+          {
+            "text": "9"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "RR SPKR＋"
+          },
+          {
+            "text": "Rear right voice signal"
+          }
         ],
         [
-          "10",
-          "new leaves",
-          "RR SPKR－",
-          "Rear right voice signal"
+          {
+            "text": "10"
+          },
+          {
+            "text": "new leaves"
+          },
+          {
+            "text": "RR SPKR－"
+          },
+          {
+            "text": "Rear right voice signal"
+          }
         ],
         [
-          "11",
-          "ash",
-          "REMOTE SW GND",
-          "Audio Remote Switch Grounding"
+          {
+            "text": "11"
+          },
+          {
+            "text": "ash"
+          },
+          {
+            "text": "REMOTE SW GND"
+          },
+          {
+            "text": "Audio Remote Switch Grounding"
+          }
         ],
         [
-          "12",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "12"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "13",
-          "green",
-          "K LINE",
-          "communication signal"
+          {
+            "text": "13"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "K LINE"
+          },
+          {
+            "text": "communication signal"
+          }
         ],
         [
-          "14",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "14"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "15",
-          "green",
-          "FL SPKR＋",
-          "Front left audio signal"
+          {
+            "text": "15"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "FL SPKR＋"
+          },
+          {
+            "text": "Front left audio signal"
+          }
         ],
         [
-          "16",
-          "hollow",
-          "FL SPKR－",
-          "Front left audio signal"
+          {
+            "text": "16"
+          },
+          {
+            "text": "hollow"
+          },
+          {
+            "text": "FL SPKR－"
+          },
+          {
+            "text": "Front left audio signal"
+          }
         ],
         [
-          "17",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "17"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "18",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "18"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "19",
-          "red",
-          "FR SPKR＋",
-          "Front right audio signal"
+          {
+            "text": "19"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "FR SPKR＋"
+          },
+          {
+            "text": "Front right audio signal"
+          }
         ],
         [
-          "20",
-          "peach",
-          "FR SPKR－",
-          "Front right audio signal"
+          {
+            "text": "20"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "FR SPKR－"
+          },
+          {
+            "text": "Front right audio signal"
+          }
         ],
         [
-          "21",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "21"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "22",
-          "yellow",
-          "AUDIO REMOTE SW",
-          "Audio Remote switch operation signal"
+          {
+            "text": "22"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "AUDIO REMOTE SW"
+          },
+          {
+            "text": "Audio Remote switch operation signal"
+          }
         ],
         [
-          "23",
-          "purple",
-          "INFO SW",
-          "Audio Remote switch (DISPLAY button) operation signal"
+          {
+            "text": "23"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "INFO SW"
+          },
+          {
+            "text": "Audio Remote switch (DISPLAY button) operation signal"
+          }
         ],
         [
-          "24",
-          "white",
-          "ACC(BST)",
-          "Accessory Power Supply"
+          {
+            "text": "24"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "ACC(BST)"
+          },
+          {
+            "text": "Accessory Power Supply"
+          }
         ]
       ]
     },
@@ -198,130 +402,302 @@
       "type": "table",
       "rows": [
         [
-          "port (e.g. LAN port)",
-          "Wiring color",
-          "Terminal name",
-          "Contents"
+          {
+            "text": "port (e.g. LAN port)",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Terminal name",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
         ],
         [
-          "1",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "1"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "2",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "2"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "3",
-          "peach",
-          "B-CAN_L",
-          "B-CAN communication signal"
+          {
+            "text": "3"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "B-CAN_L"
+          },
+          {
+            "text": "B-CAN communication signal"
+          }
         ],
         [
-          "4",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "4"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "5",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "5"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "6",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "6"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "7",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "7"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "8",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "8"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "9",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "9"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "10",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "10"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "11",
-          "weak matcha",
-          "PARKING BRAKE SW",
-          "Parking brake switch signal"
+          {
+            "text": "11"
+          },
+          {
+            "text": "weak matcha"
+          },
+          {
+            "text": "PARKING BRAKE SW"
+          },
+          {
+            "text": "Parking brake switch signal"
+          }
         ],
         [
-          "12",
-          "green",
-          "HFT REMOTE SW",
-          "HFT switch operation signal"
+          {
+            "text": "12"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "HFT REMOTE SW"
+          },
+          {
+            "text": "HFT switch operation signal"
+          }
         ],
         [
-          "13",
-          "green",
-          "B-CAN_H",
-          "B-CAN communication signal"
+          {
+            "text": "13"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "B-CAN_H"
+          },
+          {
+            "text": "B-CAN communication signal"
+          }
         ],
         [
-          "14",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "14"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "15",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "15"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "16",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "16"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "17",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "17"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "18",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "18"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "19",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "19"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "20",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "20"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ]
       ]
     },
@@ -333,154 +709,358 @@
       "type": "table",
       "rows": [
         [
-          "port (e.g. LAN port)",
-          "Wiring color",
-          "Terminal name",
-          "Contents"
+          {
+            "text": "port (e.g. LAN port)",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Terminal name",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
         ],
         [
-          "1",
-          "red",
-          "F-CAN_L",
-          "F-CAN communication signal"
+          {
+            "text": "1"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "F-CAN_L"
+          },
+          {
+            "text": "F-CAN communication signal"
+          }
         ],
         [
-          "2",
-          "ash",
-          "SH CAMERA",
-          "Shields for terminals No.3, No.4, No.15 and No.16"
+          {
+            "text": "2"
+          },
+          {
+            "text": "ash"
+          },
+          {
+            "text": "SH CAMERA"
+          },
+          {
+            "text": "Shields for terminals No.3, No.4, No.15 and No.16"
+          }
         ],
         [
-          "3",
-          "red",
-          "CAMERA GND",
-          "Rear camera Video signal grounding"
+          {
+            "text": "3"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "CAMERA GND"
+          },
+          {
+            "text": "Rear camera Video signal grounding"
+          }
         ],
         [
-          "4",
-          "black",
-          "RC GND",
-          "Rear Camera Grounding"
+          {
+            "text": "4"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "RC GND"
+          },
+          {
+            "text": "Rear Camera Grounding"
+          }
         ],
         [
-          "5",
-          "tea",
-          "CAMERA BIT0",
-          "Rear camera display switching signal"
+          {
+            "text": "5"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "CAMERA BIT0"
+          },
+          {
+            "text": "Rear camera display switching signal"
+          }
         ],
         [
-          "6",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "6"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "7",
-          "white",
-          "BACK LT",
-          "reverse video"
+          {
+            "text": "7"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "BACK LT"
+          },
+          {
+            "text": "reverse video"
+          }
         ],
         [
-          "8",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "8"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "9",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "9"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "10",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "10"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "11",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "11"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "12",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "12"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "13",
-          "white",
-          "F-CAN_H",
-          "F-CAN communication signal"
+          {
+            "text": "13"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "F-CAN_H"
+          },
+          {
+            "text": "F-CAN communication signal"
+          }
         ],
         [
-          "14",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "14"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "15",
-          "green",
-          "CAMERA V",
-          "Rear camera NTSC signal"
+          {
+            "text": "15"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "CAMERA V"
+          },
+          {
+            "text": "Rear camera NTSC signal"
+          }
         ],
         [
-          "16",
-          "white",
-          "CAMERA VCC",
-          "Power supply for rear camera"
+          {
+            "text": "16"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "CAMERA VCC"
+          },
+          {
+            "text": "Power supply for rear camera"
+          }
         ],
         [
-          "17",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "17"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "18",
-          "green",
-          "CAMERA BIT1",
-          "Rear camera display switching signal"
+          {
+            "text": "18"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "CAMERA BIT1"
+          },
+          {
+            "text": "Rear camera display switching signal"
+          }
         ],
         [
-          "19",
-          "purple",
-          "CAMERA ADPT",
-          "Rear Camera connection detection signal"
+          {
+            "text": "19"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "CAMERA ADPT"
+          },
+          {
+            "text": "Rear Camera connection detection signal"
+          }
         ],
         [
-          "20",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "20"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "21",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "21"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "22",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "22"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "23",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "23"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ],
         [
-          "24",
-          "unused",
-          "unused",
-          "―――"
+          {
+            "text": "24"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
         ]
       ]
     },
@@ -492,28 +1072,64 @@
       "type": "table",
       "rows": [
         [
-          "port (e.g. LAN port)",
-          "Wiring color",
-          "Terminal name",
-          "Contents"
+          {
+            "text": "port (e.g. LAN port)",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Terminal name",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
         ],
         [
-          "1",
-          "black",
-          "SWD＋B",
-          "Roof Antenna Power Supply"
+          {
+            "text": "1"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "SWD＋B"
+          },
+          {
+            "text": "Roof Antenna Power Supply"
+          }
         ],
         [
-          "2",
-          "―――",
-          "AM/FM",
-          "AM/FM RF input"
+          {
+            "text": "2"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "AM/FM"
+          },
+          {
+            "text": "AM/FM RF input"
+          }
         ],
         [
-          "3",
-          "black",
-          "SH（AM/FM）",
-          "Shield of terminal No. 2"
+          {
+            "text": "3"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "SH（AM/FM）"
+          },
+          {
+            "text": "Shield of terminal No. 2"
+          }
         ]
       ]
     },
@@ -525,130 +1141,302 @@
       "type": "table",
       "rows": [
         [
-          "port (e.g. LAN port)",
-          "Wiring color",
-          "Terminal name",
-          "Contents"
+          {
+            "text": "port (e.g. LAN port)",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Terminal name",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
         ],
         [
-          "1",
-          "―――",
-          "T.M.D.S DATA2＋",
-          "Audio/Video input signal"
+          {
+            "text": "1"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "T.M.D.S DATA2＋"
+          },
+          {
+            "text": "Audio/Video input signal"
+          }
         ],
         [
-          "2",
-          "―――",
-          "T.M.D.S DATA2 SHIELD",
-          "Shield of terminal No.1 and No.3"
+          {
+            "text": "2"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "T.M.D.S DATA2 SHIELD"
+          },
+          {
+            "text": "Shield of terminal No.1 and No.3"
+          }
         ],
         [
-          "3",
-          "―――",
-          "T.M.D.S DATA2－",
-          "Audio/Video input signal"
+          {
+            "text": "3"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "T.M.D.S DATA2－"
+          },
+          {
+            "text": "Audio/Video input signal"
+          }
         ],
         [
-          "4",
-          "―――",
-          "T.M.D.S DATA1＋",
-          "Audio/Video input signal"
+          {
+            "text": "4"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "T.M.D.S DATA1＋"
+          },
+          {
+            "text": "Audio/Video input signal"
+          }
         ],
         [
-          "5",
-          "―――",
-          "T.M.D.S DATA1 SHIELD",
-          "Shield of terminal No.4 and No.6"
+          {
+            "text": "5"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "T.M.D.S DATA1 SHIELD"
+          },
+          {
+            "text": "Shield of terminal No.4 and No.6"
+          }
         ],
         [
-          "6",
-          "―――",
-          "T.M.D.S DATA1－",
-          "Audio/Video input signal"
+          {
+            "text": "6"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "T.M.D.S DATA1－"
+          },
+          {
+            "text": "Audio/Video input signal"
+          }
         ],
         [
-          "7",
-          "―――",
-          "T.M.D.S DATA0＋",
-          "Audio/Video input signal"
+          {
+            "text": "7"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "T.M.D.S DATA0＋"
+          },
+          {
+            "text": "Audio/Video input signal"
+          }
         ],
         [
-          "8",
-          "―――",
-          "T.M.D.S DATA0 SHIELD",
-          "Shield of terminal No.7 and No.9"
+          {
+            "text": "8"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "T.M.D.S DATA0 SHIELD"
+          },
+          {
+            "text": "Shield of terminal No.7 and No.9"
+          }
         ],
         [
-          "9",
-          "―――",
-          "T.M.D.S DATA0－",
-          "Audio/Video input signal"
+          {
+            "text": "9"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "T.M.D.S DATA0－"
+          },
+          {
+            "text": "Audio/Video input signal"
+          }
         ],
         [
-          "10",
-          "―――",
-          "T.M.D.S CLOCK＋",
-          "TMDS synchronous signal"
+          {
+            "text": "10"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "T.M.D.S CLOCK＋"
+          },
+          {
+            "text": "TMDS synchronous signal"
+          }
         ],
         [
-          "11",
-          "―――",
-          "T.M.D.S CLOCK SHIELD",
-          "Shield of terminal No.10 and No.12"
+          {
+            "text": "11"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "T.M.D.S CLOCK SHIELD"
+          },
+          {
+            "text": "Shield of terminal No.10 and No.12"
+          }
         ],
         [
-          "12",
-          "―――",
-          "T.M.D.S CLOCK－",
-          "TMDS synchronous signal"
+          {
+            "text": "12"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "T.M.D.S CLOCK－"
+          },
+          {
+            "text": "TMDS synchronous signal"
+          }
         ],
         [
-          "13",
-          "―――",
-          "CEC",
-          "HDMI operation signal"
+          {
+            "text": "13"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "CEC"
+          },
+          {
+            "text": "HDMI operation signal"
+          }
         ],
         [
-          "14",
-          "―――",
-          "UTILITY",
-          "(Not used)"
+          {
+            "text": "14"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "UTILITY"
+          },
+          {
+            "text": "(Not used)"
+          }
         ],
         [
-          "15",
-          "―――",
-          "SCL",
-          "I2C bus synchronous signal"
+          {
+            "text": "15"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "SCL"
+          },
+          {
+            "text": "I2C bus synchronous signal"
+          }
         ],
         [
-          "16",
-          "―――",
-          "SDA",
-          "I2C bus communication signal"
+          {
+            "text": "16"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "SDA"
+          },
+          {
+            "text": "I2C bus communication signal"
+          }
         ],
         [
-          "17",
-          "―――",
-          "DDC, CEC GROUND",
-          "HDMI operation signal grounding"
+          {
+            "text": "17"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "DDC, CEC GROUND"
+          },
+          {
+            "text": "HDMI operation signal grounding"
+          }
         ],
         [
-          "18",
-          "―――",
-          "＋5V POWER",
-          "5V output"
+          {
+            "text": "18"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "＋5V POWER"
+          },
+          {
+            "text": "5V output"
+          }
         ],
         [
-          "19",
-          "―――",
-          "HOT PLUG DETECT",
-          "connection detection signal"
+          {
+            "text": "19"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "HOT PLUG DETECT"
+          },
+          {
+            "text": "connection detection signal"
+          }
         ],
         [
-          "20",
-          "―――",
-          "SHIELD",
-          "Shielding of all terminals"
+          {
+            "text": "20"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "SHIELD"
+          },
+          {
+            "text": "Shielding of all terminals"
+          }
         ]
       ]
     },
@@ -660,40 +1448,92 @@
       "type": "table",
       "rows": [
         [
-          "port (e.g. LAN port)",
-          "Wiring color",
-          "Terminal name",
-          "Contents"
+          {
+            "text": "port (e.g. LAN port)",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Terminal name",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
         ],
         [
-          "1",
-          "―――",
-          "USB1 GND",
-          "Grounding of USB-connected devices"
+          {
+            "text": "1"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "USB1 GND"
+          },
+          {
+            "text": "Grounding of USB-connected devices"
+          }
         ],
         [
-          "2",
-          "―――",
-          "USB1 VBUS",
-          "Power source for USB connected devices"
+          {
+            "text": "2"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "USB1 VBUS"
+          },
+          {
+            "text": "Power source for USB connected devices"
+          }
         ],
         [
-          "3",
-          "―――",
-          "USB1 DATA＋",
-          "USB communication signal"
+          {
+            "text": "3"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "USB1 DATA＋"
+          },
+          {
+            "text": "USB communication signal"
+          }
         ],
         [
-          "4",
-          "―――",
-          "USB1 DATA－",
-          "USB communication signal"
+          {
+            "text": "4"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "USB1 DATA－"
+          },
+          {
+            "text": "USB communication signal"
+          }
         ],
         [
-          "5",
-          "―――",
-          "USB1 SH",
-          "Shield of terminal No.1, No.2, No.3, No.4"
+          {
+            "text": "5"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "USB1 SH"
+          },
+          {
+            "text": "Shield of terminal No.1, No.2, No.3, No.4"
+          }
         ]
       ]
     },
@@ -705,40 +1545,92 @@
       "type": "table",
       "rows": [
         [
-          "port (e.g. LAN port)",
-          "Wiring color",
-          "Terminal name",
-          "Contents"
+          {
+            "text": "port (e.g. LAN port)",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Terminal name",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
         ],
         [
-          "1",
-          "―――",
-          "USB2 GND",
-          "Grounding of USB-connected devices"
+          {
+            "text": "1"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "USB2 GND"
+          },
+          {
+            "text": "Grounding of USB-connected devices"
+          }
         ],
         [
-          "2",
-          "―――",
-          "USB2 VBUS",
-          "Power source for USB connected devices"
+          {
+            "text": "2"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "USB2 VBUS"
+          },
+          {
+            "text": "Power source for USB connected devices"
+          }
         ],
         [
-          "3",
-          "―――",
-          "USB2 DATA＋",
-          "USB communication signal"
+          {
+            "text": "3"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "USB2 DATA＋"
+          },
+          {
+            "text": "USB communication signal"
+          }
         ],
         [
-          "4",
-          "―――",
-          "USB2 DATA－",
-          "USB communication signal"
+          {
+            "text": "4"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "USB2 DATA－"
+          },
+          {
+            "text": "USB communication signal"
+          }
         ],
         [
-          "5",
-          "―――",
-          "USB2 SH",
-          "Shield of terminal No.1, No.2, No.3, No.4"
+          {
+            "text": "5"
+          },
+          {
+            "text": "―――"
+          },
+          {
+            "text": "USB2 SH"
+          },
+          {
+            "text": "Shield of terminal No.1, No.2, No.3, No.4"
+          }
         ]
       ]
     }

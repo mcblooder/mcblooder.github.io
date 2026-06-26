@@ -54,6 +54,36 @@
           "text": "Continuous use shall be limited to 3 minutes or less."
         }
       ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Set the free rollers to match the wheelbase and tread of the vehicle."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Place the front wheels of the vehicle on the speedometer tester and the rear wheels on the free rollers. Ensure that the center of the front and rear wheels are centered on the speedometer tester and free roller."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Secure the vehicle using towing hooks and tie-down hooks to prevent lateral swing."
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Start the engine and turn the select lever to the D position."
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Start with the accelerator pedal depressed slowly, and then gradually increase the speed to take the measurement."
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "After the measurement, the vehicle is gradually decelerated to a stop by gentle brake operation."
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000513_jpn/web/html/G000513_jpn_Content.html",

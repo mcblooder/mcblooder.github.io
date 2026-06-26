@@ -16,7 +16,23 @@
   ],
   "assetDir": "assets/T001296",
   "assets": [],
-  "crossRefs": [],
+  "crossRefs": [
+    {
+      "id": "T002567",
+      "label": "Inspect data link circuits",
+      "resolved": false
+    },
+    {
+      "id": "T001298",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T001297",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    }
+  ],
   "blocks": [
     {
       "type": "heading",
@@ -27,24 +43,72 @@
       "type": "table",
       "rows": [
         [
-          "symptoms",
-          "probable cause",
-          "related item"
+          {
+            "text": "symptoms",
+            "header": true
+          },
+          {
+            "text": "probable cause",
+            "header": true
+          },
+          {
+            "text": "related item",
+            "header": true
+          }
         ],
         [
-          "HDS does not communicate with EPS control unit or vehicle",
-          "Inspect data link circuits",
-          ""
+          {
+            "text": "HDS does not communicate with EPS control unit or vehicle"
+          },
+          {
+            "text": "Inspect data link circuits",
+            "refs": [
+              {
+                "id": "T002567",
+                "label": "Inspect data link circuits",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "EPS warning light does not illuminate",
-          "Failure Diagnosis by Symptom",
-          ""
+          {
+            "text": "EPS warning light does not illuminate"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T001298",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
         ],
         [
-          "EPS warning light does not turn off",
-          "Failure Diagnosis by Symptom",
-          ""
+          {
+            "text": "EPS warning light does not turn off"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T001297",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
         ]
       ]
     }

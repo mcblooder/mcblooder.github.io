@@ -157,30 +157,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "To prevent brake fluid from spilling out, the joints of the disconnected hoses must be covered with plugs or other means."
-        },
-        {
-          "text": "To prevent brake fluid from spilling out, the joints of the disconnected hoses must be covered with plugs or other means."
-        },
-        {
-          "text": "Do not allow brake fluid to adhere to painted surfaces. If it does adhere, wash it off with water immediately."
-        },
-        {
-          "text": "Do not allow brake fluid to adhere to painted surfaces. If it does adhere, wash it off with water immediately."
-        },
-        {
-          "text": "When installing, do not twist the brake hose forcibly."
-        },
-        {
-          "text": "When installing, do not twist the brake hose forcibly."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "7. Remove hub bearing unit and rear wheel sensor",
@@ -215,30 +191,6 @@
       "items": [
         "Do not forcibly twist or strongly bend the parking brake cable. A deformed or damaged cable may cause malfunction or cut damage.",
         "To prevent damage to other parts, the brake assembly should be secured with a wire or other means."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not forcibly twist or strongly bend the parking brake cable. A deformed or damaged cable may cause malfunction or cut damage."
-        },
-        {
-          "text": "Do not forcibly twist or strongly bend the parking brake cable. A deformed or damaged cable may cause malfunction or cut damage."
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "To prevent damage to other parts, the brake assembly should be secured with a wire or other means."
-        },
-        {
-          "text": "To prevent damage to other parts, the brake assembly should be secured with a wire or other means."
-        }
       ]
     },
     {

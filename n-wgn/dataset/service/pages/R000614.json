@@ -97,13 +97,26 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Set the dial gauge in the center of the No. 1 and No. 2 propeller shafts. Fix one rear wheel and turn the other slowly by hand to rotate the propeller shaft and inspect the propeller shaft for runout. Runout Limit Value: 1 1.5mm If the propeller shaft runout exceeds the limit value, Replace the propeller shaft with an assembly.",
+      "text": "Set the dial gauge in the center of the No. 1 and No. 2 propeller shafts. Fix one rear wheel and turn the other slowly by hand to rotate the propeller shaft and inspect the propeller shaft for runout. If the propeller shaft runout exceeds the limit value, Replace the propeller shaft with an assembly.",
       "refs": [
         {
           "id": "R000615",
           "label": "Replace the propeller shaft with an assembly.",
           "resolved": true
         }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Runout Limit Value: 1"
+          },
+          {
+            "text": "1.5mm"
+          }
+        ]
       ]
     }
   ],

@@ -52,7 +52,50 @@
       "type": "table",
       "rows": [
         [
-          "*: ON sticking failure **: OFF sticking failure D/C: Drive Cycle"
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "More than 5 minutes*. ―**"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: off"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ],
+        [
+          {
+            "text": "*: ON sticking failure **: OFF sticking failure D/C: Drive Cycle",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -65,20 +108,38 @@
       "type": "table",
       "rows": [
         [
-          "condition entry",
-          ""
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "",
+            "header": true
+          }
         ],
         [
-          "Ignition switch/ ENGINE START STOP switch",
-          "Ignition ON mode"
+          {
+            "text": "Ignition switch/ ENGINE START STOP switch"
+          },
+          {
+            "text": "Ignition ON mode"
+          }
         ],
         [
-          "DTC requesting the prohibition of detection of the relevant DTC",
-          "P2122､ P2123､ P2127､ P2128､ P2138"
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "P2122､ P2123､ P2127､ P2128､ P2138"
+          }
         ],
         [
-          "Other* (*)",
-          "Gas pedal To step on the pedal."
+          {
+            "text": "Other* (*)"
+          },
+          {
+            "text": "Gas pedal To step on the pedal."
+          }
         ]
       ]
     },

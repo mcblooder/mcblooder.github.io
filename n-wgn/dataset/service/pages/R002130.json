@@ -145,15 +145,26 @@
       "type": "table",
       "rows": [
         [
-          "Compression pressure"
+          {
+            "text": "Compression pressure",
+            "colspan": 2
+          }
         ],
         [
-          "Limit value: 1",
-          "883kPa(9.0kgf/cm 2 )"
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "883kPa(9.0kgf/cm 2 )"
+          }
         ],
         [
-          "Difference between each cylinder: 1",
-          "200kPa(2.04kgf/cm 2 )"
+          {
+            "text": "Difference between each cylinder: 1"
+          },
+          {
+            "text": "200kPa(2.04kgf/cm 2 )"
+          }
         ]
       ]
     },

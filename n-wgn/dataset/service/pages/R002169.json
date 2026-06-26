@@ -145,42 +145,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Align the transmission fluid warmer alignment mark (A) with the water hose alignment mark (B)."
-        },
-        {
-          "text": "Align the transmission fluid warmer alignment mark (A) with the water hose alignment mark (B)."
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The transmission side mounting surface shall be cleaned."
-        },
-        {
-          "text": "The transmission side mounting surface shall be cleaned."
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "O-rings shall be replaced with new ones."
-        },
-        {
-          "text": "O-rings shall be replaced with new ones."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "6. Coolant Refill",

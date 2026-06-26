@@ -37,6 +37,11 @@
     },
     {
       "type": "step",
+      "number": "1",
+      "text": "Install the rubber attachment at each lift point (support point) while checking the lift point (support point) confirmation lid."
+    },
+    {
+      "type": "step",
       "number": "",
       "text": "2. When lifting with a lift or other means, raise the lift until the wheels are raised and check that the rubber attachments are holding each lift point correctly. Also, shake the vehicle to ensure that the body is held firmly."
     },

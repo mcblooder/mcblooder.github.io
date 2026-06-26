@@ -39,13 +39,18 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the relay. The inspection method is the same for each relay. No continuity between No. 1 and No. 2 terminals. There should be continuity between No.3 and No.4 terminals. There should be continuity between No.1 and No.2 terminals when battery voltage is applied between No.3 and No.4 terminals. *1: Cars equipped with mirror heaters *2: Vehicles equipped with front fog lights"
+      "text": "Remove the relay. The inspection method is the same for each relay. No continuity between No. 1 and No. 2 terminals. There should be continuity between No.3 and No.4 terminals."
     },
     {
       "type": "attention",
       "items": [
         "When inspecting diode-type relays, apply the battery voltage backwards, as this may damage the diodes in the relay."
       ]
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "There should be continuity between No.1 and No.2 terminals when battery voltage is applied between No.3 and No.4 terminals."
     },
     {
       "type": "list",
@@ -186,6 +191,23 @@
       ]
     },
     {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "*1: Cars equipped with mirror heaters",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "*2: Vehicles equipped with front fog lights",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
       "type": "figure",
       "asset": "927_4.0_jpn_11580702_4.0_disp.png"
     },
@@ -204,13 +226,18 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the relay. The inspection method is the same for each relay. There shall be continuity between No. 3 and No. 5 terminals and between No. 1 and No. 4 terminals and no continuity between No. 1 and No. 2 terminals. When battery voltage is applied between No. 3 and No. 5 terminals, there should be continuity between No. 1 and No. 2 terminals and no continuity between No. 1 and No. 4 terminals."
+      "text": "Remove the relay. The inspection method is the same for each relay. There shall be continuity between No. 3 and No. 5 terminals and between No. 1 and No. 4 terminals and no continuity between No. 1 and No. 2 terminals."
     },
     {
       "type": "attention",
       "items": [
         "When inspecting diode-type relays, apply the battery voltage backwards, as this may damage the diodes in the relay."
       ]
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "When battery voltage is applied between No. 3 and No. 5 terminals, there should be continuity between No. 1 and No. 2 terminals and no continuity between No. 1 and No. 4 terminals."
     },
     {
       "type": "list",

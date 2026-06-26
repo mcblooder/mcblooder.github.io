@@ -80,7 +80,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove purge hose clamp (A). Remove the air cleaner stay (B)."
+      "text": "Remove purge hose clamp (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the air cleaner stay (B)."
     },
     {
       "type": "heading",
@@ -94,7 +99,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove purge hose clamp (A). Remove the intercooler stay (B)."
+      "text": "Remove purge hose clamp (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the intercooler stay (B)."
     },
     {
       "type": "heading",
@@ -108,7 +118,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the coupler (A). Remove the drive pulley speed sensor (B). Remove the O-ring (C) from the drive pulley speed sensor."
+      "text": "Disconnect the coupler (A). Remove the drive pulley speed sensor (B)."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the O-ring (C) from the drive pulley speed sensor."
     },
     {
       "type": "heading",

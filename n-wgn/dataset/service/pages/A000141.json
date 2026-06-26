@@ -49,24 +49,51 @@
       "type": "table",
       "rows": [
         [
-          "Tr1",
-          "Tr2",
-          "Pulse signal voltage level"
+          {
+            "text": "Tr1",
+            "header": true
+          },
+          {
+            "text": "Tr2",
+            "header": true
+          },
+          {
+            "text": "Pulse signal voltage level",
+            "header": true
+          }
         ],
         [
-          "OFF",
-          "OFF",
-          "VOH"
+          {
+            "text": "OFF"
+          },
+          {
+            "text": "OFF"
+          },
+          {
+            "text": "VOH"
+          }
         ],
         [
-          "OFF",
-          "ON",
-          "VOM"
+          {
+            "text": "OFF"
+          },
+          {
+            "text": "ON"
+          },
+          {
+            "text": "VOM"
+          }
         ],
         [
-          "ON",
-          "OFF",
-          "VOL"
+          {
+            "text": "ON"
+          },
+          {
+            "text": "OFF"
+          },
+          {
+            "text": "VOL"
+          }
         ]
       ]
     },
@@ -83,7 +110,50 @@
       "type": "table",
       "rows": [
         [
-          "D/C: Drive Cycle"
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "More than 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: off, D indicator light: flashing"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ],
+        [
+          {
+            "text": "D/C: Drive Cycle",
+            "colspan": 2
+          }
         ]
       ]
     },
@@ -96,7 +166,93 @@
       "type": "table",
       "rows": [
         [
-          "[ ]: HDS Parameters"
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Elapsed time after in-gear (driving force transmission state) is determined"
+          },
+          {
+            "text": "3 seconds"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Torque converter Turbine RPM [Torque Converter Turbine Speed]"
+          },
+          {
+            "text": "300rpm"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Vehicle speed [vehicle speed]."
+          },
+          {
+            "text": "3km/h"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Select Lever Position"
+          },
+          {
+            "text": "R",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Torque converter Direction of turbine rotation [turbine rotation direction]."
+          },
+          {
+            "text": "forward rotation",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "P0500､ P0502､ P0705､ P0706､ P0716､ P0717､ P0792､ P0793､ P0962､ P0963､ P0966､ P0967､ P0970､ P0971､ P1840､ P2720､ P2721",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Other"
+          },
+          {
+            "text": "Select lever Position must be constant",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "[ ]: HDS Parameters",
+            "colspan": 3
+          }
         ]
       ]
     },

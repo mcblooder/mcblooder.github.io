@@ -178,30 +178,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "To prevent brake fluid from spilling out, the joints of the disconnected hoses must be covered with plugs or other means."
-        },
-        {
-          "text": "To prevent brake fluid from spilling out, the joints of the disconnected hoses must be covered with plugs or other means."
-        },
-        {
-          "text": "Do not allow brake fluid to adhere to painted surfaces. If it does adhere, wash it off with water immediately."
-        },
-        {
-          "text": "Do not allow brake fluid to adhere to painted surfaces. If it does adhere, wash it off with water immediately."
-        },
-        {
-          "text": "When installing, do not twist the brake hose forcibly."
-        },
-        {
-          "text": "When installing, do not twist the brake hose forcibly."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "7. Rear wheel sensor removal",
@@ -248,24 +224,6 @@
       "items": [
         "Do not forcibly twist or strongly bend the parking brake cable. A deformed or damaged cable may cause malfunction or cut damage.",
         "To prevent damage to other parts, the brake assembly should be secured with a wire or other means."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not forcibly twist or strongly bend the parking brake cable. A deformed or damaged cable may cause malfunction or cut damage."
-        },
-        {
-          "text": "Do not forcibly twist or strongly bend the parking brake cable. A deformed or damaged cable may cause malfunction or cut damage."
-        },
-        {
-          "text": "To prevent damage to other parts, the brake assembly should be secured with a wire or other means."
-        },
-        {
-          "text": "To prevent damage to other parts, the brake assembly should be secured with a wire or other means."
-        }
       ]
     },
     {
@@ -359,13 +317,18 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Support the left and right spring lower seats (B) of the rear axle beam (A) with a jack. Remove the right and left rear axle beam mounting bolts (C), lower the jack and remove the rear axle beam from the vehicle body. When installing, replace the rear axle beam mounting bolts with new ones."
+      "text": "Support the left and right spring lower seats (B) of the rear axle beam (A) with a jack."
     },
     {
       "type": "attention",
       "items": [
         "Do not apply a jack to the center of the rear axle beam (torsion beam)."
       ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the right and left rear axle beam mounting bolts (C), lower the jack and remove the rear axle beam from the vehicle body. When installing, replace the rear axle beam mounting bolts with new ones."
     },
     {
       "type": "heading",

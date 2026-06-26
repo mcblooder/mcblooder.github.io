@@ -27,71 +27,138 @@
       "type": "table",
       "rows": [
         [
-          "These symbols are used throughout this manual to indicate precautions and work procedures."
+          {
+            "text": "These symbols are used throughout this manual to indicate precautions and work procedures.",
+            "colspan": 2
+          }
         ],
         [
-          "",
-          ": Oil application."
+          {
+            "text": ""
+          },
+          {
+            "text": ": Oil application."
+          }
         ],
         [
-          "",
-          "AT fluid application."
+          {
+            "text": ""
+          },
+          {
+            "text": "AT fluid application."
+          }
         ],
         [
-          "",
-          "P/S Fluid application."
+          {
+            "text": ""
+          },
+          {
+            "text": "P/S Fluid application."
+          }
         ],
         [
-          "",
-          "Brake fluid application"
+          {
+            "text": ""
+          },
+          {
+            "text": "Brake fluid application"
+          }
         ],
         [
-          "",
-          "Grease application."
+          {
+            "text": ""
+          },
+          {
+            "text": "Grease application."
+          }
         ],
         [
-          "",
-          "Use special designated commercial tools."
+          {
+            "text": ""
+          },
+          {
+            "text": "Use special designated commercial tools."
+          }
         ],
         [
-          "",
-          "Use special tools."
+          {
+            "text": ""
+          },
+          {
+            "text": "Use special tools."
+          }
         ],
         [
-          "",
-          "Hand vacuum pumps must be used."
+          {
+            "text": ""
+          },
+          {
+            "text": "Hand vacuum pumps must be used."
+          }
         ],
         [
-          "",
-          "Rigid racks must be used."
+          {
+            "text": ""
+          },
+          {
+            "text": "Rigid racks must be used."
+          }
         ],
         [
-          "",
-          "Death or serious injury if instructions are not followed."
+          {
+            "text": ""
+          },
+          {
+            "text": "Death or serious injury if instructions are not followed."
+          }
         ],
         [
-          "",
-          "： Death or serious injury may result if instructions are not followed."
+          {
+            "text": ""
+          },
+          {
+            "text": "： Death or serious injury may result if instructions are not followed."
+          }
         ],
         [
-          "",
-          "： Any injury that may result if the instructions are not followed."
+          {
+            "text": ""
+          },
+          {
+            "text": "： Any injury that may result if the instructions are not followed."
+          }
         ],
         [
-          "",
-          "Do not perform any of the following operations, as failure to do so may result in damage to the vehicle or its components."
+          {
+            "text": ""
+          },
+          {
+            "text": "Do not perform any of the following operations, as failure to do so may result in damage to the vehicle or its components."
+          }
         ],
         [
-          "",
-          "Information and additional explanations that will help you perform your work more efficiently."
+          {
+            "text": ""
+          },
+          {
+            "text": "Information and additional explanations that will help you perform your work more efficiently."
+          }
         ],
         [
-          "1., 2., 3., ----.",
-          "Indicates a work procedure."
+          {
+            "text": "1., 2., 3., ----."
+          },
+          {
+            "text": "Indicates a work procedure."
+          }
         ],
         [
-          "torque",
-          "Tighten to specified torque."
+          {
+            "text": "torque"
+          },
+          {
+            "text": "Tighten to specified torque."
+          }
         ]
       ]
     }

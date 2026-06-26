@@ -38,7 +38,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Vehicles equipped with steering tilt: Release the lock lever and set the column tilt position to the lowest position. Turn the steering wheel so that the notch (A) in the lower column cover is visible. Pry the notch in the lower column cover and remove the hook (B). Turn the steering wheel in the opposite direction and follow the same procedure as in step 3 to remove the other hook. Pull up the front end of the upper column cover (C) and remove the upper column cover."
+      "text": "Vehicles equipped with steering tilt: Release the lock lever and set the column tilt position to the lowest position. Turn the steering wheel so that the notch (A) in the lower column cover is visible. Pry the notch in the lower column cover and remove the hook (B). Turn the steering wheel in the opposite direction and follow the same procedure as in step 3 to remove the other hook."
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Pull up the front end of the upper column cover (C) and remove the upper column cover."
     },
     {
       "type": "heading",
@@ -52,7 +57,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Turn the steering wheel and remove the screw. Turn the steering wheel in the opposite direction to release the other screw. Remove the lower column cover (A)."
+      "text": "Turn the steering wheel and remove the screw."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Turn the steering wheel in the opposite direction to release the other screw. Remove the lower column cover (A)."
     },
     {
       "type": "heading",

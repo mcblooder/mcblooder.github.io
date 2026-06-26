@@ -58,7 +58,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Inspect the valve. ​ Measure the inside diameter of the valve guide and calculate the clearance between the valve guide and valve stem. Inner diameter of guide - Outer diameter of stem = Clearance between valve guide and valve stem Intake: 1 Std. 0.025－0.050mm Limit value: 1 0.08mm Exhaust: (1) Std. 0.055－0.080mm Limit value: 1 0.11mm",
+      "text": "Inspect the valve. ​ Measure the inside diameter of the valve guide and calculate the clearance between the valve guide and valve stem.",
       "refs": [
         {
           "id": "R002132",
@@ -71,6 +71,55 @@
       "type": "attention",
       "items": [
         "If the limit value is exceeded, replace the valve and valve guide as a set."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Intake: 1",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.025－0.050mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.08mm"
+          }
+        ],
+        [
+          {
+            "text": "Exhaust: (1)",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.055－0.080mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.11mm"
+          }
+        ]
       ]
     },
     {
@@ -99,12 +148,33 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Lubricate the outer circumference of the valve guide with engine oil. Valve Guide Driver 5.35 Use 9.7 to hammer in the valve guide (A). Valve Guide protrusion length Intake: 1 15.2－16.2mm Exhaust: (1) 16.0－17.0mm"
+      "text": "Lubricate the outer circumference of the valve guide with engine oil. Valve Guide Driver 5.35 Use 9.7 to hammer in the valve guide (A)."
     },
     {
       "type": "attention",
       "items": [
         "Be sure to match the specified valve guide protrusion length (B)."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Intake: 1"
+          },
+          {
+            "text": "15.2－16.2mm"
+          }
+        ],
+        [
+          {
+            "text": "Exhaust: (1)"
+          },
+          {
+            "text": "16.0－17.0mm"
+          }
+        ]
       ]
     },
     {
@@ -121,24 +191,6 @@
       "items": [
         "Rotate the reamer in a clockwise direction only. Do not insert or pull out the reamer while it is stopped.",
         "After reaming, measure the inside diameter of the valve guide."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Rotate the reamer in a clockwise direction only. Do not insert or pull out the reamer while it is stopped."
-        },
-        {
-          "text": "Rotate the reamer in a clockwise direction only. Do not insert or pull out the reamer while it is stopped."
-        },
-        {
-          "text": "After reaming, measure the inside diameter of the valve guide."
-        },
-        {
-          "text": "After reaming, measure the inside diameter of the valve guide."
-        }
       ]
     },
     {

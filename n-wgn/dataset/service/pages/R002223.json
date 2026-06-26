@@ -59,13 +59,60 @@
     {
       "type": "step",
       "number": "1",
-      "text": "12V battery Check case for damage, deformation and condition of terminals, if necessary Replace the 12V battery. Check the amount of 12V battery fluid in each fluid tank. If it is low, remove the cap on the top of the 12V battery and replenish distilled water to the upper limit of each cell. Prepare tester and charger. 12V battery Tester: 12V battery Voltmeter (0-18V) Ammeter (0-100A, 0-500A) 12V battery charger:. Fast charge capacity 50A Normal charging capacity 5A Connect 12V battery tester to 12V battery, CCA current * (at sentence-end, falling tone) indicates a confident conclusion 1/2 Load test with a load of 1.5 V for 15 seconds and measure the battery voltage immediately after the test. * CCA current: Cold Cranking Amps For M-42 capacity, CCA current is 340A Before installing the 12V battery, inspect the 12V battery terminals for corrosion. If corrosion is present, polish the terminals with sodium bicarbonate solution and rinse them clean with warm water, and polish the cable clamps with sandpaper to remove corrosion. After attaching the clamps to the terminals, apply grease to prevent corrosion.",
+      "text": "12V battery Check case for damage, deformation and condition of terminals, if necessary Replace the 12V battery. Prepare tester and charger. Connect 12V battery tester to 12V battery, CCA current * (at sentence-end, falling tone) indicates a confident conclusion 1/2 Load test with a load of 1.5 V for 15 seconds and measure the battery voltage immediately after the test. * CCA current: Cold Cranking Amps For M-42 capacity, CCA current is 340A Before installing the 12V battery, inspect the 12V battery terminals for corrosion. If corrosion is present, polish the terminals with sodium bicarbonate solution and rinse them clean with warm water, and polish the cable clamps with sandpaper to remove corrosion. After attaching the clamps to the terminals, apply grease to prevent corrosion.",
       "refs": [
         {
           "id": "R002224",
           "label": "Replace the 12V battery.",
           "resolved": true
         }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Check the amount of 12V battery fluid in each fluid tank. If it is low, remove the cap on the top of the 12V battery and replenish distilled water to the upper limit of each cell."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "12V battery Tester: 12V battery"
+          },
+          {
+            "text": "Voltmeter (0-18V)"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Ammeter (0-100A, 0-500A)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "12V battery charger:."
+          },
+          {
+            "text": "Fast charge capacity 50A"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Normal charging capacity 5A"
+          }
+        ]
       ]
     },
     {
@@ -108,12 +155,6 @@
         {
           "text": "If the voltage exceeds 15.5 V for even a moment in 3 minutes, the 12 V battery is defective."
         }
-      ]
-    },
-    {
-      "type": "attention",
-      "items": [
-        "As the voltage rises, the charging current falls, but do not increase the current value when it falls. Raising it will damage the 12V battery."
       ]
     },
     {

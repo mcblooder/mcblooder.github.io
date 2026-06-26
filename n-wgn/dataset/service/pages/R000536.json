@@ -61,7 +61,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the coupler (A). Remove the driven pulley oil pressure sensor (B) and sealing washer (C)."
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the driven pulley oil pressure sensor (B) and sealing washer (C)."
     },
     {
       "type": "attention",

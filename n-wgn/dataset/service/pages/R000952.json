@@ -60,24 +60,6 @@
         "The buttons must be set correctly and the case closed.",
         "Batteries should be set in the correct position and inserted securely."
       ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The buttons must be set correctly and the case closed."
-        },
-        {
-          "text": "The buttons must be set correctly and the case closed."
-        },
-        {
-          "text": "Batteries should be set in the correct position and inserted securely."
-        },
-        {
-          "text": "Batteries should be set in the correct position and inserted securely."
-        }
-      ]
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000952_jpn/web/html/R000952_jpn_Content.html",

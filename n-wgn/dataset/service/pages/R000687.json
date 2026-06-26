@@ -102,13 +102,104 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Inspect the sliding surfaces of the brake disc (A) for cracks, abnormal scratches or stepped wear. Measure the thickness of the brake disc at 8 locations at approximately 45° intervals, 10 mm closer to the center from the outer circumference of the disc. The smallest of these measurements shall be the limit value. Brake Disc Thickness: 1.0 12-inch brake spec. vehicle: 12-inch brake spec. vehicle: 12-inch brake spec. vehicle Std. 12.0mm Limit value: 1 10.0mm 13\" brake spec. car:. Std. 17.0mm Limit value: 1 15.0mm Parallelism of the brake disc (maximum difference between each measured value):. Limit value: 1 0.015mm If the thickness is below the limit, Replace the brake disc. If the parallelism exceeds the limit value, the brake disc should be milled and corrected. Inspect the front brake disc for runout.",
+      "text": "Inspect the sliding surfaces of the brake disc (A) for cracks, abnormal scratches or stepped wear. Measure the thickness of the brake disc at 8 locations at approximately 45° intervals, 10 mm closer to the center from the outer circumference of the disc. The smallest of these measurements shall be the limit value. If the thickness is below the limit, Replace the brake disc. If the parallelism exceeds the limit value, the brake disc should be milled and corrected. Inspect the front brake disc for runout.",
       "refs": [
         {
           "id": "R000688",
           "label": "Replace the brake disc.",
           "resolved": true
         }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Brake Disc Thickness: 1.0",
+            "colspan": 4
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "12-inch brake spec. vehicle: 12-inch brake spec. vehicle: 12-inch brake spec. vehicle",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "12.0mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "10.0mm"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "13\" brake spec. car:.",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "17.0mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "15.0mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Parallelism of the brake disc (maximum difference between each measured value):.",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.015mm"
+          }
+        ]
       ]
     },
     {
@@ -183,7 +274,20 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Secure the brake disc with the wheel nut (B) through an appropriate flat washer (A) so as not to damage the tapered portion of the wheel nut. Place the dial gauge (C) as shown in the figure at a position about 10 mm closer to the center from the outer circumference of the disc. Turn the disc slowly by hand to measure the runout. The minimum to maximum range of the gauge reading is the runout value. Brake disc runout Limit value: 1 0.04mm If it is below the limit, inspect the hub bearings, and if there is nothing wrong with the bearings, cut and correct the brake disk."
+      "text": "Secure the brake disc with the wheel nut (B) through an appropriate flat washer (A) so as not to damage the tapered portion of the wheel nut. Place the dial gauge (C) as shown in the figure at a position about 10 mm closer to the center from the outer circumference of the disc. Turn the disc slowly by hand to measure the runout. The minimum to maximum range of the gauge reading is the runout value. If it is below the limit, inspect the hub bearings, and if there is nothing wrong with the bearings, cut and correct the brake disk."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.04mm"
+          }
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -256,30 +360,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "When securing the caliper, be very careful not to damage other parts."
-        },
-        {
-          "text": "When securing the caliper, be very careful not to damage other parts."
-        },
-        {
-          "text": "Do not suspend the caliper by the brake hose."
-        },
-        {
-          "text": "Do not suspend the caliper by the brake hose."
-        },
-        {
-          "text": "Do not forcefully twist the brake hose."
-        },
-        {
-          "text": "Do not forcefully twist the brake hose."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "4. Cutting correction"
@@ -291,7 +371,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Cut and correct using a brake disc grinder (specially designated commercial tool) (A). After cutting correction, check the runout and parallelism of the brake disc again to confirm that it is within the following limits. Limits after cutting modification: 1. Brake disc runout 0.04mm Brake disc parallelism: 1 0.015mm"
+      "text": "Cut and correct using a brake disc grinder (specially designated commercial tool) (A). After cutting correction, check the runout and parallelism of the brake disc again to confirm that it is within the following limits."
     },
     {
       "type": "list",
@@ -315,6 +395,36 @@
         {
           "text": "Cut the brake disc so that it does not fall below the thickness limit value."
         }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Limits after cutting modification: 1.",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Brake disc runout"
+          },
+          {
+            "text": "0.04mm"
+          }
+        ],
+        [
+          {
+            "text": "Brake disc parallelism: 1"
+          },
+          {
+            "text": "0.015mm"
+          }
+        ]
       ]
     },
     {

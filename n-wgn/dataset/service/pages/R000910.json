@@ -56,7 +56,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Turn ignition OFF (LOCK) mode. Disconnect the cable (A) from the negative (-) terminal of the 12V battery. Remove the terminal cover (D). Disconnect the cable (E) from the positive (+) terminal of the 12V battery."
+      "text": "Turn ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Disconnect the cable (A) from the negative (-) terminal of the 12V battery. Remove the terminal cover (D). Disconnect the cable (E) from the positive (+) terminal of the 12V battery."
     },
     {
       "type": "attention",
@@ -64,42 +69,6 @@
         "The cable must be disconnected from the 12V battery sensor (B).",
         "12V battery Do not disconnect the cable from the 12V battery sensor except to replace the sensor.",
         "To prevent breakage, do not hold the connector part (C) and do not perform the detachment operation."
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "The cable must be disconnected from the 12V battery sensor (B)."
-        },
-        {
-          "text": "The cable must be disconnected from the 12V battery sensor (B)."
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "12V battery Do not disconnect the cable from the 12V battery sensor except to replace the sensor."
-        },
-        {
-          "text": "12V battery Do not disconnect the cable from the 12V battery sensor except to replace the sensor."
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "To prevent breakage, do not hold the connector part (C) and do not perform the detachment operation."
-        },
-        {
-          "text": "To prevent breakage, do not hold the connector part (C) and do not perform the detachment operation."
-        }
       ]
     },
     {

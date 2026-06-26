@@ -87,7 +87,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Disconnect the coupler (A). Remove the front wiper linkage assembly (B)."
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the front wiper linkage assembly (B)."
     },
     {
       "type": "heading",

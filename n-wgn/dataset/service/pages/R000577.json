@@ -55,7 +55,60 @@
     {
       "type": "step",
       "number": "3",
-      "text": "Measure the clearance between the cotter (A) and the forward driven gear (B) at three or more locations at equal intervals using a Thickness Gauge (C). Standard value: 0-0.13mm If the clearance is out of standard, measure the thickness of the cotter and select a cotter so that the clearance is at the standard value. 29mm Cotta markup Thickness (mm) A 2.87－2.90 B 2.97－3.00 C 3.07－3.10 D 3.17－3.20 E 3.27－3.30 Install the selected cotter and measure the clearance again."
+      "text": "Measure the clearance between the cotter (A) and the forward driven gear (B) at three or more locations at equal intervals using a Thickness Gauge (C). Standard value: 0-0.13mm If the clearance is out of standard, measure the thickness of the cotter and select a cotter so that the clearance is at the standard value. Install the selected cotter and measure the clearance again."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "markup"
+          },
+          {
+            "text": "Thickness (mm)"
+          }
+        ],
+        [
+          {
+            "text": "A"
+          },
+          {
+            "text": "2.87－2.90"
+          }
+        ],
+        [
+          {
+            "text": "B"
+          },
+          {
+            "text": "2.97－3.00"
+          }
+        ],
+        [
+          {
+            "text": "C"
+          },
+          {
+            "text": "3.07－3.10"
+          }
+        ],
+        [
+          {
+            "text": "D"
+          },
+          {
+            "text": "3.17－3.20"
+          }
+        ],
+        [
+          {
+            "text": "E"
+          },
+          {
+            "text": "3.27－3.30"
+          }
+        ]
+      ]
     },
     {
       "type": "figure",

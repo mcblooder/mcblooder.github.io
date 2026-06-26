@@ -119,7 +119,60 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Measure the resistance between terminals No. 2 and No. 5 in each position according to the table. If it is out of the standard value, replace the cruise control combination switch. position Resistance value OFF Approx. 2.2kΩ CRUISE button (press) Approx. 60Ω CANCEL button (press) Approx. 183Ω SET - button (press) Approx. 446Ω RES + button (press) Approx. 892Ω"
+      "text": "Measure the resistance between terminals No. 2 and No. 5 in each position according to the table. If it is out of the standard value, replace the cruise control combination switch."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "position"
+          },
+          {
+            "text": "Resistance value"
+          }
+        ],
+        [
+          {
+            "text": "OFF"
+          },
+          {
+            "text": "Approx. 2.2kΩ"
+          }
+        ],
+        [
+          {
+            "text": "CRUISE button (press)"
+          },
+          {
+            "text": "Approx. 60Ω"
+          }
+        ],
+        [
+          {
+            "text": "CANCEL button (press)"
+          },
+          {
+            "text": "Approx. 183Ω"
+          }
+        ],
+        [
+          {
+            "text": "SET - button (press)"
+          },
+          {
+            "text": "Approx. 446Ω"
+          }
+        ],
+        [
+          {
+            "text": "RES + button (press)"
+          },
+          {
+            "text": "Approx. 892Ω"
+          }
+        ]
+      ]
     }
   ],
   "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001084_jpn/web/html/R001084_jpn_Content.html",

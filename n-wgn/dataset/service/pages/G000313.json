@@ -31,7 +31,255 @@
       "type": "table",
       "rows": [
         [
-          "*2: Until now, when using the term ''weight'' or ''force'' instead of ''weight'' or ''load'', we have simply used kilogram (kg) instead of kilogram (kgf) as the unit of force. f means force. The term ''force'' is used to refer to the force of the weight of the load."
+          {
+            "text": "(data) item"
+          },
+          {
+            "text": "SI unit"
+          },
+          {
+            "text": "conventional unit"
+          },
+          {
+            "text": "remarks"
+          }
+        ],
+        [
+          {
+            "text": "distance"
+          },
+          {
+            "text": "km"
+          },
+          {
+            "text": "km"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "m"
+          },
+          {
+            "text": "m"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "cm"
+          },
+          {
+            "text": "cm"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "mm"
+          },
+          {
+            "text": "mm"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "power"
+          },
+          {
+            "text": "N"
+          },
+          {
+            "text": "kgf *2"
+          },
+          {
+            "text": "1kgf=9.8067N"
+          }
+        ],
+        [
+          {
+            "text": "weight"
+          },
+          {
+            "text": "kg"
+          },
+          {
+            "text": "kg"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "g"
+          },
+          {
+            "text": "g"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "volume"
+          },
+          {
+            "text": "cm 3"
+          },
+          {
+            "text": "cm 3"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "capacity"
+          },
+          {
+            "text": "L"
+          },
+          {
+            "text": "L"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "mL, cm 3"
+          },
+          {
+            "text": "cc"
+          },
+          {
+            "text": "1cc=1cm 3 =1mL"
+          }
+        ],
+        [
+          {
+            "text": "pressure"
+          },
+          {
+            "text": "kPa"
+          },
+          {
+            "text": "kgf/cm 2"
+          },
+          {
+            "text": "1kgf/1cm 2 =98.067kPa"
+          }
+        ],
+        [
+          {
+            "text": "negative pressure"
+          },
+          {
+            "text": "kPa"
+          },
+          {
+            "text": "mmHg"
+          },
+          {
+            "text": "1mmHg=0.133322kPa"
+          }
+        ],
+        [
+          {
+            "text": "area"
+          },
+          {
+            "text": "cm 2"
+          },
+          {
+            "text": "cm 2"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Temperature"
+          },
+          {
+            "text": "°C"
+          },
+          {
+            "text": "°C"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "velocity"
+          },
+          {
+            "text": "km/h"
+          },
+          {
+            "text": "km/h"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "torque"
+          },
+          {
+            "text": "N·m"
+          },
+          {
+            "text": "kgf·m"
+          },
+          {
+            "text": "1kgf·m=9.8067N·m"
+          }
+        ],
+        [
+          {
+            "text": "kgf·cm"
+          },
+          {
+            "text": "1kgf·cm=0.098067N·m"
+          }
+        ],
+        [
+          {
+            "text": "number of rotations"
+          },
+          {
+            "text": "rpm"
+          },
+          {
+            "text": "rpm"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "*2: Until now, when using the term ''weight'' or ''force'' instead of ''weight'' or ''load'', we have simply used kilogram (kg) instead of kilogram (kgf) as the unit of force. f means force. The term ''force'' is used to refer to the force of the weight of the load.",
+            "colspan": 4
+          }
         ]
       ]
     }

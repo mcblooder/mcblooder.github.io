@@ -370,19 +370,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Remove the air cleaner.",
-      "refs": [
-        {
-          "id": "R000412",
-          "label": "Cars not equipped with a turbo charger",
-          "resolved": true
-        },
-        {
-          "id": "R000413",
-          "label": "Turbo Charger equipped vehicle",
-          "resolved": true
-        }
-      ]
+      "text": "Remove the air cleaner."
     },
     {
       "type": "list",
@@ -700,24 +688,6 @@
       ]
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Do not disconnect the suction and discharge hoses."
-        },
-        {
-          "text": "Do not disconnect the suction and discharge hoses."
-        },
-        {
-          "text": "The removed compressor should be hung by a rope or other means."
-        },
-        {
-          "text": "The removed compressor should be hung by a rope or other means."
-        }
-      ]
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "32. Disconnect Upper Hose/Lower Hose/Heater Hose"
@@ -985,7 +955,12 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Lay a plate on the transmission and support it with a transmission jack. Install the torque rod and tighten the new mounting nut (A). When installing the bolt on the front sub-frame side, align the non-turn plate (B) of the bolt with the notch (C) in the guide section of the front sub-frame, insert the bolt, and install the nut. Temporarily tighten the new mounting bolts (D). Remove the transmission jack."
+      "text": "Lay a plate on the transmission and support it with a transmission jack. Temporarily tighten the new mounting bolts (D). Remove the transmission jack."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install the torque rod and tighten the new mounting nut (A). When installing the bolt on the front sub-frame side, align the non-turn plate (B) of the bolt with the notch (C) in the guide section of the front sub-frame, insert the bolt, and install the nut."
     },
     {
       "type": "heading",
@@ -1318,19 +1293,7 @@
     {
       "type": "step",
       "number": "1",
-      "text": "Install the air cleaner.",
-      "refs": [
-        {
-          "id": "R000412",
-          "label": "Cars not equipped with a turbo charger",
-          "resolved": true
-        },
-        {
-          "id": "R000413",
-          "label": "Turbo Charger equipped vehicle",
-          "resolved": true
-        }
-      ]
+      "text": "Install the air cleaner."
     },
     {
       "type": "list",

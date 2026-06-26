@@ -34,7 +34,12 @@
     {
       "type": "step",
       "number": "",
-      "text": "1. Combination Disconnect the meter 32P coupler 2. Perform input checks and if all is normal and there is an abnormality in the system Replace the combination meter inspection terminal Wiring color Measuring conditions result Inspection items in case of abnormality 4 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. 1 yellow 24-hour (e.g. observation, operation (of a machine), care (of patient)) Battery voltage must be present between the inspection terminal and body ground. 17 purple Turn ignition to ON mode Battery voltage must be present between the inspection terminal and body ground. 23 weak matcha Parking brake Switch ON (depress the pedal) Continuity must exist between the inspection terminal and body ground. 24 tea Brake fluid level switch ON (float down) Continuity must exist between the inspection terminal and body ground. 7 new leaves ECON switch ON Continuity must exist between the inspection terminal and body ground. 12 * green Turn ignition to ON mode Turn Signal Switch R. Position R. Turn Signal Battery voltage present between inspection terminal and body ground when indicator is lit 28 * green Turn ignition to ON mode Turn Signal Switch L. Position L. Turn Signal Battery voltage present between inspection terminal and body ground when indicator is lit *: Make the coupler connect",
+      "text": "1. Combination Disconnect the meter 32P coupler"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. Perform input checks and if all is normal and there is an abnormality in the system Replace the combination meter",
       "refs": [
         {
           "id": "R001029",
@@ -48,117 +53,172 @@
       "asset": "1431_3.0_jpn_11579662_3.0_disp.png"
     },
     {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G402)"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Blown No. A14 (10A) fuse in relay box"
-        },
-        {
-          "text": "Blown No. D1 (15A) fuse in sub fuse/relay box"
-        },
-        {
-          "text": "Fuse Box"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Blown No. D4 (7.5A) fuse in sub fuse/relay box"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Parking brake switch"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G201)"
-        },
-        {
-          "text": "Brake fluid level switch"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "Grounding failure (G402)"
-        },
-        {
-          "text": "ECON Switch"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "MICU"
-        },
-        {
-          "text": "Turn Signal Switch"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
-      ]
-    },
-    {
-      "type": "list",
-      "ordered": false,
-      "items": [
-        {
-          "text": "MICU"
-        },
-        {
-          "text": "Turn Signal Switch"
-        },
-        {
-          "text": "Cord disconnection and terminal connection condition"
-        }
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Blown No. A14 (10A) fuse in relay box Blown No. D1 (15A) fuse in sub fuse/relay box Fuse Box Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "17"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "Turn ignition to ON mode"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Blown No. D4 (7.5A) fuse in sub fuse/relay box Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "23"
+          },
+          {
+            "text": "weak matcha"
+          },
+          {
+            "text": "Parking brake Switch ON (depress the pedal)"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Parking brake switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "24"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "Brake fluid level switch ON (float down)"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G201) Brake fluid level switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "7"
+          },
+          {
+            "text": "new leaves"
+          },
+          {
+            "text": "ECON switch ON"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) ECON Switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "12 *"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Turn ignition to ON mode Turn Signal Switch R. Position"
+          },
+          {
+            "text": "R. Turn Signal Battery voltage present between inspection terminal and body ground when indicator is lit"
+          },
+          {
+            "text": "MICU Turn Signal Switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "28 *"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Turn ignition to ON mode Turn Signal Switch L. Position"
+          },
+          {
+            "text": "L. Turn Signal Battery voltage present between inspection terminal and body ground when indicator is lit"
+          },
+          {
+            "text": "MICU Turn Signal Switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "*: Make the coupler connect",
+            "colspan": 5
+          }
+        ]
       ]
     }
   ],

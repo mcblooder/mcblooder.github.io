@@ -392,6 +392,11 @@
     },
     {
       "type": "step",
+      "number": "1",
+      "text": "Prepare a container with at least 10 liters of water."
+    },
+    {
+      "type": "step",
       "number": "",
       "text": "2. Submerge the damaged valve in the container. 3. When the reaction is finished (4-5 hours), remove the parts with tongs/tweezers, etc. and discard them as you would any other parts."
     },
@@ -958,112 +963,260 @@
       "type": "table",
       "rows": [
         [
-          "For Part Number code",
-          "tubing markup",
-          "For Part Number code",
-          "tubing markup"
+          {
+            "text": "For Part Number code",
+            "header": true
+          },
+          {
+            "text": "tubing markup",
+            "header": true
+          },
+          {
+            "text": "For Part Number code",
+            "header": true
+          },
+          {
+            "text": "tubing markup",
+            "header": true
+          }
         ],
         [
-          "0",
-          "nashi (Pyrus pyrifolia, esp. var. culta)",
-          "J",
-          "18"
+          {
+            "text": "0"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          },
+          {
+            "text": "J"
+          },
+          {
+            "text": "18"
+          }
         ],
         [
-          "1",
-          "1",
-          "K",
-          "19"
+          {
+            "text": "1"
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "K"
+          },
+          {
+            "text": "19"
+          }
         ],
         [
-          "2",
-          "2",
-          "L",
-          "20"
+          {
+            "text": "2"
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "L"
+          },
+          {
+            "text": "20"
+          }
         ],
         [
-          "3",
-          "3",
-          "M",
-          "21"
+          {
+            "text": "3"
+          },
+          {
+            "text": "3"
+          },
+          {
+            "text": "M"
+          },
+          {
+            "text": "21"
+          }
         ],
         [
-          "4",
-          "4",
-          "N",
-          "22"
+          {
+            "text": "4"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": "N"
+          },
+          {
+            "text": "22"
+          }
         ],
         [
-          "5",
-          "5",
-          "P",
-          "23"
+          {
+            "text": "5"
+          },
+          {
+            "text": "5"
+          },
+          {
+            "text": "P"
+          },
+          {
+            "text": "23"
+          }
         ],
         [
-          "6",
-          "6",
-          "Q",
-          "24"
+          {
+            "text": "6"
+          },
+          {
+            "text": "6"
+          },
+          {
+            "text": "Q"
+          },
+          {
+            "text": "24"
+          }
         ],
         [
-          "7",
-          "7",
-          "R",
-          "25"
+          {
+            "text": "7"
+          },
+          {
+            "text": "7"
+          },
+          {
+            "text": "R"
+          },
+          {
+            "text": "25"
+          }
         ],
         [
-          "8",
-          "8",
-          "S",
-          "26"
+          {
+            "text": "8"
+          },
+          {
+            "text": "8"
+          },
+          {
+            "text": "S"
+          },
+          {
+            "text": "26"
+          }
         ],
         [
-          "A",
-          "10",
-          "T",
-          "27"
+          {
+            "text": "A"
+          },
+          {
+            "text": "10"
+          },
+          {
+            "text": "T"
+          },
+          {
+            "text": "27"
+          }
         ],
         [
-          "B",
-          "11",
-          "U",
-          "28"
+          {
+            "text": "B"
+          },
+          {
+            "text": "11"
+          },
+          {
+            "text": "U"
+          },
+          {
+            "text": "28"
+          }
         ],
         [
-          "C",
-          "12",
-          "V",
-          "29"
+          {
+            "text": "C"
+          },
+          {
+            "text": "12"
+          },
+          {
+            "text": "V"
+          },
+          {
+            "text": "29"
+          }
         ],
         [
-          "D",
-          "13",
-          "W",
-          "30"
+          {
+            "text": "D"
+          },
+          {
+            "text": "13"
+          },
+          {
+            "text": "W"
+          },
+          {
+            "text": "30"
+          }
         ],
         [
-          "E",
-          "14",
-          "X",
-          "31"
+          {
+            "text": "E"
+          },
+          {
+            "text": "14"
+          },
+          {
+            "text": "X"
+          },
+          {
+            "text": "31"
+          }
         ],
         [
-          "F",
-          "15",
-          "Y",
-          "32"
+          {
+            "text": "F"
+          },
+          {
+            "text": "15"
+          },
+          {
+            "text": "Y"
+          },
+          {
+            "text": "32"
+          }
         ],
         [
-          "G",
-          "16",
-          "Z",
-          "33"
+          {
+            "text": "G"
+          },
+          {
+            "text": "16"
+          },
+          {
+            "text": "Z"
+          },
+          {
+            "text": "33"
+          }
         ],
         [
-          "H",
-          "17",
-          "",
-          ""
+          {
+            "text": "H"
+          },
+          {
+            "text": "17"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
         ]
       ]
     },
