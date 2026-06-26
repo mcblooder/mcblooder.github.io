@@ -91,12 +91,6 @@
           {
             "text": "Normal judgment, failure judgment, not completed"
           }
-        ],
-        [
-          {
-            "text": "D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -161,7 +155,8 @@
         ],
         [
           {
-            "text": "select The lever position"
+            "text": "select The lever position",
+            "rowspan": 2
           },
           {
             "text": "paddle shift switch car without equipment"
@@ -188,12 +183,6 @@
           {
             "text": "P0502､ P0705､ P0706､ P0716､ P0717､ P0780､ P0792､ P0793､ P0796､ P0797､ P0962､ P0963､ P0966､ P0967､ P0970､ P0971､ P1898､ P1899､ P2715､ P2720､ P2721",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "[ ]: HDS Parameters",
-            "colspan": 4
           }
         ]
       ]
@@ -235,12 +224,6 @@
           },
           {
             "text": "Target ETR - Actual ETR less than 12% for 30 seconds Continued from above"
-          }
-        ],
-        [
-          {
-            "text": "ETR: Torque converter slip rate",
-            "colspan": 4
           }
         ]
       ]

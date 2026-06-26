@@ -65,7 +65,8 @@
       "rows": [
         [
           {
-            "text": "Select Lever"
+            "text": "Select Lever",
+            "rowspan": 2
           },
           {
             "text": "Shift position Sensor signal input",
@@ -236,7 +237,8 @@
       "rows": [
         [
           {
-            "text": "Select Lever"
+            "text": "Select Lever",
+            "rowspan": 2
           },
           {
             "text": "Shift position Sensor signal input",
@@ -395,12 +397,6 @@
           {
             "text": "×"
           }
-        ],
-        [
-          {
-            "text": "○: LO signal - close (0V) ×: HI signal - open (12V)",
-            "colspan": 8
-          }
         ]
       ]
     },
@@ -455,12 +451,6 @@
           {
             "text": "Normal judgment, failure judgment, not completed"
           }
-        ],
-        [
-          {
-            "text": "D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -495,12 +485,6 @@
           },
           {
             "text": "―"
-          }
-        ],
-        [
-          {
-            "text": "[ ]: HDS Parameters",
-            "colspan": 3
           }
         ]
       ]

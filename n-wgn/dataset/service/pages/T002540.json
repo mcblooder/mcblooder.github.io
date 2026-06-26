@@ -3244,24 +3244,6 @@
           {
             "text": "×"
           }
-        ],
-        [
-          {
-            "text": "*1: Models equipped with a turbo charger *2: Vehicles not equipped with a turbo charger",
-            "colspan": 4
-          }
-        ],
-        [
-          {
-            "text": "SAE DTC: DTC code displayed on HDS, which is in accordance with SAE (Society of Automotive Engineers of America) standards. Number of times the PGM-FI warning light blinks: Applies to the number of times the PGM-FI warning light blinks when the SCS is shorted, and the last 4 digits of the SAE DTC code are displayed on the meter for those without an indication.",
-            "colspan": 4
-          }
-        ],
-        [
-          {
-            "text": "The D indicator light may blink at the same time as the PGM-FI warning light comes on. In this case, diagnose the PGM-FI system malfunction and then check the D indicator light blinking again; if the D indicator light continues to blink, diagnose the CVT system malfunction.",
-            "colspan": 4
-          }
         ]
       ]
     }

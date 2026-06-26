@@ -55,7 +55,8 @@
         ],
         [
           {
-            "text": "4）"
+            "text": "4）",
+            "rowspan": 19
           },
           {
             "text": "◇ mark indicates severe conditions.",
@@ -70,7 +71,8 @@
         ],
         [
           {
-            "text": "A:"
+            "text": "A:",
+            "rowspan": 6
           },
           {
             "text": "● Rough roads (bumpy roads, gravel roads, unpaved roads)",
@@ -109,7 +111,8 @@
         ],
         [
           {
-            "text": "B:"
+            "text": "B:",
+            "rowspan": 2
           },
           {
             "text": "High mileage",
@@ -124,7 +127,8 @@
         ],
         [
           {
-            "text": "C:"
+            "text": "C:",
+            "rowspan": 2
           },
           {
             "text": "● Many driving on mountain roads and uphill descent roads.",
@@ -139,7 +143,8 @@
         ],
         [
           {
-            "text": "D:"
+            "text": "D:",
+            "rowspan": 3
           },
           {
             "text": "● Short distance repetitive driving.",
@@ -160,7 +165,8 @@
         ],
         [
           {
-            "text": "E:"
+            "text": "E:",
+            "rowspan": 3
           },
           {
             "text": "When running at low speeds",
@@ -203,6 +209,7 @@
           {
             "text": "Inspection and maintenance items",
             "colspan": 3,
+            "rowspan": 2,
             "header": true
           },
           {
@@ -213,10 +220,12 @@
           {
             "text": "criterion",
             "colspan": 3,
+            "rowspan": 3,
             "header": true
           },
           {
             "text": "remarks",
+            "rowspan": 3,
             "header": true
           }
         ],
@@ -273,7 +282,8 @@
         ],
         [
           {
-            "text": "steering gear"
+            "text": "steering gear",
+            "rowspan": 12
           },
           {
             "text": "handle"
@@ -312,7 +322,8 @@
         ],
         [
           {
-            "text": "gearbox"
+            "text": "gearbox",
+            "rowspan": 2
           },
           {
             "text": "Steering Gear Fluid leak in box"
@@ -381,7 +392,8 @@
         ],
         [
           {
-            "text": "Rod and arms"
+            "text": "Rod and arms",
+            "rowspan": 2
           },
           {
             "text": "Steering rod, Loose, rattled, or damaged arms"
@@ -486,38 +498,48 @@
         ],
         [
           {
-            "text": "steering wheel"
+            "text": "steering wheel",
+            "rowspan": 3
           },
           {
-            "text": "Wheel alignment"
+            "text": "Wheel alignment",
+            "rowspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 3
           },
           {
             "text": "Toe-in (front wheels): 0±3mm Toe-in (rear wheel) 2WD ： 3±3mm 4WD ： 2 +4 -2 mm",
             "colspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           }
         ],
         [
@@ -534,7 +556,8 @@
         ],
         [
           {
-            "text": "power steering equipment"
+            "text": "power steering equipment",
+            "rowspan": 3
           },
           {
             "text": "Power Steering Loose and damaged belts"
@@ -636,41 +659,52 @@
         ],
         [
           {
-            "text": "braking device"
+            "text": "braking device",
+            "rowspan": 36
           },
           {
-            "text": "Brake pedal"
+            "text": "Brake pedal",
+            "rowspan": 8
           },
           {
-            "text": "Brake pedal play, Gap with floorboard when stepped on"
+            "text": "Brake pedal play, Gap with floorboard when stepped on",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 2
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 2
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 2
           },
           {
             "text": "Play : 1-6mm",
             "colspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           }
         ],
         [
@@ -714,35 +748,44 @@
         ],
         [
           {
-            "text": "How well the brakes work"
+            "text": "How well the brakes work",
+            "rowspan": 5
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 5
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 5
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 5
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 5
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 5
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 5
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 5
           },
           {
             "text": "braking power",
             "colspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 5
           }
         ],
         [
@@ -771,38 +814,48 @@
         ],
         [
           {
-            "text": "parking brake mechanism"
+            "text": "parking brake mechanism",
+            "rowspan": 4
           },
           {
-            "text": "Parking Brake pedal foot"
+            "text": "Parking Brake pedal foot",
+            "rowspan": 3
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 3
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 3
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 3
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 3
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 3
           },
           {
             "text": "At tread force of 294N (30.0kgf)",
             "colspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           }
         ],
         [
@@ -924,7 +977,8 @@
         ],
         [
           {
-            "text": "Master Cylinder, Wheel Cylinder and Disc caliper"
+            "text": "Master Cylinder, Wheel Cylinder and Disc caliper",
+            "rowspan": 2
           },
           {
             "text": "Brake master Cylinder, wheel Cylinder, disk Leaking caliper fluid"
@@ -993,7 +1047,8 @@
         ],
         [
           {
-            "text": "brake chamber"
+            "text": "brake chamber",
+            "rowspan": 2
           },
           {
             "text": "Brake chamber Rod stroke"
@@ -1098,7 +1153,8 @@
         ],
         [
           {
-            "text": "servo unit"
+            "text": "servo unit",
+            "rowspan": 4
           },
           {
             "text": "of the brake doubling device. Clogged air cleaner"
@@ -1269,7 +1325,8 @@
         ],
         [
           {
-            "text": "Brake drum and Brake shoe"
+            "text": "Brake drum and Brake shoe",
+            "rowspan": 5
           },
           {
             "text": "Brake drum and Gap with Lining"
@@ -1305,35 +1362,44 @@
         ],
         [
           {
-            "text": "Brake shoe Sliding portions and Lining wear"
+            "text": "Brake shoe Sliding portions and Lining wear",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 2
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "◇"
+            "text": "◇",
+            "rowspan": 2
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 2
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 2
           },
           {
             "text": "Standard thickness : 4.5mm",
             "colspan": 3
           },
           {
-            "text": "Conditions A, B, C"
+            "text": "Conditions A, B, C",
+            "rowspan": 2
           }
         ],
         [
@@ -1344,35 +1410,44 @@
         ],
         [
           {
-            "text": "Worn or damaged brake drums"
+            "text": "Worn or damaged brake drums",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "◇"
+            "text": "◇",
+            "rowspan": 2
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 2
           },
           {
             "text": "Standard diameter : 180.0mm",
             "colspan": 3
           },
           {
-            "text": "Conditions A, B, C"
+            "text": "Conditions A, B, C",
+            "rowspan": 2
           }
         ],
         [
@@ -1422,7 +1497,8 @@
         ],
         [
           {
-            "text": "brake disk and pads"
+            "text": "brake disk and pads",
+            "rowspan": 5
           },
           {
             "text": "Brake disc and Gap between pad and"
@@ -1461,28 +1537,36 @@
         ],
         [
           {
-            "text": "Worn brake pads"
+            "text": "Worn brake pads",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 2
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "◇"
+            "text": "◇",
+            "rowspan": 2
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 2
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 2
           },
           {
             "text": "Standard thickness"
@@ -1492,7 +1576,8 @@
             "colspan": 2
           },
           {
-            "text": "Conditions A, B, C"
+            "text": "Conditions A, B, C",
+            "rowspan": 2
           }
         ],
         [
@@ -1506,28 +1591,36 @@
         ],
         [
           {
-            "text": "Brake disc Wear and tear"
+            "text": "Brake disc Wear and tear",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "◇"
+            "text": "◇",
+            "rowspan": 2
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 2
           },
           {
             "text": "Standard thickness"
@@ -1537,7 +1630,8 @@
             "colspan": 2
           },
           {
-            "text": "Conditions A, B, C"
+            "text": "Conditions A, B, C",
+            "rowspan": 2
           }
         ],
         [
@@ -1587,44 +1681,56 @@
         ],
         [
           {
-            "text": "traveling gear"
+            "text": "traveling gear",
+            "rowspan": 9
           },
           {
-            "text": "wheel"
+            "text": "wheel",
+            "rowspan": 9
           },
           {
-            "text": "Tire condition"
+            "text": "Tire condition",
+            "rowspan": 5
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 5
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 5
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 5
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 5
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 5
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 5
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 5
           },
           {
-            "text": "Tire Specifications"
+            "text": "Tire Specifications",
+            "rowspan": 2
           },
           {
             "text": "Tire pressure",
             "colspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 5
           }
         ],
         [
@@ -1797,10 +1903,12 @@
         ],
         [
           {
-            "text": "shock absorber"
+            "text": "shock absorber",
+            "rowspan": 6
           },
           {
-            "text": "leaf suspension"
+            "text": "leaf suspension",
+            "rowspan": 2
           },
           {
             "text": "Damaged leaf springs"
@@ -1869,7 +1977,8 @@
         ],
         [
           {
-            "text": "coil suspension"
+            "text": "coil suspension",
+            "rowspan": 2
           },
           {
             "text": "Damaged coil spring"
@@ -2010,41 +2119,58 @@
         ],
         [
           {
-            "text": "power transmission equipment"
+            "text": "power transmission equipment",
+            "rowspan": 11
           },
           {
-            "text": "clutch"
+            "text": "clutch",
+            "rowspan": 4
           },
           {
-            "text": "Clutch pedal play, Gap between floorboards when cut"
+            "text": "Clutch pedal play, Gap between floorboards when cut",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 2
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 2
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 2
           },
           {
             "text": "",
             "colspan": 3
           },
           {
-            "text": "×"
+            "text": "×",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
           }
         ],
         [
@@ -2115,43 +2241,60 @@
         ],
         [
           {
-            "text": "Transmission and transfer"
+            "text": "Transmission and transfer",
+            "rowspan": 2
           },
           {
-            "text": "Transmission, The transfer Fluid leakage, quantity"
+            "text": "Transmission, The transfer Fluid leakage, quantity",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 2
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 2
           },
           {
-            "text": "◆"
+            "text": "◆",
+            "rowspan": 2
           },
           {
             "text": "Liquid level : Must be between the upper and lower limits",
             "colspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           }
         ],
         [
           {
-            "text": "Propeller Shaft and Drive shaft"
+            "text": "",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Propeller Shaft and Drive shaft",
+            "rowspan": 4
           },
           {
             "text": "Propeller shaft, drive Loose shaft connection"
@@ -2322,10 +2465,12 @@
         ],
         [
           {
-            "text": "electrical equipment"
+            "text": "electrical equipment",
+            "rowspan": 8
           },
           {
-            "text": "ignition device"
+            "text": "ignition device",
+            "rowspan": 5
           },
           {
             "text": "Spark plug condition"
@@ -2361,35 +2506,56 @@
         ],
         [
           {
-            "text": "Ignition timing"
+            "text": "Ignition timing",
+            "rowspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 3
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 3
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 3
           },
           {
             "text": "0±2°BTDC/850rpm (N or P position)",
             "colspan": 3
           },
           {
-            "text": "The non-adjustable type is No inspection required"
+            "text": "The non-adjustable type is No inspection required",
+            "rowspan": 3
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
           }
         ],
         [
@@ -2427,7 +2593,8 @@
         ],
         [
           {
-            "text": "battery"
+            "text": "battery",
+            "rowspan": 2
           },
           {
             "text": "Amount of battery fluid"
@@ -2532,10 +2699,12 @@
         ],
         [
           {
-            "text": "motor"
+            "text": "motor",
+            "rowspan": 14
           },
           {
-            "text": "body (of a machine)"
+            "text": "body (of a machine)",
+            "rowspan": 8
           },
           {
             "text": "How the engine runs, strange noise"
@@ -2604,35 +2773,62 @@
         ],
         [
           {
-            "text": "Exhaust condition"
+            "text": "Exhaust condition",
+            "rowspan": 4
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 4
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 4
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 4
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 4
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 4
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 4
           },
           {
-            "text": "●"
+            "text": "●",
+            "rowspan": 4
           },
           {
             "text": "Electronic fuel injection type Idling RPM (no load) : 850±50 rpm (N or P position)",
             "colspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 4
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
           }
         ],
         [
@@ -2703,7 +2899,8 @@
         ],
         [
           {
-            "text": "lubricating device"
+            "text": "lubricating device",
+            "rowspan": 2
           },
           {
             "text": "Engine oil leak"
@@ -2808,7 +3005,8 @@
         ],
         [
           {
-            "text": "cooling device"
+            "text": "cooling device",
+            "rowspan": 3
           },
           {
             "text": "Amount of radiator fluid"
@@ -2910,10 +3108,12 @@
         ],
         [
           {
-            "text": "soot and smoke Bad smelling gas Device to prevent emission of harmful gases, etc."
+            "text": "soot and smoke Bad smelling gas Device to prevent emission of harmful gases, etc.",
+            "rowspan": 10
           },
           {
-            "text": "blow-by gas reducer"
+            "text": "blow-by gas reducer",
+            "rowspan": 2
           },
           {
             "text": "Metering valve's condition"
@@ -2982,7 +3182,8 @@
         ],
         [
           {
-            "text": "Fuel evaporation gas emission limiter"
+            "text": "Fuel evaporation gas emission limiter",
+            "rowspan": 3
           },
           {
             "text": "Fuel evaporative gas emission deterrence Damage to equipment piping, etc."
@@ -3084,7 +3285,8 @@
         ],
         [
           {
-            "text": "Carbon monoxide, etc. anti-dissipation device"
+            "text": "Carbon monoxide, etc. anti-dissipation device",
+            "rowspan": 5
           },
           {
             "text": "Decrease in catalyst and other emissions Loose equipment installation, damage"
@@ -3290,7 +3492,8 @@
         [
           {
             "text": "Alarms, Window washer, Cleaning solution injection system, Defroster and locking device",
-            "colspan": 2
+            "colspan": 2,
+            "rowspan": 4
           },
           {
             "text": "Horn, weipa, Windshield washer, Defroster, handle Locking device action"
@@ -3426,7 +3629,8 @@
         [
           {
             "text": "exhaust pipe and muffler",
-            "colspan": 2
+            "colspan": 2,
+            "rowspan": 2
           },
           {
             "text": "Loose or damaged exhaust pipe or muffler installation"
@@ -3496,7 +3700,8 @@
         [
           {
             "text": "Fueled by high-pressure gas Fuel equipment, etc. to",
-            "colspan": 2
+            "colspan": 2,
+            "rowspan": 2
           },
           {
             "text": "Fuel system fueled by high-pressure gas and other pipes and joints. Gas leakage, damage"
@@ -3719,6 +3924,7 @@
         [
           {
             "text": "Periodic Replacement Parts Items",
+            "rowspan": 2,
             "header": true
           },
           {
@@ -3728,10 +3934,12 @@
           },
           {
             "text": "Inspection Method and Judgment Criteria",
+            "rowspan": 2,
             "header": true
           },
           {
             "text": "remarks",
+            "rowspan": 2,
             "header": true
           }
         ],
@@ -3781,19 +3989,23 @@
         ],
         [
           {
-            "text": "Automatic transmission fluid"
+            "text": "Automatic transmission fluid",
+            "rowspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
             "text": "［80］"
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
-            "text": "CVT"
+            "text": "CVT",
+            "rowspan": 3
           }
         ],
         [
@@ -3825,19 +4037,23 @@
         ],
         [
           {
-            "text": "Transfer Fluid"
+            "text": "Transfer Fluid",
+            "rowspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
             "text": "［80］"
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
-            "text": "4WD vehicle"
+            "text": "4WD vehicle",
+            "rowspan": 3
           }
         ],
         [
@@ -3869,19 +4085,23 @@
         ],
         [
           {
-            "text": "Air Cleaner Elements"
+            "text": "Air Cleaner Elements",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
             "text": "50"
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "wet (process)"
+            "text": "wet (process)",
+            "rowspan": 2
           }
         ],
         [
@@ -3891,7 +4111,8 @@
         ],
         [
           {
-            "text": "Engine oil"
+            "text": "Engine oil",
+            "rowspan": 3
           },
           {
             "text": "1"
@@ -3900,10 +4121,12 @@
             "text": "10"
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "Vehicles not equipped with a turbo charger"
+            "text": "Vehicles not equipped with a turbo charger",
+            "rowspan": 2
           }
         ],
         [
@@ -3930,7 +4153,8 @@
         ],
         [
           {
-            "text": "Engine oil filter"
+            "text": "Engine oil filter",
+            "rowspan": 3
           },
           {
             "text": "2"
@@ -3939,10 +4163,12 @@
             "text": "20"
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "Vehicles not equipped with a turbo charger"
+            "text": "Vehicles not equipped with a turbo charger",
+            "rowspan": 2
           }
         ],
         [
@@ -3969,7 +4195,8 @@
         ],
         [
           {
-            "text": "radiator fluid"
+            "text": "radiator fluid",
+            "rowspan": 2
           },
           {
             "text": "［11］"
@@ -3978,10 +4205,12 @@
             "text": "［200］"
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           }
         ],
         [
@@ -4035,7 +4264,8 @@
             "text": "Device to prevent emission of soot, foul-smelling or noxious gases, etc."
           },
           {
-            "text": "Carbon monoxide and other emission prevention devices"
+            "text": "Carbon monoxide and other emission prevention devices",
+            "rowspan": 2
           },
           {
             "text": "Function of exhaust gas reduction device during deceleration Function of the deceleration fuel cutoff device"

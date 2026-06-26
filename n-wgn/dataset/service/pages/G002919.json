@@ -27,7 +27,8 @@
       "rows": [
         [
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
             "text": "classified classification number",
@@ -46,7 +47,8 @@
         [
           {
             "text": "(technical) specification",
-            "colspan": 2
+            "colspan": 2,
+            "rowspan": 2
           },
           {
             "text": "4-door station wagon G continuously variable speed"
@@ -89,7 +91,8 @@
         ],
         [
           {
-            "text": "Honda DBA-JH2"
+            "text": "Honda DBA-JH2",
+            "rowspan": 2
           },
           {
             "text": "use",
@@ -140,7 +143,8 @@
         ],
         [
           {
-            "text": "Honda JH2"
+            "text": "Honda JH2",
+            "rowspan": 2
           },
           {
             "text": "Length (m)",
@@ -191,7 +195,8 @@
         ],
         [
           {
-            "text": "－"
+            "text": "－",
+            "rowspan": 2
           },
           {
             "text": "Axial distance (m)",
@@ -209,7 +214,8 @@
         ],
         [
           {
-            "text": "Vehicle weight (kg)"
+            "text": "Vehicle weight (kg)",
+            "rowspan": 3
           },
           {
             "text": "front axle weight"
@@ -243,7 +249,8 @@
         ],
         [
           {
-            "text": "Honda Motor Co."
+            "text": "Honda Motor Co.",
+            "rowspan": 2
           },
           {
             "text": "plan"
@@ -278,7 +285,8 @@
             "text": "Type of Vehicle"
           },
           {
-            "text": "Gross vehicle weight (kg)"
+            "text": "Gross vehicle weight (kg)",
+            "rowspan": 3
           },
           {
             "text": "front axle weight"
@@ -295,7 +303,8 @@
         ],
         [
           {
-            "text": "light"
+            "text": "light",
+            "rowspan": 2
           },
           {
             "text": "Rear axle weight"
@@ -329,7 +338,8 @@
             "text": "Fuel Type"
           },
           {
-            "text": "Maximum stable tilt angle"
+            "text": "Maximum stable tilt angle",
+            "rowspan": 2
           },
           {
             "text": "left"
@@ -346,7 +356,8 @@
         ],
         [
           {
-            "text": "gasoline"
+            "text": "gasoline",
+            "rowspan": 2
           },
           {
             "text": "right"
@@ -385,18 +396,22 @@
             "colspan": 2
           },
           {
-            "text": "no (Indication of how to open the doors of boarding and exiting entrances, etc.)"
+            "text": "no (Indication of how to open the doors of boarding and exiting entrances, etc.)",
+            "rowspan": 2
           },
           {
-            "text": "no (Indication of how to open the doors of boarding and exiting entrances, etc.)"
+            "text": "no (Indication of how to open the doors of boarding and exiting entrances, etc.)",
+            "rowspan": 2
           },
           {
-            "text": "no (Indication of how to open the doors of boarding and exiting entrances, etc.)"
+            "text": "no (Indication of how to open the doors of boarding and exiting entrances, etc.)",
+            "rowspan": 2
           }
         ],
         [
           {
-            "text": "S07A"
+            "text": "S07A",
+            "rowspan": 2
           },
           {
             "text": "(Detailed description)",
@@ -438,10 +453,12 @@
         ],
         [
           {
-            "text": "0.658（L）"
+            "text": "0.658（L）",
+            "rowspan": 2
           },
           {
-            "text": "noise"
+            "text": "noise",
+            "rowspan": 4
           },
           {
             "text": "Regulatory Classification"
@@ -489,7 +506,8 @@
         ],
         [
           {
-            "text": "JH2-1000001"
+            "text": "JH2-1000001",
+            "rowspan": 2
           },
           {
             "text": "Acceleration (dB)"
@@ -506,7 +524,8 @@
         ],
         [
           {
-            "text": "Emission Weight"
+            "text": "Emission Weight",
+            "rowspan": 11
           },
           {
             "text": "static test mode"
@@ -540,7 +559,8 @@
         ],
         [
           {
-            "text": "In engine compartment Dashboard Upper front side"
+            "text": "In engine compartment Dashboard Upper front side",
+            "rowspan": 2
           },
           {
             "text": "HC（g/km）"
@@ -588,7 +608,8 @@
         ],
         [
           {
-            "text": "S07A"
+            "text": "S07A",
+            "rowspan": 2
           },
           {
             "text": "PM（g/km）"
@@ -636,7 +657,8 @@
         ],
         [
           {
-            "text": "Front of cylinder block"
+            "text": "Front of cylinder block",
+            "rowspan": 5
           },
           {
             "text": "HC (g/test)"
@@ -681,7 +703,8 @@
         ],
         [
           {
-            "text": "Fuel consumption rate (km/L)"
+            "text": "Fuel consumption rate (km/L)",
+            "rowspan": 2
           },
           {
             "text": "10･15"
@@ -717,7 +740,8 @@
       "rows": [
         [
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
             "text": "classified classification number",
@@ -736,7 +760,8 @@
         [
           {
             "text": "(technical) specification",
-            "colspan": 2
+            "colspan": 2,
+            "rowspan": 2
           },
           {
             "text": "4-door station wagon G continuously variable speed turbo"
@@ -779,7 +804,8 @@
         ],
         [
           {
-            "text": "Honda DBA-JH2"
+            "text": "Honda DBA-JH2",
+            "rowspan": 2
           },
           {
             "text": "use",
@@ -830,7 +856,8 @@
         ],
         [
           {
-            "text": "Honda JH2"
+            "text": "Honda JH2",
+            "rowspan": 2
           },
           {
             "text": "Length (m)",
@@ -881,7 +908,8 @@
         ],
         [
           {
-            "text": "－"
+            "text": "－",
+            "rowspan": 2
           },
           {
             "text": "Axial distance (m)",
@@ -899,7 +927,8 @@
         ],
         [
           {
-            "text": "Vehicle weight (kg)"
+            "text": "Vehicle weight (kg)",
+            "rowspan": 3
           },
           {
             "text": "front axle weight"
@@ -933,7 +962,8 @@
         ],
         [
           {
-            "text": "Honda Motor Co."
+            "text": "Honda Motor Co.",
+            "rowspan": 2
           },
           {
             "text": "plan"
@@ -968,7 +998,8 @@
             "text": "Type of Vehicle"
           },
           {
-            "text": "Gross vehicle weight (kg)"
+            "text": "Gross vehicle weight (kg)",
+            "rowspan": 3
           },
           {
             "text": "front axle weight"
@@ -985,7 +1016,8 @@
         ],
         [
           {
-            "text": "light"
+            "text": "light",
+            "rowspan": 2
           },
           {
             "text": "Rear axle weight"
@@ -1019,7 +1051,8 @@
             "text": "Fuel Type"
           },
           {
-            "text": "Maximum stable tilt angle"
+            "text": "Maximum stable tilt angle",
+            "rowspan": 2
           },
           {
             "text": "left"
@@ -1036,7 +1069,8 @@
         ],
         [
           {
-            "text": "gasoline"
+            "text": "gasoline",
+            "rowspan": 2
           },
           {
             "text": "right"
@@ -1075,18 +1109,22 @@
             "colspan": 2
           },
           {
-            "text": "no (Indication of how to open the doors of boarding and exiting entrances, etc.)"
+            "text": "no (Indication of how to open the doors of boarding and exiting entrances, etc.)",
+            "rowspan": 2
           },
           {
-            "text": "no (Indication of how to open the doors of boarding and exiting entrances, etc.)"
+            "text": "no (Indication of how to open the doors of boarding and exiting entrances, etc.)",
+            "rowspan": 2
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           }
         ],
         [
           {
-            "text": "S07A"
+            "text": "S07A",
+            "rowspan": 2
           },
           {
             "text": "(Detailed description)",
@@ -1128,10 +1166,12 @@
         ],
         [
           {
-            "text": "0.658（L）"
+            "text": "0.658（L）",
+            "rowspan": 2
           },
           {
-            "text": "noise"
+            "text": "noise",
+            "rowspan": 4
           },
           {
             "text": "Regulatory Classification"
@@ -1179,7 +1219,8 @@
         ],
         [
           {
-            "text": "JH2-1000001"
+            "text": "JH2-1000001",
+            "rowspan": 2
           },
           {
             "text": "Acceleration (dB)"
@@ -1196,7 +1237,8 @@
         ],
         [
           {
-            "text": "Emission Weight"
+            "text": "Emission Weight",
+            "rowspan": 11
           },
           {
             "text": "static test mode"
@@ -1230,7 +1272,8 @@
         ],
         [
           {
-            "text": "In engine compartment Dashboard Upper front side"
+            "text": "In engine compartment Dashboard Upper front side",
+            "rowspan": 2
           },
           {
             "text": "HC（g/km）"
@@ -1278,7 +1321,8 @@
         ],
         [
           {
-            "text": "S07A"
+            "text": "S07A",
+            "rowspan": 2
           },
           {
             "text": "PM（g/km）"
@@ -1326,7 +1370,8 @@
         ],
         [
           {
-            "text": "Front of cylinder block"
+            "text": "Front of cylinder block",
+            "rowspan": 5
           },
           {
             "text": "HC (g/test)"
@@ -1371,7 +1416,8 @@
         ],
         [
           {
-            "text": "Fuel consumption rate (km/L)"
+            "text": "Fuel consumption rate (km/L)",
+            "rowspan": 2
           },
           {
             "text": "10･15"

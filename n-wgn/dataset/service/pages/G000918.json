@@ -91,7 +91,8 @@
         ],
         [
           {
-            "text": "MICU"
+            "text": "MICU",
+            "rowspan": 9
           },
           {
             "text": "Keyless Ansa Back"
@@ -237,7 +238,8 @@
         ],
         [
           {
-            "text": "Smart ECU"
+            "text": "Smart ECU",
+            "rowspan": 4
           },
           {
             "text": "Honda Smart Key System Feature"

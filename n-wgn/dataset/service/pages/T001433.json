@@ -464,13 +464,16 @@
             "text": "ash"
           },
           {
-            "text": "Headlight switch OFF position"
+            "text": "Headlight switch OFF position",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminals."
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
           },
           {
-            "text": "Lighting Switch Cord disconnection and terminal connection condition"
+            "text": "Lighting Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -489,13 +492,16 @@
             "text": "red"
           },
           {
-            "text": "Headlight switch ON position, disconnect auto light control unit/sensor 7P coupler"
+            "text": "Headlight switch ON position, disconnect auto light control unit/sensor 7P coupler",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminals."
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
           },
           {
-            "text": "Lighting Switch Cord disconnection and terminal connection condition"
+            "text": "Lighting Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -514,13 +520,16 @@
             "text": "weak matcha"
           },
           {
-            "text": "Headlight switch SMALL position"
+            "text": "Headlight switch SMALL position",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminals."
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
           },
           {
-            "text": "Lighting Switch Cord disconnection and terminal connection condition"
+            "text": "Lighting Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -529,12 +538,6 @@
           },
           {
             "text": "black"
-          }
-        ],
-        [
-          {
-            "text": "*1: Models equipped with TRW's SRS unit *2: Vehicles equipped with DENSO SRS unit",
-            "colspan": 5
           }
         ]
       ]

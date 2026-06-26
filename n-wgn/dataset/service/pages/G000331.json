@@ -60,10 +60,12 @@
         ],
         [
           {
-            "text": "Spark Plug"
+            "text": "Spark Plug",
+            "rowspan": 6
           },
           {
-            "text": "Model (without turbo charger) Uses ISO (International Organization for Standardization) standard products"
+            "text": "Model (without turbo charger) Uses ISO (International Organization for Standardization) standard products",
+            "rowspan": 2
           },
           {
             "text": "NGK"
@@ -84,7 +86,8 @@
         ],
         [
           {
-            "text": "Model (with turbo charger) Uses ISO (International Organization for Standardization) standard products"
+            "text": "Model (with turbo charger) Uses ISO (International Organization for Standardization) standard products",
+            "rowspan": 2
           },
           {
             "text": "NGK"
@@ -105,7 +108,8 @@
         ],
         [
           {
-            "text": "Electrode gap"
+            "text": "Electrode gap",
+            "rowspan": 2
           },
           {
             "text": "Cars not equipped with a turbo charger"
@@ -141,7 +145,8 @@
         ],
         [
           {
-            "text": "A.C. Generator"
+            "text": "A.C. Generator",
+            "rowspan": 2
           },
           {
             "text": "Rising RPM (13.5V, when hot)"
@@ -172,10 +177,12 @@
         ],
         [
           {
-            "text": "A.C. generator belt (when cold)"
+            "text": "A.C. generator belt (when cold)",
+            "rowspan": 4
           },
           {
-            "text": "Deflection (when the center of the belt between the pulleys is pressed with a force of approximately 98 N (10.0 kgf))"
+            "text": "Deflection (when the center of the belt between the pulleys is pressed with a force of approximately 98 N (10.0 kgf))",
+            "rowspan": 2
           },
           {
             "text": "time for inspection"
@@ -200,7 +207,8 @@
         ],
         [
           {
-            "text": "Tension (as measured by belt tension gauge)"
+            "text": "Tension (as measured by belt tension gauge)",
+            "rowspan": 2
           },
           {
             "text": "time for inspection"
@@ -225,7 +233,8 @@
         ],
         [
           {
-            "text": "Starter motor"
+            "text": "Starter motor",
+            "rowspan": 4
           },
           {
             "text": "Depth of mica"
@@ -306,10 +315,12 @@
         ],
         [
           {
-            "text": "engine"
+            "text": "engine",
+            "rowspan": 2
           },
           {
-            "text": "Compression pressure"
+            "text": "Compression pressure",
+            "rowspan": 2
           },
           {
             "text": "when cranking"
@@ -334,7 +345,8 @@
         ],
         [
           {
-            "text": "Cylinder head"
+            "text": "Cylinder head",
+            "rowspan": 2
           },
           {
             "text": "Cylinder block mating surface distortion"
@@ -365,7 +377,8 @@
         ],
         [
           {
-            "text": "Cam Shaft"
+            "text": "Cam Shaft",
+            "rowspan": 6
           },
           {
             "text": "Axial deformation"
@@ -382,7 +395,8 @@
         ],
         [
           {
-            "text": "Oil Clearance"
+            "text": "Oil Clearance",
+            "rowspan": 2
           },
           {
             "text": "No. 1 Journal"
@@ -421,7 +435,8 @@
         ],
         [
           {
-            "text": "Cam Height"
+            "text": "Cam Height",
+            "rowspan": 2
           },
           {
             "text": "IN"
@@ -446,10 +461,12 @@
         ],
         [
           {
-            "text": "valve"
+            "text": "valve",
+            "rowspan": 4
           },
           {
-            "text": "Stem O.D."
+            "text": "Stem O.D.",
+            "rowspan": 2
           },
           {
             "text": "IN"
@@ -474,7 +491,8 @@
         ],
         [
           {
-            "text": "Clearance between guide and stem"
+            "text": "Clearance between guide and stem",
+            "rowspan": 2
           },
           {
             "text": "IN"
@@ -499,10 +517,12 @@
         ],
         [
           {
-            "text": "Valve Seats"
+            "text": "Valve Seats",
+            "rowspan": 4
           },
           {
-            "text": "Width per sheet"
+            "text": "Width per sheet",
+            "rowspan": 2
           },
           {
             "text": "IN"
@@ -527,7 +547,8 @@
         ],
         [
           {
-            "text": "Valve mounting height"
+            "text": "Valve mounting height",
+            "rowspan": 2
           },
           {
             "text": "IN"
@@ -552,10 +573,12 @@
         ],
         [
           {
-            "text": "Valve Guide"
+            "text": "Valve Guide",
+            "rowspan": 2
           },
           {
-            "text": "Projection length"
+            "text": "Projection length",
+            "rowspan": 2
           },
           {
             "text": "IN"
@@ -580,7 +603,8 @@
         ],
         [
           {
-            "text": "Cylinder block"
+            "text": "Cylinder block",
+            "rowspan": 3
           },
           {
             "text": "Cylinder head mating surface distortion"
@@ -625,7 +649,8 @@
         ],
         [
           {
-            "text": "piston"
+            "text": "piston",
+            "rowspan": 2
           },
           {
             "text": "Outer diameter (at 11 mm from the bottom of the skirt)"
@@ -656,10 +681,12 @@
         ],
         [
           {
-            "text": "Piston ring"
+            "text": "Piston ring",
+            "rowspan": 5
           },
           {
-            "text": "Clearance between piston groove and"
+            "text": "Clearance between piston groove and",
+            "rowspan": 2
           },
           {
             "text": "top"
@@ -684,7 +711,8 @@
         ],
         [
           {
-            "text": "clearance (e.g. clearance at the front door)"
+            "text": "clearance (e.g. clearance at the front door)",
+            "rowspan": 3
           },
           {
             "text": "top"
@@ -720,7 +748,8 @@
         ],
         [
           {
-            "text": "Piston pin"
+            "text": "Piston pin",
+            "rowspan": 2
           },
           {
             "text": "outer diameter"
@@ -751,7 +780,8 @@
         ],
         [
           {
-            "text": "con-rod"
+            "text": "con-rod",
+            "rowspan": 3
           },
           {
             "text": "Clearance to piston pin"
@@ -796,10 +826,12 @@
         ],
         [
           {
-            "text": "Crankshaft"
+            "text": "Crankshaft",
+            "rowspan": 7
           },
           {
-            "text": "Journal Diameter"
+            "text": "Journal Diameter",
+            "rowspan": 2
           },
           {
             "text": "No. 1, 4 Journal"
@@ -894,10 +926,12 @@
         ],
         [
           {
-            "text": "bearing"
+            "text": "bearing",
+            "rowspan": 3
           },
           {
-            "text": "Journal Oil Clearance"
+            "text": "Journal Oil Clearance",
+            "rowspan": 2
           },
           {
             "text": "No. 1, 4 Journal"
@@ -936,10 +970,12 @@
         ],
         [
           {
-            "text": "Recommended engine oil"
+            "text": "Recommended engine oil",
+            "rowspan": 5
           },
           {
-            "text": "Recommended engine oil"
+            "text": "Recommended engine oil",
+            "rowspan": 2
           },
           {
             "text": "Cars not equipped with a turbo charger"
@@ -960,7 +996,8 @@
         ],
         [
           {
-            "text": "Oil quantity"
+            "text": "Oil quantity",
+            "rowspan": 3
           },
           {
             "text": "During disassembly and assembly"
@@ -996,10 +1033,12 @@
         ],
         [
           {
-            "text": "Relief valve"
+            "text": "Relief valve",
+            "rowspan": 2
           },
           {
-            "text": "Adjustment hydraulic pressure"
+            "text": "Adjustment hydraulic pressure",
+            "rowspan": 2
           },
           {
             "text": "Oil temperature 80℃, at idling"
@@ -1024,7 +1063,8 @@
         ],
         [
           {
-            "text": "radiator fluid"
+            "text": "radiator fluid",
+            "rowspan": 6
           },
           {
             "text": "designated money"
@@ -1039,7 +1079,8 @@
         ],
         [
           {
-            "text": "Engine/radiator specified quantity (including reserve tank capacity) (Vehicles not equipped with a turbo charger)"
+            "text": "Engine/radiator specified quantity (including reserve tank capacity) (Vehicles not equipped with a turbo charger)",
+            "rowspan": 2
           },
           {
             "text": "at breakdown time"
@@ -1064,7 +1105,8 @@
         ],
         [
           {
-            "text": "Engine/radiator specified quantity (including reserve tank capacity) (Turbo Charger-equipped vehicles)"
+            "text": "Engine/radiator specified quantity (including reserve tank capacity) (Turbo Charger-equipped vehicles)",
+            "rowspan": 2
           },
           {
             "text": "at breakdown time"
@@ -1120,7 +1162,8 @@
         ],
         [
           {
-            "text": "Thermo stat"
+            "text": "Thermo stat",
+            "rowspan": 3
           },
           {
             "text": "Opening temperature (at 0.35mm lift)"
@@ -1187,10 +1230,12 @@
         ],
         [
           {
-            "text": "Fuel pump"
+            "text": "Fuel pump",
+            "rowspan": 2
           },
           {
-            "text": "Discharge rate (at 12V for 10 seconds)"
+            "text": "Discharge rate (at 12V for 10 seconds)",
+            "rowspan": 2
           },
           {
             "text": "Cars not equipped with a turbo charger"
@@ -1211,10 +1256,12 @@
         ],
         [
           {
-            "text": "Fuel Line"
+            "text": "Fuel Line",
+            "rowspan": 2
           },
           {
-            "text": "Control pressure"
+            "text": "Control pressure",
+            "rowspan": 2
           },
           {
             "text": "Cars not equipped with a turbo charger"
@@ -1239,7 +1286,8 @@
         ],
         [
           {
-            "text": "Idling RPM"
+            "text": "Idling RPM",
+            "rowspan": 3
           },
           {
             "text": "no load"
@@ -1278,7 +1326,8 @@
         ],
         [
           {
-            "text": "Idling Emission"
+            "text": "Idling Emission",
+            "rowspan": 2
           },
           {
             "text": "CO concentration"
@@ -1327,10 +1376,12 @@
         ],
         [
           {
-            "text": "Specified Transmission Fluid"
+            "text": "Specified Transmission Fluid",
+            "rowspan": 5
           },
           {
-            "text": "Fluid quantity (2WD vehicles)"
+            "text": "Fluid quantity (2WD vehicles)",
+            "rowspan": 2
           },
           {
             "text": "time to switch over"
@@ -1355,7 +1406,8 @@
         ],
         [
           {
-            "text": "Fluid quantity (4WD vehicles)"
+            "text": "Fluid quantity (4WD vehicles)",
+            "rowspan": 2
           },
           {
             "text": "time to switch over"
@@ -1392,35 +1444,20 @@
         ],
         [
           {
-            "text": "hydraulics (Vehicles not equipped with a turbo charger)"
+            "text": "hydraulics (Vehicles not equipped with a turbo charger)",
+            "rowspan": 8
           },
           {
-            "text": "Forward Clutch Pressure"
+            "text": "Forward Clutch Pressure",
+            "rowspan": 2
           },
           {
-            "text": "D position 2000 rpm"
+            "text": "D position 2000 rpm",
+            "rowspan": 2
           },
           {
-            "text": "760-961kPa （7.8-9.8kgf/cm 2 ）"
-          },
-          {
-            "text": "－"
-          }
-        ],
-        [
-          {
-            "text": "－"
-          }
-        ],
-        [
-          {
-            "text": "Reverse Clutch Pressure"
-          },
-          {
-            "text": "R position 2000 rpm"
-          },
-          {
-            "text": "943-1139kPa （9.6-11.6kgf/cm 2 ）"
+            "text": "760-961kPa （7.8-9.8kgf/cm 2 ）",
+            "rowspan": 2
           },
           {
             "text": "－"
@@ -1433,32 +1470,16 @@
         ],
         [
           {
-            "text": "Drive pulley pressure"
+            "text": "Reverse Clutch Pressure",
+            "rowspan": 2
           },
           {
-            "text": "N position 1700rpm"
+            "text": "R position 2000 rpm",
+            "rowspan": 2
           },
           {
-            "text": "594-986kPa （6.1-10.1kgf/cm 2 ）"
-          },
-          {
-            "text": "－"
-          }
-        ],
-        [
-          {
-            "text": "－"
-          }
-        ],
-        [
-          {
-            "text": "Driven Puli Pressure"
-          },
-          {
-            "text": "N position 1700rpm"
-          },
-          {
-            "text": "754-1146kPa （7.7-11.7kgf/cm 2 ）"
+            "text": "943-1139kPa （9.6-11.6kgf/cm 2 ）",
+            "rowspan": 2
           },
           {
             "text": "－"
@@ -1471,35 +1492,16 @@
         ],
         [
           {
-            "text": "hydraulics (Turbo Charger-equipped vehicles)"
+            "text": "Drive pulley pressure",
+            "rowspan": 2
           },
           {
-            "text": "Forward Clutch Pressure"
+            "text": "N position 1700rpm",
+            "rowspan": 2
           },
           {
-            "text": "D position 2000 rpm"
-          },
-          {
-            "text": "598-794kPa （6.1-8.1kgf/cm 2 ）"
-          },
-          {
-            "text": "－"
-          }
-        ],
-        [
-          {
-            "text": "－"
-          }
-        ],
-        [
-          {
-            "text": "Reverse Clutch Pressure"
-          },
-          {
-            "text": "R position 2000 rpm"
-          },
-          {
-            "text": "738-934kPa （7.5-9.5kgf/cm 2 ）"
+            "text": "594-986kPa （6.1-10.1kgf/cm 2 ）",
+            "rowspan": 2
           },
           {
             "text": "－"
@@ -1512,32 +1514,16 @@
         ],
         [
           {
-            "text": "Drive pulley pressure"
+            "text": "Driven Puli Pressure",
+            "rowspan": 2
           },
           {
-            "text": "N position 1700rpm"
+            "text": "N position 1700rpm",
+            "rowspan": 2
           },
           {
-            "text": "590-982kPa （6.0-10.0kgf/cm 2 ）"
-          },
-          {
-            "text": "－"
-          }
-        ],
-        [
-          {
-            "text": "－"
-          }
-        ],
-        [
-          {
-            "text": "Driven Puli Pressure"
-          },
-          {
-            "text": "N position 1700rpm"
-          },
-          {
-            "text": "741-1134kPa （7.6-11.6kgf/cm 2 ）"
+            "text": "754-1146kPa （7.7-11.7kgf/cm 2 ）",
+            "rowspan": 2
           },
           {
             "text": "－"
@@ -1550,7 +1536,100 @@
         ],
         [
           {
-            "text": "Stall RPM (Vehicles not equipped with a turbo charger)"
+            "text": "hydraulics (Turbo Charger-equipped vehicles)",
+            "rowspan": 8
+          },
+          {
+            "text": "Forward Clutch Pressure",
+            "rowspan": 2
+          },
+          {
+            "text": "D position 2000 rpm",
+            "rowspan": 2
+          },
+          {
+            "text": "598-794kPa （6.1-8.1kgf/cm 2 ）",
+            "rowspan": 2
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Reverse Clutch Pressure",
+            "rowspan": 2
+          },
+          {
+            "text": "R position 2000 rpm",
+            "rowspan": 2
+          },
+          {
+            "text": "738-934kPa （7.5-9.5kgf/cm 2 ）",
+            "rowspan": 2
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Drive pulley pressure",
+            "rowspan": 2
+          },
+          {
+            "text": "N position 1700rpm",
+            "rowspan": 2
+          },
+          {
+            "text": "590-982kPa （6.0-10.0kgf/cm 2 ）",
+            "rowspan": 2
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Driven Puli Pressure",
+            "rowspan": 2
+          },
+          {
+            "text": "N position 1700rpm",
+            "rowspan": 2
+          },
+          {
+            "text": "741-1134kPa （7.6-11.6kgf/cm 2 ）",
+            "rowspan": 2
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Stall RPM (Vehicles not equipped with a turbo charger)",
+            "rowspan": 2
           },
           {
             "text": "standard value"
@@ -1581,7 +1660,8 @@
         ],
         [
           {
-            "text": "Stall RPM (Turbo Charger-equipped vehicles)"
+            "text": "Stall RPM (Turbo Charger-equipped vehicles)",
+            "rowspan": 2
           },
           {
             "text": "standard value"
@@ -1697,7 +1777,8 @@
         ],
         [
           {
-            "text": "Transfer (4WD)"
+            "text": "Transfer (4WD)",
+            "rowspan": 2
           },
           {
             "text": "backlash"
@@ -1750,10 +1831,12 @@
         ],
         [
           {
-            "text": "Designated Rear Differential Fluid"
+            "text": "Designated Rear Differential Fluid",
+            "rowspan": 3
           },
           {
-            "text": "Fluid quantity"
+            "text": "Fluid quantity",
+            "rowspan": 2
           },
           {
             "text": "time to switch over"
@@ -1807,7 +1890,8 @@
         ],
         [
           {
-            "text": "Drive Pinion"
+            "text": "Drive Pinion",
+            "rowspan": 2
           },
           {
             "text": "Back Rush"
@@ -1860,7 +1944,8 @@
         ],
         [
           {
-            "text": "Steering wheel"
+            "text": "Steering wheel",
+            "rowspan": 2
           },
           {
             "text": "Play (in straight line, at wheel circumference)"
@@ -1913,10 +1998,12 @@
         ],
         [
           {
-            "text": "Wheel alignment"
+            "text": "Wheel alignment",
+            "rowspan": 14
           },
           {
-            "text": "Camber angle"
+            "text": "Camber angle",
+            "rowspan": 2
           },
           {
             "text": "front wheel"
@@ -1937,7 +2024,8 @@
         ],
         [
           {
-            "text": "Caster angle"
+            "text": "Caster angle",
+            "rowspan": 2
           },
           {
             "text": "Front wheels (2WD vehicles)"
@@ -1958,7 +2046,8 @@
         ],
         [
           {
-            "text": "Total Toe-in"
+            "text": "Total Toe-in",
+            "rowspan": 3
           },
           {
             "text": "front wheel"
@@ -1988,7 +2077,8 @@
         ],
         [
           {
-            "text": "Front Wheel Angle (FWD model)"
+            "text": "Front Wheel Angle (FWD model)",
+            "rowspan": 4
           },
           {
             "text": "Inside (for vehicles equipped with 14-inch wheels)"
@@ -2027,7 +2117,8 @@
         ],
         [
           {
-            "text": "Front wheel angle (4WD models)"
+            "text": "Front wheel angle (4WD models)",
+            "rowspan": 2
           },
           {
             "text": "inside"
@@ -2060,10 +2151,12 @@
         ],
         [
           {
-            "text": "Wheel bearings"
+            "text": "Wheel bearings",
+            "rowspan": 2
           },
           {
-            "text": "Axial deformation"
+            "text": "Axial deformation",
+            "rowspan": 2
           },
           {
             "text": "front wheel"
@@ -2088,10 +2181,12 @@
         ],
         [
           {
-            "text": "Wheels, tires"
+            "text": "Wheels, tires",
+            "rowspan": 11
           },
           {
-            "text": "Rim Vibration"
+            "text": "Rim Vibration",
+            "rowspan": 4
           },
           {
             "text": "Steel Wheel lateral"
@@ -2152,7 +2247,8 @@
         ],
         [
           {
-            "text": "inset"
+            "text": "inset",
+            "rowspan": 3
           },
           {
             "text": "Steel wheels (14\")"
@@ -2188,7 +2284,8 @@
         ],
         [
           {
-            "text": "Wheel size"
+            "text": "Wheel size",
+            "rowspan": 3
           },
           {
             "text": "Steel wheels (155/65R14 75S)"
@@ -2246,7 +2343,8 @@
         ],
         [
           {
-            "text": "Parking brake pedal"
+            "text": "Parking brake pedal",
+            "rowspan": 2
           },
           {
             "text": "All strokes"
@@ -2273,7 +2371,8 @@
         ],
         [
           {
-            "text": "Brake pedal"
+            "text": "Brake pedal",
+            "rowspan": 3
           },
           {
             "text": "Pedal height (from floor steel surface)"
@@ -2318,7 +2417,8 @@
         ],
         [
           {
-            "text": "Disc brake"
+            "text": "Disc brake",
+            "rowspan": 6
           },
           {
             "text": "Disc thickness (12\" brake spec car)"
@@ -2405,7 +2505,8 @@
         ],
         [
           {
-            "text": "Rear drum brakes"
+            "text": "Rear drum brakes",
+            "rowspan": 3
           },
           {
             "text": "Gap between drum and lining"
@@ -2448,10 +2549,12 @@
         ],
         [
           {
-            "text": "Master Power"
+            "text": "Master Power",
+            "rowspan": 4
           },
           {
-            "text": "Master Cylinder oil pressure (at negative pressure = 0 kPa (0 mmHg))"
+            "text": "Master Cylinder oil pressure (at negative pressure = 0 kPa (0 mmHg))",
+            "rowspan": 2
           },
           {
             "text": "Tread force = 98N (10.0kgf)"
@@ -2476,7 +2579,8 @@
         ],
         [
           {
-            "text": "Master Cylinder oil pressure (at negative pressure = 66.7 kPa (500 mmHg))"
+            "text": "Master Cylinder oil pressure (at negative pressure = 66.7 kPa (500 mmHg))",
+            "rowspan": 2
           },
           {
             "text": "Tread force = 98N (10.0kgf)"
@@ -2538,7 +2642,8 @@
         ],
         [
           {
-            "text": "Air Conditioner System"
+            "text": "Air Conditioner System",
+            "rowspan": 8
           },
           {
             "text": "Specified lubricating oil"
@@ -2553,7 +2658,8 @@
         ],
         [
           {
-            "text": "Amount of lubricating oil"
+            "text": "Amount of lubricating oil",
+            "rowspan": 5
           },
           {
             "text": "Capacitor (including receiver tank capacity)"
@@ -2625,7 +2731,8 @@
         ],
         [
           {
-            "text": "compressor"
+            "text": "compressor",
+            "rowspan": 4
           },
           {
             "text": "Specified lubricating oil"
@@ -2713,7 +2820,8 @@
         ],
         [
           {
-            "text": "valve"
+            "text": "valve",
+            "rowspan": 23
           },
           {
             "text": "Headlights (models without discharge headlights)"
@@ -2788,7 +2896,8 @@
         ],
         [
           {
-            "text": "Front Position Light"
+            "text": "Front Position Light",
+            "rowspan": 3
           },
           {
             "text": "Vehicles equipped with dual discharge headlights"

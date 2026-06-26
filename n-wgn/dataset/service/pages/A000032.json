@@ -88,7 +88,8 @@
         ],
         [
           {
-            "text": "Detection time"
+            "text": "Detection time",
+            "rowspan": 2
           },
           {
             "text": "Type 1"
@@ -121,12 +122,6 @@
           },
           {
             "text": "Normal judgment, failure judgment, not completed, out of condition"
-          }
-        ],
-        [
-          {
-            "text": "D/C: Drive Cycle",
-            "colspan": 3
           }
         ]
       ]
@@ -180,7 +175,8 @@
         ],
         [
           {
-            "text": "engine Inhalation air pressure [Intake pressure Sensor]*"
+            "text": "engine Inhalation air pressure [Intake pressure Sensor]*",
+            "rowspan": 3
           },
           {
             "text": "850rpm"
@@ -237,7 +233,8 @@
         [
           {
             "text": "Other",
-            "colspan": 2
+            "colspan": 2,
+            "rowspan": 2
           },
           {
             "text": "To prevent misjudgment, test runs should be conducted on level ground.",
@@ -248,12 +245,6 @@
           {
             "text": "When the engine coolant temperature [water temperature sensor] at engine startup is -10°C or lower, the failure detection is executed when the engine coolant temperature [water temperature sensor] is 20°C or higher.",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "*: Variable depending on driving conditions *1: Models equipped with a turbo charger *2: Vehicles not equipped with a turbo charger [ ]: HDS Parameters",
-            "colspan": 4
           }
         ]
       ]
@@ -304,12 +295,6 @@
           },
           {
             "text": "85* 1 (104)* 2 counter for games, rounds, etc."
-          }
-        ],
-        [
-          {
-            "text": "**: Variable depending on engine speed and engine load",
-            "colspan": 3
           }
         ]
       ]

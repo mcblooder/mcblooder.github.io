@@ -90,12 +90,6 @@
           {
             "text": "Normal judgment, failure judgment, not completed"
           }
-        ],
-        [
-          {
-            "text": "D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -150,12 +144,6 @@
           {
             "text": "U0029",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "[ ]: HDS Parameters",
-            "colspan": 3
           }
         ]
       ]

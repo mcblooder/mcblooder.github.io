@@ -95,12 +95,6 @@
           {
             "text": "Normal judgment, failure judgment, running, out of condition"
           }
-        ],
-        [
-          {
-            "text": "*1: Models equipped with a turbo charger *2: Vehicles not equipped with a turbo charger D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -195,12 +189,6 @@
           {
             "text": "Load above cruise run",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "[ ]: HDS Parameters",
-            "colspan": 3
           }
         ]
       ]

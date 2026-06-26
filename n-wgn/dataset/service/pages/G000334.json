@@ -53,10 +53,12 @@
         ],
         [
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
-            "text": "engine"
+            "text": "engine",
+            "rowspan": 2
           },
           {
             "text": "Cars not equipped with a turbo charger"
@@ -166,13 +168,16 @@
             "colspan": 2
           },
           {
-            "text": "grease"
+            "text": "grease",
+            "rowspan": 5
           },
           {
-            "text": "Dia Mondo Multi-Purpose Grease"
+            "text": "Dia Mondo Multi-Purpose Grease",
+            "rowspan": 5
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 5
           }
         ],
         [

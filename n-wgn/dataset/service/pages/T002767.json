@@ -177,13 +177,16 @@
             "text": "ash"
           },
           {
-            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminal and ground."
+            "text": "There should be continuity between the inspection terminal and ground.",
+            "rowspan": 2
           },
           {
-            "text": "Grounding failure (G202) Cord disconnection and terminal connection condition"
+            "text": "Grounding failure (G202) Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -202,13 +205,16 @@
             "text": "green"
           },
           {
-            "text": "Ignition ON mode, lighting switch LO position"
+            "text": "Ignition ON mode, lighting switch LO position",
+            "rowspan": 2
           },
           {
-            "text": "Battery voltage must be present between No. 5 and No. 4 terminals"
+            "text": "Battery voltage must be present between No. 5 and No. 4 terminals",
+            "rowspan": 2
           },
           {
-            "text": "Headlight Leveling Motor Cord disconnection and terminal connection condition"
+            "text": "Headlight Leveling Motor Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -227,13 +233,16 @@
             "text": "white"
           },
           {
-            "text": "Ignition ON mode, lighting switch LO position"
+            "text": "Ignition ON mode, lighting switch LO position",
+            "rowspan": 2
           },
           {
-            "text": "10 to 90% of battery voltage between No. 11 and No. 4 terminals"
+            "text": "10 to 90% of battery voltage between No. 11 and No. 4 terminals",
+            "rowspan": 2
           },
           {
-            "text": "Headlight Leveling Motor Cord disconnection and terminal connection condition"
+            "text": "Headlight Leveling Motor Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -252,13 +261,16 @@
             "text": "yellow"
           },
           {
-            "text": "Ignition ON mode"
+            "text": "Ignition ON mode",
+            "rowspan": 3
           },
           {
-            "text": "Approximately 5 V between No. 10 and No. 3 terminals There should be a voltage of approximately 0.5-4.5V between No.1 and No.3 terminals"
+            "text": "Approximately 5 V between No. 10 and No. 3 terminals There should be a voltage of approximately 0.5-4.5V between No.1 and No.3 terminals",
+            "rowspan": 3
           },
           {
-            "text": "Rear headlight leveling sensor Cord disconnection and terminal connection condition"
+            "text": "Rear headlight leveling sensor Cord disconnection and terminal connection condition",
+            "rowspan": 3
           }
         ],
         [

@@ -28,22 +28,28 @@
       "rows": [
         [
           {
-            "text": "nickname"
+            "text": "nickname",
+            "rowspan": 2
           },
           {
-            "text": "trade name"
+            "text": "trade name",
+            "rowspan": 2
           },
           {
-            "text": "Body shape classification"
+            "text": "Body shape classification",
+            "rowspan": 2
           },
           {
-            "text": "Driving method"
+            "text": "Driving method",
+            "rowspan": 2
           },
           {
-            "text": "model (e.g. of a vehicle)"
+            "text": "model (e.g. of a vehicle)",
+            "rowspan": 2
           },
           {
-            "text": "type"
+            "text": "type",
+            "rowspan": 2
           },
           {
             "text": "frame",
@@ -95,25 +101,30 @@
             "text": "DBA-JH1"
           },
           {
-            "text": "G"
+            "text": "G",
+            "rowspan": 2
           },
           {
             "text": "JH1"
           },
           {
-            "text": "8000001"
+            "text": "8000001",
+            "rowspan": 2
           },
           {
-            "text": "S07A"
+            "text": "S07A",
+            "rowspan": 2
           },
           {
-            "text": "7000001"
+            "text": "7000001",
+            "rowspan": 2
           },
           {
             "text": "SZ3A"
           },
           {
-            "text": "1000001"
+            "text": "1000001",
+            "rowspan": 2
           }
         ],
         [

@@ -57,7 +57,8 @@
         ],
         [
           {
-            "text": "A2"
+            "text": "A2",
+            "rowspan": 2
           },
           {
             "text": "A2-1"
@@ -82,7 +83,8 @@
         ],
         [
           {
-            "text": "A3"
+            "text": "A3",
+            "rowspan": 2
           },
           {
             "text": "A3-1"
@@ -107,7 +109,8 @@
         ],
         [
           {
-            "text": "A4"
+            "text": "A4",
+            "rowspan": 2
           },
           {
             "text": "A4-1"
@@ -380,12 +383,6 @@
           },
           {
             "text": "unused"
-          }
-        ],
-        [
-          {
-            "text": "*1: Vehicles equipped with dual discharge headlights *2: Vehicles equipped with 4-discharge headlights *3: Vehicles equipped with 2-lamp halogen headlights *4: Vehicles equipped with front fog lights *5: Vehicles equipped with the Citi Brake Active System *6: Cars equipped with auto lights *7: Cars equipped with plasma cluster *8: Vehicles equipped with cruise control *9: Cars without audio remote switch *10: Vehicles without headlight auto-leveling system",
-            "colspan": 4
           }
         ]
       ]
@@ -900,12 +897,6 @@
           {
             "text": "Power Window Master Switch"
           }
-        ],
-        [
-          {
-            "text": "*1: Cars without audio equipment *2: Cars equipped with plasma cluster *3: Cars equipped with mirror heaters",
-            "colspan": 3
-          }
         ]
       ]
     },
@@ -1002,12 +993,6 @@
           },
           {
             "text": "unused"
-          }
-        ],
-        [
-          {
-            "text": "*1: Vehicles equipped with the Citi Brake Active System *2: Cars equipped with audio system *3: Cars without audio equipment",
-            "colspan": 3
           }
         ]
       ]

@@ -1531,12 +1531,6 @@
           {
             "text": "VSA Modulator Control Unit program is not up-to-date VSA modulator Internal circuit failure of control unit (lateral G sensor)"
           }
-        ],
-        [
-          {
-            "text": "*: 4WD vehicle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -1642,12 +1636,6 @@
           },
           {
             "text": "VSA Modulator Control Unit program is not up-to-date VSA modulator Internal circuit failure of control unit (front/rear G sensor)"
-          }
-        ],
-        [
-          {
-            "text": "*: 4WD vehicle",
-            "colspan": 2
           }
         ]
       ]

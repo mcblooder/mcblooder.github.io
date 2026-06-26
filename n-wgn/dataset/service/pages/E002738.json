@@ -839,12 +839,6 @@
           {
             "text": ""
           }
-        ],
-        [
-          {
-            "text": "*1: Vehicles equipped with the City Brake Active System *2: Vehicles equipped with dual discharge headlights",
-            "colspan": 4
-          }
         ]
       ]
     },
@@ -881,12 +875,6 @@
           },
           {
             "text": ""
-          }
-        ],
-        [
-          {
-            "text": "*：Vehicles equipped with front fog lights",
-            "colspan": 4
           }
         ]
       ]
@@ -938,12 +926,6 @@
           },
           {
             "text": ""
-          }
-        ],
-        [
-          {
-            "text": "*：Mirror Heater-equipped vehicles",
-            "colspan": 4
           }
         ]
       ]

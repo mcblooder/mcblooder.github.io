@@ -138,7 +138,8 @@
         ],
         [
           {
-            "text": "Cars not equipped with a turbo charger"
+            "text": "Cars not equipped with a turbo charger",
+            "rowspan": 2
           },
           {
             "text": "at breakdown time"
@@ -157,7 +158,8 @@
         ],
         [
           {
-            "text": "Turbo Charger equipped vehicle"
+            "text": "Turbo Charger equipped vehicle",
+            "rowspan": 2
           },
           {
             "text": "at breakdown time"

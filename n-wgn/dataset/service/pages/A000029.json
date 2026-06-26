@@ -95,12 +95,6 @@
           {
             "text": "Normal judgment, failure judgment, not completed"
           }
-        ],
-        [
-          {
-            "text": "D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -177,7 +171,8 @@
         ],
         [
           {
-            "text": "throttle aperture [Throttle opening sensor]"
+            "text": "throttle aperture [Throttle opening sensor]",
+            "rowspan": 2
           },
           {
             "text": "3,250rpm"
@@ -186,7 +181,8 @@
             "text": "41°"
           },
           {
-            "text": "―"
+            "text": "―",
+            "rowspan": 2
           }
         ],
         [
@@ -222,7 +218,8 @@
         [
           {
             "text": "Other",
-            "colspan": 2
+            "colspan": 2,
+            "rowspan": 2
           },
           {
             "text": "Supercharging pressure is controlled at the upper limit of control pressure.",
@@ -233,12 +230,6 @@
           {
             "text": "No upper boost pressure fluctuation",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "[ ]: HDS Parameters",
-            "colspan": 4
           }
         ]
       ]
@@ -288,12 +279,6 @@
           },
           {
             "text": "214 kPa (1,600 mmHg) or higher"
-          }
-        ],
-        [
-          {
-            "text": "*: Variable depending on driving conditions",
-            "colspan": 2
           }
         ]
       ]

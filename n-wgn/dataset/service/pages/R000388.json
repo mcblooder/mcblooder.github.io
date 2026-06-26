@@ -389,6 +389,7 @@
         [
           {
             "text": "Pin Journal Mating Marks",
+            "rowspan": 3,
             "header": true
           },
           {

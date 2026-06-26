@@ -56,6 +56,7 @@
           },
           {
             "text": "Idling stop system warning light (orange)",
+            "rowspan": 2,
             "header": true
           }
         ],
@@ -130,7 +131,8 @@
         ],
         [
           {
-            "text": "steering"
+            "text": "steering",
+            "rowspan": 2
           },
           {
             "text": "If the steering wheel is moving"
@@ -161,10 +163,12 @@
         ],
         [
           {
-            "text": "vehicle speed (Idling stop at standstill)"
+            "text": "vehicle speed (Idling stop at standstill)",
+            "rowspan": 8
           },
           {
-            "text": "When the vehicle speed exceeds 0 km/h"
+            "text": "When the vehicle speed exceeds 0 km/h",
+            "rowspan": 6
           },
           {
             "text": "－ vehicle speed"
@@ -261,10 +265,12 @@
         ],
         [
           {
-            "text": "vehicle speed (Idling stop at deceleration)"
+            "text": "vehicle speed (Idling stop at deceleration)",
+            "rowspan": 8
           },
           {
-            "text": "Vehicle speed exceeds 10 km/h"
+            "text": "Vehicle speed exceeds 10 km/h",
+            "rowspan": 6
           },
           {
             "text": "－ vehicle speed"
@@ -361,7 +367,8 @@
         ],
         [
           {
-            "text": "transmission"
+            "text": "transmission",
+            "rowspan": 4
           },
           {
             "text": "Idling Stop Prohibition Judgment (in the case of the following conditions)"
@@ -420,7 +427,8 @@
         ],
         [
           {
-            "text": "VSA"
+            "text": "VSA",
+            "rowspan": 2
           },
           {
             "text": "VSA unit is controlling hydraulic pressure"
@@ -451,7 +459,8 @@
         ],
         [
           {
-            "text": "brake"
+            "text": "brake",
+            "rowspan": 3
           },
           {
             "text": "If the brake pedal is not depressed"
@@ -513,7 +522,8 @@
         ],
         [
           {
-            "text": "gradient"
+            "text": "gradient",
+            "rowspan": 2
           },
           {
             "text": "When it is determined that the vehicle is traveling on a steep uphill grade or a steep downhill grade"
@@ -544,7 +554,8 @@
         ],
         [
           {
-            "text": "PGM-FI"
+            "text": "PGM-FI",
+            "rowspan": 3
           },
           {
             "text": "The number of starter operations exceeds a certain number of times."
@@ -589,7 +600,8 @@
         ],
         [
           {
-            "text": "Master Power Negative Pressure"
+            "text": "Master Power Negative Pressure",
+            "rowspan": 2
           },
           {
             "text": "Idling Stop Prohibition Judgment (in the case of the following conditions)"
@@ -620,7 +632,8 @@
         ],
         [
           {
-            "text": "A/C System"
+            "text": "A/C System",
+            "rowspan": 8
           },
           {
             "text": "Idling stop prohibition judgment details (when A/C is ON and the following conditions are met)"
@@ -735,7 +748,8 @@
         ],
         [
           {
-            "text": "DC-DC Converter"
+            "text": "DC-DC Converter",
+            "rowspan": 2
           },
           {
             "text": "Idling Stop Prohibition Judgment (in the case of the following conditions)"
@@ -766,7 +780,8 @@
         ],
         [
           {
-            "text": "battery"
+            "text": "battery",
+            "rowspan": 4
           },
           {
             "text": "Idling Stop Prohibition Judgment (in the case of the following conditions)"
@@ -821,12 +836,6 @@
           },
           {
             "text": "—"
-          }
-        ],
-        [
-          {
-            "text": "Idling stop may not occur when DTCs are detected in the associated system. If the idling stop system warning light (orange) comes on due to the above prohibited conditions, the warning light will be turned off when the system is turned off by operating the ECON switch OFF.",
-            "colspan": 5
           }
         ]
       ]
@@ -930,10 +939,12 @@
         ],
         [
           {
-            "text": "vehicle speed"
+            "text": "vehicle speed",
+            "rowspan": 6
           },
           {
-            "text": "When vehicle speed is 1 km/h or more (idling stop at stop sign)"
+            "text": "When vehicle speed is 1 km/h or more (idling stop at stop sign)",
+            "rowspan": 4
           },
           {
             "text": "－ vehicle speed"
@@ -968,7 +979,8 @@
         ],
         [
           {
-            "text": "Vehicle speed is 12 km/h or more (idling stop at deceleration)"
+            "text": "Vehicle speed is 12 km/h or more (idling stop at deceleration)",
+            "rowspan": 2
           },
           {
             "text": "－ Left Rear Wheel Speed"
@@ -987,10 +999,12 @@
         ],
         [
           {
-            "text": "transmission"
+            "text": "transmission",
+            "rowspan": 3
           },
           {
-            "text": "When the shift position is set to a driving position other than D or N, or from N to D"
+            "text": "When the shift position is set to a driving position other than D or N, or from N to D",
+            "rowspan": 2
           },
           {
             "text": "－ AT N SW"
@@ -1076,7 +1090,8 @@
         ],
         [
           {
-            "text": "Master Power Negative Pressure"
+            "text": "Master Power Negative Pressure",
+            "rowspan": 2
           },
           {
             "text": "\"Restarting Decision (for the following conditions)\""
@@ -1101,7 +1116,8 @@
         ],
         [
           {
-            "text": "A/C System"
+            "text": "A/C System",
+            "rowspan": 4
           },
           {
             "text": "Idling stop prohibition judgment details (when A/C is ON and the following conditions are met)"
@@ -1148,7 +1164,8 @@
         ],
         [
           {
-            "text": "battery"
+            "text": "battery",
+            "rowspan": 2
           },
           {
             "text": "If the battery charge level drops during an idling stop"
@@ -1230,7 +1247,8 @@
         ],
         [
           {
-            "text": "starter"
+            "text": "starter",
+            "rowspan": 2
           },
           {
             "text": "If the starter fails to start after a certain period of time (5 seconds) when restarting"
@@ -1255,7 +1273,8 @@
         ],
         [
           {
-            "text": "DC-DC Converter"
+            "text": "DC-DC Converter",
+            "rowspan": 2
           },
           {
             "text": "Idling Stop Prohibition Judgment (in the case of the following conditions)"

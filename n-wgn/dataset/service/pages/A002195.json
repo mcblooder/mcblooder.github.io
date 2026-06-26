@@ -82,12 +82,6 @@
           {
             "text": "1D/C (single detection method), brake warning light (orange): off*."
           }
-        ],
-        [
-          {
-            "text": "*: Idling stop system warning light (orange) illuminates D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -130,7 +124,8 @@
         ],
         [
           {
-            "text": "Other"
+            "text": "Other",
+            "rowspan": 5
           },
           {
             "text": "After warming up the engine.",
@@ -159,12 +154,6 @@
           {
             "text": "No malfunction of speed sensor, atmospheric pressure sensor, or water temperature sensor",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "[ ]: HDS Parameters",
-            "colspan": 3
           }
         ]
       ]

@@ -148,12 +148,6 @@
           {
             "text": "Normal judgment, failure judgment, not completed"
           }
-        ],
-        [
-          {
-            "text": "D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -246,12 +240,6 @@
           {
             "text": "Select lever Position must be constant",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "[ ]: HDS Parameters",
-            "colspan": 3
           }
         ]
       ]

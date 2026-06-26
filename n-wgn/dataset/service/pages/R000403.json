@@ -75,12 +75,6 @@
           {
             "text": "Vehicles without turbo charger: Every 20,000 km * Vehicles equipped with a turbo charger: Every 10,000 km"
           }
-        ],
-        [
-          {
-            "text": "*Every 10,000 km for severe conditions.",
-            "colspan": 2
-          }
         ]
       ]
     },

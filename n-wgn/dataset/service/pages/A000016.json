@@ -90,12 +90,6 @@
           {
             "text": "Normal judgment, failure judgment, not completed"
           }
-        ],
-        [
-          {
-            "text": "D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -148,12 +142,6 @@
           {
             "text": "P0010､ P0011､ P0102､ P0103､ P0107､ P0108､ P0112､ P0113､ P0117､ P0118､ P0134､ P0135､ P0171､ P0172､ P0201､ P0202､ P0203､ P0299､ P0300､ P0301､ P0302､ P0303､ P0335､ P0339､ P0340､ P0341､ P0344､ P0351､ P0352､ P0353､ P0401､ P0404､ P0443､ P1009､ P1157､ P2228､ P2229､ P2238､ P2252､ P2413",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "[ ]: HDS Parameters",
-            "colspan": 3
           }
         ]
       ]

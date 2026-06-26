@@ -82,12 +82,6 @@
           {
             "text": "1D/C (single detection method), brake warning light (orange): off*."
           }
-        ],
-        [
-          {
-            "text": "*: Idling stop system warning light (orange) illuminates D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },

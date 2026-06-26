@@ -210,7 +210,8 @@
             "text": "Driver Door Lock Actuator must be activated (LOCK)"
           },
           {
-            "text": "Driver Door lock actuator Cord disconnection and terminal connection condition"
+            "text": "Driver Door lock actuator Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -241,7 +242,8 @@
             "text": "Assistant Door Lock Actuator must be activated (LOCK)"
           },
           {
-            "text": "Assisted door lock actuator Cord disconnection and terminal connection condition"
+            "text": "Assisted door lock actuator Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -272,7 +274,8 @@
             "text": "R. Rear door lock actuator must operate (LOCK)"
           },
           {
-            "text": "R. Rear door lock actuator Cord disconnection and terminal connection condition"
+            "text": "R. Rear door lock actuator Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -303,7 +306,8 @@
             "text": "L. Rear door lock actuator must operate (LOCK)"
           },
           {
-            "text": "L. Rear door lock actuator Cord disconnection and terminal connection condition"
+            "text": "L. Rear door lock actuator Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -334,7 +338,8 @@
             "text": "Tailgate lock actuator is activated (LOCK)"
           },
           {
-            "text": "Tailgate lock actuator Cord disconnection and terminal connection condition"
+            "text": "Tailgate lock actuator Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -464,10 +469,12 @@
             "text": "Driver Door lock knob switch LOCK position"
           },
           {
-            "text": "Continuity must exist between the inspection terminal and body ground."
+            "text": "Continuity must exist between the inspection terminal and body ground.",
+            "rowspan": 2
           },
           {
-            "text": "Grounding failure (G402) Driver Door lock knob switch Cord disconnection and terminal connection condition"
+            "text": "Grounding failure (G402) Driver Door lock knob switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -530,12 +537,6 @@
           },
           {
             "text": "horn Horn Relay Cord disconnection and terminal connection condition"
-          }
-        ],
-        [
-          {
-            "text": "*1: Vehicles equipped with TRW's SRS unit *2: Vehicles equipped with DENSO SRS unit",
-            "colspan": 5
           }
         ]
       ]

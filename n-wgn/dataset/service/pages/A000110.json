@@ -91,12 +91,6 @@
           {
             "text": "Normal judgment, failure judgment, running, out of condition"
           }
-        ],
-        [
-          {
-            "text": "D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -193,12 +187,6 @@
           {
             "text": "P0112､ P0113､ P0117､ P0118､ P0122､ P0123､ P0133､ P0134､ P0135､ P0171､ P0172､ P0201､ P0202､ P0203､ P0222､ P0223､ P0299､ P0300､ P0301､ P0302､ P0303､ P0351､ P0352､ P0353､ P0443､ P0502､ P060A､ P1157､ P1659､ P2101､ P2118､ P2122､ P2123､ P2127､ P2128､ P2135､ P2138､ P2176､ P21CF､ P21D0､ P21D1､ P2228､ P2229､ P2238､ P2252",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "*1: Models equipped with a turbo charger *2: Vehicles not equipped with a turbo charger [ ]: HDS Parameters",
-            "colspan": 3
           }
         ]
       ]

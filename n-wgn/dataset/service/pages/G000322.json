@@ -29,7 +29,8 @@
         [
           {
             "text": "(data) item",
-            "colspan": 2
+            "colspan": 2,
+            "rowspan": 3
           },
           {
             "text": "nickname"
@@ -41,7 +42,8 @@
         ],
         [
           {
-            "text": "type"
+            "text": "type",
+            "rowspan": 2
           },
           {
             "text": "N-WGN"
@@ -60,7 +62,8 @@
         ],
         [
           {
-            "text": "engine"
+            "text": "engine",
+            "rowspan": 2
           },
           {
             "text": "S07A water-cooled 3-cylinder transversely mounted 0.658L DOHC (PGM-FI)",
@@ -87,7 +90,8 @@
         ],
         [
           {
-            "text": "transmission"
+            "text": "transmission",
+            "rowspan": 2
           },
           {
             "text": "Electronically controlled CVT",
@@ -114,10 +118,12 @@
         ],
         [
           {
-            "text": "tire"
+            "text": "tire",
+            "rowspan": 3
           },
           {
-            "text": "Standard tire"
+            "text": "Standard tire",
+            "rowspan": 2
           },
           {
             "text": "155/65 R14 75S"
@@ -176,7 +182,8 @@
             "text": ""
           },
           {
-            "text": "Aluminum wheel"
+            "text": "Aluminum wheel",
+            "rowspan": 2
           },
           {
             "text": "14 X 4 1/2J"
@@ -204,7 +211,8 @@
         ],
         [
           {
-            "text": "safety device"
+            "text": "safety device",
+            "rowspan": 3
           },
           {
             "text": "Driver/front-passenger SRS airbag system",
@@ -438,7 +446,8 @@
         ],
         [
           {
-            "text": ""
+            "text": "",
+            "rowspan": 2
           },
           {
             "text": "One-push smart entry",

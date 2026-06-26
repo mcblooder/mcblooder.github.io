@@ -95,12 +95,6 @@
           {
             "text": "Normal judgment, failure judgment, not completed"
           }
-        ],
-        [
-          {
-            "text": "D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -163,12 +157,6 @@
             "text": "After completion of all closed studies",
             "colspan": 2
           }
-        ],
-        [
-          {
-            "text": "*: Short circuit fault **: Correlation anomaly [ ]: HDS Parameters",
-            "colspan": 3
-          }
         ]
       ]
     },
@@ -220,12 +208,6 @@
           },
           {
             "text": "14.7° or more"
-          }
-        ],
-        [
-          {
-            "text": "***: If the deviation between the throttle position sensor 1 voltage [throttle position sensor 1] and the throttle position sensor 2 voltage [throttle position sensor 2] is greater than or equal to the above table, count up 19; if less than the above table, count down 1.",
-            "colspan": 2
           }
         ]
       ]

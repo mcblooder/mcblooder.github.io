@@ -318,13 +318,16 @@
             "text": "black"
           },
           {
-            "text": "Turn wiper switch to INT or LO position"
+            "text": "Turn wiper switch to INT or LO position",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminals."
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
           },
           {
-            "text": "Wiper/washer switch Cord disconnection and terminal connection condition"
+            "text": "Wiper/washer switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -343,13 +346,16 @@
             "text": "black"
           },
           {
-            "text": "Turn wiper switch to LO or HI position"
+            "text": "Turn wiper switch to LO or HI position",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminals."
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
           },
           {
-            "text": "Wiper/washer switch Cord disconnection and terminal connection condition"
+            "text": "Wiper/washer switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -368,13 +374,16 @@
             "text": "black"
           },
           {
-            "text": "Wiper switch to MIST position"
+            "text": "Wiper switch to MIST position",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminals."
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
           },
           {
-            "text": "Wiper/washer switch Cord disconnection and terminal connection condition"
+            "text": "Wiper/washer switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -393,13 +402,16 @@
             "text": "black"
           },
           {
-            "text": "Turn washer switch ON"
+            "text": "Turn washer switch ON",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminals."
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
           },
           {
-            "text": "Wiper/washer switch Cord disconnection and terminal connection condition"
+            "text": "Wiper/washer switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -418,13 +430,16 @@
             "text": "new leaves"
           },
           {
-            "text": "Turn ignition to ON mode and short between A10 and B5 terminals"
+            "text": "Turn ignition to ON mode and short between A10 and B5 terminals",
+            "rowspan": 2
           },
           {
-            "text": "Washer motor must operate."
+            "text": "Washer motor must operate.",
+            "rowspan": 2
           },
           {
-            "text": "Blown No. A20 (10A) or No. A4-2 (50A) fuse in relay box Fuse box defective Washer Motor failure Cord disconnection and terminal connection condition"
+            "text": "Blown No. A20 (10A) or No. A4-2 (50A) fuse in relay box Fuse box defective Washer Motor failure Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -433,12 +448,6 @@
           },
           {
             "text": "hollow"
-          }
-        ],
-        [
-          {
-            "text": "*: Reconnect the coupler",
-            "colspan": 5
           }
         ]
       ]

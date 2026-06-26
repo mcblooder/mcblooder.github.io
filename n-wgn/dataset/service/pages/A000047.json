@@ -90,12 +90,6 @@
           {
             "text": "Normal judgment, failure judgment, not completed"
           }
-        ],
-        [
-          {
-            "text": "*: ON sticking failure **: OFF sticking failure D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },

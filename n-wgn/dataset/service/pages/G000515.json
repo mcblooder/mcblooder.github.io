@@ -326,24 +326,6 @@
           {
             "text": "Detect paddle shift switch- (shift down) signal"
           }
-        ],
-        [
-          {
-            "text": "*1 : Models without the City Brake Active System",
-            "colspan": 5
-          }
-        ],
-        [
-          {
-            "text": "*2 : Models equipped with the City Brake Active System",
-            "colspan": 5
-          }
-        ],
-        [
-          {
-            "text": "*3 : Models equipped with paddle shift switches",
-            "colspan": 5
-          }
         ]
       ]
     },
@@ -697,18 +679,6 @@
           },
           {
             "text": "Driven Detection of pulley oil pressure sensor signal"
-          }
-        ],
-        [
-          {
-            "text": "*3 : Models equipped with paddle shift switches",
-            "colspan": 5
-          }
-        ],
-        [
-          {
-            "text": "*4 : Models without paddle shift switches",
-            "colspan": 5
           }
         ]
       ]

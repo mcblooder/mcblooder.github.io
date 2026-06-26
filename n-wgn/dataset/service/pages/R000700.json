@@ -63,10 +63,12 @@
         ],
         [
           {
-            "text": "A"
+            "text": "A",
+            "rowspan": 4
           },
           {
-            "text": "Front brake caliper (12-inch brake spec. vehicle)"
+            "text": "Front brake caliper (12-inch brake spec. vehicle)",
+            "rowspan": 2
           },
           {
             "text": "Brake Hose (Oil Bolt)"
@@ -85,7 +87,8 @@
         ],
         [
           {
-            "text": "Front brake caliper (13-inch brake spec car)"
+            "text": "Front brake caliper (13-inch brake spec car)",
+            "rowspan": 2
           },
           {
             "text": "Brake Hose (Oil Bolt)"
@@ -104,10 +107,12 @@
         ],
         [
           {
-            "text": "B"
+            "text": "B",
+            "rowspan": 2
           },
           {
-            "text": "Rear wheel Cylinder"
+            "text": "Rear wheel Cylinder",
+            "rowspan": 2
           },
           {
             "text": "Brake Pipe"
@@ -154,10 +159,12 @@
         ],
         [
           {
-            "text": "E"
+            "text": "E",
+            "rowspan": 2
           },
           {
-            "text": "VSA Modulator Control Unit"
+            "text": "VSA Modulator Control Unit",
+            "rowspan": 2
           },
           {
             "text": "Brake Pipe (10 mm flare nut)"

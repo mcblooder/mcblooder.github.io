@@ -272,7 +272,8 @@
             "colspan": 2
           },
           {
-            "text": "Voltage value (V)"
+            "text": "Voltage value (V)",
+            "rowspan": 2
           }
         ],
         [
@@ -302,7 +303,8 @@
             "text": "18"
           },
           {
-            "text": "Approx. 0V Pulse waveform of approx. 5 V*."
+            "text": "Approx. 0V Pulse waveform of approx. 5 V*.",
+            "rowspan": 2
           }
         ],
         [

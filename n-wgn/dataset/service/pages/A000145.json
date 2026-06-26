@@ -96,12 +96,6 @@
           {
             "text": "Normal judgment, failure judgment, not completed"
           }
-        ],
-        [
-          {
-            "text": "D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -155,7 +149,8 @@
         [
           {
             "text": "Gas pedal Pedal Position",
-            "colspan": 2
+            "colspan": 2,
+            "rowspan": 2
           },
           {
             "text": "―"
@@ -190,12 +185,6 @@
           {
             "text": "P0502､ P0705､ P0706､ P0716､ P0717､ P0780､ P0792､ P0793､ P0796､ P0797､ P0962､ P0963､ P0966､ P0967､ P0970､ P0971､ P1898､ P2714､ P2715､ P2720､ P2721",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "*: Symptom 1 **: Symptom 2-A ***: Symptom 2-B [ ]: HDS Parameters",
-            "colspan": 4
           }
         ]
       ]
@@ -253,7 +242,8 @@
         ],
         [
           {
-            "text": "2"
+            "text": "2",
+            "rowspan": 2
           },
           {
             "text": "2-A"

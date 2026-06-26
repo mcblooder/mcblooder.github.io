@@ -105,7 +105,8 @@
         [
           {
             "text": "",
-            "colspan": 2
+            "colspan": 2,
+            "rowspan": 2
           },
           {
             "text": "12-inch brake spec. vehicle: 12-inch brake spec. vehicle: 12-inch brake spec. vehicle"

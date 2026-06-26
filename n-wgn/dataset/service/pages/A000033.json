@@ -95,12 +95,6 @@
           {
             "text": "Normal judgment, failure judgment, not completed"
           }
-        ],
-        [
-          {
-            "text": "D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -155,12 +149,6 @@
           {
             "text": "P0327､ P0328､ P0335､ P0339",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "*1: Cars not equipped with a turbo charger *2: Vehicles equipped with a turbo charger [ ]: HDS Parameters",
-            "colspan": 3
           }
         ]
       ]

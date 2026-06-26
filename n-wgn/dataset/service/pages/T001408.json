@@ -99,16 +99,20 @@
             "text": "R5"
           },
           {
-            "text": "yellow"
+            "text": "yellow",
+            "rowspan": 2
           },
           {
-            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))",
+            "rowspan": 2
           },
           {
-            "text": "Battery voltage must be present between the inspection terminal and body ground."
+            "text": "Battery voltage must be present between the inspection terminal and body ground.",
+            "rowspan": 2
           },
           {
-            "text": "Blown No. C11 (10A) fuse in fuse box Cord disconnection and terminal connection condition"
+            "text": "Blown No. C11 (10A) fuse in fuse box Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [

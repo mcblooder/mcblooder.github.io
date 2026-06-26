@@ -72,7 +72,8 @@
         ],
         [
           {
-            "text": "Either ON (Door open)"
+            "text": "Either ON (Door open)",
+            "rowspan": 2
           },
           {
             "text": "―"
@@ -157,13 +158,16 @@
         ],
         [
           {
-            "text": "ON (lock) from (e.g. time, place, numerical quantity) OFF (unlocked)"
+            "text": "ON (lock) from (e.g. time, place, numerical quantity) OFF (unlocked)",
+            "rowspan": 4
           },
           {
-            "text": "All OFF (DOOR CLOSES)"
+            "text": "All OFF (DOOR CLOSES)",
+            "rowspan": 3
           },
           {
-            "text": "OFF mode"
+            "text": "OFF mode",
+            "rowspan": 2
           },
           {
             "text": "lighting conditions"
@@ -188,7 +192,8 @@
             "text": "―"
           },
           {
-            "text": "Continuation of pre-input state"
+            "text": "Continuation of pre-input state",
+            "rowspan": 2
           }
         ],
         [
@@ -204,7 +209,8 @@
         ],
         [
           {
-            "text": "OFF (unlocked) from (e.g. time, place, numerical quantity) ON (lock)"
+            "text": "OFF (unlocked) from (e.g. time, place, numerical quantity) ON (lock)",
+            "rowspan": 2
           },
           {
             "text": "All OFF (DOOR CLOSES)"
@@ -281,13 +287,16 @@
         ],
         [
           {
-            "text": "Any ON (door open) to all OFF (door closed)"
+            "text": "Any ON (door open) to all OFF (door closed)",
+            "rowspan": 5
           },
           {
-            "text": "OFF"
+            "text": "OFF",
+            "rowspan": 4
           },
           {
-            "text": "OFF mode"
+            "text": "OFF mode",
+            "rowspan": 2
           },
           {
             "text": "lighting conditions"
@@ -323,7 +332,8 @@
             "text": "―"
           },
           {
-            "text": "dimming"
+            "text": "dimming",
+            "rowspan": 2
           }
         ],
         [
@@ -339,13 +349,16 @@
         ],
         [
           {
-            "text": "Either OFF (door closed) to ON (door open)"
+            "text": "Either OFF (door closed) to ON (door open)",
+            "rowspan": 4
           },
           {
-            "text": "―"
+            "text": "―",
+            "rowspan": 4
           },
           {
-            "text": "OFF mode"
+            "text": "OFF mode",
+            "rowspan": 2
           },
           {
             "text": "lighting conditions"
@@ -370,7 +383,8 @@
             "text": "―"
           },
           {
-            "text": "lighting (a lamp)"
+            "text": "lighting (a lamp)",
+            "rowspan": 2
           }
         ],
         [
@@ -425,10 +439,12 @@
         ],
         [
           {
-            "text": "OFF mode from ON mode"
+            "text": "OFF mode from ON mode",
+            "rowspan": 4
           },
           {
-            "text": "All OFF (door closed)"
+            "text": "All OFF (door closed)",
+            "rowspan": 2
           },
           {
             "text": "lighting conditions"
@@ -469,7 +485,8 @@
         ],
         [
           {
-            "text": "ON mode from OFF mode"
+            "text": "ON mode from OFF mode",
+            "rowspan": 2
           },
           {
             "text": "All OFF (door closed)"
@@ -540,10 +557,12 @@
         ],
         [
           {
-            "text": "unlock signal"
+            "text": "unlock signal",
+            "rowspan": 3
           },
           {
-            "text": "All OFF (door closed)"
+            "text": "All OFF (door closed)",
+            "rowspan": 2
           },
           {
             "text": "ON (lock) to OFF (unlock) or OFF (unlock)"
@@ -582,10 +601,12 @@
         ],
         [
           {
-            "text": "lock signal"
+            "text": "lock signal",
+            "rowspan": 3
           },
           {
-            "text": "All OFF (door closed)"
+            "text": "All OFF (door closed)",
+            "rowspan": 2
           },
           {
             "text": "OFF (unlock) to ON (lock) or ON (lock)"

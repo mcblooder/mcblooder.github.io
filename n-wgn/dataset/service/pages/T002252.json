@@ -560,12 +560,6 @@
           {
             "text": "Excessive supply voltage"
           }
-        ],
-        [
-          {
-            "text": "*: When the problem is resolved, the warning light turns off, but the DTC remains.",
-            "colspan": 4
-          }
         ]
       ]
     }

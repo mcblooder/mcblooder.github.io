@@ -95,12 +95,6 @@
           {
             "text": "Normal judgment, failure judgment, not completed"
           }
-        ],
-        [
-          {
-            "text": "D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -141,7 +135,8 @@
         ],
         [
           {
-            "text": "select The lever position"
+            "text": "select The lever position",
+            "rowspan": 2
           },
           {
             "text": "paddle shift switch car without equipment"
@@ -173,7 +168,8 @@
         [
           {
             "text": "Other",
-            "colspan": 2
+            "colspan": 2,
+            "rowspan": 3
           },
           {
             "text": "Drive Pulley Speed No noise in sensor output",
@@ -190,12 +186,6 @@
           {
             "text": "Forward or reverse clutch is engaged (clutch pressure control SOL.V. is OFF).",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "[ ]: HDS Parameters",
-            "colspan": 4
           }
         ]
       ]

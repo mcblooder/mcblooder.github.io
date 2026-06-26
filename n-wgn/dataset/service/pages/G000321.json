@@ -248,6 +248,33 @@
       "text": "Labels with precautions specific to the SRS airbag system are attached to these locations."
     },
     {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
+        ]
+      ]
+    },
+    {
       "type": "list",
       "ordered": false,
       "items": [
@@ -964,6 +991,19 @@
       "rows": [
         [
           {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
             "text": "For Part Number code",
             "header": true
           },
@@ -1366,6 +1406,19 @@
       "text": "Confirm that there is no dislodging of retainers or seals. Next, indicate any abnormal conditions such as retainer (A) or seal (B) dislodging."
     },
     {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
+        ]
+      ]
+    },
+    {
       "type": "paragraph",
       "text": "For couplers using insulating grease, if the amount of grease is insufficient or dirty, fill the coupler with insulating grease after cleaning."
     },
@@ -1450,6 +1503,19 @@
         {
           "text": "Remove the locking tabs carefully to avoid damaging them."
         }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
+        ]
       ]
     },
     {

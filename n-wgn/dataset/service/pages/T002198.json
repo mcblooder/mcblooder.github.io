@@ -142,7 +142,8 @@
             "text": "Cruise Set SW signal value turns ON when button is pressed and OFF when released"
           },
           {
-            "text": "Cruise control Combination switch Disconnected or shorted cord between combination meter and cruise control combination switch"
+            "text": "Cruise control Combination switch Disconnected or shorted cord between combination meter and cruise control combination switch",
+            "rowspan": 3
           }
         ],
         [

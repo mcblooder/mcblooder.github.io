@@ -1069,18 +1069,6 @@
           {
             "text": "Lock-up clutch control SOL.V. failure"
           }
-        ],
-        [
-          {
-            "text": "*1: When detected at the same time as P1898",
-            "colspan": 5
-          }
-        ],
-        [
-          {
-            "text": "*2: When detected at the same time as P1899",
-            "colspan": 5
-          }
         ]
       ]
     }

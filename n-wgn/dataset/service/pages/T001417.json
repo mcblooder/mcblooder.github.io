@@ -280,10 +280,12 @@
             "text": "Driver Door Lock Knob UNLOCK"
           },
           {
-            "text": "Continuity must exist between the inspection terminal and body ground."
+            "text": "Continuity must exist between the inspection terminal and body ground.",
+            "rowspan": 2
           },
           {
-            "text": "Grounding failure (G402) Driver Door lock knob switch Cord disconnection and terminal connection condition"
+            "text": "Grounding failure (G402) Driver Door lock knob switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -296,12 +298,6 @@
           {
             "text": "Driver Door Lock Knob LOCK"
           }
-        ],
-        [
-          {
-            "text": "*1: Vehicles equipped with TRW SRS unit *2: Vehicles equipped with DENSO SRS unit",
-            "colspan": 5
-          }
         ]
       ]
     },
@@ -310,10 +306,12 @@
       "rows": [
         [
           {
-            "text": "K2"
+            "text": "K2",
+            "rowspan": 2
           },
           {
-            "text": "ash"
+            "text": "ash",
+            "rowspan": 2
           },
           {
             "text": "Map light DOOR position, shorting the inspection terminal to body ground."

@@ -58,7 +58,8 @@
       "rows": [
         [
           {
-            "text": ""
+            "text": "",
+            "rowspan": 5
           },
           {
             "text": "When replacing capacitor (including 10mL receiver tank capacity)",

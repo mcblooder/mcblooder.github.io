@@ -185,10 +185,12 @@
         ],
         [
           {
-            "text": "J4"
+            "text": "J4",
+            "rowspan": 2
           },
           {
-            "text": "purple"
+            "text": "purple",
+            "rowspan": 2
           },
           {
             "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
@@ -213,10 +215,12 @@
         ],
         [
           {
-            "text": "J5"
+            "text": "J5",
+            "rowspan": 2
           },
           {
-            "text": "peach"
+            "text": "peach",
+            "rowspan": 2
           },
           {
             "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
@@ -247,13 +251,16 @@
             "text": "ash"
           },
           {
-            "text": "Lighting Switch OFF position"
+            "text": "Lighting Switch OFF position",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminals."
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
           },
           {
-            "text": "Lighting Switch Cord disconnection and terminal connection condition"
+            "text": "Lighting Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -272,13 +279,16 @@
             "text": "red"
           },
           {
-            "text": "Lighting Switch ON position"
+            "text": "Lighting Switch ON position",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminals."
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
           },
           {
-            "text": "Lighting Switch Cord disconnection and terminal connection condition"
+            "text": "Lighting Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -297,13 +307,16 @@
             "text": "weak matcha"
           },
           {
-            "text": "Lighting switch SMALL position"
+            "text": "Lighting switch SMALL position",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminals."
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
           },
           {
-            "text": "Lighting Switch Cord disconnection and terminal connection condition"
+            "text": "Lighting Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -322,13 +335,16 @@
             "text": "green"
           },
           {
-            "text": "Lighting switch Passing position"
+            "text": "Lighting switch Passing position",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminals."
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
           },
           {
-            "text": "Lighting Switch Cord disconnection and terminal connection condition"
+            "text": "Lighting Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -347,13 +363,16 @@
             "text": "white"
           },
           {
-            "text": "Lighting switch HI position"
+            "text": "Lighting switch HI position",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminals."
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
           },
           {
-            "text": "Lighting Switch Cord disconnection and terminal connection condition"
+            "text": "Lighting Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -362,12 +381,6 @@
           },
           {
             "text": "black"
-          }
-        ],
-        [
-          {
-            "text": "*：Vehicles equipped with discharge headlights",
-            "colspan": 5
           }
         ]
       ]
@@ -399,10 +412,12 @@
         ],
         [
           {
-            "text": "J18"
+            "text": "J18",
+            "rowspan": 2
           },
           {
-            "text": "red"
+            "text": "red",
+            "rowspan": 2
           },
           {
             "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
@@ -433,13 +448,16 @@
             "text": "purple"
           },
           {
-            "text": "Front Fog Light Switch ON Position"
+            "text": "Front Fog Light Switch ON Position",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminals."
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
           },
           {
-            "text": "Lighting Switch Cord disconnection and terminal connection condition"
+            "text": "Lighting Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -496,19 +514,23 @@
         ],
         [
           {
-            "text": "J12"
+            "text": "J12",
+            "rowspan": 2
           },
           {
-            "text": "green"
+            "text": "green",
+            "rowspan": 2
           },
           {
-            "text": "Short-circuit the inspection terminal and the J24 terminal."
+            "text": "Short-circuit the inspection terminal and the J24 terminal.",
+            "rowspan": 2
           },
           {
             "text": "L. Front turn signal light should be illuminated"
           },
           {
-            "text": "Grounding failure (G301) out of valves Cord disconnection and terminal connection condition"
+            "text": "Grounding failure (G301) out of valves Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -518,19 +540,23 @@
         ],
         [
           {
-            "text": "J11"
+            "text": "J11",
+            "rowspan": 2
           },
           {
-            "text": "green"
+            "text": "green",
+            "rowspan": 2
           },
           {
-            "text": "Short-circuit the inspection terminal and the J24 terminal."
+            "text": "Short-circuit the inspection terminal and the J24 terminal.",
+            "rowspan": 2
           },
           {
             "text": "R. Front turn signal light should be illuminated"
           },
           {
-            "text": "Grounding failure (G201) out of valves Cord disconnection and terminal connection condition"
+            "text": "Grounding failure (G201) out of valves Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -648,13 +674,16 @@
             "text": "new leaves"
           },
           {
-            "text": "Turn Signal Switch R position"
+            "text": "Turn Signal Switch R position",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminals."
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
           },
           {
-            "text": "Turn Signal Switch Cord disconnection and terminal connection condition"
+            "text": "Turn Signal Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -673,13 +702,16 @@
             "text": "hollow"
           },
           {
-            "text": "Turn signal switch L position"
+            "text": "Turn signal switch L position",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminals."
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
           },
           {
-            "text": "Turn Signal Switch Cord disconnection and terminal connection condition"
+            "text": "Turn Signal Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -698,13 +730,16 @@
             "text": "weak matcha"
           },
           {
-            "text": "Hazard switch ON"
+            "text": "Hazard switch ON",
+            "rowspan": 2
           },
           {
-            "text": "There should be continuity between the inspection terminals."
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
           },
           {
-            "text": "Hazard switch Cord disconnection and terminal connection condition"
+            "text": "Hazard switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -713,12 +748,6 @@
           },
           {
             "text": "yellow"
-          }
-        ],
-        [
-          {
-            "text": "*1: Cars without door mirror side turn signal lights *2: Vehicles equipped with door mirror side turn signal lights",
-            "colspan": 5
           }
         ]
       ]

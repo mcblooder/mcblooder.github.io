@@ -414,18 +414,6 @@
           {
             "text": "―"
           }
-        ],
-        [
-          {
-            "text": "*1: Wires with instructions can be changed to any wiring color as specified by the manufacturer.",
-            "colspan": 4
-          }
-        ],
-        [
-          {
-            "text": "When checking the manufacturer name of the SRS unit, use HDS to check the ECU manufacturer displayed in the data list.",
-            "colspan": 4
-          }
         ]
       ]
     },
@@ -536,18 +524,6 @@
           },
           {
             "text": "Power source for front passenger seat belt pretensioner"
-          }
-        ],
-        [
-          {
-            "text": "*1: Wires with instructions can be changed to any wiring color as specified by the manufacturer.",
-            "colspan": 4
-          }
-        ],
-        [
-          {
-            "text": "When checking the manufacturer name of the SRS unit, use HDS to check the ECU manufacturer displayed in the data list.",
-            "colspan": 4
           }
         ]
       ]

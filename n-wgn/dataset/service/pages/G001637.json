@@ -596,24 +596,6 @@
           {
             "text": "Power supply for SRS unit"
           }
-        ],
-        [
-          {
-            "text": "*1: Wires with instructions can be changed to any wiring color as specified by the manufacturer.",
-            "colspan": 4
-          }
-        ],
-        [
-          {
-            "text": "*2: TRW SRS units are connected to the data link coupler with a cord, but do not communicate with or control HDS.",
-            "colspan": 4
-          }
-        ],
-        [
-          {
-            "text": "When checking the manufacturer name of the SRS unit, use HDS to check the ECU manufacturer displayed in the data list.",
-            "colspan": 4
-          }
         ]
       ]
     },
@@ -1186,18 +1168,6 @@
           },
           {
             "text": "―"
-          }
-        ],
-        [
-          {
-            "text": "*: Wiring with instructions can be changed to any manufacturer's wiring color.",
-            "colspan": 4
-          }
-        ],
-        [
-          {
-            "text": "When checking the manufacturer name of the SRS unit, use HDS to check the ECU manufacturer displayed in the data list.",
-            "colspan": 4
           }
         ]
       ]

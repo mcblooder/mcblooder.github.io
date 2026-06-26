@@ -32,22 +32,28 @@
       "rows": [
         [
           {
-            "text": "nickname"
+            "text": "nickname",
+            "rowspan": 2
           },
           {
-            "text": "trade name"
+            "text": "trade name",
+            "rowspan": 2
           },
           {
-            "text": "Body shape classification"
+            "text": "Body shape classification",
+            "rowspan": 2
           },
           {
-            "text": "Driving method"
+            "text": "Driving method",
+            "rowspan": 2
           },
           {
-            "text": "model (e.g. of a vehicle)"
+            "text": "model (e.g. of a vehicle)",
+            "rowspan": 2
           },
           {
-            "text": "type"
+            "text": "type",
+            "rowspan": 2
           },
           {
             "text": "frame",
@@ -93,42 +99,52 @@
             "text": "4-door station wagon"
           },
           {
-            "text": "2WD （FF）"
+            "text": "2WD （FF）",
+            "rowspan": 2
           },
           {
-            "text": "DBA-JH1"
+            "text": "DBA-JH1",
+            "rowspan": 2
           },
           {
             "text": "G (Vehicles not equipped with a turbocharger)"
           },
           {
-            "text": "JH1"
+            "text": "JH1",
+            "rowspan": 2
           },
           {
             "text": "1000001"
           },
           {
-            "text": "S07A"
+            "text": "S07A",
+            "rowspan": 4
           },
           {
-            "text": "7000001"
+            "text": "7000001",
+            "rowspan": 4
           },
           {
-            "text": "SZ3A"
+            "text": "SZ3A",
+            "rowspan": 2
           },
           {
-            "text": "1000001"
+            "text": "1000001",
+            "rowspan": 4
           }
         ],
         [
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
-            "text": ""
+            "text": "",
+            "rowspan": 3
           },
           {
             "text": "G (Turbocharger-equipped vehicles)"
@@ -139,22 +155,26 @@
         ],
         [
           {
-            "text": "4WD"
+            "text": "4WD",
+            "rowspan": 2
           },
           {
-            "text": "DBA-JH2"
+            "text": "DBA-JH2",
+            "rowspan": 2
           },
           {
             "text": "G (Vehicles not equipped with a turbocharger)"
           },
           {
-            "text": "JH2"
+            "text": "JH2",
+            "rowspan": 2
           },
           {
             "text": "1000001"
           },
           {
-            "text": "SZ4A"
+            "text": "SZ4A",
+            "rowspan": 2
           }
         ],
         [

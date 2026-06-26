@@ -88,12 +88,6 @@
           {
             "text": "Ground fault in cord between SRS unit and driver's airbag inflator (RA1+, RA1- lines) or ground fault in cord between SRS unit and passenger airbag inflator (LA1+, LA1- lines) Driver airbag internal failure (driver airbag inflator) or passenger airbag internal failure (passenger airbag inflator) SRS unit internal circuit failure"
           }
-        ],
-        [
-          {
-            "text": "DENSO SRS unit records two DTCs B0001-11 and B0010-11 simultaneously in the event of a body short circuit fault",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -183,12 +177,6 @@
           },
           {
             "text": "Cord ceiling fault between SRS unit and driver's airbag inflator (RA1+, RA1- lines) or cord ceiling fault between SRS unit and front passenger airbag inflator (LA1+, LA1- lines) Driver's airbag internal failure (driver's airbag inflator) SRS unit internal circuit failure"
-          }
-        ],
-        [
-          {
-            "text": "DENSO SRS unit records two DTCs B0001-12 and B0010-12 simultaneously in the event of a power short circuit fault",
-            "colspan": 2
           }
         ]
       ]
@@ -1270,12 +1258,6 @@
           {
             "text": "Ground fault in cord between SRS unit and driver's seat belt pretensioner (RRP+, RRP- line) or ground fault in cord between SRS unit and passenger seat belt pretensioner (LRP+, LRP- line) Driver seat belt internal failure (driver seat belt pretensioner) or passenger seat belt internal failure (passenger seat belt pretensioner) SRS unit internal circuit failure"
           }
-        ],
-        [
-          {
-            "text": "DENSO SRS unit records two DTCs B0070-11 and B0072-11 simultaneously in the event of a body short circuit fault",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -1365,12 +1347,6 @@
           },
           {
             "text": "Cord ceiling fault between SRS unit and driver's seat belt pretensioner (RRP+, RRP- line) or cord ceiling fault between SRS unit and front passenger seat belt pretensioner (LRP+, LRP- line) SRS unit internal circuit failure"
-          }
-        ],
-        [
-          {
-            "text": "DENSO SRS unit records two DTCs B0070-12 and B0072-12 simultaneously in the event of a power short circuit fault",
-            "colspan": 2
           }
         ]
       ]
@@ -2451,12 +2427,6 @@
           },
           {
             "text": "Poor contact of SRS unit Coupler A or SRS unit Coupler B SRS unit internal circuit failure"
-          }
-        ],
-        [
-          {
-            "text": "DENSO SRS units record two DTCs B2840-13 and B2841-13 simultaneously in the event of a joint failure.",
-            "colspan": 2
           }
         ]
       ]

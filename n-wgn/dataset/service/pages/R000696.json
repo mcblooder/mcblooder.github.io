@@ -129,7 +129,8 @@
         [
           {
             "text": "",
-            "colspan": 2
+            "colspan": 2,
+            "rowspan": 2
           },
           {
             "text": "Std."
@@ -168,7 +169,8 @@
         [
           {
             "text": "",
-            "colspan": 2
+            "colspan": 2,
+            "rowspan": 2
           },
           {
             "text": "Reference value"

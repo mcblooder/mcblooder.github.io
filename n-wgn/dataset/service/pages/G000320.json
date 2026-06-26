@@ -76,17 +76,20 @@
       "rows": [
         [
           {
-            "text": "Towing Method"
+            "text": "Towing Method",
+            "rowspan": 2
           },
           {
             "text": "Driving method",
             "colspan": 2
           },
           {
-            "text": "shift position"
+            "text": "shift position",
+            "rowspan": 2
           },
           {
-            "text": "Conditions or precautions"
+            "text": "Conditions or precautions",
+            "rowspan": 2
           }
         ],
         [

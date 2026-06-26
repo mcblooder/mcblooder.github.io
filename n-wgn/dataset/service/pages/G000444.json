@@ -921,12 +921,6 @@
           {
             "text": "Detect paddle shift switch- (shift down) signal"
           }
-        ],
-        [
-          {
-            "text": "*1: Models equipped with paddle shift switches *2: Cars without City Brake Active System *3: Vehicles equipped with City Brake Active System",
-            "colspan": 5
-          }
         ]
       ]
     },
@@ -2334,12 +2328,6 @@
           },
           {
             "text": "Detect oil pressure switch signal"
-          }
-        ],
-        [
-          {
-            "text": "*1: Cars not equipped with a turbo charger *2: Vehicles equipped with a turbo charger",
-            "colspan": 5
           }
         ]
       ]

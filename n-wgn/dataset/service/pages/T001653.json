@@ -130,7 +130,8 @@
             ]
           },
           {
-            "text": "Driver's airbag deployment circuit 1"
+            "text": "Driver's airbag deployment circuit 1",
+            "rowspan": 4
           },
           {
             "text": "body short circuit"
@@ -193,7 +194,8 @@
             ]
           },
           {
-            "text": "Front-passenger airbag deployment circuit 1"
+            "text": "Front-passenger airbag deployment circuit 1",
+            "rowspan": 4
           },
           {
             "text": "body short circuit"
@@ -256,7 +258,8 @@
             ]
           },
           {
-            "text": "Driver's seat belt pretensioner deployment circuit"
+            "text": "Driver's seat belt pretensioner deployment circuit",
+            "rowspan": 4
           },
           {
             "text": "body short circuit"
@@ -319,7 +322,8 @@
             ]
           },
           {
-            "text": "Passenger seat belt pretensioner deployment circuit"
+            "text": "Passenger seat belt pretensioner deployment circuit",
+            "rowspan": 4
           },
           {
             "text": "body short circuit"
@@ -382,7 +386,8 @@
             ]
           },
           {
-            "text": "Front Impact Sensor Circuit"
+            "text": "Front Impact Sensor Circuit",
+            "rowspan": 3
           },
           {
             "text": "Front Internal failure of sensor"
@@ -480,12 +485,6 @@
           {
             "text": "Internal failure of SRS unit",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "When checking the manufacturer name of the SRS unit, use HDS to check the ECU manufacturer displayed in the data list.",
-            "colspan": 3
           }
         ]
       ]

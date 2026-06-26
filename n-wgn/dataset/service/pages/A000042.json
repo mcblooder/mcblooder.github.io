@@ -91,12 +91,6 @@
           {
             "text": "Normal judgment, failure judgment, running, out of condition"
           }
-        ],
-        [
-          {
-            "text": "D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -217,7 +211,8 @@
         ],
         [
           {
-            "text": "Other"
+            "text": "Other",
+            "rowspan": 2
           },
           {
             "text": "Must have at least one deceleration history",
@@ -228,12 +223,6 @@
           {
             "text": "Load above cruise run",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "*1: Models equipped with a turbo charger *2: Vehicles not equipped with a turbo charger [ ]: HDS Parameters",
-            "colspan": 3
           }
         ]
       ]

@@ -90,12 +90,6 @@
           {
             "text": "Normal judgment, failure judgment, not completed"
           }
-        ],
-        [
-          {
-            "text": "D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -139,12 +133,6 @@
           {
             "text": "P0780､ P0962､ P0963､ P0966､ P0967､ P0970､ P1898､ P1899､ P2714､ P2715､ P2720､ P2721",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "[ ]: HDS Parameters",
-            "colspan": 3
           }
         ]
       ]

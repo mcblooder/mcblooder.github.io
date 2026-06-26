@@ -229,10 +229,12 @@
         ],
         [
           {
-            "text": "6 · 4"
+            "text": "6 · 4",
+            "rowspan": 2
           },
           {
-            "text": "yellow · ash"
+            "text": "yellow · ash",
+            "rowspan": 2
           },
           {
             "text": "Short circuit between No.6 and No.5 terminals and between No.4 and No.1 terminals"
@@ -241,7 +243,8 @@
             "text": "Driver Power Window Motor must be activated (UP)"
           },
           {
-            "text": "Driver Power Window Motor Cord disconnection and terminal connection condition"
+            "text": "Driver Power Window Motor Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -254,10 +257,12 @@
         ],
         [
           {
-            "text": "9 · 10"
+            "text": "9 · 10",
+            "rowspan": 2
           },
           {
-            "text": "red · peach"
+            "text": "red · peach",
+            "rowspan": 2
           },
           {
             "text": "Short circuit between No.9 and No.11 terminals and between No.10 and No.1 terminal"
@@ -266,7 +271,8 @@
             "text": "Assistant Power Window Motor must be activated (UP)"
           },
           {
-            "text": "Assistant Power Window Motor Assisted power window switch Cord disconnection and terminal connection condition"
+            "text": "Assistant Power Window Motor Assisted power window switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -279,10 +285,12 @@
         ],
         [
           {
-            "text": "7 · 8"
+            "text": "7 · 8",
+            "rowspan": 2
           },
           {
-            "text": "green · new leaves"
+            "text": "green · new leaves",
+            "rowspan": 2
           },
           {
             "text": "Short circuit between No.7 and No.2 terminals and between No.8 and No.1 terminals"
@@ -291,7 +299,8 @@
             "text": "L. Rear power window motor must be activated (UP)"
           },
           {
-            "text": "L. Rear power window motor L. Rear power window switch Cord disconnection and terminal connection condition"
+            "text": "L. Rear power window motor L. Rear power window switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -304,10 +313,12 @@
         ],
         [
           {
-            "text": "12 · 13"
+            "text": "12 · 13",
+            "rowspan": 2
           },
           {
-            "text": "green · hollow"
+            "text": "green · hollow",
+            "rowspan": 2
           },
           {
             "text": "Short circuit between No.12 and No.14 terminals and between No.13 and No.1 terminal"
@@ -316,7 +327,8 @@
             "text": "R. Rear power window motor must be activated (UP)"
           },
           {
-            "text": "R. Rear power window motor R. Rear power window switch Cord disconnection and terminal connection condition"
+            "text": "R. Rear power window motor R. Rear power window switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [

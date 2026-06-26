@@ -612,10 +612,12 @@
         ],
         [
           {
-            "text": "turbo charger car without equipment"
+            "text": "turbo charger car without equipment",
+            "rowspan": 4
           },
           {
-            "text": "2WD vehicle"
+            "text": "2WD vehicle",
+            "rowspan": 2
           },
           {
             "text": "left"
@@ -640,7 +642,8 @@
         ],
         [
           {
-            "text": "4WD vehicle"
+            "text": "4WD vehicle",
+            "rowspan": 2
           },
           {
             "text": "left"
@@ -665,10 +668,12 @@
         ],
         [
           {
-            "text": "turbo charger equipped (with)"
+            "text": "turbo charger equipped (with)",
+            "rowspan": 4
           },
           {
-            "text": "2WD vehicle"
+            "text": "2WD vehicle",
+            "rowspan": 2
           },
           {
             "text": "left"
@@ -693,7 +698,8 @@
         ],
         [
           {
-            "text": "4WD vehicle"
+            "text": "4WD vehicle",
+            "rowspan": 2
           },
           {
             "text": "left"
@@ -1119,10 +1125,12 @@
         ],
         [
           {
-            "text": "turbo charger car without equipment"
+            "text": "turbo charger car without equipment",
+            "rowspan": 4
           },
           {
-            "text": "2WD vehicle"
+            "text": "2WD vehicle",
+            "rowspan": 2
           },
           {
             "text": "left"
@@ -1147,7 +1155,8 @@
         ],
         [
           {
-            "text": "4WD vehicle"
+            "text": "4WD vehicle",
+            "rowspan": 2
           },
           {
             "text": "left"
@@ -1172,10 +1181,12 @@
         ],
         [
           {
-            "text": "turbo charger equipped (with)"
+            "text": "turbo charger equipped (with)",
+            "rowspan": 4
           },
           {
-            "text": "2WD vehicle"
+            "text": "2WD vehicle",
+            "rowspan": 2
           },
           {
             "text": "left"
@@ -1200,7 +1211,8 @@
         ],
         [
           {
-            "text": "4WD vehicle"
+            "text": "4WD vehicle",
+            "rowspan": 2
           },
           {
             "text": "left"

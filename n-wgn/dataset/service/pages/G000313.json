@@ -46,7 +46,8 @@
         ],
         [
           {
-            "text": "distance"
+            "text": "distance",
+            "rowspan": 4
           },
           {
             "text": "km"
@@ -107,7 +108,8 @@
         ],
         [
           {
-            "text": "weight"
+            "text": "weight",
+            "rowspan": 2
           },
           {
             "text": "kg"
@@ -146,7 +148,8 @@
         ],
         [
           {
-            "text": "capacity"
+            "text": "capacity",
+            "rowspan": 2
           },
           {
             "text": "L"
@@ -241,10 +244,12 @@
         ],
         [
           {
-            "text": "torque"
+            "text": "torque",
+            "rowspan": 2
           },
           {
-            "text": "N·m"
+            "text": "N·m",
+            "rowspan": 2
           },
           {
             "text": "kgf·m"
@@ -273,12 +278,6 @@
           },
           {
             "text": ""
-          }
-        ],
-        [
-          {
-            "text": "*2: Until now, when using the term ''weight'' or ''force'' instead of ''weight'' or ''load'', we have simply used kilogram (kg) instead of kilogram (kgf) as the unit of force. f means force. The term ''force'' is used to refer to the force of the weight of the load.",
-            "colspan": 4
           }
         ]
       ]

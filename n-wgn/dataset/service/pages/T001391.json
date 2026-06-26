@@ -155,7 +155,8 @@
             "text": "1"
           },
           {
-            "text": "Honda smart key"
+            "text": "Honda smart key",
+            "rowspan": 2
           },
           {
             "text": "operation check"
@@ -204,7 +205,8 @@
         ],
         [
           {
-            "text": "3"
+            "text": "3",
+            "rowspan": 2
           },
           {
             "text": "Check operation of door lock/unlock switch",
@@ -231,7 +233,8 @@
                 "label": "Door locks cannot be locked/unlocked by smart operation (lock/unlock switch) (normal for keyless entry operation)",
                 "resolved": false
               }
-            ]
+            ],
+            "rowspan": 2
           }
         ],
         [
@@ -284,7 +287,8 @@
                 "label": "Engine does not start (power supply is normal)",
                 "resolved": false
               }
-            ]
+            ],
+            "rowspan": 2
           }
         ],
         [
@@ -687,7 +691,8 @@
         ],
         [
           {
-            "text": "Not unlocked by smart operation (lock/unlock button)"
+            "text": "Not unlocked by smart operation (lock/unlock button)",
+            "rowspan": 3
           },
           {
             "text": "Unlock ban period"
@@ -723,7 +728,8 @@
         ],
         [
           {
-            "text": "Not locked by smart operation (lock/unlock button)"
+            "text": "Not locked by smart operation (lock/unlock button)",
+            "rowspan": 6
           },
           {
             "text": "Keys are detected in the car"
@@ -792,7 +798,8 @@
         ],
         [
           {
-            "text": "Door cannot be locked by keyless operation."
+            "text": "Door cannot be locked by keyless operation.",
+            "rowspan": 4
           },
           {
             "text": "Driver's side door opens"
@@ -839,7 +846,8 @@
         ],
         [
           {
-            "text": "Unable to unlock door with keyless operation"
+            "text": "Unable to unlock door with keyless operation",
+            "rowspan": 2
           },
           {
             "text": "IG1 is ON"
@@ -864,7 +872,8 @@
         ],
         [
           {
-            "text": "Door cannot be locked or unlocked by both smart operation (lock/unlock button) and keyless operation"
+            "text": "Door cannot be locked or unlocked by both smart operation (lock/unlock button) and keyless operation",
+            "rowspan": 2
           },
           {
             "text": "+B BACK UP fuse blown"

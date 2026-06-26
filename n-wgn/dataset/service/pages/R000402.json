@@ -151,7 +151,8 @@
       "rows": [
         [
           {
-            "text": "Prescribed volume (L)"
+            "text": "Prescribed volume (L)",
+            "rowspan": 3
           },
           {
             "text": "During disassembly and assembly"

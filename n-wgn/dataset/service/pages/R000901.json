@@ -67,7 +67,8 @@
         ],
         [
           {
-            "text": "Abnormally high discharge pressure"
+            "text": "Abnormally high discharge pressure",
+            "rowspan": 4
           },
           {
             "text": "High pressure is higher than the ambient air temperature, and when the compressor is stopped, the pressure is 0.19 MPa (1.94 kgf/cm). 2 (about 1.5 mm) drops immediately, and the rest drops slowly."
@@ -143,7 +144,8 @@
         ],
         [
           {
-            "text": "Low discharge pressure"
+            "text": "Low discharge pressure",
+            "rowspan": 2
           },
           {
             "text": "When the compressor is shut down, the pressure on the high pressure side and the low pressure side quickly become balanced."
@@ -182,7 +184,8 @@
         ],
         [
           {
-            "text": "Intake pressure is abnormally low"
+            "text": "Intake pressure is abnormally low",
+            "rowspan": 4
           },
           {
             "text": "No frost on expansion valves, low-pressure piping is not cold, and low-pressure gauges are vacuumed."
@@ -243,7 +246,8 @@
         ],
         [
           {
-            "text": "Intake pressure is too high."
+            "text": "Intake pressure is too high.",
+            "rowspan": 3
           },
           {
             "text": "Low pressure hose and check joint area are cooler than evaporator area."

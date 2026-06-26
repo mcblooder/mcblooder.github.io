@@ -91,12 +91,6 @@
           {
             "text": "Normal judgment, failure judgment, running, out of condition"
           }
-        ],
-        [
-          {
-            "text": "D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -182,7 +176,8 @@
             "text": "80kPa(600mmHg)"
           },
           {
-            "text": "126kPa(950mmHg)* 1 90kPa(680mmHg)* 2"
+            "text": "126kPa(950mmHg)* 1 90kPa(680mmHg)* 2",
+            "rowspan": 2
           }
         ],
         [
@@ -248,12 +243,6 @@
           {
             "text": "No sudden load fluctuations",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "*1: Models equipped with a turbo charger *2: Vehicles not equipped with a turbo charger [ ]: HDS Parameters",
-            "colspan": 4
           }
         ]
       ]

@@ -95,12 +95,6 @@
           {
             "text": "Normal judgment, failure judgment, not completed"
           }
-        ],
-        [
-          {
-            "text": "D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -141,7 +135,8 @@
         ],
         [
           {
-            "text": "throttle aperture [Throttle opening sensor]"
+            "text": "throttle aperture [Throttle opening sensor]",
+            "rowspan": 2
           },
           {
             "text": "3,250rpm"
@@ -150,7 +145,8 @@
             "text": "41°"
           },
           {
-            "text": "―"
+            "text": "―",
+            "rowspan": 2
           }
         ],
         [
@@ -179,12 +175,6 @@
           {
             "text": "No upper boost pressure fluctuation",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "[ ]: HDS Parameters",
-            "colspan": 4
           }
         ]
       ]

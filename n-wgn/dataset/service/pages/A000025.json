@@ -90,12 +90,6 @@
           {
             "text": "Normal judgment, failure judgment, not completed"
           }
-        ],
-        [
-          {
-            "text": "*: If a normal judgment is made under the same operating conditions as when the fault was detected, the fault judgment is deleted. D/C: Drive Cycle",
-            "colspan": 2
-          }
         ]
       ]
     },
@@ -190,12 +184,6 @@
           {
             "text": "P0107､ P0108､ P0112､ P0113､ P0117､ P0118､ P0122､ P0123､ P0134､ P0135､ P0137､ P0138､ P0201､ P0202､ P0203､ P0222､ P0223､ P0300､ P0301､ P0302､ P0303､ P0335､ P0339､ P0341､ P0351､ P0352､ P0353､ P0401､ P0404､ P0443､ P060A､ P1009､ P1157､ P1659､ P2101､ P2118､ P2122､ P2123､ P2127､ P2128､ P2135､ P2138､ P2176､ P2228､ P2229､ P2238､ P2252､ P2413",
             "colspan": 2
-          }
-        ],
-        [
-          {
-            "text": "[ ]: HDS Parameters",
-            "colspan": 3
           }
         ]
       ]

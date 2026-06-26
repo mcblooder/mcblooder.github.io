@@ -198,13 +198,15 @@
             "text": "peach"
           },
           {
-            "text": "Disconnect combination meter coupler (32P)"
+            "text": "Disconnect combination meter coupler (32P)",
+            "rowspan": 2
           },
           {
             "text": "There should be continuity between the inspection terminal and the combination meter coupler (32P) No. 31 terminal."
           },
           {
-            "text": "Cord disconnection and terminal connection condition"
+            "text": "Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -226,13 +228,15 @@
             "text": "peach"
           },
           {
-            "text": "Disconnect the headlight auto-leveling control unit coupler (12-pin)"
+            "text": "Disconnect the headlight auto-leveling control unit coupler (12-pin)",
+            "rowspan": 2
           },
           {
             "text": "There should be continuity between the inspection terminal and the headlight auto-leveling control unit coupler (12P) No. 8 terminal."
           },
           {
-            "text": "Cord disconnection and terminal connection condition"
+            "text": "Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -254,13 +258,15 @@
             "text": "peach"
           },
           {
-            "text": "Disconnect the auto light control unit coupler (7P)"
+            "text": "Disconnect the auto light control unit coupler (7P)",
+            "rowspan": 2
           },
           {
             "text": "There should be continuity between the inspection terminal and the No. 7 terminal of the auto light control unit coupler (7P)."
           },
           {
-            "text": "Cord disconnection and terminal connection condition"
+            "text": "Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -282,13 +288,15 @@
             "text": "peach"
           },
           {
-            "text": "Disconnect audio unit coupler D (24P)"
+            "text": "Disconnect audio unit coupler D (24P)",
+            "rowspan": 2
           },
           {
             "text": "There should be continuity between the inspection terminal and the audio unit coupler D (24P) No. 11 terminal."
           },
           {
-            "text": "Cord disconnection and terminal connection condition"
+            "text": "Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
@@ -310,13 +318,15 @@
             "text": "peach"
           },
           {
-            "text": "Disconnect the auto A/C control unit coupler (32P)"
+            "text": "Disconnect the auto A/C control unit coupler (32P)",
+            "rowspan": 2
           },
           {
             "text": "There should be continuity between the inspection terminal and the auto A/C control unit coupler (32P) coupler No. 18 terminal."
           },
           {
-            "text": "Cord disconnection and terminal connection condition"
+            "text": "Cord disconnection and terminal connection condition",
+            "rowspan": 2
           }
         ],
         [
