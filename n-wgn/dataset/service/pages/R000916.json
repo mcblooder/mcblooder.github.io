@@ -1,0 +1,71 @@
+{
+  "id": "R000916",
+  "title": "Power window reset and learning",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "wind",
+  "system": "Power Window",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000916",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Power window reset and learning"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the power window cannot be opened or closed by auto open or auto close with the power window master switch, reset and learn the power window."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Power Window Reset and Learning"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reset and learn power windows when the following tasks are performed"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When removing or replacing driver door regulators, windshield, glass run channel, etc."
+        },
+        {
+          "text": "When removing or replacing driver door regulators, windshield, glass run channel, etc."
+        },
+        {
+          "text": "When the power window master switch is replaced."
+        },
+        {
+          "text": "When the power window master switch is replaced."
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Check if the window regulator is properly installed. Turn ignition OFF (LOCK) mode. Turn the ignition to the ignition ON mode while holding the manual DOWN operation of the power window. Terminates the manual DOWN operation of the power window. Repeat steps 2 through 4 three more times. Verify that the power window master switch does not auto-open or auto-close. Operate auto or manual DOWN with the power window master switch to fully open the windshield. Operate manual UP with the power window master switch, raise the window to fully closed, and hold the switch in the UP position for at least 1 second. After learning, check the operation of auto-open and auto-close. The operations in steps 2 to 5 reset the power window, and the operations in steps 7 to 8 learn the power window."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If auto up/down operation continues after resetting, reset again."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000916_jpn/web/html/R000916_jpn_Content.html",
+  "inOutline": true
+}

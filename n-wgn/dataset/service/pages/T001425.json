@@ -1,0 +1,547 @@
+{
+  "id": "T001425",
+  "title": "Keyless Door Lock/Security Alarm System (MICU) Input Inspection",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Keyless/power door locks/anti-theft system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001425",
+  "assets": [
+    "1425_5.0_jpn_11588336_4.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "T001413",
+      "label": "Check turn signal/hazard light inputs.",
+      "resolved": true
+    },
+    {
+      "id": "R000925",
+      "label": "Disconnect each coupler from the fuse box.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Keyless Door Lock/Security Alarm System (MICU) Input Inspection"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Before inspection, check the blown and connected state of the relay box, No. A10 (10A), No. A14 (10A) and fuse boxes No. B26 (7.5A), C17 (7.5A), No. C34 (30A) and sub fuse/relay box No. C1 (15A) fuses."
+        },
+        {
+          "text": "The fuses No.C23 (15A) and No.C35 (15A) and the fuses No.C38 (15A) and No.C37 (15A) are on the same circuit, so when a fuse blows, the other fuse should also be checked and replaced if necessary."
+        },
+        {
+          "text": "Ansa If there is a problem with the backlight Check turn signal/hazard light inputs.",
+          "refs": [
+            {
+              "id": "T001413",
+              "label": "Check turn signal/hazard light inputs.",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Disconnect each coupler from the fuse box.",
+      "refs": [
+        {
+          "id": "R000925",
+          "label": "Disconnect each coupler from the fuse box.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. Perform input inspection, if all is normal and there is something wrong with the system, Replace fuse box Do. Each coupler is all female-terminated on the cord side.",
+      "refs": [
+        {
+          "id": "R000925",
+          "label": "Replace fuse box",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1425_5.0_jpn_11588336_4.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "P1"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "B8"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G202) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "T27"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "U17"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G403) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "J1"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "F6"
+          },
+          {
+            "text": "ash"
+          },
+          {
+            "text": "Shorting the Z1 and F6 terminals and shorting the F3 terminal to body ground"
+          },
+          {
+            "text": "Driver Door Lock Actuator must be activated (LOCK)"
+          },
+          {
+            "text": "Driver Door lock actuator Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "F3"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "Shorting the Z1 and F3 terminals and shorting the F6 terminal to body ground"
+          },
+          {
+            "text": "Driver Door Lock Actuator must be activated (UNLOCK)"
+          }
+        ],
+        [
+          {
+            "text": "P2"
+          },
+          {
+            "text": "new leaves"
+          },
+          {
+            "text": "Short-circuit the Z1 and P2 terminals and short-circuit the P4 terminal to body ground."
+          },
+          {
+            "text": "Assistant Door Lock Actuator must be activated (LOCK)"
+          },
+          {
+            "text": "Assisted door lock actuator Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "P4"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Short-circuit the Z1 and P4 terminals, and short-circuit the P2 terminal to body ground."
+          },
+          {
+            "text": "Assistant Door Lock Actuator must be activated (UNLOCK)"
+          }
+        ],
+        [
+          {
+            "text": "E2"
+          },
+          {
+            "text": "ash"
+          },
+          {
+            "text": "Short-circuit the Z1 and E2 terminals and short-circuit the E5 terminal to body ground."
+          },
+          {
+            "text": "R. Rear door lock actuator must operate (LOCK)"
+          },
+          {
+            "text": "R. Rear door lock actuator Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "E5"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "Short-circuit the Z1 and E5 terminals, and short-circuit the E2 terminal to body ground."
+          },
+          {
+            "text": "R. Rear door lock actuator must operate (UNLOCK)"
+          }
+        ],
+        [
+          {
+            "text": "E7"
+          },
+          {
+            "text": "new leaves"
+          },
+          {
+            "text": "Shorting the Z1 and E7 terminals and shorting the D4 terminal to body ground"
+          },
+          {
+            "text": "L. Rear door lock actuator must operate (LOCK)"
+          },
+          {
+            "text": "L. Rear door lock actuator Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "D4"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Shorting the Z1 and D4 terminals and shorting the E7 terminal to body ground"
+          },
+          {
+            "text": "L. Rear door lock actuator must operate (UNLOCK)"
+          }
+        ],
+        [
+          {
+            "text": "E8"
+          },
+          {
+            "text": "ash"
+          },
+          {
+            "text": "Short-circuit the Z1 and E8 terminals and short-circuit the E6 terminal to body ground."
+          },
+          {
+            "text": "Tailgate lock actuator is activated (LOCK)"
+          },
+          {
+            "text": "Tailgate lock actuator Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "E6"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "Short-circuit the Z1 and E6 terminals and short-circuit the E8 terminal to body ground."
+          },
+          {
+            "text": "Tailgate lock actuator is activated (UNLOCK)"
+          }
+        ],
+        [
+          {
+            "text": "J17"
+          },
+          {
+            "text": "new leaves"
+          },
+          {
+            "text": "Pop the hood."
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G301) Bonnet latch switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "H4"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "Driver Open the door"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Driver Door switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "H2 *1 T24 *2"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "Assistant Open the door"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Assisted door switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "H3 *1 H2 *2"
+          },
+          {
+            "text": "purple *1 peach *2"
+          },
+          {
+            "text": "R. Open rear door"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "R. Rear door switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "H11 *2"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "Open the tailgate."
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G503) Tailgate latch switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "H11 *1 H3 *2"
+          },
+          {
+            "text": "purple *1 white *2"
+          },
+          {
+            "text": "L. Open rear door"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "L. Rear door switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "F11"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "Driver Door lock knob switch LOCK position"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground.",
+            "rowspan": 2
+          },
+          {
+            "text": "Grounding failure (G402) Driver Door lock knob switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "F7"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "Driver Door lock knob switch UNLOCK position"
+          }
+        ],
+        [
+          {
+            "text": "H6"
+          },
+          {
+            "text": "new leaves"
+          },
+          {
+            "text": "Press the tailgate lock/unlock switch"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G503) Tailgate lock/unlock switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "J13"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "Shift Position P Position"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Shift position sensor Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "J19"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "Shorting J19 terminal to body ground"
+          },
+          {
+            "text": "The sounding of horns"
+          },
+          {
+            "text": "horn Horn Relay Cord disconnection and terminal connection condition"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001425_jpn/web/html/T001425_jpn_Content.html",
+  "inOutline": true
+}

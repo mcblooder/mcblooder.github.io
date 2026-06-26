@@ -1,0 +1,55 @@
+{
+  "id": "R000815",
+  "title": "Front bumper air spoiler removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "Vampa",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000815",
+  "assets": [
+    "815_3.0_jpn_11337225_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front bumper air spoiler removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front bumper air spoiler removal"
+    },
+    {
+      "type": "figure",
+      "asset": "815_3.0_jpn_11337225_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the clip. Remove the hook (B) from the front bumper (A) and remove the front bumper air spoiler (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000815_jpn/web/html/R000815_jpn_Content.html",
+  "inOutline": true
+}

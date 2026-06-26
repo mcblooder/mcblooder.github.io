@@ -1,0 +1,63 @@
+{
+  "id": "C001739",
+  "title": "Vehicle Stability Assist (VSA) System Structure Description - ABS Control",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001739",
+  "assets": [
+    "1739_3.0_jpn_11114093_3.0_disp.png",
+    "1739_3.0_jpn_11114094_3.0_disp.png",
+    "1739_3.0_jpn_11114095_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Vehicle Stability Assist (VSA) System Structure Description - ABS Control"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "control"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the wheel speed suddenly drops below the estimated body speed, the inlet valve closes and the outlet valve opens momentarily to reduce brake pressure. At this time, the pump motor begins to operate. When wheel speed recovers to some extent, brake pressure is maintained with the inlet valve closed. When the wheel speed recovers further, the inlet valve opens momentarily to increase brake pressure. This operation is repeated quickly to control ABS."
+    },
+    {
+      "type": "figure",
+      "asset": "1739_3.0_jpn_11114093_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "split control"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the brakes are applied while one side of the drive wheels is traveling on a low μ road and the opposite side on a high μ road, the braking force on the high μ road side increases and a moment occurs that tries to divert the vehicle body to the high μ road side. To suppress this moment, the braking force of the drive wheels is controlled by the difference in hydraulic pressure between the left and right wheels to ensure the stability of the vehicle body."
+    },
+    {
+      "type": "figure",
+      "asset": "1739_3.0_jpn_11114094_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1739_3.0_jpn_11114095_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001739_jpn/web/html/C001739_jpn_Content.html",
+  "inOutline": true
+}

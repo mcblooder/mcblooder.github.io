@@ -1,0 +1,98 @@
+{
+  "id": "G000443",
+  "title": "Fuel and Emission Control Operational Precautions",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000443",
+  "assets": [
+    "443_3.0_jpn_11034546_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuel and Emission Control Operational Precautions"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "12V battery Remove the negative (-) terminal."
+        },
+        {
+          "text": "When de-energizing the fuel piping system, remove fuel pressure by removing fuel pressure before de-energizing the system."
+        },
+        {
+          "text": "O-rings must be lubricated with engine oil (genuine Honda) before assembly. Do not apply brake fluid, radiator fluid, or any vegetable or alcohol based oils."
+        },
+        {
+          "text": "When assembling the joint part of the high-pressure fuel hose, clean the joint part before tightening."
+        },
+        {
+          "text": "When removing and replacing fuel piping systems such as pressure regulators, be sure to replace the O-rings with new ones."
+        },
+        {
+          "text": "When removing and replacing the fuel injector (A), be sure to replace it with a new O-ring (B)."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "443_3.0_jpn_11034546_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Idling must be learned after ECU replacement, ECU update, or ECU reset."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Inspect for uninstalled parts and forgotten tightening of bolts, screws, etc."
+        },
+        {
+          "text": "12V battery Install the negative (-) terminal."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "After installing the fuel line system, turn the ignition to the ON mode (never turn the starter), and the fuel pump will operate for about 2 seconds to increase the fuel pressure in the fuel line system. Repeat this operation 2-3 times to check for fuel leaks in each part of the fuel system."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although the ECU and its wiring are designed not to malfunction in the face of external interference, the ECU may malfunction in the face of extremely strong radio waves. To prevent the ECU from malfunctioning, the following precautions should be taken"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The antenna and the main unit of the radio must be at least 20 cm away from the ECU. (The ECU should be mounted on the left side of the engine compartment.)"
+        },
+        {
+          "text": "Antennas, feeder wires, and coaxial cables should not be routed parallel to the wiring, but should be routed at right angles to the wiring if they intersect."
+        },
+        {
+          "text": "Radio equipment with high output power shall not be mounted. (The maximum power output for installation in a vehicle shall be 10 W.)"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000443_jpn/web/html/G000443_jpn_Content.html",
+  "inOutline": true
+}

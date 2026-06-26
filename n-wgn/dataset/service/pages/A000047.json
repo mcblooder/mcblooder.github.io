@@ -1,0 +1,218 @@
+{
+  "id": "A000047",
+  "title": "DTC Explanation: P0571",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000047",
+  "assets": [
+    "47_3.0_jpn_11399168_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0571"
+    },
+    {
+      "type": "dtc",
+      "code": "P0571",
+      "text": "DTC P0571: Brake SW failure"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "47_3.0_jpn_11399168_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle speed exceeds a predetermined value for a predetermined period of time when the accelerator pedal is depressed with contact 1 of the brake switch ON, or if deceleration/stopping is repeated a predetermined number of times after the vehicle speed exceeds a predetermined value with contact 1 of the brake switch OFF, the PGM-FI ECU determines that a failure has occurred. The PGM-FI ECU judges a failure and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "More than 5 minutes*. ―**"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: off"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Ignition switch/ ENGINE START STOP switch"
+          },
+          {
+            "text": "Ignition ON mode"
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "P2122､ P2123､ P2127､ P2128､ P2138"
+          }
+        ],
+        [
+          {
+            "text": "Other* (*)"
+          },
+          {
+            "text": "Gas pedal To step on the pedal."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "If any of the following is established"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "ON sticking failure"
+        },
+        {
+          "text": "OFF sticking failure"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "[ ]: HDS Parameters"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cord between PGM-FI ECU and brake switch (BRK DIAG*) 1 (STIO SW)* 2 ) disconnection (including coupler disconnection or looseness)"
+        },
+        {
+          "text": "Cord between PGM-FI ECU and brake switch (BRK DIAG*) 1 (STIO SW)* 2 ) power supply short circuit"
+        },
+        {
+          "text": "Cord between PGM-FI ECU and brake switch (BRK DIAG*) 1 (STIO SW)* 2 ) ground fault of"
+        },
+        {
+          "text": "Stuck brake switch rod"
+        },
+        {
+          "text": "Brake switch failure"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "*1: Vehicles equipped with the City Brake Active System"
+    },
+    {
+      "type": "paragraph",
+      "text": "*2: Cars without City Brake Active System"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the DTC and freeze data are stored without turning on the PGM-FI warning light."
+    },
+    {
+      "type": "paragraph",
+      "text": "Temporary DTCs, DTCs and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000047_jpn/web/html/A000047_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,413 @@
+{
+  "id": "R000759",
+  "title": "Interior garnish/lining removal and inspection - Pillar area - Side curtain airbags",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "interior",
+  "system": "trim",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000759",
+  "assets": [
+    "759_3.0_jpn_11581193_3.0_disp.png",
+    "759_3.0_jpn_11581194_3.0_disp.png",
+    "759_3.0_jpn_11581195_3.0_disp.png",
+    "759_3.0_jpn_11581196_3.0_disp.png",
+    "759_3.0_jpn_11581197_3.0_disp.png",
+    "759_3.0_jpn_11581198_3.0_disp.png",
+    "759_3.0_jpn_11581199_3.0_disp.png",
+    "759_3.0_jpn_11581200_3.0_disp.png",
+    "759_3.0_jpn_11581201_3.0_disp.png",
+    "759_3.0_jpn_11581202_3.0_disp.png",
+    "759_3.0_jpn_11581203_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000757",
+      "label": "Remove the necessary amount of front door opening seal (A).",
+      "resolved": true
+    },
+    {
+      "id": "R001639",
+      "label": "Wrap allowance for roof lining/pillar garnish Adjustment",
+      "resolved": true
+    },
+    {
+      "id": "R000807",
+      "label": "Front seat belt upper anchor removal",
+      "resolved": true
+    },
+    {
+      "id": "R000761",
+      "label": "Cargo side lining removal",
+      "resolved": true
+    },
+    {
+      "id": "R000809",
+      "label": "Rear seat belt lower anchor removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Interior garnish/lining removal and inspection - Pillar area - Side curtain airbags"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If there are components of the SRS airbag system in the vicinity, refer to the work precautions and configuration drawings described for the SRS airbag system before proceeding."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front pillar garnish removal"
+    },
+    {
+      "type": "figure",
+      "asset": "759_3.0_jpn_11581193_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the necessary amount of front door opening seal (A). Pull the front pillar garnish (B) toward you to unlock the upper clip (C).",
+      "refs": [
+        {
+          "id": "R000757",
+          "label": "Remove the necessary amount of front door opening seal (A).",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "759_3.0_jpn_11581194_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the clip (A), and pull up the front pillar garnish (B) to remove it. Upper clip (C) is left on the body side."
+    },
+    {
+      "type": "figure",
+      "asset": "759_3.0_jpn_11581195_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Remove the upper clip (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front pillar garnish Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "759_3.0_jpn_11581196_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "If the side curtain airbags are deployed, replace them with new front pillar garnishes (A). If the side curtain airbags have not deployed, perform the following inspection and replace any applicable items."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Deformed/cracked garnish"
+        },
+        {
+          "text": "Deformed/cracked garnish"
+        },
+        {
+          "text": "The upper clip (B) is not reusable and must be replaced."
+        },
+        {
+          "text": "The upper clip (B) is not reusable and must be replaced."
+        },
+        {
+          "text": "Whitening/cracking of clip (C) and clip seat (D)"
+        },
+        {
+          "text": "Whitening/cracking of clip (C) and clip seat (D)"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Wrap allowance for roof lining/pillar garnish Adjustment",
+      "refs": [
+        {
+          "id": "R001639",
+          "label": "Wrap allowance for roof lining/pillar garnish Adjustment",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "figure",
+      "asset": "759_3.0_jpn_11581197_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The upper clip (A) is not reusable and must be replaced."
+        },
+        {
+          "text": "The upper clip (A) is not reusable and must be replaced."
+        },
+        {
+          "text": "Ensure that the airbag is not engaged by the clip."
+        },
+        {
+          "text": "Ensure that the airbag is not engaged by the clip."
+        },
+        {
+          "text": "Garnish is not pushed too far."
+        },
+        {
+          "text": "Garnish is not pushed too far."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front side garnish removal",
+      "refs": [
+        {
+          "id": "R000757",
+          "label": "Front side garnish removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear side garnish removal",
+      "refs": [
+        {
+          "id": "R000757",
+          "label": "Rear side garnish removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Center pillar lower garnish removal"
+    },
+    {
+      "type": "figure",
+      "asset": "759_3.0_jpn_11581198_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Shift the front seat all the way forward. Remove the seat belt (C) from the slit (B) in the center pillar lower garnish (A) and remove the garnish."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Front seat belt upper anchor removal",
+      "refs": [
+        {
+          "id": "R000807",
+          "label": "Front seat belt upper anchor removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Center pillar upper garnish removal"
+    },
+    {
+      "type": "figure",
+      "asset": "759_3.0_jpn_11581199_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the front door opening seal (A) and rear door opening seal (B) as required."
+    },
+    {
+      "type": "figure",
+      "asset": "759_3.0_jpn_11581200_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Pull out the lower end of the center pillar upper garnish (A) and remove the hook (B). Pull down the garnish to remove the overlap with the roof lining (C) and remove the hook (D) from the hole in the body."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Center pillar upper/lower garnish Inspect"
+    },
+    {
+      "type": "figure",
+      "asset": "759_3.0_jpn_11581201_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "If the side curtain air bag is deployed, replace it with a new center pillar upper garnish (A) and center pillar lower garnish (B). If the side curtain airbags have not deployed, perform the following inspection and replace any applicable items."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Deformation/cracking of garnish, deformation/cracking of top hook and whitening of top edge of garnish"
+        },
+        {
+          "text": "Deformation/cracking of garnish, deformation/cracking of top hook and whitening of top edge of garnish"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Wrap allowance for roof lining/pillar garnish Adjustment",
+      "refs": [
+        {
+          "id": "R001639",
+          "label": "Wrap allowance for roof lining/pillar garnish Adjustment",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Cargo side lining removal",
+      "refs": [
+        {
+          "id": "R000761",
+          "label": "Cargo side lining removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear seat belt lower anchor removal",
+      "refs": [
+        {
+          "id": "R000809",
+          "label": "Rear seat belt lower anchor removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Rear pillar garnish removal"
+    },
+    {
+      "type": "figure",
+      "asset": "759_3.0_jpn_11581202_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the rear opening trim (A) and tailgate weather strip (B) as required. Pull the lower part of the rear pillar garnish (C) toward you and remove the clips (D, E). Pull down the garnish to remove the overlap with the roof lining (F) and remove the hook (G) from the hole in the body."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Rear pillar garnish Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "759_3.0_jpn_11581203_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "If the side curtain air bag is deployed, replace it with a new rear pillar garnish (A). If the side curtain airbags have not deployed, perform the following inspection and replace any applicable items."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Deformation/cracking of garnish, deformation/cracking of top hook and whitening of top edge of garnish"
+        },
+        {
+          "text": "Deformation/cracking of garnish, deformation/cracking of top hook and whitening of top edge of garnish"
+        },
+        {
+          "text": "Whitening/cracking of clip (B) and clip seat (C)"
+        },
+        {
+          "text": "Whitening/cracking of clip (B) and clip seat (C)"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Wrap allowance for roof lining/pillar garnish Adjustment",
+      "refs": [
+        {
+          "id": "R001639",
+          "label": "Wrap allowance for roof lining/pillar garnish Adjustment",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000759_jpn/web/html/R000759_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,249 @@
+{
+  "id": "A002143",
+  "title": "DTC Explanation: P0404",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A002143",
+  "assets": [
+    "2143_3.0_jpn_11231329_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0404"
+    },
+    {
+      "type": "dtc",
+      "code": "P0404",
+      "text": "DTC P0404: EGR valve tracking delay"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "2143_3.0_jpn_11231329_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The EGR valve is controlled by the PGM-FI ECU; when the EGR valve opens, exhaust gases flow from the exhaust manifold through the exhaust gas recirculation system to the intake manifold. The exhaust gases mix with the air mixture and are then drawn into the combustion chamber to lower the combustion temperature and reduce NOx emissions. The EGR valve lift sensor is integrated into the EGR valve and detects the EGR valve lift; the EGR valve lift command value is stored in the PGM-FI ECU so that the EGR flow rate is optimized according to operating conditions. The PGM-FI ECU compares the EGR valve lift command value with the actual EGR valve lift amount and controls the EGR valve so that the actual EGR valve lift amount equals the EGR valve lift command value. If the difference between the EGR valve lift sensor output value (actual EGR valve lift) and the EGR valve lift command value is greater than the set value, the PGM-FI ECU judges that the EGR valve or EGR valve lift sensor has failed and stores DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "Once during D/C"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "5.0 seconds or longer"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, running, out of condition"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Engine speed [engine rpm]."
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "4,000rpm"
+          }
+        ],
+        [
+          {
+            "text": "EGR valve lift command value"
+          },
+          {
+            "text": "0.25mm"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "12V battery voltage [battery voltage]"
+          },
+          {
+            "text": "10.5V"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "P0010､ P0011､ P0107､ P0108､ P0112､ P0113､ P0117､ P0118､ P0122､ P0123､ P0134､ P0135､ P0201､ P0202､ P0203､ P0222､ P0223､ P0300､ P0301､ P0302､ P0303､ P0335､ P0339､ P0341､ P0351､ P0352､ P0353､ P0401､ P0406､ P1009､ P1157､ P1659､ P2101､ P2118､ P2122､ P2123､ P2127､ P2128､ P2135､ P2138､ P2176､ P21CF､ P21D0､ P21D1､ P2238､ P2252",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the difference between the EGR valve lift command value and the actual EGR valve lift is 1.02 mm or more for 5.0 seconds or more."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "EGR valve response delay failure"
+        },
+        {
+          "text": "EGR valve sticking all the way open"
+        },
+        {
+          "text": "Intermediate sticking of EGR valve"
+        },
+        {
+          "text": "Disconnection between PGM-FI ECU and EGR valve lift sensor"
+        },
+        {
+          "text": "Short circuit between PGM-FI ECU and EGR valve lift sensor"
+        },
+        {
+          "text": "EGR valve lift sensor sticking in the middle"
+        },
+        {
+          "text": "EGR Valve Lift Sensor Characteristic Misalignment"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Start the engine, run the radiator fan twice, and then warm up the engine for at least 2 minutes at 3,000 rpm with no load."
+        },
+        {
+          "text": "Vehicle speed [vehicle speed] 24 km/h-100 km/h at a constant speed for at least 5 seconds."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When conducting test drives, the driver must comply with all laws and regulations, observe good manners, and drive in accordance with the surrounding conditions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Run the EGR test in the Inspection menu with HDS."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the PGM-FI warning light comes on and the DTC and freeze data are stored."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A002143_jpn/web/html/A002143_jpn_Content.html",
+  "inOutline": true
+}

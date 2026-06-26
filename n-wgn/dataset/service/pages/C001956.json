@@ -1,0 +1,57 @@
+{
+  "id": "C001956",
+  "title": "Structure of Fuel Evaporative Gas Emission Control System - Overview",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Emission Control Equipment",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001956",
+  "assets": [
+    "1956_3.0_jpn_11242763_2.0_disp.png",
+    "1956_3.0_jpn_11390463_2.0_disp.png",
+    "1956_3.0_jpn_11390464_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Structure of Fuel Evaporative Gas Emission Control System - Overview"
+    },
+    {
+      "type": "paragraph",
+      "text": "The fuel evaporative gas emission deterrent system uses a canister system that utilizes the gas adsorption properties of activated carbon. The evaporative gas in the fuel tank is temporarily stored in the canister and is then sucked into the engine via the purge control SOL.V., where it is mixed with the intake air and combusted."
+    },
+    {
+      "type": "figure",
+      "asset": "1956_3.0_jpn_11390463_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1956_3.0_jpn_11390464_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the pressure of the evaporative gas generated in the fuel tank exceeds the set pressure of the positive pressure valve of the 2-way valve, the positive pressure valve opens and the evaporative gas flows into the canister for storage. Also, when the fuel tank is cooled by outside air and the inside of the tank becomes negative pressure, and the negative pressure exceeds the set pressure of the negative pressure valve of the 2-way valve, the negative pressure valve opens and the evaporative gas stored in the canister is returned to the fuel tank. If the negative pressure inside the tank becomes even higher, the negative pressure valve on the fuel filler cap opens and outside air is introduced to prevent deformation of the fuel tank."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the engine water temperature rises above 60°C, the purge control SOL.V. is opened by a signal from the PGM-FI ECU. The PGM-FI ECU controls the opening time of the purge control SOL.V. (duty control) according to the engine operating conditions to adjust the amount of evaporative gas intake. V. to adjust the amount of evaporative gas intake."
+    },
+    {
+      "type": "figure",
+      "asset": "1956_3.0_jpn_11242763_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001956_jpn/web/html/C001956_jpn_Content.html",
+  "inOutline": true
+}

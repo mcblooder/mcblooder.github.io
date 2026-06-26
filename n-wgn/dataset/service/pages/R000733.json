@@ -1,0 +1,152 @@
+{
+  "id": "R000733",
+  "title": "Rear door latch removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "door (Western-style)",
+  "system": "Rear door",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000733",
+  "assets": [
+    "733_3.0_jpn_11581105_3.0_disp.png",
+    "733_3.0_jpn_11581106_3.0_disp.png",
+    "733_3.0_jpn_11581107_3.0_disp.png",
+    "733_3.0_jpn_11581108_3.0_disp.png",
+    "733_3.0_jpn_11581109_3.0_disp.png",
+    "733_3.0_jpn_11581110_3.0_disp.png",
+    "733_3.0_jpn_11581111_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000731",
+      "label": "Rear door lining removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear door latch removal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Glass should be raised."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear door lining removal",
+      "refs": [
+        {
+          "id": "R000731",
+          "label": "Rear door lining removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear door hole seal removal"
+    },
+    {
+      "type": "figure",
+      "asset": "733_3.0_jpn_11581105_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the plug cap (A). Disconnect the coupler (B). Remove the harness clip (C). Remove the rear door hole seal (D) as required. If the rear door hall seal is damaged or torn, replace it with a new rear door hall seal."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Rear door inner handle removal"
+    },
+    {
+      "type": "figure",
+      "asset": "733_3.0_jpn_11581106_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the rear door inner handle (A) from the door panel."
+    },
+    {
+      "type": "figure",
+      "asset": "733_3.0_jpn_11581107_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Turn and remove the cable fastener (B) on the rear door inner handle (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "733_3.0_jpn_11581108_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Disconnect the lock cable (A) and inner handle cable (B). Inspect cable outer casing ends for damage, bleaching, and replace cable if necessary."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Rear door latch removal"
+    },
+    {
+      "type": "figure",
+      "asset": "733_3.0_jpn_11581109_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the bolt, loosen the nut, and shift the rear door rear lower sash (A) toward the front of the door."
+    },
+    {
+      "type": "figure",
+      "asset": "733_3.0_jpn_11581110_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the bolt using a Torx (T-30). Remove the rear door latch (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Remove rear door lock cable and inner handle cable."
+    },
+    {
+      "type": "figure",
+      "asset": "733_3.0_jpn_11581111_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the lock cable (A) and inner handle cable (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure. Inspect the outer casing terminals of the rear door inner handle cable and rear door latch cable for damage and bleaching, and replace the cables if necessary."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000733_jpn/web/html/R000733_jpn_Content.html",
+  "inOutline": true
+}

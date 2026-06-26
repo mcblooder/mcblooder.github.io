@@ -1,0 +1,315 @@
+{
+  "id": "R000901",
+  "title": "Diagnosis of abnormal A/C system refrigerant pressure",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000901",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R002698",
+      "label": "Recover refrigerant",
+      "resolved": true
+    },
+    {
+      "id": "R000880",
+      "label": "Compressor replacement",
+      "resolved": true
+    },
+    {
+      "id": "R000878",
+      "label": "Expansion valve replacement",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Diagnosis of abnormal A/C system refrigerant pressure"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Abnormal refrigerant pressure"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "anomalous phenomenon",
+            "header": true
+          },
+          {
+            "text": "situation",
+            "header": true
+          },
+          {
+            "text": "probable cause",
+            "header": true
+          },
+          {
+            "text": "treatment",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Abnormally high discharge pressure",
+            "rowspan": 4
+          },
+          {
+            "text": "High pressure is higher than the ambient air temperature, and when the compressor is stopped, the pressure is 0.19 MPa (1.94 kgf/cm). 2 (about 1.5 mm) drops immediately, and the rest drops slowly."
+          },
+          {
+            "text": "Air is mixed in the cycle."
+          },
+          {
+            "text": "Using CFC gas recovery and recycling equipment Recover refrigerant Shih, vacuuming After that, make sure that air does not enter the system again until the specified amount is reached. fill (up) be just about to",
+            "refs": [
+              {
+                "id": "R002698",
+                "label": "Recover refrigerant",
+                "resolved": true
+              },
+              {
+                "id": "R002698",
+                "label": "vacuuming",
+                "resolved": true
+              },
+              {
+                "id": "R002698",
+                "label": "fill (up)",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Pressure does not normalize when condenser is cooled with water"
+          },
+          {
+            "text": "Overfilling of refrigerant"
+          },
+          {
+            "text": "Using CFC gas recovery and recycling equipment Recover refrigerant and again up to the specified amount. fill (up) be just about to",
+            "refs": [
+              {
+                "id": "R002698",
+                "label": "Recover refrigerant",
+                "resolved": true
+              },
+              {
+                "id": "R002698",
+                "label": "fill (up)",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Radiator Poor fan air suction"
+          },
+          {
+            "text": "Debris is accumulating in the fin section of the capacitor. Radiator Fan rotation failure"
+          },
+          {
+            "text": "Clean the capacitor Check voltage and rotation"
+          }
+        ],
+        [
+          {
+            "text": "Liquid piping is not so hot, but only the condenser area is too hot."
+          },
+          {
+            "text": "Clogged in the cycle."
+          },
+          {
+            "text": "Unclogging of all equipment and piping"
+          }
+        ],
+        [
+          {
+            "text": "Low discharge pressure",
+            "rowspan": 2
+          },
+          {
+            "text": "When the compressor is shut down, the pressure on the high pressure side and the low pressure side quickly become balanced."
+          },
+          {
+            "text": "Damaged compressor discharge valve and inlet valve Defective compressor seal"
+          },
+          {
+            "text": "Compressor replacement",
+            "refs": [
+              {
+                "id": "R000880",
+                "label": "Compressor replacement",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "No frost at the outlet of the expansion valve and negative pressure on the low pressure side"
+          },
+          {
+            "text": "Freezing of expansion valves Failed expansion valve"
+          },
+          {
+            "text": "Expansion valve replacement",
+            "refs": [
+              {
+                "id": "R000878",
+                "label": "Expansion valve replacement",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Intake pressure is abnormally low",
+            "rowspan": 4
+          },
+          {
+            "text": "No frost on expansion valves, low-pressure piping is not cold, and low-pressure gauges are vacuumed."
+          },
+          {
+            "text": "Freezing of expansion valves Failed expansion valve"
+          },
+          {
+            "text": "Expansion valve replacement",
+            "refs": [
+              {
+                "id": "R000878",
+                "label": "Expansion valve replacement",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Low outlet temperature and no airflow"
+          },
+          {
+            "text": "Evaporator is frozen."
+          },
+          {
+            "text": "Stop the compressor until defrosting is possible, and rotate only the fan."
+          }
+        ],
+        [
+          {
+            "text": "Frost on expansion valve"
+          },
+          {
+            "text": "Clogged expansion valve"
+          },
+          {
+            "text": "Clean (remove moisture) or Expansion valve replacement",
+            "refs": [
+              {
+                "id": "R000878",
+                "label": "Expansion valve replacement",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Cold near the compressor on the low pressure side hose compared to the outlet of the expansion valve and the evaporator"
+          },
+          {
+            "text": "Crumpled or clogged low pressure side hose"
+          },
+          {
+            "text": "Clean or replace low pressure side hose"
+          }
+        ],
+        [
+          {
+            "text": "Intake pressure is too high.",
+            "rowspan": 3
+          },
+          {
+            "text": "Low pressure hose and check joint area are cooler than evaporator area."
+          },
+          {
+            "text": "Expansion valve is open too far"
+          },
+          {
+            "text": "Expansion valve replacement",
+            "refs": [
+              {
+                "id": "R000878",
+                "label": "Expansion valve replacement",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "High pressure side pressure is also high, but cooling the condenser (applying water) lowers the inlet pressure."
+          },
+          {
+            "text": "Overfilling of refrigerant"
+          },
+          {
+            "text": "Using CFC gas recovery and recycling equipment Recover refrigerant and again up to the specified amount. fill (up) be just about to",
+            "refs": [
+              {
+                "id": "R002698",
+                "label": "Recover refrigerant",
+                "resolved": true
+              },
+              {
+                "id": "R002698",
+                "label": "fill (up)",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "When the compressor is shut down, the high pressure pressure balances quickly with the low pressure"
+          },
+          {
+            "text": "Damaged gasket High pressure valve damaged Foreign matter caught in the valve on the high pressure side"
+          },
+          {
+            "text": "Compressor replacement",
+            "refs": [
+              {
+                "id": "R000880",
+                "label": "Compressor replacement",
+                "resolved": true
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000901_jpn/web/html/R000901_jpn_Content.html",
+  "inOutline": true
+}

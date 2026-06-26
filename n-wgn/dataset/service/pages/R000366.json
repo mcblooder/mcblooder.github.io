@@ -1,0 +1,119 @@
+{
+  "id": "R000366",
+  "title": "VTC actuator inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder head",
+  "system": "VTEC/VTC variable cylinder system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000366",
+  "assets": [
+    "366_3.0_jpn_11034067_3.0_disp.png",
+    "366_3.0_jpn_11034068_3.0_disp.png",
+    "366_3.0_jpn_11034069_3.0_disp.png",
+    "366_3.0_jpn_11034070_3.0_disp.png",
+    "366_3.0_jpn_11034071_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002131",
+      "label": "Intake camshaft removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VTC actuator inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Intake camshaft removal",
+      "refs": [
+        {
+          "id": "R002131",
+          "label": "Intake camshaft removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. VTC actuator Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "366_3.0_jpn_11034067_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "366_3.0_jpn_11034068_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn the VTC actuator to the left or right and confirm that it is locked."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the VTC actuator is not locked, the VTC actuator shall be replaced."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Cover the VTC slow angle hole (A) on the intake camshaft with vinyl tape and secure with tie wrap."
+    },
+    {
+      "type": "figure",
+      "asset": "366_3.0_jpn_11034069_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Seal one of the VTC advance holes (A) on the intake camshaft with vinyl tape."
+    },
+    {
+      "type": "figure",
+      "asset": "366_3.0_jpn_11034070_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Apply air through the advance hole (A) not blocked by the vinyl tape to release the lock pin."
+    },
+    {
+      "type": "figure",
+      "asset": "366_3.0_jpn_11034071_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Check that the VTC actuator moves smoothly, and if it does not move smoothly, replace the VTC actuator."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000366_jpn/web/html/R000366_jpn_Content.html",
+  "inOutline": true
+}

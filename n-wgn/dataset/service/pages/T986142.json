@@ -1,0 +1,70 @@
+{
+  "id": "T986142",
+  "title": "Abnormal seat belt warning display",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "SRS",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986142",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T001658",
+      "label": "Vehicles equipped with seat belt reminders",
+      "resolved": false
+    },
+    {
+      "id": "T001659",
+      "label": "Seat belt reminder",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Abnormal seat belt warning display"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contents of Diagnosis"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Vehicles equipped with seat belt reminders",
+          "refs": [
+            {
+              "id": "T001658",
+              "label": "Vehicles equipped with seat belt reminders",
+              "resolved": false
+            }
+          ]
+        },
+        {
+          "text": "Seat belt reminder",
+          "refs": [
+            {
+              "id": "T001659",
+              "label": "Seat belt reminder",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986142_jpn/web/html/T986142_jpn_Content.html",
+  "inOutline": true
+}

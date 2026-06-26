@@ -1,0 +1,377 @@
+{
+  "id": "R000484",
+  "title": "Fuel injector removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Fuel supply equipment",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000484",
+  "assets": [
+    "484_3.0_jpn_11292008_2.0_disp.png",
+    "484_3.0_jpn_11292009_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000474",
+      "label": "Fuel pressure Removal",
+      "resolved": true
+    },
+    {
+      "id": "R000412",
+      "label": "Cars not equipped with a turbo charger",
+      "resolved": true
+    },
+    {
+      "id": "R000413",
+      "label": "Turbo Charger equipped vehicle",
+      "resolved": true
+    },
+    {
+      "id": "R000418",
+      "label": "Intercooler removal (turbo charger equipped vehicles)",
+      "resolved": true
+    },
+    {
+      "id": "R000414",
+      "label": "Cars not equipped with a turbo charger",
+      "resolved": true
+    },
+    {
+      "id": "R000415",
+      "label": "Turbo Charger equipped vehicle",
+      "resolved": true
+    },
+    {
+      "id": "R000483",
+      "label": "Remove the cover (A) and disconnect the quick-connect fuel tube (B) from the fuel line.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuel injector removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Fire is strictly prohibited. ​",
+        "Removal should be performed with the engine stopped and the battery (-) terminal disconnected. ​"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Fuel pressure Removal",
+      "refs": [
+        {
+          "id": "R000474",
+          "label": "Fuel pressure Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Air cleaner removal"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000412",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000412",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000413",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000413",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Intercooler removal (turbo charger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000418",
+          "label": "Intercooler removal (turbo charger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Intake manifold removal"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000414",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000414",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000415",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000415",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Fuel injector removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the cover (A) and disconnect the quick-connect fuel tube (B) from the fuel line. Disconnect the coupler (C). Remove the fuel pipe (D). Remove the injector clip (E) from the fuel pipe and remove the fuel injector (F).",
+      "refs": [
+        {
+          "id": "R000483",
+          "label": "Remove the cover (A) and disconnect the quick-connect fuel tube (B) from the fuel line.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "484_3.0_jpn_11292008_2.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Fire is strictly prohibited. ​",
+        "Removal should be performed with the engine stopped and the battery (-) terminal disconnected. ​"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Fuel injector installation"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the O-ring (A), lubricated with engine oil (genuine Honda), into the groove of the injector (B). Attach the fuel injector to the fuel pipe (C) and secure with the injector clip (D). Assemble the fuel pipe set in step 2 to the cylinder head (E). Connect the coupler (F) with the black connector to the primary side and the brown connector to the secondary side. Connector color (black/brown) is not faulty even if primary/secondary is reversed. Fuel pipe. Connect the quick-connect fuel tube (G). When the 12V battery negative (-) terminal is connected and the ignition is turned to the ON mode (never turn the starter), the fuel pump operates for about 2 seconds to increase the fuel pressure in the fuel line system. Repeat this operation 2-3 times and check for fuel leaks in each part of the fuel piping system.",
+      "refs": [
+        {
+          "id": "R000483",
+          "label": "Connect the quick-connect fuel tube (G).",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "484_3.0_jpn_11292009_2.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When installing the fuel injector into the fuel pipe, do not pry it into the fuel pipe or insert it with the fuel injector tilted, but insert it perpendicular to the fuel pipe to avoid damaging the O-ring."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "O-rings must be replaced when disassembling.",
+        "O-rings must be lubricated with engine oil (genuine Honda) before installation. Never apply brake fluid, radiator fluid, vegetable or alcohol based oils."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Intake manifold installation"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000414",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000414",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000415",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000415",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Intercooler installation (Turbocharger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000418",
+          "label": "Intercooler installation (Turbocharger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Air Cleaner Installation"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000412",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000412",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000413",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000413",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000484_jpn/web/html/R000484_jpn_Content.html",
+  "inOutline": true
+}

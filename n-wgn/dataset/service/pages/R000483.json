@@ -1,0 +1,430 @@
+{
+  "id": "R000483",
+  "title": "Quick connector type fuel tube removal/attachment",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Fuel supply equipment",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000483",
+  "assets": [
+    "483_3.0_jpn_11582591_3.0_disp.png",
+    "483_3.0_jpn_11582592_3.0_disp.png",
+    "483_3.0_jpn_11582593_3.0_disp.png",
+    "483_3.0_jpn_11582594_3.0_disp.png",
+    "483_3.0_jpn_11582595_3.0_disp.png",
+    "483_3.0_jpn_11582596_3.0_disp.png",
+    "483_3.0_jpn_11582597_3.0_disp.png",
+    "483_3.0_jpn_11582598_3.0_disp.png",
+    "483_3.0_jpn_11582599_3.0_disp.png",
+    "483_3.0_jpn_11582600_3.0_disp.png",
+    "483_3.0_jpn_11582601_3.0_disp.png",
+    "483_3.0_jpn_11582602_3.0_disp.png",
+    "483_3.0_jpn_11582603_3.0_disp.png",
+    "483_3.0_jpn_11582604_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000474",
+      "label": "Fuel pressure Removal",
+      "resolved": true
+    },
+    {
+      "id": "R000412",
+      "label": "Remove the air cleaner",
+      "resolved": true
+    },
+    {
+      "id": "R000418",
+      "label": "Remove intercooler",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Quick connector type fuel tube removal/attachment"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Fire is strictly prohibited. ​",
+        "Do not use a rag with battery acid on it. If it adheres to the fuel tube, replace the fuel tube.",
+        "Do not forcibly bend or twist the fuel tube when attaching or detaching the connector. If it is bent, be sure to replace it with a new one."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When removing the quick-connect fuel tube, Caution when removing and installing the fuel tube with quick connectors Confirmation of"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Quick Connector Fuel Tube Cover Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "483_3.0_jpn_11582591_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Lift the cover (B) vertically against the fuel tube (A) and remove it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Quick-connect fuel tube cleaning"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Check the fuel tube for mud or other contaminants, and if any is present, clean it before removing the fuel tube."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Fuel pressure Removal",
+      "refs": [
+        {
+          "id": "R000474",
+          "label": "Fuel pressure Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Quick Connector Fuel Tube Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "483_3.0_jpn_11582592_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Hold the connector by hand, be sure to grasp the retainer (A) by hand and pull out the connector (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "To avoid damaging the pipe, be sure to pull it out by hand without using any tools. ​",
+        "If there is sticking between the connector and the pipe (C), push and pull the connector with the retainer pinched by hand until it moves freely before pulling it out.",
+        "Do not remove the retainer remaining on the pipe side. ​",
+        "When a retainer is removed from a pipe, it must be replaced with a new retainer. ​"
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "483_3.0_jpn_11582593_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Check the sealing surface (B) of the disconnected pipe (A) for dirt, debris, etc."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Clean the sealing surface if there is dirt, dust, etc. adhering to the surface."
+        },
+        {
+          "text": "Clean the sealing surface if there is dirt, dust, etc. adhering to the surface."
+        },
+        {
+          "text": "If the sealing surface is rusted, scratched, or damaged, replace the defective parts."
+        },
+        {
+          "text": "If the sealing surface is rusted, scratched, or damaged, replace the defective parts."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "483_3.0_jpn_11582594_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "The disconnected pipes and connectors should be covered with a plastic bag (A) or similar covering to prevent damage and foreign matter from entering."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The retainer remaining on the pipe side cannot be reused after removal, and must be replaced with a new one in the following cases ​",
+        "When replacing the fuel pump",
+        "To replace the fuel filter",
+        "To replace the fuel feed pipe",
+        "When replacing the fuel pipe",
+        "When the retainer is removed ​",
+        "Scratches, damage, etc. to the retainer ​",
+        "Retainers are of different shapes depending on the manufacturer and size, so be sure to use retainers of the same size from the same manufacturer. ​",
+        "manufacturer",
+        "Retainer color",
+        "Piping diameter",
+        "SANOH",
+        "white",
+        "6.3mm",
+        "manufacturer",
+        "Retainer color",
+        "Piping diameter",
+        "TOKAI",
+        "bitter orange (Citrus aurantium)",
+        "9.5mm"
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Fire is strictly prohibited. ​",
+        "Do not use a rag with battery acid on it. If it adheres to the fuel tube, replace the fuel tube.",
+        "Do not forcibly bend or twist the fuel tube when attaching or detaching the connector. If it is bent, be sure to replace it with a new one."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When installing the quick-connect fuel tube, Caution when removing and installing the fuel tube with quick connectors Confirmation of"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Quick-connect fuel tube cleaning"
+    },
+    {
+      "type": "figure",
+      "asset": "483_3.0_jpn_11582595_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Make sure that the pipe (A) connection is free of scratches and foreign matter. Clean the sealing surface (B) if there is dirt or debris on it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. New retainer installed"
+    },
+    {
+      "type": "figure",
+      "asset": "483_3.0_jpn_11582596_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Set the new retainer (A) in the connector (B) when the following operations are performed."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When the fuel pump is replaced"
+        },
+        {
+          "text": "When the fuel pump is replaced"
+        },
+        {
+          "text": "When the fuel filter is replaced"
+        },
+        {
+          "text": "When the fuel filter is replaced"
+        },
+        {
+          "text": "If the fuel feed pipe is replaced"
+        },
+        {
+          "text": "If the fuel feed pipe is replaced"
+        },
+        {
+          "text": "When the fuel pipe is replaced"
+        },
+        {
+          "text": "When the fuel pipe is replaced"
+        },
+        {
+          "text": "When the retainer is removed"
+        },
+        {
+          "text": "When the retainer is removed"
+        },
+        {
+          "text": "Scratches, damage, etc. to the retainer"
+        },
+        {
+          "text": "Scratches, damage, etc. to the retainer"
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Retainers are of different shapes depending on the manufacturer and size, so be sure to use retainers of the same size from the same manufacturer."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Retainer removal"
+    },
+    {
+      "type": "figure",
+      "asset": "483_3.0_jpn_11582597_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "483_3.0_jpn_11582598_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "When replacing the fuel feed tube (A), fuel feed pipe (B), fuel pipe (C) or fuel pump (D), open outward and pull out the remaining retainer (E) on the pipe side or fuel pump side and discard."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "To remove the fuel tube in the engine compartment, open the clamp (F) and remove it."
+        },
+        {
+          "text": "To remove the fuel tube in the engine compartment, open the clamp (F) and remove it."
+        },
+        {
+          "text": "For vehicles not equipped with a turbocharger: Fuel tubes in the engine compartment must not be removed, Remove the air cleaner Then, remove it.",
+          "refs": [
+            {
+              "id": "R000412",
+              "label": "Remove the air cleaner",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "For vehicles not equipped with a turbocharger: Fuel tubes in the engine compartment must not be removed, Remove the air cleaner Then, remove it.",
+          "refs": [
+            {
+              "id": "R000412",
+              "label": "Remove the air cleaner",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "For vehicles equipped with a turbocharger: Fuel tubes in the engine compartment must not be removed, Remove intercooler Then, remove it.",
+          "refs": [
+            {
+              "id": "R000418",
+              "label": "Remove intercooler",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "For vehicles equipped with a turbocharger: Fuel tubes in the engine compartment must not be removed, Remove intercooler Then, remove it.",
+          "refs": [
+            {
+              "id": "R000418",
+              "label": "Remove intercooler",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Fuel tube installation with quick connectors"
+    },
+    {
+      "type": "figure",
+      "asset": "483_3.0_jpn_11582599_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "483_3.0_jpn_11582600_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "483_3.0_jpn_11582601_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Align the pipe (A) with the connector (B) shaft and the groove of the connector with the claws of the retainer (C), and push the connector in until the retainer ''clicks''."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the connection is tight, apply a small amount of fresh engine oil to the end of the pipe."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Connection Confirmation"
+    },
+    {
+      "type": "figure",
+      "asset": "483_3.0_jpn_11582602_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "483_3.0_jpn_11582603_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "When reconnecting the fuel feed pipe, pull the connector (A) to confirm that it is securely connected. Also, visually check that the two tabs on the retainer (B) are securely connected to the connector. If the fuel feed pipe has been replaced with a new one, remove the pull tab (C) upward."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the connector is not securely connected, the pull tab may be damaged. In such a case, check the connector connection and remove the pull tab after making a secure connection."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Fuel leakage Check"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the negative (-) terminal of the 12V battery and turn the ignition to the ON mode (do not turn the starter). The fuel pump will operate for about 2 seconds to increase the fuel pressure in the fuel line system. Repeat this operation 2-3 times and inspect each part of the fuel piping system for leaks."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Fuel tube cover installation with quick connectors"
+    },
+    {
+      "type": "figure",
+      "asset": "483_3.0_jpn_11582604_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Set the tabs (C) of the cover (B) on the fuel tube (A) and install it securely."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000483_jpn/web/html/R000483_jpn_Content.html",
+  "inOutline": true
+}

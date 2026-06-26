@@ -1,0 +1,90 @@
+{
+  "id": "R000981",
+  "title": "and lights.",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Turn Signal/Hazard Lights Remove and install door mirrors side turn signals",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000981",
+  "assets": [
+    "981_3.0_jpn_11369853_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000747",
+      "label": "Mirror holder removal",
+      "resolved": true
+    },
+    {
+      "id": "R000748",
+      "label": "Skull cap removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Remove and install door mirrors, side turn signals, and lights."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Mirror holder removal",
+      "refs": [
+        {
+          "id": "R000747",
+          "label": "Mirror holder removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Skull cap removal",
+      "refs": [
+        {
+          "id": "R000748",
+          "label": "Skull cap removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Door mirror Side turn signal light removal"
+    },
+    {
+      "type": "figure",
+      "asset": "981_3.0_jpn_11369853_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Remove the door mirror side turn signal lights (C) from the power mirrors (B). Door mirror side turn signal lights: LED"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000981_jpn/web/html/R000981_jpn_Content.html",
+  "inOutline": true
+}

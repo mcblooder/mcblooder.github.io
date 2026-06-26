@@ -1,0 +1,40 @@
+{
+  "id": "R001638",
+  "title": "SRS unit updates",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "SRS",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001638",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "SRS unit updates"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. SRS unit update"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Refer to the user manual that comes with the device for detailed instructions and precautions for updating."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001638_jpn/web/html/R001638_jpn_Content.html",
+  "inOutline": true
+}

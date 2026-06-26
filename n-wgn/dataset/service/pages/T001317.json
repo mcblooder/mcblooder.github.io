@@ -1,0 +1,194 @@
+{
+  "id": "T001317",
+  "title": "Vehicle Stability Assist (VSA) System Failure Diagnostic Table by Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001317",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T002567",
+      "label": "Inspect data link circuits",
+      "resolved": false
+    },
+    {
+      "id": "T001427",
+      "label": "Combination Meter Failure Diagnostics.",
+      "resolved": true
+    },
+    {
+      "id": "R000710",
+      "label": "Update to the latest program and recheck.",
+      "resolved": true
+    },
+    {
+      "id": "R000711",
+      "label": "Replace VSA modulator control unit",
+      "resolved": true
+    },
+    {
+      "id": "T001319",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "R000714",
+      "label": "Perform midpoint learning of VSA sensor",
+      "resolved": true
+    },
+    {
+      "id": "T002875",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Vehicle Stability Assist (VSA) System Failure Diagnostic Table by Symptom"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "symptoms",
+            "header": true
+          },
+          {
+            "text": "diagnostic procedure",
+            "header": true
+          },
+          {
+            "text": "related item",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "HDS does not communicate with VSA modulator control unit or vehicle"
+          },
+          {
+            "text": "Inspect data link circuits",
+            "refs": [
+              {
+                "id": "T002567",
+                "label": "Inspect data link circuits",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "ABS warning light, VSA warning light, VSA OFF warning light, brake warning light (red) or brake warning light (orange) does not illuminate (check for bulb failure)"
+          },
+          {
+            "text": "1. Combination Meter Failure Diagnostics. 2. If the VSA Modulator Control Unit program is not up-to-date, Update to the latest program and recheck. If the program is up-to-date Replace VSA modulator control unit",
+            "refs": [
+              {
+                "id": "T001427",
+                "label": "Combination Meter Failure Diagnostics.",
+                "resolved": true
+              },
+              {
+                "id": "R000710",
+                "label": "Update to the latest program and recheck.",
+                "resolved": true
+              },
+              {
+                "id": "R000711",
+                "label": "Replace VSA modulator control unit",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Cannot turn off VSA"
+          },
+          {
+            "text": "1. Failure Diagnosis by Symptom ​ 2. If the VSA Modulator Control Unit program is not up-to-date, Update to the latest program and recheck. If the program is up-to-date Replace VSA modulator control unit",
+            "refs": [
+              {
+                "id": "T001319",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              },
+              {
+                "id": "R000710",
+                "label": "Update to the latest program and recheck.",
+                "resolved": true
+              },
+              {
+                "id": "R000711",
+                "label": "Replace VSA modulator control unit",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "VSA OFF warning light does not turn off"
+          },
+          {
+            "text": "Perform midpoint learning of VSA sensor",
+            "refs": [
+              {
+                "id": "R000714",
+                "label": "Perform midpoint learning of VSA sensor",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "ABS warning light, VSA warning light, brake warning light (red) and brake warning light (orange) do not all turn off (remain lit at the same time)"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002875",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001317_jpn/web/html/T001317_jpn_Content.html",
+  "inOutline": true
+}

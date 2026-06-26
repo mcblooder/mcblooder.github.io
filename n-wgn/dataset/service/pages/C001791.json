@@ -1,0 +1,226 @@
+{
+  "id": "C001791",
+  "title": "CVT Structure Description - CVT Control System",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM electrical system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001791",
+  "assets": [
+    "1791_6.0_jpn_11583497_6.0_disp.png",
+    "1791_6.0_jpn_11583498_6.0_disp.png",
+    "1791_6.0_jpn_11583499_6.0_disp.png",
+    "1791_6.0_jpn_11583500_6.0_disp.png",
+    "1791_6.0_jpn_11583501_6.0_disp.png",
+    "1791_6.0_jpn_11583502_6.0_disp.png",
+    "1791_6.0_jpn_11583503_6.0_disp.png",
+    "1791_6.0_jpn_11583505_6.0_disp.png",
+    "1791_6.0_jpn_11583507_6.0_disp.png",
+    "1791_6.0_jpn_11660310_5.0_disp.png",
+    "1791_6.0_jpn_11660311_5.0_disp.png",
+    "1791_6.0_jpn_11660312_5.0_disp.png",
+    "1791_6.0_jpn_11673870_3.0_disp.png",
+    "1791_6.0_jpn_11673871_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "CVT Structure Description - CVT Control System"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Electronic Control Systems"
+    },
+    {
+      "type": "paragraph",
+      "text": "The electronic control unit that controls the CVT consists of the PGM-FI ECU, various sensors and switches shared with the PGM-FI control system, and the speed sensor and solenoid valve of the CVT control system to provide optimal gear shift control and lock-up control according to all driving conditions. The system is designed to optimize gear shift control and lock-up control in accordance with all driving conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI ECU has a self-diagnostic function and constantly monitors the input/output control signals to the PGM-FI ECU. If an abnormality is detected in the CVT control system, the shift position indicator in the combination meter blinks at equal intervals to notify the driver that an abnormality has occurred."
+    },
+    {
+      "type": "figure",
+      "asset": "1791_6.0_jpn_11660310_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1791_6.0_jpn_11660311_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Gear shift control (drive pulley/driven pulley side pressure control) (for vehicles not equipped with turbo charger)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CVT's gear shifting is performed steplessly by changing the pulley ratio between the drive pulley and the driven pulley, which are connected by a metal belt, between 2.293 and 0.420 when moving forward. In reverse, the pulley ratio is controlled to 2.293."
+    },
+    {
+      "type": "paragraph",
+      "text": "The pulley ratio is controlled by the PGM-FI ECU by controlling the side pressure signals of the drive and driven pulleys so that the engine speed becomes the target value based on the vehicle speed and accelerator pedal opening (accelerator pedal position sensor signal) from the basic shift map for each position stored in the PGM-FI ECU."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gear shift control (pulley side pressure control) includes the PROSMATEC system for hill climbing control and descent control in D-position, D-position ECON mode and S-position driving, and cornering G shift control when driving on winding roads."
+    },
+    {
+      "type": "figure",
+      "asset": "1791_6.0_jpn_11660312_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Gear shift control (drive pulley/driven pulley side pressure control) (turbocharged models)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CVT's gear shifting is performed steplessly by changing the pulley ratio between the drive pulley and the driven pulley, which are connected by a metal belt, between 2.293 and 0.420 when moving forward. In reverse, the pulley ratio is controlled to 2.293."
+    },
+    {
+      "type": "paragraph",
+      "text": "The pulley ratio is controlled by the PGM-FI ECU by controlling the side pressure signals of the drive and driven pulleys so that the engine speed becomes the target value based on the vehicle speed and accelerator pedal opening (accelerator pedal position sensor signal) from the basic shift map for each position stored in the PGM-FI ECU."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gear shift control (pulley side pressure control) includes automatic gear shift mode in D position, D position ECON mode, D paddle shift mode, and automatic gear shift mode in S position and S paddle shift (manual shift) mode. In addition to these driving modes, the gear shift control includes the PROSMATEC system for hill climbing control and descent control when driving in the D and S positions, and cornering G shift control when driving on winding roads."
+    },
+    {
+      "type": "figure",
+      "asset": "1791_6.0_jpn_11673870_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "PROSMATEC System"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Abbreviation for PROGRESSIVE SHIFT SCHEDULE MANAGEMENT TECHNOLOGY)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PROSMATEC system is performed when the vehicle is traveling in the D position, D position ECON mode, and S position and the vehicle speed is approximately 15 km/h or higher. The PROSMATEC system also includes hill climbing control for uphill driving and downhill control for downhill driving."
+    },
+    {
+      "type": "figure",
+      "asset": "1791_6.0_jpn_11583497_6.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the PGM-FI ECU determines that the road is an uphill road based on the accelerator pedal position (accelerator pedal position sensor signal) and vehicle speed while driving in the D position, D position ECON mode, or S position, the system calculates an optimal driving map according to the gradient of the road to provide powerful and The system then calculates an optimal driving map according to the gradient of the road and performs powerful and smooth hill climbing driving."
+    },
+    {
+      "type": "figure",
+      "asset": "1791_6.0_jpn_11583498_6.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the PGM-FI ECU determines that the road is an uphill road based on the accelerator pedal position (accelerator pedal position sensor signal) and vehicle speed while driving in the D position, D position ECON mode, or S position, the system calculates an optimal driving map according to the gradient of the road and applies the engine The system then applies the engine brake for smooth downhill driving."
+    },
+    {
+      "type": "figure",
+      "asset": "1791_6.0_jpn_11583499_6.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cornering G shift control"
+    },
+    {
+      "type": "paragraph",
+      "text": "The cornering G shift control is a system that, while driving in the D or S position, if the PGM-FI ECU determines that the road is a winding road based on the accelerator pedal opening (accelerator pedal position sensor signal), vehicle speed, and speed difference between the left and right wheels, the engine speed is set higher when the accelerator pedal is turned off. This system provides powerful and sporty winding road driving. The turning (G) judgment, which is based on the left-right wheel speed difference, determines the turning status based on the left-right wheel speed difference relative to the average vehicle speed (average vehicle speed x left-right rear wheel speed difference/right-right rear wheel interval)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "D Paddle shift mode control (vehicles equipped with paddle shift switches)"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the driver wants to decelerate while driving in the D position, the shift can be downshifted by operating the paddle shift switches (shift down). At that time, the shift indicator in the combination meter will show the gearshift to be downshifted. When the accelerator pedal is depressed to downshift, the shift indicator will disappear and the mode will switch to the normal mode in the D position. The mode also changes to the normal mode in the D position when the paddle shift switch is held down for several seconds."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "S-position automatic shift mode, S-paddle shift (manual shift) mode control (vehicles equipped with paddle shift switch)"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the paddle shift switch is operated in the S position, the driver switches to the S paddle shift mode for manual shifting with the pulley ratio set to a fixed ratio of 7. The M indicator light in the combination meter illuminates and the shift indicator shows the gear shift in which the car is traveling. By operating the paddle shift switch + (shift up) or paddle shift switch - (shift down), the transmission can be selected from 1st to 7th gear, allowing manual transmission-like driving according to the driver's will. In order to prevent damage to the transmission, a vehicle speed is set to allow downshifting when driving at high speeds in the S-paddle shift mode. If a shift down is requested while driving at or above the set speed for the selected gearshift, the selected gearshift is displayed blinking in the shift indicator and waits, and if the speed drops below the set speed within a certain period of time, the shift down is performed and the gearshift is displayed in the lighted display. If the vehicle speed does not reach the set speed while the gearshift is flashing, the shift down request is canceled and the gearshift returns to the original gearshift. To cancel S paddle shift mode, move the select lever to a position other than S."
+    },
+    {
+      "type": "figure",
+      "asset": "1791_6.0_jpn_11583500_6.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Clutch pressure control"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI ECU drives the clutch pressure control SOL.V. to control the hydraulic pressure acting on the forward and reverse clutches to reduce shocks during in-gear, protect the metal belt, and reverse inhibitor function to ensure smooth clutch connection and reduce load on the transmission. The clutch pressure control SOL."
+    },
+    {
+      "type": "figure",
+      "asset": "1791_6.0_jpn_11583501_6.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1791_6.0_jpn_11583502_6.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lock-up control"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI ECU drives the lock-up clutch control SOL.V. based on signals from each sensor and switch to control the hydraulic pressure applied to the lock-up clutch piston in the torque converter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lock-up control is performed in D-position (transmission fluid temperature above 25°C), S-position (models with paddle shift switch), L-position (models without paddle shift switch), S-paddle shift mode (between 3rdand 7th gears) and ECON mode to improve drivability and fuel economy. The lock-up control system also includes a lock-up function. The lock-up control system has three control areas: lock-up area, lock-up control area, and full lock-up area, to control the hydraulic pressure applied to the lock-up clutch while driving."
+    },
+    {
+      "type": "figure",
+      "asset": "1791_6.0_jpn_11583503_6.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1791_6.0_jpn_11583505_6.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "CVT Accumulator"
+    },
+    {
+      "type": "paragraph",
+      "text": "The CVT accumulator is controlled by the PGM-FI ECU, which supplies hydraulic pressure stored in the accumulator to the transmission when the engine is restarted during idling stop system operation, enabling smooth starting immediately after engine restart. The CVT accumulator is mounted on the underside of the transmission case."
+    },
+    {
+      "type": "figure",
+      "asset": "1791_6.0_jpn_11673871_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1791_6.0_jpn_11583507_6.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131205112612/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001791_jpn/web/html/C001791_jpn_Content.html",
+  "inOutline": true
+}

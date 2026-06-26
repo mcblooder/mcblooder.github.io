@@ -1,0 +1,158 @@
+{
+  "id": "G002911",
+  "title": "Unit Identification",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "NA",
+  "sectionCode": "0",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "Passenger seat swivel seat specification model",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G002911",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Unit Identification"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "nickname",
+            "rowspan": 2
+          },
+          {
+            "text": "trade name",
+            "rowspan": 2
+          },
+          {
+            "text": "Body shape classification",
+            "rowspan": 2
+          },
+          {
+            "text": "Driving method",
+            "rowspan": 2
+          },
+          {
+            "text": "model (e.g. of a vehicle)",
+            "rowspan": 2
+          },
+          {
+            "text": "type",
+            "rowspan": 2
+          },
+          {
+            "text": "frame",
+            "colspan": 2
+          },
+          {
+            "text": "engine",
+            "colspan": 2
+          },
+          {
+            "text": "transmission",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "model (e.g. of a vehicle)"
+          },
+          {
+            "text": "No."
+          },
+          {
+            "text": "model (e.g. of a vehicle)"
+          },
+          {
+            "text": "No."
+          },
+          {
+            "text": "model (e.g. of a vehicle)"
+          },
+          {
+            "text": "No."
+          }
+        ],
+        [
+          {
+            "text": "N-WGN"
+          },
+          {
+            "text": "N-WGN"
+          },
+          {
+            "text": "4-door station wagon"
+          },
+          {
+            "text": "2WD （FF）"
+          },
+          {
+            "text": "DBA-JH1"
+          },
+          {
+            "text": "G",
+            "rowspan": 2
+          },
+          {
+            "text": "JH1"
+          },
+          {
+            "text": "8000001",
+            "rowspan": 2
+          },
+          {
+            "text": "S07A",
+            "rowspan": 2
+          },
+          {
+            "text": "7000001",
+            "rowspan": 2
+          },
+          {
+            "text": "SZ3A"
+          },
+          {
+            "text": "1000001",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "4WD"
+          },
+          {
+            "text": "DBA-JH2"
+          },
+          {
+            "text": "JH2"
+          },
+          {
+            "text": "SZ4A"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G002911_jpn/web/html/G002911_jpn_Content.html",
+  "inOutline": true
+}

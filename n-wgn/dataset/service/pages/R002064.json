@@ -1,0 +1,151 @@
+{
+  "id": "R002064",
+  "title": "Removing and installing the audio unit",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "AV/Communication Systems",
+  "system": "Audio Components",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002064",
+  "assets": [
+    "2064_3.0_jpn_11347583_2.0_disp.png",
+    "2064_3.0_jpn_11390888_2.0_disp.png",
+    "2064_3.0_jpn_11394009_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000910",
+      "label": "12V battery Negative (-) terminal Disconnect",
+      "resolved": true
+    },
+    {
+      "id": "R000783",
+      "label": "Glove box removal",
+      "resolved": true
+    },
+    {
+      "id": "G002060",
+      "label": "Work Precautions",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removing and installing the audio unit"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Work must be performed so as not to damage the instrument panel or the parts to be removed.",
+        "Do not touch the board surface and components on the board."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Negative (-) terminal Disconnect",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Negative (-) terminal Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Glove box removal",
+      "refs": [
+        {
+          "id": "R000783",
+          "label": "Glove box removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Audio unit Assy. removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2064_3.0_jpn_11394009_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Loosen the audio unit mounting bolt (A) (1 pc.). Using a flat-blade screwdriver, push the back of the audio unit while pulling the panel notch (B) toward you. Pull out the audio unit assy. and disconnect each coupler. When disconnecting the audio unit's lever-lock coupler, be sure to remove the audio and visual system's \" Work Precautions Refer to the \"See also.",
+      "refs": [
+        {
+          "id": "G002060",
+          "label": "Work Precautions",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to damage the audio panel and instrument panel by dislodging the flat head screwdriver."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Louver removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2064_3.0_jpn_11390888_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the louvers (B) from the audio panel (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Audio unit removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2064_3.0_jpn_11347583_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the audio unit (B) from the audio panel (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the touch screen panel or audio unit has been replaced, Select monitor diagnosis in the self-diagnosis menu and perform touch panel adjustment."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002064_jpn/web/html/R002064_jpn_Content.html",
+  "inOutline": true
+}

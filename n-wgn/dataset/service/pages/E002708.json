@@ -1,0 +1,35 @@
+{
+  "id": "E002708",
+  "title": "Cooling Fan Control Circuit Diagram",
+  "category": "service",
+  "packageKind": "EWD",
+  "packageKindName": "Electrical Wiring (manual)",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cooling System",
+  "system": "cooling device",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/E002708",
+  "assets": [
+    "2708_3.0_jpn_11580567_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cooling Fan Control Circuit Diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "2708_3.0_jpn_11580567_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_EWD_20131120093904/Contents/jpn/60T6GD00_2014/EWD/SCT/SC/SYS/E002708_jpn/web/html/E002708_jpn_Content.html",
+  "inOutline": true
+}

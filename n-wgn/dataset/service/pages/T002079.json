@@ -1,0 +1,180 @@
+{
+  "id": "T002079",
+  "title": "How to proceed with audio & visual system fault diagnosis",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "AV/Communication Systems",
+  "system": "Audio Components",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002079",
+  "assets": [
+    "2079_3.0_jpn_11165894_3.0_disp.png",
+    "2079_3.0_jpn_11165896_3.0_disp.png",
+    "2079_3.0_jpn_11279225_2.0_disp.png",
+    "2079_3.0_jpn_11390513_2.0_disp.png",
+    "2079_3.0_jpn_11390514_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "How to proceed with audio & visual system fault diagnosis"
+    },
+    {
+      "type": "paragraph",
+      "text": "The audio & visual system shall not judge the following items as abnormal because they have errors in accuracy even if the system is normal."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When LCDs are exposed to high temperatures, such as in direct summer sunlight, they may not appear true black when the screen is activated."
+        },
+        {
+          "text": "Never rub the LCD surface strongly by hand or with a hard cloth. When removing dirt, wipe lightly with a cloth for wiping plastic lenses."
+        },
+        {
+          "text": "The electrostatic touch panels used for the LCD and face switches (AUDIO, HOME, MENU, VOL+, VOL-, and BACK buttons) will not respond to gloves that are more than 2.5 mm thick or gloves made of insulating materials."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The following factors may cause poor radio audio reception"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disturbance Factors"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "power line"
+        },
+        {
+          "text": "Railroad overhead wires"
+        },
+        {
+          "text": "Neon Sign"
+        },
+        {
+          "text": "illegal radio"
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "redundancy factor"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Outside the area of broadcast and relay stations"
+        },
+        {
+          "text": "Reception in weak-wave areas"
+        },
+        {
+          "text": "Mountains, tunnels, railway bridges, building valleys"
+        },
+        {
+          "text": "Reflection of radio waves by surrounding buildings"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "DTCs (Hard Error Codes) for audio units cannot be verified by HDS."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition to ON mode."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. With the map screen displayed, press the eject button, power ( Press and hold down the (▲) and HOME buttons simultaneously until the diagnostic menu screen is displayed. 3. Select ''System Connection Diagnostics'' from the Diagnostics menu screen."
+    },
+    {
+      "type": "figure",
+      "asset": "2079_3.0_jpn_11279225_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "4. After the diagnosis is completed, select ''Error History''."
+    },
+    {
+      "type": "figure",
+      "asset": "2079_3.0_jpn_11390513_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "5. Select ''Hardware Error'' from the Error History menu screen. Software error is a factory feature and is not used in service."
+    },
+    {
+      "type": "figure",
+      "asset": "2079_3.0_jpn_11165894_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "6. When a hardware error is detected, the date and time of the error are displayed in the right column. Selecting the date and time displays the following information The error display shows the latest log at the top, and up to 50 errors are recorded. ''Save'' is a factory function and is not used in service. 7. When a hard error code is displayed, perform failure diagnosis of the displayed hard error code from the failure diagnosis table by DTC."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Hardware Error Date"
+        },
+        {
+          "text": "Time when the hard error occurred"
+        },
+        {
+          "text": "Hardware Error Code"
+        },
+        {
+          "text": "Hardware Error Brief Description (Title)"
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2079_3.0_jpn_11390514_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "DTCs (hard error codes) for audio units cannot be cleared by HDS."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "8. When ''Delete'' is selected on the Hardware Error screen, a confirmation screen is displayed. 9. Selecting ''Yes'' starts the erasure and returns to the Hardware Error screen after the erasure is completed. 10. Select ''Back'' until you are transferred to the normal screen."
+    },
+    {
+      "type": "figure",
+      "asset": "2079_3.0_jpn_11165896_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002079_jpn/web/html/T002079_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,61 @@
+{
+  "id": "C001744",
+  "title": "Vehicle Stability Assist (VSA) System Structure Description - Creep Aid Control",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001744",
+  "assets": [
+    "1744_3.0_jpn_11397707_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Vehicle Stability Assist (VSA) System Structure Description - Creep Aid Control"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the creep force becomes weak on a gentle slope, the brake pressure control temporarily suppresses the slide that occurs when the driver switches from the brake pedal to the accelerator pedal, thereby assisting the driver's starting operation. Creep aid control is not limited to hills, but may also be applied on flat roads and downhill slopes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "control"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the PGM-FI ECU outputs a request signal to activate the creep aid control, the brake fluid pressure set for the creep force is maintained when it is recognized that the driver has released the brake by a change in the pressure sensor signal."
+    },
+    {
+      "type": "paragraph",
+      "text": "After the pedal is replaced, brake fluid pressure is released when creep force is restored."
+    },
+    {
+      "type": "paragraph",
+      "text": "Creep aid control may not operate if the brake pedal is not pressed down hard enough when stopping or if the brake pedal is released gradually when starting off."
+    },
+    {
+      "type": "figure",
+      "asset": "1744_3.0_jpn_11397707_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001744_jpn/web/html/C001744_jpn_Content.html",
+  "inOutline": true
+}

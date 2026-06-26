@@ -1,0 +1,185 @@
+{
+  "id": "R000824",
+  "title": "Bonnet opener Cable removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "hood",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000824",
+  "assets": [
+    "824_5.0_jpn_11581463_5.0_disp.png",
+    "824_5.0_jpn_11581464_5.0_disp.png",
+    "824_5.0_jpn_11677556_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000814",
+      "label": "Front bumper removal",
+      "resolved": true
+    },
+    {
+      "id": "R000842",
+      "label": "Front grille cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000964",
+      "label": "Headlight assembly removal (right side)",
+      "resolved": true
+    },
+    {
+      "id": "R000849",
+      "label": "Front inner fender removal (driver's side)",
+      "resolved": true
+    },
+    {
+      "id": "R000757",
+      "label": "Front side garnish removal (driver's side)",
+      "resolved": true
+    },
+    {
+      "id": "R000825",
+      "label": "Disconnect the hood opener cable (B) from the bonnet lock (A).",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Bonnet opener Cable removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front bumper removal",
+      "refs": [
+        {
+          "id": "R000814",
+          "label": "Front bumper removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front grille cover removal",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front grille cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Headlight assembly removal (right side)",
+      "refs": [
+        {
+          "id": "R000964",
+          "label": "Headlight assembly removal (right side)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Front inner fender removal (driver's side)",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Front inner fender removal (driver's side)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Front side garnish removal (driver's side)",
+      "refs": [
+        {
+          "id": "R000757",
+          "label": "Front side garnish removal (driver's side)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Cowl side lining removal (driver's side)",
+      "refs": [
+        {
+          "id": "R000757",
+          "label": "Cowl side lining removal (driver's side)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Bonnet opener cable removal"
+    },
+    {
+      "type": "figure",
+      "asset": "824_5.0_jpn_11677556_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the hood opener (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "824_5.0_jpn_11581463_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Disconnect the hood opener cable (B) from the bonnet lock (A). Remove clips (C and D).",
+      "refs": [
+        {
+          "id": "R000825",
+          "label": "Disconnect the hood opener cable (B) from the bonnet lock (A).",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "824_5.0_jpn_11581464_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Remove the grommet (A), and pull the hood opener cable (B) toward the interior for removal."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000824_jpn/web/html/R000824_jpn_Content.html",
+  "inOutline": true
+}

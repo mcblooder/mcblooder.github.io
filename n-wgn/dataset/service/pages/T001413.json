@@ -1,0 +1,863 @@
+{
+  "id": "T001413",
+  "title": "Exterior Light (MICU) input inspection",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001413",
+  "assets": [
+    "1413_5.0_jpn_11579697_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000925",
+      "label": "Disconnect each coupler from the fuse box.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Exterior Light (MICU) input inspection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before performing the inspection, check the relay box No. A5 (10A), No. A6 (10A), No. A7 (15A), No. A8 (15A), No. A10 (10A), No. A12 (10A), No. A14 (10A), No. A15 (7.5A), No. A16 (15A) *1 /30A *2 No. A22 (10A), No. A23 (15A) *1 /30A *2 Check for blown or connected fuses (No. A4-2 (50A), No. C6 (7.5A), No. C7 (7.5A), No. C26 (7.5A) and sub fuse/relay box No. D1 (15A))."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "*1: Vehicles equipped with dual discharge headlights *2: Vehicles not equipped with 2-discharge headlights"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Disconnect each coupler from the fuse box.",
+      "refs": [
+        {
+          "id": "R000925",
+          "label": "Disconnect each coupler from the fuse box.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. Perform input inspection, if all is normal and there is something wrong with the system, Replace fuse box. Each coupler is all female-terminated on the cord side.",
+      "refs": [
+        {
+          "id": "R000925",
+          "label": "Replace fuse box.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1413_5.0_jpn_11579697_5.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "P1"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "B8"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G202) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "T27"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "U17"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G403) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "J1"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "J4",
+            "rowspan": 2
+          },
+          {
+            "text": "purple",
+            "rowspan": 2
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Lighting Relay 1 Lighting Relay 2 Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "Short the inspection terminal to body ground."
+          },
+          {
+            "text": "R. Headlight (LO) and L. Headlight (LO) must be illuminated"
+          },
+          {
+            "text": "Grounding failure (G201, G301) Lighting Relay 1 Lighting Relay 2 Discharge Headlight Unit * Defects in out of valves Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "J5",
+            "rowspan": 2
+          },
+          {
+            "text": "peach",
+            "rowspan": 2
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Small Light Relay Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "Short the inspection terminal to body ground."
+          },
+          {
+            "text": "R. front position light, L. front position light, R. taillight, L. taillight and license plate light and hazard switch illumination (LED) shall be illuminated"
+          },
+          {
+            "text": "Grounding failure (G201, G301, G502, G503) Small Light Relay out of valves Defective tail light (LED) Defective hazard switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "R10"
+          },
+          {
+            "text": "ash"
+          },
+          {
+            "text": "Lighting Switch OFF position",
+            "rowspan": 2
+          },
+          {
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
+          },
+          {
+            "text": "Lighting Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "R21"
+          },
+          {
+            "text": "black"
+          }
+        ],
+        [
+          {
+            "text": "R19"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "Lighting Switch ON position",
+            "rowspan": 2
+          },
+          {
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
+          },
+          {
+            "text": "Lighting Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "R21"
+          },
+          {
+            "text": "black"
+          }
+        ],
+        [
+          {
+            "text": "R9"
+          },
+          {
+            "text": "weak matcha"
+          },
+          {
+            "text": "Lighting switch SMALL position",
+            "rowspan": 2
+          },
+          {
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
+          },
+          {
+            "text": "Lighting Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "R21"
+          },
+          {
+            "text": "black"
+          }
+        ],
+        [
+          {
+            "text": "R8"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Lighting switch Passing position",
+            "rowspan": 2
+          },
+          {
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
+          },
+          {
+            "text": "Lighting Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "R21"
+          },
+          {
+            "text": "black"
+          }
+        ],
+        [
+          {
+            "text": "R7"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "Lighting switch HI position",
+            "rowspan": 2
+          },
+          {
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
+          },
+          {
+            "text": "Lighting Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "R21"
+          },
+          {
+            "text": "black"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "J18",
+            "rowspan": 2
+          },
+          {
+            "text": "red",
+            "rowspan": 2
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Front Fog Light Relay Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "Short the inspection terminal to body ground."
+          },
+          {
+            "text": "Fog lights must be on."
+          },
+          {
+            "text": "Grounding failure (G201, G301) out of valves Front Fog Light Relay Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "T25"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "Front Fog Light Switch ON Position",
+            "rowspan": 2
+          },
+          {
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
+          },
+          {
+            "text": "Lighting Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "R21"
+          },
+          {
+            "text": "black"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "J24"
+          },
+          {
+            "text": "weak matcha"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "J12",
+            "rowspan": 2
+          },
+          {
+            "text": "green",
+            "rowspan": 2
+          },
+          {
+            "text": "Short-circuit the inspection terminal and the J24 terminal.",
+            "rowspan": 2
+          },
+          {
+            "text": "L. Front turn signal light should be illuminated"
+          },
+          {
+            "text": "Grounding failure (G301) out of valves Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "L. Side turn signal light should be illuminated *1"
+          }
+        ],
+        [
+          {
+            "text": "J11",
+            "rowspan": 2
+          },
+          {
+            "text": "green",
+            "rowspan": 2
+          },
+          {
+            "text": "Short-circuit the inspection terminal and the J24 terminal.",
+            "rowspan": 2
+          },
+          {
+            "text": "R. Front turn signal light should be illuminated"
+          },
+          {
+            "text": "Grounding failure (G201) out of valves Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "R. Side turn signal light should be illuminated *1"
+          }
+        ],
+        [
+          {
+            "text": "U1 *2"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Short-circuit the inspection terminal and the J24 terminal."
+          },
+          {
+            "text": "L. Door mirrors Side turn signal lights should illuminate"
+          },
+          {
+            "text": "Grounding failure (G403) L. Defective door mirror side turn signal light Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "F18 *2"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Short-circuit the inspection terminal and the J24 terminal."
+          },
+          {
+            "text": "R. Door mirrors Side turn signal lights must be illuminated"
+          },
+          {
+            "text": "Grounding failure (G402) R. Defective door mirror side turn signal light Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "H17"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Short-circuit the inspection terminal and the J24 terminal."
+          },
+          {
+            "text": "L. Rear turn signal light should be illuminated"
+          },
+          {
+            "text": "Grounding failure (G502) out of valves Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "D13"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Short-circuit the inspection terminal and the J24 terminal."
+          },
+          {
+            "text": "R. Rear turn signal light should be illuminated"
+          },
+          {
+            "text": "Grounding failure (G503) out of valves Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "T17"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Short-circuit the inspection terminal and the J24 terminal."
+          },
+          {
+            "text": "L. Turn Signal indicator should illuminate"
+          },
+          {
+            "text": "Defective combination meter Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "T16"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Short-circuit the inspection terminal and the J24 terminal."
+          },
+          {
+            "text": "R. Turn Signal indicator should light up"
+          },
+          {
+            "text": "Defective combination meter Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "R27"
+          },
+          {
+            "text": "new leaves"
+          },
+          {
+            "text": "Turn Signal Switch R position",
+            "rowspan": 2
+          },
+          {
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
+          },
+          {
+            "text": "Turn Signal Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "R21"
+          },
+          {
+            "text": "black"
+          }
+        ],
+        [
+          {
+            "text": "R28"
+          },
+          {
+            "text": "hollow"
+          },
+          {
+            "text": "Turn signal switch L position",
+            "rowspan": 2
+          },
+          {
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
+          },
+          {
+            "text": "Turn Signal Switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "R21"
+          },
+          {
+            "text": "black"
+          }
+        ],
+        [
+          {
+            "text": "R17"
+          },
+          {
+            "text": "weak matcha"
+          },
+          {
+            "text": "Hazard switch ON",
+            "rowspan": 2
+          },
+          {
+            "text": "There should be continuity between the inspection terminals.",
+            "rowspan": 2
+          },
+          {
+            "text": "Hazard switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "R11"
+          },
+          {
+            "text": "yellow"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "D8"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "Short-circuit the inspection terminal and X1 terminal in the ignition ON mode"
+          },
+          {
+            "text": "L. and R. backlight should be illuminated"
+          },
+          {
+            "text": "Grounding failure (G502, G503) out of valves Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "J23"
+          },
+          {
+            "text": "ash"
+          },
+          {
+            "text": "Shift Position R position"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G101) Shift position sensor failure Cord disconnection and terminal connection condition"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "D9"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "Brake switch ON (pedal depressed)"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Brake switch Cord disconnection and terminal connection condition"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001413_jpn/web/html/T001413_jpn_Content.html",
+  "inOutline": true
+}

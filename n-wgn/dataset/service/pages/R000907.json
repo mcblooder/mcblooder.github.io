@@ -1,0 +1,185 @@
+{
+  "id": "R000907",
+  "title": "A/C system performance test",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000907",
+  "assets": [
+    "907_5.0_jpn_11581040_5.0_disp.png",
+    "907_5.0_jpn_11581041_5.0_disp.png",
+    "907_5.0_jpn_11581042_5.0_disp.png",
+    "907_5.0_jpn_11581043_5.0_disp.png",
+    "907_5.0_jpn_11581044_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000783",
+      "label": "Glove box removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "A/C system performance test"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Manifold Gauge Set/Freon Gas Recovery/Reclaimer Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "907_5.0_jpn_11581040_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the manifold gauge set/CFC gas recovery/recycling unit."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Manifold gauge sets must be used exclusively for HFC-134a (R-134a).",
+        "Use fluorocarbon gas recovery/recycling equipment exclusively for HFC-134a (R-134a) and follow the instruction manual for proper use."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Glove box removal",
+      "refs": [
+        {
+          "id": "R000783",
+          "label": "Glove box removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. performance test"
+    },
+    {
+      "type": "figure",
+      "asset": "907_5.0_jpn_11581041_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Place the wet and dry bulb hygrometer (A) in the inlet of the blower unit and the thermometer (B) in the center outlet. Set up the following measurement conditions Operate for 10 minutes under the set conditions."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "No solar radiation"
+        },
+        {
+          "text": "No solar radiation"
+        },
+        {
+          "text": "Open the hood"
+        },
+        {
+          "text": "Open the hood"
+        },
+        {
+          "text": "Front doors fully open"
+        },
+        {
+          "text": "Front doors fully open"
+        },
+        {
+          "text": "MAX COOL temperature control"
+        },
+        {
+          "text": "MAX COOL temperature control"
+        },
+        {
+          "text": "Internal/external air changeover to internal air circulation ( ）​"
+        },
+        {
+          "text": "Internal/external air changeover to internal air circulation ( ）​"
+        },
+        {
+          "text": "Mode position is VENT ( ）"
+        },
+        {
+          "text": "Mode position is VENT ( ）"
+        },
+        {
+          "text": "A/C switch ON"
+        },
+        {
+          "text": "A/C switch ON"
+        },
+        {
+          "text": "Fan speed at max."
+        },
+        {
+          "text": "Fan speed at max."
+        },
+        {
+          "text": "Engine speed at 1,500 rpm"
+        },
+        {
+          "text": "Engine speed at 1,500 rpm"
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Read the inlet air temperature and discharge air temperature and check them against the inspection data. Inspe ction Data is a graph of measurements taken at humidity levels of 30-80%. Values tend to be lower when humidity is below 30% and higher when humidity is above 80%."
+    },
+    {
+      "type": "figure",
+      "asset": "907_5.0_jpn_11581042_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Read the inlet air temperature and discharge pressure (high pressure gauge) and check against the inspection data. Inspe ction Data is a graph of measurements taken at humidity levels of 30-80%. Values tend to be lower when humidity is below 30% and higher when humidity is above 80%."
+    },
+    {
+      "type": "figure",
+      "asset": "907_5.0_jpn_11581043_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "Read intake air temperature and pressure (low pressure gauge) and check against inspection data. Inspe ction Data is a graph of measurements taken at humidity levels of 30-80%. Values tend to be lower when humidity is below 30% and higher when humidity is above 80%."
+    },
+    {
+      "type": "figure",
+      "asset": "907_5.0_jpn_11581044_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Precautions for installation work"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000907_jpn/web/html/R000907_jpn_Content.html",
+  "inOutline": true
+}

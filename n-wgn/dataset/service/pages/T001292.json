@@ -1,0 +1,283 @@
+{
+  "id": "T001292",
+  "title": "Rear Differential Failure Diagnostic Table by Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "differential",
+  "system": "Rear Differential Assy.",
+  "subtitle": "",
+  "dgName": "Rear differential",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001292",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R000620",
+      "label": "Rear differential fluid level adjustment",
+      "resolved": true
+    },
+    {
+      "id": "R000625",
+      "label": "Removal and inspection of foreign objects",
+      "resolved": true
+    },
+    {
+      "id": "R000624",
+      "label": "Gear tooth contact (meshing) inspection",
+      "resolved": true
+    },
+    {
+      "id": "R000619",
+      "label": "Inspection of viscous coupling assembly.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear Differential Failure Diagnostic Table by Symptom"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When diagnosing a differential noise or noise malfunction, be very careful not to mistake it for engine or drive system noises other than differentials.",
+        "If you use free rollers to perform inspections, Work Precautions The following is a list of the items that are to be followed."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "symptoms",
+            "header": true
+          },
+          {
+            "text": "probable cause",
+            "header": true
+          },
+          {
+            "text": "treatment",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Constant noise during normal driving"
+          },
+          {
+            "text": "Rear differential Insufficient fluid entrapment of a foreign object Poor tooth contact (meshing) between ring gear and drive pinion gear Worn or damaged side bearings Drive Pinion Taper Roller Bearing rattled, worn or damaged Worn ring gear or drive pinion gear Worn drive pinion gear thrust washer or drive pinion shaft Ring gear or rear differential carrier strain Damaged or broken gears"
+          },
+          {
+            "text": "Rear differential fluid level adjustment Removal and inspection of foreign objects ​ Replace parts if damaged or broken ​",
+            "refs": [
+              {
+                "id": "R000620",
+                "label": "Rear differential fluid level adjustment",
+                "resolved": true
+              },
+              {
+                "id": "R000625",
+                "label": "Removal and inspection of foreign objects",
+                "resolved": true
+              },
+              {
+                "id": "R000625",
+                "label": "Replace parts if damaged or broken",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Gear noise during drive"
+          },
+          {
+            "text": "Rear differential Insufficient fluid entrapment of a foreign object Poor gear contact (meshing) Drive Pinion Preload failure Damaged or broken gears"
+          },
+          {
+            "text": "Rear differential fluid level adjustment Removal and inspection of foreign objects ​ Gear tooth contact (meshing) inspection ​ Drive Pinion Gear Preload adjustment Replace parts if damaged or broken ​",
+            "refs": [
+              {
+                "id": "R000620",
+                "label": "Rear differential fluid level adjustment",
+                "resolved": true
+              },
+              {
+                "id": "R000625",
+                "label": "Removal and inspection of foreign objects",
+                "resolved": true
+              },
+              {
+                "id": "R000624",
+                "label": "Gear tooth contact (meshing) inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000625",
+                "label": "Drive Pinion Gear Preload adjustment",
+                "resolved": true
+              },
+              {
+                "id": "R000625",
+                "label": "Replace parts if damaged or broken",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Gear noise when coasting"
+          },
+          {
+            "text": "Drive Pinion Gear Preload failure Damaged or broken gears"
+          },
+          {
+            "text": "parts exchange",
+            "refs": [
+              {
+                "id": "R000625",
+                "label": "parts exchange",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Bearing noise during driving and coasting"
+          },
+          {
+            "text": "Drive Pinion Gear Taper Roller Bearing cracked or damaged"
+          },
+          {
+            "text": "parts exchange",
+            "refs": [
+              {
+                "id": "R000625",
+                "label": "parts exchange",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Noise when turning"
+          },
+          {
+            "text": "Damaged ball bearing in differential case assembly. Damage to side gear, pinion gear or pinion shaft"
+          },
+          {
+            "text": "parts exchange",
+            "refs": [
+              {
+                "id": "R000625",
+                "label": "parts exchange",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Noise during startup and acceleration"
+          },
+          {
+            "text": "Excessive ring gear backlash Drive Pinion Gear Preload failure Drive Pinion Gear Excessive backlash Side gear Spline wear Loosening of tightening points"
+          },
+          {
+            "text": "Check torque or replace parts",
+            "refs": [
+              {
+                "id": "R000625",
+                "label": "Check torque or replace parts",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Rear differential fluid leak"
+          },
+          {
+            "text": "Excessive rear differential fluid Clogged breather hose Differential carrier improperly tightened or sealed Worn or damaged oil seals Defective sealing washer"
+          },
+          {
+            "text": "Rear differential fluid level adjustment Cleaning or parts replacement Torque check and sealant application ​ parts exchange ​",
+            "refs": [
+              {
+                "id": "R000620",
+                "label": "Rear differential fluid level adjustment",
+                "resolved": true
+              },
+              {
+                "id": "R000625",
+                "label": "Torque check and sealant application",
+                "resolved": true
+              },
+              {
+                "id": "R000625",
+                "label": "parts exchange",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "overheat"
+          },
+          {
+            "text": "oil shortage Ring gear backlash underestimation Drive Pinion Preload failure Drive Pinion Gear Backlash Undersized"
+          },
+          {
+            "text": "Rear differential fluid level adjustment parts exchange ​",
+            "refs": [
+              {
+                "id": "R000620",
+                "label": "Rear differential fluid level adjustment",
+                "resolved": true
+              },
+              {
+                "id": "R000625",
+                "label": "parts exchange",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Not 4WD."
+          },
+          {
+            "text": "Defective viscous coupling assembly."
+          },
+          {
+            "text": "Inspection of viscous coupling assembly.",
+            "refs": [
+              {
+                "id": "R000619",
+                "label": "Inspection of viscous coupling assembly.",
+                "resolved": true
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001292_jpn/web/html/T001292_jpn_Content.html",
+  "inOutline": true
+}

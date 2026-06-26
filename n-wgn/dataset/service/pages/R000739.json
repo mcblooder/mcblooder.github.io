@@ -1,0 +1,73 @@
+{
+  "id": "R000739",
+  "title": "Rear door weather strip removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "door (Western-style)",
+  "system": "Rear door",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000739",
+  "assets": [
+    "739_3.0_jpn_11369328_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000741",
+      "label": "Water Leakage Test",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear door weather strip removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear door weather strip removal"
+    },
+    {
+      "type": "figure",
+      "asset": "739_3.0_jpn_11369328_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the body side door checker mounting bolt. Remove the rear door weather strip (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Water Leakage Test",
+      "refs": [
+        {
+          "id": "R000741",
+          "label": "Water Leakage Test",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000739_jpn/web/html/R000739_jpn_Content.html",
+  "inOutline": true
+}

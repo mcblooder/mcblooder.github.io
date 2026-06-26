@@ -1,0 +1,146 @@
+{
+  "id": "R000764",
+  "title": "Removing and inspecting sun visors",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "interior",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000764",
+  "assets": [
+    "764_3.0_jpn_11581212_3.0_disp.png",
+    "764_3.0_jpn_11581213_3.0_disp.png",
+    "764_3.0_jpn_11581214_3.0_disp.png",
+    "764_3.0_jpn_11581215_3.0_disp.png",
+    "764_3.0_jpn_11581216_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removing and inspecting sun visors"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Sun visor removal"
+    },
+    {
+      "type": "figure",
+      "asset": "764_3.0_jpn_11581212_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Insert a flat-blade screwdriver or similar tool through the notch on the front side of the base cover (A) and push the claw (B) on the base."
+    },
+    {
+      "type": "figure",
+      "asset": "764_3.0_jpn_11581213_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the visor (A) from the holder (B) and rotate it 45°, making sure the hook (C) slides into the base cover (D) while rotating."
+    },
+    {
+      "type": "figure",
+      "asset": "764_3.0_jpn_11581214_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Lower the visor (A) and remove the pin (C) of the base cover (B) from the hole (D) in the body."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Sun visor holder removal"
+    },
+    {
+      "type": "figure",
+      "asset": "764_3.0_jpn_11581215_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn the holder (A) counterclockwise to remove it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Sun visor Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "764_3.0_jpn_11581216_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Vehicles equipped with side curtain airbags: If the side curtain airbags are deployed, replace them with new sun visors."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Vehicles equipped with side curtain airbags: If the side curtain airbags are not deployed, perform the following inspection and replace the applicable items, if any. If the visor holder is damaged, replace it with a new holder."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cracks in base of sun visor stay (A)"
+        },
+        {
+          "text": "Cracks in base of sun visor stay (A)"
+        },
+        {
+          "text": "Cracks in base cover section (B) of sun visor stay"
+        },
+        {
+          "text": "Cracks in base cover section (B) of sun visor stay"
+        },
+        {
+          "text": "Bent or cracked shaft section (C) of visor stay"
+        },
+        {
+          "text": "Bent or cracked shaft section (C) of visor stay"
+        },
+        {
+          "text": "Sun visor (D) substrate damaged or cracked"
+        },
+        {
+          "text": "Sun visor (D) substrate damaged or cracked"
+        },
+        {
+          "text": "Sun visor vanity mirror (E) mounting area cracked"
+        },
+        {
+          "text": "Sun visor vanity mirror (E) mounting area cracked"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000764_jpn/web/html/R000764_jpn_Content.html",
+  "inOutline": true
+}

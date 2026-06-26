@@ -1,0 +1,55 @@
+{
+  "id": "T986115",
+  "title": "EPS warning light does not illuminate",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986115",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T001298",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "EPS warning light does not illuminate"
+    },
+    {
+      "type": "paragraph",
+      "text": "probable cause"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Failure Diagnosis by Symptom ​",
+          "refs": [
+            {
+              "id": "T001298",
+              "label": "Failure Diagnosis by Symptom",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986115_jpn/web/html/T986115_jpn_Content.html",
+  "inOutline": true
+}

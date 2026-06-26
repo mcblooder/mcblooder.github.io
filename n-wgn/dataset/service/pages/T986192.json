@@ -1,0 +1,55 @@
+{
+  "id": "T986192",
+  "title": "Engine starts but stops within 2 seconds (PGM-FI warning light operates normally) Immobilizer indicator light flashes",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "PGM-FI System",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986192",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T001391",
+      "label": "Honda Smart Key System Check",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Engine starts but stops within 2 seconds (PGM-FI warning light operates normally) Immobilizer indicator light flashes"
+    },
+    {
+      "type": "paragraph",
+      "text": "checklist"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Honda Smart Key System Check",
+          "refs": [
+            {
+              "id": "T001391",
+              "label": "Honda Smart Key System Check",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986192_jpn/web/html/T986192_jpn_Content.html",
+  "inOutline": true
+}

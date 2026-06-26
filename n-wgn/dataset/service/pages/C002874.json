@@ -1,0 +1,70 @@
+{
+  "id": "C002874",
+  "title": "Auto Air Conditioner Structure Description - Plasmacluster Generator",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002874",
+  "assets": [
+    "2874_3.0_jpn_11390471_2.0_disp.png",
+    "2874_3.0_jpn_11390472_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Auto Air Conditioner Structure Description - Plasmacluster Generator"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Plasma cluster generator (for vehicles equipped with plasma cluster air conditioner)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The plasmacluster generator operates in conjunction with the blower motor ON. During operation, the plasmacluster symbol lights up on the auto A/C control unit."
+    },
+    {
+      "type": "figure",
+      "asset": "2874_3.0_jpn_11390471_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Plasma Cluster - Principle of Generation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Plasmacluster generators produce positive (H+) and negative (O2-) ions, which are the same as those found in the natural world, by plasma discharge and release them into the air. The discharged ions adhere to the surface of mold fungi and airborne bacteria and change into OH radicals with extremely strong oxidizing power, which instantly extract hydrogen (H) from the surface proteins and decompose the proteins. The extracted hydrogen (H) and OH radicals combine to form water (H2O), which returns to the air."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "This product is equipped with plasma cluster technology from Sharp Corporation."
+        },
+        {
+          "text": "Plasmacluster mark and Plasmacluster are trademarks of Sharp Corporation."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2874_3.0_jpn_11390472_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002874_jpn/web/html/C002874_jpn_Content.html",
+  "inOutline": true
+}

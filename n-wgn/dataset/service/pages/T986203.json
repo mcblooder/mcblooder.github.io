@@ -1,0 +1,70 @@
+{
+  "id": "T986203",
+  "title": "afterfire",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "NA Backfire",
+  "subtitle": "",
+  "dgName": "PGM-FI System",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986203",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R002132",
+      "label": "Worn intake or exhaust valves",
+      "resolved": true
+    },
+    {
+      "id": "R000367",
+      "label": "Valve timing, ignition timing failure",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Backfire, afterfire"
+    },
+    {
+      "type": "paragraph",
+      "text": "checklist"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Worn intake or exhaust valves",
+          "refs": [
+            {
+              "id": "R002132",
+              "label": "Worn intake or exhaust valves",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Valve timing, ignition timing failure",
+          "refs": [
+            {
+              "id": "R000367",
+              "label": "Valve timing, ignition timing failure",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986203_jpn/web/html/T986203_jpn_Content.html",
+  "inOutline": true
+}

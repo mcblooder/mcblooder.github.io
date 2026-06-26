@@ -1,0 +1,90 @@
+{
+  "id": "R000504",
+  "title": "Removing and installing canisters",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Emission Control Equipment",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000504",
+  "assets": [
+    "504_3.0_jpn_11582658_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Up",
+      "resolved": true
+    },
+    {
+      "id": "R000506",
+      "label": "2-way valve removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removing and installing canisters"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Up",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Up",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Canister removal"
+    },
+    {
+      "type": "figure",
+      "asset": "504_3.0_jpn_11582658_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the tube (A). Remove the canister (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. 2-way valve removal",
+      "refs": [
+        {
+          "id": "R000506",
+          "label": "2-way valve removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000504_jpn/web/html/R000504_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,226 @@
+{
+  "id": "A000075",
+  "title": "DTC Commentary: P1683",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000075",
+  "assets": [
+    "75_3.0_jpn_11033588_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Commentary: P1683"
+    },
+    {
+      "type": "dtc",
+      "code": "P1683",
+      "text": "DTC P1683: Throttle actuator default Spring failure"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "75_3.0_jpn_11033588_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The DBW system opens and closes the throttle valve under electronic control. The system consists of a throttle actuator built into the throttle body, throttle valve and throttle position sensor 1/2, accelerator pedal position sensor 1/2, DBW relay, and PGM-FI ECU. The throttle valve default spring is attached to the throttle valve gear and is provided to force the throttle valve open in the event of a DBW system failure to ensure minimum driveability. After driving the throttle actuator to the fully closed position, if the throttle valve does not reach the target opening position when the throttle actuator is driven to the target opening position while the current is limited, the PGM-FI ECU judges that the throttle valve default spring has failed and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "Once during D/C"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "At least 2.5 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1D/C (single detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Engine coolant temperature [Water temperature sensor]"
+          },
+          {
+            "text": "70℃"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "12V battery voltage [battery voltage]"
+          },
+          {
+            "text": "6.0V"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Ignition switch/ ENGINE START STOP switch"
+          },
+          {
+            "text": "Ignition OFF (LOCK) mode",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "P0117､ P0118､ P0122､ P0123､ P0222､ P0223､ P2101､ P2118､ P2122､ P2123､ P2127､ P2128､ P2135､ P2138､ P2176",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "Throttle valve fully closed position is 5° or more, or fully closed position is 3° or less for more than 2.5 seconds."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Throttle Valve Default Spring Failure"
+        },
+        {
+          "text": "Increased throttle valve friction"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Start the engine, run the radiator fan twice, and then warm up the engine for at least 2 minutes at 3,000 rpm with no load."
+        },
+        {
+          "text": "Turn the ignition to the OFF (LOCK) mode and wait for about 10 seconds."
+        },
+        {
+          "text": "Turn ignition to ON mode."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "None."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to be faulty, the PGM-FI warning light comes on and the temporary DTC, DTC and freeze data are stored in the PGM-FI ECU memory."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000075_jpn/web/html/A000075_jpn_Content.html",
+  "inOutline": true
+}

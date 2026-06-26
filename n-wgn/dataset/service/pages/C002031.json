@@ -1,0 +1,43 @@
+{
+  "id": "C002031",
+  "title": "Network Communication Structure Description - Communication Functions in Fault Diagnosis",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Network Communication",
+  "system": "Body Communication",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002031",
+  "assets": [
+    "2031_3.0_jpn_11242836_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Network Communication Structure Description - Communication Functions in Fault Diagnosis"
+    },
+    {
+      "type": "paragraph",
+      "text": "K-LINE is a communication circuit using UART (Universal Asynchronous Receiver-Transmitter), and its communication speed is 10.4 kbps. K-LINE is a communication circuit using UART (Universal Asynchronous Receiver-Transmitter) with a communication speed of 10.4 kbps."
+    },
+    {
+      "type": "paragraph",
+      "text": "The combination meter also has the function of displaying body system DTCs, which are displayed when the combination meter receives a SCS terminal short signal via F-CAN or a MICU service check coupler ON signal via B-CAN. At this time, the combination meter reads the self-diagnostic results from each control unit via B-CAN and displays the DTCs."
+    },
+    {
+      "type": "figure",
+      "asset": "2031_3.0_jpn_11242836_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002031_jpn/web/html/C002031_jpn_Content.html",
+  "inOutline": true
+}

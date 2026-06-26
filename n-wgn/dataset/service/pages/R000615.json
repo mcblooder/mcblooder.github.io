@@ -1,0 +1,139 @@
+{
+  "id": "R000615",
+  "title": "Propeller Shaft Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000615",
+  "assets": [
+    "615_3.0_jpn_11336532_2.0_disp.png",
+    "615_3.0_jpn_11336533_2.0_disp.png",
+    "615_3.0_jpn_11336534_2.0_disp.png",
+    "615_3.0_jpn_11336535_2.0_disp.png",
+    "615_3.0_jpn_11336536_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Propeller Shaft Removal and Installation"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The joint part of the center bearing support should not be at an unreasonable angle."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. No.1 Propeller shaft protector removal"
+    },
+    {
+      "type": "figure",
+      "asset": "615_3.0_jpn_11336532_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove No. 1 propeller shaft protector (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. No.2 Propeller shaft protector removal"
+    },
+    {
+      "type": "figure",
+      "asset": "615_3.0_jpn_11336533_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the No. 2 propeller shaft protector (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. No. 1 propeller shaft removal"
+    },
+    {
+      "type": "figure",
+      "asset": "615_3.0_jpn_11336534_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "No. 1 Propeller Mark (C) the connection between the shaft (A) and the transfer (B). Remove the bolt (D) and disconnect the No. 1 propeller shaft from the transfer."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. No.2 propeller shaft removal"
+    },
+    {
+      "type": "figure",
+      "asset": "615_3.0_jpn_11336535_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Align mark (C) at the connection between No.2 propeller shaft (A) and rear differential (B). Remove the four bolts (D) and disconnect the No. 2 propeller shaft from the rear differential."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Center bearing support removal"
+    },
+    {
+      "type": "figure",
+      "asset": "615_3.0_jpn_11336536_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the bolt (A) and remove the center bearing support (B). Remove the propeller shaft (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000615_jpn/web/html/R000615_jpn_Content.html",
+  "inOutline": true
+}

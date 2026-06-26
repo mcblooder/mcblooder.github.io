@@ -1,0 +1,47 @@
+{
+  "id": "C002036",
+  "title": "Headlight Leveling System Structure Description - Components - Auto Leveling System",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Headlight Leveling System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002036",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Headlight Leveling System Structure Description - Components - Auto Leveling System"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Headlight Leveling Motor"
+    },
+    {
+      "type": "paragraph",
+      "text": "A headlight leveling motor for driving the vertical optical axis of the headlight is installed at the rear of the headlight assembly."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Rear headlight leveling sensor"
+    },
+    {
+      "type": "paragraph",
+      "text": "Changes in front/rear vehicle height are detected by the movement of the suspension arm. The headlight leveling sensor uses a Hall IC sensor."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002036_jpn/web/html/C002036_jpn_Content.html",
+  "inOutline": true
+}

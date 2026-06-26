@@ -1,0 +1,166 @@
+{
+  "id": "A002145",
+  "title": "DTC Explanation: P0560",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A002145",
+  "assets": [
+    "2145_3.0_jpn_11394633_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0560"
+    },
+    {
+      "type": "dtc",
+      "code": "P0560",
+      "text": "DTC P0560: Backup memory power supply (VBUM) voltage low"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "2145_3.0_jpn_11394633_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI ECU is supplied with power from the +B DBW terminal at all times (even after ignition OFF (LOCK) mode) for backup retention. +B If the DBW terminal voltage remains below the specified value for more than the specified time, the PGM-FI ECU judges a failure and stores a DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "（Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "More than 5 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1D/C (single detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Ignition switch/ ENGINE START STOP switch"
+          },
+          {
+            "text": "Ignition ON mode"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "+B DBW pin voltage is 6.0V or higher for more than 5 seconds."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Failure of cord between PGM-FI ECU and 12V battery (+B DBW line)"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to be faulty, the PGM-FI warning light comes on and the temporary DTC, DTC and freeze data are stored in the PGM-FI ECU memory."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A002145_jpn/web/html/A002145_jpn_Content.html",
+  "inOutline": true
+}

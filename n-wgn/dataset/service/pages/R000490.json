@@ -1,0 +1,166 @@
+{
+  "id": "R000490",
+  "title": "Fuel filler pipe removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Fuel supply equipment",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000490",
+  "assets": [
+    "490_3.0_jpn_11582629_3.0_disp.png",
+    "490_3.0_jpn_11582630_3.0_disp.png",
+    "490_3.0_jpn_11582631_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000476",
+      "label": "Fuel Extraction",
+      "resolved": true
+    },
+    {
+      "id": "G000319",
+      "label": "Lift Up",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Left rear wheel removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuel filler pipe removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Fire is strictly prohibited. ​",
+        "Removal should be performed with the engine stopped and the battery (-) terminal disconnected. ​"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Fuel filler cap removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the fuel filler cap and relieve the pressure in the fuel tank."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Fuel Extraction",
+      "refs": [
+        {
+          "id": "R000476",
+          "label": "Fuel Extraction",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Always drain at least half of the gasoline before starting work."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Lift Up",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Up",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Left rear wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Left rear wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Remove parking brake cable fixing clamp bolt."
+    },
+    {
+      "type": "figure",
+      "asset": "490_3.0_jpn_11582629_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the parking brake cable retaining clamp bolt and free the parking brake cable (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Fuel filler tube, breather tube Disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "490_3.0_jpn_11582630_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the fuel filler tube (A) and breather tube (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Fuel filler pipe removal"
+    },
+    {
+      "type": "figure",
+      "asset": "490_3.0_jpn_11582631_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the fuel filler pipe (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When connecting the fuel filler tube and breather tube, pay attention to the direction and position of the clamps."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000490_jpn/web/html/R000490_jpn_Content.html",
+  "inOutline": true
+}

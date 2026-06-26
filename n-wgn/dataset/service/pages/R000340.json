@@ -1,0 +1,230 @@
+{
+  "id": "R000340",
+  "title": "Starter removal and inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "starter",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000340",
+  "assets": [
+    "340_5.0_jpn_11583113_5.0_disp.png",
+    "340_5.0_jpn_11583114_5.0_disp.png",
+    "340_5.0_jpn_11583115_5.0_disp.png",
+    "340_5.0_jpn_11583116_5.0_disp.png",
+    "340_5.0_jpn_11583117_5.0_disp.png",
+    "340_5.0_jpn_11583118_5.0_disp.png",
+    "340_5.0_jpn_11583119_5.0_disp.png",
+    "340_5.0_jpn_11583120_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000910",
+      "label": "12V battery Negative (-) terminal Disconnect",
+      "resolved": true
+    },
+    {
+      "id": "G000319",
+      "label": "Lift Up",
+      "resolved": true
+    },
+    {
+      "id": "R000849",
+      "label": "Right side front splash guard removal (4WD model)",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Starter removal and inspection"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When the starter motor is replaced, starter cut relay 1, starter cut relay 2 and oil pressure SW must be replaced at the same time."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Negative (-) terminal Disconnect",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Negative (-) terminal Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Lift Up",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Up",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Right side front splash guard removal (4WD model)",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Right side front splash guard removal (4WD model)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Harness stay removal"
+    },
+    {
+      "type": "figure",
+      "asset": "340_5.0_jpn_11583113_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Starter cable/S-terminal coupler/knock sensor coupler Disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "340_5.0_jpn_11583114_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the starter cable (A). Disconnect the coupler (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Starter removal"
+    },
+    {
+      "type": "figure",
+      "asset": "340_5.0_jpn_11583115_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the starter. (2WD vehicles)"
+    },
+    {
+      "type": "figure",
+      "asset": "340_5.0_jpn_11583116_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the starter and pull it out from the right wheel house side. (4WD vehicles)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure. When installing the starter cable, install it so that the caulking part of the terminal faces the nut side."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Idling Stop Stopper Starter Start Count Clear (when starter motor is replaced)"
+    },
+    {
+      "type": "figure",
+      "asset": "340_5.0_jpn_11583117_5.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the starter motor is replaced, this operation must be performed.",
+        "When the starter motor is replaced, starter cut relay 1, starter cut relay 2 and oil pressure SW must be replaced at the same time."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect HDS to the data link coupler (A) on the left side of the driver's seat."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Thick lead wires shall be used for inspection leads. (Equivalent to or greater than the wiring of the actual vehicle)",
+        "In each inspection, do not continuously energize the unit for more than 5 seconds.",
+        "Fixing the starter with a vise or other means."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Use a fully charged 12V battery."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Starter Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "340_5.0_jpn_11583118_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "When the starter and 12V battery are connected as shown in the figure, if there is continuity between terminal B and the body, it is normal."
+    },
+    {
+      "type": "figure",
+      "asset": "340_5.0_jpn_11583119_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Pull-in It is normal if there is no continuity between terminal B and the body when the body wiring is removed from the coil pull-in test condition."
+    },
+    {
+      "type": "figure",
+      "asset": "340_5.0_jpn_11583120_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect starter and 12V battery as shown. Check that the drive gear flies out while rotating, and if the current is within the range of standard values, it is normal. Read the ammeter reading where the display is stable."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Current: 1.5V"
+          },
+          {
+            "text": "60A or less"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000340_jpn/web/html/R000340_jpn_Content.html",
+  "inOutline": true
+}

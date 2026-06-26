@@ -1,0 +1,45 @@
+{
+  "id": "E002871",
+  "title": "Vehicle Stability Assist (VSA) System Schematic",
+  "category": "service",
+  "packageKind": "EWD",
+  "packageKindName": "Electrical Wiring (manual)",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/E002871",
+  "assets": [
+    "2871_5.0_jpn_11579903_6.0_disp.png",
+    "2871_5.0_jpn_11579904_6.0_disp.png",
+    "2871_5.0_jpn_11677736_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Vehicle Stability Assist (VSA) System Schematic"
+    },
+    {
+      "type": "figure",
+      "asset": "2871_5.0_jpn_11579903_6.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2871_5.0_jpn_11579904_6.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2871_5.0_jpn_11677736_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_EWD_20131205174154/Contents/jpn/60T6GD00_2014/EWD/SCT/SC/SYS/E002871_jpn/web/html/E002871_jpn_Content.html",
+  "inOutline": true
+}

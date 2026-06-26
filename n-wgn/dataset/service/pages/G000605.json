@@ -1,0 +1,305 @@
+{
+  "id": "G000605",
+  "title": "Drive shaft configuration diagram",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000605",
+  "assets": [
+    "605_3.0_jpn_11336527_2.0_disp.png",
+    "605_3.0_jpn_11336528_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000606",
+      "label": "R000606",
+      "resolved": true
+    },
+    {
+      "id": "R000607",
+      "label": "R000607",
+      "resolved": true
+    },
+    {
+      "id": "R000608",
+      "label": "R000608",
+      "resolved": true
+    },
+    {
+      "id": "R000609",
+      "label": "R000609",
+      "resolved": true
+    },
+    {
+      "id": "R000614",
+      "label": "R000614",
+      "resolved": true
+    },
+    {
+      "id": "R000615",
+      "label": "R000615",
+      "resolved": true
+    },
+    {
+      "id": "R000610",
+      "label": "R000610",
+      "resolved": true
+    },
+    {
+      "id": "R000611",
+      "label": "R000611",
+      "resolved": true
+    },
+    {
+      "id": "R000612",
+      "label": "R000612",
+      "resolved": true
+    },
+    {
+      "id": "R000613",
+      "label": "R000613",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Drive shaft configuration diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "605_3.0_jpn_11336527_2.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            469.0,
+            390.0,
+            491.0,
+            404.0
+          ],
+          "ref": {
+            "id": "R000606",
+            "label": "R000606",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            469.0,
+            404.0,
+            480.0,
+            413.0
+          ],
+          "ref": {
+            "id": "R000606",
+            "label": "R000606",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            469.0,
+            401.0,
+            491.0,
+            415.0
+          ],
+          "ref": {
+            "id": "R000607",
+            "label": "R000607",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            469.0,
+            411.0,
+            520.0,
+            425.0
+          ],
+          "ref": {
+            "id": "R000608",
+            "label": "R000608",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            152.0,
+            464.0,
+            174.0,
+            478.0
+          ],
+          "ref": {
+            "id": "R000609",
+            "label": "R000609",
+            "resolved": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "605_3.0_jpn_11336528_2.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            217.0,
+            479.0,
+            239.0,
+            493.0
+          ],
+          "ref": {
+            "id": "R000606",
+            "label": "R000606",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            217.0,
+            490.0,
+            239.0,
+            504.0
+          ],
+          "ref": {
+            "id": "R000607",
+            "label": "R000607",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            217.0,
+            500.0,
+            268.0,
+            514.0
+          ],
+          "ref": {
+            "id": "R000608",
+            "label": "R000608",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            415.0,
+            426.0,
+            437.0,
+            440.0
+          ],
+          "ref": {
+            "id": "R000614",
+            "label": "R000614",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            415.0,
+            437.0,
+            437.0,
+            451.0
+          ],
+          "ref": {
+            "id": "R000615",
+            "label": "R000615",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            52.0,
+            430.0,
+            74.0,
+            444.0
+          ],
+          "ref": {
+            "id": "R000610",
+            "label": "R000610",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            52.0,
+            441.0,
+            103.0,
+            455.0
+          ],
+          "ref": {
+            "id": "R000611",
+            "label": "R000611",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            517.0,
+            345.0,
+            539.0,
+            359.0
+          ],
+          "ref": {
+            "id": "R000606",
+            "label": "R000606",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            517.0,
+            356.0,
+            539.0,
+            370.0
+          ],
+          "ref": {
+            "id": "R000612",
+            "label": "R000612",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            517.0,
+            366.0,
+            568.0,
+            380.0
+          ],
+          "ref": {
+            "id": "R000613",
+            "label": "R000613",
+            "resolved": true
+          }
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000605_jpn/web/html/G000605_jpn_Content.html",
+  "inOutline": true
+}

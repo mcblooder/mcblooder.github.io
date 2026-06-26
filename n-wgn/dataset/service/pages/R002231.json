@@ -1,0 +1,113 @@
+{
+  "id": "R002231",
+  "title": "Headlight Leveling Motor Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Headlight Leveling System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002231",
+  "assets": [
+    "2231_3.0_jpn_11390493_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000964",
+      "label": "Headlight assembly removal",
+      "resolved": true
+    },
+    {
+      "id": "R000915",
+      "label": "Headlight initial position learning",
+      "resolved": true
+    },
+    {
+      "id": "R000963",
+      "label": "Headlight optical axis adjustment",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Headlight Leveling Motor Removal and Installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Headlight assembly removal",
+      "refs": [
+        {
+          "id": "R000964",
+          "label": "Headlight assembly removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Headlight leveling motor removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2231_3.0_jpn_11390493_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "L. Leveling Motor: Rotate the leveling motor (A) counterclockwise to remove it from the housing (B) and rotate the adjuster (C) counterclockwise to remove the motor shaft (D) from the headlight reflector. R. Leveling Motor: Rotate the leveling motor (A) clockwise to remove it from the housing (B) and rotate the adjuster (C) counterclockwise to remove the motor shaft (D) from the headlight reflector. Illustration shows the right side."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure. Headlight Leveling After the motor is removed and installed, learn the initial position of the headlight."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Check the operation after completing the study."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Headlight initial position learning",
+      "refs": [
+        {
+          "id": "R000915",
+          "label": "Headlight initial position learning",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Headlight optical axis adjustment",
+      "refs": [
+        {
+          "id": "R000963",
+          "label": "Headlight optical axis adjustment",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002231_jpn/web/html/R002231_jpn_Content.html",
+  "inOutline": true
+}

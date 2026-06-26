@@ -1,0 +1,93 @@
+{
+  "id": "R000660",
+  "title": "Ball joint removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "suspension",
+  "sectionCode": "B",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000660",
+  "assets": [
+    "660_3.0_jpn_11035686_3.0_disp.png",
+    "660_3.0_jpn_11035687_3.0_disp.png",
+    "660_3.0_jpn_11035688_3.0_disp.png",
+    "660_3.0_jpn_11035689_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Ball joint removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The special tool shall be securely attached and the ball joint shall be separated. If not installed securely, the ball pin or boot may be damaged, or it may come off when tightening, causing unexpected damage."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Ball joint removal should always be performed using a dedicated tool, and never strike the housing or any of its parts."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Ball joint removal"
+    },
+    {
+      "type": "figure",
+      "asset": "660_3.0_jpn_11035686_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Ball joint To protect the threaded end of the pin (A), a hex nut (B) is attached to the pin so that the pin end and nut end face are flush."
+    },
+    {
+      "type": "figure",
+      "asset": "660_3.0_jpn_11035687_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Apply grease to the areas shown in the figure to protect the pressure bolts of the special tool and to facilitate tool mounting."
+    },
+    {
+      "type": "figure",
+      "asset": "660_3.0_jpn_11035688_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Install the special tool as shown in the figure. Be careful not to damage the ball joint boot when inserting the jaws. Adjust the distance between the jaws by turning the adjusting bolt knob (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The special tool shall be hung by a string (B) to prevent it from falling off."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "660_3.0_jpn_11035689_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Turn the knobs (C) of the pressure bolt (A) and adjusting bolt (B) so that the upper and lower jaw sections (D) are parallel, then tighten the pressure bolt by hand and check that the jaws are parallel again. When adjusting the jaw section parallel, the knob of the adjusting bolt should be oriented as shown in the figure so that it becomes the fulcrum of the jaw section. Using a wrench, tighten the pressure bolt until the ball joint pin is out of the hole. If necessary, apply penetrating lubricant to the tapered portion of the ball joint pin. Remove the special tool and hexagon nut to disconnect the ball joint."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000660_jpn/web/html/R000660_jpn_Content.html",
+  "inOutline": true
+}

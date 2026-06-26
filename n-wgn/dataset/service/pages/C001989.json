@@ -1,0 +1,44 @@
+{
+  "id": "C001989",
+  "title": "Interior Light Structure Description - Overview",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Interior Lights",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001989",
+  "assets": [
+    "1989_3.0_jpn_11390953_2.0_disp.png",
+    "1989_3.0_jpn_11390954_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Interior Light Structure Description - Overview"
+    },
+    {
+      "type": "paragraph",
+      "text": "The vehicle is equipped with map lights, cargo area lights, and ambient lights as standard equipment. Each interior light is controlled by the MICU in conjunction with the door switches and keyless operation. The ambient light is controlled by the tail light relay."
+    },
+    {
+      "type": "figure",
+      "asset": "1989_3.0_jpn_11390953_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1989_3.0_jpn_11390954_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001989_jpn/web/html/C001989_jpn_Content.html",
+  "inOutline": true
+}

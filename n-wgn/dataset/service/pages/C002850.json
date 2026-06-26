@@ -1,0 +1,578 @@
+{
+  "id": "C002850",
+  "title": "Auto Air Conditioner Structure Description - Control Details",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002850",
+  "assets": [
+    "2850_3.0_jpn_11287666_3.0_disp.png",
+    "2850_3.0_jpn_11287667_3.0_disp.png",
+    "2850_3.0_jpn_11287668_3.0_disp.png",
+    "2850_3.0_jpn_11287670_3.0_disp.png",
+    "2850_3.0_jpn_11287673_3.0_disp.png",
+    "2850_3.0_jpn_11287674_3.0_disp.png",
+    "2850_3.0_jpn_11287675_3.0_disp.png",
+    "2850_3.0_jpn_11391003_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Auto Air Conditioner Structure Description - Control Details"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Control system block diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "2850_3.0_jpn_11391003_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Control details"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "ECON mode ON control"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Control of required blowing temperature, outlet, and air volume"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the desired set temperature, inside air temperature, outside air temperature, solar radiation, and other values are input to the auto A/C control unit, the auto A/C control unit determines the required blowout temperature. Based on the value of the required air blowing temperature, the unit determines the air outlet and airflow rate."
+    },
+    {
+      "type": "figure",
+      "asset": "2850_3.0_jpn_11287666_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Relationship between required blow-off temperature and actual temperature"
+    },
+    {
+      "type": "paragraph",
+      "text": "In order to quickly bring the difference between the indoor temperature and the set temperature closer, the auto A/C control unit calculates the required blowout temperature and controls the blowout temperature. When the indoor temperature approaches the set temperature, the required blowout temperature also approaches the set temperature."
+    },
+    {
+      "type": "figure",
+      "asset": "2850_3.0_jpn_11287667_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Airflow control"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Startup control and voltage variation"
+        },
+        {
+          "text": "The blower motor voltage is changed slowly at startup to improve the air flow feeling."
+        },
+        {
+          "text": "The blower motor voltage is changed slowly at startup to improve the air flow feeling."
+        },
+        {
+          "text": "Fan Switch voltage change control"
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2850_3.0_jpn_11287668_3.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Manual control"
+        },
+        {
+          "text": "Fan The airflow can be adjusted with the speed changeover switch, and the airflow varies according to the voltage of the blower motor."
+        },
+        {
+          "text": "Fan The airflow can be adjusted with the speed changeover switch, and the airflow varies according to the voltage of the blower motor."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Auto Control"
+        },
+        {
+          "text": "When the fan speed is set to AUTO, the blower motor voltage is controlled according to the target airflow calculated by the required outlet temperature to control the airflow in multiple steps."
+        },
+        {
+          "text": "When the fan speed is set to AUTO, the blower motor voltage is controlled according to the target airflow calculated by the required outlet temperature to control the airflow in multiple steps."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Warm-up control"
+        },
+        {
+          "text": "When heating, if the engine water temperature is low and the required warm air cannot be obtained, uncomfortable low-temperature air is suppressed from the air outlet, and the air volume is gradually increased as the water temperature rises."
+        },
+        {
+          "text": "When heating, if the engine water temperature is low and the required warm air cannot be obtained, uncomfortable low-temperature air is suppressed from the air outlet, and the air volume is gradually increased as the water temperature rises."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2850_3.0_jpn_11287670_3.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Solar radiation correction"
+        },
+        {
+          "text": "During cooling, when the fan speed is set to AUTO (except at maximum speed) and the air outlet is in the VENT or HEAT/VENT position, the blower motor voltage is increased and corrected according to the amount of solar radiation (solar radiation sensor)."
+        },
+        {
+          "text": "During cooling, when the fan speed is set to AUTO (except at maximum speed) and the air outlet is in the VENT or HEAT/VENT position, the blower motor voltage is increased and corrected according to the amount of solar radiation (solar radiation sensor)."
+        },
+        {
+          "text": "Vehicle speed and internal/external air correction"
+        },
+        {
+          "text": "When outside air is introduced and the air outlet is set to VENT or HEAT/VENT, the blower motor voltage is controlled to maintain a constant air flow rate (except during MAX control) to prevent air flow rate increases due to vehicle speed and air flow rate differences between inside air circulation and outside air introduction."
+        },
+        {
+          "text": "When outside air is introduced and the air outlet is set to VENT or HEAT/VENT, the blower motor voltage is controlled to maintain a constant air flow rate (except during MAX control) to prevent air flow rate increases due to vehicle speed and air flow rate differences between inside air circulation and outside air introduction."
+        },
+        {
+          "text": "ECON Control"
+        },
+        {
+          "text": "The operating terminal voltage of the blower motor is controlled to be lower than the normal control in order to reduce the air flow rate for power-saving operation."
+        },
+        {
+          "text": "The operating terminal voltage of the blower motor is controlled to be lower than the normal control in order to reduce the air flow rate for power-saving operation."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Inlet control"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Manual control"
+        },
+        {
+          "text": "There are two positions, inside air circulation and outside air introduction, which can be switched by the inside air circulation switch or the outside air introduction switch."
+        },
+        {
+          "text": "There are two positions, inside air circulation and outside air introduction, which can be switched by the inside air circulation switch or the outside air introduction switch."
+        },
+        {
+          "text": "Auto Control"
+        },
+        {
+          "text": "Automatically switches between outside air introduction and inside air circulation according to the required blowout temperature, vehicle speed, and outside air temperature."
+        },
+        {
+          "text": "Automatically switches between outside air introduction and inside air circulation according to the required blowout temperature, vehicle speed, and outside air temperature."
+        },
+        {
+          "text": "Inlet DEF control"
+        },
+        {
+          "text": "When the MODE setting is set to DEF, the system switches to outside air intake to ensure fogging performance."
+        },
+        {
+          "text": "When the MODE setting is set to DEF, the system switches to outside air intake to ensure fogging performance."
+        },
+        {
+          "text": "ECON mode ON control"
+        },
+        {
+          "text": "When outside air is introduced, the system switches to internal air circulation regardless of whether it is operated automatically or manually."
+        },
+        {
+          "text": "When outside air is introduced, the system switches to internal air circulation regardless of whether it is operated automatically or manually."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Outlet control"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Manual control"
+        },
+        {
+          "text": "The MODE switch and defroster switch allow switching to 5 positions: VENT, HEAT/VENT, HEAT, HEAT/DEF, and DEF."
+        },
+        {
+          "text": "The MODE switch and defroster switch allow switching to 5 positions: VENT, HEAT/VENT, HEAT, HEAT/DEF, and DEF."
+        },
+        {
+          "text": "Auto Control"
+        },
+        {
+          "text": "The air outlet is switched as follows according to the required blowout temperature and outdoor air temperature."
+        },
+        {
+          "text": "The air outlet is switched as follows according to the required blowout temperature and outdoor air temperature."
+        },
+        {
+          "text": "During HEAT and HEAT/DEF, it switches as follows depending on the outside air temperature."
+        },
+        {
+          "text": "During HEAT and HEAT/DEF, it switches as follows depending on the outside air temperature."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Water temperature compensation"
+        },
+        {
+          "text": "When the water temperature is low, the air outlet is DEF; as the water temperature rises, the air outlet switches in the order of HEAT/DEF and HEAT."
+        },
+        {
+          "text": "When the water temperature is low, the air outlet is DEF; as the water temperature rises, the air outlet switches in the order of HEAT/DEF and HEAT."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "A/C Control"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Manual control"
+        },
+        {
+          "text": "When the A/C switch is turned ON, the A/C system is turned ON and the compressor is controlled ON/OFF to prevent the evaporator from freezing according to the evaporator sensor value."
+        },
+        {
+          "text": "When the A/C switch is turned ON, the A/C system is turned ON and the compressor is controlled ON/OFF to prevent the evaporator from freezing according to the evaporator sensor value."
+        },
+        {
+          "text": "DEF-linked control"
+        },
+        {
+          "text": "When the defroster switch is pressed, the A/C system turns on, switches to outside air intake, and enters dehumidification mode to ensure fogging performance."
+        },
+        {
+          "text": "When the defroster switch is pressed, the A/C system turns on, switches to outside air intake, and enters dehumidification mode to ensure fogging performance."
+        },
+        {
+          "text": "Auto Control"
+        },
+        {
+          "text": "Even when the A/C system is on, the compressor is controlled on/off according to the evaporator sensor value to prevent the evaporator from freezing."
+        },
+        {
+          "text": "Even when the A/C system is on, the compressor is controlled on/off according to the evaporator sensor value to prevent the evaporator from freezing."
+        },
+        {
+          "text": "Automatically controls compressor ON/OFF according to required blowing temperature, outside air temperature, inside air temperature, and humidity."
+        },
+        {
+          "text": "ACS Control"
+        },
+        {
+          "text": "When the A/C system is turned on, the ACS ON/OFF signal is output according to the temperature value of the evaporator sensor to control the compressor ON/OFF."
+        },
+        {
+          "text": "When the A/C system is turned on, the ACS ON/OFF signal is output according to the temperature value of the evaporator sensor to control the compressor ON/OFF."
+        },
+        {
+          "text": "When ECON mode is ON, the temperature value of the evaporator sensor at the OFF point of the ACS output is increased according to the internal air temperature, and the compressor operation time is shortened for power-saving control."
+        },
+        {
+          "text": "When ECON mode is ON, the temperature value of the evaporator sensor at the OFF point of the ACS output is increased according to the internal air temperature, and the compressor operation time is shortened for power-saving control."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2850_3.0_jpn_11287673_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Rear DEF control"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Rear defroster/mirror heater Each time the switch is pressed, the rear defroster relay is turned on or off."
+        },
+        {
+          "text": "In ignition ON mode, start with the rear defroster OFF."
+        },
+        {
+          "text": "Rear defroster/mirror heater Switch ON activates the timer in the auto A/C control unit and turns off the rear defroster relay after the operating time corresponding to the outside air temperature has elapsed."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "MAX control"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the set temperature is set to MAX COOL or MAX HOT while the MODE setting is AUTO and the fan speed is AUTO, control is performed according to the sensor value for those operating under auto control."
+        },
+        {
+          "text": "At MAX COOL, the system provides maximum cooling with internal air circulation, vent position blowout, blower motor at maximum rotation, air mix damper fully closed, and A/C system ON."
+        },
+        {
+          "text": "At MAX HOT, outside air is introduced, blower motor rotates at maximum, air mix damper is fully opened, and A/C system is ON. The air outlet is controlled by selecting either HEAT or HEAT/DEF mode according to each sensor value."
+        },
+        {
+          "text": "When the temperature setting is reset to a temperature other than MAX COOL or MAX HOT, the system returns to the state before the MAX control."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Humidity control"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comparing indoor humidity and outdoor air temperature, the temperature at which the compressor is turned on is increased to improve fuel efficiency in areas with low humidity and low temperatures where the windows do not fog up."
+    },
+    {
+      "type": "figure",
+      "asset": "2850_3.0_jpn_11287674_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "ECON mode ON control"
+    },
+    {
+      "type": "paragraph",
+      "text": "The auto A/C control unit performs the following controls to reduce power consumption when the outside air temperature is above 23°C and the ECON mode is on."
+    },
+    {
+      "type": "paragraph",
+      "text": "Switching to the internal air circulation mode circulates air inside the cabin to reduce power consumption by reducing the frequency of compressor operation and air flow rate of the blower motor compared to when outside air is introduced."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compared to the normal mode, the required blowout temperature during cooling is slightly increased to shorten the compressor operation time and reduce power consumption."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compared to the normal mode, the blower fan motor operating voltage is suppressed to reduce power consumption."
+    },
+    {
+      "type": "figure",
+      "asset": "2850_3.0_jpn_11287675_3.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When the temperature setting is set to MAX COOL or MAX HOT"
+        },
+        {
+          "text": "When the ambient air temperature is below 23°C"
+        },
+        {
+          "text": "When A/C is OFF"
+        },
+        {
+          "text": "When a mode position other than VENT or HEAT/VENT is selected"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When the temperature setting is set to MAX COOL or MAX HOT"
+        },
+        {
+          "text": "When the ambient air temperature is below 23°C"
+        },
+        {
+          "text": "When FRESH mode is selected in manual operation"
+        },
+        {
+          "text": "When DEF or HEAT/DEF is selected in manual operation"
+        },
+        {
+          "text": "When a mode position other than VENT or HEAT/VENT is selected"
+        },
+        {
+          "text": "When A/C is turned off"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Idle stop control"
+    },
+    {
+      "type": "paragraph",
+      "text": "The auto A/C control unit calculates the possible idle stop time when the vehicle is stopped based on signals from various sensors, taking into account interior comfort and safety."
+    },
+    {
+      "type": "paragraph",
+      "text": "The idle stop time is defined as the time during which occupants do not feel any sudden change in the cabin temperature under stable air conditioning performance."
+    },
+    {
+      "type": "paragraph",
+      "text": "The idle stop time is calculated differently depending on whether the ECON mode is ON or OFF: in ECON mode ON, only safety (window fogging prevention) is considered, while in ECON mode OFF, interior comfort is also considered. Therefore, when ECON mode is ON, it is possible to take a longer idle stop time than when ECON mode is OFF, enabling higher practical fuel economy."
+    },
+    {
+      "type": "paragraph",
+      "text": "If window fogging occurs during idle stop, the engine can be restarted by pressing the defroster switch to remove the window fogging."
+    },
+    {
+      "type": "paragraph",
+      "text": "The auto A/C control unit calculates the upper (or lower) limit of cabin temperature at which comfort can be maintained during idle stop when ECON mode is OFF, so that the cabin temperature and feeling do not fluctuate rapidly outside the air conditioner stability range (evaporator temperature, engine coolant temperature, cabin temperature, etc.). The time required to reach the upper or lower limit is defined as the idle stop time."
+    },
+    {
+      "type": "paragraph",
+      "text": "When ECON mode is turned on, the idle stop control is prioritized without judging the interior comfort."
+    },
+    {
+      "type": "paragraph",
+      "text": "The auto A/C control unit uses various sensors to estimate the temperature near the window glass based on the outside air temperature, vehicle speed, and interior temperature to determine the window fogging judgment line, and then determines whether the window is ''likely to fog'' or ''not likely to fog. The auto A/C control unit determines the window fogging judgment line based on the outside temperature, vehicle speed, and interior temperature, and calculates the idle stop possible time."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "List of Idle Stop Ban Conditions"
+    },
+    {
+      "type": "paragraph",
+      "text": "If any of the following conditions are met, the auto A/C control unit will prohibit idle stop. Note that idle stop is always permitted when the blower fan is not in operation (system off)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "When the idle stop time calculated by the auto A/C control unit is less than 10 seconds"
+          }
+        ],
+        [
+          {
+            "text": "When the outside air temperature exceeds 40°C (104°F)"
+          }
+        ],
+        [
+          {
+            "text": "When the outside air temperature is lower than -20°C"
+          }
+        ],
+        [
+          {
+            "text": "When DEF is selected in manual operation"
+          }
+        ],
+        [
+          {
+            "text": "In case of outside temperature sensor failure"
+          }
+        ],
+        [
+          {
+            "text": "In case of internal air temperature sensor failure"
+          }
+        ],
+        [
+          {
+            "text": "In case of solar radiation sensor failure"
+          }
+        ],
+        [
+          {
+            "text": "Evaporator In case of sensor failure"
+          }
+        ],
+        [
+          {
+            "text": "When water temperature frames cannot be received from the meter"
+          }
+        ],
+        [
+          {
+            "text": "When VSP/NE frames from the meter cannot be received"
+          }
+        ],
+        [
+          {
+            "text": "Auto A/C control unit failure"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002850_jpn/web/html/C002850_jpn_Content.html",
+  "inOutline": true
+}

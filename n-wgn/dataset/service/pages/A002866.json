@@ -1,0 +1,2706 @@
+{
+  "id": "A002866",
+  "title": "DTC Explanation: VSA",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "VSA Control Unit",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A002866",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: VSA"
+    },
+    {
+      "type": "dtc",
+      "code": "",
+      "text": "VSA System"
+    },
+    {
+      "type": "paragraph",
+      "text": "knowledge"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Initial Diagnosis: Self-diagnosis performed after the ABS or VSA warning light comes on with the ignition in the ON mode and before the engine is started and the ABS or VSA warning light goes out."
+        },
+        {
+          "text": "Permanent Diagnostics: Self-diagnostics that continue from the time the ABS or VSA warning light goes off until the ignition is turned to the OFF (LOCK) mode."
+        },
+        {
+          "text": "When performing diagnostics, be sure to check the \"Troubleshooting Procedure\" and follow the troubleshooting procedure."
+        },
+        {
+          "text": "When conducting test drives, the driver must comply with all laws and regulations, observe good manners, and drive in accordance with the surrounding conditions."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Turn ignition to ON mode. 2. Step on the brake pedal several times."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "City Brake Active System deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Ground fault in cord (BRK LAMP line) between VSA modulator control unit and brake light relay Brake light relay failure VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Turn ignition to ON mode. 2. Step on the brake pedal several times."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "City Brake Active System deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection of cord (STOP SW line) between brake switch and brake light relay Disconnection of cord (STOP LT line) between VSA modulator control unit and brake light relay Disconnection of the cord (BRK LAMP line) between the VSA modulator control unit and the brake light relay Brake light relay failure VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 8.5V or higher Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 30 km/h for at least 30 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 20 seconds (depending on vehicle speed)"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on (when multiple wheels fail) ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Front left wheel bearing Encoder part dirty Front left wheel bearing failure (encoder section) VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 8.5V or higher Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 30 km/h for at least 2 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on (when multiple wheels fail) ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA modulator Cord break, ground fault, short circuit between wires, and sky fault between control unit and front left wheel sensor (FR L ABS SNSR+, FR L ABS SNSR- lines) Front left wheel sensor failure VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 8.5V or higher Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 30 km/h for at least 60 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 60 sec."
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on (when multiple wheels fail) ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA modulator Short circuit between wires in cord between control unit and front left wheel sensor (FR R ABS SNSR-, FR L ABS SNSR-, RR R ABS SNSR-, RR L ABS SNSR- lines) Front left wheel sensor mounting faulty Front left wheel bearing abnormal (encoder part) Front left wheel sensor failure VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 8.5V or higher Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 30 km/h for at least 30 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 20 seconds (depending on vehicle speed)"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on (when multiple wheels fail) ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Front right wheel bearing Encoder part dirty Front right wheel bearing failure (encoder section) VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 8.5V or higher Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 30 km/h for at least 2 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on (when multiple wheels fail) ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA modulator Cord break, ground fault, short circuit between wires, and sky fault between control unit and front right wheel sensor (FR R ABS SNSR+, FR R ABS SNSR- lines) Front right wheel sensor failure VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 8.5V or higher Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 30 km/h for at least 60 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 60 sec."
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on (when multiple wheels fail) ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA modulator Short circuit between wires in cord between control unit and front right wheel sensor (FR R ABS SNSR-, FR L ABS SNSR-, RR R ABS SNSR-, RR L ABS SNSR- lines) Front right wheel sensor mounting faulty Front right wheel bearing abnormal (encoder part) Front right wheel sensor failure VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 8.5V or higher Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 30 km/h for at least 30 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 20 seconds (depending on vehicle speed)"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on (when multiple wheels fail) ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Rear left wheel bearing Encoder stained Rear left wheel bearing failure (encoder section) VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 8.5V or higher Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 30 km/h for at least 2 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on (when multiple wheels fail) ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA modulator Cord break, ground fault, short circuit between wires, and sky fault (RR L ABS SNSR+, RR L ABS SNSR- lines) between control unit and rear left wheel sensor Rear left wheel sensor failure VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 8.5V or higher Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 30 km/h for at least 60 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 60 sec."
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on (when multiple wheels fail) ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA modulator Short circuit between wires in cord between control unit and rear left wheel sensor (FR R ABS SNSR-, FR L ABS SNSR-, RR R ABS SNSR-, RR L ABS SNSR- lines) Rear left wheel sensor mounting defect Rear left wheel bearing abnormal (encoder part) Rear left wheel sensor failure VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 8.5V or higher Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 30 km/h for at least 30 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 20 seconds (depending on vehicle speed)"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on (when multiple wheels fail) ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Rear right wheel bearing Encoder part dirty Rear right wheel bearing failure (encoder section) VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 8.5V or higher Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 30 km/h for at least 2 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on (when multiple wheels fail) ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA modulator Cord break, ground fault, short circuit between wires, and sky fault between control unit and rear right wheel sensor (RR R ABS SNSR+, RR R ABS SNSR- lines) Rear right wheel sensor failure VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 8.5V or higher Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 30 km/h for at least 60 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 60 sec."
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on (when multiple wheels fail) ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA modulator Short circuit between wires in cord between control unit and rear right wheel sensor (FR R ABS SNSR-, FR L ABS SNSR-, RR R ABS SNSR-, RR L ABS SNSR- lines) Rear right wheel sensor mounting faulty Rear right wheel bearing abnormal (encoder part) Rear right wheel sensor failure VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. Other DTCs not detected Typical Methods:. 1. Start the engine. 2. Drive the vehicle at a speed of 20 km/h or more for at least 6 minutes. 3. Immediately accelerate to a speed of 40 km/h or more and step on the brake to stop the vehicle. (Pay close attention to the surrounding traffic conditions. 4. Repeat steps 2 and 3 three times."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "VSA function stopped TCS function stopped Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stop (depends on case)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Cord sky fault between brake switch and PGM-FI ECU (BKSW line) Defective brake switch height Brake switch failure PGM-FI ECU program is not up-to-date Internal circuit failure of PGM-FI ECU VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Turn ignition to ON mode and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 3 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "VSA function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stop (depends on case)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA modulator Internal circuit failure in control unit (pressure sensor)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Turn ignition to ON mode and wait at least 10 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 10 sec."
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "VSA function stopped TCS function stopped Hill start Assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Ground fault in cord between combination meter and brake fluid level switch (BRAKE LEVEL SW line) Low brake fluid level Combination Meter Failure VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 50 km/h or more for at least 10 seconds. (Pay close attention to the surrounding traffic conditions. 3. Steering wheel should be steered 45 to 90 degrees to the left to stabilize. 4. Steering wheel should be steered 45 to 90 degrees to the right to stabilize."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 5 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "VSA function stopped TCS function stopped EDC function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Failure of rudder angle sensor VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 50 km/h or more for at least 10 seconds. (Pay close attention to the surrounding traffic conditions. 3. Steering wheel should be steered 45 to 90 degrees to the left to stabilize. 4. Steering wheel should be steered 45 to 90 degrees to the right to stabilize."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 1 second"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "VSA function stopped TCS function stopped EDC function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Failure of rudder angle sensor VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Turn ignition to ON mode and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 5 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped*. VSA function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA modulator Internal circuit failure of control unit (lateral G sensor)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. Other DTCs not detected Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 50 km/h or more for at least 10 seconds. (Pay close attention to the surrounding traffic conditions. 3. Steering wheel should be steered 45 to 90 degrees to the left to stabilize. 4. Steering wheel should be steered 45 to 90 degrees to the right to stabilize."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 3 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "VSA function stopped TCS function stopped Engine Drag Control function deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA modulator Internal circuit failure of control unit (lateral G sensor)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. Other DTCs not detected Typical Methods:. 1. Start the engine. 2. Drive at a speed of 50 km/h or more and stop the vehicle by stepping on the brake pedal. (Pay close attention to the surrounding traffic conditions. 3. Repeat step 2 four times."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 3 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle ABS warning light: illuminated*. VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped*. VSA function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA modulator Internal circuit failure of control unit (front/rear G sensor)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Turn ignition to ON mode and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 5 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "VSA function stopped TCS function stopped Engine Drag Control function deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA modulator Internal circuit failure in the control unit (yaw rate sensor)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. Other DTCs not detected Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 50 km/h or more for at least 10 seconds. (Pay close attention to the surrounding traffic conditions. 3. Steering wheel should be steered 45 to 90 degrees to the left to stabilize. 4. Steering wheel should be steered 45 to 90 degrees to the right to stabilize."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 3 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "VSA function stopped TCS function stopped Engine Drag Control function deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA modulator Internal circuit failure in the control unit (yaw rate sensor)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 50 km/h or more for 30 seconds or more."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 30 sec."
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "VSA function stopped TCS function stopped Hill start Assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage greater than 9V Typical Methods:. 1. Start the engine and wait for 5 seconds. 2. The vehicle runs at a speed of 15 km/h or more for at least 20 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA modulator Disconnection of cord between control unit and relay box, ground fault (+B ABS/VSA MTR line) Disconnection of cord between VSA modulator control unit and body ground (GND ABS line) Blown fuse (relay box No. A3-1 (40A)) VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 60 km/h or more for at least 3 seconds. 3. Perform a test run. (Shift position R) (Pay close attention to the surrounding traffic conditions. 4. Repeat steps 2 and 3 twice."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 3 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "Hill start Assist function deactivated Creep Aid function deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Backlight switch failure VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 30 km/h or more for at least 60 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 60 sec."
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "Hill start Assist function deactivated Creep Aid function deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Internal failure of shift position sensor (neutral switch) VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Turn ignition to ON mode and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "VSA function stopped TCS function stopped Hill start Assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA modulator Cord breakage between control unit and other control units, short circuit between lines (F-CAN_H, F-CAN_L lines) VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit Unit internal circuit failure on other F-CAN"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine. 2. The vehicle runs at a speed of 10 km/h or more for at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "VSA function stopped TCS function stopped Hill start Assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection of cords between VSA modulator control unit and PGM-FI ECU (PGM-FI system) (F-CAN_H and F-CAN_L lines) PGM-FI ECU program is not up-to-date Internal circuit failure of PGM-FI ECU (PGM-FI system) VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "VSA function stopped TCS function stopped Hill start Assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection of cords between VSA modulator control unit and PGM-FI ECU (CVT system) (F-CAN_H and F-CAN_L lines) PGM-FI ECU program is not up-to-date Internal circuit failure of PGM-FI ECU (CVT system) VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "VSA function stopped TCS function stopped Hill start Assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Disconnection of cord between VSA modulator control unit and rudder angle sensor (F-CAN_H, F-CAN_L lines) Internal circuit failure of rudder angle sensor VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "VSA function stopped TCS function stopped Hill start Assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA modulator Cord breakage between control unit and combination meter (F-CAN_H, F-CAN_L lines) Combination Meter Failure VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Start the engine. 2. Perform a test run for at least 2 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 1 second"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "VSA function stopped TCS function stopped Hill start Assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "PGM-FI ECU program is not up-to-date Internal circuit failure of PGM-FI ECU (PGM-FI system) VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage of 10V or more Typical Methods:. 1. Start the engine and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "always-on diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "City Brake Active System deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Cord breakage between VSA modulator control unit and city brake active system radar/control unit (F-CAN_H and F-CAN_L lines) CITY BRAKE ACTIVE SYSTEM Internal circuit failure in radar/control unit VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Turn ignition to ON mode and wait at least 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 2 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red):Lights up (depends on case) ABS warning light: on (depends on case) VSA warning light: on (depends on case)"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped (depends on case) VSA function stopped EBD function stopped (depends on case) TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stop (depends on case)"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Turn ignition to ON mode and wait at least 2 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "-"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Creep Aid function deactivated Brake assist function deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Typical Methods:. 1. Turn ignition to ON mode and wait at least 2 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 1 second"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "VSA function stopped TCS function stopped Hill start Assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "VSA sensor midpoint unlearned VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10V or more Typical Methods:. 1. Start the engine and wait at least 15 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 10 sec."
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red):Lights up (depends on case) ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped (depends on case) TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "Poor contact of cord between VSA modulator control unit and relay box (+B ABS/VSA FSR line) Low 12V battery voltage VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Repeat test technique"
+          },
+          {
+            "text": "Common conditions:. 12V battery voltage 10V or more Typical Methods:. 1. Start the engine and wait at least 15 seconds."
+          }
+        ],
+        [
+          {
+            "text": "execution (e.g. program) timing"
+          },
+          {
+            "text": "Initial Diagnosis/Constant Diagnosis"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "Approx. 10 sec."
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1 drive cycle Brake warning light (red): on ABS warning light: on VSA warning light: on"
+          }
+        ],
+        [
+          {
+            "text": "fail safe action"
+          },
+          {
+            "text": "ABS function stopped VSA function stopped EBD function stopped TCS function stopped Hill start Assist function deactivated Brake assist function deactivated Creep Aid function deactivated Engine Drag Control function deactivated City Brake Active System deactivated EMERGENCY STOP Signal function stopped"
+          }
+        ],
+        [
+          {
+            "text": "Estimated Failure Site"
+          },
+          {
+            "text": "High 12V battery voltage VSA Modulator Control Unit program is not up-to-date VSA Modulator Internal circuit failure in the control unit"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A002866_jpn/web/html/A002866_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,205 @@
+{
+  "id": "C001921",
+  "title": "Fuel and emission control structure description - On-board fault detection device",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001921",
+  "assets": [
+    "1921_3.0_jpn_11583522_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "T002540",
+      "label": "Failure diagnosis table by DTC",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuel and emission control structure description - On-board fault detection device"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "The on-board failure detection system detects failures of the emission control system and warns the driver with the PGM-FI warning light in the combination meter when a failure is detected in any of the failure detection items, thereby alerting the driver of the failure. When a misfire is detected, the PGM-FI warning light blinks depending on the condition, and lights up when other malfunctions are detected. Failure detection items are Failure diagnosis table by DTC As shown in the following table.",
+      "refs": [
+        {
+          "id": "T002540",
+          "label": "Failure diagnosis table by DTC",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2Consecutive Failure Detection Method"
+    },
+    {
+      "type": "paragraph",
+      "text": "The failure detection function of some systems and sensors uses a two-consecutive failure detection method."
+    },
+    {
+      "type": "paragraph",
+      "text": "When an abnormality occurs, the PGM-FI ECU stores the condition at that time as a temporary abnormality, and after the ignition OFF (LOCK) mode → ON mode, the PGM-FI warning light is turned on when the abnormality occurs again in the same condition. The information stored by the PGM-FI ECU as a temporary abnormality can be checked by the HDS (Honda Diagnostic System) as a temporary DTC, but if it is determined to be transient under certain conditions, the stored information is automatically deleted."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the SCS terminal of the data link coupler (16P) is shorted, this function is deactivated and the PGM-FI warning light immediately blinks when an error is detected. This facilitates failure diagnosis."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "HDS (Honda Diagnostic System) compatible"
+    },
+    {
+      "type": "paragraph",
+      "text": "This vehicle is compatible with Honda's diagnostic system, HDS. HDS can be used by connecting a general-purpose PC with HDS installed via MVCI to the data link coupler (16P) located under the left foot of the driver's seat."
+    },
+    {
+      "type": "figure",
+      "asset": "1921_3.0_jpn_11583522_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The data link coupler has the following terminals for communication with HDS and power supply to the MVCI"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Terminal No.",
+            "header": true
+          },
+          {
+            "text": "Terminal name",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "DIAG-H"
+          },
+          {
+            "text": "HDS communication signal terminal (models equipped with Honda Smart Key System)"
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "GND（PG）"
+          },
+          {
+            "text": "Ground terminal for HDS (MVCI)"
+          }
+        ],
+        [
+          {
+            "text": "5"
+          },
+          {
+            "text": "GND（LG）"
+          },
+          {
+            "text": "Ground terminal for HDS communication signal"
+          }
+        ],
+        [
+          {
+            "text": "6"
+          },
+          {
+            "text": "F-CAN_H"
+          },
+          {
+            "text": "F-CAN communication terminal (for PGM-FI system communication)"
+          }
+        ],
+        [
+          {
+            "text": "7"
+          },
+          {
+            "text": "K-LINE"
+          },
+          {
+            "text": "Terminals for communication with systems except PGM-FI system"
+          }
+        ],
+        [
+          {
+            "text": "9"
+          },
+          {
+            "text": "SCS"
+          },
+          {
+            "text": "SCS short terminal"
+          }
+        ],
+        [
+          {
+            "text": "14"
+          },
+          {
+            "text": "F-CAN_L"
+          },
+          {
+            "text": "F-CAN communication terminal (for PGM-FI system communication)"
+          }
+        ],
+        [
+          {
+            "text": "15"
+          },
+          {
+            "text": "ACL"
+          },
+          {
+            "text": "Terminal for communication with SRS system"
+          }
+        ],
+        [
+          {
+            "text": "16"
+          },
+          {
+            "text": "＋B"
+          },
+          {
+            "text": "HDS (MVCI) terminal for power supply"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131120091927/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001921_jpn/web/html/C001921_jpn_Content.html",
+  "inOutline": true
+}

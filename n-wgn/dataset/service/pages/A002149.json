@@ -1,0 +1,194 @@
+{
+  "id": "A002149",
+  "title": "DTC Explanation: U0151",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A002149",
+  "assets": [
+    "2149_3.0_jpn_11231355_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: U0151"
+    },
+    {
+      "type": "dtc",
+      "code": "U0151",
+      "text": "DTC U0151: F-CAN communication error (PGM-FI ECU-SRS unit communication failure)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "2149_3.0_jpn_11231355_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The control unit-to-control unit communication (F-CAN) for powertrain/chassis systems uses two communication lines (F-CAN_H and F-CAN_L) to send and receive multiple signals simultaneously between multiple control units. If signals from the SRS unit sent using F-CAN_H and F-CAN_L are not received for a predetermined period of time, the PGM-FI ECU determines a failure and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "（Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "More than 1.5 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1D/C (single detection method), PGM-FI warning light: off"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "12V battery voltage [battery voltage]"
+          },
+          {
+            "text": "10.0V"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "U0029",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the PGM-FI ECU cannot receive signals from the SRS unit sent using F-CAN_H and F-CAN_L for more than 1.5 seconds."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Disconnection of F-CAN circuit code (F-CAN_H line)"
+        },
+        {
+          "text": "Disconnection of F-CAN circuit code (F-CAN_L line)"
+        },
+        {
+          "text": "Short circuit in F-CAN circuit code (F-CAN_H line)"
+        },
+        {
+          "text": "Short circuit in F-CAN circuit code (F-CAN_L line)"
+        },
+        {
+          "text": "Failure of SRS unit"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to be faulty, the temporary DTC, DTC and freeze data are stored in the PGM-FI ECU memory without the PGM-FI warning light being turned on."
+    },
+    {
+      "type": "paragraph",
+      "text": "Temporary DTCs, DTCs and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A002149_jpn/web/html/A002149_jpn_Content.html",
+  "inOutline": true
+}

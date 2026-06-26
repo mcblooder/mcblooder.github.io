@@ -1,0 +1,47 @@
+{
+  "id": "C001992",
+  "title": "Interior Light Structure Description - Components",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Interior Lights",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001992",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Interior Light Structure Description - Components"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Map Light/Cargo Area Light"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is standard equipment in the center of the roof and at the rear end of the roof. The entry light system is interlocked with door opening/closing and controlled to turn the light on/off. The light can be turned on and off with the ON/OFF switch on the light itself."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ambient Light"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tail lights activated by MICU outputs are controlled by a relay to turn on/off the lights."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001992_jpn/web/html/C001992_jpn_Content.html",
+  "inOutline": true
+}

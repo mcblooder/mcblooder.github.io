@@ -1,0 +1,203 @@
+{
+  "id": "R000507",
+  "title": "Catalytic converter desorption",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Three-way catalytic converter",
+  "subtitle": "",
+  "dgName": "Cars not equipped with a turbo charger",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000507",
+  "assets": [
+    "507_3.0_jpn_11292040_2.0_disp.png",
+    "507_3.0_jpn_11292041_2.0_disp.png",
+    "507_3.0_jpn_11292042_2.0_disp.png",
+    "507_3.0_jpn_11292043_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000842",
+      "label": "Front upper grille removal",
+      "resolved": true
+    },
+    {
+      "id": "R002190",
+      "label": "EGR pipe A removal",
+      "resolved": true
+    },
+    {
+      "id": "R000450",
+      "label": "Secondary O 2 Sensor Removal",
+      "resolved": true
+    },
+    {
+      "id": "R000449",
+      "label": "LAF sensor removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Catalytic converter desorption"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front upper grille removal",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front upper grille removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. EGR pipe A removal",
+      "refs": [
+        {
+          "id": "R002190",
+          "label": "EGR pipe A removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Secondary O 2 Sensor Removal",
+      "refs": [
+        {
+          "id": "R000450",
+          "label": "Secondary O 2 Sensor Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. LAF sensor removal",
+      "refs": [
+        {
+          "id": "R000449",
+          "label": "LAF sensor removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Catalytic Converter Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "507_3.0_jpn_11292040_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the cover (A). Remove the catalytic converter (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Bracket Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "507_3.0_jpn_11292041_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Bracket Temporary tightening"
+    },
+    {
+      "type": "figure",
+      "asset": "507_3.0_jpn_11292042_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Catalytic Converter Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "507_3.0_jpn_11292043_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Tighten bolts and nuts (A). Tighten the bolts (B) in numerical order. Install the cover (D)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Gasket (C) shall be replaced upon disassembly."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. LAF sensor Installation",
+      "refs": [
+        {
+          "id": "R000449",
+          "label": "LAF sensor Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Secondary O 2 Sensor Mounting",
+      "refs": [
+        {
+          "id": "R000450",
+          "label": "Secondary O 2 Sensor Mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. EGR Pipe A Mounting",
+      "refs": [
+        {
+          "id": "R002190",
+          "label": "EGR Pipe A Mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Front upper grille installation",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front upper grille installation",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000507_jpn/web/html/R000507_jpn_Content.html",
+  "inOutline": true
+}

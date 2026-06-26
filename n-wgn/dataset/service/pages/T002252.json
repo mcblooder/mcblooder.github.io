@@ -1,0 +1,569 @@
+{
+  "id": "T002252",
+  "title": "Fault Diagnostic Table by City Brake Active System DTC",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Speed/body control",
+  "system": "City Brake Active System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002252",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T002261",
+      "label": "B2AA0-92",
+      "resolved": false
+    },
+    {
+      "id": "T002262",
+      "label": "B2AA0-94",
+      "resolved": false
+    },
+    {
+      "id": "T002263",
+      "label": "C0051-2A",
+      "resolved": false
+    },
+    {
+      "id": "T002264",
+      "label": "C0051-54",
+      "resolved": false
+    },
+    {
+      "id": "T002265",
+      "label": "C0051-62",
+      "resolved": false
+    },
+    {
+      "id": "T002266",
+      "label": "C0051-96",
+      "resolved": false
+    },
+    {
+      "id": "T002267",
+      "label": "C1C00-F0",
+      "resolved": false
+    },
+    {
+      "id": "T002268",
+      "label": "U0029-00",
+      "resolved": false
+    },
+    {
+      "id": "T002269",
+      "label": "U0100-00",
+      "resolved": false
+    },
+    {
+      "id": "T002270",
+      "label": "U0122-00",
+      "resolved": false
+    },
+    {
+      "id": "T002271",
+      "label": "U0126-00",
+      "resolved": false
+    },
+    {
+      "id": "T002272",
+      "label": "U0151-00",
+      "resolved": false
+    },
+    {
+      "id": "T002273",
+      "label": "U0155-00",
+      "resolved": false
+    },
+    {
+      "id": "T002274",
+      "label": "U0401-68",
+      "resolved": false
+    },
+    {
+      "id": "T002275",
+      "label": "U0416-68",
+      "resolved": false
+    },
+    {
+      "id": "T002276",
+      "label": "U0416-F8",
+      "resolved": false
+    },
+    {
+      "id": "T002277",
+      "label": "U3000-49",
+      "resolved": false
+    },
+    {
+      "id": "T002278",
+      "label": "U3000-51",
+      "resolved": false
+    },
+    {
+      "id": "T002279",
+      "label": "U3006-16",
+      "resolved": false
+    },
+    {
+      "id": "T002280",
+      "label": "U3006-17",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fault Diagnostic Table by City Brake Active System DTC"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "DTC"
+          },
+          {
+            "text": "CTBA warning light"
+          },
+          {
+            "text": "Brake warning light (orange)"
+          },
+          {
+            "text": "Failure diagnosis detection items"
+          }
+        ],
+        [
+          {
+            "text": "B2AA0-92",
+            "refs": [
+              {
+                "id": "T002261",
+                "label": "B2AA0-92",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Excessive brake demand frequency due to city brake active system"
+          }
+        ],
+        [
+          {
+            "text": "B2AA0-94",
+            "refs": [
+              {
+                "id": "T002262",
+                "label": "B2AA0-94",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Continued abnormal brake demand by the city brake active system"
+          }
+        ],
+        [
+          {
+            "text": "C0051-2A",
+            "refs": [
+              {
+                "id": "T002263",
+                "label": "C0051-2A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Steering angle sensor output sticking"
+          }
+        ],
+        [
+          {
+            "text": "C0051-54",
+            "refs": [
+              {
+                "id": "T002264",
+                "label": "C0051-54",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Rudder angle sensor midpoint learning incomplete"
+          }
+        ],
+        [
+          {
+            "text": "C0051-62",
+            "refs": [
+              {
+                "id": "T002265",
+                "label": "C0051-62",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Rudder angle sensor midpoint value offset failure"
+          }
+        ],
+        [
+          {
+            "text": "C0051-96",
+            "refs": [
+              {
+                "id": "T002266",
+                "label": "C0051-96",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Steering angle sensor failure"
+          }
+        ],
+        [
+          {
+            "text": "C1C00-F0",
+            "refs": [
+              {
+                "id": "T002267",
+                "label": "C1C00-F0",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Accelerator pedal position sensor failure"
+          }
+        ],
+        [
+          {
+            "text": "U0029-00",
+            "refs": [
+              {
+                "id": "T002268",
+                "label": "U0029-00",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "F-CAN communication error"
+          }
+        ],
+        [
+          {
+            "text": "U0100-00",
+            "refs": [
+              {
+                "id": "T002269",
+                "label": "U0100-00",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "PGM-FI ECU communication error"
+          }
+        ],
+        [
+          {
+            "text": "U0122-00",
+            "refs": [
+              {
+                "id": "T002270",
+                "label": "U0122-00",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "VSA modulator Control unit communication error"
+          }
+        ],
+        [
+          {
+            "text": "U0126-00",
+            "refs": [
+              {
+                "id": "T002271",
+                "label": "U0126-00",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Steering angle sensor communication error"
+          }
+        ],
+        [
+          {
+            "text": "U0151-00",
+            "refs": [
+              {
+                "id": "T002272",
+                "label": "U0151-00",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "SRS unit communication error"
+          }
+        ],
+        [
+          {
+            "text": "U0155-00",
+            "refs": [
+              {
+                "id": "T002273",
+                "label": "U0155-00",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Combination Meter communication error"
+          }
+        ],
+        [
+          {
+            "text": "U0401-68",
+            "refs": [
+              {
+                "id": "T002274",
+                "label": "U0401-68",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "False start suppression function failure"
+          }
+        ],
+        [
+          {
+            "text": "U0416-68",
+            "refs": [
+              {
+                "id": "T002275",
+                "label": "U0416-68",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Temporary brake pressurization rejection by VSA"
+          }
+        ],
+        [
+          {
+            "text": "U0416-F8",
+            "refs": [
+              {
+                "id": "T002276",
+                "label": "U0416-F8",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "VSA system failure"
+          }
+        ],
+        [
+          {
+            "text": "U3000-49",
+            "refs": [
+              {
+                "id": "T002277",
+                "label": "U3000-49",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "City Brake Active System Radar/Control Unit Internal Failure"
+          }
+        ],
+        [
+          {
+            "text": "U3000-51",
+            "refs": [
+              {
+                "id": "T002278",
+                "label": "U3000-51",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Update not completed"
+          }
+        ],
+        [
+          {
+            "text": "U3006-16",
+            "refs": [
+              {
+                "id": "T002279",
+                "label": "U3006-16",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○ *"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Power supply voltage drop"
+          }
+        ],
+        [
+          {
+            "text": "U3006-17",
+            "refs": [
+              {
+                "id": "T002280",
+                "label": "U3006-17",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "○ *"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "Excessive supply voltage"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131120135106/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002252_jpn/web/html/T002252_jpn_Content.html",
+  "inOutline": true
+}

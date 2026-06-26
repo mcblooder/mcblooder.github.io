@@ -1,0 +1,57 @@
+{
+  "id": "G000705",
+  "title": "Brake Negative Pressure Monitoring System Configuration Diagram",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "Brake Negative Pressure Monitoring System",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000705",
+  "assets": [
+    "705_3.0_jpn_11293205_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000706",
+      "label": "R000706",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Brake Negative Pressure Monitoring System Configuration Diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "705_3.0_jpn_11293205_2.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            298.0,
+            32.0,
+            320.0,
+            46.0
+          ],
+          "ref": {
+            "id": "R000706",
+            "label": "R000706",
+            "resolved": true
+          }
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000705_jpn/web/html/G000705_jpn_Content.html",
+  "inOutline": true
+}

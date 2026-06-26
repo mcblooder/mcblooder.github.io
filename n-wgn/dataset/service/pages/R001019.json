@@ -1,0 +1,104 @@
+{
+  "id": "R001019",
+  "title": "Rear wiper blade removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "Wiper/washer",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001019",
+  "assets": [
+    "1019_5.0_jpn_11580904_5.0_disp.png",
+    "1019_5.0_jpn_11580905_5.0_disp.png",
+    "1019_5.0_jpn_11580906_5.0_disp.png",
+    "1019_5.0_jpn_11580907_5.0_disp.png",
+    "1019_5.0_jpn_11677570_3.0_disp.png",
+    "1019_5.0_jpn_11677571_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear wiper blade removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear wiper blade removal"
+    },
+    {
+      "type": "figure",
+      "asset": "1019_5.0_jpn_11580904_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn the rear wiper blade (A) to unlock it and remove it from the rear wiper arm (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "1019_5.0_jpn_11580905_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Lift the rubber (A) and pull it out from the rear wiper blade (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "1019_5.0_jpn_11677570_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the retainer (A)."
+    },
+    {
+      "type": "paragraph",
+      "text": "After installation, check that the rear wiper arm operates smoothly."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear wiper blade installation"
+    },
+    {
+      "type": "figure",
+      "asset": "1019_5.0_jpn_11677571_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the retainer (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "1019_5.0_jpn_11580906_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install the rubber (A) to the rear wiper blade (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "1019_5.0_jpn_11580907_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Install the rear wiper blade (A) onto the rear wiper arm (B)."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001019_jpn/web/html/R001019_jpn_Content.html",
+  "inOutline": true
+}

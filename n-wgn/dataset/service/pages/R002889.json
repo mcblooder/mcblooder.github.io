@@ -1,0 +1,130 @@
+{
+  "id": "R002889",
+  "title": "A/C pressure switch removal and installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002889",
+  "assets": [
+    "2889_5.0_jpn_11580963_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002698",
+      "label": "Recovery of refrigerant",
+      "resolved": true
+    },
+    {
+      "id": "R000814",
+      "label": "Front bumper removal",
+      "resolved": true
+    },
+    {
+      "id": "R000907",
+      "label": "performance test",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "A/C pressure switch removal and installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Recovery of refrigerant",
+      "refs": [
+        {
+          "id": "R002698",
+          "label": "Recovery of refrigerant",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front bumper removal",
+      "refs": [
+        {
+          "id": "R000814",
+          "label": "Front bumper removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. A/C pressure switch removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2889_5.0_jpn_11580963_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Fix the flange part (B) of the receiver pipe and remove the A/C pressure switch (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Precautions for installation work"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The O-ring at the pipe connection must be replaced with a new one, and compressor oil (SP-10) must be applied before installation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Vacuuming/leak testing/refrigerant sealing",
+      "refs": [
+        {
+          "id": "R002698",
+          "label": "Vacuuming/leak testing/refrigerant sealing",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "After installation, perform vacuuming, leak test, and refrigerant sealing."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. performance test",
+      "refs": [
+        {
+          "id": "R000907",
+          "label": "performance test",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002889_jpn/web/html/R002889_jpn_Content.html",
+  "inOutline": true
+}

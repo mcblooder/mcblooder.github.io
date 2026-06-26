@@ -1,0 +1,92 @@
+{
+  "id": "R000477",
+  "title": "Inspect fuel lines",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Fuel supply equipment",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000477",
+  "assets": [
+    "477_4.0_jpn_11582569_4.0_disp.png",
+    "477_4.0_jpn_11582570_4.0_disp.png",
+    "477_4.0_jpn_11582571_4.0_disp.png",
+    "477_4.0_jpn_11582572_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect fuel lines"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Sagging or deformed bands should not be reused."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Hose clamp position must be securely attached according to the diagram.",
+        "If the hose joint is made of resin, do not apply any force other than in the direction of hose insertion, as the hose joint may be damaged.",
+        "When installing the quick-connect fuel tube in the engine compartment, the cover must be securely installed."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Fuel line inspection"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect that parts are securely installed."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Inspect parts for damage, wear due to interference with other parts, fuel leaks, and rust that is detrimental to function."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Fuel tank (A) Fuel feed pipe (B) Fuel feed tube (C) Fuel pipe (D) Fuel injector (E)"
+          },
+          {
+            "text": "Fuel purge pipe (F) Quick connectors (G) Fuel pump, fuel filter, pressure regulator (H)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "477_4.0_jpn_11582569_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "477_4.0_jpn_11582570_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "477_4.0_jpn_11582571_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "477_4.0_jpn_11582572_4.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000477_jpn/web/html/R000477_jpn_Content.html",
+  "inOutline": true
+}

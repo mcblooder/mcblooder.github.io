@@ -1,0 +1,223 @@
+{
+  "id": "G000618",
+  "title": "Rear Differential Configuration Chart",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "differential",
+  "system": "Rear Differential Assy.",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000618",
+  "assets": [
+    "618_3.0_jpn_11581941_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000623",
+      "label": "R000623",
+      "resolved": true
+    },
+    {
+      "id": "R000627",
+      "label": "R000627",
+      "resolved": true
+    },
+    {
+      "id": "R000620",
+      "label": "R000620",
+      "resolved": true
+    },
+    {
+      "id": "R000621",
+      "label": "R000621",
+      "resolved": true
+    },
+    {
+      "id": "R000622",
+      "label": "R000622",
+      "resolved": true
+    },
+    {
+      "id": "R000624",
+      "label": "R000624",
+      "resolved": true
+    },
+    {
+      "id": "R000625",
+      "label": "R000625",
+      "resolved": true
+    },
+    {
+      "id": "R000619",
+      "label": "R000619",
+      "resolved": true
+    },
+    {
+      "id": "R000626",
+      "label": "R000626",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear Differential Configuration Chart"
+    },
+    {
+      "type": "figure",
+      "asset": "618_3.0_jpn_11581941_3.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            153.0,
+            513.0,
+            175.0,
+            527.0
+          ],
+          "ref": {
+            "id": "R000623",
+            "label": "R000623",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            26.0,
+            299.0,
+            48.0,
+            313.0
+          ],
+          "ref": {
+            "id": "R000627",
+            "label": "R000627",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            545.0,
+            473.0,
+            617.0,
+            487.0
+          ],
+          "ref": {
+            "id": "R000620",
+            "label": "R000620",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            545.0,
+            484.0,
+            617.0,
+            498.0
+          ],
+          "ref": {
+            "id": "R000621",
+            "label": "R000621",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            545.0,
+            494.0,
+            567.0,
+            508.0
+          ],
+          "ref": {
+            "id": "R000622",
+            "label": "R000622",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            545.0,
+            505.0,
+            567.0,
+            519.0
+          ],
+          "ref": {
+            "id": "R000624",
+            "label": "R000624",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            545.0,
+            515.0,
+            596.0,
+            529.0
+          ],
+          "ref": {
+            "id": "R000625",
+            "label": "R000625",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            549.0,
+            225.0,
+            571.0,
+            239.0
+          ],
+          "ref": {
+            "id": "R000619",
+            "label": "R000619",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            27.0,
+            362.0,
+            49.0,
+            376.0
+          ],
+          "ref": {
+            "id": "R000626",
+            "label": "R000626",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            547.0,
+            327.0,
+            569.0,
+            341.0
+          ],
+          "ref": {
+            "id": "R000623",
+            "label": "R000623",
+            "resolved": true
+          }
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131205174051/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000618_jpn/web/html/G000618_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,458 @@
+{
+  "id": "R000602",
+  "title": "Replace transfer case oil seal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "transfer",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000602",
+  "assets": [
+    "602_5.0_jpn_11582483_5.0_disp.png",
+    "602_5.0_jpn_11582484_5.0_disp.png",
+    "602_5.0_jpn_11582485_5.0_disp.png",
+    "602_5.0_jpn_11582486_5.0_disp.png",
+    "602_5.0_jpn_11582487_5.0_disp.png",
+    "602_5.0_jpn_11582488_5.0_disp.png",
+    "602_5.0_jpn_11582489_5.0_disp.png",
+    "602_5.0_jpn_11582490_5.0_disp.png",
+    "602_5.0_jpn_11582491_5.0_disp.png",
+    "602_5.0_jpn_11582492_5.0_disp.png",
+    "602_5.0_jpn_11582493_5.0_disp.png",
+    "602_5.0_jpn_11582494_5.0_disp.png",
+    "602_5.0_jpn_11582495_5.0_disp.png",
+    "602_5.0_jpn_11582496_5.0_disp.png",
+    "602_5.0_jpn_11582497_5.0_disp.png",
+    "602_5.0_jpn_11582498_5.0_disp.png",
+    "602_5.0_jpn_11582499_5.0_disp.png",
+    "602_5.0_jpn_11582500_5.0_disp.png",
+    "602_5.0_jpn_11582501_5.0_disp.png",
+    "602_5.0_jpn_11582502_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000599",
+      "label": "Transfer removal",
+      "resolved": true
+    },
+    {
+      "id": "R000600",
+      "label": "Transfer case bearing removal",
+      "resolved": true
+    },
+    {
+      "id": "R000601",
+      "label": "Intermediate shaft oil seal removal",
+      "resolved": true
+    },
+    {
+      "id": "R000598",
+      "label": "Inspect the transfer gear tooth contact.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Replace transfer case oil seal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Transfer removal",
+      "refs": [
+        {
+          "id": "R000599",
+          "label": "Transfer removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Transfer L. side case, transfer drive gear, transfer driven gear Remove"
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582483_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the transfer L. side case (A), knock pin (B) and oil pipe (C). Remove the O-ring (D). Remove the transfer drive gear (E). Remove the transfer driven gear (F)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Transfer case bearing removal",
+      "refs": [
+        {
+          "id": "R000600",
+          "label": "Transfer case bearing removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Intermediate shaft oil seal removal",
+      "refs": [
+        {
+          "id": "R000601",
+          "label": "Intermediate shaft oil seal removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Transfer R. side case oil seal removal"
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582484_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the transfer R. side oil seal (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Transfer L. side case oil seal removal"
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582485_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the transfer L. side case oil seal (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Companion flange removal"
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582486_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Use a tool to caulk up the lock nut of the transfer hypoid gear."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Caulk the locknut sufficiently to prevent damage to the shaft."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582487_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Transfer R. Side Fix case (A) to vise (B) Transfer R. side When fixing the case to the vise, protect the case with a piece of wood (C) or similar to prevent damage to the case."
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582488_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Remove the companion flange holder, then remove the locknut (A), spring washer (B), backup ring (C), O-ring (D), and companion flange (E)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Transfer hypoid gear removal"
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582489_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the transfer hypoid gear (A) and remove the transfer spacer (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Transfer case oil seal removal"
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582490_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the transfer case oil seal (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Transfer case oil seal installation"
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582491_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the transfer case oil seal (A) to a depth (B) of 6.0-7.0 mm below the transfer mounting surface using a 15 x 135L screwdriver handle and bearing screwdriver attachment."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Transfer Hypoid Gear Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582492_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install new transfer spacer (A) and transfer hypoid gear (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. Companion Flange Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582493_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install companion flange (A), new O-ring (B), new backup ring (C), new spring washer (D), and new locknut (E)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Spring washers must be installed in the orientation shown in the figure."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582494_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Fix the transfer R. side case (A) to the vise (B). Transfer R. Side When fixing the case to the vise, protect the case with a piece of wood (C) or similar to prevent damage to the case. Attach companion flange holder to companion flange. While measuring the starting torque of the transfer hypoid gear, gradually tighten the lock nut within the tightening torque range so that the starting torque is within the standard value."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Typical starting torque: 0.78-1.11 N-m (0.080-0.113 kgf-m)"
+          }
+        ],
+        [
+          {
+            "text": "Tightening torque range: 41-158N-m (4.2-16.1kgf-m)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The companion flange shall be rotated several times to blend the bearings before measuring the starting torque.",
+        "If the starting torque exceeds 1.11 N-m (0.113 kgf-m), replace the transfer spacer, reassemble and adjust. Do not loosen the lock nut for adjustment.",
+        "If the starting torque does not reach the standard value even after the tightening torque exceeds 158 N-m (16.1 kgf-m), the transfer spacer shall be replaced and reassembled for adjustment."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582495_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Caulk the lock nut securely into the recess on the shaft. Caulk to a depth of at least 0.7 mm (B) using a punch with a tip diameter of 3.0-3.5 mm (A). Ensure that there are no cracks or other damage to the caulking area."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "13. Transfer L. side case oil seal installation"
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582496_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install new transfer L. side case oil seal (inner side) (A) to a depth (B) of 2.8 mm - 3.8 mm below the bearing mounting surface using screwdriver handle 15 x 135L and oil seal screwdriver attachment 60"
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582497_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install the new transfer L. side case oil seal (outer side) (A) to a depth (B) of 18mm-19mm below the bearing mounting surface using the screwdriver handle 15 x 135L and the oil seal screwdriver attachment 60."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "14. Transfer R. Side case oil seal installation"
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582498_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install a new transfer R. side case oil seal (inner side) (A) to a depth (B) of 3.5 mm - 4.5 mm below the bearing mounting surface using a screwdriver handle 15 x 135L and an oil seal screwdriver attachment 60."
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582499_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install new transfer R. side case oil seal (outer side) (A) to a depth of 31.6 mm - 32.6 mm (B) from the end face of the transfer R. side case using the driver handle 15 x 135 L and the oil seal driver attachment 60."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "15. Intermediate shaft oil seal installation",
+      "refs": [
+        {
+          "id": "R000601",
+          "label": "Intermediate shaft oil seal installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "16. Transfer case bearing mounting",
+      "refs": [
+        {
+          "id": "R000600",
+          "label": "Transfer case bearing mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "17. Transfer drive gear, transfer driven gear Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582500_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect the transfer gear tooth contact. Install transfer driven gear (A). Install the transfer drive gear (B).",
+      "refs": [
+        {
+          "id": "R000598",
+          "label": "Inspect the transfer gear tooth contact.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "18. Transfer L. Side Case Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582501_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply sealant to the sealing surface of the transfer L. side case."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The sealant must be genuine Honda liquid packing 1216E.",
+        "Wipe off old sealant and remove dirt and oil from the sealing surface.",
+        "If the sealant is left for more than 4 minutes after application, do not assemble the product as it is. Re-apply the sealant.",
+        "Transfer fluid should be injected 30 minutes after assembly."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "602_5.0_jpn_11582502_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install the knock pin (A) and new O-ring (B), and install the oil pipe (C). Install the transfer L. side case (D). Inspect the transfer overall starting torque. ​",
+      "refs": [
+        {
+          "id": "R000598",
+          "label": "Inspect the transfer overall starting torque.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "19. Transfer gear backlash Check",
+      "refs": [
+        {
+          "id": "R000598",
+          "label": "Transfer gear backlash Check",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "20. Transfer Mounting",
+      "refs": [
+        {
+          "id": "R000599",
+          "label": "Transfer Mounting",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000602_jpn/web/html/R000602_jpn_Content.html",
+  "inOutline": true
+}

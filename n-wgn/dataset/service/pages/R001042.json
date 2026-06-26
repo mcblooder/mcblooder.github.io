@@ -1,0 +1,123 @@
+{
+  "id": "R001042",
+  "title": "Power Mirror Actuator Inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "mirror",
+  "system": "Power Mirror",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001042",
+  "assets": [
+    "1042_5.0_jpn_11580942_5.0_disp.png",
+    "1042_5.0_jpn_11580944_5.0_disp.png",
+    "1042_5.0_jpn_11589052_4.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000720",
+      "label": "Front door lining removal",
+      "resolved": true
+    },
+    {
+      "id": "R000746",
+      "label": "Replace power mirrors.",
+      "resolved": true
+    },
+    {
+      "id": "R000747",
+      "label": "Replace mirror holder.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Power Mirror Actuator Inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front door lining removal",
+      "refs": [
+        {
+          "id": "R000720",
+          "label": "Front door lining removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Power mirror actuator Check"
+    },
+    {
+      "type": "figure",
+      "asset": "1042_5.0_jpn_11580942_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "1042_5.0_jpn_11589052_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Inspect that mirrors and retraction operate smoothly and without malfunction when battery voltage is applied between each terminal. If the mirror does not work properly, Replace power mirrors.",
+      "refs": [
+        {
+          "id": "R000746",
+          "label": "Replace power mirrors.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When applying battery voltage, be very careful not to short-circuit the battery."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1042_5.0_jpn_11580944_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Inspect continuity between each terminal and confirm that continuity exists. If there is no continuity, check the cord disconnection and connection condition, and if normal Replace mirror holder. Connect the coupler.",
+      "refs": [
+        {
+          "id": "R000747",
+          "label": "Replace mirror holder.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001042_jpn/web/html/R001042_jpn_Content.html",
+  "inOutline": true
+}

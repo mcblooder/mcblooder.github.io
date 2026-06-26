@@ -1,0 +1,97 @@
+{
+  "id": "R002208",
+  "title": "Inspect Tailgate Lock Actuator",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "tailgate",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002208",
+  "assets": [
+    "2208_7.0_jpn_11580721_7.0_disp.png",
+    "2208_7.0_jpn_11677560_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000762",
+      "label": "Tailgate lower lining removal",
+      "resolved": true
+    },
+    {
+      "id": "R000832",
+      "label": "Replace the tailgate lock (C).",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect Tailgate Lock Actuator"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Tailgate lower lining removal",
+      "refs": [
+        {
+          "id": "R000762",
+          "label": "Tailgate lower lining removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Tailgate lock actuator Check"
+    },
+    {
+      "type": "figure",
+      "asset": "2208_7.0_jpn_11580721_7.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2208_7.0_jpn_11677560_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Verify that the actuator operates on the locked or unlocked side when battery voltage is applied between each terminal of the coupler (B). If the actuator does not operate, the tailgate lock actuator is defective, Replace the tailgate lock (C). Connect the coupler.",
+      "refs": [
+        {
+          "id": "R000832",
+          "label": "Replace the tailgate lock (C).",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When applying battery voltage to the actuator, connect the 12V battery (-) momentarily. Prolonged connection will damage the actuator.",
+        "When applying battery voltage, be very careful not to short-circuit the battery."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002208_jpn/web/html/R002208_jpn_Content.html",
+  "inOutline": true
+}

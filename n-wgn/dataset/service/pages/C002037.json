@@ -1,0 +1,60 @@
+{
+  "id": "C002037",
+  "title": "Headlight leveling system structure description - Fail-safe function - Auto leveling system",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Headlight Leveling System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002037",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Headlight leveling system structure description - Fail-safe function - Auto leveling system"
+    },
+    {
+      "type": "paragraph",
+      "text": "Optical axis control is not performed if any of the following items apply"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Abnormality of leveling sensor"
+        },
+        {
+          "text": "Abnormality of B-CAN input"
+        },
+        {
+          "text": "Headlight leveling motor failure"
+        },
+        {
+          "text": "Combination switch information is abnormal."
+        },
+        {
+          "text": "Abnormal vehicle speed information"
+        },
+        {
+          "text": "Headlight auto-leveling control unit has not learned the initial position."
+        },
+        {
+          "text": "12V battery voltage less than 10V"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002037_jpn/web/html/C002037_jpn_Content.html",
+  "inOutline": true
+}

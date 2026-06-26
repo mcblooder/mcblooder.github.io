@@ -1,0 +1,185 @@
+{
+  "id": "R000374",
+  "title": "VTC actuator/exhaust camshaft sprocket removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder head",
+  "system": "camshaft",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000374",
+  "assets": [
+    "374_5.0_jpn_11582844_5.0_disp.png",
+    "374_5.0_jpn_11582845_5.0_disp.png",
+    "374_5.0_jpn_11582846_5.0_disp.png",
+    "374_5.0_jpn_11582847_5.0_disp.png",
+    "374_5.0_jpn_11582848_5.0_disp.png",
+    "374_5.0_jpn_11582849_5.0_disp.png",
+    "374_5.0_jpn_11582850_5.0_disp.png",
+    "374_5.0_jpn_11582851_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002131",
+      "label": "Intake camshaft removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VTC actuator/exhaust camshaft sprocket removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Intake camshaft removal",
+      "refs": [
+        {
+          "id": "R002131",
+          "label": "Intake camshaft removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. VTC actuator removal"
+    },
+    {
+      "type": "figure",
+      "asset": "374_5.0_jpn_11582844_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "374_5.0_jpn_11582845_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Cover the VTC slow angle hole (A) on the intake camshaft with vinyl tape and secure with tie wrap."
+    },
+    {
+      "type": "figure",
+      "asset": "374_5.0_jpn_11582846_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Seal one of the VTC advance holes (A) on the intake camshaft with vinyl tape."
+    },
+    {
+      "type": "figure",
+      "asset": "374_5.0_jpn_11582847_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Apply air through the advance hole (A) not blocked by the vinyl tape to release the lock pin."
+    },
+    {
+      "type": "figure",
+      "asset": "374_5.0_jpn_11582848_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Protect the camshaft with a rag and fix it with a vise. Remove the VTC actuator (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not damage the camshaft."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Exhaust camshaft sprocket removal"
+    },
+    {
+      "type": "figure",
+      "asset": "374_5.0_jpn_11582849_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Fix the hexagonal part of the camshaft with a wrench, etc., and remove the exhaust camshaft sprocket (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. VTC Actuator/Intake Camshaft Installation",
+      "refs": [
+        {
+          "id": "R002131",
+          "label": "VTC Actuator/Intake Camshaft Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Exhaust camshaft sprocket installation"
+    },
+    {
+      "type": "figure",
+      "asset": "374_5.0_jpn_11582850_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply engine oil to the threads of the exhaust camshaft sprocket mounting bolts and washer seat."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install the exhaust camshaft sprocket (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The camshaft locating pin (B) and camshaft locating groove (C) shall be aligned."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "374_5.0_jpn_11582851_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Fix the hexagonal part of the camshaft with a wrench, etc., and install the exhaust camshaft sprocket. Fix the hexagonal part of the camshaft with a wrench, etc., and turn the VTC actuator clockwise to lock it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Cam Chain Mounting",
+      "refs": [
+        {
+          "id": "R002131",
+          "label": "Cam Chain Mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "After installing the cam chain, check that the TDC marks on the VTC actuator, exhaust camshaft sprocket and crankshaft pulley are aligned."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000374_jpn/web/html/R000374_jpn_Content.html",
+  "inOutline": true
+}

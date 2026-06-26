@@ -1,0 +1,237 @@
+{
+  "id": "T002766",
+  "title": "Headlight Leveling Motor Input Inspection",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Headlight Leveling System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002766",
+  "assets": [
+    "2766_3.0_jpn_11579706_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002231",
+      "label": "Disconnect headlight leveling motor 3-pin coupler",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Headlight Leveling Motor Input Inspection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perform the following checks before performing input inspections"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Confirmation of DTC at HDS."
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Disconnect headlight leveling motor 3-pin coupler The following is a list of the most common problems with the 2. Check the input and if all is normal and there is an abnormality in the operation of the headlight leveling, Replace headlight leveling motor Do.",
+      "refs": [
+        {
+          "id": "R002231",
+          "label": "Disconnect headlight leveling motor 3-pin coupler",
+          "resolved": true
+        },
+        {
+          "id": "R002231",
+          "label": "Replace headlight leveling motor",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2766_3.0_jpn_11579706_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "*1: Vehicles equipped with headlight auto-leveling system *2: Vehicles without headlight auto-leveling system"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G202) Headlight auto-leveling control unit Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Ignition ON mode"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and ground."
+          },
+          {
+            "text": "Headlight auto-leveling control unit Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "Ignition ON mode"
+          },
+          {
+            "text": "10 to 90% of battery voltage between inspection terminal and body ground"
+          },
+          {
+            "text": "Headlight auto-leveling control unit Cord disconnection and terminal connection condition"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G201, G301) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "Ignition ON mode"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and ground."
+          },
+          {
+            "text": "Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "Headlight leveling switch dial 3 positions"
+          },
+          {
+            "text": "Resistance of approx. 2.5 kΩ between inspection terminal and body ground"
+          },
+          {
+            "text": "Grounding failure (G402) Headlight manual leveling switch Cord disconnection and terminal connection condition"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131120135106/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002766_jpn/web/html/T002766_jpn_Content.html",
+  "inOutline": true
+}

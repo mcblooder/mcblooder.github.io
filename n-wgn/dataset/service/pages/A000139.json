@@ -1,0 +1,561 @@
+{
+  "id": "A000139",
+  "title": "DTC Commentary: P1717",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000139",
+  "assets": [
+    "139_3.0_jpn_11394445_2.0_disp.png",
+    "139_3.0_jpn_11394446_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Commentary: P1717"
+    },
+    {
+      "type": "dtc",
+      "code": "P1717",
+      "text": "DTC P1717: Shift position sensor ATPRVS switch circuit Disconnection"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cars not equipped with paddle shift switches"
+    },
+    {
+      "type": "figure",
+      "asset": "139_3.0_jpn_11394445_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vehicles equipped with paddle shift switches"
+    },
+    {
+      "type": "figure",
+      "asset": "139_3.0_jpn_11394446_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Select Lever - Shift Position Sensor Connection Table"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cars not equipped with paddle shift switches"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Select Lever",
+            "rowspan": 2
+          },
+          {
+            "text": "Shift position Sensor signal input",
+            "colspan": 7
+          }
+        ],
+        [
+          {
+            "text": "ATP-P"
+          },
+          {
+            "text": "ATP-R"
+          },
+          {
+            "text": "ATP-N"
+          },
+          {
+            "text": "ATP-D"
+          },
+          {
+            "text": "ATP-L"
+          },
+          {
+            "text": "ATP-FWD"
+          },
+          {
+            "text": "ATP-RVS"
+          }
+        ],
+        [
+          {
+            "text": "P"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "R"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          }
+        ],
+        [
+          {
+            "text": "N"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "D"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "L"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Vehicles equipped with paddle shift switches"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Select Lever",
+            "rowspan": 2
+          },
+          {
+            "text": "Shift position Sensor signal input",
+            "colspan": 7
+          }
+        ],
+        [
+          {
+            "text": "ATP-P"
+          },
+          {
+            "text": "ATP-R"
+          },
+          {
+            "text": "ATP-N"
+          },
+          {
+            "text": "ATP-D"
+          },
+          {
+            "text": "ATP-S"
+          },
+          {
+            "text": "ATP-FWD"
+          },
+          {
+            "text": "ATP-RVS"
+          }
+        ],
+        [
+          {
+            "text": "P"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "R"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          }
+        ],
+        [
+          {
+            "text": "N"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "D"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "S"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "×"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "○"
+          },
+          {
+            "text": "×"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The shift position sensor is fixed to the transmission control shaft. The control shaft rotates via the control wire when the driver operates the select lever. The shift position indicator shows which position is selected by the LO/HI signal from the angle of rotation of the control shaft. In addition to operating the shift position sensor, the control shaft also switches the hydraulic pressure of the transmission between forward/neutral/reverse by operating a manual valve. The PGM-FI ECU uses the signal from the shift position sensor to determine the gear shift schedule. The input terminal voltage of the PGM-FI ECU is HI when each switch in the shift position sensor is open and LO when closed. When the select lever is operated in the P, R, or N position, if the RVS switch signal is open (HI) in the R position, the PGM-FI ECU judges a failure and stores a DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "By reproducible testing methods"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: off, D indicator light: flashing"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "12V battery voltage [battery voltage]"
+          },
+          {
+            "text": "11V"
+          },
+          {
+            "text": "―"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the RVS signal [reverse SW] is not detected for 0.32 seconds in the R position when the select lever is operated in the P, R, or N position."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Disconnection of the cord (ATP-RVS line) between the PGM-FI ECU and the shift position sensor (including disconnected or loose coupler)"
+        },
+        {
+          "text": "Poor adjustment of control wires"
+        },
+        {
+          "text": "Shift position sensor failure"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Start the engine."
+        },
+        {
+          "text": "Operate the select lever in the P, R, and N positions, and wait in the R position for at least 0.32 seconds."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "None."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the D indicator light will flash without the PGM-FI warning light illuminating, and the DTC and freeze data will be stored."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use of the clear command of the scan tool (including HDS) or removal of the 12V battery terminal will clear the D indicator light, temporary DTC, DTC, and freeze data."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000139_jpn/web/html/A000139_jpn_Content.html",
+  "inOutline": true
+}

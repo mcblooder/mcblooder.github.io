@@ -1,0 +1,1305 @@
+{
+  "id": "C001964",
+  "title": "Idling Stop System Structure Description - Operating Conditions",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Idling stop system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001964",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Idling Stop System Structure Description - Operating Conditions"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Idling Stop System Operating Conditions"
+    },
+    {
+      "type": "paragraph",
+      "text": "List of conditions for not stopping idling"
+    },
+    {
+      "type": "paragraph",
+      "text": "Idling Stop The system will not perform an Idling Stop if any of the following conditions apply"
+    },
+    {
+      "type": "paragraph",
+      "text": "Assumptions during the work inspection are that all system DTC failures have not been stored."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Conditions for not stopping idling",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "HDS Display",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "Idling stop system warning light (orange)",
+            "rowspan": 2,
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "(data) item",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          },
+          {
+            "text": "Parameter name",
+            "header": true
+          },
+          {
+            "text": "menu",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "ECON switch OFF"
+          },
+          {
+            "text": "When the system is turned off by operating the ECON switch"
+          },
+          {
+            "text": "Idling stop prohibited (Idling stop prohibited SW)"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "hood"
+          },
+          {
+            "text": "If the hood is open (Hood switch ON)"
+          },
+          {
+            "text": "Idling stop prohibited (hood open) Idling stop prohibited (hood open history)"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "Driver's seat belt buckle Switch"
+          },
+          {
+            "text": "If the driver's seat belt is unbuckled"
+          },
+          {
+            "text": "Idling stop prohibited (seat belts not installed)"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "steering",
+            "rowspan": 2
+          },
+          {
+            "text": "If the steering wheel is moving"
+          },
+          {
+            "text": "Idling Stop Prohibited (EPS)"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "When the steering angle exceeds 15°. (Idling stop at deceleration)"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "vehicle speed (Idling stop at standstill)",
+            "rowspan": 8
+          },
+          {
+            "text": "When the vehicle speed exceeds 0 km/h",
+            "rowspan": 6
+          },
+          {
+            "text": "－ vehicle speed"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ vehicle speed"
+          },
+          {
+            "text": "AT"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ Left front wheel Speed"
+          },
+          {
+            "text": "ABS VSA"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ Right front wheel Speed"
+          },
+          {
+            "text": "ABS VSA"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ Left Rear Wheel Speed"
+          },
+          {
+            "text": "ABS VSA"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ Right Rear Wheel Speed"
+          },
+          {
+            "text": "ABS VSA"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "If the engine has never exceeded 5 km/h after starting or returning from an idling stop"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "When acceleration/deceleration is repeated at low vehicle speed"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "vehicle speed (Idling stop at deceleration)",
+            "rowspan": 8
+          },
+          {
+            "text": "Vehicle speed exceeds 10 km/h",
+            "rowspan": 6
+          },
+          {
+            "text": "－ vehicle speed"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ vehicle speed"
+          },
+          {
+            "text": "AT"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ Left front wheel Speed"
+          },
+          {
+            "text": "ABS VSA"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ Right front wheel Speed"
+          },
+          {
+            "text": "ABS VSA"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ Left Rear Wheel Speed"
+          },
+          {
+            "text": "ABS VSA"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ Right Rear Wheel Speed"
+          },
+          {
+            "text": "ABS VSA"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "If the engine has never exceeded 15 km/h after starting or returning from an idling stop"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "When idling stop is executed during deceleration and the vehicle does not stop (Idling stop is not performed at the next deceleration)"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "transmission",
+            "rowspan": 4
+          },
+          {
+            "text": "Idling Stop Prohibition Judgment (in the case of the following conditions)"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ Shift position is other than D position"
+          },
+          {
+            "text": "－ AT D SW"
+          },
+          {
+            "text": "AT"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ High or low oil temperature (<10°C/ >120°C)"
+          },
+          {
+            "text": "－ HMMF temperature"
+          },
+          {
+            "text": "AT"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ When the CVT ratio is below the specified value"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "VSA",
+            "rowspan": 2
+          },
+          {
+            "text": "VSA unit is controlling hydraulic pressure"
+          },
+          {
+            "text": "Idling stop prohibited (ABS/VSA)"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "If the City Brake Active system is in operation"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "brake",
+            "rowspan": 3
+          },
+          {
+            "text": "If the brake pedal is not depressed"
+          },
+          {
+            "text": "Cruise Brake SW/Idling Stop SW"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "(When brake pedal is pressed: brake SW ON)"
+          },
+          {
+            "text": "Brake SW"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "Weak brake pedal pressure (insufficient master cylinder fluid pressure)"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "Gas pedal pedal"
+          },
+          {
+            "text": "Gas pedal If the pedal is depressed"
+          },
+          {
+            "text": "AP Sensor"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "gradient",
+            "rowspan": 2
+          },
+          {
+            "text": "When it is determined that the vehicle is traveling on a steep uphill grade or a steep downhill grade"
+          },
+          {
+            "text": "Inclination Judgment"
+          },
+          {
+            "text": "AT"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "When it is determined that the road is not flat (Idling stop at deceleration)"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "PGM-FI",
+            "rowspan": 3
+          },
+          {
+            "text": "The number of starter operations exceeds a certain number of times."
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "lighting (a lamp)"
+          }
+        ],
+        [
+          {
+            "text": "Idling learning has not been completed."
+          },
+          {
+            "text": "Idling learning"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "Low or high engine water temperature (Idling stop at standstill: less than 62.5°C/ (above 110°C) (Idling stop during deceleration: below 78°C / above 110°C)"
+          },
+          {
+            "text": "Water temperature sensor"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "Master Power Negative Pressure",
+            "rowspan": 2
+          },
+          {
+            "text": "Idling Stop Prohibition Judgment (in the case of the following conditions)"
+          },
+          {
+            "text": "Idling stop prohibited (brake system)"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ Master If the power negative pressure is low: Idling stop at stop sign: negative pressure closer to 0 than -33.3 kPa Idling stop during deceleration: Negative pressure closer to 0 than -45.5 kPa"
+          },
+          {
+            "text": "－ Master Power Negative Pressure Sensor"
+          },
+          {
+            "text": "BRAKE SYSTEM"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "A/C System",
+            "rowspan": 8
+          },
+          {
+            "text": "Idling stop prohibition judgment details (when A/C is ON and the following conditions are met)"
+          },
+          {
+            "text": "Idling stop prohibited (HVAC)"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ When the front defroster switch is ON"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ When the temperature setting is Hi or Lo"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ Blower fan air flow rate display with 5 segments or more"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ When the outside air temperature is above 40°C"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ When the outside air temperature is below -20°C"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ When the temperature difference between the set temperature and the temperature inside the car becomes large"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ When it is determined that interior comfort cannot be maintained based on the interior and exterior conditions of the vehicle by each sensor."
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "DC-DC Converter",
+            "rowspan": 2
+          },
+          {
+            "text": "Idling Stop Prohibition Judgment (in the case of the following conditions)"
+          },
+          {
+            "text": "Idling stop prohibited (DC-DC)"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ DC-DC converter temperature error/Internal circuit error/Input terminal voltage error"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "lighting (a lamp)"
+          }
+        ],
+        [
+          {
+            "text": "battery",
+            "rowspan": 4
+          },
+          {
+            "text": "Idling Stop Prohibition Judgment (in the case of the following conditions)"
+          },
+          {
+            "text": "Idling stop prohibited (battery management)"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ Estimated battery temperature less than 5°C"
+          },
+          {
+            "text": "－ Estimated battery temperature (battery sensor)"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ If the battery is not in good condition"
+          },
+          {
+            "text": "－ Idling Stop is prohibited (battery degradation)"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ When the battery charge is low"
+          },
+          {
+            "text": "－ Idling Stop is inhibited (battery charging state)"
+          },
+          {
+            "text": "PGM FI"
+          },
+          {
+            "text": "—"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions for returning to idling (restarting)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The idling stop system shall restart if any of the following conditions apply during idling stop operation"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Conditions for restarting from an idling stop",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "HDS Display",
+            "colspan": 2,
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "(data) item",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          },
+          {
+            "text": "Parameter name",
+            "header": true
+          },
+          {
+            "text": "menu",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "ECON switch OFF"
+          },
+          {
+            "text": "When the ECON switch is turned OFF"
+          },
+          {
+            "text": "Idling stop prohibited (Idling stop prohibited SW)"
+          },
+          {
+            "text": "PGM FI"
+          }
+        ],
+        [
+          {
+            "text": "hood"
+          },
+          {
+            "text": "Idling during deceleration If the hood is opened during idling stop"
+          },
+          {
+            "text": "Idling stop prohibited (hood open)"
+          },
+          {
+            "text": "PGM FI"
+          }
+        ],
+        [
+          {
+            "text": "Driver's seat belt buckle Switch"
+          },
+          {
+            "text": "If the driver's seat belt is unbuckled"
+          },
+          {
+            "text": "Idling stop prohibited (seat belts not installed)"
+          },
+          {
+            "text": "PGM FI"
+          }
+        ],
+        [
+          {
+            "text": "steering"
+          },
+          {
+            "text": "When the steering wheel is moved (when the vehicle is stopped)"
+          },
+          {
+            "text": "Idling Stop Prohibited (EPS)"
+          },
+          {
+            "text": "PGM FI"
+          }
+        ],
+        [
+          {
+            "text": "vehicle speed",
+            "rowspan": 6
+          },
+          {
+            "text": "When vehicle speed is 1 km/h or more (idling stop at stop sign)",
+            "rowspan": 4
+          },
+          {
+            "text": "－ vehicle speed"
+          },
+          {
+            "text": "PGM FI"
+          }
+        ],
+        [
+          {
+            "text": "－ vehicle speed"
+          },
+          {
+            "text": "AT"
+          }
+        ],
+        [
+          {
+            "text": "－ Left front wheel Speed"
+          },
+          {
+            "text": "ABS VSA"
+          }
+        ],
+        [
+          {
+            "text": "－ Right front wheel Speed"
+          },
+          {
+            "text": "ABS VSA"
+          }
+        ],
+        [
+          {
+            "text": "Vehicle speed is 12 km/h or more (idling stop at deceleration)",
+            "rowspan": 2
+          },
+          {
+            "text": "－ Left Rear Wheel Speed"
+          },
+          {
+            "text": "ABS VSA"
+          }
+        ],
+        [
+          {
+            "text": "－ Right Rear Wheel Speed"
+          },
+          {
+            "text": "ABS VSA"
+          }
+        ],
+        [
+          {
+            "text": "transmission",
+            "rowspan": 3
+          },
+          {
+            "text": "When the shift position is set to a driving position other than D or N, or from N to D",
+            "rowspan": 2
+          },
+          {
+            "text": "－ AT N SW"
+          },
+          {
+            "text": "AT"
+          }
+        ],
+        [
+          {
+            "text": "－ AT D SW"
+          },
+          {
+            "text": "AT"
+          }
+        ],
+        [
+          {
+            "text": "High or low oil temperature (<10°C/ >120°C)"
+          },
+          {
+            "text": "－ HMMF temperature"
+          },
+          {
+            "text": "AT"
+          }
+        ],
+        [
+          {
+            "text": "VSA"
+          },
+          {
+            "text": "When an abnormality occurs in the VSA unit"
+          },
+          {
+            "text": "Idling stop prohibited (ABS/VSA)"
+          },
+          {
+            "text": "PGM FI"
+          }
+        ],
+        [
+          {
+            "text": "brake"
+          },
+          {
+            "text": "When the brake pedal is released during idling stop (when the brake pedal is depressed: brake SW ON)"
+          },
+          {
+            "text": "Brake SW"
+          },
+          {
+            "text": "PGM FI"
+          }
+        ],
+        [
+          {
+            "text": "Gas pedal pedal"
+          },
+          {
+            "text": "Gas pedal When pedal is depressed"
+          },
+          {
+            "text": "AP Sensor"
+          },
+          {
+            "text": "PGM FI"
+          }
+        ],
+        [
+          {
+            "text": "gradient"
+          },
+          {
+            "text": "When the road is not flat (Idling stop at deceleration)"
+          },
+          {
+            "text": "Inclination Judgment"
+          },
+          {
+            "text": "AT"
+          }
+        ],
+        [
+          {
+            "text": "Master Power Negative Pressure",
+            "rowspan": 2
+          },
+          {
+            "text": "\"Restarting Decision (for the following conditions)\""
+          },
+          {
+            "text": "Idling stop prohibited (brake system)"
+          },
+          {
+            "text": "PGM FI"
+          }
+        ],
+        [
+          {
+            "text": "－ When the master power negative pressure becomes small: Idling stop at stop sign: Negative pressure closer to 0 than -30.0 kPa Idling stop during deceleration: Negative pressure closer to 0 than -38.8 kPa"
+          },
+          {
+            "text": "－ Master Power Negative Pressure Sensor"
+          },
+          {
+            "text": "BRAKE SYSTEM"
+          }
+        ],
+        [
+          {
+            "text": "A/C System",
+            "rowspan": 4
+          },
+          {
+            "text": "Idling stop prohibition judgment details (when A/C is ON and the following conditions are met)"
+          },
+          {
+            "text": "Idling stop prohibited (HVAC)"
+          },
+          {
+            "text": "PGM FI"
+          }
+        ],
+        [
+          {
+            "text": "－ When defroster switch is turned ON"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ When the temperature setting is Hi or Lo"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "－ When the air conditioner is in use and the temperature difference between the set temperature and the inside of the car becomes large"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "battery",
+            "rowspan": 2
+          },
+          {
+            "text": "If the battery charge level drops during an idling stop"
+          },
+          {
+            "text": "Idling Stop Prohibited (Battery Charging State) Idling stop prohibited (low battery voltage)"
+          },
+          {
+            "text": "PGM FI"
+          }
+        ],
+        [
+          {
+            "text": "If the battery temperature falls below 5°C (41°F)"
+          },
+          {
+            "text": "Estimated battery temperature (battery sensor)"
+          },
+          {
+            "text": "PGM FI"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "List of conditions for not returning to idling (restarting)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The idling stop system will not restart if any of the following conditions apply during idling stop operation"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Conditions for not restarting from an idling stop",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "HDS Display",
+            "colspan": 2,
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "(data) item",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          },
+          {
+            "text": "Parameter name",
+            "header": true
+          },
+          {
+            "text": "menu",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "hood"
+          },
+          {
+            "text": "When the hood is opened during idling stop (when the vehicle is stopped)"
+          },
+          {
+            "text": "Idling stop prohibited (hood open)"
+          },
+          {
+            "text": "PGM FI"
+          }
+        ],
+        [
+          {
+            "text": "starter",
+            "rowspan": 2
+          },
+          {
+            "text": "If the starter fails to start after a certain period of time (5 seconds) when restarting"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "If the starter does not rotate"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ],
+        [
+          {
+            "text": "DC-DC Converter",
+            "rowspan": 2
+          },
+          {
+            "text": "Idling Stop Prohibition Judgment (in the case of the following conditions)"
+          },
+          {
+            "text": "Idling stop prohibited (DC-DC)"
+          },
+          {
+            "text": "PGM FI"
+          }
+        ],
+        [
+          {
+            "text": "－ DC-DC converter temperature error/Internal circuit error/Input terminal voltage error"
+          },
+          {
+            "text": "—"
+          },
+          {
+            "text": "—"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001964_jpn/web/html/C001964_jpn_Content.html",
+  "inOutline": true
+}

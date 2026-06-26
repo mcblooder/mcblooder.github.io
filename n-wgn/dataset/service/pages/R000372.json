@@ -1,0 +1,952 @@
+{
+  "id": "R000372",
+  "title": "Cylinder Head Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder head",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000372",
+  "assets": [
+    "372_5.0_jpn_11582831_5.0_disp.png",
+    "372_5.0_jpn_11582832_5.0_disp.png",
+    "372_5.0_jpn_11582833_5.0_disp.png",
+    "372_5.0_jpn_11582834_5.0_disp.png",
+    "372_5.0_jpn_11582835_5.0_disp.png",
+    "372_5.0_jpn_11582836_5.0_disp.png",
+    "372_5.0_jpn_11582837_5.0_disp.png",
+    "372_5.0_jpn_11582838_5.0_disp.png",
+    "372_5.0_jpn_11582839_5.0_disp.png",
+    "372_5.0_jpn_11582840_5.0_disp.png",
+    "372_5.0_jpn_11582841_5.0_disp.png",
+    "372_5.0_jpn_11582842_5.0_disp.png",
+    "372_5.0_jpn_11582843_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000474",
+      "label": "Fuel pressure Removal",
+      "resolved": true
+    },
+    {
+      "id": "R000910",
+      "label": "12V battery Negative (-) terminal Disconnect",
+      "resolved": true
+    },
+    {
+      "id": "R000414",
+      "label": "Cars not equipped with a turbo charger",
+      "resolved": true
+    },
+    {
+      "id": "R000415",
+      "label": "Turbo Charger equipped vehicle",
+      "resolved": true
+    },
+    {
+      "id": "R000484",
+      "label": "Fuel injector removal",
+      "resolved": true
+    },
+    {
+      "id": "R000507",
+      "label": "Catalytic Converter Removal",
+      "resolved": true
+    },
+    {
+      "id": "R002173",
+      "label": "Turbo Charger equipped vehicle",
+      "resolved": true
+    },
+    {
+      "id": "R000420",
+      "label": "Turbo charger removal (for vehicles equipped with a turbo charger)",
+      "resolved": true
+    },
+    {
+      "id": "R000352",
+      "label": "A.C. generator removal",
+      "resolved": true
+    },
+    {
+      "id": "R000435",
+      "label": "Cooling water removal",
+      "resolved": true
+    },
+    {
+      "id": "R002186",
+      "label": "Water Passage Removal",
+      "resolved": true
+    },
+    {
+      "id": "R000454",
+      "label": "Water temperature sensor removal",
+      "resolved": true
+    },
+    {
+      "id": "R000505",
+      "label": "Purge Control SOL.V. Removal",
+      "resolved": true
+    },
+    {
+      "id": "R000452",
+      "label": "TDC sensor removal",
+      "resolved": true
+    },
+    {
+      "id": "R000369",
+      "label": "Cam chain removal",
+      "resolved": true
+    },
+    {
+      "id": "R000382",
+      "label": "Hydraulic tappet Air bleed",
+      "resolved": true
+    },
+    {
+      "id": "R000471",
+      "label": "Idling Learning",
+      "resolved": true
+    },
+    {
+      "id": "R000345",
+      "label": "Ignition timing Ignition timing",
+      "resolved": true
+    },
+    {
+      "id": "R000458",
+      "label": "Crank pattern learning value clear/learn",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cylinder Head Removal and Installation"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Fuel feed tube must be removed after releasing fuel pressure.",
+        "Fire is strictly prohibited.",
+        "If the radiator cap is removed when the water temperature is high, the coolant is under pressure and may spurt out. After the water temperature drops, wrap the cap with a piece of cloth and open it gently."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Since metallic sodium is sealed in the exhaust valve, refer to \"Precautions in the Workplace and Precautions when Handling Metallic Sodium Enclosed Valves\" for inspection and maintenance."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Use fender covers and do not scratch painted surfaces.",
+        "Cylinder head removal must always be performed when the engine is cold (below 38°C) to avoid heat distortion.",
+        "Do not bend the cylinder head gasket as a metal gasket is used.",
+        "Do not scratch or dent the cylinder head and cylinder gasket mating surfaces.",
+        "Do not allow coolant to adhere to electrical components or painted surfaces. If it does adhere, wipe it off immediately.",
+        "Keep magnetized objects away from the cam chain.",
+        "O-rings and gaskets must be replaced with new ones when disassembling."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When disconnecting wires, couplers and hoses for each sensor, mark them so that they cannot be mistaken during installation."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Fuel pressure Removal",
+      "refs": [
+        {
+          "id": "R000474",
+          "label": "Fuel pressure Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. 12V battery Negative (-) terminal Disconnect",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Negative (-) terminal Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Intake manifold removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the intake manifold."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000414",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000414",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000415",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000415",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Fuel injector removal",
+      "refs": [
+        {
+          "id": "R000484",
+          "label": "Fuel injector removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Catalytic Converter Removal",
+      "refs": [
+        {
+          "id": "R000507",
+          "label": "Catalytic Converter Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the catalytic converter."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000507",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000507",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R002173",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R002173",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Turbo charger removal (for vehicles equipped with a turbo charger)",
+      "refs": [
+        {
+          "id": "R000420",
+          "label": "Turbo charger removal (for vehicles equipped with a turbo charger)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. A.C. generator removal",
+      "refs": [
+        {
+          "id": "R000352",
+          "label": "A.C. generator removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Cooling water removal",
+      "refs": [
+        {
+          "id": "R000435",
+          "label": "Cooling water removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Water Passage Removal",
+      "refs": [
+        {
+          "id": "R002186",
+          "label": "Water Passage Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Water temperature sensor removal",
+      "refs": [
+        {
+          "id": "R000454",
+          "label": "Water temperature sensor removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Purge Control SOL.V. Removal",
+      "refs": [
+        {
+          "id": "R000505",
+          "label": "Purge Control SOL.V. Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. TDC sensor removal",
+      "refs": [
+        {
+          "id": "R000452",
+          "label": "TDC sensor removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "13. Cam chain removal",
+      "refs": [
+        {
+          "id": "R000369",
+          "label": "Cam chain removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "14. Camshaft Holder/Camshaft Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "372_5.0_jpn_11582831_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Loosen the camshaft holders several times in numerical order."
+    },
+    {
+      "type": "figure",
+      "asset": "372_5.0_jpn_11582832_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the camshaft holder (A) and camshaft (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "15. Rocker arm/hydraulic tappet removal"
+    },
+    {
+      "type": "figure",
+      "asset": "372_5.0_jpn_11582833_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the rocker arm (A) and hydraulic tappet (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "16. Cylinder head removal"
+    },
+    {
+      "type": "figure",
+      "asset": "372_5.0_jpn_11582834_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Loosen the cylinder head bolts several times in numerical order."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Cylinder Head Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "372_5.0_jpn_11582835_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Clean the mounting surfaces of the cylinder head and cylinder block. Install the knock pin (A) and a new cylinder head gasket (B) into the cylinder block."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Cylinder head Bolt inspection"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Cylinder head bolts shall be replaced when the most detailed outside diameter of the threads is below the limit value."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "7.62mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Cylinder head bolt tightening (when replacing cylinder head bolts)"
+    },
+    {
+      "type": "figure",
+      "asset": "372_5.0_jpn_11582836_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply engine oil to the threads and washer seat surface of the cylinder head bolts, install them, and tighten them in the order of their number to 20 N-m (2.0 kgf-m)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Use a plate type torque wrench whenever possible.",
+        "If a bolt squeaks, loosen it once and retighten it."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "372_5.0_jpn_11582837_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Tighten the cylinder head bolts 210° in numerical order."
+    },
+    {
+      "type": "figure",
+      "asset": "372_5.0_jpn_11582838_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Loosen the cylinder head bolts several times in numerical order. Tighten the cylinder head bolts again following steps 1 and 2."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Cylinder head bolt tightening (when cylinder head bolts are reused)"
+    },
+    {
+      "type": "figure",
+      "asset": "372_5.0_jpn_11582839_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply engine oil to the threads and washer seat surface of the cylinder head bolts, and tighten them in the order of their number to 20 N-m (2.0 kgf-m)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Use a plate type torque wrench whenever possible.",
+        "If a bolt squeaks, loosen it once and retighten it."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "372_5.0_jpn_11582840_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Tighten the cylinder head bolts 210° in numerical order."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Hydraulic tappet Air bleed",
+      "refs": [
+        {
+          "id": "R000382",
+          "label": "Hydraulic tappet Air bleed",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Rocker arm/hydraulic tappet mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "372_5.0_jpn_11582841_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the rocker arm (A) and hydraulic tappet (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The rocker arm must be mounted in such a way that it does not tilt."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Camshaft Holder/Camshaft Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "372_5.0_jpn_11582842_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install camshaft holder and camshaft."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The camshaft holder must be assembled with the arrow pointing toward the cam chain.",
+        "Check to make sure that the rocker arm is not tilted after the camshaft is installed."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "372_5.0_jpn_11582843_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Lubricate the threads and seat surfaces of the camshaft holder bolts with engine oil and tighten them several times in numerical order."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Specified torque",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "－ :"
+          },
+          {
+            "text": "8.0N·m (0.82kgf·m)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Cam Chain Mounting",
+      "refs": [
+        {
+          "id": "R000369",
+          "label": "Cam Chain Mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When the side engine mount assembly is removed and installed, the transmission mount and torque rod must be tightened in the correct sequence."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. TDC Sensor Mounting",
+      "refs": [
+        {
+          "id": "R000452",
+          "label": "TDC Sensor Mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Purge Control SOL.V. Installation",
+      "refs": [
+        {
+          "id": "R000505",
+          "label": "Purge Control SOL.V. Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Water temperature sensor Installation",
+      "refs": [
+        {
+          "id": "R000454",
+          "label": "Water temperature sensor Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. Water Passage Installation",
+      "refs": [
+        {
+          "id": "R002186",
+          "label": "Water Passage Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "13. A.C. Generator Installation",
+      "refs": [
+        {
+          "id": "R000352",
+          "label": "A.C. Generator Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "14. Turbo Charger Installation (Turbocharger-equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000420",
+          "label": "Turbo Charger Installation (Turbocharger-equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "15. Catalytic Converter Installation"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install catalytic converter."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000507",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000507",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R002173",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R002173",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "16. Fuel injector installation",
+      "refs": [
+        {
+          "id": "R000484",
+          "label": "Fuel injector installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "17. Intake manifold installation"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the intake manifold."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000414",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000414",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000415",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000415",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "18. 12V battery Minus (-) terminal Connection",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Minus (-) terminal Connection",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "19. Fuel leakage Check"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "When the ignition is turned to the ON mode (starter is not turned), the fuel pump operates for about 2 seconds to increase the fuel pressure in the high-pressure fuel line system. Repeat this operation 2-3 times and inspect each part of the fuel piping system for leaks."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "20. Cooling water Filling",
+      "refs": [
+        {
+          "id": "R000435",
+          "label": "Cooling water Filling",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "21. Idling Learning",
+      "refs": [
+        {
+          "id": "R000471",
+          "label": "Idling Learning",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "22. Ignition timing Ignition timing",
+      "refs": [
+        {
+          "id": "R000345",
+          "label": "Ignition timing Ignition timing",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "23. Crank pattern learning value clear/learn",
+      "refs": [
+        {
+          "id": "R000458",
+          "label": "Crank pattern learning value clear/learn",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "24. After work Inspection"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Start the engine and check that each emission control device and auxiliary equipment is functioning properly."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000372_jpn/web/html/R000372_jpn_Content.html",
+  "inOutline": true
+}

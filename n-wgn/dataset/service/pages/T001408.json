@@ -1,0 +1,438 @@
+{
+  "id": "T001408",
+  "title": "Electric Steering Lock) input check",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System Honda Smart Key System (MICU",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001408",
+  "assets": [
+    "1408_3.0_jpn_11038268_3.0_disp.png",
+    "1408_3.0_jpn_11381049_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000925",
+      "label": "Disconnect each coupler in the fuse box",
+      "resolved": true
+    },
+    {
+      "id": "R000638",
+      "label": "Disconnect the 12P coupler from the electronic steering lock",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Honda Smart Key System (MICU, Electric Steering Lock) input check"
+    },
+    {
+      "type": "paragraph",
+      "text": "Check DTC at HDS before performing input inspection."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect each coupler in the fuse box The following is a list of the most common problems with the",
+      "refs": [
+        {
+          "id": "R000925",
+          "label": "Disconnect each coupler in the fuse box",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. Perform input checks and if all is normal and there is an abnormality in the system Replace fuse box. Each coupler is all female-terminated on the cord side.",
+      "refs": [
+        {
+          "id": "R000925",
+          "label": "Replace fuse box.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1408_3.0_jpn_11381049_2.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "R5"
+          },
+          {
+            "text": "yellow",
+            "rowspan": 2
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))",
+            "rowspan": 2
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground.",
+            "rowspan": 2
+          },
+          {
+            "text": "Blown No. C11 (10A) fuse in fuse box Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "R6"
+          }
+        ],
+        [
+          {
+            "text": "M6"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "ON mode"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "B8"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G202) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "P1"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "T27"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "U17"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G403) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "F14"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Press driver door lock/unlock switch"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) Driver Door lock/unlock switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "S19"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "Assistant Door Lock/Unlock Push the switch"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G403) Assisted door lock/unlock switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "H6"
+          },
+          {
+            "text": "new leaves"
+          },
+          {
+            "text": "Press the tailgate lock/unlock switch"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G503) Tailgate lock/unlock switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "U12"
+          },
+          {
+            "text": "new leaves"
+          },
+          {
+            "text": "Disconnect the electronic steering lock 12P coupler"
+          },
+          {
+            "text": "There should be continuity between the inspection terminal and the electronic steering lock 12P coupler No. 8 terminal."
+          },
+          {
+            "text": "Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "S8"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "Short the inspection terminal to body ground."
+          },
+          {
+            "text": "The illumination of the ENGINE START STOP switch should be illuminated."
+          },
+          {
+            "text": "Blown No. C11 (10A) fuse in fuse box ENGINE START STOP switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "S1"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Short the inspection terminal to body ground."
+          },
+          {
+            "text": "The indicator on the ENGINE START STOP switch should light up."
+          },
+          {
+            "text": "Blown No. C11 (10A) fuse in fuse box ENGINE START STOP switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "U22"
+          },
+          {
+            "text": "weak matcha"
+          },
+          {
+            "text": "ON mode"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Cord disconnection and terminal connection condition"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Disconnect the 12P coupler from the electronic steering lock The following is a list of the most common problems with the",
+      "refs": [
+        {
+          "id": "R000638",
+          "label": "Disconnect the 12P coupler from the electronic steering lock",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "4. Perform an input check and if all is normal and the Honda Smart Key System is not working properly, Replace electronic steering lock.",
+      "refs": [
+        {
+          "id": "R000638",
+          "label": "Replace electronic steering lock.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1408_3.0_jpn_11038268_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Blown No. C11 (10A) fuse in fuse box Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "12"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "ON mode"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Blown No. C19 (15A) fuse in fuse box Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "7"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) Cord disconnection and terminal connection condition"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001408_jpn/web/html/T001408_jpn_Content.html",
+  "inOutline": true
+}

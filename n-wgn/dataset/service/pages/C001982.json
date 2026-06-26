@@ -1,0 +1,47 @@
+{
+  "id": "C001982",
+  "title": "MICU Structure Description - Fail-safe Function",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "integrated system",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001982",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "MICU Structure Description - Fail-safe Function"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Hardware failsafe control"
+    },
+    {
+      "type": "paragraph",
+      "text": "When a CPU error or supply voltage error is detected, the system enters a hardware fail-safe mode to prevent system malfunction. In this case, each output load is fixed at the OFF value, which is released when the system returns to normal."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Software Fail-safe Control"
+    },
+    {
+      "type": "paragraph",
+      "text": "If information from B-CAN cannot be received normally, the system enters a software failsafe mode, forcibly fixes the information that cannot be received to a specified value, and performs load control."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001982_jpn/web/html/C001982_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,689 @@
+{
+  "id": "G000515",
+  "title": "PGM-FI ECU CVT control system Coupler terminal arrangement",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM electrical system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000515",
+  "assets": [
+    "515_5.0_jpn_11582128_5.0_disp.png",
+    "515_5.0_jpn_11582129_5.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "PGM-FI ECU CVT control system Coupler terminal arrangement"
+    },
+    {
+      "type": "figure",
+      "asset": "515_5.0_jpn_11582128_5.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Terminal No.",
+            "header": true
+          },
+          {
+            "text": "Harness color",
+            "header": true
+          },
+          {
+            "text": "Terminal name",
+            "header": true
+          },
+          {
+            "text": "name",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "weak matcha"
+          },
+          {
+            "text": "FI MAIN RLY OUT"
+          },
+          {
+            "text": "PGM-FI main power supply"
+          },
+          {
+            "text": "PGM-FI ECU control circuit power supply"
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "+B VB SOL IS"
+          },
+          {
+            "text": "CVT SOL.V. Power supply"
+          },
+          {
+            "text": "Power supply for driving CVT SOL.V."
+          }
+        ],
+        [
+          {
+            "text": "5"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "SHIFT LOCK SOL"
+          },
+          {
+            "text": "Shift lock solenoid"
+          },
+          {
+            "text": "Shift lock solenoid drive"
+          }
+        ],
+        [
+          {
+            "text": "7"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "GND"
+          },
+          {
+            "text": "Power Ground"
+          },
+          {
+            "text": "Grounding of PGM-FI ECU control circuit"
+          }
+        ],
+        [
+          {
+            "text": "8"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "IG1 FUEL PUMP"
+          },
+          {
+            "text": "ignition signal"
+          },
+          {
+            "text": "Ignition signal detection"
+          }
+        ],
+        [
+          {
+            "text": "9"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "FI MAIN RLY CL-"
+          },
+          {
+            "text": "PGM-FI Main Relay"
+          },
+          {
+            "text": "PGM-FI Main Driving Relay 1"
+          }
+        ],
+        [
+          {
+            "text": "14"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "F-CAN_L"
+          },
+          {
+            "text": "F-CAN communication LOW"
+          },
+          {
+            "text": "Input/output signal (LOW) for F-CAN communication"
+          }
+        ],
+        [
+          {
+            "text": "15"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "F-CAN_H"
+          },
+          {
+            "text": "F-CAN communication HIGH"
+          },
+          {
+            "text": "Input/output signal (HIGH) for F-CAN communication"
+          }
+        ],
+        [
+          {
+            "text": "16"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "GND"
+          },
+          {
+            "text": "Power Ground"
+          },
+          {
+            "text": "Grounding of PGM-FI ECU control circuit"
+          }
+        ],
+        [
+          {
+            "text": "37"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "SCS"
+          },
+          {
+            "text": "Service Check Signal"
+          },
+          {
+            "text": "Detect signal on SCS pin of data link coupler (signal to indicate defective DTC)"
+          }
+        ],
+        [
+          {
+            "text": "39 * 1"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "STOP SW"
+          },
+          {
+            "text": "Brake switch signal"
+          },
+          {
+            "text": "Detection of braking"
+          }
+        ],
+        [
+          {
+            "text": "39 *2"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "BRK DIAG"
+          },
+          {
+            "text": "Brake switch signal"
+          },
+          {
+            "text": "Detection of braking"
+          }
+        ],
+        [
+          {
+            "text": "40 *3"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "PADDLE SW UP"
+          },
+          {
+            "text": "Paddle shift switch + (shift up)"
+          },
+          {
+            "text": "Detect paddle shift switch + (shift up) signal"
+          }
+        ],
+        [
+          {
+            "text": "47"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "ATP-P"
+          },
+          {
+            "text": "ATP-P Switch Signal"
+          },
+          {
+            "text": "Shift Position Detect P-position signal from sensor"
+          }
+        ],
+        [
+          {
+            "text": "48"
+          },
+          {
+            "text": "ash"
+          },
+          {
+            "text": "ATP-R"
+          },
+          {
+            "text": "ATP-R Switch Signal"
+          },
+          {
+            "text": "Detect R-position signal of shift position sensor"
+          }
+        ],
+        [
+          {
+            "text": "50 *3"
+          },
+          {
+            "text": "ash"
+          },
+          {
+            "text": "PADDLE SW DOWN"
+          },
+          {
+            "text": "Paddle shift switch - (shift down)"
+          },
+          {
+            "text": "Detect paddle shift switch- (shift down) signal"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "515_5.0_jpn_11582129_5.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Terminal No.",
+            "header": true
+          },
+          {
+            "text": "Harness color",
+            "header": true
+          },
+          {
+            "text": "Terminal name",
+            "header": true
+          },
+          {
+            "text": "name",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "11"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "LCCLS"
+          },
+          {
+            "text": "Lock-up clutch control SOL.V."
+          },
+          {
+            "text": "Lock-up clutch control SOL.V. drive"
+          }
+        ],
+        [
+          {
+            "text": "12"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "SCLIS"
+          },
+          {
+            "text": "Accumulator Control SOL.V."
+          },
+          {
+            "text": "Driving Accumulator Control SOL.V."
+          }
+        ],
+        [
+          {
+            "text": "13"
+          },
+          {
+            "text": "new leaves"
+          },
+          {
+            "text": "DRLS"
+          },
+          {
+            "text": "Drive Pulley Control SOL.V."
+          },
+          {
+            "text": "Drive Pulley Control SOL.V."
+          }
+        ],
+        [
+          {
+            "text": "22"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "ATPGND"
+          },
+          {
+            "text": "Shift Position Sensor Ground"
+          },
+          {
+            "text": "Grounding for shift position sensor"
+          }
+        ],
+        [
+          {
+            "text": "25"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "CPCLS"
+          },
+          {
+            "text": "Clutch Pressure Control SOL.V."
+          },
+          {
+            "text": "Clutch Pressure Control SOL.V. Drive"
+          }
+        ],
+        [
+          {
+            "text": "27"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "DNLS"
+          },
+          {
+            "text": "Driven Pouri Control SOL.V."
+          },
+          {
+            "text": "Driven by Driven Puli Control SOL.V."
+          }
+        ],
+        [
+          {
+            "text": "33"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "NDR"
+          },
+          {
+            "text": "Drive Pulley Speed Sensor"
+          },
+          {
+            "text": "Drive Pulley Speed sensor signal detection"
+          }
+        ],
+        [
+          {
+            "text": "34"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "VEL-DD"
+          },
+          {
+            "text": "Driven Pulley Speed Sensor"
+          },
+          {
+            "text": "Driven Pulley Speed Detect sensor signal"
+          }
+        ],
+        [
+          {
+            "text": "43"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "SG2"
+          },
+          {
+            "text": "Sensor Ground"
+          },
+          {
+            "text": "Grounding for Sensors"
+          }
+        ],
+        [
+          {
+            "text": "45"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "SG1"
+          },
+          {
+            "text": "Sensor Ground"
+          },
+          {
+            "text": "Grounding for Sensors"
+          }
+        ],
+        [
+          {
+            "text": "46"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "VCC1"
+          },
+          {
+            "text": "Sensor output voltage"
+          },
+          {
+            "text": "Output voltage for sensors"
+          }
+        ],
+        [
+          {
+            "text": "48"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "ATP-FWD"
+          },
+          {
+            "text": "ATP-FWD Switch Signal"
+          },
+          {
+            "text": "Detection of FWD signal from shift position sensor"
+          }
+        ],
+        [
+          {
+            "text": "50"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "ATP-D"
+          },
+          {
+            "text": "ATP-D Switch Signal"
+          },
+          {
+            "text": "Detect D-position signal of shift position sensor"
+          }
+        ],
+        [
+          {
+            "text": "52"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "NT"
+          },
+          {
+            "text": "Torque converter Turbine Speed sensor"
+          },
+          {
+            "text": "Torque Converter Turbine Speed Sensor Signal Detection"
+          }
+        ],
+        [
+          {
+            "text": "53"
+          },
+          {
+            "text": "hollow"
+          },
+          {
+            "text": "TATF"
+          },
+          {
+            "text": "Transmission Fluid Temperature Sensor"
+          },
+          {
+            "text": "Transmission Fluid Temperature Detection"
+          }
+        ],
+        [
+          {
+            "text": "66"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "ATP-RVS"
+          },
+          {
+            "text": "ATP-RVS Switch Signal"
+          },
+          {
+            "text": "Detect RVS signal from shift position sensor"
+          }
+        ],
+        [
+          {
+            "text": "67"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "ATP-L"
+          },
+          {
+            "text": "ATP-L switch signal"
+          },
+          {
+            "text": "Shift Position S-position of the sensor ＊3 or L position ＊4 Signal detection"
+          }
+        ],
+        [
+          {
+            "text": "68"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "ATP-N"
+          },
+          {
+            "text": "ATP-N switch signal"
+          },
+          {
+            "text": "Detect N-position signal of shift position sensor"
+          }
+        ],
+        [
+          {
+            "text": "73"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "PDN"
+          },
+          {
+            "text": "Driven Pulley oil pressure sensor"
+          },
+          {
+            "text": "Driven Detection of pulley oil pressure sensor signal"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131205174051/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000515_jpn/web/html/G000515_jpn_Content.html",
+  "inOutline": true
+}

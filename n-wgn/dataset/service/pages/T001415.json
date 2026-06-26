@@ -1,0 +1,181 @@
+{
+  "id": "T001415",
+  "title": "Auto Light Control Unit Input Inspection",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Auto Light Control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001415",
+  "assets": [
+    "1415_3.0_jpn_11038283_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000970",
+      "label": "Disconnect the auto light control unit 7P coupler.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Auto Light Control Unit Input Inspection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Check for blown relay box No. A14 (10A) and sub-fuse/relay box No. D1 (15A) fuses and connections before performing the inspection."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Disconnect the auto light control unit 7P coupler.",
+      "refs": [
+        {
+          "id": "R000970",
+          "label": "Disconnect the auto light control unit 7P coupler.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. Perform input inspection, if all is normal and there is something wrong with the system, Replace the auto light control unit.",
+      "refs": [
+        {
+          "id": "R000970",
+          "label": "Replace the auto light control unit.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1415_3.0_jpn_11038283_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Fuse Box Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Disconnect the auto A/C control unit (32P) coupler."
+          },
+          {
+            "text": "There should be continuity between the inspection terminal and the No.19 terminal of the auto A/C control unit (32P) coupler."
+          },
+          {
+            "text": "Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Disconnect the auto A/C control unit (32P) coupler."
+          },
+          {
+            "text": "There should be continuity between the inspection terminal and the No. 29 terminal of the auto A/C control unit (32P) coupler."
+          },
+          {
+            "text": "Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "5"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "Fuse box Remove coupler R (28P)"
+          },
+          {
+            "text": "There should be continuity between the inspection terminal and the No. 19 terminal of the fuse box coupler R (28P)."
+          },
+          {
+            "text": "Cord disconnection and terminal connection condition"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001415_jpn/web/html/T001415_jpn_Content.html",
+  "inOutline": true
+}

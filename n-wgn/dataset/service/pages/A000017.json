@@ -1,0 +1,326 @@
+{
+  "id": "A000017",
+  "title": "DTC Explanation: P0133",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000017",
+  "assets": [
+    "17_3.0_jpn_11033515_4.0_disp.png",
+    "17_3.0_jpn_11033516_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0133"
+    },
+    {
+      "type": "dtc",
+      "code": "P0133",
+      "text": "DTC P0133: LAF sensor response delay"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "17_3.0_jpn_11033515_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The LAF sensor detects the oxygen concentration in the exhaust gas and outputs a continuous signal; the PGM-FI ECU calculates the air-fuel ratio from the LAF sensor output signal value and performs fuel feedback control to further improve the exhaust gas condition. The PGM-FI ECU makes a positive or negative judgment of the sensor response characteristics by comparing the LAF sensor output value with the specified value. If the total LAF sensor output value is less than the specified value within the specified time, the PGM-FI ECU judges that the response performance of the LAF sensor has deteriorated and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "Once during D/C"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "8.0 seconds or longer"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, running, out of condition"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "LAF sensor After activation of heater power supply elapsed time",
+            "colspan": 2
+          },
+          {
+            "text": "For 60 seconds"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine coolant temperature [Water temperature sensor]",
+            "colspan": 2
+          },
+          {
+            "text": "69℃"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine intake air temperature [Intake air temperature sensor]",
+            "colspan": 2
+          },
+          {
+            "text": "-15℃* 1 -25℃* 2"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine RPM [Engine RPM]",
+            "colspan": 2
+          },
+          {
+            "text": "1,400rpm"
+          },
+          {
+            "text": "3,200rpm* 1 3,700rpm* 2"
+          }
+        ],
+        [
+          {
+            "text": "engine Inhalation air pressure"
+          },
+          {
+            "text": "1,400rpm"
+          },
+          {
+            "text": "80kPa(600mmHg)"
+          },
+          {
+            "text": "126kPa(950mmHg)* 1 90kPa(680mmHg)* 2",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "[Intake pressure SENSOR]"
+          },
+          {
+            "text": "3,000rpm"
+          },
+          {
+            "text": "34kPa(250mmHg)"
+          }
+        ],
+        [
+          {
+            "text": "Vehicle speed [vehicle speed].",
+            "colspan": 2
+          },
+          {
+            "text": "41km/h"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Fuel trim (Fuel correction value)",
+            "colspan": 2
+          },
+          {
+            "text": "0.73"
+          },
+          {
+            "text": "1.47"
+          }
+        ],
+        [
+          {
+            "text": "Air-fuel ratio feedback control",
+            "colspan": 2
+          },
+          {
+            "text": "Theoretical air-fuel ratio closed loop",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC",
+            "colspan": 2
+          },
+          {
+            "text": "P0010､ P0011､ P0102､ P0103､ P0107､ P0108､ P0112､ P0113､ P0117､ P0118､ P0122､ P0123､ P0134､ P0135､ P0171､ P0172､ P0201､ P0202､ P0203､ P0222､ P0223､ P0299､ P0300､ P0301､ P0302､ P0303､ P0335､ P0339､ P0340､ P0341､ P0344､ P0351､ P0352､ P0353､ P0401､ P0404､ P0443､ P0502､ P060A､ P1009､ P1157､ P1659､ P2101､ P2118､ P2122､ P2123､ P2127､ P2128､ P2135､ P2138､ P2176､ P21CF､ P21D0､ P21D1､ P2228､ P2229､ P2238､ P2252､ P2413､ P2A00",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Other",
+            "colspan": 2
+          },
+          {
+            "text": "No sudden load fluctuations",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "Total output of LAF sensor is 52 or less within 8.0 seconds."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "LAF sensor degradation failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "figure",
+      "asset": "17_3.0_jpn_11033516_4.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Start the engine, run the radiator fan twice, and then warm up the engine for at least 2 minutes at 3,000 rpm with no load."
+        },
+        {
+          "text": "Vehicle speed [vehicle speed] 40 km/h or less at a constant speed for at least 5 minutes."
+        },
+        {
+          "text": "Immediately vehicle speed [vehicle speed] 41 km/h or more and engine rpm [engine rpm] 1,400-3,200*. 1 (3,700)* 2 Run at a constant speed of rpm for at least 8 seconds."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When conducting test drives, the driver must comply with all laws and regulations, observe good manners, and drive in accordance with the surrounding conditions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "None."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the PGM-FI warning light comes on and the DTC and freeze data are stored."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000017_jpn/web/html/A000017_jpn_Content.html",
+  "inOutline": true
+}

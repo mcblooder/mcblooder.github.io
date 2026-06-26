@@ -1,0 +1,294 @@
+{
+  "id": "T001320",
+  "title": "How to proceed with Vehicle Stability Assist (VSA) system failure diagnosis",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001320",
+  "assets": [
+    "1320_5.0_jpn_11579945_5.0_disp.png",
+    "1320_5.0_jpn_11579948_5.0_disp.png",
+    "1320_5.0_jpn_11677754_3.0_disp.png",
+    "1320_5.0_jpn_11677755_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "T002567",
+      "label": "Inspect the data link circuitry.",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "How to proceed with Vehicle Stability Assist (VSA) system failure diagnosis"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. When the ignition is turned to the ON mode when the system is normal, the ABS warning light (A), brake warning light (red) (B), brake warning light (orange) (C), VSA warning light (D) and VSA OFF warning light (E) turn on for approximately 2 seconds to check for bulb failure, and then turn off. The brake warning light (red) does not go out when the parking brake pedal is depressed or the brake fluid level is low. 2. When a system malfunction occurs, the CPU diagnoses the location and nature of the malfunction, stores the DTC, and simultaneously turns on the ABS warning light, VSA warning light, brake warning light (red) or brake warning light (orange). 3. When a temporary or continuous failure is detected, the lighting pattern of the ABS warning light, VSA warning light, brake warning light (red) or brake warning light (orange) varies depending on the nature of the failure and can be one of the following three types. 4. Even if the system is normal, under the following conditions, the system may be judged to be malfunctioning and the ABS warning light, VSA warning light, brake warning light (red) or brake warning light (orange) may come on. When diagnosing a malfunction, these items should be taken into consideration and the DTC should be cleared if the system can be judged to be normal. 5. If any of the following applies, the engine TCS will not operate even if the system is normal. The ABS warning light, brake warning light, VSA warning light, and VSA OFF warning light do not illuminate. 6. If the PGM-FI system is abnormal, the VSA will not operate even if the VSA is normal. In this case, the PGM-FI warning light and the VSA warning light will illuminate."
+    },
+    {
+      "type": "figure",
+      "asset": "1320_5.0_jpn_11579945_5.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "On each startup, the light turns on when a fault is detected and turns off when the unit returns to normal."
+        },
+        {
+          "text": "It illuminates upon fault detection at each startup and remains illuminated until the ignition is turned to the ignition OFF (LOCK) mode, regardless of whether or not the system has returned to normal."
+        },
+        {
+          "text": "The light turns on when a fault is detected, remains on until the ignition is turned off (LOCK) mode, and turns off only when the system is run again after the next startup and returns to normal."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "4-wheel jack up state, wheel drive"
+        },
+        {
+          "text": "One wheel stuck on the drive wheel"
+        },
+        {
+          "text": "Vehicle Spin"
+        },
+        {
+          "text": "ABS, TCS, and VSA control conditions for extended periods of time"
+        },
+        {
+          "text": "Disturbance signal (noise)"
+        },
+        {
+          "text": "Incorrect tire size or pressure"
+        },
+        {
+          "text": "Suspension alignment maladjustment"
+        },
+        {
+          "text": "Heavy use of brakes in overloaded conditions"
+        },
+        {
+          "text": "Lateral impact and towing"
+        },
+        {
+          "text": "Low 12V battery voltage"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Engine speed 400 rpm or less"
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "When an abnormality occurs in the system, the CPU diagnoses the fault location and the nature of the fault, and stores the DTC in EEPROM (nonvolatile memory)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "DTCs can only be cleared if the specified work procedures are followed and not under the following conditions"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Ignition OFF (LOCK) mode or when 12V battery terminals are disconnected"
+        },
+        {
+          "text": "システムが正常に復帰した場合​"
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Up to 10 DTCs can be stored, with the latest DTC being stored and the oldest DTC being erased. However, the same DTC will be overwritten. Therefore, even if the same abnormality is detected multiple times, only one DTC is stored."
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Confirmation of DTC should be done according to the specified procedure."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "There are two types of self-diagnosis"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "initial diagnosis"
+        },
+        {
+          "text": "always-on diagnosis"
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "If an abnormality is detected in self-diagnosis, the following control is performed."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "ABS warning light, VSA warning light, brake warning light (red), brake warning light (orange)"
+        },
+        {
+          "text": "Memory of DTC"
+        },
+        {
+          "text": "Deactivation of ABS, TCS, VSA, Hill Start Assist, EBD or Brake Assist control"
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "During ABS control, the pump motor is activated. When the pump motor is activated, brake fluid in the modulator is pumped to the master cylinder, causing kickback. Therefore, even if kickback occurs, the brake pedal must be kept depressed as in the case of normal braking."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "The pump motor operates during ABS, brake assist, and VSA control."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "The VSA modulator control unit checks the operation of the pump motor during the first acceleration after ignition ON mode. In this case, an operating noise may be heard, but it is not abnormal."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Brake fluid replacement and bleeding should be performed in the same manner as for vehicles not equipped with VSA."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "The failure diagnosis by DTC is based on the assumption that a failure occurs and the ABS warning light, VSA warning light, brake warning light (red) or brake warning light (orange) illuminates. Therefore, if failure diagnosis is performed when the ABS warning light, VSA warning light, brake warning light (red) or brake warning light (orange) does not illuminate, it may result in an incorrect judgment."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "When checking for symptoms, a medical interview should be conducted, and whenever possible, the same conditions should be used as when the warning light comes on. The timing at which the warning light comes on covers a wide range, including during initial diagnosis, at each control, at the end of each control, and at startup. Therefore, if the conditions do not match, the symptoms cannot be confirmed."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "If the system abnormality is not reproduced after test driving and the ABS warning light, VSA warning light, brake warning light (red) or brake warning light (orange) does not illuminate, a transient failure due to poor coupler contact, etc. is considered, so when diagnosing the failure, check the coupler connection, disconnect the coupler, and then visually check the terminals After disconnecting the coupler, visually inspect the terminals."
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "After the repair is completed, clear the DTC and then test drive the vehicle to confirm that the ABS warning light, VSA warning light, brake warning light (red) or brake warning light (orange) does not illuminate."
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Coupler The illustration shows a female terminal coupler with a single frame and a male terminal coupler with a double frame."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The HDS (Honda Diagnostics System) must be connected and disconnected with the ignition in the OFF (LOCK) mode."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Connect HDS to the data link coupler (A) on the driver's side with the ignition in the OFF (LOCK) mode. 2. Turn ignition to ON mode. 3. Verify that HDS communicates with the vehicle and the VSA modulator control unit. If it does not communicate, Inspect the data link circuitry. 4. Check the DTC (Diagnostic Trouble Code) displayed on the HDS.",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "Inspect the data link circuitry.",
+          "resolved": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1320_5.0_jpn_11677754_3.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For information on the use of HDS, refer to the HDS instruction manual."
+        },
+        {
+          "text": "HDS can display various VSA modulator control unit data, such as freeze data and snapshots, so it is useful to select the mode required for the task at hand when performing failure diagnosis."
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "HDS must be connected and disconnected with the ignition in the OFF (LOCK) mode."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Connect HDS to the data link coupler (A) on the driver's side with the ignition in the OFF (LOCK) mode. 2. Turn ignition to ON mode. 3. Verify that HDS communicates with the vehicle and the VSA modulator control unit. If it does not communicate, Inspect the data link circuitry. 4. Use HDS to clear DTC. For information on the use of HDS, refer to the HDS instruction manual.",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "Inspect the data link circuitry.",
+          "resolved": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1320_5.0_jpn_11677755_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Connect a commercially available test probe (C) to the pin probe (B) of a commercially available digital circuit tester (A), and inspect the coupler from the terminal side."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Always use a commercially available test probe that fits the coupler terminals, and do not force it into the coupler."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1320_5.0_jpn_11579948_5.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001320_jpn/web/html/T001320_jpn_Content.html",
+  "inOutline": true
+}

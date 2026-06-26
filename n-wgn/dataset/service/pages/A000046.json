@@ -1,0 +1,176 @@
+{
+  "id": "A000046",
+  "title": "DTC Explanation: P0563",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000046",
+  "assets": [
+    "46_3.0_jpn_11443428_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0563"
+    },
+    {
+      "type": "dtc",
+      "code": "P0563",
+      "text": "DTC P0563: ECU power supply circuit abnormal"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "46_3.0_jpn_11443428_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "When a ground fault occurs between the PGM-FI ECU and PGM-FI main relay 1 (FI MAIN RLY CL-line), the combination meter, ignition coil, and fuel pump power are linked to the ignition operation and turn on and off as usual, but PGM-FI main relay 1 is always The PGM-FI ECU monitors the correlation between the PGM-FI main relay 1 and the ignition operation. If the PGM-FI ECU is still operating after a predetermined period of time in the ignition OFF (LOCK) mode, the PGM-FI ECU determines a fault and stores a DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "More than 5 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: off"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "12V battery voltage [battery voltage] (PGM-FI ECU's FI MAIN RLY OUT terminal)"
+          },
+          {
+            "text": "10.0V"
+          },
+          {
+            "text": "―"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the PGM-FI ECU remains in operation for more than 5 seconds after the ignition is turned to the OFF (LOCK) mode and the self shutdown is completed."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Ground fault in code (FI MAIN RLY CL-line) between PGM-FI ECU and PGM-FI main relay 1"
+        },
+        {
+          "text": "PGM-FI Main Relay 1 ON failure"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the DTC and freeze data are stored without turning on the PGM-FI warning light."
+    },
+    {
+      "type": "paragraph",
+      "text": "Temporary DTCs, DTCs and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000046_jpn/web/html/A000046_jpn_Content.html",
+  "inOutline": true
+}

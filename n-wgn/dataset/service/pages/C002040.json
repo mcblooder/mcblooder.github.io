@@ -1,0 +1,49 @@
+{
+  "id": "C002040",
+  "title": "Rear Defroster Structure Description - Overview",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "Rear defroster",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002040",
+  "assets": [
+    "2040_3.0_jpn_11390986_2.0_disp.png",
+    "2040_3.0_jpn_11390987_4.0_disp.png",
+    "2040_3.0_jpn_11390988_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear Defroster Structure Description - Overview"
+    },
+    {
+      "type": "paragraph",
+      "text": "(For vehicles equipped with auto A/C, it is controlled by the auto A/C control unit. The rear defroster/mirror heater* switch is turned ON to start operation, and the operation is canceled when the rear defroster/mirror heater* switch is turned ON again or the ignition is turned to the OFF (LOCK) mode during operation. *: Cars equipped with mirror heaters"
+    },
+    {
+      "type": "figure",
+      "asset": "2040_3.0_jpn_11390986_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2040_3.0_jpn_11390987_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2040_3.0_jpn_11390988_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002040_jpn/web/html/C002040_jpn_Content.html",
+  "inOutline": true
+}

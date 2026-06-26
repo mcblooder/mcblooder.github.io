@@ -1,0 +1,266 @@
+{
+  "id": "R002173",
+  "title": "Catalytic converter desorption",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Three-way catalytic converter",
+  "subtitle": "",
+  "dgName": "Turbo Charger equipped vehicle",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002173",
+  "assets": [
+    "2173_3.0_jpn_11582666_3.0_disp.png",
+    "2173_3.0_jpn_11582667_3.0_disp.png",
+    "2173_3.0_jpn_11582668_3.0_disp.png",
+    "2173_3.0_jpn_11582669_3.0_disp.png",
+    "2173_3.0_jpn_11582670_3.0_disp.png",
+    "2173_3.0_jpn_11582671_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Up",
+      "resolved": true
+    },
+    {
+      "id": "R000416",
+      "label": "Exhaust pipe/silencer removal",
+      "resolved": true
+    },
+    {
+      "id": "R000842",
+      "label": "Front upper grille removal",
+      "resolved": true
+    },
+    {
+      "id": "R000450",
+      "label": "Secondary O 2 Sensor Removal",
+      "resolved": true
+    },
+    {
+      "id": "R000449",
+      "label": "LAF sensor removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Catalytic converter desorption"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Up",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Up",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Exhaust pipe/silencer removal",
+      "refs": [
+        {
+          "id": "R000416",
+          "label": "Exhaust pipe/silencer removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Front upper grille removal",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front upper grille removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Secondary O 2 Sensor Removal",
+      "refs": [
+        {
+          "id": "R000450",
+          "label": "Secondary O 2 Sensor Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. LAF sensor removal",
+      "refs": [
+        {
+          "id": "R000449",
+          "label": "LAF sensor removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Cover Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2173_3.0_jpn_11582666_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the cover (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Catalytic Converter Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2173_3.0_jpn_11582667_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the catalytic converter (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Catalytic converter cover removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2173_3.0_jpn_11582668_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the cover (B) and bracket (C) from the catalytic converter (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Catalytic Converter Cover Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "2173_3.0_jpn_11582669_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Attach the cover (B) and bracket (C) to the catalytic converter (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Bolts (D) shall be temporarily tightened."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Catalytic Converter Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "2173_3.0_jpn_11582670_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Tighten bolts and nuts (A). Tighten the bolts (B) in numerical order."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Gasket (C) shall be replaced upon disassembly."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Cover Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "2173_3.0_jpn_11582671_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the cover (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. LAF sensor Installation",
+      "refs": [
+        {
+          "id": "R000449",
+          "label": "LAF sensor Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Secondary O 2 Sensor Mounting",
+      "refs": [
+        {
+          "id": "R000450",
+          "label": "Secondary O 2 Sensor Mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Front upper grille installation",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front upper grille installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Exhaust pipe/silencer installation",
+      "refs": [
+        {
+          "id": "R000416",
+          "label": "Exhaust pipe/silencer installation",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002173_jpn/web/html/R002173_jpn_Content.html",
+  "inOutline": true
+}

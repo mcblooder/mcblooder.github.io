@@ -1,0 +1,140 @@
+{
+  "id": "T986147",
+  "title": "S (vehicles equipped with paddle shift switch) and L (vehicles not equipped with paddle shift switch) positions",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM hydraulic system control Unable to start in D",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986147",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R000554",
+      "label": "Control wire inspection and adjustment",
+      "resolved": true
+    },
+    {
+      "id": "R000557",
+      "label": "Inspect shift position sensor.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Unable to start in D, S (vehicles equipped with paddle shift switch) and L (vehicles not equipped with paddle shift switch) positions"
+    },
+    {
+      "type": "paragraph",
+      "text": "checklist"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Control wire inspection and adjustment",
+          "refs": [
+            {
+              "id": "R000554",
+              "label": "Control wire inspection and adjustment",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Inspect shift position sensor.",
+          "refs": [
+            {
+              "id": "R000557",
+              "label": "Inspect shift position sensor.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Manual Valve Lever Inspection"
+        },
+        {
+          "text": "Forward Clutch Assy. inspection"
+        },
+        {
+          "text": "Inspect forward drive gears and driven gears."
+        },
+        {
+          "text": "Feed Pipe Inspection"
+        },
+        {
+          "text": "Inspect stator shaft"
+        },
+        {
+          "text": "Input shaft inspection"
+        },
+        {
+          "text": "Inspection of main valve body assy."
+        },
+        {
+          "text": "Inspect solenoid harness"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "probable cause"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Control wire maladjustment or control wire failure"
+        },
+        {
+          "text": "Wire end disconnected, control lever pin broken"
+        },
+        {
+          "text": "Shift Position Defective sensor or poor adjustment"
+        },
+        {
+          "text": "Manual valve lever damaged, lever pin damaged"
+        },
+        {
+          "text": "Forward clutch assembly. defective"
+        },
+        {
+          "text": "Forward drive gear, forward driven gear damaged"
+        },
+        {
+          "text": "Feed Pipe damaged, O-ring defective"
+        },
+        {
+          "text": "Stator shaft damage"
+        },
+        {
+          "text": "Input shaft seal ring defective, O-ring defective"
+        },
+        {
+          "text": "Main valve body assembly. defective"
+        },
+        {
+          "text": "Solenoid Harness failure"
+        },
+        {
+          "text": "PGM-FI ECU failure"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986147_jpn/web/html/T986147_jpn_Content.html",
+  "inOutline": true
+}

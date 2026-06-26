@@ -1,0 +1,278 @@
+{
+  "id": "T002197",
+  "title": "Cruise Control Failure Diagnostic Table by Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Speed/body control",
+  "system": "Cruise control system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002197",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T002547",
+      "label": "Check DTC",
+      "resolved": true
+    },
+    {
+      "id": "R001084",
+      "label": "Inspect cruise control combination switch.",
+      "resolved": true
+    },
+    {
+      "id": "T002198",
+      "label": "Cruise control input check",
+      "resolved": true
+    },
+    {
+      "id": "T001427",
+      "label": "Combination Meter Self-Diagnosis",
+      "resolved": true
+    },
+    {
+      "id": "R000683",
+      "label": "Inspect cruise brake switch",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cruise Control Failure Diagnostic Table by Symptom"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "symptoms",
+            "header": true
+          },
+          {
+            "text": "diagnostic item",
+            "header": true
+          },
+          {
+            "text": "related item",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Cruise control system inoperative."
+          },
+          {
+            "text": "1. Inspect No. D4 (7.5A) fuse in sub fuse/relay box 2. Check DTC 3. Inspect cruise control combination switch. 4. Verify that the horn blows normally 5. Cruise control input check",
+            "refs": [
+              {
+                "id": "T002547",
+                "label": "Check DTC",
+                "resolved": true
+              },
+              {
+                "id": "R001084",
+                "label": "Inspect cruise control combination switch.",
+                "resolved": true
+              },
+              {
+                "id": "T002198",
+                "label": "Cruise control input check",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of cord between cruise control combination switch and combination meter. Combination Meter"
+          }
+        ],
+        [
+          {
+            "text": "Cruise control system works but cruise main indicator light does not illuminate"
+          },
+          {
+            "text": "Combination Meter Self-Diagnosis",
+            "refs": [
+              {
+                "id": "T001427",
+                "label": "Combination Meter Self-Diagnosis",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Combination Meter"
+          }
+        ],
+        [
+          {
+            "text": "Cruise control system operates but cruise control indicator light does not illuminate"
+          },
+          {
+            "text": "Combination Meter Self-Diagnosis",
+            "refs": [
+              {
+                "id": "T001427",
+                "label": "Combination Meter Self-Diagnosis",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Combination Meter"
+          }
+        ],
+        [
+          {
+            "text": "Increasing and decreasing speed while cruising is not linked to the RES+ and SET- switches."
+          },
+          {
+            "text": "1. Check DTC 2. Inspect cruise control combination switch. 3. Cruise control input check",
+            "refs": [
+              {
+                "id": "T002547",
+                "label": "Check DTC",
+                "resolved": true
+              },
+              {
+                "id": "R001084",
+                "label": "Inspect cruise control combination switch.",
+                "resolved": true
+              },
+              {
+                "id": "T002198",
+                "label": "Cruise control input check",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Brake pedal does not release the set speed when cruise is in progress"
+          },
+          {
+            "text": "1. Inspect No. C32 (7.5A) fuse in fuse box 2. Check DTC 3. Inspect cruise brake switch 4. Cruise control input check",
+            "refs": [
+              {
+                "id": "T002547",
+                "label": "Check DTC",
+                "resolved": true
+              },
+              {
+                "id": "R000683",
+                "label": "Inspect cruise brake switch",
+                "resolved": true
+              },
+              {
+                "id": "T002198",
+                "label": "Cruise control input check",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Short circuit in cord between PGM-FI ECU and cruise brake switch"
+          }
+        ],
+        [
+          {
+            "text": "Set speed is not released when CRUISE switch is turned OFF while driving in cruise"
+          },
+          {
+            "text": "1. Check DTC 2. Inspect cruise control combination switch. 3. Cruise control input check",
+            "refs": [
+              {
+                "id": "T002547",
+                "label": "Check DTC",
+                "resolved": true
+              },
+              {
+                "id": "R001084",
+                "label": "Inspect cruise control combination switch.",
+                "resolved": true
+              },
+              {
+                "id": "T002198",
+                "label": "Cruise control input check",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Pressing the CANCEL switch while cruising does not cancel the set vehicle speed"
+          },
+          {
+            "text": "1. Check DTC 2. Inspect cruise control combination switch. 3. Cruise control input check",
+            "refs": [
+              {
+                "id": "T002547",
+                "label": "Check DTC",
+                "resolved": true
+              },
+              {
+                "id": "R001084",
+                "label": "Inspect cruise control combination switch.",
+                "resolved": true
+              },
+              {
+                "id": "T002198",
+                "label": "Cruise control input check",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "When the set speed is released by the brake pedal with the CRUISE switch ON, pressing the RES+ switch does not return the vehicle speed to the set speed."
+          },
+          {
+            "text": "1. Check DTC 2. Inspect cruise control combination switch. 3. Cruise control input check",
+            "refs": [
+              {
+                "id": "T002547",
+                "label": "Check DTC",
+                "resolved": true
+              },
+              {
+                "id": "R001084",
+                "label": "Inspect cruise control combination switch.",
+                "resolved": true
+              },
+              {
+                "id": "T002198",
+                "label": "Cruise control input check",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131120135106/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002197_jpn/web/html/T002197_jpn_Content.html",
+  "inOutline": true
+}

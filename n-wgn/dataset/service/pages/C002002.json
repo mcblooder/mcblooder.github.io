@@ -1,0 +1,52 @@
+{
+  "id": "C002002",
+  "title": "Turn Signal/Hazard Light Structure Description - Control/Function",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Turn Signal/Hazard Lights",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002002",
+  "assets": [
+    "2002_3.0_jpn_11155863_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Turn Signal/Hazard Light Structure Description - Control/Function"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Turn Signal/Hazard Light Control"
+    },
+    {
+      "type": "paragraph",
+      "text": "The MICU controls the flashing of each turn signal light based on the input signals from the turn signal switch and hazard switch. For vehicles equipped with the security system, the lights flash when the security system is activated and when the doors are locked/unlocked by keyless or smart key operation, depending on the answer back function."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the disconnection detection function detects a disconnection, the blinking interval is shortened to indicate the disconnection."
+    },
+    {
+      "type": "paragraph",
+      "text": "If disconnection detection cannot be performed due to an internal MICU error (EEPROM error), the blinking interval is shortened to indicate the error."
+    },
+    {
+      "type": "figure",
+      "asset": "2002_3.0_jpn_11155863_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002002_jpn/web/html/C002002_jpn_Content.html",
+  "inOutline": true
+}

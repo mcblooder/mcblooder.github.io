@@ -1,0 +1,77 @@
+{
+  "id": "T986134",
+  "title": "Smart warning light does not come on or go off",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986134",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T001401",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Smart warning light does not come on or go off"
+    },
+    {
+      "type": "paragraph",
+      "text": "diagnostic procedure"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Failure Diagnosis by Symptom ​",
+          "refs": [
+            {
+              "id": "T001401",
+              "label": "Failure Diagnosis by Symptom",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "checklist"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Disconnection or short-circuit of B-CAN line"
+        },
+        {
+          "text": "Disconnection or short-circuit of F-CAN line"
+        },
+        {
+          "text": "Combination Meter"
+        },
+        {
+          "text": "MICU"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986134_jpn/web/html/T986134_jpn_Content.html",
+  "inOutline": true
+}

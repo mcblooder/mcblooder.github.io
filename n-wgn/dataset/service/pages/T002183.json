@@ -1,0 +1,713 @@
+{
+  "id": "T002183",
+  "title": "Diagnostic chart of hydraulic system failures by CVT symptoms",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM hydraulic system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002183",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R000554",
+      "label": "Control wire inspection and adjustment",
+      "resolved": true
+    },
+    {
+      "id": "R000557",
+      "label": "Inspect shift position sensor.",
+      "resolved": true
+    },
+    {
+      "id": "R000542",
+      "label": "Transmission Fluid Level Inspection",
+      "resolved": true
+    },
+    {
+      "id": "R000576",
+      "label": "Transmission Fluid Strainer Inspection",
+      "resolved": true
+    },
+    {
+      "id": "R000537",
+      "label": "Transmission Fluid Temperature Sensor Inspection",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Diagnostic chart of hydraulic system failures by CVT symptoms"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Failure Symptoms",
+            "header": true
+          },
+          {
+            "text": "checklist",
+            "header": true
+          },
+          {
+            "text": "probable cause",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Engine will not start."
+          },
+          {
+            "text": "Inspect drive plate Inspection of torque converter assy. Control wire inspection and adjustment Inspect shift position sensor.",
+            "refs": [
+              {
+                "id": "R000554",
+                "label": "Control wire inspection and adjustment",
+                "resolved": true
+              },
+              {
+                "id": "R000557",
+                "label": "Inspect shift position sensor.",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Drive plate damaged Torque converter assy. defective Control wire maladjustment or control wire failure Wire end disconnected, control lever pin broken Shift Position Defective sensor or poor adjustment PGM-FI ECU failure"
+          }
+        ],
+        [
+          {
+            "text": "Engine can start, but cannot start in any position."
+          },
+          {
+            "text": "Transmission Fluid Level Inspection Inspect shift position sensor. Inspect drive plate Inspection of main valve body assy. Transmission Fluid Strainer Inspection Inspect solenoid harness Transmission Inspect the pulleys and pulley belts in the case. Inspect pulley pressure feed pipe Input shaft inspection Inspect final drive gear and final driven gear. Inspection of differential assy. Inspection of control shaft Comp. Check control levers Inspect parking brake pole and pole shaft. Manual Valve Lever Inspection Inspect oil pump assy. Inspect oil pump drive chain and sprockets Inspection of torque converter assy. Engine power adjustment",
+            "refs": [
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Level Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000557",
+                "label": "Inspect shift position sensor.",
+                "resolved": true
+              },
+              {
+                "id": "R000576",
+                "label": "Transmission Fluid Strainer Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Insufficient transmission fluid Shift Position Defective sensor or poor adjustment Drive plate damaged Main valve body assembly. defective Transmission fluid strainer clogged Solenoid Harness failure Defective pulley-related parts Feed Pipe damaged, O-ring defective Pulley pressure feed Pipe damaged, O-ring defective Pulley pressure feed Pipe seal ring defective Input shaft defective, needle bearing damaged Input shaft seal ring defective, O-ring defective Final drive gear, final driven gear damaged Differential Assy. defective Control Shaft Comp. defective Control lever broken Parking brake Pole, pole shaft damaged Manual valve lever damaged, lever pin damaged Defective oil pump assembly. Oil pump Drive chain broken, sprocket broken Oil pump drive sprocket Sealing failure Torque converter assy. defective Insufficient engine power PGM-FI ECU failure Transmission assembly and drive plate installation failure"
+          }
+        ],
+        [
+          {
+            "text": "Unable to start in D, S (vehicles equipped with paddle shift switch) and L (vehicles not equipped with paddle shift switch) positions"
+          },
+          {
+            "text": "Control wire inspection and adjustment Inspect shift position sensor. Manual Valve Lever Inspection Forward Clutch Assy. inspection Inspect forward drive gears and driven gears. Feed Pipe Inspection Inspect stator shaft Input shaft inspection Inspection of main valve body assy. Inspect solenoid harness",
+            "refs": [
+              {
+                "id": "R000554",
+                "label": "Control wire inspection and adjustment",
+                "resolved": true
+              },
+              {
+                "id": "R000557",
+                "label": "Inspect shift position sensor.",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Control wire maladjustment or control wire failure Wire end disconnected, control lever pin broken Shift Position Defective sensor or poor adjustment Manual valve lever damaged, lever pin damaged Forward clutch assembly. defective Forward drive gear, forward driven gear damaged Feed Pipe damaged, O-ring defective Stator shaft damage Input shaft seal ring defective, O-ring defective Main valve body assembly. defective Solenoid Harness failure PGM-FI ECU failure"
+          }
+        ],
+        [
+          {
+            "text": "Cannot start in R position"
+          },
+          {
+            "text": "Control wire inspection and adjustment Inspect shift position sensor. Manual Valve Lever Inspection Reverse Clutch Assy. inspection Inspect reverse drive gears and driven gears. Inspection of main valve body assy. Feed Pipe Inspection Inspect solenoid harness",
+            "refs": [
+              {
+                "id": "R000554",
+                "label": "Control wire inspection and adjustment",
+                "resolved": true
+              },
+              {
+                "id": "R000557",
+                "label": "Inspect shift position sensor.",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Control wire maladjustment or control wire failure Wire end disconnected, control lever pin broken Shift Position Defective sensor or poor adjustment Manual valve lever damaged, lever pin damaged Reverse clutch assembly. defective Reverse drive gear, reverse driven gear failure Main valve body assembly. defective Feed Pipe damaged, O-ring defective Solenoid Harness failure PGM-FI ECU failure"
+          }
+        ],
+        [
+          {
+            "text": "Engine stops when shifting from N to D position."
+          },
+          {
+            "text": "Engine power adjustment Inspection of torque converter assy. Inspection of main valve body assy. Inspect solenoid harness"
+          },
+          {
+            "text": "Insufficient engine power Torque converter assy. defective Main valve body assembly. defective Solenoid Harness failure PGM-FI ECU failure"
+          }
+        ],
+        [
+          {
+            "text": "Engine stops when shifting from N to R position."
+          },
+          {
+            "text": "Engine power adjustment Inspection of torque converter assy. Inspection of main valve body assy. Inspect solenoid harness"
+          },
+          {
+            "text": "Insufficient engine power Torque converter assy. defective Main valve body assembly. defective Solenoid Harness failure PGM-FI ECU failure"
+          }
+        ],
+        [
+          {
+            "text": "No shifting gears."
+          },
+          {
+            "text": "Torque Converter Turbine Speed Sensor Inspection Inspect drive pulley speed sensor Inspection of main valve body assy. Driven Pulley Speed sensor inspection Inspect solenoid harness Transmission Inspect the pulleys and pulley belts in the case. Inspect pulley pressure feed pipe Feed Pipe Inspection"
+          },
+          {
+            "text": "Torque converter Turbine speed sensor failure Drive pulley speed sensor failure Main valve body assembly. defective Driven Pulley speed sensor failure Solenoid Harness failure Defective pulley-related parts Pulley pressure feed Pipe damaged, O-ring defective Pulley pressure feed Pipe seal ring defective Feed Pipe damaged, O-ring defective PGM-FI ECU failure Transmission assembly and drive plate installation failure"
+          }
+        ],
+        [
+          {
+            "text": "Poor acceleration"
+          },
+          {
+            "text": "Engine power adjustment Inspect drive pulley speed sensor Transmission Fluid Strainer Inspection Inspection of main valve body assy. Driven Pulley Speed sensor inspection Torque Converter Turbine Speed Sensor Inspection Inspect solenoid harness Transmission Inspect the pulleys and pulley belts in the case. Inspect pulley pressure feed pipe Feed Pipe Inspection Inspect stator shaft Inspection of torque converter assy.",
+            "refs": [
+              {
+                "id": "R000576",
+                "label": "Transmission Fluid Strainer Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Insufficient engine power Drive pulley speed sensor failure Transmission fluid strainer clogged Main valve body assembly. defective Driven Pulley speed sensor failure Torque converter Turbine Speed sensor defective Solenoid Harness failure Defective pulley-related parts Pulley pressure feed Pipe damaged, O-ring defective Pulley pressure feed Pipe seal ring defective Feed Pipe damaged, O-ring defective Stator shaft damage Torque converter assy. defective PGM-FI ECU failure Transmission assembly and drive plate installation failure"
+          }
+        ],
+        [
+          {
+            "text": "Engine blows up while driving and cannot accelerate"
+          },
+          {
+            "text": "Transmission Fluid Level Inspection Transmission Fluid Inspection Torque Converter Turbine Speed Sensor Inspection Transmission Fluid Strainer Inspection Inspection of main valve body assy. Driven Pulley Speed sensor inspection Inspect drive pulley speed sensor Inspect solenoid harness Forward Clutch Assy. inspection Reverse Clutch Assy. inspection Transmission Inspect the pulleys and pulley belts in the case. Inspect pulley pressure feed pipe Feed Pipe Inspection",
+            "refs": [
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Level Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000576",
+                "label": "Transmission Fluid Strainer Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Insufficient transmission fluid Transmission fluid deterioration Torque converter Turbine speed sensor failure Transmission fluid strainer clogged Main valve body assembly. defective Driven Pulley speed sensor failure Drive pulley speed sensor failure Solenoid Harness failure Forward clutch assembly. defective Reverse clutch assembly. defective Defective pulley-related parts Pulley pressure feed Pipe damaged, O-ring defective Pulley pressure feed Pipe seal ring defective Feed Pipe damaged, O-ring defective PGM-FI ECU failure Transmission assembly and drive plate installation failure"
+          }
+        ],
+        [
+          {
+            "text": "Large shock when accelerator pedal is depressed or when accelerator pedal is released"
+          },
+          {
+            "text": "Transmission Fluid Level Inspection Transmission Fluid Inspection Inspection of main valve body assy. Inspect solenoid harness Forward Clutch Assy. inspection Reverse Clutch Assy. inspection Transmission Inspect the pulleys and pulley belts in the case. Inspect pulley pressure feed pipe Feed Pipe Inspection Inspection of torque converter assy.",
+            "refs": [
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Level Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Insufficient transmission fluid Transmission fluid deterioration Main valve body assembly. defective Solenoid Harness failure Forward clutch assembly. defective Reverse clutch assembly. defective Defective pulley-related parts Pulley pressure feed Pipe damaged, O-ring defective Pulley pressure feed Pipe seal ring defective Feed Pipe damaged, O-ring defective Torque converter assy. defective PGM-FI ECU failure Transmission assembly and drive plate installation failure"
+          }
+        ],
+        [
+          {
+            "text": "Engine Brakes not working"
+          },
+          {
+            "text": "Torque Converter Turbine Speed Sensor Inspection Inspection of main valve body assy. Inspection of tilt sensor Inspect solenoid harness Inspect drive pulley speed sensor Driven Pulley Speed sensor inspection Feed Pipe Inspection Inspection of torque converter assy. Forward Clutch Assy. inspection Inspect pulleys and pulley belts in transmission case."
+          },
+          {
+            "text": "Torque converter Turbine speed sensor failure Main valve body assembly. defective Inclination sensor failure Solenoid Harness failure Drive pulley speed sensor failure Driven Pulley speed sensor failure Feed Pipe damaged, O-ring defective Torque converter assy. defective Forward clutch assembly. defective Defective pulley-related parts PGM-FI ECU failure"
+          }
+        ],
+        [
+          {
+            "text": "No creep on flat roads in D, S (vehicles equipped with paddle shift switch) and L (vehicles not equipped with paddle shift switch) positions (when the brake pedal is not depressed)"
+          },
+          {
+            "text": "Transmission Fluid Level Inspection Engine power adjustment Inspection of main valve body assy. Inspect drive pulley speed sensor Driven Pulley Speed sensor inspection Inspect solenoid harness Transmission Inspect the pulleys and pulley belts in the case. Inspect pulley pressure feed pipe Feed Pipe Inspection Inspection of torque converter assy. Inspect stator shaft Transmission Fluid Strainer Inspection",
+            "refs": [
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Level Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000576",
+                "label": "Transmission Fluid Strainer Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Insufficient transmission fluid Insufficient engine power Main valve body assembly. defective Drive pulley speed sensor failure Driven Pulley speed sensor failure Solenoid Harness failure Defective pulley-related parts Pulley pressure feed Pipe damaged, O-ring defective Pulley pressure feed Pipe seal ring defective Feed Pipe damaged, O-ring defective Torque converter assy. defective Stator shaft damage Transmission fluid strainer clogged PGM-FI ECU failure Transmission assembly and drive plate installation failure"
+          }
+        ],
+        [
+          {
+            "text": "Creep in N position, control wires and shift position sensor are properly adjusted"
+          },
+          {
+            "text": "Forward Clutch Assy. inspection Reverse Clutch Assy. inspection Input shaft inspection Manual Valve Lever Inspection Inspection of main valve body assy."
+          },
+          {
+            "text": "Forward Clutch Assy. defective Reverse clutch assembly. defective Input shaft defective, needle bearing damaged Manual valve lever damaged, lever pin damaged Main valve body assembly. defective"
+          }
+        ],
+        [
+          {
+            "text": "Slow switching when shifting from N to D position and from D to N position"
+          },
+          {
+            "text": "Transmission Fluid Level Inspection Transmission Fluid Inspection Control wire inspection and adjustment Inspect shift position sensor. Torque Converter Turbine Speed Sensor Inspection Transmission Fluid Strainer Inspection Inspection of main valve body assy. Feed Pipe Inspection Forward Clutch Assy. inspection Manual Valve Lever Inspection",
+            "refs": [
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Level Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000554",
+                "label": "Control wire inspection and adjustment",
+                "resolved": true
+              },
+              {
+                "id": "R000557",
+                "label": "Inspect shift position sensor.",
+                "resolved": true
+              },
+              {
+                "id": "R000576",
+                "label": "Transmission Fluid Strainer Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Insufficient transmission fluid Transmission fluid deterioration Control wire maladjustment or control wire failure Wire end disconnected, control lever pin broken Shift Position Defective sensor or poor adjustment Torque converter Turbine speed sensor failure Transmission fluid strainer clogged Main valve body assembly. defective Feed Pipe damaged, O-ring defective Forward clutch assembly. defective Manual valve lever damaged, lever pin damaged PGM-FI ECU failure"
+          }
+        ],
+        [
+          {
+            "text": "Slow switching when shifting from the N position to the R position and from the R position to the N position"
+          },
+          {
+            "text": "Transmission Fluid Level Inspection Transmission Fluid Inspection Control wire inspection and adjustment Inspect shift position sensor. Torque Converter Turbine Speed Sensor Inspection Transmission Fluid Strainer Inspection Inspection of main valve body assy. Reverse Clutch Assy. inspection Manual Valve Lever Inspection Feed Pipe Inspection",
+            "refs": [
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Level Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000554",
+                "label": "Control wire inspection and adjustment",
+                "resolved": true
+              },
+              {
+                "id": "R000557",
+                "label": "Inspect shift position sensor.",
+                "resolved": true
+              },
+              {
+                "id": "R000576",
+                "label": "Transmission Fluid Strainer Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Insufficient transmission fluid Transmission fluid deterioration Control wire maladjustment or control wire failure Wire end disconnected, control lever pin broken Shift Position Defective sensor or poor adjustment Torque converter Turbine speed sensor failure Transmission fluid strainer clogged Main valve body assembly. defective Reverse clutch assembly. defective Manual valve lever damaged, lever pin damaged Feed Pipe damaged, O-ring defective PGM-FI ECU failure"
+          }
+        ],
+        [
+          {
+            "text": "Engine RPM hunting."
+          },
+          {
+            "text": "Transmission Fluid Level Inspection Transmission Fluid Strainer Inspection Inspection of main valve body assy. Torque converter Turbine Speed sensor inspection Inspect drive pulley speed sensor Inspect oil pump drive chain sprocket Inspect solenoid harness Forward Clutch Assy. inspection Reverse Clutch Assy. inspection Inspect oil pump assy. Transmission Inspect the pulleys and pulley belts in the case. Inspect pulley pressure feed pipe Feed Pipe Inspection Inspect stator shaft Inspection of torque converter assy.",
+            "refs": [
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Level Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000576",
+                "label": "Transmission Fluid Strainer Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Insufficient transmission fluid Transmission fluid deterioration Transmission fluid strainer clogged Main valve body assembly. defective Torque converter Turbine speed sensor failure Drive pulley speed sensor failure Oil pump Drive chain broken, sprocket broken Oil pump drive sprocket Sealing failure Solenoid Harness failure Forward clutch assembly. defective Reverse clutch assembly. defective Defective oil pump assembly. Defective pulley-related parts Pulley pressure feed Pipe damaged, O-ring defective Pulley pressure feed Pipe seal ring defective Feed Pipe damaged, O-ring defective Stator shaft damage Torque converter assy. defective PGM-FI ECU failure Transmission assembly and drive plate installation failure"
+          }
+        ],
+        [
+          {
+            "text": "Large shock when starting off"
+          },
+          {
+            "text": "Transmission Fluid Level Inspection Transmission Fluid Inspection Inspect shift position sensor. Torque Converter Turbine Speed Sensor Inspection Transmission Fluid Strainer Inspection Inspection of main valve body assy. Inspect pulley pressure feed pipe Engine power adjustment Inspect solenoid harness Forward Clutch Assy. inspection Reverse Clutch Assy. inspection Feed Pipe Inspection Inspect oil pump drive chain sprocket Inspect stator shaft",
+            "refs": [
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Level Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000557",
+                "label": "Inspect shift position sensor.",
+                "resolved": true
+              },
+              {
+                "id": "R000576",
+                "label": "Transmission Fluid Strainer Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Insufficient transmission fluid Transmission fluid deterioration Shift Position Defective sensor or poor adjustment Torque converter Turbine speed sensor failure Transmission fluid strainer clogged Main valve body assembly. defective Pulley pressure feed Pipe seal ring defective Insufficient engine power Solenoid Harness failure Forward clutch assembly. defective Reverse clutch assembly. defective Feed Pipe damaged, O-ring defective Oil pump drive sprocket Sealing failure Stator shaft damage PGM-FI ECU failure Transmission assembly and drive plate installation failure"
+          }
+        ],
+        [
+          {
+            "text": "Engine vibration is loud at idling when in-gear"
+          },
+          {
+            "text": "Transmission Fluid Level Inspection Transmission Fluid Inspection Engine power adjustment Inspection of main valve body assy. Inspect solenoid harness Feed Pipe Inspection Forward Clutch Assy. inspection Reverse Clutch Assy. inspection Input shaft inspection Inspect drive plate Inspection of torque converter assy. Inspect stator shaft",
+            "refs": [
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Level Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Insufficient transmission fluid Transmission fluid deterioration Insufficient engine power Main valve body assembly. defective Solenoid Harness failure Feed Pipe damaged, O-ring defective Forward clutch assembly. defective Reverse clutch assembly. defective Input shaft defective, needle bearing damaged Input shaft seal ring defective, O-ring defective Drive plate damaged Torque converter assy. defective Stator shaft damage PGM-FI ECU failure"
+          }
+        ],
+        [
+          {
+            "text": "Engine vibrates when idling in N and P positions"
+          },
+          {
+            "text": "Engine power adjustment Forward Clutch Assy. inspection Reverse Clutch Assy. inspection Inspect drive plate Input shaft inspection Inspection of torque converter assy. Inspect stator shaft"
+          },
+          {
+            "text": "Insufficient engine power Forward clutch assembly. defective Reverse clutch assembly. defective Drive plate damaged Input shaft defective, needle bearing damaged Torque converter assy. defective Stator shaft damage PGM-FI ECU defective"
+          }
+        ],
+        [
+          {
+            "text": "There is vibration in all positions."
+          },
+          {
+            "text": "Engine power adjustment Inspect drive plate Input shaft inspection Inspection of torque converter assy. Inspect stator shaft"
+          },
+          {
+            "text": "Insufficient engine power Drive plate damaged Input shaft defective, needle bearing damaged Torque converter assy. defective Stator shaft damage PGM-FI ECU defective"
+          }
+        ],
+        [
+          {
+            "text": "Noise in N and P positions"
+          },
+          {
+            "text": "Transmission Fluid Level Inspection Transmission Fluid Strainer Inspection Inspect drive plate Inspect oil pump assy. Inspect oil pump drive chain and sprockets Input shaft inspection Inspection of torque converter assy.",
+            "refs": [
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Level Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000576",
+                "label": "Transmission Fluid Strainer Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Insufficient transmission fluid Transmission fluid strainer clogged Drive plate damaged Defective oil pump assembly. Oil pump Drive chain broken, sprocket broken Input shaft defective, needle bearing damaged Torque converter assy. defective"
+          }
+        ],
+        [
+          {
+            "text": "Noise occurs in the D, S (vehicles equipped with paddle shift switch) and L (vehicles not equipped with paddle shift switch) positions."
+          },
+          {
+            "text": "Transmission Fluid Level Inspection Transmission Fluid Inspection Transmission Fluid Strainer Inspection Inspect drive plate Inspect parking brake pole, pole shaft, and pole spring. Inspection of control shaft Comp. Inspect oil pump assy. Inspect oil pump drive chain and sprockets Forward Clutch Assy. inspection Inspect forward drive gear and forward driven gear. Input shaft inspection Inspect final drive gear and driven gear. Inspection of differential assy. Inspection of torque converter assy.",
+            "refs": [
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Level Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000576",
+                "label": "Transmission Fluid Strainer Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Insufficient transmission fluid Transmission fluid deterioration Transmission fluid strainer clogged Drive plate damaged Parking brake Broken pole, broken pole shaft Parking brake pole return Spring damaged or worn Control Shaft Comp. defective Defective oil pump assembly. Oil pump Drive chain broken, sprocket broken Forward clutch assembly. defective Forward drive gear, forward driven gear damaged Input shaft defective, needle bearing damaged Final drive gear, final driven gear damaged Differential Assy. defective Torque converter assy. defective Transmission assembly and drive plate installation failure"
+          }
+        ],
+        [
+          {
+            "text": "Noise occurs in R position"
+          },
+          {
+            "text": "Transmission Fluid Level Inspection Transmission Fluid Inspection Transmission Fluid Strainer Inspection Inspect drive plate Inspect parking brake pole, pole shaft, and pole spring. Inspection of control shaft Comp. Inspect oil pump assy. Inspect oil pump drive chain and sprockets Reverse Clutch Assy. inspection Inspect reverse drive gear, reverse driven gear, and reverse idle gear. Input shaft inspection Inspect final drive gear and driven gear. Inspection of differential assy. Inspection of torque converter assy.",
+            "refs": [
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Level Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000576",
+                "label": "Transmission Fluid Strainer Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Insufficient transmission fluid Transmission fluid deterioration Transmission fluid strainer clogged Drive plate damaged Parking brake Broken pole, broken pole shaft Parking brake pole return Spring damaged or worn Control Shaft Comp. defective Defective oil pump assembly. Oil pump Drive chain broken, sprocket broken Reverse clutch assembly. defective Reverse drive gear, reverse driven gear, reverse idle gear damaged Input shaft defective, needle bearing damaged Final drive gear, final driven gear damaged Differential Assy. defective Torque converter assy. defective Transmission assembly and drive plate installation failure"
+          }
+        ],
+        [
+          {
+            "text": "Engine Stall RPM high"
+          },
+          {
+            "text": "Transmission Fluid Level Inspection Transmission Fluid Inspection Control wire inspection and adjustment Check control levers Transmission Fluid Strainer Inspection Inspection of main valve body assy. Manual Valve Lever Inspection Forward Clutch Assy. inspection Reverse Clutch Assy. inspection Inspect oil pump assy. Inspect oil pump drive chain and sprockets Inspect solenoid harness Inspect pulley pressure feed pipe Feed Pipe Inspection Input shaft inspection Inspection of torque converter assy. Inspect stator shaft",
+            "refs": [
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Level Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000554",
+                "label": "Control wire inspection and adjustment",
+                "resolved": true
+              },
+              {
+                "id": "R000576",
+                "label": "Transmission Fluid Strainer Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Insufficient transmission fluid Transmission fluid deterioration Control wire maladjustment or control wire failure Wire end disconnected, control lever pin broken Control lever broken Transmission fluid strainer clogged Main valve body assembly. defective Manual valve lever damaged, lever pin damaged Forward clutch assembly. defective Reverse clutch assembly. defective Defective oil pump assembly. Oil pump Drive chain broken, sprocket broken Oil pump drive sprocket Sealing failure Solenoid Harness failure Pulley pressure feed Pipe damaged, O-ring defective Pulley pressure feed Pipe seal ring defective Feed Pipe damaged, O-ring defective Input shaft seal ring defective, O-ring defective Torque converter assy. defective Stator shaft damage PGM-FI ECU defective Transmission assembly and drive plate installation failure"
+          }
+        ],
+        [
+          {
+            "text": "Engine Stall RPM low"
+          },
+          {
+            "text": "Engine power adjustment Inspection of main valve body assy. Inspection of torque converter assy."
+          },
+          {
+            "text": "Insufficient engine power Main valve body assembly. defective Torque converter assy. defective PGM-FI ECU defective"
+          }
+        ],
+        [
+          {
+            "text": "Judder occurs when starting off"
+          },
+          {
+            "text": "Inspection of torque converter assy. Forward Clutch Assy. inspection Reverse Clutch Assy. inspection Transmission Fluid Inspection Inspection of main valve body assy. Feed Pipe Inspection Inspect solenoid harness Torque converter Turbine Speed sensor inspection Driven Pulley Speed sensor inspection",
+            "refs": [
+              {
+                "id": "R000542",
+                "label": "Transmission Fluid Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Torque converter assy. defective Forward clutch assembly. defective Reverse clutch assembly. defective Transmission fluid deterioration Main valve body assembly. defective Feed pipe damaged, O-ring defective Solenoid Harness failure Torque converter Turbine speed sensor failure Driven Pulley speed sensor failure PGM-FI ECU defective"
+          }
+        ],
+        [
+          {
+            "text": "Select lever operation is heavy."
+          },
+          {
+            "text": "Control wire inspection and adjustment Inspection of control shaft Comp. Inspect parking brake pole return spring. Check control levers Manual Valve Lever Inspection Inspection of main valve body assy.",
+            "refs": [
+              {
+                "id": "R000554",
+                "label": "Control wire inspection and adjustment",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Control wire maladjustment or control wire failure Wire end disconnected, control lever pin broken Control Shaft Comp. defective Parking brake pole return Spring damaged or worn Control lever broken Manual valve lever damaged, lever pin damaged Main valve body assembly. defective"
+          }
+        ],
+        [
+          {
+            "text": "Not exiting or entering the P position"
+          },
+          {
+            "text": "Control wire inspection and adjustment Inspect parking brake pole, pole shaft, and pole spring. Parking gear inspection Check control levers Manual Valve Lever Inspection Inspection of main valve body assy. Inspection of control shaft Comp.",
+            "refs": [
+              {
+                "id": "R000554",
+                "label": "Control wire inspection and adjustment",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Control wire maladjustment or control wire failure Wire end disconnected, control lever pin broken Parking brake Broken pole, broken pole shaft Parking Gear damage, wear Parking brake pole return Spring damaged or worn Control lever broken Manual valve lever damaged, lever pin damaged Main valve body assembly. defective Control shaft Comp. defective PGM-FI ECU failure"
+          }
+        ],
+        [
+          {
+            "text": "Shift position indicator does not show shift position"
+          },
+          {
+            "text": "1. Control wire inspection and adjustment 2. Inspect shift position sensor. 3. Inspection of control shaft Comp.",
+            "refs": [
+              {
+                "id": "R000554",
+                "label": "Control wire inspection and adjustment",
+                "resolved": true
+              },
+              {
+                "id": "R000557",
+                "label": "Inspect shift position sensor.",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Control wire maladjustment or control wire failure Wire end disconnected, control lever pin broken Shift Position Defective sensor or poor adjustment Control shaft Comp. defective PGM-FI ECU failure"
+          }
+        ],
+        [
+          {
+            "text": "Idling Stop System not working"
+          },
+          {
+            "text": "1. Driven Pulley Speed sensor inspection 2. Inspection of tilt sensor 3. Transmission Fluid Temperature Sensor Inspection 4. Driven Puli Parsa Inspection",
+            "refs": [
+              {
+                "id": "R000537",
+                "label": "Transmission Fluid Temperature Sensor Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Driven Pulley speed sensor failure Inclination sensor failure Transmission Fluid temperature sensor failure Driven Puli Parsa bad PGM-FI ECU failure"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131120135106/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002183_jpn/web/html/T002183_jpn_Content.html",
+  "inOutline": true
+}

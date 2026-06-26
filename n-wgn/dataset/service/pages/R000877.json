@@ -1,0 +1,123 @@
+{
+  "id": "R000877",
+  "title": "Evaporator de-installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "Cooling Unit",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000877",
+  "assets": [
+    "877_5.0_jpn_11580973_5.0_disp.png",
+    "877_5.0_jpn_11580974_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000879",
+      "label": "Blower/heater unit removal",
+      "resolved": true
+    },
+    {
+      "id": "R000878",
+      "label": "Expansion valve removal",
+      "resolved": true
+    },
+    {
+      "id": "R000873",
+      "label": "Evaporator sensor removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Evaporator de-installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Blower/heater unit removal",
+      "refs": [
+        {
+          "id": "R000879",
+          "label": "Blower/heater unit removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Expansion valve removal",
+      "refs": [
+        {
+          "id": "R000878",
+          "label": "Expansion valve removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Evaporator removal"
+    },
+    {
+      "type": "figure",
+      "asset": "877_5.0_jpn_11580973_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the screw (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "877_5.0_jpn_11580974_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the coupler clip (A). Remove the lower case (B) and remove the evaporator (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Evaporator sensor removal",
+      "refs": [
+        {
+          "id": "R000873",
+          "label": "Evaporator sensor removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Precautions for installation work"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The O-ring at the pipe connection must be replaced with a new one, and compressor oil (SP-10) must be applied before installation."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000877_jpn/web/html/R000877_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,263 @@
+{
+  "id": "T001247",
+  "title": "Diagnostic Table of Electrical System Failures by CVT Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM electrical system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001247",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T001427",
+      "label": "Combination Meter Self-Diagnosis",
+      "resolved": true
+    },
+    {
+      "id": "R000557",
+      "label": "Inspect shift position sensor.",
+      "resolved": true
+    },
+    {
+      "id": "T001253",
+      "label": "Shift lock System circuit fault diagnosis",
+      "resolved": false
+    },
+    {
+      "id": "R000566",
+      "label": "Inspect shift lock solenoid",
+      "resolved": true
+    },
+    {
+      "id": "R000463",
+      "label": "Check accelerator pedal position sensor",
+      "resolved": true
+    },
+    {
+      "id": "R000462",
+      "label": "Throttle Body Inspection",
+      "resolved": true
+    },
+    {
+      "id": "T001250",
+      "label": "Inspect paddle shift switch + (shift up) circuit.",
+      "resolved": false
+    },
+    {
+      "id": "T001251",
+      "label": "Inspect paddle shift switch- (shift down) circuit.",
+      "resolved": false
+    },
+    {
+      "id": "T002567",
+      "label": "Inspect data link circuits",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Diagnostic Table of Electrical System Failures by CVT Symptom"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Failure Symptoms",
+            "header": true
+          },
+          {
+            "text": "Inspection items/action items",
+            "header": true
+          },
+          {
+            "text": "probable cause",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "D indicator light does not come on for about 2 seconds after ignition ON mode"
+          },
+          {
+            "text": "1. Combination Meter Self-Diagnosis do 2. In the HDS body electrical menu, check the F-CAN communication line between the PGM-FI ECU and the combination meter for any abnormalities.",
+            "refs": [
+              {
+                "id": "T001427",
+                "label": "Combination Meter Self-Diagnosis",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Defective combination meter D Indicator light bulb OFF failure Disconnection or short circuit of the F-CAN communication line between the PGM-FI ECU and the combination meter Defective PGM-FI ECU"
+          }
+        ],
+        [
+          {
+            "text": "D indicator light remains on and does not turn off for approximately 2 seconds after ignition ON mode."
+          },
+          {
+            "text": "1. Combination Meter Self-Diagnosis do 2. In the HDS body electrical menu, check the F-CAN communication line between the PGM-FI ECU and the combination meter for any abnormalities.",
+            "refs": [
+              {
+                "id": "T001427",
+                "label": "Combination Meter Self-Diagnosis",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Defective combination meter D Indicator light bulb check continuity failure Disconnection or short circuit of the F-CAN communication line between the PGM-FI ECU and the combination meter Defective PGM-FI ECU"
+          }
+        ],
+        [
+          {
+            "text": "Shift position indicator in combination meter does not show shift position"
+          },
+          {
+            "text": "1. Combination Meter Self-Diagnosis do 2. In the HDS body electrical menu, check the F-CAN communication line between the PGM-FI ECU and the combination meter for any abnormalities. 3. Check for broken or shorted cords between shift position sensor and PGM-FI ECU 4. Inspect shift position sensor. do",
+            "refs": [
+              {
+                "id": "T001427",
+                "label": "Combination Meter Self-Diagnosis",
+                "resolved": true
+              },
+              {
+                "id": "R000557",
+                "label": "Inspect shift position sensor.",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Defective combination meter Disconnection or short circuit of the F-CAN communication line between the PGM-FI ECU and the combination meter Disconnection or short circuit of the cord between the shift position sensor and the PGM-FI ECU Defective shift position sensor"
+          }
+        ],
+        [
+          {
+            "text": "The select lever does not move from the P position even if the select lever is operated with the brake pedal depressed."
+          },
+          {
+            "text": "1. Shift lock System circuit fault diagnosis do 2. Inspect shift lock solenoid do 3. Inspect shift position sensor. do 4. Check accelerator pedal position sensor do 5. Throttle Body Inspection do",
+            "refs": [
+              {
+                "id": "T001253",
+                "label": "Shift lock System circuit fault diagnosis",
+                "resolved": false
+              },
+              {
+                "id": "R000566",
+                "label": "Inspect shift lock solenoid",
+                "resolved": true
+              },
+              {
+                "id": "R000557",
+                "label": "Inspect shift position sensor.",
+                "resolved": true
+              },
+              {
+                "id": "R000463",
+                "label": "Check accelerator pedal position sensor",
+                "resolved": true
+              },
+              {
+                "id": "R000462",
+                "label": "Throttle Body Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Defective shift lock solenoid Faulty shift lock system circuit Defective shift lock mechanism Defective brake switch circuit Defective brake switch Accelerator Pedal Position Defect in sensor circuit Defective accelerator pedal position sensor Defective throttle body Shift position sensor ATP P switch OFF sticking Shift position sensor ATP P circuit disconnected"
+          }
+        ],
+        [
+          {
+            "text": "Paddle shift switch + (upshift) does not shift up in D or S position. (Models equipped with paddle shift switches)"
+          },
+          {
+            "text": "Inspect paddle shift switch + (shift up) circuit. do",
+            "refs": [
+              {
+                "id": "T001250",
+                "label": "Inspect paddle shift switch + (shift up) circuit.",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection or short circuit of cord between paddle shift switch + (shift up) and PGM-FI ECU Disconnection or poor grounding of cord between paddle shift switch + (shift up) and ground Defective paddle shift switch + (shift up) Defective cable reel"
+          }
+        ],
+        [
+          {
+            "text": "Paddle shift switch (downshift) does not downshift in D or S position. (Models equipped with paddle shift switches)"
+          },
+          {
+            "text": "Inspect paddle shift switch- (shift down) circuit. do",
+            "refs": [
+              {
+                "id": "T001251",
+                "label": "Inspect paddle shift switch- (shift down) circuit.",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Disconnection or short circuit of the cord between the paddle shift switch - (shift down) and the PGM-FI ECU Disconnection or poor grounding of the cord between the paddle shift switch (shift down) and ground. Defective paddle shift switch - (shift down) Defective cable reel"
+          }
+        ],
+        [
+          {
+            "text": "M indicator light does not illuminate in S paddle shift mode (Models equipped with paddle shift switches)"
+          },
+          {
+            "text": "1. Combination Meter Self-Diagnosis do 2. In the HDS body electrical menu, check the F-CAN communication line between the PGM-FI ECU and the combination meter for any abnormalities.",
+            "refs": [
+              {
+                "id": "T001427",
+                "label": "Combination Meter Self-Diagnosis",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Defective combination meter Disconnection of F-CAN communication line between PGM-FI ECU and combination meter Defective PGM-FI ECU"
+          }
+        ],
+        [
+          {
+            "text": "HDS cannot communicate with PGM-FI ECU"
+          },
+          {
+            "text": "Inspect data link circuits do",
+            "refs": [
+              {
+                "id": "T002567",
+                "label": "Inspect data link circuits",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Defective data link circuit"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001247_jpn/web/html/T001247_jpn_Content.html",
+  "inOutline": true
+}

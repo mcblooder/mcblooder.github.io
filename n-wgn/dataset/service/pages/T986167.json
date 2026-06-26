@@ -1,0 +1,119 @@
+{
+  "id": "T986167",
+  "title": "Judder occurs when starting off",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM hydraulic system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986167",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R000542",
+      "label": "Transmission Fluid Inspection",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Judder occurs when starting off"
+    },
+    {
+      "type": "paragraph",
+      "text": "checklist"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Inspection of torque converter assy."
+        },
+        {
+          "text": "Forward Clutch Assy. inspection"
+        },
+        {
+          "text": "Reverse Clutch Assy. inspection"
+        },
+        {
+          "text": "Transmission Fluid Inspection",
+          "refs": [
+            {
+              "id": "R000542",
+              "label": "Transmission Fluid Inspection",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Inspection of main valve body assy."
+        },
+        {
+          "text": "Feed Pipe Inspection"
+        },
+        {
+          "text": "Inspect solenoid harness"
+        },
+        {
+          "text": "Torque converter Turbine Speed sensor inspection"
+        },
+        {
+          "text": "Driven Pulley Speed sensor inspection"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "probable cause"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Torque converter assy. defective"
+        },
+        {
+          "text": "Forward clutch assembly. defective"
+        },
+        {
+          "text": "Reverse clutch assembly. defective"
+        },
+        {
+          "text": "Transmission fluid deterioration"
+        },
+        {
+          "text": "Main valve body assembly. defective"
+        },
+        {
+          "text": "Feed pipe damaged, O-ring defective"
+        },
+        {
+          "text": "Solenoid Harness failure"
+        },
+        {
+          "text": "Torque converter Turbine speed sensor failure"
+        },
+        {
+          "text": "Driven Pulley speed sensor failure"
+        },
+        {
+          "text": "PGM-FI ECU defective"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986167_jpn/web/html/T986167_jpn_Content.html",
+  "inOutline": true
+}

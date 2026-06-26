@@ -1,0 +1,145 @@
+{
+  "id": "T001101",
+  "title": "Cooling Fan Control Failure Diagnostic Table by Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cooling System",
+  "system": "cooling device",
+  "subtitle": "",
+  "dgName": "engine",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001101",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R000434",
+      "label": "Coolant inspection",
+      "resolved": true
+    },
+    {
+      "id": "R000426",
+      "label": "Fan Motor inspection",
+      "resolved": true
+    },
+    {
+      "id": "R000927",
+      "label": "Check radiator fan relay.",
+      "resolved": true
+    },
+    {
+      "id": "R000424",
+      "label": "Inspect radiator cap.",
+      "resolved": true
+    },
+    {
+      "id": "R000427",
+      "label": "Inspect thermostat",
+      "resolved": true
+    },
+    {
+      "id": "R000429",
+      "label": "Inspect water pump",
+      "resolved": true
+    },
+    {
+      "id": "T001102",
+      "label": "Inspect radiator fan operating circuit.",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cooling Fan Control Failure Diagnostic Table by Symptom"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "symptoms",
+            "header": true
+          },
+          {
+            "text": "diagnostic item",
+            "header": true
+          },
+          {
+            "text": "related item",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "overheat"
+          },
+          {
+            "text": "1. Coolant inspection ​ 2. Coolant leakage, clogged water channel 3. Dust and other debris on radiators and capacitors 4. Coolant deterioration inspection 5. Fan Shroud damaged or corroded 6. Fan Motor inspection 7. Check radiator fan relay. 8. Inspect radiator cap. 9. Inspect thermostat ​ 10. Inspect water pump 11. Clogged or deteriorated radiator hoses 12. Inspect heater core 13. Damaged cylinder head gasket",
+            "refs": [
+              {
+                "id": "R000434",
+                "label": "Coolant inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000426",
+                "label": "Fan Motor inspection",
+                "resolved": true
+              },
+              {
+                "id": "R000927",
+                "label": "Check radiator fan relay.",
+                "resolved": true
+              },
+              {
+                "id": "R000424",
+                "label": "Inspect radiator cap.",
+                "resolved": true
+              },
+              {
+                "id": "R000427",
+                "label": "Inspect thermostat",
+                "resolved": true
+              },
+              {
+                "id": "R000429",
+                "label": "Inspect water pump",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Check that the radiator fan and condenser fan are operating properly"
+          }
+        ],
+        [
+          {
+            "text": "Cooling fan does not operate"
+          },
+          {
+            "text": "1. Inspect radiator fan operating circuit.",
+            "refs": [
+              {
+                "id": "T001102",
+                "label": "Inspect radiator fan operating circuit.",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Ensure that couplers and terminals are securely connected"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001101_jpn/web/html/T001101_jpn_Content.html",
+  "inOutline": true
+}

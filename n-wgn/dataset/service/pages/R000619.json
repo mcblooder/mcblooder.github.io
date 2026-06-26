@@ -1,0 +1,131 @@
+{
+  "id": "R000619",
+  "title": "Viscous coupling inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "differential",
+  "system": "Rear Differential Assy.",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000619",
+  "assets": [
+    "619_3.0_jpn_11581942_3.0_disp.png",
+    "619_3.0_jpn_11581943_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000620",
+      "label": "Inspect rear differential fluid.",
+      "resolved": true
+    },
+    {
+      "id": "R000625",
+      "label": "Replace viscous coupling.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Viscous coupling inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Viscous coupling Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "619_3.0_jpn_11581942_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Check the viscous coupling (A) for cracks, damage, or oil leakage."
+    },
+    {
+      "type": "figure",
+      "asset": "619_3.0_jpn_11581943_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Mark (B) the propeller shaft (A). Either No. 1 or No. 2 is acceptable. Start the engine and allow it to warm up until the radiator fan operates twice. With the car idling, move the select lever to the L or S position. Parking brake Press the pedal hard and measure the time per 10 revolutions of the propeller shaft."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the time per 10 revolutions is more than 18 seconds, the viscous coupling is normal."
+        },
+        {
+          "text": "If the time per 10 revolutions is more than 18 seconds, the viscous coupling is normal."
+        },
+        {
+          "text": "If the time per 10 revolutions is less than 18 seconds, the viscous coupling or rear differential may be faulty. Inspect rear differential fluid. If it is normal Replace viscous coupling.",
+          "refs": [
+            {
+              "id": "R000620",
+              "label": "Inspect rear differential fluid.",
+              "resolved": true
+            },
+            {
+              "id": "R000625",
+              "label": "Replace viscous coupling.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If the time per 10 revolutions is less than 18 seconds, the viscous coupling or rear differential may be faulty. Inspect rear differential fluid. If it is normal Replace viscous coupling.",
+          "refs": [
+            {
+              "id": "R000620",
+              "label": "Inspect rear differential fluid.",
+              "resolved": true
+            },
+            {
+              "id": "R000625",
+              "label": "Replace viscous coupling.",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the parking brake pedal is not returned after measurement, the temperature of the viscous coupling will rise, resulting in deterioration and possible failure."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000619_jpn/web/html/R000619_jpn_Content.html",
+  "inOutline": true
+}

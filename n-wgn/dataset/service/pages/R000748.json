@@ -1,0 +1,83 @@
+{
+  "id": "R000748",
+  "title": "Mirror Skull Cap Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "mirror",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000748",
+  "assets": [
+    "748_3.0_jpn_11337185_3.0_disp.png",
+    "748_3.0_jpn_11369892_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000747",
+      "label": "Mirror holder removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Mirror Skull Cap Removal and Installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Mirror holder removal",
+      "refs": [
+        {
+          "id": "R000747",
+          "label": "Mirror holder removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Skull cap removal"
+    },
+    {
+      "type": "figure",
+      "asset": "748_3.0_jpn_11369892_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove hook (A) from the mirror holder opening."
+    },
+    {
+      "type": "figure",
+      "asset": "748_3.0_jpn_11337185_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Pull the skull cap (A) toward the front of the vehicle and remove the hook (B). Remove the skull cap from the hook (D) of the visor (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000748_jpn/web/html/R000748_jpn_Content.html",
+  "inOutline": true
+}

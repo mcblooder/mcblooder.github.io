@@ -1,0 +1,255 @@
+{
+  "id": "R000644",
+  "title": "Replace tie rod ball joint boots",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000644",
+  "assets": [
+    "644_3.0_jpn_11035638_3.0_disp.png",
+    "644_3.0_jpn_11035639_3.0_disp.png",
+    "644_3.0_jpn_11035640_3.0_disp.png",
+    "644_3.0_jpn_11035641_3.0_disp.png",
+    "644_3.0_jpn_11035642_3.0_disp.png",
+    "644_3.0_jpn_11035643_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Front wheel removal",
+      "resolved": true
+    },
+    {
+      "id": "R000660",
+      "label": "Disconnect the tie rod end from the knuckle using the special tool.",
+      "resolved": true
+    },
+    {
+      "id": "R000655",
+      "label": "Wheel alignment Inspection and adjustment",
+      "resolved": true
+    },
+    {
+      "id": "R000714",
+      "label": "VSA sensor Midpoint write",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Replace tie rod ball joint boots"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Tie rod end disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "644_3.0_jpn_11035638_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the split pin (B) from the ball joint connection of the tie rod end (A), and remove the nut (C). Disconnect the tie rod end from the knuckle using the special tool.",
+      "refs": [
+        {
+          "id": "R000660",
+          "label": "Disconnect the tie rod end from the knuckle using the special tool.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Tie rod end removal"
+    },
+    {
+      "type": "figure",
+      "asset": "644_3.0_jpn_11035639_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the tie rod ends (A) and lock nuts (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Tie rod ball joint boot removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the ball joint boot."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Tie Rod Ball Joint Boot Grease Fill"
+    },
+    {
+      "type": "figure",
+      "asset": "644_3.0_jpn_11035640_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Wipe off the grease inside the ball joint (A) and fill with new grease (Showa Shell Sunlight No. 2). Fill the inside of the boot (B) with grease and apply grease to the lip (C) as well."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not allow grease to adhere to the boot and joint housing press fitting (D) and ball pin taper (E).",
+        "Do not allow dust, etc. to get inside the boot or joint."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Tie Rod Ball Joint Boot Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "644_3.0_jpn_11035641_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Press-fit the boot (A) into the joint housing using the dedicated tool."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Press the edges of the boot evenly so that the boot is not mounted at an angle or there are no gaps in the press fit (B).",
+        "After mounting the boot, completely wipe off any grease adhering to the ball pin taper (C) and thread (D)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Tie rod end mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "644_3.0_jpn_11035642_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the locknut (A) and tie rod end (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Tie Rod End Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "644_3.0_jpn_11035643_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the tie rod end (A) to the knuckle."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Tighten the tie rod lock nuts (B) when adjusting the front toe."
+        },
+        {
+          "text": "Tighten the tie rod lock nuts (B) when adjusting the front toe."
+        },
+        {
+          "text": "Replace the split pin (C) with a new one and bend it as shown in (D) or (E) in the figure."
+        },
+        {
+          "text": "Replace the split pin (C) with a new one and bend it as shown in (D) or (E) in the figure."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Front wheel mounting",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Wheel alignment Inspection and adjustment",
+      "refs": [
+        {
+          "id": "R000655",
+          "label": "Wheel alignment Inspection and adjustment",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. VSA sensor Midpoint write",
+      "refs": [
+        {
+          "id": "R000714",
+          "label": "VSA sensor Midpoint write",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000644_jpn/web/html/R000644_jpn_Content.html",
+  "inOutline": true
+}

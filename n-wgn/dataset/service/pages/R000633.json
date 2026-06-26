@@ -1,0 +1,149 @@
+{
+  "id": "R000633",
+  "title": "Inspection of steering stationary operation load",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000633",
+  "assets": [
+    "633_3.0_jpn_11293132_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "T001299",
+      "label": "Diagnose EPS system malfunctions.",
+      "resolved": true
+    },
+    {
+      "id": "R000631",
+      "label": "Inspect steering coupling",
+      "resolved": true
+    },
+    {
+      "id": "R000655",
+      "label": "Wheel alignment inspection",
+      "resolved": true
+    },
+    {
+      "id": "R000643",
+      "label": "Rack Guide Adjustment",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspection of steering stationary operation load"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Stationary operation load Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "633_3.0_jpn_11293132_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Start the engine and confirm that the EPS warning light is off. If the EPS warning light does not turn off, Diagnose EPS system malfunctions. Park on a general asphalt surface.",
+      "refs": [
+        {
+          "id": "T001299",
+          "label": "Diagnose EPS system malfunctions.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Avoid low-friction surfaces to be inspected, such as oil spilled on the floor or painted floor surfaces wet with water."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Attach a spring scale (A) to the steering wheel and pull it tangentially to the outer circumference of the steering wheel to read the stationary cut-off operation load when the tire begins to slide and move."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "31N (3.2kgf) or less"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If above standard value, Inspect steering coupling and Wheel alignment inspection and if there are no abnormalities Rack Guide Adjustment (1) The company shall",
+          "refs": [
+            {
+              "id": "R000631",
+              "label": "Inspect steering coupling",
+              "resolved": true
+            },
+            {
+              "id": "R000655",
+              "label": "Wheel alignment inspection",
+              "resolved": true
+            },
+            {
+              "id": "R000643",
+              "label": "Rack Guide Adjustment",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If above standard value, Inspect steering coupling and Wheel alignment inspection and if there are no abnormalities Rack Guide Adjustment (1) The company shall",
+          "refs": [
+            {
+              "id": "R000631",
+              "label": "Inspect steering coupling",
+              "resolved": true
+            },
+            {
+              "id": "R000655",
+              "label": "Wheel alignment inspection",
+              "resolved": true
+            },
+            {
+              "id": "R000643",
+              "label": "Rack Guide Adjustment",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If excessive heat is generated in the EPS system due to continuous steering wheel turning, stop the engine and allow up to 18 minutes to elapse before checking."
+        },
+        {
+          "text": "If excessive heat is generated in the EPS system due to continuous steering wheel turning, stop the engine and allow up to 18 minutes to elapse before checking."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000633_jpn/web/html/R000633_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,165 @@
+{
+  "id": "R000437",
+  "title": "Cooling fan/fan motor/shroud removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cooling System",
+  "system": "cooling device",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000437",
+  "assets": [
+    "437_5.0_jpn_11583094_5.0_disp.png",
+    "437_5.0_jpn_11583095_5.0_disp.png",
+    "437_5.0_jpn_11583096_5.0_disp.png",
+    "437_5.0_jpn_11583097_5.0_disp.png",
+    "437_5.0_jpn_11583098_5.0_disp.png",
+    "437_5.0_jpn_11583099_5.0_disp.png",
+    "437_5.0_jpn_11583101_5.0_disp.png",
+    "437_5.0_jpn_11583102_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000814",
+      "label": "Front bumper removal",
+      "resolved": true
+    },
+    {
+      "id": "R000842",
+      "label": "Front upper grille removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cooling fan/fan motor/shroud removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front bumper removal",
+      "refs": [
+        {
+          "id": "R000814",
+          "label": "Front bumper removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front upper grille removal",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front upper grille removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Bumper beam removal"
+    },
+    {
+      "type": "figure",
+      "asset": "437_5.0_jpn_11583094_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the harness clamp (A) on the A/C compressor and remove the bumper beam."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Intercooler Guide B removal (turbo charger equipped vehicles)"
+    },
+    {
+      "type": "figure",
+      "asset": "437_5.0_jpn_11583095_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Reserve tank removal"
+    },
+    {
+      "type": "figure",
+      "asset": "437_5.0_jpn_11583096_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Radiator Fan/Shroud Assy. removal"
+    },
+    {
+      "type": "figure",
+      "asset": "437_5.0_jpn_11583097_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A) and remove the clamp (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "437_5.0_jpn_11583098_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Disconnect the coupler (A) and remove the clamp (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "437_5.0_jpn_11583099_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the water filler mounting bolt (A). Disconnect the coupler (B) and remove the clamp (C). Remove the radiator upper bracket (D)."
+    },
+    {
+      "type": "figure",
+      "asset": "437_5.0_jpn_11583101_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "Shift the radiator/condenser assy. and remove the radiator fan/shroud assy. while rotating it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Fan Shroud Assy. resolution"
+    },
+    {
+      "type": "figure",
+      "asset": "437_5.0_jpn_11583102_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000437_jpn/web/html/R000437_jpn_Content.html",
+  "inOutline": true
+}

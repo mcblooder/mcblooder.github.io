@@ -1,0 +1,68 @@
+{
+  "id": "R000781",
+  "title": "Convenience store Hook removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "interior",
+  "system": "Instrument Panel",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000781",
+  "assets": [
+    "781_3.0_jpn_11387493_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000780",
+      "label": "Center lower cover removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Convenience store Hook removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Center lower cover removal",
+      "refs": [
+        {
+          "id": "R000780",
+          "label": "Center lower cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Convenience store hook removal"
+    },
+    {
+      "type": "figure",
+      "asset": "781_3.0_jpn_11387493_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000781_jpn/web/html/R000781_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,269 @@
+{
+  "id": "R000711",
+  "title": "VSA Modulator Control Unit Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000711",
+  "assets": [
+    "711_5.0_jpn_11581677_5.0_disp.png",
+    "711_5.0_jpn_11581678_5.0_disp.png",
+    "711_5.0_jpn_11581679_5.0_disp.png",
+    "711_5.0_jpn_11581680_5.0_disp.png",
+    "711_5.0_jpn_11581681_5.0_disp.png",
+    "711_5.0_jpn_11581682_5.0_disp.png",
+    "711_5.0_jpn_11581683_5.0_disp.png",
+    "711_5.0_jpn_11581684_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002224",
+      "label": "12V battery removal",
+      "resolved": true
+    },
+    {
+      "id": "R000685",
+      "label": "air venting",
+      "resolved": true
+    },
+    {
+      "id": "R000710",
+      "label": "VSA Modulator Control Unit Update",
+      "resolved": true
+    },
+    {
+      "id": "R000714",
+      "label": "VSA sensor Midpoint write",
+      "resolved": true
+    },
+    {
+      "id": "R000540",
+      "label": "Inclination sensor Initial learning",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VSA Modulator Control Unit Removal and Installation"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not allow brake fluid to adhere to painted surfaces as it will damage them. If it does adhere, wash it off with water immediately.",
+        "Remove and install the brake pipe with care so as not to damage or severely deform the brake pipe.",
+        "To prevent brake fluid from leaking out, the joint part of the disconnected pipe should be plugged with a plug or the like.",
+        "The VSA modulator control unit has a built-in yaw rate/G sensor.",
+        "Do not drop the VSA Modulator Control Unit.",
+        "Do not use an impact wrench to remove the VSA Modulator Control Unit. Do not use an impact wrench to remove the VSA Modulator Control Unit, and do not apply a strong impact near the unit."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Ignition OFF (LOCK) mode"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. 12V battery removal",
+      "refs": [
+        {
+          "id": "R002224",
+          "label": "12V battery removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Brake pipe removal"
+    },
+    {
+      "type": "figure",
+      "asset": "711_5.0_jpn_11581677_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the 10 mm brake pipe (A). Disconnect the 12 mm brake pipe (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. VSA Modulator Control Unit Coupler Disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "711_5.0_jpn_11581678_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Release the lock (B) on the coupler (A), pull down the lever (C) until it \"clicks\", and disconnect the coupler."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. VSA Modulator Control Unit Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "711_5.0_jpn_11581679_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the brake pipe (B) from the clip (A). Do not disconnect the brake pipe. Remove the VSA modulator control unit (C) and bracket (D) from the vehicle body."
+    },
+    {
+      "type": "figure",
+      "asset": "711_5.0_jpn_11581680_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the VSA modulator control unit (B) from the bracket (A). Remove the clip (C) from the bracket."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not allow brake fluid to adhere to painted surfaces as it will damage them. If it does adhere, wash it off with water immediately.",
+        "Remove and install the brake pipe with care so as not to damage or severely deform the brake pipe.",
+        "To prevent brake fluid from leaking out, the joint part of the disconnected pipe should be plugged with a plug or the like.",
+        "Do not use an impact wrench when installing the VSA Modulator Control Unit. Also, do not apply a strong impact in the vicinity of the unit."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. VSA Modulator Control Unit Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "711_5.0_jpn_11581681_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Attach the clip (B) to the bracket (A). Mount the VSA modulator control unit (C) on the bracket."
+    },
+    {
+      "type": "figure",
+      "asset": "711_5.0_jpn_11581682_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Install the VSA modulator control unit (A) and bracket to the vehicle body. Attach the brake pipe (C) to the clip (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. VSA Modulator Control Unit Coupler Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "711_5.0_jpn_11581683_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Align the connection surfaces of the coupler (A) and push up the lever (B) securely until it \"clicks\" into place."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Brake pipe installation"
+    },
+    {
+      "type": "figure",
+      "asset": "711_5.0_jpn_11581684_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the 10 mm brake pipe and the 12 mm brake pipe to the VSA modulator control unit (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The 12 mm brake pipe (B) shall be connected to the master cylinder and the 10 mm brake pipe to the front left (C), front right (D), rear left (E) and rear right (F)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. 12V battery installation",
+      "refs": [
+        {
+          "id": "R002224",
+          "label": "12V battery installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. air venting",
+      "refs": [
+        {
+          "id": "R000685",
+          "label": "air venting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. VSA Modulator Control Unit Update",
+      "refs": [
+        {
+          "id": "R000710",
+          "label": "VSA Modulator Control Unit Update",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. VSA sensor Midpoint write",
+      "refs": [
+        {
+          "id": "R000714",
+          "label": "VSA sensor Midpoint write",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Inclination sensor Initial learning",
+      "refs": [
+        {
+          "id": "R000540",
+          "label": "Inclination sensor Initial learning",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000711_jpn/web/html/R000711_jpn_Content.html",
+  "inOutline": true
+}

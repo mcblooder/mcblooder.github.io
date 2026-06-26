@@ -1,0 +1,4295 @@
+{
+  "id": "G000335",
+  "title": "Inspection and maintenance method",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "NA",
+  "sectionCode": "0",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000335",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspection and maintenance method"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "1）"
+          },
+          {
+            "text": "The judgment criteria for daily inspection items should be made known to vehicle users.",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "2）"
+          },
+          {
+            "text": "The \"●\" and \"◆\" marks indicate the inspection period required by law, and the \"○\" and \"◇\" marks indicate that Honda recommends it.",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "3）"
+          },
+          {
+            "text": "The \"◆\" mark indicates \"distance items\" that can be omitted depending on the mileage since the previous inspection. For 12-month and 24-month inspection items of distance items, such inspection and maintenance may be omitted if the mileage is less than 5,000 km per year, but may not be omitted twice in a row. For \"business use\" and \"private-use cargo,\" etc., if the annual mileage is less than 8,000 km (2,000 km in 3 months and 4,000 km in 6 months when the inspection period is 3 months and 6 months, respectively), the relevant inspection and maintenance may be omitted, but not twice in a row.",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "4）",
+            "rowspan": 19
+          },
+          {
+            "text": "◇ mark indicates severe conditions.",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Severe Condition",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "A:",
+            "rowspan": 6
+          },
+          {
+            "text": "● Rough roads (bumpy roads, gravel roads, unpaved roads)",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Guideline for Rough Roads",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Rough road surface where the driver feels impact (rush sensation) on his/her body",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Road surfaces that have many opportunities to be hit by stones, ruts, etc.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Dusty road surface",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Driving on snowy roads frequently",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "B:",
+            "rowspan": 2
+          },
+          {
+            "text": "High mileage",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "(Approximate distance : 20,000 km or more/year)",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "C:",
+            "rowspan": 2
+          },
+          {
+            "text": "● Many driving on mountain roads and uphill descent roads.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "(Approximate number of times the brakes are used due to frequent climbing and descending)",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "D:",
+            "rowspan": 3
+          },
+          {
+            "text": "● Short distance repetitive driving.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "(Approximate distance: 8 km or less/trip)",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Repeatedly run at outside temperatures below freezing.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "E:",
+            "rowspan": 3
+          },
+          {
+            "text": "When running at low speeds",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "(Approximate speed: 30 km/h or less)",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "When there is a lot of idling",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "If any of the conditions from A to E applies to more than approximately 30% of the total distance traveled, the vehicle is classified as Severe Condition.",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "5）"
+          },
+          {
+            "text": "An \"X\" mark indicates not applicable.",
+            "colspan": 3
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Inspection and maintenance items",
+            "colspan": 3,
+            "rowspan": 2,
+            "header": true
+          },
+          {
+            "text": "Inspection and Maintenance Period",
+            "colspan": 7,
+            "header": true
+          },
+          {
+            "text": "criterion",
+            "colspan": 3,
+            "rowspan": 3,
+            "header": true
+          },
+          {
+            "text": "remarks",
+            "rowspan": 3,
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "business use Automobiles, etc.",
+            "colspan": 3,
+            "header": true
+          },
+          {
+            "text": "for private or home use Passenger cars, etc.",
+            "colspan": 4,
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Inspection point",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "checklist",
+            "header": true
+          },
+          {
+            "text": "Daily Inspection",
+            "header": true
+          },
+          {
+            "text": "Every 3 months",
+            "header": true
+          },
+          {
+            "text": "Every 12 months",
+            "header": true
+          },
+          {
+            "text": "Daily Inspection",
+            "header": true
+          },
+          {
+            "text": "Every 6 months",
+            "header": true
+          },
+          {
+            "text": "Every 1 year",
+            "header": true
+          },
+          {
+            "text": "Every 2 years",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "steering gear",
+            "rowspan": 12
+          },
+          {
+            "text": "handle"
+          },
+          {
+            "text": "state of operation"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "gearbox",
+            "rowspan": 2
+          },
+          {
+            "text": "Steering Gear Fluid leak in box"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Steering Gear Loose box installation"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◇"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "Conditions A, B, C"
+          }
+        ],
+        [
+          {
+            "text": "Rod and arms",
+            "rowspan": 2
+          },
+          {
+            "text": "Steering rod, Loose, rattled, or damaged arms"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Balls for rods and arms Joint dust boot Cracks or damage to"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◇"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "Conditions A, B, C"
+          }
+        ],
+        [
+          {
+            "text": "knuckle"
+          },
+          {
+            "text": "Steering knuckle Rattling of the connection"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "steering wheel",
+            "rowspan": 3
+          },
+          {
+            "text": "Wheel alignment",
+            "rowspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 3
+          },
+          {
+            "text": "●",
+            "rowspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 3
+          },
+          {
+            "text": "◆",
+            "rowspan": 3
+          },
+          {
+            "text": "Toe-in (front wheels): 0±3mm Toe-in (rear wheel) 2WD ： 3±3mm 4WD ： 2 +4 -2 mm",
+            "colspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Camber (front wheel) : 0°00'±1°. (rear wheel): -1°30'±1° (rear wheel)",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Casters (front wheels) 2WD ： 4°05’±30’ 4WD ： 3°50’±30’",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "power steering equipment",
+            "rowspan": 3
+          },
+          {
+            "text": "Power Steering Loose and damaged belts"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "Power Steering Fluid leakage, quantity"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "Power Steering Loose installation"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "braking device",
+            "rowspan": 36
+          },
+          {
+            "text": "Brake pedal",
+            "rowspan": 8
+          },
+          {
+            "text": "Brake pedal play, Gap with floorboard when stepped on",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "●",
+            "rowspan": 2
+          },
+          {
+            "text": "●",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "●",
+            "rowspan": 2
+          },
+          {
+            "text": "●",
+            "rowspan": 2
+          },
+          {
+            "text": "Play : 1-6mm",
+            "colspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "When stepping on the pedal with a tread force of 196N (20.0kgf), Clearance from floor plate : 144mm or more",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Brake pedal travel and effectiveness"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "How well the brakes work",
+            "rowspan": 5
+          },
+          {
+            "text": "",
+            "rowspan": 5
+          },
+          {
+            "text": "●",
+            "rowspan": 5
+          },
+          {
+            "text": "●",
+            "rowspan": 5
+          },
+          {
+            "text": "",
+            "rowspan": 5
+          },
+          {
+            "text": "",
+            "rowspan": 5
+          },
+          {
+            "text": "●",
+            "rowspan": 5
+          },
+          {
+            "text": "●",
+            "rowspan": 5
+          },
+          {
+            "text": "braking power",
+            "colspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 5
+          }
+        ],
+        [
+          {
+            "text": "Rear wheel sum: 10% or more of shaft weight",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Left-right difference of each wheel: Less than 8% of shaft weight",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Total ：Minimum of 50% of the vehicle weight at the time of inspection",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Note: If all wheels are locked and measurement is difficult, the wheel is considered to be in conformity with the sum of the wheels.",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "parking brake mechanism",
+            "rowspan": 4
+          },
+          {
+            "text": "Parking Brake pedal foot",
+            "rowspan": 3
+          },
+          {
+            "text": "●",
+            "rowspan": 3
+          },
+          {
+            "text": "●",
+            "rowspan": 3
+          },
+          {
+            "text": "●",
+            "rowspan": 3
+          },
+          {
+            "text": "●",
+            "rowspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 3
+          },
+          {
+            "text": "●",
+            "rowspan": 3
+          },
+          {
+            "text": "●",
+            "rowspan": 3
+          },
+          {
+            "text": "At tread force of 294N (30.0kgf)",
+            "colspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Tread: 5-7 notches",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Total stroke: 14 notches",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Parking Brake Effectiveness of the"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "Braking force : 20% or more of the vehicle weight at the time of inspection",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Hose and pipe"
+          },
+          {
+            "text": "Brake hose, pipe Leakage or damage to the Installed state"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◇"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "Conditions A, B, C"
+          }
+        ],
+        [
+          {
+            "text": "Reservoir Tank"
+          },
+          {
+            "text": "Amount of brake fluid"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Liquid level : Must be between the upper and lower limits",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Master Cylinder, Wheel Cylinder and Disc caliper",
+            "rowspan": 2
+          },
+          {
+            "text": "Brake master Cylinder, wheel Cylinder, disk Leaking caliper fluid"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Brake master Cylinder, wheel Cylinder, disk Caliper's Function, wear and tear"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "brake chamber",
+            "rowspan": 2
+          },
+          {
+            "text": "Brake chamber Rod stroke"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "Brake Chamber Function"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "brake Valves, quick release Valves and Relay Valves"
+          },
+          {
+            "text": "Brake valve, Quick release valve, Relay Valve Function"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "servo unit",
+            "rowspan": 4
+          },
+          {
+            "text": "of the brake doubling device. Clogged air cleaner"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "Function of brake doubler"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Air Pressure Gauge Functions (Increase in air pressure) (Condition)"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "Inspect brake valves (exhaust noise)"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "Brake Cam"
+          },
+          {
+            "text": "Worn brake cam"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "Brake drum and Brake shoe",
+            "rowspan": 5
+          },
+          {
+            "text": "Brake drum and Gap with Lining"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "Self-adjusting"
+          }
+        ],
+        [
+          {
+            "text": "Brake shoe Sliding portions and Lining wear",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "◆",
+            "rowspan": 2
+          },
+          {
+            "text": "◆",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "◇",
+            "rowspan": 2
+          },
+          {
+            "text": "◆",
+            "rowspan": 2
+          },
+          {
+            "text": "◆",
+            "rowspan": 2
+          },
+          {
+            "text": "Standard thickness : 4.5mm",
+            "colspan": 3
+          },
+          {
+            "text": "Conditions A, B, C",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Usable limit : 1.0mm",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Worn or damaged brake drums",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "●",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "◇",
+            "rowspan": 2
+          },
+          {
+            "text": "●",
+            "rowspan": 2
+          },
+          {
+            "text": "Standard diameter : 180.0mm",
+            "colspan": 3
+          },
+          {
+            "text": "Conditions A, B, C",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Usable limit : 181.0mm",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Back plate"
+          },
+          {
+            "text": "Brake back Plate condition"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "brake disk and pads",
+            "rowspan": 5
+          },
+          {
+            "text": "Brake disc and Gap between pad and"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 2
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Worn brake pads",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "◆",
+            "rowspan": 2
+          },
+          {
+            "text": "◆",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "◇",
+            "rowspan": 2
+          },
+          {
+            "text": "◆",
+            "rowspan": 2
+          },
+          {
+            "text": "◆",
+            "rowspan": 2
+          },
+          {
+            "text": "Standard thickness"
+          },
+          {
+            "text": "Front wheel : 12-inch brake specification : 8.5mm 13-inch brake specification : 9.5mm",
+            "colspan": 2
+          },
+          {
+            "text": "Conditions A, B, C",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "use limit"
+          },
+          {
+            "text": "Front wheel : 1.6mm",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Brake disc Wear and tear",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "●",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "◇",
+            "rowspan": 2
+          },
+          {
+            "text": "●",
+            "rowspan": 2
+          },
+          {
+            "text": "Standard thickness"
+          },
+          {
+            "text": "Front wheel : 12-inch brake specification : 12.0mm 13-inch brake specification : 17.0mm",
+            "colspan": 2
+          },
+          {
+            "text": "Conditions A, B, C",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "use limit"
+          },
+          {
+            "text": "Front wheel : 12-inch brake specification : 10.0mm 13-inch brake specification : 15.0mm",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "double safety brake mechanism"
+          },
+          {
+            "text": "Dual safety brake mechanism functions"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "traveling gear",
+            "rowspan": 9
+          },
+          {
+            "text": "wheel",
+            "rowspan": 9
+          },
+          {
+            "text": "Tire condition",
+            "rowspan": 5
+          },
+          {
+            "text": "●",
+            "rowspan": 5
+          },
+          {
+            "text": "◆",
+            "rowspan": 5
+          },
+          {
+            "text": "◆",
+            "rowspan": 5
+          },
+          {
+            "text": "●",
+            "rowspan": 5
+          },
+          {
+            "text": "",
+            "rowspan": 5
+          },
+          {
+            "text": "◆",
+            "rowspan": 5
+          },
+          {
+            "text": "◆",
+            "rowspan": 5
+          },
+          {
+            "text": "Tire Specifications",
+            "rowspan": 2
+          },
+          {
+            "text": "Tire pressure",
+            "colspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 5
+          }
+        ],
+        [
+          {
+            "text": "front wheel"
+          },
+          {
+            "text": "rear wheel"
+          }
+        ],
+        [
+          {
+            "text": "155/65R14 75S"
+          },
+          {
+            "text": "240kPa （2.4kgf/cm 2 ）"
+          },
+          {
+            "text": "230kPa （2.3kgf/cm 2 ）"
+          }
+        ],
+        [
+          {
+            "text": "165/55R15 75V"
+          },
+          {
+            "text": "210kPa （2.1kgf/cm 2 ）"
+          },
+          {
+            "text": "210kPa （2.1kgf/cm 2 ）"
+          }
+        ],
+        [
+          {
+            "text": "Tire groove depth: Up to 1.6 mm remaining grooves",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Loose wheel nuts and wheel bolts"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "Tightening torque for wheel nuts: 108N·m（11.0kgf·m）",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Rim and side rings, Disc Wheel damage"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Front wheel Bearing rattling"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "Hub axial misalignment: 0-0.05mm",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Rear wheel bearing rattling"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "Hub axial misalignment: 0-0.05mm",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "shock absorber",
+            "rowspan": 6
+          },
+          {
+            "text": "leaf suspension",
+            "rowspan": 2
+          },
+          {
+            "text": "Damaged leaf springs"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "Leaf Suspension Mounting and Loose connection, Rattle, damage"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "coil suspension",
+            "rowspan": 2
+          },
+          {
+            "text": "Damaged coil spring"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Coil Suspension Mounting and Loose connection, Rattle, damage"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Mounting and connecting parts"
+          },
+          {
+            "text": "Suspension mounting and loose connections, Rattle, damage"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◇"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "Conditions A, B, C"
+          }
+        ],
+        [
+          {
+            "text": "shock absorber"
+          },
+          {
+            "text": "shock absorber Damage to, oil leakage from"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "power transmission equipment",
+            "rowspan": 11
+          },
+          {
+            "text": "clutch",
+            "rowspan": 4
+          },
+          {
+            "text": "Clutch pedal play, Gap between floorboards when cut",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "●",
+            "rowspan": 2
+          },
+          {
+            "text": "●",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "●",
+            "rowspan": 2
+          },
+          {
+            "text": "●",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Clutch Action"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "Amount of clutch fluid"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "Transmission and transfer",
+            "rowspan": 2
+          },
+          {
+            "text": "Transmission, The transfer Fluid leakage, quantity",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "◆",
+            "rowspan": 2
+          },
+          {
+            "text": "◆",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "◆",
+            "rowspan": 2
+          },
+          {
+            "text": "◆",
+            "rowspan": 2
+          },
+          {
+            "text": "Liquid level : Must be between the upper and lower limits",
+            "colspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Propeller Shaft and Drive shaft",
+            "rowspan": 4
+          },
+          {
+            "text": "Propeller shaft, drive Loose shaft connection"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Drive shaft universal of the joint part. Dust Boots Cracks, damage"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◇"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "Conditions A, B, C"
+          }
+        ],
+        [
+          {
+            "text": "Propeller shaft, drive Shaft universal Joint rattling"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Propeller shaft, drive Shaft center bearing rattling of a fork (in a road)"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "differential"
+          },
+          {
+            "text": "Differential's Fluid leakage, quantity"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "Liquid level : Filler Must be at the same level as the underside of the bolt holes",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "electrical equipment",
+            "rowspan": 8
+          },
+          {
+            "text": "ignition device",
+            "rowspan": 5
+          },
+          {
+            "text": "Spark plug condition"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "Plug gap : Cars without turbocharger: 1.0-1.1mm Turbocharged vehicles: 0.7-0.8mm",
+            "colspan": 3
+          },
+          {
+            "text": "Platinum, iridium (Ir) The plugs are No inspection required"
+          }
+        ],
+        [
+          {
+            "text": "Ignition timing",
+            "rowspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 3
+          },
+          {
+            "text": "●",
+            "rowspan": 3
+          },
+          {
+            "text": "●",
+            "rowspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 3
+          },
+          {
+            "text": "●",
+            "rowspan": 3
+          },
+          {
+            "text": "●",
+            "rowspan": 3
+          },
+          {
+            "text": "0±2°BTDC/850rpm (N or P position)",
+            "colspan": 3
+          },
+          {
+            "text": "The non-adjustable type is No inspection required",
+            "rowspan": 3
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Distributor's Cap condition"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "distributor conservative without party affiliation No inspection required"
+          }
+        ],
+        [
+          {
+            "text": "battery",
+            "rowspan": 2
+          },
+          {
+            "text": "Amount of battery fluid"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Liquid level : Must be between the upper and lower limits",
+            "colspan": 3
+          },
+          {
+            "text": "Sealed type requires no inspection"
+          }
+        ],
+        [
+          {
+            "text": "Battery terminal section Loosening and corrosion of"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "electrical wiring"
+          },
+          {
+            "text": "of electrical wiring connections. Loosening, damage"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "motor",
+            "rowspan": 14
+          },
+          {
+            "text": "body (of a machine)",
+            "rowspan": 8
+          },
+          {
+            "text": "How the engine runs, strange noise"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Low speed and acceleration conditions"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Exhaust condition",
+            "rowspan": 4
+          },
+          {
+            "text": "",
+            "rowspan": 4
+          },
+          {
+            "text": "●",
+            "rowspan": 4
+          },
+          {
+            "text": "●",
+            "rowspan": 4
+          },
+          {
+            "text": "",
+            "rowspan": 4
+          },
+          {
+            "text": "",
+            "rowspan": 4
+          },
+          {
+            "text": "●",
+            "rowspan": 4
+          },
+          {
+            "text": "●",
+            "rowspan": 4
+          },
+          {
+            "text": "Electronic fuel injection type Idling RPM (no load) : 850±50 rpm (N or P position)",
+            "colspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 4
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Air Cleaner Elements Dirt and clogging of"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◇"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "Conditions A, B, C"
+          }
+        ],
+        [
+          {
+            "text": "Cylinder head and Tightening condition of each part of manifold"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "No inspection required due to plastic zone tightening"
+          }
+        ],
+        [
+          {
+            "text": "lubricating device",
+            "rowspan": 2
+          },
+          {
+            "text": "Engine oil leak"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Engine oil quantity"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Level Gauge: Must be between the upper and lower limits",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Fuel System"
+          },
+          {
+            "text": "fuel leak"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◇"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "Conditions A, B, C"
+          }
+        ],
+        [
+          {
+            "text": "cooling device",
+            "rowspan": 3
+          },
+          {
+            "text": "Amount of radiator fluid"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Reservoir tank : Must be between the upper and lower limits",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Loose fan belt, damage"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "Deflection when the center of the belt between the pulleys is pressed with a force of approximately 98 N (10.0 kgf) with the engine cold At inspection: 10.5-11.5mm When new: 6-7mm",
+            "colspan": 3
+          },
+          {
+            "text": "Indicates belt used for both A/C belt compressor and compressor"
+          }
+        ],
+        [
+          {
+            "text": "Leaking radiator fluid"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "soot and smoke Bad smelling gas Device to prevent emission of harmful gases, etc.",
+            "rowspan": 10
+          },
+          {
+            "text": "blow-by gas reducer",
+            "rowspan": 2
+          },
+          {
+            "text": "Metering valve's condition"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Blow-by gas reduction system Damage to piping in"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Fuel evaporation gas emission limiter",
+            "rowspan": 3
+          },
+          {
+            "text": "Fuel evaporative gas emission deterrence Damage to equipment piping, etc."
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Charcoal Canister's Clogging, damage"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Fuel evaporative gas emission deterrence Check equipment Check valves Feature"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Carbon monoxide, etc. anti-dissipation device",
+            "rowspan": 5
+          },
+          {
+            "text": "Decrease in catalyst and other emissions Loose equipment installation, damage"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Function of secondary air supply unit"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "Exhaust gas recirculation system Feature"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "Cars without turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Function of exhaust gas reduction device during deceleration"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Prevention of carbon monoxide and other emissions Damage to equipment piping, Installed state"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Lamping devices and turn signal",
+            "colspan": 2
+          },
+          {
+            "text": "Illumination or flashing condition, dirt, or damage to headlamps, stop lamps, indicator lamps, etc."
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Alarms, Window washer, Cleaning solution injection system, Defroster and locking device",
+            "colspan": 2,
+            "rowspan": 4
+          },
+          {
+            "text": "Horn, weipa, Windshield washer, Defroster, handle Locking device action"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Windshield Washer injection state"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "No abnormalities in the direction or height of the liquid",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Wiping state of wiper"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "No abnormal operating or wiping conditions.",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Window Washer Tank liquid volume"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Confirming capacity with level gauge",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "exhaust pipe and muffler",
+            "colspan": 2,
+            "rowspan": 2
+          },
+          {
+            "text": "Loose or damaged exhaust pipe or muffler installation"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "◆"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Muffler Functions"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "◇"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "Condition D, E"
+          }
+        ],
+        [
+          {
+            "text": "Fueled by high-pressure gas Fuel equipment, etc. to",
+            "colspan": 2,
+            "rowspan": 2
+          },
+          {
+            "text": "Fuel system fueled by high-pressure gas and other pipes and joints. Gas leakage, damage"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "Gas Cylinder Mounting Section Loosening, damage"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": "×"
+          }
+        ],
+        [
+          {
+            "text": "Frame and body",
+            "colspan": 2
+          },
+          {
+            "text": "Frame and body Loosening, damage"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "seat",
+            "colspan": 2
+          },
+          {
+            "text": "Damage to seat belt, operation"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Other",
+            "colspan": 2
+          },
+          {
+            "text": "Lubrication of chassis parts"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "abnormal in operation (of a machine, especially security cameras) Areas where the",
+            "colspan": 2
+          },
+          {
+            "text": "There is something wrong with the area in question. the fact that there is no ..."
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "●"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "",
+            "colspan": 3
+          },
+          {
+            "text": ""
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Periodic Replacement Parts Items",
+            "rowspan": 2,
+            "header": true
+          },
+          {
+            "text": "Replacement time",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "Inspection Method and Judgment Criteria",
+            "rowspan": 2,
+            "header": true
+          },
+          {
+            "text": "remarks",
+            "rowspan": 2,
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Replace every year Unit : Year",
+            "header": true
+          },
+          {
+            "text": "Replaced every kilometer traveled Unit : thousand km",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Brake Fluid"
+          },
+          {
+            "text": "［3］"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Automatic transmission fluid",
+            "rowspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 3
+          },
+          {
+            "text": "［80］"
+          },
+          {
+            "text": "",
+            "rowspan": 3
+          },
+          {
+            "text": "CVT",
+            "rowspan": 3
+          }
+        ],
+        [
+          {
+            "text": "60"
+          }
+        ],
+        [
+          {
+            "text": "Forty.\""
+          }
+        ],
+        [
+          {
+            "text": "Rear differential fluid"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "［60］"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "4WD vehicle"
+          }
+        ],
+        [
+          {
+            "text": "Transfer Fluid",
+            "rowspan": 3
+          },
+          {
+            "text": "",
+            "rowspan": 3
+          },
+          {
+            "text": "［80］"
+          },
+          {
+            "text": "",
+            "rowspan": 3
+          },
+          {
+            "text": "4WD vehicle",
+            "rowspan": 3
+          }
+        ],
+        [
+          {
+            "text": "60"
+          }
+        ],
+        [
+          {
+            "text": "Forty.\""
+          }
+        ],
+        [
+          {
+            "text": "Spark Plug"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "100"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Iridium Plug"
+          }
+        ],
+        [
+          {
+            "text": "Air Cleaner Elements",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "50"
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "wet (process)",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "25.\""
+          }
+        ],
+        [
+          {
+            "text": "Engine oil",
+            "rowspan": 3
+          },
+          {
+            "text": "1"
+          },
+          {
+            "text": "10"
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "Vehicles not equipped with a turbo charger",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "0.5\""
+          },
+          {
+            "text": "Five.\""
+          }
+        ],
+        [
+          {
+            "text": "0.5"
+          },
+          {
+            "text": "5"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Vehicles equipped with a turbo charger"
+          }
+        ],
+        [
+          {
+            "text": "Engine oil filter",
+            "rowspan": 3
+          },
+          {
+            "text": "2"
+          },
+          {
+            "text": "20"
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "Vehicles not equipped with a turbo charger",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "One.\""
+          },
+          {
+            "text": "10.\""
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "10"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Vehicles equipped with a turbo charger"
+          }
+        ],
+        [
+          {
+            "text": "radiator fluid",
+            "rowspan": 2
+          },
+          {
+            "text": "［11］"
+          },
+          {
+            "text": "［200］"
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "6"
+          },
+          {
+            "text": "120"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Note)"
+          },
+          {
+            "text": "1. Replacement should be made by year or mileage, whichever comes first."
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "2. The marks [ ] and [ ] indicate the time of replacement for the first time in passenger cars and for severe conditions, respectively."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Inspection and maintenance items",
+            "colspan": 3,
+            "header": true
+          },
+          {
+            "text": "Inspection Method and Judgment Criteria",
+            "colspan": 2,
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Device to prevent emission of soot, foul-smelling or noxious gases, etc."
+          },
+          {
+            "text": "Carbon monoxide and other emission prevention devices",
+            "rowspan": 2
+          },
+          {
+            "text": "Function of exhaust gas reduction device during deceleration Function of the deceleration fuel cutoff device"
+          },
+          {
+            "text": "Warm up the engine and check that the idling RPM is constant. Raise the engine speed to approximately 3,000 rpm and confirm that the injectors make an operating sound (ticking sound). When the accelerator pedal is released, confirm that the injector operation noise stops momentarily.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Function of exhaust gas recirculation system Inspect the EGR valve."
+          },
+          {
+            "text": "Idle the engine and disconnect the coupler from the EGR valve. Confirm that the engine becomes sluggish (engine speed fluctuates) when the positive (+) terminal of the battery is connected to the No. 5 terminal of the connector on the EGR valve side and the negative (-) terminal to the No. 1 terminal. If the engine does not malfunction, remove the EGR valve and inspect its function by itself.",
+            "colspan": 2
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131120091740/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000335_jpn/web/html/G000335_jpn_Content.html",
+  "inOutline": true
+}

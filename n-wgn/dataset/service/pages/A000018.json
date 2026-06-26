@@ -1,0 +1,224 @@
+{
+  "id": "A000018",
+  "title": "DTC Explanation: P0134",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000018",
+  "assets": [
+    "18_3.0_jpn_11033517_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0134"
+    },
+    {
+      "type": "dtc",
+      "code": "P0134",
+      "text": "DTC P0134: LAF sensor activity abnormal"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "18_3.0_jpn_11033517_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The LAF sensor activates the catalytic action of the sensor element by heating the sensor element with a heater and keeping it at a constant high temperature in order to calculate the accurate air-fuel ratio. The PGM-FI ECU monitors the condition of the LAF sensor by monitoring its internal resistance value."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "If the LAF sensor is not activated within a set time after the LAF sensor heater is energized, the PGM-FI ECU judges that the LAF sensor heater has failed and stores the DTC."
+        },
+        {
+          "text": "The LAF sensor heater is turned on and off within a set time period, and the state of the LAF sensor heater is detected by monitoring the LAF sensor internal resistance value. The PGM-FI ECU judges that the LAF sensor heater is faulty and stores the DTC."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "More than 90 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "12V battery voltage [battery voltage]"
+          },
+          {
+            "text": "10.5V"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Air-fuel ratio feedback control"
+          },
+          {
+            "text": "Fuel, except during cutting",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "P0122､ P0123､ P0222､ P0223､ P0135､ P0300､ P0301､ P0302､ P0303､ P0351､ P0352､ P0353､ P060A､ P1157､ P1659､ P2101､ P2118､ P2122､ P2123､ P2127､ P2128､ P2135､ P2138､ P2176､ P2238､ P2252",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Failure determination 1"
+        },
+        {
+          "text": "Failure determination 2"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "LAF sensor Heater failure"
+        },
+        {
+          "text": "LAF sensor element failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "paragraph",
+      "text": "Start the engine and leave the engine idling for at least 1 minute. If the engine coolant temperature [water temperature sensor] is below -8°C when the engine is started, leave the engine idling for at least 4 minutes."
+    },
+    {
+      "type": "paragraph",
+      "text": "None."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the PGM-FI warning light comes on and the DTC and freeze data are stored."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000018_jpn/web/html/A000018_jpn_Content.html",
+  "inOutline": true
+}

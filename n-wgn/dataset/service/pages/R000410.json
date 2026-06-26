@@ -1,0 +1,78 @@
+{
+  "id": "R000410",
+  "title": "Air cleaner element removal and inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Air intake controller",
+  "subtitle": "",
+  "dgName": "Cars not equipped with a turbo charger",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000410",
+  "assets": [
+    "410_3.0_jpn_11393790_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Air cleaner element removal and inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Air cleaner element removal"
+    },
+    {
+      "type": "figure",
+      "asset": "410_3.0_jpn_11393790_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the air cleaner cover (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not engage the seal rubber of the air cleaner element during installation.",
+        "If the idling continues to be unstable Check idling RPM (2) The following is a list of the items that shall be performed."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Air cleaner element Inspection"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Replace the air cleaner element if it is noticeably dirty or damaged."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not clean by air blow."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000410_jpn/web/html/R000410_jpn_Content.html",
+  "inOutline": true
+}

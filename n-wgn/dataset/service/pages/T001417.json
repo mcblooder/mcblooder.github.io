@@ -1,0 +1,342 @@
+{
+  "id": "T001417",
+  "title": "Entry Write Control System (MICU) Input Inspection",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Interior Lights",
+  "system": "Entry Light Control System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001417",
+  "assets": [
+    "1417_5.0_jpn_11579679_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000925",
+      "label": "Disconnect each coupler from the fuse box",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Entry Write Control System (MICU) Input Inspection"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Disconnect each coupler from the fuse box",
+      "refs": [
+        {
+          "id": "R000925",
+          "label": "Disconnect each coupler from the fuse box",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. Perform input checks and if all is normal and there is an abnormality in the system Replace the fuse box Each coupler is all female terminal cord side 3. Reconnect each coupler in the fuse box 4. Perform input inspection, if all is normal and there is something wrong with the system, Replace the fuse box",
+      "refs": [
+        {
+          "id": "R000925",
+          "label": "Replace the fuse box",
+          "resolved": true
+        },
+        {
+          "id": "R000925",
+          "label": "Reconnect each coupler in the fuse box",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1417_5.0_jpn_11579679_5.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "*1: Vehicles equipped with TRW SRS unit *2: Vehicles equipped with DENSO SRS unit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "P1"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "B8"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G202) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "T27"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "U17"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G403) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "X1"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "H4"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "Driver Open the door"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Driver Door switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "H2 *1 T24 *2"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "Assistant Open the door"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Assisted door switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "H3 *1 H2 *2"
+          },
+          {
+            "text": "purple *1 peach *2"
+          },
+          {
+            "text": "R. Open rear door"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "R. Rear door switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "H11 *2"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "Open the tailgate."
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G503) Tailgate latch switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "H11 *1 H3 *2"
+          },
+          {
+            "text": "purple *1 white *2"
+          },
+          {
+            "text": "L. Open rear door"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "L. Rear door switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "F7"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "Driver Door Lock Knob UNLOCK"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground.",
+            "rowspan": 2
+          },
+          {
+            "text": "Grounding failure (G402) Driver Door lock knob switch Cord disconnection and terminal connection condition",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "F11"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "Driver Door Lock Knob LOCK"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "K2",
+            "rowspan": 2
+          },
+          {
+            "text": "ash",
+            "rowspan": 2
+          },
+          {
+            "text": "Map light DOOR position, shorting the inspection terminal to body ground."
+          },
+          {
+            "text": "Map Lights must be on."
+          },
+          {
+            "text": "out of valves Map Light Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "Cargo area Light DOOR position, shorting inspection terminals to body ground."
+          },
+          {
+            "text": "Cargo area light must be on"
+          },
+          {
+            "text": "out of valves Cargo Area Light Cord disconnection and terminal connection condition"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001417_jpn/web/html/T001417_jpn_Content.html",
+  "inOutline": true
+}

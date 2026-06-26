@@ -1,0 +1,60 @@
+{
+  "id": "R000581",
+  "title": "Replace torque converter case input shaft oil seal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM transmission",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000581",
+  "assets": [
+    "581_3.0_jpn_11035251_3.0_disp.png",
+    "581_3.0_jpn_11035252_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Replace torque converter case input shaft oil seal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Remove input shaft oil seal"
+    },
+    {
+      "type": "figure",
+      "asset": "581_3.0_jpn_11035251_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the input shaft oil seal (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Input shaft oil seal installation"
+    },
+    {
+      "type": "figure",
+      "asset": "581_3.0_jpn_11035252_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install a new oil seal using the driver handle 15 x 135L and the oil seal driver attachment 65. Align the oil seal with the end face of the torque converter case."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000581_jpn/web/html/R000581_jpn_Content.html",
+  "inOutline": true
+}

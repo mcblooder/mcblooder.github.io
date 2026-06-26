@@ -1,0 +1,140 @@
+{
+  "id": "R000481",
+  "title": "Check fuel level warning light",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Remaining fuel indicator light component",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000481",
+  "assets": [
+    "481_3.0_jpn_11292003_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R001029",
+      "label": "Replace the combination meter.",
+      "resolved": true
+    },
+    {
+      "id": "R000480",
+      "label": "Inspect the fuel sender unit.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Check fuel level warning light"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Combination Meter Self-diagnosis"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Perform self-diagnosis of the combination meter."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the fuel level warning light is blinking, proceed to the next step \"HDS Connection\"."
+        },
+        {
+          "text": "If the fuel level warning light is blinking, proceed to the next step \"HDS Connection\"."
+        },
+        {
+          "text": "If the fuel level warning light is not flashing, Replace the combination meter.",
+          "refs": [
+            {
+              "id": "R001029",
+              "label": "Replace the combination meter.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If the fuel level warning light is not flashing, Replace the combination meter.",
+          "refs": [
+            {
+              "id": "R001029",
+              "label": "Replace the combination meter.",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. HDS Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "481_3.0_jpn_11292003_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect HDS to the data link coupler (A) on the left side of the driver's seat."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Body Electrical DTC Confirmation"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Select ''Test Mode Menu'' from the body electrical and check the DTC."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If DTC is displayed, perform the indicated fault diagnosis."
+        },
+        {
+          "text": "If DTC is displayed, perform the indicated fault diagnosis."
+        },
+        {
+          "text": "If DTC is not shown, Inspect the fuel sender unit.",
+          "refs": [
+            {
+              "id": "R000480",
+              "label": "Inspect the fuel sender unit.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If DTC is not shown, Inspect the fuel sender unit.",
+          "refs": [
+            {
+              "id": "R000480",
+              "label": "Inspect the fuel sender unit.",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000481_jpn/web/html/R000481_jpn_Content.html",
+  "inOutline": true
+}

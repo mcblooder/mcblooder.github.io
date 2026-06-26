@@ -1,0 +1,104 @@
+{
+  "id": "R002698",
+  "title": "Cooling cycle servicing - refrigerant recovery/vacuuming/leak testing/refrigerant sealing",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002698",
+  "assets": [
+    "2698_4.0_jpn_11581039_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cooling cycle servicing - refrigerant recovery/vacuuming/leak testing/refrigerant sealing"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Manifold Gauge Set/Freon Gas Recovery/Reclaimer Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "2698_4.0_jpn_11581039_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the manifold gauge set/CFC gas recovery/recycling unit."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Manifold gauge sets are, HFC-134a(R-134a) Use dedicated",
+        "CFC gas recovery/recycling equipment, HFC-134a(R-134a) Use only for the purpose for which it was designed, and use it correctly according to the instruction manual."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Recovery of refrigerant"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Start the engine. Turn on the A/C and run it for about 5 minutes (to recover as much compressor oil as possible from circulating in the A/C system). (to recover as much compressor oil circulating in the A/C system as possible to the compressor) Stop the A/C and then stop the engine. Recover refrigerant gas using a CFC gas recovery and regeneration unit."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. vacuuming"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the vacuum pump. Activate the vacuum pump and continue pulling vacuum for 15 minutes after the scale on the low pressure gauge reaches -0.09 MPa (-680 mmHg). Close each valve on the gauge and let stand for 5 minutes to confirm that there is no change in the needle of the gauge. If the gauge needle changes, use a leak tester to locate and repair the refrigerant leak."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Vacuum pumps should be equipped with a stop valve to prevent backflow of pump oil."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Leak Test"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Leak testers should be inspected using an HFC-134a (R-134a) compatible tester."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Refrigerant sealing"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Start the engine. Set the temperature control to MAX COOL and the inside/outside air switch to inside air circulation ( ), the mode position is set to VENT ( ), set the A/C switch to ON and fan speed to maximum. Open the front door fully. Refrigerant HFC-134a (R-134a) is sealed. Regulated refrigerant fill volume: 320 +25 -25 g Stop the engine. Inspect for gas leaks using a leak tester HFC-134a (R-134a) vs."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Engine speed should not exceed 1,500 rpm."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002698_jpn/web/html/R002698_jpn_Content.html",
+  "inOutline": true
+}

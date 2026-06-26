@@ -1,0 +1,156 @@
+{
+  "id": "G002240",
+  "title": "City brake active system Radar/control unit terminal arrangement",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Speed/body control",
+  "system": "City Brake Active System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G002240",
+  "assets": [
+    "2240_3.0_jpn_11241583_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "City brake active system Radar/control unit terminal arrangement"
+    },
+    {
+      "type": "figure",
+      "asset": "2240_3.0_jpn_11241583_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Terminal No.",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Terminal Symbols",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "F-CAN_L"
+          },
+          {
+            "text": "F-CAN communication line"
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "F-CAN_H"
+          },
+          {
+            "text": "F-CAN communication line"
+          }
+        ],
+        [
+          {
+            "text": "5"
+          },
+          {
+            "text": "weak matcha"
+          },
+          {
+            "text": "IG1 VSA/ABS"
+          },
+          {
+            "text": "System startup power supply"
+          }
+        ],
+        [
+          {
+            "text": "6"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
+        ],
+        [
+          {
+            "text": "7"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "GND"
+          },
+          {
+            "text": "Control Circuit Grounding"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G002240_jpn/web/html/G002240_jpn_Content.html",
+  "inOutline": true
+}

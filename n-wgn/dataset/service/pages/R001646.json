@@ -1,0 +1,102 @@
+{
+  "id": "R001646",
+  "title": "Front Impact Sensor Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "SRS",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001646",
+  "assets": [
+    "1646_3.0_jpn_11347544_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000910",
+      "label": "12V battery Negative (-) terminal Disconnect",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front Impact Sensor Removal and Installation"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Proceed with the work while observing work precautions. ​",
+        "Disconnect the cable from the minus (-) terminal of the 12V battery and wait at least 3 minutes before starting work."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Front Impact Do not apply strong impact to the sensor and its vicinity. (Removal and installation using an impact wrench is not allowed.)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Negative (-) terminal Disconnect",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Negative (-) terminal Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front Impact Sensor Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "1646_3.0_jpn_11347544_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Remove the Torx bolt (B) using the Torx bit T30 and remove the front impact sensor (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Torx bolts shall be replaced with new ones at the time of installation and tightened to the specified torque."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. SRS warning light Check"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the cable to the (-) terminal of the 12V battery, turn the ignition to the ON mode, and check that the SRS warning light comes on for 6 seconds and then goes off."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001646_jpn/web/html/R001646_jpn_Content.html",
+  "inOutline": true
+}

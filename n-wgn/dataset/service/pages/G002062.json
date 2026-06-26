@@ -1,0 +1,226 @@
+{
+  "id": "G002062",
+  "title": "Rear camera terminal arrangement",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "AV/Communication Systems",
+  "system": "Rear camera system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G002062",
+  "assets": [
+    "2062_3.0_jpn_11347603_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear camera terminal arrangement"
+    },
+    {
+      "type": "figure",
+      "asset": "2062_3.0_jpn_11347603_2.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "port (e.g. LAN port)",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Terminal name",
+            "header": true
+          },
+          {
+            "text": "Contents",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "CAMERA BIT1"
+          },
+          {
+            "text": "Rear camera display switching signal"
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "CAMERA BIT0"
+          },
+          {
+            "text": "Rear camera display switching signal"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "white"
+          },
+          {
+            "text": "CAMERA VCC"
+          },
+          {
+            "text": "Power supply for rear camera"
+          }
+        ],
+        [
+          {
+            "text": "5"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
+        ],
+        [
+          {
+            "text": "6"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "RC GND"
+          },
+          {
+            "text": "Rear Camera Grounding"
+          }
+        ],
+        [
+          {
+            "text": "7"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "CAMERA GND"
+          },
+          {
+            "text": "Rear Camera NTSC signal grounding"
+          }
+        ],
+        [
+          {
+            "text": "8"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
+        ],
+        [
+          {
+            "text": "9"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "CAMERA V"
+          },
+          {
+            "text": "Rear camera NTSC signal"
+          }
+        ],
+        [
+          {
+            "text": "10"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "unused"
+          },
+          {
+            "text": "―――"
+          }
+        ],
+        [
+          {
+            "text": "11"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "CAMERA ADPT"
+          },
+          {
+            "text": "Rear Camera connection detection signal"
+          }
+        ],
+        [
+          {
+            "text": "12"
+          },
+          {
+            "text": "ash"
+          },
+          {
+            "text": "SH CAMERA"
+          },
+          {
+            "text": "Shield of terminal No.4, No.6, No.7, No.9"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G002062_jpn/web/html/G002062_jpn_Content.html",
+  "inOutline": true
+}

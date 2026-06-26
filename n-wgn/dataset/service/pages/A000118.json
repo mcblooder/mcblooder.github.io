@@ -1,0 +1,232 @@
+{
+  "id": "A000118",
+  "title": "DTC Explanation: P0500",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000118",
+  "assets": [
+    "118_3.0_jpn_11033636_4.0_disp.png",
+    "118_3.0_jpn_11033637_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0500"
+    },
+    {
+      "type": "dtc",
+      "code": "P0500",
+      "text": "DTC P0500: Speed Sensor failure"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "118_3.0_jpn_11033636_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "118_3.0_jpn_11033637_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The driven pulley speed sensor is mounted on the transmission case. The driven pulley speed sensor detects the rotation of the driven pulley and generates a voltage signal with a frequency that varies with the rotation speed. This signal is sent to the PGM-FI ECU and used to measure vehicle speed. The PGM-FI ECU detects missing pulses from the driven pulley speed sensor when the driven pulley is rotating as a malfunction. Failures are caused by open or temporary disconnections or short circuits. If there is an abnormality in the detected speed ratio between the wheel sensor and the driven pulley speed sensor, the PGM-FI ECU judges a failure and stores a DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "More than 10 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1D/C (single detection method), PGM-FI warning light: on, D indicator light: flashing"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Wheel Sensor Detected Speed [ABS speed sensor]",
+            "colspan": 2
+          },
+          {
+            "text": "21km/h"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Other",
+            "colspan": 2
+          },
+          {
+            "text": "Driven Pulley Speed No noise in sensor output",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "Driven Pulley If the vehicle speed detected by the speed sensor [Driven Pulley Speed Sensor] is less than the vehicle speed detected by the wheel sensor [ABS Speed Sensor] multiplied by a factor of 0.4 and continues for more than 10 seconds."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Ground fault in code (VEL-DD line) between PGM-FI ECU and driven pulley speed sensor"
+        },
+        {
+          "text": "Disconnection of the cord (VEL-DD line) between the PGM-FI ECU and the driven pulley speed sensor (including disconnected or loose coupler)"
+        },
+        {
+          "text": "Disconnection of the cord (VCC line) between the PGM-FI ECU and the driven pulley speed sensor (including disconnected or loose coupler)"
+        },
+        {
+          "text": "Disconnection of the cord (SG line) between the PGM-FI ECU and the driven pulley speed sensor (including disconnected or loose coupler)"
+        },
+        {
+          "text": "Driven Pulley Speed sensor failure"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Start the engine."
+        },
+        {
+          "text": "Vehicle speed [vehicle speed] 21 km/h or more for at least 10 seconds."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When conducting test drives, the driver must comply with all laws and regulations, observe good manners, and drive in accordance with the surrounding conditions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "None."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to be faulty, the PGM-FI warning light illuminates, the D indicator light flashes, and the temporary DTC, DTC and freeze data are stored in the PGM-FI ECU memory."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed as normal by performing a fault diagnosis in a continuous 3D/C run, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, D indicator light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000118_jpn/web/html/A000118_jpn_Content.html",
+  "inOutline": true
+}

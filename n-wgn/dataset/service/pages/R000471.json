@@ -1,0 +1,133 @@
+{
+  "id": "R000471",
+  "title": "Learning to Idle",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Idle Control System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000471",
+  "assets": [
+    "471_3.0_jpn_11291986_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002909",
+      "label": "ECU reset",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Learning to Idle"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Idle control system learning is required for the ECU to learn the engine idle load. This learning should be performed when any of the following operations are performed.",
+        "ECU replacement",
+        "Reset ECU with HDS",
+        "ECU updates",
+        "Throttle body replacement ( Cars not equipped with a turbo charger , , Turbo Charger equipped vehicle (See Section 2.1.2.), cleaning",
+        "Clearing DTC by HDS does not require this learning.",
+        "The ECU will store the learned state in the memory in the PGM-FI ECU after approximately 60 minutes have elapsed with the ignition off (LOCK) mode. If the 12V battery terminal is disconnected before that time, it is necessary to perform SCS short in HDS and disconnect the 12V battery terminal after about 60 seconds has elapsed."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. HDS Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "471_3.0_jpn_11291986_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect HDS to the data link coupler (A) on the left side of the driver's seat."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Electric load OFF"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn off electrical loads such as A/C, audio, rear defroster, headlights, etc."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. ECU reset",
+      "refs": [
+        {
+          "id": "R002909",
+          "label": "ECU reset",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Engine Warming up"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Start the engine and warm up the engine until the HDS displays an engine water temperature of 90°C or higher."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Idling Learning"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode. Turn ignition to ON mode. With the accelerator pedal fully closed in the N or P position and the electrical load turned OFF 5 min. Idling. Radiator fan operation time is not included in this 5-minute period."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Idling Learning completed Inspection"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode. Execute SCS short in SCS mode with HDS. Execute SCS open in SCS mode at HDS after about 60 seconds. Turn ignition to ON mode. Check HDS for idling learning in the data list. If this step is not completed, Idle Stop will not function. Turn ignition OFF (LOCK) mode. Remove HDS from the data link coupler."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If complete, idling learning is complete."
+        },
+        {
+          "text": "If complete, idling learning is complete."
+        },
+        {
+          "text": "If not completed, perform the procedure \"Idling Learning\" again."
+        },
+        {
+          "text": "If not completed, perform the procedure \"Idling Learning\" again."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000471_jpn/web/html/R000471_jpn_Content.html",
+  "inOutline": true
+}

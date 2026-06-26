@@ -1,0 +1,122 @@
+{
+  "id": "R000346",
+  "title": "Ignition coil/spark plug removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "ignition device",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000346",
+  "assets": [
+    "346_3.0_jpn_11583151_3.0_disp.png",
+    "346_3.0_jpn_11583152_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000410",
+      "label": "Cars not equipped with a turbo charger",
+      "resolved": true
+    },
+    {
+      "id": "R000413",
+      "label": "Turbo Charger equipped vehicle",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Ignition coil/spark plug removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Air cleaner removal"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000410",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000410",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000413",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000413",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Ignition coil removal"
+    },
+    {
+      "type": "figure",
+      "asset": "346_3.0_jpn_11583151_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Spark Plug Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "346_3.0_jpn_11583152_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure. When installing the spark plug, install the plug in the plug wrench and tighten it temporarily with fingertips until it hits the plug seat surface, then tighten it securely with the plug wrench handle."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000346_jpn/web/html/R000346_jpn_Content.html",
+  "inOutline": true
+}

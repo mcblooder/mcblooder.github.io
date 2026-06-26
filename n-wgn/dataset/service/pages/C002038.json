@@ -1,0 +1,44 @@
+{
+  "id": "C002038",
+  "title": "Headlight Leveling System Structure Description - Overview - Manual Leveling System",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Headlight Leveling System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002038",
+  "assets": [
+    "2038_3.0_jpn_11156066_3.0_disp.png",
+    "2038_3.0_jpn_11390983_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Headlight Leveling System Structure Description - Overview - Manual Leveling System"
+    },
+    {
+      "type": "paragraph",
+      "text": "The manual leveling system allows the driver to adjust the optical axis of the headlights according to the number of occupants and loading capacity by operating the headlight manual leveling switch on the driver's switch panel. This system is available on vehicles equipped with halogen headlights."
+    },
+    {
+      "type": "figure",
+      "asset": "2038_3.0_jpn_11390983_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2038_3.0_jpn_11156066_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002038_jpn/web/html/C002038_jpn_Content.html",
+  "inOutline": true
+}

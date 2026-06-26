@@ -1,0 +1,68 @@
+{
+  "id": "R001006",
+  "title": "Assistant Power Window Switch Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "wind",
+  "system": "Power Window",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001006",
+  "assets": [
+    "1006_3.0_jpn_11369868_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000720",
+      "label": "Assistant Power Window Switch Panel Removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Assistant Power Window Switch Removal and Installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Assistant Power Window Switch Panel Removal",
+      "refs": [
+        {
+          "id": "R000720",
+          "label": "Assistant Power Window Switch Panel Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Assistant Power Window Switch Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "1006_3.0_jpn_11369868_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001006_jpn/web/html/R001006_jpn_Content.html",
+  "inOutline": true
+}

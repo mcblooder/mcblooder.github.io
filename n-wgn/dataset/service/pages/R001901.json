@@ -1,0 +1,163 @@
+{
+  "id": "R001901",
+  "title": "Disassembly and assembly of select levers",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "A/T select mechanism",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001901",
+  "assets": [
+    "1901_4.0_jpn_11582260_4.0_disp.png",
+    "1901_4.0_jpn_11582261_4.0_disp.png",
+    "1901_4.0_jpn_11582262_4.0_disp.png",
+    "1901_4.0_jpn_11582263_4.0_disp.png",
+    "1901_4.0_jpn_11582264_4.0_disp.png",
+    "1901_4.0_jpn_11582265_4.0_disp.png",
+    "1901_4.0_jpn_11582266_4.0_disp.png",
+    "1901_4.0_jpn_11582267_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Disassembly and assembly of select levers"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Select lever Disassembly, assembly"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not wipe off the grease applied during disassembly and reassembly, since the parts indicated by the \"*\" are coated with a special grease."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1901_4.0_jpn_11582260_4.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Select lever knob cover removal"
+    },
+    {
+      "type": "figure",
+      "asset": "1901_4.0_jpn_11582261_4.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Select lever knob removal"
+    },
+    {
+      "type": "figure",
+      "asset": "1901_4.0_jpn_11582262_4.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not wipe off the grease applied during disassembly and reassembly, because the parts indicated by the \"*\" are coated with a special grease."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Shift position indicator panel removal"
+    },
+    {
+      "type": "figure",
+      "asset": "1901_4.0_jpn_11582263_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the socket (B) from the shift position indicator panel (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "1901_4.0_jpn_11582264_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Shift Position Indicator Panel Remove the light harness (A) from the harness guide (B) and remove the shift position indicator panel (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Shift lock release, release Remove spring"
+    },
+    {
+      "type": "figure",
+      "asset": "1901_4.0_jpn_11582265_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Unlock the shift lock release (A) and remove the shift lock release (B) and release spring (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Select Lever Bracket Base Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "1901_4.0_jpn_11582266_4.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not wipe off the grease applied during disassembly and reassembly, since the parts indicated by the \"*\" are coated with a special grease."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The parking pin switch and shift position indicator panel light harness are assembled into the select lever bracket base and should be replaced as a set with the select lever bracket base."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Shift lock Insert a wiring screwdriver or similar tool into the mounting lock (B) of the solenoid (A) to widen the lock."
+    },
+    {
+      "type": "figure",
+      "asset": "1901_4.0_jpn_11582267_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the shift lock solenoid (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not wipe off the grease applied during disassembly and reassembly, because the parts indicated by the \"*\" are coated with a special grease."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001901_jpn/web/html/R001901_jpn_Content.html",
+  "inOutline": true
+}

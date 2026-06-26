@@ -1,0 +1,173 @@
+{
+  "id": "R000661",
+  "title": "Ball Joint Boot Replacement",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "suspension",
+  "sectionCode": "B",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000661",
+  "assets": [
+    "661_3.0_jpn_11035691_3.0_disp.png",
+    "661_3.0_jpn_11035692_3.0_disp.png",
+    "661_3.0_jpn_11393077_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Front wheel removal",
+      "resolved": true
+    },
+    {
+      "id": "R000665",
+      "label": "Lower arm removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Ball Joint Boot Replacement"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the ball joint boot is cracked, leaking grease or has evidence of grease leakage, The lower arm shall be replaced."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Lower arm removal",
+      "refs": [
+        {
+          "id": "R000665",
+          "label": "Lower arm removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Ball joint boot removal"
+    },
+    {
+      "type": "figure",
+      "asset": "661_3.0_jpn_11393077_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the ball joint boot (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Ball Joint Grease Filling"
+    },
+    {
+      "type": "figure",
+      "asset": "661_3.0_jpn_11035691_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Wipe off the grease inside the ball joint and fill with new grease. Apply grease to the new ball joint boot (A) and grease the lip (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not allow grease to adhere to the press fitting (C) of the boot and joint housing.",
+        "Do not allow dust, etc. to get inside the boot or joint."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Ball Joint Boot Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "661_3.0_jpn_11035692_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Using the special tool, press-fit the ball joint boot (A) into the joint housing."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Place a rag or similar material on the bottom of the ball joint and press-fit by hand.",
+        "Boots shall be pressed evenly to prevent the boots from being installed at an angle or creating gaps in the press fit (B).",
+        "After mounting the boot, completely wipe off any grease adhering to the ball pin taper (C) and thread (D).",
+        "After installation, the center (belly) of the boot should be lightly pressed to release air in the boot, and any dents or other deformities should be corrected before connecting the boot to the knuckle."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Lower arm mounting",
+      "refs": [
+        {
+          "id": "R000665",
+          "label": "Lower arm mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Front wheel mounting",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel mounting",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000661_jpn/web/html/R000661_jpn_Content.html",
+  "inOutline": true
+}

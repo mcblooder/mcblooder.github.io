@@ -1,0 +1,376 @@
+{
+  "id": "A000005",
+  "title": "DTC Explanation: P0011",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000005",
+  "assets": [
+    "5_3.0_jpn_11033497_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0011"
+    },
+    {
+      "type": "dtc",
+      "code": "P0011",
+      "text": "DTC P0011: VTC system function abnormal"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "5_3.0_jpn_11033497_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The continuously variable valve timing control mechanism (VTC) hydraulically operates the VTC actuator to control the intake camshaft phase in order to obtain optimum valve timing The PGM-FI ECU determines that the difference between the intake camshaft phase control command value and the actual intake cam If the difference between the shaft phase value and the actual intake camshaft phase value continues for a set period of time at or above the set value, the PGM-FI ECU determines that a failure has occurred and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "More than 15 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Case 1"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Elapsed time after engine start",
+            "colspan": 2
+          },
+          {
+            "text": "for 10 seconds"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine cooling water temperature [Water temperature sensor]*",
+            "rowspan": 2
+          },
+          {
+            "text": "-5℃"
+          },
+          {
+            "text": "70℃"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "-25℃"
+          },
+          {
+            "text": "85℃"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine RPM [Engine RPM]**",
+            "rowspan": 2
+          },
+          {
+            "text": "95℃"
+          },
+          {
+            "text": "1,100rpm"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "106℃"
+          },
+          {
+            "text": "1,600rpm"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC",
+            "colspan": 2
+          },
+          {
+            "text": "P0010､ P0107､ P0108､ P0112､ P0113､ P0117､ P0118､ P0122､ P0123､ P0222､ P0223､ P0335､ P0339､ P0340､ P0341､ P0344､ P060A､ P1009､ P1659､ P2101､ P2118､ P2135､ P2176､ P2228､ P2229",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Case 2"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Engine cooling water temperature [Water temperature sensor]*",
+            "rowspan": 2
+          },
+          {
+            "text": "-5℃"
+          },
+          {
+            "text": "-5℃"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "-25℃"
+          },
+          {
+            "text": "45℃"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "TDC sensor signal after engine start*.",
+            "rowspan": 2
+          },
+          {
+            "text": "40℃"
+          },
+          {
+            "text": "0 times"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "-25℃"
+          },
+          {
+            "text": "17,625 times"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC",
+            "colspan": 2
+          },
+          {
+            "text": "P0010､ P0107､ P0108､ P0112､ P0113､ P0117､ P0118､ P0122､ P0123､ P0222､ P0223､ P0335､ P0339､ P0340､ P0341､ P0344､ P060A､ P1009､ P1659､ P2101､ P2118､ P2135､ P2176､ P2228､ P2229",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "Intake If the difference between the camshaft phase command value and the actual intake camshaft phase value remains at 20° or more for 15 seconds or longer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "VTC actuator sticking"
+        },
+        {
+          "text": "Response delay of VTC actuator"
+        },
+        {
+          "text": "VTC hydraulic valve sticking"
+        },
+        {
+          "text": "Response delay of VTC hydraulic valve"
+        },
+        {
+          "text": "Short downstream of VTC hydraulic valve"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Start the engine, run the radiator fan twice, and then warm up the engine for at least 2 minutes at 3,000 rpm with no load."
+        },
+        {
+          "text": "Vehicle speed [vehicle speed] 40 km/h-100 km/h for at least 15 seconds at a constant speed."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When conducting test drives, the driver must comply with all laws and regulations, observe good manners, and drive in accordance with the surrounding conditions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Run the VTC test in the Inspection menu with HDS."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the PGM-FI warning light comes on and the DTC and freeze data are stored."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000005_jpn/web/html/A000005_jpn_Content.html",
+  "inOutline": true
+}

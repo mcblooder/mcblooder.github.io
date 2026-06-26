@@ -1,0 +1,259 @@
+{
+  "id": "R002922",
+  "title": "Front Brake Pad Removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "",
+  "sectionCode": "",
+  "subsection": "",
+  "system": "",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002922",
+  "assets": [
+    "2922_3.0_jpn_11589027_2.0_disp.png",
+    "2922_3.0_jpn_11589028_2.0_disp.png",
+    "2922_3.0_jpn_11589029_2.0_disp.png",
+    "2922_3.0_jpn_11589030_2.0_disp.png",
+    "2922_3.0_jpn_11589031_2.0_disp.png",
+    "2922_3.0_jpn_11589032_2.0_disp.png",
+    "2922_3.0_jpn_11589033_2.0_disp.png",
+    "2922_3.0_jpn_11589034_2.0_disp.png",
+    "2922_3.0_jpn_11589035_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Front wheel removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front Brake Pad Removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not allow oil or grease to adhere to the sliding surfaces of the brake disc and pads."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Caliper body removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2922_3.0_jpn_11589027_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Hold caliper pin B with a wrench and remove the lower flange bolt (A). Lift the caliper body (C). Fix the caliper body with a wire, etc."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not suspend the caliper by the brake hose.",
+        "When securing the caliper, be very careful not to damage other parts.",
+        "Do not forcefully twist the brake hose."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Remove brake pads and shims"
+    },
+    {
+      "type": "figure",
+      "asset": "2922_3.0_jpn_11589028_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2922_3.0_jpn_11589029_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "12-inch brake spec. vehicles: Remove the pad springs (A). Remove pads (B) and shims (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Retainer removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2922_3.0_jpn_11589030_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the retainer (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Retainer Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "2922_3.0_jpn_11589031_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Clean retainer (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Clean the caliper bracket (B). Install the retainer."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not allow oil or grease to adhere to the sliding surfaces of the brake disc."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Caliper piston return"
+    },
+    {
+      "type": "figure",
+      "asset": "2922_3.0_jpn_11589032_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Clean the caliper body (A). Gently push in the piston using a brake caliper wrench (aftermarket tool) (B). Check for fluid overflow from the master cylinder reservoir tank."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Brake pad and shim installation"
+    },
+    {
+      "type": "figure",
+      "asset": "2922_3.0_jpn_11589033_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2922_3.0_jpn_11589034_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the pad with the shim attached to the caliper bracket (A). Ensure that the wear indicator (B) on the inner pad is above the pad. 12-inch brake spec. cars: Install pad springs (C)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not allow oil or grease to adhere to the sliding surfaces of the brake disc and pads."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Caliper body installation"
+    },
+    {
+      "type": "figure",
+      "asset": "2922_3.0_jpn_11589035_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Return the caliper body (A) to its original position. Hold caliper pin B with a wrench and tighten the flange bolt."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Piston Extrusion"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Depress the brake pedal several times to eject the piston."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not run with the piston returned. If the piston is returned too far, the brake may not work when the pedal is first depressed."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Check brake fluid level."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Check the amount of brake fluid in the master cylinder reservoir tank and replenish brake fluid as necessary."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Brake caliper Check after installation"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "After installing the brake caliper, inspect the brake hose for kinks, interference with other parts, or fluid leakage."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Front wheel mounting",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel mounting",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002922_jpn/web/html/R002922_jpn_Content.html",
+  "inOutline": false
+}

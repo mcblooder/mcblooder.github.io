@@ -1,0 +1,141 @@
+{
+  "id": "R002068",
+  "title": "HFT switch removal and inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "AV/Communication Systems",
+  "system": "HFT System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002068",
+  "assets": [
+    "2068_3.0_jpn_11347586_2.0_disp.png",
+    "2068_3.0_jpn_11389499_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R001640",
+      "label": "Driver's airbag removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "HFT switch removal and inspection"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If there are components of the SRS airbag system in the vicinity, refer to the work precautions and configuration drawings described for the SRS airbag system before proceeding."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Driver's airbag removal",
+      "refs": [
+        {
+          "id": "R001640",
+          "label": "Driver's airbag removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. HFT switch removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2068_3.0_jpn_11347586_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the cover (A). Remove the screw (B) and remove the HFT switch."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. HFT switch Check"
+    },
+    {
+      "type": "figure",
+      "asset": "2068_3.0_jpn_11389499_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Measure the resistance between the No. 2 and No. 3 terminals of the HFT switch 4P coupler in each position. If it is out of the standard value, replace the HFT switch."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "position",
+            "header": true
+          },
+          {
+            "text": "Resistance value",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "I'm not pressing anything."
+          },
+          {
+            "text": "Approx. 10kΩ"
+          }
+        ],
+        [
+          {
+            "text": "speech switch"
+          },
+          {
+            "text": "Approx. 2.2kΩ"
+          }
+        ],
+        [
+          {
+            "text": "Off Hook Switch"
+          },
+          {
+            "text": "Approx. 222Ω"
+          }
+        ],
+        [
+          {
+            "text": "On hook/cancel switch"
+          },
+          {
+            "text": "Approx. 47Ω"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002068_jpn/web/html/R002068_jpn_Content.html",
+  "inOutline": true
+}

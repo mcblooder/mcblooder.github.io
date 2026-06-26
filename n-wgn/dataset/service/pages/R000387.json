@@ -1,0 +1,919 @@
+{
+  "id": "R000387",
+  "title": "Inspect and replace crankshaft main bearing",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder block",
+  "system": "crankshaft",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000387",
+  "assets": [
+    "387_3.0_jpn_11582904_3.0_disp.png",
+    "387_3.0_jpn_11582905_3.0_disp.png",
+    "387_3.0_jpn_11582906_3.0_disp.png",
+    "387_3.0_jpn_11582907_3.0_disp.png",
+    "387_3.0_jpn_11582908_3.0_disp.png",
+    "387_3.0_jpn_11582909_3.0_disp.png",
+    "387_3.0_jpn_11582910_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000356",
+      "label": "Engine Removal",
+      "resolved": true
+    },
+    {
+      "id": "R000544",
+      "label": "Transmission removal",
+      "resolved": true
+    },
+    {
+      "id": "R000545",
+      "label": "Drive plate removal",
+      "resolved": true
+    },
+    {
+      "id": "R000372",
+      "label": "Cylinder head removal",
+      "resolved": true
+    },
+    {
+      "id": "R000389",
+      "label": "Oil pan removal",
+      "resolved": true
+    },
+    {
+      "id": "R000406",
+      "label": "Oil pump removal",
+      "resolved": true
+    },
+    {
+      "id": "R000390",
+      "label": "Crankshaft removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect and replace crankshaft main bearing"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Engine Removal",
+      "refs": [
+        {
+          "id": "R000356",
+          "label": "Engine Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Transmission removal",
+      "refs": [
+        {
+          "id": "R000544",
+          "label": "Transmission removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Drive plate removal",
+      "refs": [
+        {
+          "id": "R000545",
+          "label": "Drive plate removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Cylinder head removal",
+      "refs": [
+        {
+          "id": "R000372",
+          "label": "Cylinder head removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Oil pan removal",
+      "refs": [
+        {
+          "id": "R000389",
+          "label": "Oil pan removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Oil pump removal",
+      "refs": [
+        {
+          "id": "R000406",
+          "label": "Oil pump removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Crankshaft removal",
+      "refs": [
+        {
+          "id": "R000390",
+          "label": "Crankshaft removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Crankshaft main bearing removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Crankshaft Main Bearing Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "387_3.0_jpn_11582904_3.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Measurements must always be taken in the axial direction.",
+        "Do not rotate the crankshaft."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Install the main bearing, bearing cap, and bearing cap bridge, and tighten the bearing cap bolts in numerical order to 33 N-m (3.4 kgf-m)."
+    },
+    {
+      "type": "figure",
+      "asset": "387_3.0_jpn_11582905_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Remove the bearing cap bridge, bearing cap, and main bearing, and measure the crushed width of the plastigage with the scale printed on the bag of the plastigage."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Measurements should be taken at the most widely crimped point.",
+        "If the limit is exceeded, inspect the cylinder block for enlargement and journal wear, and if there are no abnormalities, replace the bearing with an undersized bearing according to the main bearing identification chart and measure the oil clearance again."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "No. 1, 4 Journal",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.013－0.029mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.037mm"
+          }
+        ],
+        [
+          {
+            "text": "No. 2, 3 Journal",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.017－0.033mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "0.041mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "387_3.0_jpn_11582906_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "Examine the mating marks on the cylinder block."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the mating mark is not visible, do not scrub with a wire brush, screwdriver, etc., but clean with washing oil, etc., and check."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "fit-mark",
+            "header": true
+          },
+          {
+            "text": "tolerance",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "A"
+          },
+          {
+            "text": "-0.010－-0.006mm"
+          }
+        ],
+        [
+          {
+            "text": "B"
+          },
+          {
+            "text": "-0.006－-0.002mm"
+          }
+        ],
+        [
+          {
+            "text": "C"
+          },
+          {
+            "text": "-0.002－+0.002mm"
+          }
+        ],
+        [
+          {
+            "text": "D"
+          },
+          {
+            "text": "+0.002－+0.006mm"
+          }
+        ],
+        [
+          {
+            "text": "E"
+          },
+          {
+            "text": "+0.006－+0.010mm"
+          }
+        ],
+        [
+          {
+            "text": "F"
+          },
+          {
+            "text": "+0.010－+0.014mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Cylinder block bore diameter"
+          },
+          {
+            "text": "43mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "387_3.0_jpn_11582907_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "7",
+      "text": "Examine the mating marks on the crankshaft main journal."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the mating mark is not visible, do not scrub with a wire brush, screwdriver, etc., but clean with washing oil, etc., and check."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "387_3.0_jpn_11582908_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "8",
+      "text": "The main bearing identification color (A) is blue, black, brown, green, yellow, peach, and red, in that order, with each bearing having a tolerance of every 0.004 mm."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "markup",
+            "header": true
+          },
+          {
+            "text": "Distinctive color",
+            "header": true
+          },
+          {
+            "text": "tolerance",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "G"
+          },
+          {
+            "text": "red"
+          },
+          {
+            "text": "-0.013－-0.009mm"
+          }
+        ],
+        [
+          {
+            "text": "F"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "-0.009－-0.005mm"
+          }
+        ],
+        [
+          {
+            "text": "E"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "-0.005－-0.001mm"
+          }
+        ],
+        [
+          {
+            "text": "D"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "-0.001－+0.003mm"
+          }
+        ],
+        [
+          {
+            "text": "C"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "+0.003－+0.007mm"
+          }
+        ],
+        [
+          {
+            "text": "B"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "+0.007－+0.011mm"
+          }
+        ],
+        [
+          {
+            "text": "A"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "+0.011－+0.015mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Main bearing center wall thickness dimensions: (mm)"
+          },
+          {
+            "text": "2.0mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Always measure and confirm the oil clearance, not just using this mating chart.",
+        "If there are two identification colors in the mating chart, one of each identification color shall be used for the upper and lower."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Mating marks on crankshaft journal",
+            "rowspan": 3,
+            "header": true
+          },
+          {
+            "text": "Cylinder block hole diameter mating marks",
+            "colspan": 6,
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "A",
+            "header": true
+          },
+          {
+            "text": "B",
+            "header": true
+          },
+          {
+            "text": "C",
+            "header": true
+          },
+          {
+            "text": "D",
+            "header": true
+          },
+          {
+            "text": "E",
+            "header": true
+          },
+          {
+            "text": "F",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Main Bearing Identification Color",
+            "colspan": 6,
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "Red/Peach"
+          },
+          {
+            "text": "Red/Peach"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "Peach/Yellow"
+          },
+          {
+            "text": "Peach/Yellow"
+          },
+          {
+            "text": "yellow"
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "peach"
+          },
+          {
+            "text": "Peach/Yellow"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "Yellow/Green"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "Peach/Yellow"
+          },
+          {
+            "text": "Peach/Yellow"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "Yellow/Green"
+          },
+          {
+            "text": "Yellow/Green"
+          },
+          {
+            "text": "green"
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "Yellow/Green"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Green/Brown"
+          }
+        ],
+        [
+          {
+            "text": "5"
+          },
+          {
+            "text": "Yellow/Green"
+          },
+          {
+            "text": "Yellow/Green"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Green/Brown"
+          },
+          {
+            "text": "Green/Brown"
+          },
+          {
+            "text": "tea"
+          }
+        ],
+        [
+          {
+            "text": "6"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Green/Brown"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "Brown/Black"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Mating marks on crankshaft journal",
+            "rowspan": 3,
+            "header": true
+          },
+          {
+            "text": "Cylinder block hole diameter mating marks",
+            "colspan": 6,
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "A",
+            "header": true
+          },
+          {
+            "text": "B",
+            "header": true
+          },
+          {
+            "text": "C",
+            "header": true
+          },
+          {
+            "text": "D",
+            "header": true
+          },
+          {
+            "text": "E",
+            "header": true
+          },
+          {
+            "text": "F",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Main Bearing Identification Color",
+            "colspan": 6,
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "Yellow/Green"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Green/Brown"
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "Yellow/Green"
+          },
+          {
+            "text": "Yellow/Green"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Green/Brown"
+          },
+          {
+            "text": "Green/Brown"
+          },
+          {
+            "text": "tea"
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Green/Brown"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "Brown/Black"
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "Green/Brown"
+          },
+          {
+            "text": "Green/Brown"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "Brown/Black"
+          },
+          {
+            "text": "Brown/Black"
+          },
+          {
+            "text": "black"
+          }
+        ],
+        [
+          {
+            "text": "5"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "Brown/Black"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "Black/Blue"
+          }
+        ],
+        [
+          {
+            "text": "6"
+          },
+          {
+            "text": "Brown/Black"
+          },
+          {
+            "text": "Brown/Black"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "Black/Blue"
+          },
+          {
+            "text": "Black/Blue"
+          },
+          {
+            "text": "green"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Crankshaft Main Bearing Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "387_3.0_jpn_11582909_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Attach the upper bearing to the block, paying attention to the positional relationship between the main bearing oil hole (A) and the block oil hole (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The upper bearing must be a grooved bearing."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The lower bearing shall be a groove-free bearing."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "387_3.0_jpn_11582910_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Measure the distance (A, B) between the upper and lower crankshaft main bearings and both ends of the journal section, and confirm that the difference between the measured values is within the standard values."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Standard value:"
+          },
+          {
+            "text": "-0.5－+0.5mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When a new bearing is assembled, it should be broken in at idle for 10-20 minutes to prevent separation or seizure of the bearing if the rotation is increased too rapidly."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000387_jpn/web/html/R000387_jpn_Content.html",
+  "inOutline": true
+}

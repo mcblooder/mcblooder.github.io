@@ -1,0 +1,568 @@
+{
+  "id": "G000941",
+  "title": "Honda Smart Key System Configuration Diagram",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000941",
+  "assets": [
+    "941_4.0_jpn_11580728_4.0_disp.png",
+    "941_4.0_jpn_11580729_4.0_disp.png",
+    "941_4.0_jpn_11677562_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000557",
+      "label": "R000557",
+      "resolved": true
+    },
+    {
+      "id": "R000558",
+      "label": "R000558",
+      "resolved": true
+    },
+    {
+      "id": "R000448",
+      "label": "R000448",
+      "resolved": true
+    },
+    {
+      "id": "R000942",
+      "label": "R000942",
+      "resolved": true
+    },
+    {
+      "id": "R000943",
+      "label": "R000943",
+      "resolved": true
+    },
+    {
+      "id": "T001406",
+      "label": "T001406",
+      "resolved": true
+    },
+    {
+      "id": "R000947",
+      "label": "R000947",
+      "resolved": true
+    },
+    {
+      "id": "R000948",
+      "label": "R000948",
+      "resolved": true
+    },
+    {
+      "id": "R000945",
+      "label": "R000945",
+      "resolved": true
+    },
+    {
+      "id": "T001411",
+      "label": "T001411",
+      "resolved": true
+    },
+    {
+      "id": "R000925",
+      "label": "R000925",
+      "resolved": true
+    },
+    {
+      "id": "R000946",
+      "label": "R000946",
+      "resolved": true
+    },
+    {
+      "id": "R000944",
+      "label": "R000944",
+      "resolved": true
+    },
+    {
+      "id": "R000953",
+      "label": "R000953",
+      "resolved": true
+    },
+    {
+      "id": "R001901",
+      "label": "R001901",
+      "resolved": true
+    },
+    {
+      "id": "R000949",
+      "label": "R000949",
+      "resolved": true
+    },
+    {
+      "id": "R000950",
+      "label": "R000950",
+      "resolved": true
+    },
+    {
+      "id": "R000683",
+      "label": "R000683",
+      "resolved": true
+    },
+    {
+      "id": "R000699",
+      "label": "R000699",
+      "resolved": true
+    },
+    {
+      "id": "R000951",
+      "label": "R000951",
+      "resolved": true
+    },
+    {
+      "id": "R000913",
+      "label": "R000913",
+      "resolved": true
+    },
+    {
+      "id": "R000952",
+      "label": "R000952",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Honda Smart Key System Configuration Diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "941_4.0_jpn_11677562_3.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            55.0,
+            438.0,
+            77.0,
+            452.0
+          ],
+          "ref": {
+            "id": "R000557",
+            "label": "R000557",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            55.0,
+            449.0,
+            77.0,
+            463.0
+          ],
+          "ref": {
+            "id": "R000558",
+            "label": "R000558",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            468.0,
+            429.0,
+            490.0,
+            443.0
+          ],
+          "ref": {
+            "id": "R000448",
+            "label": "R000448",
+            "resolved": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "941_4.0_jpn_11580728_4.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            352.0,
+            58.0,
+            374.0,
+            72.0
+          ],
+          "ref": {
+            "id": "R000942",
+            "label": "R000942",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            352.0,
+            68.0,
+            374.0,
+            82.0
+          ],
+          "ref": {
+            "id": "R000943",
+            "label": "R000943",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            459.0,
+            655.0,
+            481.0,
+            669.0
+          ],
+          "ref": {
+            "id": "R000942",
+            "label": "R000942",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            459.0,
+            666.0,
+            481.0,
+            680.0
+          ],
+          "ref": {
+            "id": "R000943",
+            "label": "R000943",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            111.0,
+            620.0,
+            133.0,
+            634.0
+          ],
+          "ref": {
+            "id": "T001406",
+            "label": "T001406",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            111.0,
+            631.0,
+            133.0,
+            645.0
+          ],
+          "ref": {
+            "id": "R000947",
+            "label": "R000947",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            15.0,
+            537.0,
+            37.0,
+            551.0
+          ],
+          "ref": {
+            "id": "R000948",
+            "label": "R000948",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            41.0,
+            220.0,
+            63.0,
+            234.0
+          ],
+          "ref": {
+            "id": "R000942",
+            "label": "R000942",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            41.0,
+            231.0,
+            63.0,
+            245.0
+          ],
+          "ref": {
+            "id": "R000943",
+            "label": "R000943",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            254.0,
+            603.0,
+            276.0,
+            617.0
+          ],
+          "ref": {
+            "id": "T001406",
+            "label": "T001406",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            254.0,
+            614.0,
+            276.0,
+            628.0
+          ],
+          "ref": {
+            "id": "R000945",
+            "label": "R000945",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            506.0,
+            193.0,
+            550.0,
+            207.0
+          ],
+          "ref": {
+            "id": "T001411",
+            "label": "T001411",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            506.0,
+            204.0,
+            528.0,
+            218.0
+          ],
+          "ref": {
+            "id": "R000925",
+            "label": "R000925",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            370.0,
+            112.0,
+            392.0,
+            126.0
+          ],
+          "ref": {
+            "id": "T001406",
+            "label": "T001406",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            370.0,
+            123.0,
+            392.0,
+            137.0
+          ],
+          "ref": {
+            "id": "R000946",
+            "label": "R000946",
+            "resolved": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "941_4.0_jpn_11580729_4.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            430.0,
+            576.0,
+            452.0,
+            590.0
+          ],
+          "ref": {
+            "id": "T001406",
+            "label": "T001406",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            430.0,
+            587.0,
+            452.0,
+            601.0
+          ],
+          "ref": {
+            "id": "R000944",
+            "label": "R000944",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            98.0,
+            575.0,
+            120.0,
+            589.0
+          ],
+          "ref": {
+            "id": "R000953",
+            "label": "R000953",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            98.0,
+            586.0,
+            120.0,
+            600.0
+          ],
+          "ref": {
+            "id": "R001901",
+            "label": "R001901",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            238.0,
+            188.0,
+            260.0,
+            202.0
+          ],
+          "ref": {
+            "id": "R000949",
+            "label": "R000949",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            238.0,
+            199.0,
+            260.0,
+            213.0
+          ],
+          "ref": {
+            "id": "R000950",
+            "label": "R000950",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            547.0,
+            604.0,
+            569.0,
+            618.0
+          ],
+          "ref": {
+            "id": "R000683",
+            "label": "R000683",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            547.0,
+            615.0,
+            569.0,
+            629.0
+          ],
+          "ref": {
+            "id": "R000699",
+            "label": "R000699",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            448.0,
+            676.0,
+            470.0,
+            690.0
+          ],
+          "ref": {
+            "id": "R000951",
+            "label": "R000951",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            448.0,
+            687.0,
+            470.0,
+            701.0
+          ],
+          "ref": {
+            "id": "R000913",
+            "label": "R000913",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            448.0,
+            697.0,
+            518.0,
+            711.0
+          ],
+          "ref": {
+            "id": "R000952",
+            "label": "R000952",
+            "resolved": true
+          }
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131205174051/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000941_jpn/web/html/G000941_jpn_Content.html",
+  "inOutline": true
+}

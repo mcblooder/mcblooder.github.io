@@ -1,0 +1,195 @@
+{
+  "id": "R000611",
+  "title": "Intermediate shaft disassembly and assembly",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "drive shaft",
+  "system": "intermediate shaft",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000611",
+  "assets": [
+    "611_3.0_jpn_11035420_3.0_disp.png",
+    "611_3.0_jpn_11035422_3.0_disp.png",
+    "611_3.0_jpn_11035423_3.0_disp.png",
+    "611_3.0_jpn_11035424_3.0_disp.png",
+    "611_3.0_jpn_11035425_3.0_disp.png",
+    "611_3.0_jpn_11035426_3.0_disp.png",
+    "611_3.0_jpn_11035427_3.0_disp.png",
+    "611_3.0_jpn_11035428_3.0_disp.png",
+    "611_3.0_jpn_11035429_3.0_disp.png",
+    "611_3.0_jpn_11035430_3.0_disp.png",
+    "611_3.0_jpn_11035431_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Intermediate shaft disassembly and assembly"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Outer seal removal"
+    },
+    {
+      "type": "figure",
+      "asset": "611_3.0_jpn_11035420_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the outer seal (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Intermediate shaft removal"
+    },
+    {
+      "type": "figure",
+      "asset": "611_3.0_jpn_11035422_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the 33 mm external circlip (B) from the intermediate shaft (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "611_3.0_jpn_11035423_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the intermediate shaft (C) from the intermediate shaft bearing (B) using a commercial puller (A) and a press."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Entamidate shaft bearing removal"
+    },
+    {
+      "type": "figure",
+      "asset": "611_3.0_jpn_11035424_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the 55 mm internal circlip (B) from the bearing support (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "611_3.0_jpn_11035425_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the intermediate shaft bearing (C) from the bearing support (B) using a commercial puller (A), special tool and press."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. development"
+    },
+    {
+      "type": "figure",
+      "asset": "611_3.0_jpn_11035426_3.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "All disassembled parts other than rubber parts shall be cleaned with washing oil and washed with an air gun to remove the oil."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Entamidate shaft bearing mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "611_3.0_jpn_11035427_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Press-fit a new intermediate shaft bearing (B) into the bearing support (A) using the special tool and press."
+    },
+    {
+      "type": "figure",
+      "asset": "611_3.0_jpn_11035428_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Attach the 55 mm internal circlip (B) to the bearing support (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Circlips shall be mounted with the tapered portion facing outward."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Intermediate Shaft Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "611_3.0_jpn_11035429_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Press-fit the intermediate shaft (A) into the intermediate shaft bearing (B) using the special tool and press machine."
+    },
+    {
+      "type": "figure",
+      "asset": "611_3.0_jpn_11035430_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Attach the 33 mm external circlip (B) to the intermediate shaft (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Circlips shall be mounted with the tapered portion facing outward."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Outer Seal Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "611_3.0_jpn_11035431_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install a new outer seal (B) on the bearing support (A) using the dedicated tool."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The outer seal must be press-fitted to the bearing support end face.",
+        "The outer seal shall be assembled so that the lip is not inverted."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000611_jpn/web/html/R000611_jpn_Content.html",
+  "inOutline": true
+}

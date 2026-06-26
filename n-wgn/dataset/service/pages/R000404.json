@@ -1,0 +1,98 @@
+{
+  "id": "R000404",
+  "title": "Remove and install the engine oil filter holder.",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "lubricating device",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000404",
+  "assets": [
+    "404_3.0_jpn_11034356_3.0_disp.png",
+    "404_3.0_jpn_11238950_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000403",
+      "label": "Remove engine oil filter",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Remove and install the engine oil filter holder."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Remove engine oil filter",
+      "refs": [
+        {
+          "id": "R000403",
+          "label": "Remove engine oil filter",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Remove engine oil filter holder"
+    },
+    {
+      "type": "figure",
+      "asset": "404_3.0_jpn_11238950_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Engine Oil Filter Holder Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "404_3.0_jpn_11034356_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Attach two nuts (A) (JIS B1181 hexagonal low nuts - double-sided fine thread M20 pitch 1.5) to the new oil filter holder and tighten and secure them to each other. Apply engine oil to the oil filter holder threads, tighten to the specified torque, and remove the nut."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Torque: 0.5 to 1.0 MPa"
+          },
+          {
+            "text": "35N·m (3.6kgf·m)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Engine Oil Filter Installation",
+      "refs": [
+        {
+          "id": "R000403",
+          "label": "Engine Oil Filter Installation",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000404_jpn/web/html/R000404_jpn_Content.html",
+  "inOutline": true
+}

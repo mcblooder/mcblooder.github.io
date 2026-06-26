@@ -1,0 +1,62 @@
+{
+  "id": "C001735",
+  "title": "Brake Negative Pressure Monitoring System Structure - Overview",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "Brake Negative Pressure Monitoring System",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001735",
+  "assets": [
+    "1735_3.0_jpn_11114087_3.0_disp.png",
+    "1735_3.0_jpn_11114088_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Brake Negative Pressure Monitoring System Structure - Overview"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Feature"
+    },
+    {
+      "type": "paragraph",
+      "text": "The brake negative pressure monitoring system in this vehicle is employed to prevent a reduction in braking force due to a decrease in negative pressure in the master power when the engine performs an auto idle stop. A negative pressure sensor is placed on the master power, and the PGM-FI ECU monitors this negative pressure to control whether or not to allow auto idle stop depending on the situation based on the increase or decrease in negative pressure in the master power."
+    },
+    {
+      "type": "paragraph",
+      "text": "If this system malfunctions, the idling stop system warning light will illuminate."
+    },
+    {
+      "type": "figure",
+      "asset": "1735_3.0_jpn_11114087_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Auto idle stop and idle transition conditions with brake negative pressure monitoring system"
+    },
+    {
+      "type": "paragraph",
+      "text": "Auto idle stop transition by the brake negative pressure monitoring system is permitted when the master power negative pressure is above a certain amount and the auto idle stop transition condition is met. The auto idle stop transition condition by the brake negative pressure monitoring system is also an idle transition condition (prohibition of auto idle stop) when the master power negative pressure drops below a certain amount due to vehicle conditions, etc. and the auto idle stop transition condition is not met."
+    },
+    {
+      "type": "figure",
+      "asset": "1735_3.0_jpn_11114088_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001735_jpn/web/html/C001735_jpn_Content.html",
+  "inOutline": true
+}

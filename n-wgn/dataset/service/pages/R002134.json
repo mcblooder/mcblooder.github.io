@@ -1,0 +1,123 @@
+{
+  "id": "R002134",
+  "title": "Reset 12V battery internal resistance value",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Idling stop system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002134",
+  "assets": [
+    "2134_3.0_jpn_11582676_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "T002567",
+      "label": "Inspect data link circuits",
+      "resolved": false
+    },
+    {
+      "id": "R002224",
+      "label": "Replace 12V battery",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Reset 12V battery internal resistance value"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The internal resistance of the 12V battery is updated and recorded with each engine start, and if the average of the resistance values (multiple memories) exceeds the threshold value, the ECU determines that the 12V battery has deteriorated."
+        },
+        {
+          "text": "The internal resistance of the 12V battery is updated and recorded with each engine start, and if the average of the resistance values (multiple memories) exceeds the threshold value, the ECU determines that the 12V battery has deteriorated."
+        },
+        {
+          "text": "Internal resistance values recorded in the ECU are not erased by 12V battery cancellation and ECU reset."
+        },
+        {
+          "text": "Internal resistance values recorded in the ECU are not erased by 12V battery cancellation and ECU reset."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. HDS Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "2134_3.0_jpn_11582676_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition to ON mode. Connect HDS to the data link coupler (A) on the left side of the driver's seat. Verify that HDS communicates with the vehicle and ECU. If it does not communicate, Inspect data link circuits The following is a list of the most common problems with the",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "Inspect data link circuits",
+          "resolved": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. 12V Battery internal resistance Reset"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn off all electrical loads (A/C, headlights, etc.). Turn ignition OFF (LOCK) mode. Turn ignition ACC mode. Turn ignition to ON mode. Start the engine and keep it idling for 1 minute. Turn ignition OFF (LOCK) mode. Repeat Steps 2 through 6 at least four times. If the engine is started immediately from the ignition OFF (LOCK) mode without going through the ignition ACC and ON modes, the 12V battery internal resistance value may not be updated. Turn ignition to ON mode Select the data list of the PGM-FI system in HDS and check for idle stop prohibition (12V battery degradation) Turn ignition OFF (LOCK) mode. Remove HDS from the data link coupler."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If normal, resetting of 12V battery internal resistance value completed."
+        },
+        {
+          "text": "If normal, resetting of 12V battery internal resistance value completed."
+        },
+        {
+          "text": "If prohibited, Replace 12V battery Reset the 12V battery internal resistance value again.",
+          "refs": [
+            {
+              "id": "R002224",
+              "label": "Replace 12V battery",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If prohibited, Replace 12V battery Reset the 12V battery internal resistance value again.",
+          "refs": [
+            {
+              "id": "R002224",
+              "label": "Replace 12V battery",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002134_jpn/web/html/R002134_jpn_Content.html",
+  "inOutline": true
+}

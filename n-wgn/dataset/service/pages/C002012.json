@@ -1,0 +1,181 @@
+{
+  "id": "C002012",
+  "title": "Keyless Door Lock/Security Alarm System Structure Description - Control/Function",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Keyless/power door locks/anti-theft system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002012",
+  "assets": [
+    "2012_3.0_jpn_11155903_3.0_disp.png",
+    "2012_3.0_jpn_11155904_3.0_disp.png",
+    "2012_3.0_jpn_11155908_3.0_disp.png",
+    "2012_3.0_jpn_11155912_3.0_disp.png",
+    "2012_3.0_jpn_11242825_3.0_disp.png",
+    "2012_3.0_jpn_11242826_3.0_disp.png",
+    "2012_3.0_jpn_11390966_3.0_disp.png",
+    "2012_3.0_jpn_11390967_3.0_disp.png",
+    "2012_3.0_jpn_11390968_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Keyless Door Lock/Security Alarm System Structure Description - Control/Function"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Door lock control"
+    },
+    {
+      "type": "paragraph",
+      "text": "All doors and tailgate can be locked/unlocked by activating the door lock knob on the driver's door or the driver door key cylinder. The MICU controls each actuator from each switch signal."
+    },
+    {
+      "type": "figure",
+      "asset": "2012_3.0_jpn_11390966_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Keyless Door Lock Control"
+    },
+    {
+      "type": "paragraph",
+      "text": "Honda Smart Key lock/unlock button operation locks/unlocks all doors and tailgate even when away from the vehicle; MICU controls each actuator based on RF signal and each switch signal status. If the door switch and tailgate latch switch are not input to the MICU for ON (door open) for a certain period of time after the door is unlocked by keyless operation, the door lock actuator is controlled again to lock the door. The time until re-locking can be set at 30 seconds (default)/60 seconds/90 seconds by the customization function."
+    },
+    {
+      "type": "figure",
+      "asset": "2012_3.0_jpn_11390967_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Key lock-in prevention function"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the Honda Smart Key is inside the vehicle, the MICU unlocks the doors to prevent the key from being locked by the door locks."
+    },
+    {
+      "type": "figure",
+      "asset": "2012_3.0_jpn_11242825_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Keyless Answer Back Control"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the MICU receives a lock/unlock signal from the lock/unlock button operation of the Honda Smart Key or the lock switch operation of the door or tailgate, keyless answer-back operation is performed simultaneously with the control of each actuator. When the MICU receives a lock/unlock signal, the keyless answer-back operation is performed simultaneously with the control of each actuator. Each turn signal light blinks once when locking and twice when unlocking. The keyless answer-back control can be selected with or without control by the customize function."
+    },
+    {
+      "type": "figure",
+      "asset": "2012_3.0_jpn_11242826_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Output once in a cycle of turn signal light ON and OFF at the same time as the lock output by keyless."
+    },
+    {
+      "type": "figure",
+      "asset": "2012_3.0_jpn_11155903_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Outputs the turn signal light ON and OFF twice in a cycle at the same time as the unlock output by keyless."
+    },
+    {
+      "type": "figure",
+      "asset": "2012_3.0_jpn_11155904_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Security Control"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is controlled by the MICU from each switch signal, etc. Security control can be selected with or without control by the customize function."
+    },
+    {
+      "type": "figure",
+      "asset": "2012_3.0_jpn_11390968_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Set start"
+          },
+          {
+            "text": "Carry Honda Smart Key and lock with request switch Locked with Honda Smart Key"
+          }
+        ],
+        [
+          {
+            "text": "reset release"
+          },
+          {
+            "text": "Unlocked with Honda Smart Key Carry Honda Smart Key and unlock with request switch Carry the Honda Smart Key and press the ENGINE START STOP switch"
+          }
+        ],
+        [
+          {
+            "text": "Set starting conditions (all related systems are assumed to be normal)"
+          },
+          {
+            "text": "Each seat door Switch OFF (door closed) Tailgate latch switch OFF (tailgate closed) Bonnet latch switch ON (bonnet closed) Ignition OFF (LOCK) mode"
+          }
+        ],
+        [
+          {
+            "text": "Alarm start"
+          },
+          {
+            "text": "When any of the respective monitoring switch signals is input without receiving a set release signal"
+          }
+        ],
+        [
+          {
+            "text": "Warning Lifting"
+          },
+          {
+            "text": "Same as set release conditions"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When the security alarm system is set, a security set signal is sent to the combination meter via B-CAN communication from the MICU. This causes the security indicator in the combination meter to flash, indicating the set status after approximately 15 seconds."
+    },
+    {
+      "type": "figure",
+      "asset": "2012_3.0_jpn_11155908_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "If an input of each monitoring switch signal is received without a release signal while the security alarm system is in the set state, the alarm activation is triggered. The alarm is activated by alternately blowing the security horn and flashing the turn signal light up to 10 times for 28 seconds per cycle. If the 12V battery is disconnected during the alarm activation, the alarm will be activated again when the battery is reconnected."
+    },
+    {
+      "type": "figure",
+      "asset": "2012_3.0_jpn_11155912_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002012_jpn/web/html/C002012_jpn_Content.html",
+  "inOutline": true
+}

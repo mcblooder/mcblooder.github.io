@@ -1,0 +1,108 @@
+{
+  "id": "T986111",
+  "title": "Rear differential fluid leak",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "differential",
+  "system": "Rear Differential Assy.",
+  "subtitle": "",
+  "dgName": "Rear differential",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986111",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R000620",
+      "label": "Rear differential fluid level adjustment",
+      "resolved": true
+    },
+    {
+      "id": "R000625",
+      "label": "Torque check and sealant application",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear differential fluid leak"
+    },
+    {
+      "type": "paragraph",
+      "text": "probable cause"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Excessive rear differential fluid"
+        },
+        {
+          "text": "Clogged breather hose"
+        },
+        {
+          "text": "Differential carrier improperly tightened or sealed"
+        },
+        {
+          "text": "Worn or damaged oil seals"
+        },
+        {
+          "text": "Defective sealing washer"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "treatment"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Rear differential fluid level adjustment",
+          "refs": [
+            {
+              "id": "R000620",
+              "label": "Rear differential fluid level adjustment",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cleaning or parts replacement"
+        },
+        {
+          "text": "Torque check and sealant application ​",
+          "refs": [
+            {
+              "id": "R000625",
+              "label": "Torque check and sealant application",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "parts exchange ​",
+          "refs": [
+            {
+              "id": "R000625",
+              "label": "parts exchange",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986111_jpn/web/html/T986111_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,89 @@
+{
+  "id": "R000962",
+  "title": "Exterior Light Bulb Removal and Installation - Tail Light Section",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000962",
+  "assets": [
+    "962_3.0_jpn_11392918_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000967",
+      "label": "Tail light removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Exterior Light Bulb Removal and Installation - Tail Light Section"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Tail light removal",
+      "refs": [
+        {
+          "id": "R000967",
+          "label": "Tail light removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Valve removal"
+    },
+    {
+      "type": "figure",
+      "asset": "962_3.0_jpn_11392918_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The brake/tail light is an integral part of the tail light assy. and cannot be detached by itself. Therefore, if the brake/tail light is to be detached, Remove the tail light.",
+      "refs": [
+        {
+          "id": "R000967",
+          "label": "Remove the tail light.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Rotate the socket (A) counterclockwise to remove it."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the valve (B). Brake/Tail light: LED (non-disassembled (tail light assy. one piece)) Rear turn signal light: 12V-21W Backlight: 12V-16W"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000962_jpn/web/html/R000962_jpn_Content.html",
+  "inOutline": true
+}

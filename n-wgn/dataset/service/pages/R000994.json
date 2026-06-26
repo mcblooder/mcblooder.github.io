@@ -1,0 +1,94 @@
+{
+  "id": "R000994",
+  "title": "Remove and inspect map lights",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Interior Lights",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000994",
+  "assets": [
+    "994_3.0_jpn_11037152_3.0_disp.png",
+    "994_3.0_jpn_11037153_4.0_disp.png",
+    "994_3.0_jpn_11037154_3.0_disp.png",
+    "994_3.0_jpn_11037155_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Remove and inspect map lights"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Map light removal"
+    },
+    {
+      "type": "figure",
+      "asset": "994_3.0_jpn_11037152_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn the switch OFF and remove the lens (A). Remove the housing (B) and disconnect the coupler (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Valve removal"
+    },
+    {
+      "type": "figure",
+      "asset": "994_3.0_jpn_11037153_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the valve (A). Map light: 12V-8W"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Map Light Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "994_3.0_jpn_11037154_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "994_3.0_jpn_11037155_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Install the valve in the map light before performing the inspection."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect the continuity between terminals in each position of the coupler (A) and confirm that there is continuity only between ○ and ○. If there is no continuity, inspect the valve and if there is no abnormality, replace the map light (B)."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000994_jpn/web/html/R000994_jpn_Content.html",
+  "inOutline": true
+}

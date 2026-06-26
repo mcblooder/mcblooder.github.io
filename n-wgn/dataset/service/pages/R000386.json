@@ -1,0 +1,186 @@
+{
+  "id": "R000386",
+  "title": "Inspect crankshaft axial play",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder block",
+  "system": "crankshaft",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000386",
+  "assets": [
+    "386_3.0_jpn_11393775_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000356",
+      "label": "Engine Removal",
+      "resolved": true
+    },
+    {
+      "id": "R000544",
+      "label": "Transmission removal",
+      "resolved": true
+    },
+    {
+      "id": "R000545",
+      "label": "Drive plate removal",
+      "resolved": true
+    },
+    {
+      "id": "R000372",
+      "label": "Cylinder head removal",
+      "resolved": true
+    },
+    {
+      "id": "R000389",
+      "label": "Oil pan removal",
+      "resolved": true
+    },
+    {
+      "id": "R000406",
+      "label": "Oil pump removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect crankshaft axial play"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Engine Removal",
+      "refs": [
+        {
+          "id": "R000356",
+          "label": "Engine Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Transmission removal",
+      "refs": [
+        {
+          "id": "R000544",
+          "label": "Transmission removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Drive plate removal",
+      "refs": [
+        {
+          "id": "R000545",
+          "label": "Drive plate removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Cylinder head removal",
+      "refs": [
+        {
+          "id": "R000372",
+          "label": "Cylinder head removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Oil pan removal",
+      "refs": [
+        {
+          "id": "R000389",
+          "label": "Oil pan removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Oil pump removal",
+      "refs": [
+        {
+          "id": "R000406",
+          "label": "Oil pump removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Crankshaft axial play Check"
+    },
+    {
+      "type": "figure",
+      "asset": "386_3.0_jpn_11393775_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Measure the axial play of the crankshaft."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Set the dial gauge and read the dial gauge by moving the crankshaft in the axial direction with a flat-blade screwdriver or the like.",
+        "If the limit value is exceeded, replace the thrust washer and re-inspect. If the limit value is still exceeded during the re-inspection, replace the crankshaft."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "0.40－0.95mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "1.05mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000386_jpn/web/html/R000386_jpn_Content.html",
+  "inOutline": true
+}

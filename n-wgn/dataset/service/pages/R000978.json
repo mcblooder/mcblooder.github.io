@@ -1,0 +1,107 @@
+{
+  "id": "R000978",
+  "title": "Inspect hazard switches",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Turn Signal/Hazard Lights",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000978",
+  "assets": [
+    "978_5.0_jpn_11580810_5.0_disp.png",
+    "978_5.0_jpn_11589047_4.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002064",
+      "label": "Audio panel removal (for vehicles equipped with audio system)",
+      "resolved": true
+    },
+    {
+      "id": "R000777",
+      "label": "Center panel removal (for vehicles not equipped with audio system)",
+      "resolved": true
+    },
+    {
+      "id": "R000979",
+      "label": "Replace hazard switch (A).",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect hazard switches"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Audio panel removal (for vehicles equipped with audio system)",
+      "refs": [
+        {
+          "id": "R002064",
+          "label": "Audio panel removal (for vehicles equipped with audio system)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Center panel removal (for vehicles not equipped with audio system)",
+      "refs": [
+        {
+          "id": "R000777",
+          "label": "Center panel removal (for vehicles not equipped with audio system)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Hazard switch Check"
+    },
+    {
+      "type": "figure",
+      "asset": "978_5.0_jpn_11580810_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "978_5.0_jpn_11589047_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect for continuity between terminals at each position and confirm that there is continuity only between ○ and ○. If there is no continuity, Replace hazard switch (A).",
+      "refs": [
+        {
+          "id": "R000979",
+          "label": "Replace hazard switch (A).",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000978_jpn/web/html/R000978_jpn_Content.html",
+  "inOutline": true
+}

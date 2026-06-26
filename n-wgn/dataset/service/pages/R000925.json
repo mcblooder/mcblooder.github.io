@@ -1,0 +1,159 @@
+{
+  "id": "R000925",
+  "title": "Fuse box removal/insertion",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "electrical wiring",
+  "system": "Relay/Fuse Box",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000925",
+  "assets": [
+    "925_5.0_jpn_11580700_5.0_disp.png",
+    "925_5.0_jpn_11580701_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000910",
+      "label": "12V battery terminal disconnected",
+      "resolved": true
+    },
+    {
+      "id": "R000771",
+      "label": "Driver lower cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000912",
+      "label": "Honda Smart Key System Registration",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuse box removal/insertion"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If there are components of the SRS airbag system in the vicinity, refer to the work precautions and configuration drawings described for the SRS airbag system before proceeding."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery terminal disconnected",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery terminal disconnected",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Driver lower cover removal",
+      "refs": [
+        {
+          "id": "R000771",
+          "label": "Driver lower cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Fuse box removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect each coupler on the front side of the fuse box (A). Remove the bolt (B) and lock (C) and pull out the fuse box. Disconnect each coupler on the back side of the fuse box. Remove the coupler and harness clip (D) attached to the outside of the fuse box."
+    },
+    {
+      "type": "figure",
+      "asset": "925_5.0_jpn_11580700_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Fuse Box Mounting"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install each coupler and harness clip (B) attached to the outside of the fuse box (A). Connect each coupler on the back side of the fuse box. Install the fuse box. Connect each coupler on the front side of the fuse box."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If there are components of the SRS airbag system in the vicinity, refer to the work precautions and configuration drawings described for the SRS airbag system before proceeding."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "After completing the registration of the Honda Smart Key System, the operation of the system shall be verified.",
+        "After replacing the fuse box, register the Honda Smart Key System."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "925_5.0_jpn_11580701_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Driver Lower Cover Installation",
+      "refs": [
+        {
+          "id": "R000771",
+          "label": "Driver Lower Cover Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. 12V battery terminal Connection",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery terminal Connection",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Honda Smart Key System Registration",
+      "refs": [
+        {
+          "id": "R000912",
+          "label": "Honda Smart Key System Registration",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "After registration is completed, check the operation of each system."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000925_jpn/web/html/R000925_jpn_Content.html",
+  "inOutline": true
+}

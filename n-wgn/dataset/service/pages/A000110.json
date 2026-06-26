@@ -1,0 +1,273 @@
+{
+  "id": "A000110",
+  "title": "DTC Explanation: P2A00",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000110",
+  "assets": [
+    "110_3.0_jpn_11033629_4.0_disp.png",
+    "110_3.0_jpn_11033630_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P2A00"
+    },
+    {
+      "type": "dtc",
+      "code": "",
+      "text": "DTC P2A00: LAF sensor Abnormal lean range characteristics"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "110_3.0_jpn_11033629_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The LAF sensor detects the oxygen concentration in the exhaust gas and outputs a continuous signal; the PGM-FI ECU calculates the air-fuel ratio from the LAF sensor output signal value and performs fuel feedback control to further improve the exhaust gas condition. The LAF sensor output voltage is monitored during deceleration with the throttle valve fully closed, and if the output voltage deviates from the normal oxygen concentration, the PGM-FI ECU determines a failure and stores a DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "Once during D/C"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "At least 3.5 seconds"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, running, out of condition"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Elapsed time after engine start"
+          },
+          {
+            "text": "For 60 seconds"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine coolant temperature [Water temperature sensor]"
+          },
+          {
+            "text": "69℃"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine intake air temperature [Intake air temperature sensor]"
+          },
+          {
+            "text": "-15℃* 1 -25℃* 2"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine RPM [Engine RPM]"
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "3,200rpm* 1 3,700rpm* 2"
+          }
+        ],
+        [
+          {
+            "text": "Vehicle speed [vehicle speed]."
+          },
+          {
+            "text": "41km/h"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Air-fuel ratio feedback control"
+          },
+          {
+            "text": "At fully closed throttle deceleration",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "P0112､ P0113､ P0117､ P0118､ P0122､ P0123､ P0133､ P0134､ P0135､ P0171､ P0172､ P0201､ P0202､ P0203､ P0222､ P0223､ P0299､ P0300､ P0301､ P0302､ P0303､ P0351､ P0352､ P0353､ P0443､ P0502､ P060A､ P1157､ P1659､ P2101､ P2118､ P2122､ P2123､ P2127､ P2128､ P2135､ P2138､ P2176､ P21CF､ P21D0､ P21D1､ P2228､ P2229､ P2238､ P2252",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAF sensor output voltage below 2.80V or above 4.80V for more than 3.5 seconds."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Degradation of LAF sensor"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "figure",
+      "asset": "110_3.0_jpn_11033630_4.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Start the engine, run the radiator fan twice, and then warm up the engine for at least 2 minutes at 3,000 rpm with no load."
+        },
+        {
+          "text": "Vehicle speed [vehicle speed] 40-90 km/h for at least 5 minutes."
+        },
+        {
+          "text": "Vehicle speed [vehicle speed] 90-100 km/h for at least 10 seconds at a constant speed."
+        },
+        {
+          "text": "Decelerate for at least 4 seconds with the throttle valve fully closed."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When conducting test drives, the driver must comply with all laws and regulations, observe good manners, and drive in accordance with the surrounding conditions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "None."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the PGM-FI warning light comes on and the DTC and freeze data are stored."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000110_jpn/web/html/A000110_jpn_Content.html",
+  "inOutline": true
+}

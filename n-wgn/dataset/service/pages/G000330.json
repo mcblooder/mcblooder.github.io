@@ -1,0 +1,4171 @@
+{
+  "id": "G000330",
+  "title": "various factors or elements",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "NA",
+  "sectionCode": "0",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "DBA-JH1",
+  "models": [
+    "JH1"
+  ],
+  "assetDir": "assets/G000330",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "various factors or elements"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "",
+            "rowspan": 3
+          },
+          {
+            "text": "classified classification number",
+            "colspan": 2
+          },
+          {
+            "text": "0001"
+          },
+          {
+            "text": "0002"
+          },
+          {
+            "text": "0003"
+          }
+        ],
+        [
+          {
+            "text": "(technical) specification",
+            "colspan": 2,
+            "rowspan": 2
+          },
+          {
+            "text": "4-door station wagon G continuously variable speed"
+          },
+          {
+            "text": "4-door station wagon G continuously variable speed turbo"
+          },
+          {
+            "text": "4-door station wagon G continuously variable speed"
+          }
+        ],
+        [
+          {
+            "text": "（APAA）"
+          },
+          {
+            "text": "（APAAO）"
+          },
+          {
+            "text": "（BPAA）"
+          }
+        ],
+        [
+          {
+            "text": "Car name and model"
+          },
+          {
+            "text": "nickname",
+            "colspan": 2
+          },
+          {
+            "text": "N-WGN"
+          },
+          {
+            "text": "N-WGN"
+          },
+          {
+            "text": "N-WGN CUSTOM"
+          }
+        ],
+        [
+          {
+            "text": "Honda DBA-JH1",
+            "rowspan": 2
+          },
+          {
+            "text": "use",
+            "colspan": 2
+          },
+          {
+            "text": "for use"
+          },
+          {
+            "text": "for use"
+          },
+          {
+            "text": "for use"
+          }
+        ],
+        [
+          {
+            "text": "Body shape",
+            "colspan": 2
+          },
+          {
+            "text": "Station wagon"
+          },
+          {
+            "text": "Station wagon"
+          },
+          {
+            "text": "Station wagon"
+          }
+        ],
+        [
+          {
+            "text": "Name and model of car body"
+          },
+          {
+            "text": "Body type",
+            "colspan": 2
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Honda JH1",
+            "rowspan": 2
+          },
+          {
+            "text": "Length (m)",
+            "colspan": 2
+          },
+          {
+            "text": "3.395"
+          },
+          {
+            "text": "3.395"
+          },
+          {
+            "text": "3.395"
+          }
+        ],
+        [
+          {
+            "text": "Width (m)",
+            "colspan": 2
+          },
+          {
+            "text": "1.475"
+          },
+          {
+            "text": "1.475"
+          },
+          {
+            "text": "1.475"
+          }
+        ],
+        [
+          {
+            "text": "Name of vehicle"
+          },
+          {
+            "text": "Height (m)",
+            "colspan": 2
+          },
+          {
+            "text": "1.655"
+          },
+          {
+            "text": "1.655"
+          },
+          {
+            "text": "1.655"
+          }
+        ],
+        [
+          {
+            "text": "－",
+            "rowspan": 2
+          },
+          {
+            "text": "Axial distance (m)",
+            "colspan": 2
+          },
+          {
+            "text": "2.520"
+          },
+          {
+            "text": "2.520"
+          },
+          {
+            "text": "2.520"
+          }
+        ],
+        [
+          {
+            "text": "Vehicle weight (kg)",
+            "rowspan": 3
+          },
+          {
+            "text": "front axle weight"
+          },
+          {
+            "text": "520"
+          },
+          {
+            "text": "540"
+          },
+          {
+            "text": "530"
+          }
+        ],
+        [
+          {
+            "text": "Name or title of the producer, etc."
+          },
+          {
+            "text": "Rear axle weight"
+          },
+          {
+            "text": "300"
+          },
+          {
+            "text": "310"
+          },
+          {
+            "text": "300"
+          }
+        ],
+        [
+          {
+            "text": "Honda Motor Co.",
+            "rowspan": 2
+          },
+          {
+            "text": "plan"
+          },
+          {
+            "text": "820"
+          },
+          {
+            "text": "850"
+          },
+          {
+            "text": "830"
+          }
+        ],
+        [
+          {
+            "text": "Passenger capacity (persons)",
+            "colspan": 2
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": "4"
+          }
+        ],
+        [
+          {
+            "text": "Type of Vehicle"
+          },
+          {
+            "text": "Gross vehicle weight (kg)",
+            "rowspan": 3
+          },
+          {
+            "text": "front axle weight"
+          },
+          {
+            "text": "610"
+          },
+          {
+            "text": "630"
+          },
+          {
+            "text": "620"
+          }
+        ],
+        [
+          {
+            "text": "light",
+            "rowspan": 2
+          },
+          {
+            "text": "Rear axle weight"
+          },
+          {
+            "text": "430"
+          },
+          {
+            "text": "440"
+          },
+          {
+            "text": "430"
+          }
+        ],
+        [
+          {
+            "text": "plan"
+          },
+          {
+            "text": "1,040"
+          },
+          {
+            "text": "1,070"
+          },
+          {
+            "text": "1,050"
+          }
+        ],
+        [
+          {
+            "text": "Fuel Type"
+          },
+          {
+            "text": "Maximum stable tilt angle",
+            "rowspan": 2
+          },
+          {
+            "text": "left"
+          },
+          {
+            "text": "46 (calculated value)"
+          },
+          {
+            "text": "46 (calculated value)"
+          },
+          {
+            "text": "46 (calculated value)"
+          }
+        ],
+        [
+          {
+            "text": "gasoline",
+            "rowspan": 2
+          },
+          {
+            "text": "right"
+          },
+          {
+            "text": "46 (calculated value)"
+          },
+          {
+            "text": "46 (calculated value)"
+          },
+          {
+            "text": "46 (calculated value)"
+          }
+        ],
+        [
+          {
+            "text": "array of wheels",
+            "colspan": 2
+          },
+          {
+            "text": "2D-2"
+          },
+          {
+            "text": "2D-2"
+          },
+          {
+            "text": "2D-2"
+          }
+        ],
+        [
+          {
+            "text": "Type of prime mover"
+          },
+          {
+            "text": "Suitability for Passenger Transport Business",
+            "colspan": 2
+          },
+          {
+            "text": "no (Indication of how to open the doors of boarding and exiting entrances, etc.)",
+            "rowspan": 2
+          },
+          {
+            "text": "no (Indication of how to open the doors of boarding and exiting entrances, etc.)",
+            "rowspan": 2
+          },
+          {
+            "text": "no (Indication of how to open the doors of boarding and exiting entrances, etc.)",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "S07A",
+            "rowspan": 2
+          },
+          {
+            "text": "(Detailed description)",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Maximum output (kW/rpm)",
+            "colspan": 2
+          },
+          {
+            "text": "43/7,300 (net)"
+          },
+          {
+            "text": "47/6,000 (net)"
+          },
+          {
+            "text": "43/7,300 (net)"
+          }
+        ],
+        [
+          {
+            "text": "Total displacement (L) or rated output (kW)"
+          },
+          {
+            "text": "Maximum torque (N-m/rpm)",
+            "colspan": 2
+          },
+          {
+            "text": "65/4,700 (net)"
+          },
+          {
+            "text": "104/2,600 (net)"
+          },
+          {
+            "text": "65/4,700 (net)"
+          }
+        ],
+        [
+          {
+            "text": "0.658（L）",
+            "rowspan": 2
+          },
+          {
+            "text": "noise",
+            "rowspan": 4
+          },
+          {
+            "text": "Regulatory Classification"
+          },
+          {
+            "text": "H10 Noise Regulations"
+          },
+          {
+            "text": "H10 Noise Regulations"
+          },
+          {
+            "text": "H10 Noise Regulations"
+          }
+        ],
+        [
+          {
+            "text": "Proximity (dB/rpm)"
+          },
+          {
+            "text": "80/4,000"
+          },
+          {
+            "text": "79/4,000"
+          },
+          {
+            "text": "80/4,000"
+          }
+        ],
+        [
+          {
+            "text": "VIN number imprinting format"
+          },
+          {
+            "text": "Steady state [dB/(km/h)"
+          },
+          {
+            "text": "67（50）"
+          },
+          {
+            "text": "67（50）"
+          },
+          {
+            "text": "67（50）"
+          }
+        ],
+        [
+          {
+            "text": "JH1-1000001",
+            "rowspan": 2
+          },
+          {
+            "text": "Acceleration (dB)"
+          },
+          {
+            "text": "74"
+          },
+          {
+            "text": "74"
+          },
+          {
+            "text": "74"
+          }
+        ],
+        [
+          {
+            "text": "Emission Weight",
+            "rowspan": 11
+          },
+          {
+            "text": "static test mode"
+          },
+          {
+            "text": "JC08H + JC08C mode"
+          },
+          {
+            "text": "JC08H + JC08C mode"
+          },
+          {
+            "text": "JC08H + JC08C mode"
+          }
+        ],
+        [
+          {
+            "text": "VIN number imprinting position"
+          },
+          {
+            "text": "CO（g/km）"
+          },
+          {
+            "text": "0.40"
+          },
+          {
+            "text": "0.40"
+          },
+          {
+            "text": "0.40"
+          }
+        ],
+        [
+          {
+            "text": "In engine compartment Dashboard Upper front side",
+            "rowspan": 2
+          },
+          {
+            "text": "HC（g/km）"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "NMHC（g/km）"
+          },
+          {
+            "text": "0.013"
+          },
+          {
+            "text": "0.013"
+          },
+          {
+            "text": "0.013"
+          }
+        ],
+        [
+          {
+            "text": "Stamping style of the type of prime mover"
+          },
+          {
+            "text": "NOx（g/km）"
+          },
+          {
+            "text": "0.013"
+          },
+          {
+            "text": "0.013"
+          },
+          {
+            "text": "0.013"
+          }
+        ],
+        [
+          {
+            "text": "S07A",
+            "rowspan": 2
+          },
+          {
+            "text": "PM（g/km）"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "static test mode"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Stamping position of the type of prime mover"
+          },
+          {
+            "text": "CO (g/test)"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Front of cylinder block",
+            "rowspan": 5
+          },
+          {
+            "text": "HC (g/test)"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "NMHC (g/test)"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "NOx (g/test)"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Fuel consumption rate (km/L)",
+            "rowspan": 2
+          },
+          {
+            "text": "10･15"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "JC08"
+          },
+          {
+            "text": "29.2"
+          },
+          {
+            "text": "26.0"
+          },
+          {
+            "text": "29.2"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "",
+            "rowspan": 3
+          },
+          {
+            "text": "classified classification number",
+            "colspan": 2
+          },
+          {
+            "text": "0004"
+          },
+          {
+            "text": "0005"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "(technical) specification",
+            "colspan": 2,
+            "rowspan": 2
+          },
+          {
+            "text": "4-door station wagon G continuously variable speed turbo"
+          },
+          {
+            "text": "4-door station wagon G continuously variable speed turbo tire"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "（BPAAO）"
+          },
+          {
+            "text": "（BPAAOS）"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Car name and model"
+          },
+          {
+            "text": "nickname",
+            "colspan": 2
+          },
+          {
+            "text": "N-WGN CUSTOM"
+          },
+          {
+            "text": "N-WGN CUSTOM"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Honda DBA-JH1",
+            "rowspan": 2
+          },
+          {
+            "text": "use",
+            "colspan": 2
+          },
+          {
+            "text": "for use"
+          },
+          {
+            "text": "for use"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Body shape",
+            "colspan": 2
+          },
+          {
+            "text": "Station wagon"
+          },
+          {
+            "text": "Station wagon"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Name and model of car body"
+          },
+          {
+            "text": "Body type",
+            "colspan": 2
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Honda JH1",
+            "rowspan": 2
+          },
+          {
+            "text": "Length (m)",
+            "colspan": 2
+          },
+          {
+            "text": "3.395"
+          },
+          {
+            "text": "3.395"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Width (m)",
+            "colspan": 2
+          },
+          {
+            "text": "1.475"
+          },
+          {
+            "text": "1.475"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Name of vehicle"
+          },
+          {
+            "text": "Height (m)",
+            "colspan": 2
+          },
+          {
+            "text": "1.655"
+          },
+          {
+            "text": "1.655"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "－",
+            "rowspan": 2
+          },
+          {
+            "text": "Axial distance (m)",
+            "colspan": 2
+          },
+          {
+            "text": "2.520"
+          },
+          {
+            "text": "2.520"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Vehicle weight (kg)",
+            "rowspan": 3
+          },
+          {
+            "text": "front axle weight"
+          },
+          {
+            "text": "540"
+          },
+          {
+            "text": "550"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Name or title of the producer, etc."
+          },
+          {
+            "text": "Rear axle weight"
+          },
+          {
+            "text": "310"
+          },
+          {
+            "text": "320"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Honda Motor Co.",
+            "rowspan": 2
+          },
+          {
+            "text": "plan"
+          },
+          {
+            "text": "850"
+          },
+          {
+            "text": "870"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Passenger capacity (persons)",
+            "colspan": 2
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": "4"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Type of Vehicle"
+          },
+          {
+            "text": "Gross vehicle weight (kg)",
+            "rowspan": 3
+          },
+          {
+            "text": "front axle weight"
+          },
+          {
+            "text": "630"
+          },
+          {
+            "text": "640"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "light",
+            "rowspan": 2
+          },
+          {
+            "text": "Rear axle weight"
+          },
+          {
+            "text": "440"
+          },
+          {
+            "text": "450"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "plan"
+          },
+          {
+            "text": "1,070"
+          },
+          {
+            "text": "1,090"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Fuel Type"
+          },
+          {
+            "text": "Maximum stable tilt angle",
+            "rowspan": 2
+          },
+          {
+            "text": "left"
+          },
+          {
+            "text": "47 (calculated value)"
+          },
+          {
+            "text": "47 (calculated value)"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "gasoline",
+            "rowspan": 2
+          },
+          {
+            "text": "right"
+          },
+          {
+            "text": "47 (calculated value)"
+          },
+          {
+            "text": "47 (calculated value)"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "array of wheels",
+            "colspan": 2
+          },
+          {
+            "text": "2D-2"
+          },
+          {
+            "text": "2D-2"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Type of prime mover"
+          },
+          {
+            "text": "Suitability for Passenger Transport Business",
+            "colspan": 2
+          },
+          {
+            "text": "no (Indication of how to open the doors of boarding and exiting entrances, etc.)",
+            "rowspan": 2
+          },
+          {
+            "text": "no (Indication of how to open the doors of boarding and exiting entrances, etc.)",
+            "rowspan": 2
+          },
+          {
+            "text": "",
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "S07A",
+            "rowspan": 2
+          },
+          {
+            "text": "(Detailed description)",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Maximum output (kW/rpm)",
+            "colspan": 2
+          },
+          {
+            "text": "47/6,000 (net)"
+          },
+          {
+            "text": "47/6,000 (net)"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Total displacement (L) or rated output (kW)"
+          },
+          {
+            "text": "Maximum torque (N-m/rpm)",
+            "colspan": 2
+          },
+          {
+            "text": "104/2,600 (net)"
+          },
+          {
+            "text": "104/2,600 (net)"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "0.658（L）",
+            "rowspan": 2
+          },
+          {
+            "text": "noise",
+            "rowspan": 4
+          },
+          {
+            "text": "Regulatory Classification"
+          },
+          {
+            "text": "H10 Noise Regulations"
+          },
+          {
+            "text": "H10 Noise Regulations"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Proximity (dB/rpm)"
+          },
+          {
+            "text": "79/4,000"
+          },
+          {
+            "text": "79/4,000"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "VIN number imprinting format"
+          },
+          {
+            "text": "Steady state [dB/(km/h)"
+          },
+          {
+            "text": "67（50）"
+          },
+          {
+            "text": "67（50）"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "JH1-1000001",
+            "rowspan": 2
+          },
+          {
+            "text": "Acceleration (dB)"
+          },
+          {
+            "text": "74"
+          },
+          {
+            "text": "74"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Emission Weight",
+            "rowspan": 11
+          },
+          {
+            "text": "static test mode"
+          },
+          {
+            "text": "JC08H + JC08C mode"
+          },
+          {
+            "text": "JC08H + JC08C mode"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "VIN number imprinting position"
+          },
+          {
+            "text": "CO（g/km）"
+          },
+          {
+            "text": "0.40"
+          },
+          {
+            "text": "0.40"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "In engine compartment Dashboard Upper front side",
+            "rowspan": 2
+          },
+          {
+            "text": "HC（g/km）"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "NMHC（g/km）"
+          },
+          {
+            "text": "0.013"
+          },
+          {
+            "text": "0.013"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Stamping style of the type of prime mover"
+          },
+          {
+            "text": "NOx（g/km）"
+          },
+          {
+            "text": "0.013"
+          },
+          {
+            "text": "0.013"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "S07A",
+            "rowspan": 2
+          },
+          {
+            "text": "PM（g/km）"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "static test mode"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Stamping position of the type of prime mover"
+          },
+          {
+            "text": "CO (g/test)"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Front of cylinder block",
+            "rowspan": 5
+          },
+          {
+            "text": "HC (g/test)"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "NMHC (g/test)"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "NOx (g/test)"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Fuel consumption rate (km/L)",
+            "rowspan": 2
+          },
+          {
+            "text": "10･15"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": "－"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "JC08"
+          },
+          {
+            "text": "26.0"
+          },
+          {
+            "text": "24.0"
+          },
+          {
+            "text": ""
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Minimum ground clearance (m)"
+          },
+          {
+            "text": "0.150"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Mounting position"
+          },
+          {
+            "text": "the last (i.e. immediately preceding) (e.g. \"the last mayor\")"
+          }
+        ],
+        [
+          {
+            "text": "Starting method"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "type"
+          },
+          {
+            "text": "Gasoline 4-cycle"
+          }
+        ],
+        [
+          {
+            "text": "Cylinder arrangement, number and arrangement of cylinders"
+          },
+          {
+            "text": "direct-3 side-by-side"
+          }
+        ],
+        [
+          {
+            "text": "Combustion chamber : Form"
+          },
+          {
+            "text": "pent roof style"
+          }
+        ],
+        [
+          {
+            "text": "valve mechanism"
+          },
+          {
+            "text": "DOHC, chain drive, 2 intake and 2 exhaust"
+          }
+        ],
+        [
+          {
+            "text": "I.D. x Length of line (mm)"
+          },
+          {
+            "text": "64.0×68.2"
+          }
+        ],
+        [
+          {
+            "text": "compression ratio"
+          },
+          {
+            "text": "11.8・・・・Models not equipped with a turbocharger 9.2・・・・Vehicles equipped with a turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Valve or port open/close timing: Intake: open"
+          },
+          {
+            "text": "20°--40°ATDC (at 1mm lift) (open/close timing adjustment mechanism)"
+          }
+        ],
+        [
+          {
+            "text": "Valve or port open/close timing: Intake: closed"
+          },
+          {
+            "text": "44°---16°ABDC (at 1mm lift) (open/close timing adjustment mechanism)"
+          }
+        ],
+        [
+          {
+            "text": "Valve or port open/close timing: exhaust: open"
+          },
+          {
+            "text": "20°BBDC (at 1mm lift)---Cars without turbocharger 25°BBDC (at 1mm lift) ・・・ Vehicles equipped with turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Valve or port open/close timing: Exhaust: closed"
+          },
+          {
+            "text": "5°BTDC (at 1mm lift) - Vehicles without turbocharger 10°BTDC (at 1mm lift) ・・・ Vehicles equipped with turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Valve or port open/close timing: scavenging: open"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Valve or port open/close timing: scavenging: closed"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "No-load rotational speed (rpm)"
+          },
+          {
+            "text": "850 (N range)"
+          }
+        ],
+        [
+          {
+            "text": "Lubrication system: Method"
+          },
+          {
+            "text": "pumping"
+          }
+        ],
+        [
+          {
+            "text": "Lubrication system: Oil pump: Type"
+          },
+          {
+            "text": "trochoidal"
+          }
+        ],
+        [
+          {
+            "text": "Lubrication system : Oil cooler : Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Cooling system: Method"
+          },
+          {
+            "text": "Water-cooled electric type"
+          }
+        ],
+        [
+          {
+            "text": "Cooling system : Heat sink : Type"
+          },
+          {
+            "text": "Corrugated (sealed)"
+          }
+        ],
+        [
+          {
+            "text": "Cooling System : Water Pump : Type"
+          },
+          {
+            "text": "Centrifugal, belt-driven"
+          }
+        ],
+        [
+          {
+            "text": "Cooling System : Thermostat : Type"
+          },
+          {
+            "text": "wax-style"
+          }
+        ],
+        [
+          {
+            "text": "Supercharger: Type"
+          },
+          {
+            "text": "Turbo type: Vehicles equipped with a turbocharger."
+          }
+        ],
+        [
+          {
+            "text": "Air supply cooler : Type"
+          },
+          {
+            "text": "Air-cooled - Turbocharger-equipped vehicles"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Mounting position and quantity"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Rated voltage (V)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Cooling method"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Stator dimensions (mm)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Stator internal volume (cm) 3 ）"
+          },
+          {
+            "text": "－"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Main controller: Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Main controller: Control method"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Operating voltage (V)"
+          },
+          {
+            "text": "－"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Main battery: type and model"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Main battery: voltage (V)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Main battery: Capacity (Ah)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Main battery: number and total voltage"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Overcurrent Protection Devices: Formats"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Charging device: Format"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Charging device: Control method"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Charging device: AC input power supply"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Charging device: DC input power supply"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Charging device: Internal combustion engine for power generation"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Fuel Cells: Type and Model"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Fuel cells: number and total voltage and rated output"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Low Insulation Resistance Monitor : Type"
+          },
+          {
+            "text": "－"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Air purifier : Format"
+          },
+          {
+            "text": "filter paper type"
+          }
+        ],
+        [
+          {
+            "text": "Fuel tank: Material"
+          },
+          {
+            "text": "plastic"
+          }
+        ],
+        [
+          {
+            "text": "Fuel tank: Capacity (L)"
+          },
+          {
+            "text": "30"
+          }
+        ],
+        [
+          {
+            "text": "Fuel tank: Location"
+          },
+          {
+            "text": "under the front seat"
+          }
+        ],
+        [
+          {
+            "text": "Fuel pipe: Material"
+          },
+          {
+            "text": "Steel pipe, rubber, synthetic resin"
+          }
+        ],
+        [
+          {
+            "text": "Fuel pump: Type"
+          },
+          {
+            "text": "electric"
+          }
+        ],
+        [
+          {
+            "text": "Vaporizer: Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Vaporizer: Gas valve diameter (mm)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Vaporizer: Venturi diameter (mm)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Vaporizer : Air Valve : Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Fuel injector: Type"
+          },
+          {
+            "text": "electronic (adj)"
+          }
+        ],
+        [
+          {
+            "text": "Injection pump: Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Injection pump: injection timing"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Injection pump: plunger diameter (mm)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Injection pump: cam lift (mm)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Injection pump : regulator : type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Injection pumps : Injection timing adjusters : Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Injection nozzles: Nozzles: Type"
+          },
+          {
+            "text": "Perforated, 6"
+          }
+        ],
+        [
+          {
+            "text": "Jetting nozzles: jets: number"
+          },
+          {
+            "text": "4"
+          }
+        ],
+        [
+          {
+            "text": "Injection nozzle: Jet: Diameter (mm)"
+          },
+          {
+            "text": "0.20・・・・Cars not equipped with a turbocharger 0.28・・・・Car equipped with a turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Injection nozzle: injection pressure (kPa or MPa)"
+          },
+          {
+            "text": "400・・・Cars without turbocharger 340・・・Equipped with a turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "High-pressure gas equipment : Filling port : Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "High-pressure gas equipment: Overfill prevention device: Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "High Pressure Gas Equipment : Safety Valve : Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "High-pressure gas equipment : Main shutoff valve : Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "High-pressure gas equipment : Pressure reducer : Type"
+          },
+          {
+            "text": "－"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Voltage (V)"
+          },
+          {
+            "text": "12, -Earth"
+          }
+        ],
+        [
+          {
+            "text": "Ignition system: Type"
+          },
+          {
+            "text": "Full transistor type, battery ignition"
+          }
+        ],
+        [
+          {
+            "text": "Ignition system: Ignition timing"
+          },
+          {
+            "text": "4/850 BTDC°/rpm"
+          }
+        ],
+        [
+          {
+            "text": "Ignition System : Interrupter : Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Ignition System: Ignition Quickening System: Form and Performance"
+          },
+          {
+            "text": "Electronic, 6°-54° (equivalent to crankshaft angle) - Vehicles without turbocharger Electronic, 0°-60° (equivalent to crankshaft angle) ・・・ Vehicles equipped with turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Ignition system: Spark plug: Type"
+          },
+          {
+            "text": "DILZKAR7C11S, DXE22HCR11S ... Vehicles not equipped with a turbocharger ILZKAR8F8S, SXE24HCR8S -- Vehicles equipped with a turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Preheat plug : Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Preheat plug: voltage (V), current (A)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Storage battery: Capacity (Ah)"
+          },
+          {
+            "text": "32（5）"
+          }
+        ],
+        [
+          {
+            "text": "Charge Generator : Type"
+          },
+          {
+            "text": "interchange format"
+          }
+        ],
+        [
+          {
+            "text": "Charge generator: Output (V-A)"
+          },
+          {
+            "text": "12－65"
+          }
+        ],
+        [
+          {
+            "text": "Charge Generator : Voltage and Current Regulator : Type"
+          },
+          {
+            "text": "IC type"
+          }
+        ],
+        [
+          {
+            "text": "Radio noise suppressor: Type"
+          },
+          {
+            "text": "Plug type with resistance"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Mechanisms from engine to transmission"
+          },
+          {
+            "text": "Engine - Torque Converter - Transmission"
+          }
+        ],
+        [
+          {
+            "text": "Reduction ratio from engine to transmission"
+          },
+          {
+            "text": "1.000 (2.510) - Vehicles not equipped with a turbocharger 1.000 (1.610)---Cars equipped with a turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Clutch: Form"
+          },
+          {
+            "text": "3-element 1-stage 2-phase type (lock-up mechanism)"
+          }
+        ],
+        [
+          {
+            "text": "Clutch: Operation"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Clutch: Facing: Dimensions (mm)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Clutch: Facing: Area (cm) 2 (Number of sheets) and number of sheets"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Clutch : Doubling device : Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Transmission: Type"
+          },
+          {
+            "text": "belt drive"
+          }
+        ],
+        [
+          {
+            "text": "Transmission: Operation system"
+          },
+          {
+            "text": "Instrument panel changeable"
+          }
+        ],
+        [
+          {
+            "text": "Transmission: Gear ratio: single speed"
+          },
+          {
+            "text": "3.680-0.674: Continuously variable transmission - Cars without turbocharger 3.152-0.577: Continuously variable speed - Turbocharger-equipped vehicles 3.152-0.577: (with manual mode): Continuously variable speed - Turbocharged vehicles"
+          }
+        ],
+        [
+          {
+            "text": "Transmission: gear ratio: two-speed"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Transmission: gear ratio: three-speed"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Transmission: Gear ratio: 4-speed"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Transmission: gear ratio: 5-speed"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Transmission: gear ratio: six-speed"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Transmission: gear ratio: 7-speed"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Transmission: Gear Ratio: Backward"
+          },
+          {
+            "text": "2.722-1.484: Continuously variable transmission - Cars without turbocharger 2.722-1.424: Continuously variable transmission - Cars equipped with turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Sub-transmission: Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Secondary transmission: Operation system"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Sub-transmission: gear ratio: high"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Sub-transmission: gear ratio: low"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Propulsion shaft: length, outer diameter, inner diameter (mm)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Propulsion shaft: length, outer diameter, inner diameter (mm)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Propulsion shaft: length, outer diameter, inner diameter (mm)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Reduction Gear : No.1 : Gear : Type"
+          },
+          {
+            "text": "helical gear"
+          }
+        ],
+        [
+          {
+            "text": "Reduction gear: First: Reduction ratio"
+          },
+          {
+            "text": "4.318・・・・Cars not equipped with turbocharger 4.619・・・・Equipped with a turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Reduction Gear : Second : Gear : Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Reduction gear: Second: Reduction ratio"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Differential motors: gear type and number"
+          },
+          {
+            "text": "Immediately Bakuba Gear, 2 large and 2 small"
+          }
+        ],
+        [
+          {
+            "text": "Differential motors : Differential limiting devices : Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Distributor: Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Distributor: Reduction ratio"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Transformer: Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Transducer: Reduction ratio"
+          },
+          {
+            "text": "－"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Front axle: Type"
+          },
+          {
+            "text": "Ball joint type"
+          }
+        ],
+        [
+          {
+            "text": "Front axle: Toe-in (mm)"
+          },
+          {
+            "text": "0"
+          }
+        ],
+        [
+          {
+            "text": "Front axle: Camber (degree)"
+          },
+          {
+            "text": "0°00′"
+          }
+        ],
+        [
+          {
+            "text": "Front axle: Caster (degree)"
+          },
+          {
+            "text": "4°05′"
+          }
+        ],
+        [
+          {
+            "text": "Front axle: King pin angle"
+          },
+          {
+            "text": "9°40′"
+          }
+        ],
+        [
+          {
+            "text": "Front axle: Trail (mm)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Rear axle: Type"
+          },
+          {
+            "text": "dead-axis system"
+          }
+        ],
+        [
+          {
+            "text": "Rear axle: Toe-in (mm)"
+          },
+          {
+            "text": "3"
+          }
+        ],
+        [
+          {
+            "text": "Rear axle: Camber (degree)"
+          },
+          {
+            "text": "-1°30′"
+          }
+        ],
+        [
+          {
+            "text": "Wheel distance: front wheels (m)"
+          },
+          {
+            "text": "1.305・・・・Models equipped with 14-inch wheels 1.295・・・・Equipped with 15-inch wheels"
+          }
+        ],
+        [
+          {
+            "text": "Wheel distance: Rear wheels (m)"
+          },
+          {
+            "text": "1.305・・・・Models equipped with 14-inch wheels 1.295・・・・Equipped with 15-inch wheels"
+          }
+        ],
+        [
+          {
+            "text": "Tire rim: front wheel"
+          },
+          {
+            "text": "Steel, 14 x 4 1/2J - Vehicles equipped with 14-inch wheels Aluminum alloy, 14 x 4 1/2J - Vehicles equipped with 14-inch wheels Aluminum alloy, 15 x 4 1/2J - Vehicles equipped with 15-inch wheels"
+          }
+        ],
+        [
+          {
+            "text": "Tire rim: rear wheel"
+          },
+          {
+            "text": "Steel, 14 x 4 1/2J - Vehicles equipped with 14-inch wheels Aluminum alloy, 14 x 4 1/2J - Vehicles equipped with 14-inch wheels Aluminum alloy, 15 x 4 1/2J - Vehicles equipped with 15-inch wheels"
+          }
+        ],
+        [
+          {
+            "text": "Tire call: front wheels"
+          },
+          {
+            "text": "155/65R14 75S: Designated equipment, etc.: Vehicles equipped with 14-inch wheels 165/55R15 75V: Designated equipment, etc.: Vehicles equipped with 15-inch wheels"
+          }
+        ],
+        [
+          {
+            "text": "Tire call: Rear wheel"
+          },
+          {
+            "text": "155/65R14 75S: Designated equipment, etc.: Vehicles equipped with 14-inch wheels 165/55R15 75V: Designated equipment, etc.: Vehicles equipped with 15-inch wheels"
+          }
+        ],
+        [
+          {
+            "text": "Tire pressure (kPa): front wheels"
+          },
+          {
+            "text": "240・・・・Vehicles equipped with 14-inch wheels 210・・・・Vehicles equipped with 15-inch wheels"
+          }
+        ],
+        [
+          {
+            "text": "Tire pressure (kPa): rear wheel"
+          },
+          {
+            "text": "230・・・・Models equipped with 14-inch wheels 210・・・・Vehicles equipped with 15-inch wheels"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Handle: Position"
+          },
+          {
+            "text": "right"
+          }
+        ],
+        [
+          {
+            "text": "Handle: Outer diameter (mm)"
+          },
+          {
+            "text": "370"
+          }
+        ],
+        [
+          {
+            "text": "Handle: Max. rpm"
+          },
+          {
+            "text": "3.4・・・・Models equipped with 14-inch wheels 3.3・・・・Vehicles equipped with 15-inch wheels"
+          }
+        ],
+        [
+          {
+            "text": "Handles: Shaft and coupling type"
+          },
+          {
+            "text": "Adjustable, collapsible Regular and collapsible"
+          }
+        ],
+        [
+          {
+            "text": "Gears: Form"
+          },
+          {
+            "text": "Rack and pinion type"
+          }
+        ],
+        [
+          {
+            "text": "Nibble angle: Inside"
+          },
+          {
+            "text": "43°...Vehicles equipped with 14-inch wheels 41°・・・・Vehicles equipped with 15-inch wheels"
+          }
+        ],
+        [
+          {
+            "text": "Gnawing angle: Outside"
+          },
+          {
+            "text": "37°・・・・Cars equipped with 14-inch wheels 36°・・・・Vehicles equipped with 15-inch wheels"
+          }
+        ],
+        [
+          {
+            "text": "Doubling device: Type"
+          },
+          {
+            "text": "electric"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "locking device"
+          },
+          {
+            "text": "Steering lock"
+          }
+        ],
+        [
+          {
+            "text": "immobilizer"
+          },
+          {
+            "text": "having"
+          }
+        ],
+        [
+          {
+            "text": "Burglar Alarm System"
+          },
+          {
+            "text": "Acoustic and lighted"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "form (something takes)"
+          },
+          {
+            "text": "Hydraulic, front: disc, rear: leading trailing"
+          }
+        ],
+        [
+          {
+            "text": "Actuation system and braking wheel"
+          },
+          {
+            "text": "2-Front right wheel and rear left wheel, front left wheel and rear right wheel braking"
+          }
+        ],
+        [
+          {
+            "text": "Lining or pad: Material"
+          },
+          {
+            "text": "Resin Mold"
+          }
+        ],
+        [
+          {
+            "text": "Lining or pad: Dimensions (mm): Front wheel"
+          },
+          {
+            "text": "87.0 x 39.5 x 8.5... Vehicles not equipped with a turbocharger 100.0 x 41.9 x 9.5... Vehicles equipped with a turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Lining or pad: Dimensions (mm): Rear wheel"
+          },
+          {
+            "text": "161.7×25.0×4.5"
+          }
+        ],
+        [
+          {
+            "text": "Lining or pad: Area (cm) 2 ): Front wheel"
+          },
+          {
+            "text": "29 x 2 x 2 wheels - Cars not equipped with turbocharger 31 x 2 x 2 wheels - Cars equipped with turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Lining or pad: Area (cm) 2 ): Rear wheel"
+          },
+          {
+            "text": "40 x 2 sheets x 2 wheels"
+          }
+        ],
+        [
+          {
+            "text": "Brake body diameter or disc effective diameter (mm): front wheels"
+          },
+          {
+            "text": "178・・・・Cars without turbocharger 188・・・・Cars equipped with a turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Brake body diameter or disc effective diameter (mm): rear wheel"
+          },
+          {
+            "text": "180"
+          }
+        ],
+        [
+          {
+            "text": "Master Cylinder or Brake Valve: Type"
+          },
+          {
+            "text": "tandem (type)"
+          }
+        ],
+        [
+          {
+            "text": "Master Cylinder I.D. (mm)"
+          },
+          {
+            "text": "19.0"
+          }
+        ],
+        [
+          {
+            "text": "Supply Tank: Form"
+          },
+          {
+            "text": "Integral, 30 (front right - rear left) + 31 (front left - rear right) + 195 (shared)"
+          }
+        ],
+        [
+          {
+            "text": "Wheel Cylinder I.D. or Brake Chamber Membrane Plate Diameter (mm): Front Wheels"
+          },
+          {
+            "text": "51.1"
+          }
+        ],
+        [
+          {
+            "text": "Wheel Cylinder inner diameter or brake chamber membrane plate diameter (mm): Rear wheel"
+          },
+          {
+            "text": "17.4"
+          }
+        ],
+        [
+          {
+            "text": "Braking Double Power Unit : Type"
+          },
+          {
+            "text": "vacuum doubling type"
+          }
+        ],
+        [
+          {
+            "text": "Braking force multiplier: Magnification"
+          },
+          {
+            "text": "5.0（120）"
+          }
+        ],
+        [
+          {
+            "text": "Brake Pipe: Material"
+          },
+          {
+            "text": "Double-wound steel pipe"
+          }
+        ],
+        [
+          {
+            "text": "Brake pipe: preservative treated"
+          },
+          {
+            "text": "Outer surface Zn plating + resin coating Inner surface Cu plating"
+          }
+        ],
+        [
+          {
+            "text": "Brake hose: Material"
+          },
+          {
+            "text": "From outer surface: synthetic rubber, vinylon, polyester, oil-resistant rubber Synthetic rubber, vinylon, and oil-resistant rubber from outer surface"
+          }
+        ],
+        [
+          {
+            "text": "Brake Fluid: Quality"
+          },
+          {
+            "text": "Honda brake fluid DOT3 or DOT4"
+          }
+        ],
+        [
+          {
+            "text": "Braking force controller : Type"
+          },
+          {
+            "text": "ABS"
+          }
+        ],
+        [
+          {
+            "text": "Braking Alarm System: Form, Performance, and Detection"
+          },
+          {
+            "text": "Liquid level type, 155mL"
+          }
+        ],
+        [
+          {
+            "text": "Braking Alarm System: Model and Performance/Display"
+          },
+          {
+            "text": "Lighted, 0.1 W, for use with parking brake actuation warning light"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "form (something takes)"
+          },
+          {
+            "text": "Mechanical wheel braking type"
+          }
+        ],
+        [
+          {
+            "text": "braking wheel"
+          },
+          {
+            "text": "rear wheel"
+          }
+        ],
+        [
+          {
+            "text": "Lining or pad: Material"
+          },
+          {
+            "text": "Shared with main brake"
+          }
+        ],
+        [
+          {
+            "text": "Lining or pad: Dimensions (mm)"
+          },
+          {
+            "text": "Shared with main brake"
+          }
+        ],
+        [
+          {
+            "text": "Lining or pad: Area (cm) 2 ）"
+          },
+          {
+            "text": "Shared with main brake"
+          }
+        ],
+        [
+          {
+            "text": "Brake body diameter or disc effective diameter (mm)"
+          },
+          {
+            "text": "Shared with main brake"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Front wheels: Suspension system"
+          },
+          {
+            "text": "McPherson's method"
+          }
+        ],
+        [
+          {
+            "text": "Front wheels : Spring : Form"
+          },
+          {
+            "text": "coil spring"
+          }
+        ],
+        [
+          {
+            "text": "Front wheels: Main spring: Dimensions (mm)"
+          },
+          {
+            "text": "10×(86-98-79)-4.5・・・・Non-turbocharged vehicles except CUSTOM 10×(86-98-80)-5.1・・・・Custom models equipped with a turbocharger, CUSTOM models without a turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Front wheels: Auxiliary spring: Dimensions (mm)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Rear wheel: Suspension system"
+          },
+          {
+            "text": "axle"
+          }
+        ],
+        [
+          {
+            "text": "Rear Wheels : Spring : Type"
+          },
+          {
+            "text": "coil spring"
+          }
+        ],
+        [
+          {
+            "text": "Rear wheels: Main spring: Dimensions (mm)"
+          },
+          {
+            "text": "10×（60-94-60）-5.1"
+          }
+        ],
+        [
+          {
+            "text": "Rear wheels: Auxiliary springs: Dimensions (mm)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Shock Absorber : Front Wheels : Type"
+          },
+          {
+            "text": "Cylindrical, double-acting"
+          }
+        ],
+        [
+          {
+            "text": "Shock absorber : Rear wheel : Type"
+          },
+          {
+            "text": "Cylindrical, double-acting"
+          }
+        ],
+        [
+          {
+            "text": "Stabilizer : Front wheels : Form"
+          },
+          {
+            "text": "Torsion bar type・・・Turbocharger equipped vehicles, CUSTOM vehicles without turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Stabilizer : Rear wheel : Form"
+          },
+          {
+            "text": "－"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "form (something takes)"
+          },
+          {
+            "text": "integrated structure"
+          }
+        ],
+        [
+          {
+            "text": "cross-sectional profile"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Dimensions (mm)"
+          },
+          {
+            "text": "－"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Seat: Form"
+          },
+          {
+            "text": "Front: Separate type Rear: Bench type"
+          }
+        ],
+        [
+          {
+            "text": "Seat belt attachment device, etc.: Type"
+          },
+          {
+            "text": "Seat belt attachment device: Front: Class 2 Seat belt attachment device: Rear: Class 2 Fixtures for auxiliary riding equipment for juveniles: Rear: ISOFIX"
+          }
+        ],
+        [
+          {
+            "text": "Seat belt mounting devices, etc.: Number"
+          },
+          {
+            "text": "Seat belt attachment device: Front: 2 Seat belt attachment device: Rear: 2 Fixtures for juvenile auxiliary riding equipment: Rear: 2"
+          }
+        ],
+        [
+          {
+            "text": "Seat belt: Form"
+          },
+          {
+            "text": "Front: Class 2 ELR (with belt tensioner and force limiter) After: Type 2 ELR (with force limiter) Alarms: Lighted and acoustic"
+          }
+        ],
+        [
+          {
+            "text": "Seat belts: Number"
+          },
+          {
+            "text": "Previous: 2 After: 2"
+          }
+        ],
+        [
+          {
+            "text": "Backward head tilt restrainer : Type"
+          },
+          {
+            "text": "Seat back insert"
+          }
+        ],
+        [
+          {
+            "text": "Backward head tilt deterrent device: Number"
+          },
+          {
+            "text": "Previous: 2 After: 2"
+          }
+        ],
+        [
+          {
+            "text": "Airbag: capacity (L) and inflator output (kPa)"
+          },
+          {
+            "text": "Driver's seat: Front: 45, 200 Passenger seat: Front: 75, 340 Driver's seat: side: 5, 80/41, 430 - Ordering specifications Passenger seat: side: 5, 80/41, 430 ... Ordering specifications"
+          }
+        ],
+        [
+          {
+            "text": "Air Conditioning Equipment: Type"
+          },
+          {
+            "text": "Hot water heating, direct cooling"
+          }
+        ],
+        [
+          {
+            "text": "Boarding door: Type"
+          },
+          {
+            "text": "Opening door, left and right: 2 each, pin-hawk type"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Front glass: Type"
+          },
+          {
+            "text": "Laminated glass (ECE) Laminated glass (partially tinted) (ECE)"
+          }
+        ],
+        [
+          {
+            "text": "Front glass: Thickness (mm)"
+          },
+          {
+            "text": "4.5"
+          }
+        ],
+        [
+          {
+            "text": "Glass other than front glass: Type"
+          },
+          {
+            "text": "Front seat sides: Tempered glass (JIS) Rear seat sides: Toughened glass (tinted) (ECE) Rear: Toughened glass (tinted) (ECE)"
+          }
+        ],
+        [
+          {
+            "text": "Glass other than front glass: Thickness (mm)"
+          },
+          {
+            "text": "Front seat side: 3.1 Rear seat side: 2.8 Rear: 2.5"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Silencer: Model"
+          },
+          {
+            "text": "Main: SG-629, Sub: 4141... Vehicles not equipped with a turbocharger SG-633・・・Equipped with a turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Silencer: number of pieces"
+          },
+          {
+            "text": "Main: 1, Sub: 1 - Vehicles without turbocharger 1・・・Car equipped with a turbocharger"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Blow-by gas reducer : Type"
+          },
+          {
+            "text": "closed circuit"
+          }
+        ],
+        [
+          {
+            "text": "Fuel evaporative gas deterrent device : Type"
+          },
+          {
+            "text": "Canister system, 1 piece, 0.4L"
+          }
+        ],
+        [
+          {
+            "text": "Catalyst: type and form"
+          },
+          {
+            "text": "Ternary catalyst (monolith)"
+          }
+        ],
+        [
+          {
+            "text": "Catalysts: number, volume (L) and main components"
+          },
+          {
+            "text": "1, 0.67, palladium-rhodium"
+          }
+        ],
+        [
+          {
+            "text": "Other devices: Form"
+          },
+          {
+            "text": "Exhaust gas recirculation system: Vehicles not equipped with a turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Exhaust pipe opening: location and orientation"
+          },
+          {
+            "text": "Rear right side of car body, right 5°."
+          }
+        ],
+        [
+          {
+            "text": "Alarm device : Display : Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Alarm device : Detection : Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Alarm devices: Detection units: Number of units"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Alarm devices: Detection unit: Mounting position"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Alarm devices: Detection unit: Operating temperature"
+          },
+          {
+            "text": "－"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Front lighting: Type"
+          },
+          {
+            "text": "W1343: Designated equipment, etc. -- except CUSTOM W1973: Designated equipment, etc. - excluding CUSTOM 100-62161: Designated equipment, etc. - CUSTOM"
+          }
+        ],
+        [
+          {
+            "text": "Front lights: number, color and performance"
+          },
+          {
+            "text": "For traveling: 2, white, 60W, for use with overtaking signal light...W1343 For passing: 2, white, 55W, for use with overtaking signal light...W1343 For traveling: 2, white, 55W, for use with overtaking signal light...W1973 For passing: 2, white, 35W, for use with overtaking signal light...W1973 For traveling: 2, white, 55W, for use with overtaking signal light...100-62161 For passing: 2, white, 35W, for use with overtaking signal light...100-62161"
+          }
+        ],
+        [
+          {
+            "text": "Front fog light: Model"
+          },
+          {
+            "text": "114-11697: Designated equipment, etc. - CUSTOM"
+          }
+        ],
+        [
+          {
+            "text": "Front fog lights: number, color and performance"
+          },
+          {
+            "text": "2, white, 19W"
+          }
+        ],
+        [
+          {
+            "text": "Side-illumination lamps: Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Side Illumination Lights: Color and Performance"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Car width lamps: Model"
+          },
+          {
+            "text": "W1343: Designated equipment, etc. -- except CUSTOM W1973: Designated equipment, etc. - excluding CUSTOM 100-62161: Designated equipment, etc. - CUSTOM"
+          }
+        ],
+        [
+          {
+            "text": "Width lamps: number, color and performance"
+          },
+          {
+            "text": "2, white, 5W - W1343, W1973 2, White, 1.6W, (LED, 1 pc) ... 100-62161"
+          }
+        ],
+        [
+          {
+            "text": "Number light: Type"
+          },
+          {
+            "text": "8010"
+          }
+        ],
+        [
+          {
+            "text": "Number lights: number and performance"
+          },
+          {
+            "text": "1, 5W"
+          }
+        ],
+        [
+          {
+            "text": "Tail light: Model"
+          },
+          {
+            "text": "W1400: Designated equipment, etc. - except CUSTOM W1399: Designated equipment, etc.--CUSTOM"
+          }
+        ],
+        [
+          {
+            "text": "Tail lights: number and performance"
+          },
+          {
+            "text": "2, 0.2W, (LED, 4 pcs.), for combined use with braking light ... W1400 2, 0.68W, (LED, 2 pcs) - W1399"
+          }
+        ],
+        [
+          {
+            "text": "Rear fog light: Model"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Rear fog lights: number and performance"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Parking lights: Front: Model"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Parking lights: front: number, color and performance"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Parking lights: Rear: Model"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Parking lights: Rear: Number and performance"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Braking light: Model"
+          },
+          {
+            "text": "W1400: Designated equipment, etc. - except CUSTOM W1399: Designated equipment, etc.--CUSTOM"
+          }
+        ],
+        [
+          {
+            "text": "Braking lights: number and performance"
+          },
+          {
+            "text": "2, 2.7W, (LED, 4 pcs.), for use with tail light ... W1400 2, 4.1W, (LED, 6 pcs) - W1399"
+          }
+        ],
+        [
+          {
+            "text": "Auxiliary braking light: Model"
+          },
+          {
+            "text": "1144-240: Designated equipment, etc. -- except CUSTOM W1857: Designated equipment, etc. - CUSTOM"
+          }
+        ],
+        [
+          {
+            "text": "Auxiliary braking lights: number and performance"
+          },
+          {
+            "text": "1, 0.6W, (LED, 4 pcs) - 1144-240 1, 2.3W, (LED, 8 pcs) - W1857"
+          }
+        ],
+        [
+          {
+            "text": "Retractable lamps: Model"
+          },
+          {
+            "text": "W1400: Designated equipment, etc. - except CUSTOM W1399: Designated equipment, etc.--CUSTOM"
+          }
+        ],
+        [
+          {
+            "text": "Retractable lamps: number and performance"
+          },
+          {
+            "text": "2, 16W"
+          }
+        ],
+        [
+          {
+            "text": "Direction Indicator : Flasher : Type"
+          },
+          {
+            "text": "IC type, pilot lamp type"
+          }
+        ],
+        [
+          {
+            "text": "Direction indicator: Front: Model"
+          },
+          {
+            "text": "W1343: Designated equipment, etc. -- except CUSTOM W1973: Designated equipment, etc. - excluding CUSTOM 100-62161: Designated equipment, etc. - CUSTOM"
+          }
+        ],
+        [
+          {
+            "text": "Direction indicators: Front: Number and performance"
+          },
+          {
+            "text": "2, 21W, 85 times/min, for use with emergency flashing indicator light"
+          }
+        ],
+        [
+          {
+            "text": "Direction indicator: Rear: Model"
+          },
+          {
+            "text": "W1400: Designated equipment, etc. - except CUSTOM W1399: Designated equipment, etc.--CUSTOM"
+          }
+        ],
+        [
+          {
+            "text": "Direction indicators: Rear: Number and performance"
+          },
+          {
+            "text": "2, 21W, for use with emergency flashing indicator light"
+          }
+        ],
+        [
+          {
+            "text": "Direction Indicator: Side: Front: Type"
+          },
+          {
+            "text": "P1704: Designated equipment, etc. -- except CUSTOM KT 17: Designated equipment, etc."
+          }
+        ],
+        [
+          {
+            "text": "Direction indicators: Side: Front: Number and performance"
+          },
+          {
+            "text": "2, 5W, for use with emergency flashing indicator light...P1704 2, 0.4 W, (LED, 3 pcs.), for use with emergency flashing indicator light ... KT 17"
+          }
+        ],
+        [
+          {
+            "text": "Direction Indicator: Side: Center: Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Direction indicators: Side: Center: Number and performance"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Direction indicator: Auxiliary: Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Direction indicators: Auxiliary: Number and performance"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Emergency flashing lights: Front: Type"
+          },
+          {
+            "text": "W1343...except CUSTOM W1973...except CUSTOM 100-62161･･･CUSTOM"
+          }
+        ],
+        [
+          {
+            "text": "Emergency flashing lights: Front: Number and performance"
+          },
+          {
+            "text": "Used with turn signals"
+          }
+        ],
+        [
+          {
+            "text": "Emergency flashing lights: Rear: Model"
+          },
+          {
+            "text": "W1400: Designated equipment, etc. - except CUSTOM W1399: Designated equipment, etc.--CUSTOM"
+          }
+        ],
+        [
+          {
+            "text": "Emergency flashing lights: Rear: Number and performance"
+          },
+          {
+            "text": "Used with turn signals"
+          }
+        ],
+        [
+          {
+            "text": "Emergency flashing lights: Side: Type"
+          },
+          {
+            "text": "P1704...except CUSTOM KT 17"
+          }
+        ],
+        [
+          {
+            "text": "Emergency flashing lights: Side: Number and performance"
+          },
+          {
+            "text": "Used with turn signals"
+          }
+        ],
+        [
+          {
+            "text": "Reflector: Front: Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Reflectors: Front: Number, color and performance"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Reflector: Rear: Type"
+          },
+          {
+            "text": "93-21003: Designated equipment, etc. -- except CUSTOM 53-19801: Designated equipment, etc.--CUSTOM"
+          }
+        ],
+        [
+          {
+            "text": "Reflectors: Rear: Number and performance"
+          },
+          {
+            "text": "2"
+          }
+        ],
+        [
+          {
+            "text": "Reflector: Side: Front: Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Reflectors: Side: Front: Number and performance"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Reflector: Side: Rear: Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Reflectors: Side: Rear: Number, Color & Performance"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Reflector: Side: Center: Type"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Reflectors: Side: Center: Number and performance"
+          },
+          {
+            "text": "－"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Alarm Sound Generator: Model and Type"
+          },
+          {
+            "text": "UCL-202, flat, electric, designated device, etc."
+          }
+        ],
+        [
+          {
+            "text": "Alarms: number and performance"
+          },
+          {
+            "text": "1, 100dB"
+          }
+        ],
+        [
+          {
+            "text": "Emergency Signaling Tools: Form"
+          },
+          {
+            "text": "Flame Cylinder (JIS)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Posterior Mirror: Left: Form"
+          },
+          {
+            "text": "collapsible"
+          }
+        ],
+        [
+          {
+            "text": "Posterior mirror: Left: Dimensions and radius of curvature (mm)"
+          },
+          {
+            "text": "Square, 126 x 154-1,000"
+          }
+        ],
+        [
+          {
+            "text": "Posterior Mirror: Right: Form"
+          },
+          {
+            "text": "collapsible"
+          }
+        ],
+        [
+          {
+            "text": "Posterior mirror: Right: Dimensions and radius of curvature (mm)"
+          },
+          {
+            "text": "Square, 126 x 154-1,000"
+          }
+        ],
+        [
+          {
+            "text": "Posterior Mirror : Indoor : Form"
+          },
+          {
+            "text": "dropout system"
+          }
+        ],
+        [
+          {
+            "text": "Posterior mirror: Indoor: Dimensions and radius of curvature (mm)"
+          },
+          {
+            "text": "Square, 56 x 216, flat Square, 55 x 216, flat"
+          }
+        ],
+        [
+          {
+            "text": "Last-minute confirmation mirror: Format"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Immediate front view mirror: Dimensions and radius of curvature (mm)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Direct Left Confirmation Mirror: Form"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Straight-left confirming mirror: Dimensions and radius of curvature (mm)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Window washers: number and performance"
+          },
+          {
+            "text": "2, Max. 67 and min. 47 times/min., Area A 100% and Area B 89%."
+          }
+        ],
+        [
+          {
+            "text": "Cleaning solution injectors: number and performance"
+          },
+          {
+            "text": "1, 170 mL/10 sec, 1.5 L"
+          }
+        ],
+        [
+          {
+            "text": "Defroster: Format"
+          },
+          {
+            "text": "Front Hot-water warm-air type After Hot wire type With side defroster"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Speedometer: Model"
+          },
+          {
+            "text": "7340-A1...except CUSTOM 7379-A1･･･CUSTOM"
+          }
+        ],
+        [
+          {
+            "text": "Speedometer: Format"
+          },
+          {
+            "text": "Transmission, electric"
+          }
+        ],
+        [
+          {
+            "text": "Speedometer: Performance"
+          },
+          {
+            "text": "Error, 40, 0-+5 km/h Display range, 0-140 km/h"
+          }
+        ],
+        [
+          {
+            "text": "Odometer: Format"
+          },
+          {
+            "text": "Transmission, electronic"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Maximum speed (km/h)"
+          },
+          {
+            "text": "130 (estimated)"
+          }
+        ],
+        [
+          {
+            "text": "Minimum turning radius (m)"
+          },
+          {
+            "text": "4.5・・・Models with 14-inch wheels 4.7・・・・Vehicles equipped with 15-inch wheels"
+          }
+        ],
+        [
+          {
+            "text": "Braking stop distance (m) (Initial speed (km/h))"
+          },
+          {
+            "text": "50（100）"
+          }
+        ],
+        [
+          {
+            "text": "Main brake: Braking force (N) (tread force (N))"
+          },
+          {
+            "text": "6950（90）/6.43m/s 2 (Calculated value) - Vehicles without turbocharger 7210（90）/6.43m/s 2 (Calculated value) ... Vehicles equipped with a turbocharger"
+          }
+        ],
+        [
+          {
+            "text": "Parking brake: Braking force (N) (Operation force (N))"
+          },
+          {
+            "text": "2130（430）/2.0m/s 2"
+          }
+        ],
+        [
+          {
+            "text": "Emission gas concentration: No-load condition: CO (%)"
+          },
+          {
+            "text": "0.1"
+          }
+        ],
+        [
+          {
+            "text": "Emission gas concentration: No-load condition: HC (ppm)"
+          },
+          {
+            "text": "100"
+          }
+        ],
+        [
+          {
+            "text": "Emission weight: fuel evaporative gas (g/test)"
+          },
+          {
+            "text": "2.0"
+          }
+        ],
+        [
+          {
+            "text": "Emission gas concentration: no-load rapid-acceleration black smoke (%) or no-load rapid-acceleration optical absorption coefficient (m) -1 ）"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Emission concentration: 4 mode, 8 mode: black smoke (%)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Rated output (kW)/engine rotation speed (rpm)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Fuel consumption rate at fixed location (km/L)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "City driving mode fuel consumption rate (km/L)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Intercity driving mode fuel consumption rate (km/L)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Driving range per charge (km)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "AC electric energy consumption rate (W-h/km)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Hybrid (CS) fuel consumption rate (km/L)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Plug-in (CD) fuel consumption rate (km/L)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Plug-in (CD) Range (km)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Electricity consumption rate (km/kwh)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Equivalent EV range (km)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Energy consumption per charge (kwh/times)"
+          },
+          {
+            "text": "－"
+          }
+        ],
+        [
+          {
+            "text": "Other"
+          },
+          {
+            "text": "－"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Idling stop mechanism"
+          },
+          {
+            "text": "having"
+          }
+        ],
+        [
+          {
+            "text": "Front lighting indicator lamp"
+          },
+          {
+            "text": "lighting ceremony"
+          }
+        ],
+        [
+          {
+            "text": "Front light beam direction adjuster"
+          },
+          {
+            "text": "Manual type・・・・W1343 Automatic type・・・W1973、100-62161"
+          }
+        ],
+        [
+          {
+            "text": "overtaking signal device"
+          },
+          {
+            "text": "Lighted, for use with front lighting"
+          }
+        ],
+        [
+          {
+            "text": "emergency braking light"
+          },
+          {
+            "text": "having"
+          }
+        ],
+        [
+          {
+            "text": "Other Lights"
+          },
+          {
+            "text": "Yes・・・CUSTOM"
+          }
+        ],
+        [
+          {
+            "text": "Shift lock device with key interlock"
+          },
+          {
+            "text": "electric"
+          }
+        ],
+        [
+          {
+            "text": "Shift lever backward position warning device"
+          },
+          {
+            "text": "acoustical"
+          }
+        ],
+        [
+          {
+            "text": "Automatic speed controller"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Forward obstacle collision mitigation control device for low speed"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Vehicle Stability Assist System"
+          },
+          {
+            "text": "having"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131205174051/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000330_jpn/web/html/G000330_jpn_Content.html",
+  "inOutline": true
+}

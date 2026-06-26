@@ -1,0 +1,1720 @@
+{
+  "id": "R000544",
+  "title": "CVT transmission removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM transmission",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000544",
+  "assets": [
+    "544_5.0_jpn_11582175_5.0_disp.png",
+    "544_5.0_jpn_11582176_5.0_disp.png",
+    "544_5.0_jpn_11582177_5.0_disp.png",
+    "544_5.0_jpn_11582178_5.0_disp.png",
+    "544_5.0_jpn_11582179_5.0_disp.png",
+    "544_5.0_jpn_11582180_5.0_disp.png",
+    "544_5.0_jpn_11582181_5.0_disp.png",
+    "544_5.0_jpn_11582182_5.0_disp.png",
+    "544_5.0_jpn_11582183_5.0_disp.png",
+    "544_5.0_jpn_11582184_5.0_disp.png",
+    "544_5.0_jpn_11582185_5.0_disp.png",
+    "544_5.0_jpn_11582186_5.0_disp.png",
+    "544_5.0_jpn_11582187_5.0_disp.png",
+    "544_5.0_jpn_11582188_5.0_disp.png",
+    "544_5.0_jpn_11582189_5.0_disp.png",
+    "544_5.0_jpn_11582190_5.0_disp.png",
+    "544_5.0_jpn_11582191_5.0_disp.png",
+    "544_5.0_jpn_11582192_5.0_disp.png",
+    "544_5.0_jpn_11582193_5.0_disp.png",
+    "544_5.0_jpn_11582194_5.0_disp.png",
+    "544_5.0_jpn_11582195_5.0_disp.png",
+    "544_5.0_jpn_11582196_5.0_disp.png",
+    "544_5.0_jpn_11582197_5.0_disp.png",
+    "544_5.0_jpn_11582198_5.0_disp.png",
+    "544_5.0_jpn_11582199_5.0_disp.png",
+    "544_5.0_jpn_11582200_5.0_disp.png",
+    "544_5.0_jpn_11582201_5.0_disp.png",
+    "544_5.0_jpn_11582202_5.0_disp.png",
+    "544_5.0_jpn_11582203_5.0_disp.png",
+    "544_5.0_jpn_11582204_5.0_disp.png",
+    "544_5.0_jpn_11582205_5.0_disp.png",
+    "544_5.0_jpn_11582206_5.0_disp.png",
+    "544_5.0_jpn_11582207_5.0_disp.png",
+    "544_5.0_jpn_11582208_5.0_disp.png",
+    "544_5.0_jpn_11582209_5.0_disp.png",
+    "544_5.0_jpn_11582210_5.0_disp.png",
+    "544_5.0_jpn_11582211_5.0_disp.png",
+    "544_5.0_jpn_11582212_5.0_disp.png",
+    "544_5.0_jpn_11582213_5.0_disp.png",
+    "544_5.0_jpn_11582214_5.0_disp.png",
+    "544_5.0_jpn_11582215_5.0_disp.png",
+    "544_5.0_jpn_11582216_5.0_disp.png",
+    "544_5.0_jpn_11582217_5.0_disp.png",
+    "544_5.0_jpn_11582218_5.0_disp.png",
+    "544_5.0_jpn_11582219_5.0_disp.png",
+    "544_5.0_jpn_11582220_5.0_disp.png",
+    "544_5.0_jpn_11582221_5.0_disp.png",
+    "544_5.0_jpn_11582222_5.0_disp.png",
+    "544_5.0_jpn_11582223_5.0_disp.png",
+    "544_5.0_jpn_11582224_5.0_disp.png",
+    "544_5.0_jpn_11582225_5.0_disp.png",
+    "544_5.0_jpn_11582226_5.0_disp.png",
+    "544_5.0_jpn_11582227_5.0_disp.png",
+    "544_5.0_jpn_11582228_5.0_disp.png",
+    "544_5.0_jpn_11582229_5.0_disp.png",
+    "544_5.0_jpn_11582230_5.0_disp.png",
+    "544_5.0_jpn_11582231_5.0_disp.png",
+    "544_5.0_jpn_11676648_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000640",
+      "label": "Steering joint disconnection",
+      "resolved": true
+    },
+    {
+      "id": "R000814",
+      "label": "Front bumper removal",
+      "resolved": true
+    },
+    {
+      "id": "R000842",
+      "label": "Front upper grille removal",
+      "resolved": true
+    },
+    {
+      "id": "R000846",
+      "label": "Cowl top removal",
+      "resolved": true
+    },
+    {
+      "id": "R002224",
+      "label": "12V battery removal",
+      "resolved": true
+    },
+    {
+      "id": "R000412",
+      "label": "Cars not equipped with a turbo charger",
+      "resolved": true
+    },
+    {
+      "id": "R000413",
+      "label": "Turbo Charger equipped vehicle",
+      "resolved": true
+    },
+    {
+      "id": "R000418",
+      "label": "Intercooler removal (turbo charger equipped vehicles)",
+      "resolved": true
+    },
+    {
+      "id": "R000553",
+      "label": "Replace control wires.",
+      "resolved": true
+    },
+    {
+      "id": "R000505",
+      "label": "Purge Control SOL.V. Removal",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Remove the front wheel.",
+      "resolved": true
+    },
+    {
+      "id": "R000850",
+      "label": "Front under cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000849",
+      "label": "Front splash guard removal",
+      "resolved": true
+    },
+    {
+      "id": "R000416",
+      "label": "Exhaust pipe/silencer removal",
+      "resolved": true
+    },
+    {
+      "id": "R000599",
+      "label": "Transfer removal (4WD vehicles)",
+      "resolved": true
+    },
+    {
+      "id": "R000644",
+      "label": "Tie rod end disconnect",
+      "resolved": true
+    },
+    {
+      "id": "R000666",
+      "label": "Stabilizer linkage disconnection (for vehicles equipped with stabilizer)",
+      "resolved": true
+    },
+    {
+      "id": "R000665",
+      "label": "Lower ball joint disconnect",
+      "resolved": true
+    },
+    {
+      "id": "R000865",
+      "label": "Subframe Tightening",
+      "resolved": true
+    },
+    {
+      "id": "R000864",
+      "label": "Anda Load Path Rod Tightening",
+      "resolved": true
+    },
+    {
+      "id": "R000543",
+      "label": "Transmission Fluid Refill",
+      "resolved": true
+    },
+    {
+      "id": "R000542",
+      "label": "Transmission Fluid Level Check",
+      "resolved": true
+    },
+    {
+      "id": "R000655",
+      "label": "Wheel alignment Inspection and adjustment",
+      "resolved": true
+    },
+    {
+      "id": "R000714",
+      "label": "VSA sensor Midpoint write",
+      "resolved": true
+    },
+    {
+      "id": "R000516",
+      "label": "Perform an actual vehicle test.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "CVT transmission removal"
+    },
+    {
+      "type": "paragraph",
+      "text": "*Specified commercial tools"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Garage jacks, rigid racks, and lifts should be securely applied in place.",
+        "For safety reasons, the removed wheels should be placed under the side sills behind the rigid rack.",
+        "Use fender covers to avoid scratching painted surfaces.",
+        "When disconnecting wiring, hold the coupler connector and disconnect gently to avoid disconnection. Also, make sure that cords and tubes do not become entangled or come into contact with other parts of the product."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Steering joint disconnection",
+      "refs": [
+        {
+          "id": "R000640",
+          "label": "Steering joint disconnection",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Hood Open"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582175_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Place the hood in the vertical position and secure with the hood open stay (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Front bumper removal",
+      "refs": [
+        {
+          "id": "R000814",
+          "label": "Front bumper removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Front upper grille removal",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front upper grille removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Cowl top removal",
+      "refs": [
+        {
+          "id": "R000846",
+          "label": "Cowl top removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. 12V battery removal",
+      "refs": [
+        {
+          "id": "R002224",
+          "label": "12V battery removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Reserve tank removal"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582176_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. 12V battery base removal"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582177_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Air cleaner removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the air cleaner."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000412",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000412",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000413",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000413",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Intercooler removal (turbo charger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000418",
+          "label": "Intercooler removal (turbo charger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. Air cleaner stay removal (for vehicles not equipped with turbo charger)"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582178_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove purge hose clamp (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the air cleaner stay (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "13. Intercooler stay removal (for vehicles equipped with turbo charger)"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582179_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove purge hose clamp (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the intercooler stay (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "14. Heater hose Stay removal"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582180_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove heater hose (A) from heater hose stay (B). Remove the heater hose stays."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "15. Transmission side control wire removal"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582181_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the snap pin (A) and pull out the control pin (B). Remove the control wire bracket (C) and separate the control wire (D) from the control lever (E)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not bend control wires more than necessary."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Inspect the bushings (F) at the control wire ends for detachment, wear, or other damage. If there is damage, check for Replace control wires.",
+      "refs": [
+        {
+          "id": "R000553",
+          "label": "Replace control wires.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "16. Engine wire harness removal"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582182_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582183_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582184_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582185_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "7",
+      "text": "Remove the harness cover (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "17. リレー ボックス ステイ 取外し"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582186_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Remove the relay box stay (B). Remove each harness clamp (C) on the relay box stay."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "18. Purge Control SOL.V. Removal",
+      "refs": [
+        {
+          "id": "R000505",
+          "label": "Purge Control SOL.V. Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "19. Sub Hangar Stay Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582187_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the sub hanger stay using the spacer (A) and bolt (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "20. Engine support hanger installation"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582188_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Temporarily assemble the engine support hanger (AAR-T1256-J00) and install it aligning it with the upper parts of the left and right dampers and the front bulkhead as shown in the figure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "21. Upper transmission case mounting bolt removal"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582189_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "22. Transmission mount removal"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582190_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the transmission ground cable terminal (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "23. Left Front Wheel Sensor Coupler Disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582191_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A) and remove it from the clamp (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "24. Lift Up"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "25. Remove front wheels on both sides"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "With the front wheels in the straight ahead position, both sides Remove the front wheel.",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Remove the front wheel.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "26. Transmission Fluid Extraction"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582192_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the drain bolt (A) and drain the transmission fluid."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "27. Front under cover removal",
+      "refs": [
+        {
+          "id": "R000850",
+          "label": "Front under cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "28. Front splash guard removal",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Front splash guard removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "29. Transmission Fluid Warmer Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582193_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect transmission fluid warmer (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11676648_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the O-ring (B) from the transmission fluid warmer (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "30. Solenoid wire harness coupler, driven pulley oil pressure sensor coupler Disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582194_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Cover the coupler with a rag, etc. and be very careful to prevent dust, oil, etc. from entering the coupler."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the harness clamp (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "31. Exhaust pipe/silencer removal",
+      "refs": [
+        {
+          "id": "R000416",
+          "label": "Exhaust pipe/silencer removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "32. Transfer removal (4WD vehicles)",
+      "refs": [
+        {
+          "id": "R000599",
+          "label": "Transfer removal (4WD vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "33. Tie rod end disconnect",
+      "refs": [
+        {
+          "id": "R000644",
+          "label": "Tie rod end disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "34. Stabilizer linkage disconnection (for vehicles equipped with stabilizer)",
+      "refs": [
+        {
+          "id": "R000666",
+          "label": "Stabilizer linkage disconnection (for vehicles equipped with stabilizer)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "35. Lower ball joint disconnect",
+      "refs": [
+        {
+          "id": "R000665",
+          "label": "Lower ball joint disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "36. Torque rod removal"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582195_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Place a plate on the transmission and support it with a transmission jack, and remove the torque rod (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not loosen the torque rod mounting bolt (B)."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When removing the transmission jack, lower it gradually as the engine moves forward."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "37. Subframe removal"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582196_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Support the sub-frame (A) with the transmission jack (B) by placing a square timber or similar object against the sub-frame (A). Remove the sub-frame mounting bolt (C). Remove the underload path mounting bolt (D). Remove the sub-frame."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "38. Transfer Breather Tube Assy. removal (4WD models)"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582197_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "39. Left side drive shaft inboard joint removal"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582198_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Hold the inboard joint (A) and pull it out horizontally from the differential."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to push the tool tip in too far, as this will damage the differential oil seal.",
+        "Be careful not to pull the differential oil seal out at an angle as this will damage the differential oil seal.",
+        "Do not pull the roller by holding the shaft part (B) because the roller will come off from the joint. If the roller comes off, remove the boot and reassemble."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "40. Right side drive shaft inboard joint removal (2WD models)"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582199_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Hold the inboard joint (A) and pull it out horizontally from the differential."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to push the tool tip in too far, as this will damage the differential oil seal.",
+        "Be careful not to pull the differential oil seal out at an angle as this will damage the differential oil seal.",
+        "Do not pull the roller by holding the shaft part (B) because the roller will come off from the joint. If the roller comes off, remove the boot and reassemble."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "41. Transmission Support"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "42. Stiffener removal"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582200_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "43. Torque converter disconnection"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582201_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the torque converter cover (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "44. Transmission Assy. removal"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582202_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the transmission case mounting bolts on the front side of the transmission."
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582203_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the transmission case mounting bolts on the rear side of the transmission."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to drop the torque converter."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "45. Torque converter removal"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582204_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the torque converter (A) and knock pin (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to connect wires and tubes incorrectly. Also, be sure that cords and tubes do not become entangled or come into contact with other parts."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Torque Converter Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582205_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install a new O-ring (B) on the torque converter (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Transmission Assy. installation"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582206_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Support the transmission with the transmission jack and install it in the cylinder block."
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582207_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Install the transmission case mounting bolts on the front side of the transmission."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Torque Converter Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582208_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn the crankshaft pulley to install the drive plate mounting bolts (A) (6 pcs.) and connect the drive plate to the torque converter."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Stiffener Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582209_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Tighten the stiffener (A) tightly to the cylinder block, transmission and oil pan, and temporarily tighten."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Left Side Drive Shaft Inboard Joint Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582210_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install a new set ring (B) on the inboard joint (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The drive shaft must be inserted horizontally to prevent damage to the differential oil seal.",
+        "Install carefully to prevent dust and other debris from entering the transmission."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Right Side Drive Shaft Inboard Joint Installation (2WD models)"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582211_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install a new set ring (B) on the inboard joint (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The drive shaft must be inserted horizontally to prevent damage to the differential oil seal.",
+        "Install carefully to prevent dust and other debris from entering the transmission."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Transfer Breather Tube Assy. installation (4WD models)"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582212_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Subframe Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582213_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Lift the sub-frame (A) up to the body by supporting it with the transmission jack (B) using a square timber, etc. Temporarily install the new subframe mounting bolts (C). Temporarily attach the underload path mounting bolts (D)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Subframe Tightening",
+      "refs": [
+        {
+          "id": "R000865",
+          "label": "Subframe Tightening",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Anda Load Path Rod Tightening",
+      "refs": [
+        {
+          "id": "R000864",
+          "label": "Anda Load Path Rod Tightening",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Torque Rod Temporary tightening"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582214_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Lay a plate on the transmission and support it with a transmission jack. Temporarily tighten the new mounting bolts (D). Remove the transmission jack."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install the torque rod and tighten the new mounting nut (A). When installing the bolt on the front sub-frame side, align the non-turn plate (B) of the bolt with the notch (C) in the guide section of the front sub-frame, insert the bolt and install the nut."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. Lower ball joint Connection",
+      "refs": [
+        {
+          "id": "R000665",
+          "label": "Lower ball joint Connection",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "13. Stabilizer link connection (for vehicles equipped with stabilizer)",
+      "refs": [
+        {
+          "id": "R000666",
+          "label": "Stabilizer link connection (for vehicles equipped with stabilizer)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "14. Tie Rod End Connection",
+      "refs": [
+        {
+          "id": "R000644",
+          "label": "Tie Rod End Connection",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "15. Transfer Install (4WD models)",
+      "refs": [
+        {
+          "id": "R000599",
+          "label": "Transfer Install (4WD models)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "16. Exhaust pipe/silencer installation",
+      "refs": [
+        {
+          "id": "R000416",
+          "label": "Exhaust pipe/silencer installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "17. Lift Down"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "18. Upper transmission case mounting bolt Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582215_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "19. Left Front Wheel Sensor Coupler Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582216_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the coupler (A) and attach it to the clamp (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Ensure that there is no rust, debris, oil, etc. in the coupler."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "20. Transmission Mount Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582217_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the transmission mount (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "21. Sub hanger stay removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "22. Purge Control SOL.V. Installation",
+      "refs": [
+        {
+          "id": "R000505",
+          "label": "Purge Control SOL.V. Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "23. Relay Box/Relay Box Stay Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582218_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install relay box stays (A) and relay box (B). Connect the coupler (C). Attach each harness clamp (D) to the relay box stay."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Ensure that there is no rust, debris, oil, etc. in the coupler."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "24. Engine Wire Harness Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582219_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the harness cover (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Ensure that there is no rust, debris, oil, etc. in the coupler."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582220_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Install the harness bracket (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Ensure that there is no rust, debris, oil, etc. in the coupler."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582221_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Install the harness bracket (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Ensure that there is no rust, debris, oil, etc. in the coupler."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "25. Transmission-side control wire installation"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582222_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply a thin coat of molybdenum grease to the inside of the control wire end bushing (A). Install the control wire bracket (B). Attach the snap pin (F) to the control pin. Install the snap pin (F) onto the control pin securely until the tip of the snap pin (G) comes out of the bottom of the guide (H) on the control lever."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Attach the control wire end with the bushing facing up to the control lever (C) and insert the control pin (D) to secure it in place."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Push the control pin into the hole (E) of the control lever until it hits the hole (B) and install it securely."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The hook (I) of the snap pin should rest on the chamfer (J) of the control pin hole."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "26. Heater Hose Stay Attached"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582223_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install heater hose stays (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "27. Air cleaner stay installed (for vehicles not equipped with turbo charger)"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582224_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the air cleaner stay (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "28. Intercooler stay installation (turbocharger-equipped vehicles)"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582225_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the intercooler stay (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "29. Air Cleaner Installation"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the air cleaner."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000412",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000412",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000413",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000413",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "30. Intercooler installation (Turbocharger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000418",
+          "label": "Intercooler installation (Turbocharger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "31. Lift Up"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "32. Torque Rod Tightening"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582226_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "33. Solenoid wire harness coupler, driven pulley oil pressure sensor coupler connection"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582227_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the harness clamp (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Connect the coupler (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Ensure that there is no rust, debris, oil, etc. in the coupler."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "34. Transmission Fluid Warmer Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582228_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582229_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Replace with new O-ring (A) and install transmission fluid warmer (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "35. Front splash guard installation",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Front splash guard installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "36. Front Under Cover Installation",
+      "refs": [
+        {
+          "id": "R000850",
+          "label": "Front Under Cover Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "37. Front wheel mounting on both sides",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel mounting on both sides",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "38. Lift Down"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "39. 12V Battery Base Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582230_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "40. Reserve tank installation"
+    },
+    {
+      "type": "figure",
+      "asset": "544_5.0_jpn_11582231_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "41. 12V battery installation",
+      "refs": [
+        {
+          "id": "R002224",
+          "label": "12V battery installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "42. Cowl Top Mounting",
+      "refs": [
+        {
+          "id": "R000846",
+          "label": "Cowl Top Mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "43. Front upper grille installation",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front upper grille installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "44. Front Bumper Mounting",
+      "refs": [
+        {
+          "id": "R000814",
+          "label": "Front Bumper Mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "45. Steering joint connection",
+      "refs": [
+        {
+          "id": "R000640",
+          "label": "Steering joint connection",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "46. Transmission Fluid Refill",
+      "refs": [
+        {
+          "id": "R000543",
+          "label": "Transmission Fluid Refill",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "47. Transmission Fluid Level Check",
+      "refs": [
+        {
+          "id": "R000542",
+          "label": "Transmission Fluid Level Check",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "48. Wheel alignment Inspection and adjustment",
+      "refs": [
+        {
+          "id": "R000655",
+          "label": "Wheel alignment Inspection and adjustment",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "49. VSA sensor Midpoint write",
+      "refs": [
+        {
+          "id": "R000714",
+          "label": "VSA sensor Midpoint write",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "50. Vehicle Tests"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply the parking brake and start the engine. Shift the select lever to each position three times to check the operation of the select lever and shift position indicator, and to check the adjustment of the control wires. Perform an actual vehicle test. ​",
+      "refs": [
+        {
+          "id": "R000516",
+          "label": "Perform an actual vehicle test.",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000544_jpn/web/html/R000544_jpn_Content.html",
+  "inOutline": true
+}

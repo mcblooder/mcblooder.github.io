@@ -1,0 +1,115 @@
+{
+  "id": "C001909",
+  "title": "Charging device structure description - Overview",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Charging device",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001909",
+  "assets": [
+    "1909_3.0_jpn_11242749_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Charging device structure description - Overview"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "The A.C. generator has a multi-stage variable output voltage according to the power consumption to reduce fuel consumption by controlling the output appropriately. A battery sensor attached to the negative terminal of the battery measures current/voltage, battery temperature, and internal battery resistance and sends signals to the PGM-FI ECU. Based on the signals, the PGM-FI ECU sends appropriate power generation commands to the A.C. generator to generate the necessary power."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Variable control may not be possible depending on vehicle conditions."
+    },
+    {
+      "type": "figure",
+      "asset": "1909_3.0_jpn_11242749_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "This A.C. generator records the following DTC at the time of failure, so please refer to the relevant DTC failure diagnosis."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "SAE DTC",
+            "header": true
+          },
+          {
+            "text": "Failure diagnosis detection items",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "P0562"
+          },
+          {
+            "text": "Charging device voltage low"
+          }
+        ],
+        [
+          {
+            "text": "P065A"
+          },
+          {
+            "text": "ACG failure"
+          }
+        ],
+        [
+          {
+            "text": "P1549"
+          },
+          {
+            "text": "Charging device voltage high"
+          }
+        ],
+        [
+          {
+            "text": "P16BB"
+          },
+          {
+            "text": "A.C. generator B terminal voltage low"
+          }
+        ],
+        [
+          {
+            "text": "P16E2"
+          },
+          {
+            "text": "LIN communication error (ACG)"
+          }
+        ],
+        [
+          {
+            "text": "P16E4"
+          },
+          {
+            "text": "ACG high temperature"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001909_jpn/web/html/C001909_jpn_Content.html",
+  "inOutline": true
+}

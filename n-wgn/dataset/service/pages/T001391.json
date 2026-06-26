@@ -1,0 +1,1016 @@
+{
+  "id": "T001391",
+  "title": "Honda Smart Key System Symptom-by-Symptom Failure Diagnosis Procedure",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001391",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R000951",
+      "label": "Honda Smart Key Inspection",
+      "resolved": true
+    },
+    {
+      "id": "R000952",
+      "label": "Honda Smart Key Replace Battery",
+      "resolved": true
+    },
+    {
+      "id": "T001399",
+      "label": "Cannot be locked/unlocked by smart operation (lock/unlock switch) or keyless entry operation",
+      "resolved": false
+    },
+    {
+      "id": "T001396",
+      "label": "Keyless Entry operation fails to lock/unlock door locks (normal for smart operation)",
+      "resolved": false
+    },
+    {
+      "id": "T001400",
+      "label": "Door locks cannot be locked/unlocked by smart operation (lock/unlock switch) (normal for keyless entry operation)",
+      "resolved": false
+    },
+    {
+      "id": "T001406",
+      "label": "Inspection of interior LF antenna and exterior LF antenna",
+      "resolved": true
+    },
+    {
+      "id": "T001398",
+      "label": "Smart operation does not turn ON mode (backup operation (when smart key contacts ENGINE START STOP switch) also does not turn ON mode)",
+      "resolved": false
+    },
+    {
+      "id": "T001397",
+      "label": "Smart operation does not turn ON mode, but backup operation (when smart key touches ENGINE START STOP switch) turns ON mode.",
+      "resolved": false
+    },
+    {
+      "id": "T001403",
+      "label": "Backup operation (when smart key contacts ENGINE START STOP switch) does not turn ON mode, but smart operation does.",
+      "resolved": false
+    },
+    {
+      "id": "T001393",
+      "label": "Engine does not start (power supply is normal)",
+      "resolved": false
+    },
+    {
+      "id": "R000447",
+      "label": "Register the PGM-FI ECU.",
+      "resolved": true
+    },
+    {
+      "id": "T001389",
+      "label": "Confirmation of DTC.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Honda Smart Key System Symptom-by-Symptom Failure Diagnosis Procedure"
+    },
+    {
+      "type": "paragraph",
+      "text": "The status of the Honda Smart Key system can be checked with a smart warning light."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lighting pattern 1 (Bulb check)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The smart warning light illuminates for approximately 2 seconds when the ignition is turned to the ON mode in order for the occupant to confirm that the smart warning light is not illuminated."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lighting pattern 2 (Fault detection in ignition OFF (LOCK) mode)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the Honda Smart Key System is determined to be faulty, the smart warning light will illuminate for approximately 3 seconds."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lighting pattern 3 (fault detection in ignition ON mode)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the Honda Smart Key system is determined to be faulty, the smart warning light will illuminate until it is restored."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the B-CAN bus is off, the warning light does not illuminate."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Check for DTCs before performing functional inspections, and if DTCs are present, diagnose the corresponding DTC failure."
+        },
+        {
+          "text": "If any abnormality is found during the functional inspection, follow the measures in the table."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "procedure",
+            "header": true
+          },
+          {
+            "text": "(data) item",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "Inspection method",
+            "header": true
+          },
+          {
+            "text": "How to deal with it",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "Honda smart key",
+            "rowspan": 2
+          },
+          {
+            "text": "operation check"
+          },
+          {
+            "text": "Verify that the LED on the Honda Smart Key illuminates when the lock/unlock button on the Honda Smart Key is pressed. Or, Honda Smart Key Inspection (1) The company shall",
+            "refs": [
+              {
+                "id": "R000951",
+                "label": "Honda Smart Key Inspection",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "If the LED does not light up, Honda Smart Key Replace Battery Do the following. If replacing the battery does not correct the symptom, replace the Honda Smart Key.",
+            "refs": [
+              {
+                "id": "R000952",
+                "label": "Honda Smart Key Replace Battery",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "Battery level check"
+          },
+          {
+            "text": "Select \"Honda Smart Key ECU\" from \"One Push Start System\" in HDS, then select \"System Information Select \"Smart Key Battery Voltage\" in \"System Information\" and check the Honda Smart Key battery voltage."
+          },
+          {
+            "text": "If the battery voltage is less than the specified voltage, Honda Smart Key Replace Battery Do.",
+            "refs": [
+              {
+                "id": "R000952",
+                "label": "Honda Smart Key Replace Battery",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "3",
+            "rowspan": 2
+          },
+          {
+            "text": "Check operation of door lock/unlock switch",
+            "colspan": 2
+          },
+          {
+            "text": "1. Select \"History Data\" of \"Honda Smart Key ECU\" from \"One Push Start System\" of HDS, Clear History\" is executed. 2. Press the lock/unlock button on each door/tailgate of the Honda Smart Key to lock/unlock. 3. Confirm that the history data for each door, \"door lock switch\" and \"door unlock switch\" change from \"not confirmed (NG)\" to \"confirmed (OK)\". Confirm that the history data for each door, \"door lock switch\" and \"door unlock switch\" change from \"unconfirmed (NG)\" to \"confirmed (OK)\"."
+          },
+          {
+            "text": "If it does not work properly, please refer to the symptom-based failure diagnosis \" Cannot be locked/unlocked by smart operation (lock/unlock switch) or keyless entry operation \", \" Keyless Entry operation fails to lock/unlock door locks (normal for smart operation) and \" Door locks cannot be locked/unlocked by smart operation (lock/unlock switch) (normal for keyless entry operation) Perform a failure diagnosis commensurate with one of the symptoms in \"1.",
+            "refs": [
+              {
+                "id": "T001399",
+                "label": "Cannot be locked/unlocked by smart operation (lock/unlock switch) or keyless entry operation",
+                "resolved": false
+              },
+              {
+                "id": "T001396",
+                "label": "Keyless Entry operation fails to lock/unlock door locks (normal for smart operation)",
+                "resolved": false
+              },
+              {
+                "id": "T001400",
+                "label": "Door locks cannot be locked/unlocked by smart operation (lock/unlock switch) (normal for keyless entry operation)",
+                "resolved": false
+              }
+            ],
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Inspect the operation of the LF antenna inside/outside the vehicle",
+            "colspan": 2
+          },
+          {
+            "text": "Inspection of interior LF antenna and exterior LF antenna (1) The company shall",
+            "refs": [
+              {
+                "id": "T001406",
+                "label": "Inspection of interior LF antenna and exterior LF antenna",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "ENGINE START STOP switch operation check 1 (smart operation)",
+            "colspan": 2
+          },
+          {
+            "text": "Hold the Honda Smart Key and verify that the ignition is in the ON mode or that the engine starts."
+          },
+          {
+            "text": "If the ignition is in the ON mode or the engine will not start, please refer to the symptom-based failure diagnosis \" Smart operation does not turn ON mode (backup operation (when smart key contacts ENGINE START STOP switch) also does not turn ON mode) \", \" Smart operation does not turn ON mode, but backup operation (when smart key touches ENGINE START STOP switch) turns ON mode. \", \" Backup operation (when smart key contacts ENGINE START STOP switch) does not turn ON mode, but smart operation does. \", \" Engine does not start (power supply is normal) Perform a failure diagnosis commensurate with one of the symptoms of 。",
+            "refs": [
+              {
+                "id": "T001398",
+                "label": "Smart operation does not turn ON mode (backup operation (when smart key contacts ENGINE START STOP switch) also does not turn ON mode)",
+                "resolved": false
+              },
+              {
+                "id": "T001397",
+                "label": "Smart operation does not turn ON mode, but backup operation (when smart key touches ENGINE START STOP switch) turns ON mode.",
+                "resolved": false
+              },
+              {
+                "id": "T001403",
+                "label": "Backup operation (when smart key contacts ENGINE START STOP switch) does not turn ON mode, but smart operation does.",
+                "resolved": false
+              },
+              {
+                "id": "T001393",
+                "label": "Engine does not start (power supply is normal)",
+                "resolved": false
+              }
+            ],
+            "rowspan": 2
+          }
+        ],
+        [
+          {
+            "text": "5"
+          },
+          {
+            "text": "ENGINE START STOP switch operation check 2 (backup operation)",
+            "colspan": 2
+          },
+          {
+            "text": "1. Remove the battery from the Honda Smart Key. 2. Retain the Honda Smart Key and enter the vehicle. 3. Press the ENGINE START STOP switch and confirm that the buzzer sounds and the ENGINE START STOP switch indicator lights. 4. When the Honda Smart Key has been authenticated, confirm that the ENGINE START STOP switch indicator changes from flashing to lit and the buzzer blows once. 5. Ensure that the ignition is in the ignition ON mode. If the brake pedal is not depressed, press the ENGINE START STOP switch once for ACC mode and twice for ON mode."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The status of the Honda Smart Key system can be checked via the immobilizer indicator."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lighting pattern 1 (normal)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If immobilizer verification is performed correctly when the ignition is in the ignition ON mode, the immobilizer indicator lights up after the ignition is in the ignition ON mode and turns off after verification is complete."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lighting pattern 2 (immobilizer mismatch)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the immobilizer is not properly matched when the ignition is in the ON mode, the immobilizer indicator will illuminate and then flash after the ignition is in the ON mode. After the ignition is turned OFF (LOCK) mode, the indicator will blink for 10 seconds and then turn off. the registration status of the Honda Smart Key and the status of the S-NET line can be checked by checking the system check."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before inspecting the Honda Smart Key System, the following items should be checked and, if applicable, the following actions should be taken. In addition, an interview shall be conducted to determine the circumstances of the non-operation of the system."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Inspect No. A4-1 (60A), No. A4-2 (50A), and No. A10 (10A) fuses in the relay box for blown fuses and connections."
+        },
+        {
+          "text": "Inspect No.C7 (7.5A), No.C11 (10A), No.C19 (15A) and No.C29 (7.5A) fuses in the fuse box for blown fuses and connections."
+        },
+        {
+          "text": "Check the connection of the coupler of the electronic steering lock."
+        },
+        {
+          "text": "Check the coupler connection of the ENGINE START STOP switch."
+        },
+        {
+          "text": "If equipped with a HAC remote control engine starter, check for proper installation."
+        },
+        {
+          "text": "Check the connections of each coupler in the fuse box."
+        },
+        {
+          "text": "Check for abnormalities in the DC-DC converter (check the DTC of the PGM-FI system)."
+        },
+        {
+          "text": "Perform ALL DTC CHECK in HDS, and if a DTC is displayed, diagnose the corresponding DTC failure."
+        },
+        {
+          "text": "Make sure the Honda Smart Key is not touching or covered by metal."
+        },
+        {
+          "text": "Ensure that the vehicle's 12V battery is sufficiently charged."
+        },
+        {
+          "text": "Inspect the battery in the Honda Smart Key and replace if necessary."
+        },
+        {
+          "text": "Make sure it is not stored with another Honda Smart Key."
+        },
+        {
+          "text": "Make sure the Honda Smart Key is not stored in a purse or other container with coins or other metal objects."
+        },
+        {
+          "text": "If the vehicle is equipped with equipment other than genuine equipment, deactivate the equipment."
+        },
+        {
+          "text": "If electrical components are connected to the S-NET line, remove the connected electrical components."
+        },
+        {
+          "text": "If a remote engine starter is installed, check that it is properly connected."
+        },
+        {
+          "text": "If there are facilities emitting strong radio waves in the vicinity, move to a new location."
+        },
+        {
+          "text": "Check to see that they are not being carried with communication devices such as cell phones, radios, or laptops."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the failure symptoms are not reproduced, check the HDS status log and system check, and diagnose the failure according to the table."
+        },
+        {
+          "text": "When checking the status log, check the number of log counts and diagnose failures in the order of the number of detections."
+        },
+        {
+          "text": "The HDS menu is divided into the Honda Smart Key ECU and the Backup Control Unit, so check the system information for each."
+        },
+        {
+          "text": "Although the HDS has a separate menu screen, the Honda Smart Key Control Unit and Backup Control Unit are built into the MICU."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "System Check No.",
+            "header": true
+          },
+          {
+            "text": "probable cause",
+            "header": true
+          },
+          {
+            "text": "How to deal with it",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "A-1"
+          },
+          {
+            "text": "Honda Smart Key Not Registered"
+          },
+          {
+            "text": "Honda Smart Key Registration do",
+            "refs": [
+              {
+                "id": "R000951",
+                "label": "Honda Smart Key Registration",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "A-2 A-3"
+          },
+          {
+            "text": "Low battery in Honda Smart Key Honda Smart Key Not Registered Honda Smart Key failure Communication failure between Honda Smart Key and LF antenna"
+          },
+          {
+            "text": "Honda Smart Key Registration do LF Antenna Inspection do Check antenna levels with HDS",
+            "refs": [
+              {
+                "id": "R000951",
+                "label": "Honda Smart Key Registration",
+                "resolved": true
+              },
+              {
+                "id": "T001406",
+                "label": "LF Antenna Inspection",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "B-1 B-2"
+          },
+          {
+            "text": "PGM-FI ECU not registered Poor communication between PGM-FI ECU and MICU"
+          },
+          {
+            "text": "Register the PGM-FI ECU. Confirmation of DTC.",
+            "refs": [
+              {
+                "id": "R000447",
+                "label": "Register the PGM-FI ECU.",
+                "resolved": true
+              },
+              {
+                "id": "T001389",
+                "label": "Confirmation of DTC.",
+                "resolved": true
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "System Check No.",
+            "header": true
+          },
+          {
+            "text": "probable cause",
+            "header": true
+          },
+          {
+            "text": "How to deal with it",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "D-1"
+          },
+          {
+            "text": "PGM-FI ECU failure MICU failure Short circuit in code between PGM-FI ECU and MICU"
+          },
+          {
+            "text": "Inspect the S-NET line for short circuits. Confirmation of DTC.",
+            "refs": [
+              {
+                "id": "T001389",
+                "label": "Confirmation of DTC.",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "D-3"
+          },
+          {
+            "text": "Disconnection of S-NET line Blown power fuse or poor connection in PGM-FI ECU MICU failure PGM-FI ECU failure"
+          },
+          {
+            "text": "Confirmation of DTC. Inspect the S-NET line for breaks. Check the fuses.",
+            "refs": [
+              {
+                "id": "T001389",
+                "label": "Confirmation of DTC.",
+                "resolved": true
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "System Check No.",
+            "header": true
+          },
+          {
+            "text": "probable cause",
+            "header": true
+          },
+          {
+            "text": "How to deal with it",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "A-1"
+          },
+          {
+            "text": "Honda Smart Key Not Registered"
+          },
+          {
+            "text": "Honda Smart Key Registration do",
+            "refs": [
+              {
+                "id": "R000951",
+                "label": "Honda Smart Key Registration",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "A-2 A-3"
+          },
+          {
+            "text": "Honda Smart Key Not Registered Honda Smart Key failure Communication failure between Honda Smart Key and LF antenna Communication failure between Honda Smart Key and ENGINE START STOP switch"
+          },
+          {
+            "text": "Honda Smart Key Registration do LF Antenna Inspection do Check antenna levels with HDS",
+            "refs": [
+              {
+                "id": "R000951",
+                "label": "Honda Smart Key Registration",
+                "resolved": true
+              },
+              {
+                "id": "T001406",
+                "label": "LF Antenna Inspection",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "B-1 B-2"
+          },
+          {
+            "text": "PGM-FI ECU not registered Poor communication between PGM-FI ECU and MICU"
+          },
+          {
+            "text": "Register the PGM-FI ECU. Confirmation of DTC.",
+            "refs": [
+              {
+                "id": "R000447",
+                "label": "Register the PGM-FI ECU.",
+                "resolved": true
+              },
+              {
+                "id": "T001389",
+                "label": "Confirmation of DTC.",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "D-1"
+          },
+          {
+            "text": "Short circuit in code between PGM-FI ECU and MICU MICU failure PGM-FI ECU failure"
+          },
+          {
+            "text": "Confirmation of DTC. Inspect the S-NET line for short circuits.",
+            "refs": [
+              {
+                "id": "T001389",
+                "label": "Confirmation of DTC.",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "D-3"
+          },
+          {
+            "text": "Blown power fuse or poor connection in PGM-FI ECU Disconnection of S-NET line MICU failure PGM-FI ECU failure"
+          },
+          {
+            "text": "Confirmation of DTC. Inspect the S-NET line for breaks. Check the fuses.",
+            "refs": [
+              {
+                "id": "T001389",
+                "label": "Confirmation of DTC.",
+                "resolved": true
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Check the history of when a problem occurred in HDS and address it based on the table."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Failure Symptoms",
+            "header": true
+          },
+          {
+            "text": "Failure history",
+            "header": true
+          },
+          {
+            "text": "Inspection part",
+            "header": true
+          },
+          {
+            "text": "Items to be checked with the user",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Not unlocked by smart operation (lock/unlock button)",
+            "rowspan": 3
+          },
+          {
+            "text": "Unlock ban period"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Unlocking Inhibit Time in Customized Settings Time from lock operation to unlock operation with smart operation"
+          }
+        ],
+        [
+          {
+            "text": "key not detected"
+          },
+          {
+            "text": "Honda Smart Key Check Battery Voltage"
+          },
+          {
+            "text": "Is a passenger who does not have the Honda Smart Key operating the unlock? Possibility of unlock operation due to tampering Are there any sources of strong magnetic fields such as high-voltage power lines, antennas, etc. in the vicinity of the confirmed symptom location? Honda Smart Key Carrying Location Honda Smart Key Carrying Status"
+          }
+        ],
+        [
+          {
+            "text": "unregistered key"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Are you holding a Honda Smart Key other than the registered Honda Smart Key? Was there a vehicle of the same type or user nearby?"
+          }
+        ],
+        [
+          {
+            "text": "Not locked by smart operation (lock/unlock button)",
+            "rowspan": 6
+          },
+          {
+            "text": "Keys are detected in the car"
+          },
+          {
+            "text": "Honda Smart Key Check Battery Voltage"
+          },
+          {
+            "text": "Was it not in ON mode?"
+          }
+        ],
+        [
+          {
+            "text": "Driver's side door opens"
+          },
+          {
+            "text": "Inspect driver door switches"
+          },
+          {
+            "text": "Was the driver's side door half-open?"
+          }
+        ],
+        [
+          {
+            "text": "All doors open except the driver's side door."
+          },
+          {
+            "text": "Inspect all door switches except driver's door."
+          },
+          {
+            "text": "Was the door other than the driver's side of the car half-open?"
+          }
+        ],
+        [
+          {
+            "text": "IG1 is ON"
+          },
+          {
+            "text": "For vehicles equipped with a remote engine starter, check the remote engine starter."
+          },
+          {
+            "text": "Is the ignition in the OFF (LOCK) mode? Was the indicator in the combination meter visible?"
+          }
+        ],
+        [
+          {
+            "text": "key not detected"
+          },
+          {
+            "text": "Honda Smart Key Check Battery Voltage Inspect lock/unlock switch"
+          },
+          {
+            "text": "Is a passenger who does not have the Honda Smart Key operating the unlock? Possibility of unlock operation due to tampering Are there any sources of strong magnetic fields such as high-voltage power lines, antennas, etc. in the vicinity of the confirmed symptom location? Honda Smart Key Carrying Location Honda Smart Key Carrying Status"
+          }
+        ],
+        [
+          {
+            "text": "unregistered key"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Are you holding a Honda Smart Key other than the registered Honda Smart Key? Same type of vehicle, and whether the user was in the vicinity Have you used a lost Honda Smart Key in the past?"
+          }
+        ],
+        [
+          {
+            "text": "Door cannot be locked by keyless operation.",
+            "rowspan": 4
+          },
+          {
+            "text": "Driver's side door opens"
+          },
+          {
+            "text": "Inspect driver door switches"
+          },
+          {
+            "text": "Was the driver's side door half-open?"
+          }
+        ],
+        [
+          {
+            "text": "All doors open except the driver's side door."
+          },
+          {
+            "text": "Inspect all door switches except driver's door."
+          },
+          {
+            "text": "Was the door other than the driver's side of the car half-open?"
+          }
+        ],
+        [
+          {
+            "text": "IG1 is ON"
+          },
+          {
+            "text": "For vehicles equipped with a remote engine starter, check the remote engine starter."
+          },
+          {
+            "text": "Is the ignition in the OFF (LOCK) mode? Was the indicator in the combination meter visible?"
+          }
+        ],
+        [
+          {
+            "text": "key matching error"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Is the keyless operation being performed many times in the unreceived area of the LF antenna (the keyless operation is restored after 5 or more consecutive keyless operations in the received area)?"
+          }
+        ],
+        [
+          {
+            "text": "Unable to unlock door with keyless operation",
+            "rowspan": 2
+          },
+          {
+            "text": "IG1 is ON"
+          },
+          {
+            "text": "For vehicles equipped with a remote engine starter, check the remote engine starter."
+          },
+          {
+            "text": "Is the ignition in the OFF (LOCK) mode? Was the indicator in the combination meter visible?"
+          }
+        ],
+        [
+          {
+            "text": "key matching error"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Is the keyless operation being performed many times in the unreceived area of the LF antenna (the keyless operation is restored after 5 or more consecutive keyless operations in the received area)?"
+          }
+        ],
+        [
+          {
+            "text": "Door cannot be locked or unlocked by both smart operation (lock/unlock button) and keyless operation",
+            "rowspan": 2
+          },
+          {
+            "text": "+B BACK UP fuse blown"
+          },
+          {
+            "text": "Inspect No. A4-1 (60A), A4-2 (50A), and No. A10 (10A) fuses in relay box. Inspect No. C-7 (7.5A), No. C19 (15A), and No. C29 (7.5A) fuses in the fuse box Inspect IG1 MICU, IG1 FUEL PUMP, and ACC lines"
+          },
+          {
+            "text": "Check to see if it is not operated after ACC is automatically turned off (once it is turned back on by turning it to ON mode) ENGINE START STOP switch is pressed to return to ON mode"
+          }
+        ],
+        [
+          {
+            "text": "Battery voltage LOW"
+          },
+          {
+            "text": "Vehicle battery inspection"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Door can be locked and unlocked by smart operation (lock/unlock button), but door cannot be locked and unlocked by keyless operation"
+          },
+          {
+            "text": "Disable functionality through customization"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Check Smart Entry functionality in Customized Settings"
+          }
+        ],
+        [
+          {
+            "text": "Engine will not start"
+          },
+          {
+            "text": "Battery voltage LOW"
+          },
+          {
+            "text": "Vehicle battery inspection"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Engine does not start by smart operation (lock/unlock button)"
+          },
+          {
+            "text": "Disable functionality through customization"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "Check Smart Entry functionality in Customized Settings"
+          }
+        ],
+        [
+          {
+            "text": "The engine does not start with the backup operation (touching the Honda Smart Key to the ENGINE START STOP switch)"
+          },
+          {
+            "text": "IGN TRX signal error"
+          },
+          {
+            "text": "Inspection of IGN TRX line Electronic Steering Lock Input Inspection"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "ACC or ON mode is not activated when the Honda Smart Key is in contact with the ENGINE START STOP switch"
+          },
+          {
+            "text": "IGN TRX signal error"
+          },
+          {
+            "text": "Inspection of IGN TRX line Electronic Steering Lock Input Inspection"
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "No Key\" is displayed on the combination meter or the lost key warning blows."
+          },
+          {
+            "text": "Lost key warning output"
+          },
+          {
+            "text": "Honda Smart Key Check Battery Voltage Check to see if any electrical components other than genuine Honda components that generate noise are installed near the fuse box."
+          },
+          {
+            "text": "Where to hold the Honda Smart Key after starting the engine"
+          }
+        ],
+        [
+          {
+            "text": "After unlocking by keyless operation, it locked itself."
+          },
+          {
+            "text": "Keyless relocking operation"
+          },
+          {
+            "text": "Inspect each door switch"
+          },
+          {
+            "text": "Whether the door was opened after the door lock was unlocked Time to relock in customized settings"
+          }
+        ],
+        [
+          {
+            "text": "Locked by itself after unlocking by smart operation."
+          },
+          {
+            "text": "Smart Relock Operation"
+          },
+          {
+            "text": "Inspect each door switch"
+          },
+          {
+            "text": "Whether the door was opened after the door lock was unlocked Time to relock in customized settings"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131120135106/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001391_jpn/web/html/T001391_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,121 @@
+{
+  "id": "R000382",
+  "title": "Bleed air from hydraulic tappets",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder head",
+  "system": "Rocker Arm Assy.",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000382",
+  "assets": [
+    "382_3.0_jpn_11034242_3.0_disp.png",
+    "382_3.0_jpn_11034244_3.0_disp.png",
+    "382_3.0_jpn_11034245_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002131",
+      "label": "Camshaft removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Bleed air from hydraulic tappets"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Camshaft removal",
+      "refs": [
+        {
+          "id": "R002131",
+          "label": "Camshaft removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Hydraulic tappet removal"
+    },
+    {
+      "type": "figure",
+      "asset": "382_3.0_jpn_11034242_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the rocker arm (A) and hydraulic tappet (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Hydraulic tappet Air bleed"
+    },
+    {
+      "type": "figure",
+      "asset": "382_3.0_jpn_11034244_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Place hydraulic tappet (A) in new engine oil. Press the check ball (B) to release air bubbles from the hydraulic tappet. Repeat this operation slowly until no air bubbles appear."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Use recommended engine oil."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When bleeding air, insert a 0.8 mm round rod (C) that will not damage the check ball."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Hydraulic tappet mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "382_3.0_jpn_11034245_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the rocker arm (A) and hydraulic tappet (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The rocker arm must be mounted in such a way that it does not tilt."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000382_jpn/web/html/R000382_jpn_Content.html",
+  "inOutline": true
+}

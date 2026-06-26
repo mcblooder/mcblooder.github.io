@@ -1,0 +1,39 @@
+{
+  "id": "E001621",
+  "title": "About the display of the overall circuit diagram",
+  "category": "service",
+  "packageKind": "EWD",
+  "packageKindName": "Electrical Wiring (manual)",
+  "section": "NA",
+  "sectionCode": "0",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/E001621",
+  "assets": [
+    "1621_3.0_jpn_11050404_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "About the display of the overall circuit diagram"
+    },
+    {
+      "type": "paragraph",
+      "text": "Circuit diagrams at the end of this document are color-coded into power (red), ground (blue), and other (black) regardless of the actual wire color. Please use it for input/output inspection at the time of failure diagnosis."
+    },
+    {
+      "type": "figure",
+      "asset": "1621_3.0_jpn_11050404_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_EWD_20131015120007/Contents/jpn/60T6GD00_2014/EWD/SCT/SC/SYS/E001621_jpn/web/html/E001621_jpn_Content.html",
+  "inOutline": true
+}

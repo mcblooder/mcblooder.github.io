@@ -1,0 +1,167 @@
+{
+  "id": "R000882",
+  "title": "A/C compressor Clutch inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "A/C Compressor",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000882",
+  "assets": [
+    "882_5.0_jpn_11580989_5.0_disp.png",
+    "882_5.0_jpn_11580990_5.0_disp.png",
+    "882_5.0_jpn_11580991_5.0_disp.png",
+    "882_5.0_jpn_11580992_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000883",
+      "label": "Replace the clutch set.",
+      "resolved": true
+    },
+    {
+      "id": "R000884",
+      "label": "Replace the thermal protector.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "A/C compressor Clutch inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Clutch Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "882_5.0_jpn_11580989_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect the painted surface of the armature for discoloration, scuffing, or external damage. In case of malfunction, Replace the clutch set.",
+      "refs": [
+        {
+          "id": "R000883",
+          "label": "Replace the clutch set.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Rotate the rotor pulley and inspect for bearing rattling or catching. In case of malfunction, Replace the clutch set.",
+      "refs": [
+        {
+          "id": "R000883",
+          "label": "Replace the clutch set.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Clearance between armature and rotor pulley Check"
+    },
+    {
+      "type": "figure",
+      "asset": "882_5.0_jpn_11580990_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "The clearance between the armature (A) and the rotor pulley (B) is measured with a sickness gauge over the entire circumference while the rotor pulley is rotating. To adjust the clearance The armature is removed and shims (0.1, 0.2, 0.4, 0.5 mm) are combined.",
+      "refs": [
+        {
+          "id": "R000883",
+          "label": "The armature is removed and shims (0.1, 0.2, 0.4, 0.5 mm) are combined.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Clearance: The gap between the"
+          },
+          {
+            "text": "0.35－0.65mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Thermal protector continuity Check"
+    },
+    {
+      "type": "figure",
+      "asset": "882_5.0_jpn_11580991_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the thermal protector from the field coil connector and check for continuity between the thermal protector terminals. If there is no continuity, Replace the thermal protector.",
+      "refs": [
+        {
+          "id": "R000884",
+          "label": "Replace the thermal protector.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Field Coil continuity Check"
+    },
+    {
+      "type": "figure",
+      "asset": "882_5.0_jpn_11580992_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply a circuit tester to the field coil terminals and compressor body to measure resistance. If it deviates from the standard value, Replace field coils.",
+      "refs": [
+        {
+          "id": "R000883",
+          "label": "Replace field coils.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "3.85－4.15Ω（20°C）"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000882_jpn/web/html/R000882_jpn_Content.html",
+  "inOutline": true
+}

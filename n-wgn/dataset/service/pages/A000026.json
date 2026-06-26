@@ -1,0 +1,351 @@
+{
+  "id": "A000026",
+  "title": "DTC Explanation: P0201, P0202, P0203, P21CF, P21D0, P21D1",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000026",
+  "assets": [
+    "26_3.0_jpn_11394634_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0201, P0202, P0203, P21CF, P21D0, P21D1"
+    },
+    {
+      "type": "dtc",
+      "code": "P0201",
+      "text": "DTC P0201: No.1 Injector circuit failure DTC P0202: No.2 Injector circuit failure DTC P0203: No.3 Injector circuit failure DTC P21CF: No.1 Injector circuit failure (secondary) DTC P21DF: No.2 Injector circuit failure (secondary) DTC P21D1: No.3 Injector circuit failure (secondary)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "26_3.0_jpn_11394634_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fuel injectors supply fuel to the engine under the control of the PGM-FI ECU; the fuel injectors are driven by ON/OFF drive commands output from the PGM-FI ECU for optimal fuel injection. The fuel injector operation status is monitored by the return circuit inside the PGM-FI ECU. If the return signal from the fuel injector does not change in response to a drive command for a set number of times, the PGM-FI ECU judges a failure and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "At least 5 seconds (when idling)"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1D/C (single detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "12V battery voltage [battery voltage]"
+          },
+          {
+            "text": "10V"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine condition"
+          },
+          {
+            "text": "in use",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "P0335､ P0339､ P0340､ P0344",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Other"
+          },
+          {
+            "text": "Except during deceleration fuel cut",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the return signal from the fuel injectors (counted once per engine cycle) remains unchanged for more than 27 cycles."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "paragraph",
+      "text": "P0201"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Disconnection of code (PINJ1 line) between PGM-FI ECU and NO.1 fuel injector (primary)"
+        },
+        {
+          "text": "Ground fault in code (PINJ1 line) between PGM-FI ECU and NO.1 fuel injector (primary)"
+        },
+        {
+          "text": "Short circuit in power supply code (PINJ1 line) between PGM-FI ECU and NO.1 fuel injector (primary)"
+        },
+        {
+          "text": "NO.1 Fuel injector (primary) cord (power supply line) disconnected"
+        },
+        {
+          "text": "NO.1 Fuel injector (primary) failure"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "P0202"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Disconnection of code (PINJ2 line) between PGM-FI ECU and NO.2 fuel injector (primary)"
+        },
+        {
+          "text": "Ground fault in code (PINJ2 line) between PGM-FI ECU and NO.2 fuel injector (primary)"
+        },
+        {
+          "text": "Short circuit in power supply cord (PINJ2 line) between PGM-FI ECU and NO.2 fuel injector (primary)"
+        },
+        {
+          "text": "NO.2 Fuel injector (primary) cord (power supply line) disconnected"
+        },
+        {
+          "text": "NO.2 Fuel injector (primary) failure"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "P0203"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Disconnection of code (PINJ3 line) between PGM-FI ECU and NO.3 fuel injector (primary)"
+        },
+        {
+          "text": "Ground fault in code (PINJ3 line) between PGM-FI ECU and NO.3 fuel injector (primary)"
+        },
+        {
+          "text": "Short-circuit in the power supply cord (PINJ3 line) between the PGM-FI ECU and NO.3 fuel injector (primary)."
+        },
+        {
+          "text": "NO.3 Fuel injector (primary) cord (power supply line) disconnected"
+        },
+        {
+          "text": "NO.3 Fuel injector (primary) failure"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "P21CF"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Disconnection of code (PINJ1 line) between PGM-FI ECU and NO.1 fuel injector (secondary)"
+        },
+        {
+          "text": "Ground fault in code (PINJ1 line) between PGM-FI ECU and NO.1 fuel injector (secondary)"
+        },
+        {
+          "text": "Short circuit in power supply cord (PINJ1 line) between PGM-FI ECU and NO.1 fuel injector (secondary)"
+        },
+        {
+          "text": "NO.1 Fuel injector (secondary) cord (power supply line) disconnected"
+        },
+        {
+          "text": "NO.1 Fuel injector (secondary) failure"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "P21D0"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Disconnection of code (PINJ2 line) between PGM-FI ECU and NO.2 fuel injector (secondary)"
+        },
+        {
+          "text": "Ground fault in code (PINJ2 line) between PGM-FI ECU and NO.2 fuel injector (secondary)"
+        },
+        {
+          "text": "Short circuit in power supply cord (PINJ2 line) between PGM-FI ECU and NO.2 fuel injector (secondary)"
+        },
+        {
+          "text": "NO.2 Fuel injector (secondary) cord (power supply line) disconnected"
+        },
+        {
+          "text": "NO.2 Fuel injector (secondary) failure"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "P21D1"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Disconnection of code (PINJ3 line) between PGM-FI ECU and NO.3 fuel injector (secondary)"
+        },
+        {
+          "text": "Ground fault in code (PINJ3 line) between PGM-FI ECU and NO.3 fuel injector (secondary)"
+        },
+        {
+          "text": "Short circuit in power supply cord (PINJ3 line) between PGM-FI ECU and NO.3 fuel injector (secondary)"
+        },
+        {
+          "text": "NO.3 Fuel injector (secondary) cord (power supply line) disconnected"
+        },
+        {
+          "text": "NO.3 Fuel injector (secondary) failure"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "be common"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to be faulty, the PGM-FI warning light comes on and the temporary DTC, DTC and freeze data are stored in the PGM-FI ECU memory."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000026_jpn/web/html/A000026_jpn_Content.html",
+  "inOutline": true
+}

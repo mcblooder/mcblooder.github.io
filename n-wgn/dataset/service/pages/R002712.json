@@ -1,0 +1,146 @@
+{
+  "id": "R002712",
+  "title": "Front Seat Cushion Trim Cover/Pad Removal/Removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "sheet",
+  "system": "Front Seat",
+  "subtitle": "",
+  "dgName": "Passenger seat swivel seat specification model",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002712",
+  "assets": [
+    "2712_3.0_jpn_11337256_2.0_disp.png",
+    "2712_3.0_jpn_11337257_3.0_disp.png",
+    "2712_3.0_jpn_11337258_3.0_disp.png",
+    "2712_3.0_jpn_11337259_2.0_disp.png",
+    "2712_3.0_jpn_11370734_3.0_disp.png",
+    "2712_3.0_jpn_11370735_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002711",
+      "label": "Remove front seat back/cushion assembly.",
+      "resolved": true
+    },
+    {
+      "id": "R000808",
+      "label": "Front seat belt buckle removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front Seat Cushion Trim Cover/Pad Removal/Removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If there are components of the SRS airbag system in the vicinity, refer to the work precautions and configuration drawings described for the SRS airbag system before proceeding."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Remove front seat back/cushion assembly.",
+      "refs": [
+        {
+          "id": "R002711",
+          "label": "Remove front seat back/cushion assembly.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front seat belt buckle removal",
+      "refs": [
+        {
+          "id": "R000808",
+          "label": "Front seat belt buckle removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Remove front seat cushion trim cover/pad"
+    },
+    {
+      "type": "figure",
+      "asset": "2712_3.0_jpn_11370734_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the bolt. While holding the seat cushion assembly (A), lift it upward and disconnect the lock cable (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "2712_3.0_jpn_11370735_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Disconnect the lock cable (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "2712_3.0_jpn_11337256_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Turn up the seat cushion trim cover (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "2712_3.0_jpn_11337257_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Remove the hook (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "2712_3.0_jpn_11337258_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "Separate the front seat cushion trim cover/pad (A) from the cushion frame (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "2712_3.0_jpn_11337259_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "7",
+      "text": "Remove the hook (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002712_jpn/web/html/R002712_jpn_Content.html",
+  "inOutline": true
+}

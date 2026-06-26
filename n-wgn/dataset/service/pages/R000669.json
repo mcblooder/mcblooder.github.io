@@ -1,0 +1,131 @@
+{
+  "id": "R000669",
+  "title": "and inspection of front damper",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "suspension",
+  "sectionCode": "B",
+  "subsection": "Front Suspension",
+  "system": "NA Disassembly assembly",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000669",
+  "assets": [
+    "669_3.0_jpn_11035766_3.0_disp.png",
+    "669_3.0_jpn_11035767_3.0_disp.png",
+    "669_3.0_jpn_11035768_3.0_disp.png",
+    "669_3.0_jpn_11035769_3.0_disp.png",
+    "669_3.0_jpn_11035770_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Disassembly, assembly, and inspection of front damper"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front Damper Development"
+    },
+    {
+      "type": "figure",
+      "asset": "669_3.0_jpn_11035766_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Disassemble the damper assembly referring to the development drawing."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front damper disassembly"
+    },
+    {
+      "type": "figure",
+      "asset": "669_3.0_jpn_11035767_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Attach the damper assembly (A) to the coil spring compressor (commercial tool) (B) and compress the spring. Hold the damper rod (D) with the hexagonal wrench (C) and remove the nut (E). Remove the damper assembly from the coil spring compressor and disassemble the damper assembly referring to the development drawing."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not compress the spring more than necessary."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front damper Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "669_3.0_jpn_11035768_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the nut onto the rod."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Push the damper rod in by hand as shown in the figure and check if it extends naturally at a constant speed when the force is released. If the rod does not extend naturally, the damper unit should be replaced because the filled gas is leaking. Also, inspect for oil leakage, abnormal noise, deformation, etc."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The damper unit should be disposed of after venting the gas."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Referring to the development diagram, assemble each disassembled part."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front damper assembly"
+    },
+    {
+      "type": "figure",
+      "asset": "669_3.0_jpn_11035769_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Assemble bump stop rubber and damper bearing to upper spring seat. Place the upper spring seat with assembled parts on top of the spring."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Set the spring in the coil spring compressor (A) and compress it lightly. Insert the damper unit (B) under the compressed spring. Align the lower end face (D) of the spring with the stepped lower seat (C) of the damper unit."
+    },
+    {
+      "type": "figure",
+      "asset": "669_3.0_jpn_11035770_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "Support the bottom of the damper with your hand and compress the spring until the stepped portion (A) of the damper rod butts up against the damper bearing. Install the nut (B) on the protruding damper rod. Secure the damper rod (D) with the hexagonal wrench (C) and tighten the nut to the specified torque. Remove the damper assembly from the coil spring compressor."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not compress the spring more than necessary."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000669_jpn/web/html/R000669_jpn_Content.html",
+  "inOutline": true
+}

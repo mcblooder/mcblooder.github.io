@@ -1,0 +1,80 @@
+{
+  "id": "T986120",
+  "title": "Cannot turn off VSA",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986120",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T001319",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "R000710",
+      "label": "Update to the latest program and recheck.",
+      "resolved": true
+    },
+    {
+      "id": "R000711",
+      "label": "Replace VSA modulator control unit",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cannot turn off VSA"
+    },
+    {
+      "type": "paragraph",
+      "text": "diagnostic procedure"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Failure Diagnosis by Symptom ​",
+          "refs": [
+            {
+              "id": "T001319",
+              "label": "Failure Diagnosis by Symptom",
+              "resolved": false
+            }
+          ]
+        },
+        {
+          "text": "If the VSA Modulator Control Unit program is not up-to-date, Update to the latest program and recheck.",
+          "refs": [
+            {
+              "id": "R000710",
+              "label": "Update to the latest program and recheck.",
+              "resolved": true
+            },
+            {
+              "id": "R000711",
+              "label": "Replace VSA modulator control unit",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986120_jpn/web/html/T986120_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,80 @@
+{
+  "id": "T986119",
+  "title": "brake warning light (red) or brake warning light (orange) does not illuminate (check for bulb failure)",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA ABS warning light VSA warning light VSA OFF warning light",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986119",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T001427",
+      "label": "Combination Meter Failure Diagnostics.",
+      "resolved": true
+    },
+    {
+      "id": "R000710",
+      "label": "Update to the latest program and recheck.",
+      "resolved": true
+    },
+    {
+      "id": "R000711",
+      "label": "Replace VSA modulator control unit",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ABS warning light, VSA warning light, VSA OFF warning light, brake warning light (red) or brake warning light (orange) does not illuminate (check for bulb failure)"
+    },
+    {
+      "type": "paragraph",
+      "text": "diagnostic procedure"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Combination Meter Failure Diagnostics.",
+          "refs": [
+            {
+              "id": "T001427",
+              "label": "Combination Meter Failure Diagnostics.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If the VSA Modulator Control Unit program is not up-to-date, Update to the latest program and recheck.",
+          "refs": [
+            {
+              "id": "R000710",
+              "label": "Update to the latest program and recheck.",
+              "resolved": true
+            },
+            {
+              "id": "R000711",
+              "label": "Replace VSA modulator control unit",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986119_jpn/web/html/T986119_jpn_Content.html",
+  "inOutline": true
+}

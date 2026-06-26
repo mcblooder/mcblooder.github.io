@@ -1,0 +1,93 @@
+{
+  "id": "C002914",
+  "title": "Explanation of DBW system structure",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "DBW System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002914",
+  "assets": [
+    "2914_3.0_jpn_11409989_2.0_disp.png",
+    "2914_3.0_jpn_11409990_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Explanation of DBW system structure"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "The DBW system (drive-by-wire system) opens and closes the throttle valve under electronic control. The system consists of a throttle actuator built into the throttle body, throttle valve and throttle position sensors, accelerator pedal position sensor, DBW driver built into the PGM-FI ECU, and DBW relay (in relay box) that supplies power to the DBW driver. The system consists of a DBW driver built into the PGM-FI ECU, a DBW relay (in a relay box) that supplies power to the DBW driver."
+    },
+    {
+      "type": "figure",
+      "asset": "2914_3.0_jpn_11409989_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The DBW system has the following features"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Idle control function"
+        },
+        {
+          "text": "Gas pedal control function"
+        },
+        {
+          "text": "VTEC cooperative control function"
+        },
+        {
+          "text": "CVT cooperative control function (CVT vehicles)"
+        },
+        {
+          "text": "VSA control function"
+        },
+        {
+          "text": "City Brake Active function (vehicles equipped with City Brake Active system)"
+        },
+        {
+          "text": "failsafe function"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "control"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the driver operates the accelerator pedal, the accelerator pedal position sensor is driven to detect the accelerator pedal opening degree. The accelerator pedal position is input to the PGM-FI ECU, which uses the information to drive the throttle actuator in the throttle body to open and close the throttle valve. The actual amount of throttle valve opening and closing is detected by the throttle body's throttle opening sensor and input to the PGM-FI ECU."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to signals from the accelerator pedal position sensor, the PGM-FI ECU drives the throttle actuator to control throttle opening during idling, VTEC switching, CVT shifting (CVT vehicles), VSA control, and when necessary."
+    },
+    {
+      "type": "figure",
+      "asset": "2914_3.0_jpn_11409990_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002914_jpn/web/html/C002914_jpn_Content.html",
+  "inOutline": true
+}

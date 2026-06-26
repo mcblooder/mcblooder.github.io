@@ -1,0 +1,94 @@
+{
+  "id": "R000418",
+  "title": "Intercooler removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Exhaust System",
+  "system": "Turbo Charger System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000418",
+  "assets": [
+    "418_5.0_jpn_11583042_5.0_disp.png",
+    "418_5.0_jpn_11583043_5.0_disp.png",
+    "418_5.0_jpn_11583044_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000413",
+      "label": "Air intake pipe removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Intercooler removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Intercooler development"
+    },
+    {
+      "type": "figure",
+      "asset": "418_5.0_jpn_11583042_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Air intake pipe removal",
+      "refs": [
+        {
+          "id": "R000413",
+          "label": "Air intake pipe removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Intercooler assembly removal"
+    },
+    {
+      "type": "figure",
+      "asset": "418_5.0_jpn_11583043_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Intercooler Guide Assy."
+    },
+    {
+      "type": "figure",
+      "asset": "418_5.0_jpn_11583044_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "After completing the work, make sure the check valve is secured in the joint rubber."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000418_jpn/web/html/R000418_jpn_Content.html",
+  "inOutline": true
+}

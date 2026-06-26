@@ -1,0 +1,210 @@
+{
+  "id": "T986165",
+  "title": "Engine Stall RPM high",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM hydraulic system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986165",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R000542",
+      "label": "Transmission Fluid Level Inspection",
+      "resolved": true
+    },
+    {
+      "id": "R000554",
+      "label": "Control wire inspection and adjustment",
+      "resolved": true
+    },
+    {
+      "id": "R000576",
+      "label": "Transmission Fluid Strainer Inspection",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Engine Stall RPM high"
+    },
+    {
+      "type": "paragraph",
+      "text": "checklist"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Transmission Fluid Level Inspection",
+          "refs": [
+            {
+              "id": "R000542",
+              "label": "Transmission Fluid Level Inspection",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Transmission Fluid Inspection",
+          "refs": [
+            {
+              "id": "R000542",
+              "label": "Transmission Fluid Inspection",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Control wire inspection and adjustment",
+          "refs": [
+            {
+              "id": "R000554",
+              "label": "Control wire inspection and adjustment",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Check control levers"
+        },
+        {
+          "text": "Transmission Fluid Strainer Inspection",
+          "refs": [
+            {
+              "id": "R000576",
+              "label": "Transmission Fluid Strainer Inspection",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Inspection of main valve body assy."
+        },
+        {
+          "text": "Manual Valve Lever Inspection"
+        },
+        {
+          "text": "Forward Clutch Assy. inspection"
+        },
+        {
+          "text": "Reverse Clutch Assy. inspection"
+        },
+        {
+          "text": "Inspect oil pump assy."
+        },
+        {
+          "text": "Inspect oil pump drive chain and sprockets"
+        },
+        {
+          "text": "Inspect solenoid harness"
+        },
+        {
+          "text": "Inspect pulley pressure feed pipe"
+        },
+        {
+          "text": "Feed Pipe Inspection"
+        },
+        {
+          "text": "Input shaft inspection"
+        },
+        {
+          "text": "Inspection of torque converter assy."
+        },
+        {
+          "text": "Inspect stator shaft"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "probable cause"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Insufficient transmission fluid"
+        },
+        {
+          "text": "Transmission fluid deterioration"
+        },
+        {
+          "text": "Control wire maladjustment or control wire failure"
+        },
+        {
+          "text": "Wire end disconnected, control lever pin broken"
+        },
+        {
+          "text": "Control lever broken"
+        },
+        {
+          "text": "Transmission fluid strainer clogged"
+        },
+        {
+          "text": "Main valve body assembly. defective"
+        },
+        {
+          "text": "Manual valve lever damaged, lever pin damaged"
+        },
+        {
+          "text": "Forward clutch assembly. defective"
+        },
+        {
+          "text": "Reverse clutch assembly. defective"
+        },
+        {
+          "text": "Defective oil pump assembly."
+        },
+        {
+          "text": "Oil pump Drive chain broken, sprocket broken"
+        },
+        {
+          "text": "Oil pump drive sprocket Sealing failure"
+        },
+        {
+          "text": "Solenoid Harness failure"
+        },
+        {
+          "text": "Pulley pressure feed Pipe damaged, O-ring defective"
+        },
+        {
+          "text": "Pulley pressure feed Pipe seal ring defective"
+        },
+        {
+          "text": "Feed Pipe damaged, O-ring defective"
+        },
+        {
+          "text": "Input shaft seal ring defective, O-ring defective"
+        },
+        {
+          "text": "Torque converter assy. defective"
+        },
+        {
+          "text": "Stator shaft damage"
+        },
+        {
+          "text": "PGM-FI ECU defective"
+        },
+        {
+          "text": "Transmission assembly and drive plate installation failure"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986165_jpn/web/html/T986165_jpn_Content.html",
+  "inOutline": true
+}

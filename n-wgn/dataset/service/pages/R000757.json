@@ -1,0 +1,155 @@
+{
+  "id": "R000757",
+  "title": "Interior garnish/lining removal - Door section",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "interior",
+  "system": "trim",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000757",
+  "assets": [
+    "757_3.0_jpn_11370789_2.0_disp.png",
+    "757_3.0_jpn_11370790_2.0_disp.png",
+    "757_3.0_jpn_11370791_2.0_disp.png",
+    "757_3.0_jpn_11370792_2.0_disp.png",
+    "757_3.0_jpn_11370793_2.0_disp.png",
+    "757_3.0_jpn_11370795_3.0_disp.png",
+    "757_3.0_jpn_11370796_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Interior garnish/lining removal - Door section"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front side garnish removal"
+    },
+    {
+      "type": "figure",
+      "asset": "757_3.0_jpn_11370789_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "757_3.0_jpn_11370790_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the hook (A). Remove the clips (B, C, D) and remove the front side garnish (E)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Cowl side lining removal"
+    },
+    {
+      "type": "figure",
+      "asset": "757_3.0_jpn_11370791_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "757_3.0_jpn_11370792_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the clip. Pull the cowl side lining (A) toward you and remove it. Driver's side: Remove the lining through the hole in the lining through the hood opener knob (B) and fuel lid opener knob (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front door opening seal removal"
+    },
+    {
+      "type": "figure",
+      "asset": "757_3.0_jpn_11370793_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Pull the front door opening seal (A) out of the body flange and remove it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear side garnish removal"
+    },
+    {
+      "type": "figure",
+      "asset": "757_3.0_jpn_11370795_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the hook (A). Remove the clip and remove the rear side garnish (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear opening trim removal"
+    },
+    {
+      "type": "figure",
+      "asset": "757_3.0_jpn_11370796_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Pull the rear opening trim (A) out from the body flange and remove it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000757_jpn/web/html/R000757_jpn_Content.html",
+  "inOutline": true
+}

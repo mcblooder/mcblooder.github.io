@@ -1,0 +1,97 @@
+{
+  "id": "R000893",
+  "title": "Air Mix Motor Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000893",
+  "assets": [
+    "893_5.0_jpn_11581027_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000783",
+      "label": "Glove box removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Air Mix Motor Removal and Installation"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Before removing the motor, set the temperature control to MAX COOL."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Glove box removal",
+      "refs": [
+        {
+          "id": "R000783",
+          "label": "Glove box removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Air mix motor removal"
+    },
+    {
+      "type": "figure",
+      "asset": "893_5.0_jpn_11581027_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Remove the air mix motor (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Precautions for installation work"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Ensure that the damper linkage operates smoothly before installing the air mix motor."
+        },
+        {
+          "text": "Ensure that the damper linkage operates smoothly before installing the air mix motor."
+        },
+        {
+          "text": "After installation, operate the temperature control switch and check that the air mix motor operates normally."
+        },
+        {
+          "text": "After installation, operate the temperature control switch and check that the air mix motor operates normally."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000893_jpn/web/html/R000893_jpn_Content.html",
+  "inOutline": true
+}

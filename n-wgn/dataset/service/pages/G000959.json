@@ -1,0 +1,549 @@
+{
+  "id": "G000959",
+  "title": "Exterior Light Configuration Diagram",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000959",
+  "assets": [
+    "959_4.0_jpn_11580759_4.0_disp.png",
+    "959_4.0_jpn_11580760_4.0_disp.png",
+    "959_4.0_jpn_11580761_4.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000927",
+      "label": "R000927",
+      "resolved": true
+    },
+    {
+      "id": "R000924",
+      "label": "R000924",
+      "resolved": true
+    },
+    {
+      "id": "R000965",
+      "label": "R000965",
+      "resolved": true
+    },
+    {
+      "id": "R000961",
+      "label": "R000961",
+      "resolved": true
+    },
+    {
+      "id": "R000963",
+      "label": "R000963",
+      "resolved": true
+    },
+    {
+      "id": "T001414",
+      "label": "T001414",
+      "resolved": false
+    },
+    {
+      "id": "R000966",
+      "label": "R000966",
+      "resolved": true
+    },
+    {
+      "id": "R000557",
+      "label": "R000557",
+      "resolved": true
+    },
+    {
+      "id": "R000558",
+      "label": "R000558",
+      "resolved": true
+    },
+    {
+      "id": "T001415",
+      "label": "T001415",
+      "resolved": true
+    },
+    {
+      "id": "R000970",
+      "label": "R000970",
+      "resolved": true
+    },
+    {
+      "id": "R000967",
+      "label": "R000967",
+      "resolved": true
+    },
+    {
+      "id": "R000962",
+      "label": "R000962",
+      "resolved": true
+    },
+    {
+      "id": "R000968",
+      "label": "R000968",
+      "resolved": true
+    },
+    {
+      "id": "R000969",
+      "label": "R000969",
+      "resolved": true
+    },
+    {
+      "id": "R000983",
+      "label": "R000983",
+      "resolved": true
+    },
+    {
+      "id": "T001411",
+      "label": "T001411",
+      "resolved": true
+    },
+    {
+      "id": "R000925",
+      "label": "R000925",
+      "resolved": true
+    },
+    {
+      "id": "R000960",
+      "label": "R000960",
+      "resolved": true
+    },
+    {
+      "id": "R000683",
+      "label": "R000683",
+      "resolved": true
+    },
+    {
+      "id": "R000699",
+      "label": "R000699",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Exterior Light Configuration Diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "959_4.0_jpn_11580759_4.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            47.0,
+            68.0,
+            69.0,
+            82.0
+          ],
+          "ref": {
+            "id": "R000927",
+            "label": "R000927",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            393.0,
+            109.0,
+            415.0,
+            123.0
+          ],
+          "ref": {
+            "id": "R000927",
+            "label": "R000927",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            284.0,
+            25.0,
+            306.0,
+            39.0
+          ],
+          "ref": {
+            "id": "R000927",
+            "label": "R000927",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            359.0,
+            181.0,
+            381.0,
+            195.0
+          ],
+          "ref": {
+            "id": "R000924",
+            "label": "R000924",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            20.0,
+            615.0,
+            42.0,
+            629.0
+          ],
+          "ref": {
+            "id": "R000965",
+            "label": "R000965",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            20.0,
+            626.0,
+            85.0,
+            640.0
+          ],
+          "ref": {
+            "id": "R000961",
+            "label": "R000961",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            20.0,
+            636.0,
+            64.0,
+            650.0
+          ],
+          "ref": {
+            "id": "R000963",
+            "label": "R000963",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            20.0,
+            647.0,
+            197.0,
+            661.0
+          ],
+          "ref": {
+            "id": "T001414",
+            "label": "T001414",
+            "resolved": false
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            20.0,
+            668.0,
+            85.0,
+            682.0
+          ],
+          "ref": {
+            "id": "R000961",
+            "label": "R000961",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            20.0,
+            689.0,
+            85.0,
+            703.0
+          ],
+          "ref": {
+            "id": "R000961",
+            "label": "R000961",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            20.0,
+            710.0,
+            71.0,
+            724.0
+          ],
+          "ref": {
+            "id": "R000966",
+            "label": "R000966",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            20.0,
+            731.0,
+            42.0,
+            745.0
+          ],
+          "ref": {
+            "id": "R000965",
+            "label": "R000965",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            17.0,
+            323.0,
+            39.0,
+            337.0
+          ],
+          "ref": {
+            "id": "R000557",
+            "label": "R000557",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            17.0,
+            334.0,
+            39.0,
+            348.0
+          ],
+          "ref": {
+            "id": "R000558",
+            "label": "R000558",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            462.0,
+            197.0,
+            506.0,
+            211.0
+          ],
+          "ref": {
+            "id": "T001415",
+            "label": "T001415",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            462.0,
+            208.0,
+            484.0,
+            222.0
+          ],
+          "ref": {
+            "id": "R000970",
+            "label": "R000970",
+            "resolved": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "959_4.0_jpn_11580760_4.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            32.0,
+            498.0,
+            54.0,
+            512.0
+          ],
+          "ref": {
+            "id": "R000967",
+            "label": "R000967",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            32.0,
+            519.0,
+            97.0,
+            533.0
+          ],
+          "ref": {
+            "id": "R000962",
+            "label": "R000962",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            32.0,
+            540.0,
+            97.0,
+            554.0
+          ],
+          "ref": {
+            "id": "R000962",
+            "label": "R000962",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            32.0,
+            561.0,
+            97.0,
+            575.0
+          ],
+          "ref": {
+            "id": "R000962",
+            "label": "R000962",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            28.0,
+            101.0,
+            50.0,
+            115.0
+          ],
+          "ref": {
+            "id": "R000968",
+            "label": "R000968",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            28.0,
+            112.0,
+            93.0,
+            126.0
+          ],
+          "ref": {
+            "id": "R000969",
+            "label": "R000969",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            399.0,
+            417.0,
+            421.0,
+            431.0
+          ],
+          "ref": {
+            "id": "R000983",
+            "label": "R000983",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            543.0,
+            101.0,
+            587.0,
+            115.0
+          ],
+          "ref": {
+            "id": "T001411",
+            "label": "T001411",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            543.0,
+            111.0,
+            565.0,
+            125.0
+          ],
+          "ref": {
+            "id": "R000925",
+            "label": "R000925",
+            "resolved": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "959_4.0_jpn_11580761_4.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            82.0,
+            612.0,
+            133.0,
+            626.0
+          ],
+          "ref": {
+            "id": "R000960",
+            "label": "R000960",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            545.0,
+            576.0,
+            567.0,
+            590.0
+          ],
+          "ref": {
+            "id": "R000683",
+            "label": "R000683",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            545.0,
+            587.0,
+            567.0,
+            601.0
+          ],
+          "ref": {
+            "id": "R000699",
+            "label": "R000699",
+            "resolved": true
+          }
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131205174051/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000959_jpn/web/html/G000959_jpn_Content.html",
+  "inOutline": true
+}

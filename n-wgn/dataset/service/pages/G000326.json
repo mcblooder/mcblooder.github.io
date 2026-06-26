@@ -1,0 +1,573 @@
+{
+  "id": "G000326",
+  "title": "Parts requiring caution when disposing of",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "NA",
+  "sectionCode": "0",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000326",
+  "assets": [
+    "326_3.0_jpn_11583252_3.0_disp.png",
+    "326_3.0_jpn_11583253_3.0_disp.png",
+    "326_3.0_jpn_11583254_3.0_disp.png",
+    "326_3.0_jpn_11583255_3.0_disp.png",
+    "326_3.0_jpn_11583256_3.0_disp.png",
+    "326_3.0_jpn_11583257_3.0_disp.png",
+    "326_3.0_jpn_11583258_3.0_disp.png",
+    "326_3.0_jpn_11583259_3.0_disp.png",
+    "326_3.0_jpn_11583260_3.0_disp.png",
+    "326_3.0_jpn_11583262_3.0_disp.png",
+    "326_3.0_jpn_11583263_3.0_disp.png",
+    "326_3.0_jpn_11583264_3.0_disp.png",
+    "326_3.0_jpn_11583265_3.0_disp.png",
+    "326_3.0_jpn_11583266_3.0_disp.png",
+    "326_3.0_jpn_11583267_3.0_disp.png",
+    "326_3.0_jpn_11583268_3.0_disp.png",
+    "326_3.0_jpn_11583269_3.0_disp.png",
+    "326_3.0_jpn_11583270_3.0_disp.png",
+    "326_3.0_jpn_11588364_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G001635",
+      "label": "Operational Precautions",
+      "resolved": true
+    },
+    {
+      "id": "R001640",
+      "label": "Driver's seat airbag",
+      "resolved": true
+    },
+    {
+      "id": "R001641",
+      "label": "Passenger seat airbag",
+      "resolved": true
+    },
+    {
+      "id": "R000807",
+      "label": "Seat belt pretensioner",
+      "resolved": true
+    },
+    {
+      "id": "R001642",
+      "label": "Side Airbags",
+      "resolved": true
+    },
+    {
+      "id": "R001643",
+      "label": "Side curtains Airbags",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Parts requiring caution when disposing of"
+    },
+    {
+      "type": "paragraph",
+      "text": "When scrapping a vehicle or disposing of the following components by themselves, they must be activated (deployed) before disposal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Parts required for the operational (deployment) treatment at the time of disposal (these parts are hereinafter referred to as deployment treatment parts)."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Driver's seat airbag"
+        },
+        {
+          "text": "Passenger seat airbag"
+        },
+        {
+          "text": "Driver/front-passenger seat belt pretensioner"
+        },
+        {
+          "text": "Side airbag for driver/front passenger"
+        },
+        {
+          "text": "Right/left side curtain Airbag"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The SRS airbag system is designed to be used for the disposal of airbags and other airbags. Operational Precautions and the following items, and follow the correct procedures and methods.",
+      "refs": [
+        {
+          "id": "G001635",
+          "label": "Operational Precautions",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Never dispose of the product in an undeveloped state."
+        },
+        {
+          "text": "Never disassemble parts to be processed for deployment."
+        },
+        {
+          "text": "The deployment tool and 12V battery shall be located at least 10 m away from the vehicle or the part to be deployed and the 12V battery shall not be connected until immediately prior to deployment."
+        },
+        {
+          "text": "Before cutting the harness of a component to be deployed, ground the operator's body by touching the vehicle exterior with bare hands. Also, work away from the deployment surface and short-circuit the harnesses together as soon as possible after disconnection."
+        },
+        {
+          "text": "In the unlikely event that it does not operate (deploy), immediately short-circuit the cords of the deploying process components by aligning them. Also, contact the nearest Honda Technical Center or Service Center."
+        },
+        {
+          "text": "When processing two or more decompositions, one decomposition must be completed before the next decomposition procedure is started. Also, the intermediate steps must not be omitted."
+        },
+        {
+          "text": "The noise generated during activation (deployment) is quite loud. Also, avoid operating in residential areas as much as possible."
+        },
+        {
+          "text": "Smoke is generated when the device is activated (deployed), so it should be performed in a well ventilated area. In particular, if the operation is performed indoors, avoid areas near fire alarms, smoke detectors, and the like."
+        },
+        {
+          "text": "Airbags and other components become hot after activation, and should be left to cool for at least 30 minutes. Never apply water or other liquids to cool the airbags."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There are two types of disposal methods The most appropriate method of disposal."
+    },
+    {
+      "type": "paragraph",
+      "text": "How to process the deployment on the vehicle at the time of scrapping."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Claire] What you need to prepare."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "12V battery"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Deployment Tool (07HAZ-SG0050)"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Vinyl parallel line 12-15m"
+        },
+        {
+          "text": "electrical tape"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A method of processing components that are no longer needed for deployment on a stand-alone basis."
+    },
+    {
+      "type": "paragraph",
+      "text": "[Claire] What you need to prepare."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Four tires without wheels of 15\" or larger and one tire with wheels of the same size"
+        },
+        {
+          "text": "Wire harnesses for automobiles (core wire cross section 1.25 mm) 2 (1.2 mm or more in wire diameter) or wire of 1.2 mm or more in wire diameter (used for fixing tires)"
+        },
+        {
+          "text": "12V battery"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Deployment Tool (07HAZ-SG0050)"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Vinyl parallel line 12-15m"
+        },
+        {
+          "text": "electrical tape"
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Insert the yellow alligator clip (A) between the left and right protectors respectively, and connect the alligator clip red positive (+) terminal (B) and black negative (-) terminal (C) for the power supply to the 12V battery terminal (D). The red lamp will light. 2. Press the activation switch and confirm the following Lit green: Tool is normal Red light on: Tool is defective"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not press the actuation switch (E) with the two yellow alligator clips in contact."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583252_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "3. After inspection, remove the alligator clip red positive (+) terminal (A) and black negative (-) terminal (B) for the power supply from the 12V battery and insert the alligator clips (red and black)."
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583253_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "4. Peel off about 15 mm of the sheath on both sides of the vinyl parallel wire, and then tighten one side together."
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583254_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Turn the POWER switch to the OFF mode, disconnect the negative (-) terminal of the 12V battery, and let it stand for at least 3 minutes. 2. Disconnect the coupler connections on the yellow, green with yellow cover or gray with yellow cover of the deployment processing parts. When using deployment tools If you do not use deployment tools When using deployment tools If you do not use deployment tools"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Driver's seat airbag ​",
+          "refs": [
+            {
+              "id": "R001640",
+              "label": "Driver's seat airbag",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Passenger seat airbag ​",
+          "refs": [
+            {
+              "id": "R001641",
+              "label": "Passenger seat airbag",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Seat belt pretensioner",
+          "refs": [
+            {
+              "id": "R000807",
+              "label": "Seat belt pretensioner",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side Airbags",
+          "refs": [
+            {
+              "id": "R001642",
+              "label": "Side Airbags",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtains Airbags",
+          "refs": [
+            {
+              "id": "R001643",
+              "label": "Side curtains Airbags",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "3. Cut the cord of the deployed processing part in front of the coupler, peel off about 15 mm of the sheath, and fit it together (A). The same applies to passenger airbags, seat belt pretensioners, side airbags, and side curtain airbags."
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583255_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "4. Unscrew the cords of the deployment processing parts and connect the yellow alligator clips (A) of the deployment tool to each of the cords."
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583256_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "5. Untangle the cords of the deployed part, connect the untangled side of the vinyl parallel wire to the deployed part, and cover it with insulation tape (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583257_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "6. Release the pinch points of the alligator clip red positive (+) terminal (A) and black negative (-) terminal (B) for the power supply, connect the alligator clips to the 12V battery terminal (C) respectively, check that the red light comes on, and press the activation switch (D) to deploy the airbag."
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583258_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "7. Untangle the 12V battery side vinyl parallel wires (A), connect them to the 12V battery terminals (B), respectively, and deploy the airbag. 8. Allow the airbag to cool for at least 30 minutes after activation. After leaving the airbag in place, push the driver's airbag back into its original position and hold it in place with duct tape (for easier driving when moving the vehicle). (To make it easier to drive when moving the vehicle.) 9. Discard (scrap) while still attached to the vehicle."
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583259_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Provide a deployable driver/front passenger airbag, seat belt pretensioner, and side airbags or side curtain airbags. How to remove from the vehicle When deploying the side curtain airbag, the airbag should be cut off 10 cm in front of the inflator. When using deployment tools If you do not use deployment tools 8. Stack the tire with wheeled tire set on top of the tire with the deployment processing parts secured, and bind it to the set of wheel-less tires on the underside. When using deployment tools If you do not use deployment tools"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Driver's seat airbag ​",
+          "refs": [
+            {
+              "id": "R001640",
+              "label": "Driver's seat airbag",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Passenger seat airbag ​",
+          "refs": [
+            {
+              "id": "R001641",
+              "label": "Passenger seat airbag",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Seat belt pretensioner",
+          "refs": [
+            {
+              "id": "R000807",
+              "label": "Seat belt pretensioner",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side Airbags",
+          "refs": [
+            {
+              "id": "R001642",
+              "label": "Side Airbags",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtains Airbags",
+          "refs": [
+            {
+              "id": "R001643",
+              "label": "Side curtains Airbags",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. One set of two tires without wheels (A), and one set of tires with wheels (B) and one set of tires without wheels (C), each of which is connected to an automotive wire harness (core wire cross-sectional area 1.25 mm) 2 (or more) or wire (D) with a wire diameter of 1.2 mm or more, wrapped and tied in two or more layers."
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583260_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "3. Driver airbag (A), passenger airbag (B), seat belt pretensioner (C), side airbag (D), and side curtain airbag (E) to be deployed and processed inside one wheel-less tire are connected to an automotive wire harness (core wire cross-sectional area 1.25 mm) as shown in the figure. 2 (or more) or wire (F) with a wire diameter of 1.2 mm or more, triple wrapped and tied to secure. Fix the tire so that the pad surface (deployed side) faces the center of the tire."
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11588364_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "4. Place one set of two wheel-less tires (A) on a flat surface, and place the tire (B) with the deployment processing parts set on top of it. 5. Cut the harness of the deployed part in front of the coupler, peel off about 15 mm of the sheath, and align the parts that have been stripped of their sheath (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583262_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "6. Unscrew the cords of the deployment processing parts and connect the yellow alligator clips (A) of the deployment tool to each of the cords."
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583263_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "7. Untangle the cords of the parts to be deployed, connect the untangled end of the vinyl parallels to the part to be deployed, and cover with insulation tape (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583264_3.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do not pass deployment tool cords or vinyl parallels near the air bag deployment surface and inflator body."
+        },
+        {
+          "text": "Always make sure the pad surface is facing the center of the tire and overlap the tire. ​"
+        },
+        {
+          "text": "For side curtain airbags, the tires should be stacked with the cut side facing upward. If it is pointed downward, pebbles and other objects on the ground may blow away."
+        },
+        {
+          "text": "The 12V battery should be located at least 10 m away from the tire and the 12V battery should not be connected until just before deployment."
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "9. Release the pinch points of the alligator clip red positive (+) terminal (A) and black negative (-) terminal (B) for the power supply, connect the alligator clips to the 12V battery terminal (C) respectively, check that the red light comes on, and then press the activation switch (D) to deploy the airbag, etc. Press the activation switch (D) to deploy the airbag, etc."
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583265_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "10. Untangle the 12V battery side vinyl parallel wires (A), connect them to the 12V battery terminals (B), respectively, and deploy the airbag. 11. Allow to cool for at least 30 minutes after operation."
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583266_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "12. Place the activated (deployed) airbags, etc. (A) in a sturdy plastic bag (B), seal it, and dispose of it."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Always wear protective goggles and gloves (vinyl or rubber) when handling deployed airbags.",
+        "Always wash hands after work is completed. ​",
+        "Dispose of the product in accordance with each prefectural ordinance. ​"
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583267_3.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The gas that is released is colorless, odorless, and harmless, but drill chips and other particles may be released, so work with caution."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When discarding, place the damper rod (A) horizontally with the damper rod extended and drill a 2-3 mm diameter hole (B) at the position shown in the figure to vent the gas."
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583268_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583269_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Waste oil such as oil and fluid should be separated and disposed of in accordance with laws, regulations, and ordinances."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The gas that is released is colorless, odorless, and harmless, but drill chips and other particles may be released, so work with caution."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For disposal, place the open stay (A) horizontally with the stay extended and drill a 2-3 mm diameter hole (B) at the position shown in the figure to vent the gas."
+    },
+    {
+      "type": "figure",
+      "asset": "326_3.0_jpn_11583270_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131120091740/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000326_jpn/web/html/G000326_jpn_Content.html",
+  "inOutline": true
+}

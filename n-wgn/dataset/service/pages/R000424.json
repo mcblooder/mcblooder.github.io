@@ -1,0 +1,74 @@
+{
+  "id": "R000424",
+  "title": "Inspect radiator cap.",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cooling System",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000424",
+  "assets": [
+    "424_4.0_jpn_11583063_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect radiator cap."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Specified commercial tools"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the cap is removed when the water temperature is high, the coolant is under pressure and may spurt out, which is dangerous. After the water temperature drops, wrap the cap with a piece of cloth and open it gently."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Radiator cap Inspect"
+    },
+    {
+      "type": "figure",
+      "asset": "424_4.0_jpn_11583063_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the radiator cap tester adapter (ACKER-GP0-0110) and radiator cap (A) on the tester, pump up, and check that it remains in the normal pressure range (cap open pressure) for approximately 6 seconds. If the measurement results show that the normal pressure cannot be maintained, replace the radiator cap with a new one."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When attaching the cap to the tester, the sealing surface should be well coated with water."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Normal pressure: 0.5 to 1.0 MPa"
+          },
+          {
+            "text": "94-122kPa (0.96－1.24kgf/cm 2 )"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000424_jpn/web/html/R000424_jpn_Content.html",
+  "inOutline": true
+}

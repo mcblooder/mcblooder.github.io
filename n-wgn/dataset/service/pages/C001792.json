@@ -1,0 +1,62 @@
+{
+  "id": "C001792",
+  "title": "CVT Structure Explanation - Gearshift Characteristics Chart",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM electrical system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001792",
+  "assets": [
+    "1792_3.0_jpn_11242743_2.0_disp.png",
+    "1792_3.0_jpn_11390943_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "CVT Structure Explanation - Gearshift Characteristics Chart"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Automatic Continuously Variable Speed"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI ECU directs target values to the driving map stored in the PGM-FI ECU by making corrections based on information such as vehicle speed and accelerator pedal opening (accelerator pedal position sensor signal) to allow driving at the optimal engine speed."
+    },
+    {
+      "type": "paragraph",
+      "text": "The graph shows the gear shift characteristics at low, medium, and high accelerator pedal openings (accelerator pedal position sensor signal) for the target engine speed versus vehicle speed when traveling on a D-position flat road."
+    },
+    {
+      "type": "figure",
+      "asset": "1792_3.0_jpn_11390943_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Automatic shift up control and automatic shift down control in S paddle shift mode (models equipped with paddle shift switch)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In S-paddle shift mode, automatic shift up engine rpm and automatic shift down engine rpm are set; while driving in S-paddle shift mode, when the engine rpm reaches the set automatic shift up engine rpm, the gearshift is automatically shifted up. When the engine rpm reaches the set engine rpm, the gearshift is automatically downshifted. When the S paddle shift mode is selected while the vehicle is stationary, first gear is selected."
+    },
+    {
+      "type": "figure",
+      "asset": "1792_3.0_jpn_11242743_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001792_jpn/web/html/C001792_jpn_Content.html",
+  "inOutline": true
+}

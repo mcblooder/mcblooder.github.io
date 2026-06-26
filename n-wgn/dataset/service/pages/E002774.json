@@ -1,0 +1,55 @@
+{
+  "id": "E002774",
+  "title": "Combination Meter Circuit Diagram",
+  "category": "service",
+  "packageKind": "EWD",
+  "packageKindName": "Electrical Wiring (manual)",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "meter",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/E002774",
+  "assets": [
+    "2774_7.0_jpn_11673757_5.0_disp.png",
+    "2774_7.0_jpn_11673758_5.0_disp.png",
+    "2774_7.0_jpn_11673759_5.0_disp.png",
+    "2774_7.0_jpn_11673760_5.0_disp.png",
+    "2774_7.0_jpn_11673761_5.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Combination Meter Circuit Diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "2774_7.0_jpn_11673757_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2774_7.0_jpn_11673758_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2774_7.0_jpn_11673759_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2774_7.0_jpn_11673760_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2774_7.0_jpn_11673761_5.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_EWD_20131205174154/Contents/jpn/60T6GD00_2014/EWD/SCT/SC/SYS/E002774_jpn/web/html/E002774_jpn_Content.html",
+  "inOutline": true
+}

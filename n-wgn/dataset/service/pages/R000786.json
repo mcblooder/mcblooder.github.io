@@ -1,0 +1,80 @@
+{
+  "id": "R000786",
+  "title": "Removing and installing the steering column cover",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000786",
+  "assets": [
+    "786_3.0_jpn_11369536_2.0_disp.png",
+    "786_3.0_jpn_11369537_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removing and installing the steering column cover"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Upper column cover removal"
+    },
+    {
+      "type": "figure",
+      "asset": "786_3.0_jpn_11369536_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Vehicles equipped with steering tilt: Release the lock lever and set the column tilt position to the lowest position. Turn the steering wheel so that the notch (A) in the lower column cover is visible. Pry the notch in the lower column cover and remove the hook (B). Turn the steering wheel in the opposite direction and follow the same procedure as in step 3 to remove the other hook."
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Pull up the front end of the upper column cover (C) and remove the upper column cover."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Lower column cover removal"
+    },
+    {
+      "type": "figure",
+      "asset": "786_3.0_jpn_11369537_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn the steering wheel and remove the screw."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Turn the steering wheel in the opposite direction to release the other screw. Remove the lower column cover (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000786_jpn/web/html/R000786_jpn_Content.html",
+  "inOutline": true
+}

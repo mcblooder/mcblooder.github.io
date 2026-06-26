@@ -1,0 +1,194 @@
+{
+  "id": "T986085",
+  "title": "Engine will not start (cranking)",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "starter",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986085",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T002540",
+      "label": "Check DTC",
+      "resolved": true
+    },
+    {
+      "id": "R000927",
+      "label": "Check PGM-FI main relay",
+      "resolved": true
+    },
+    {
+      "id": "T001391",
+      "label": "Honda Smart Key System Symptom-by-Symptom Failure Diagnosis Procedure",
+      "resolved": true
+    },
+    {
+      "id": "R000475",
+      "label": "Fuel Pressure Inspection",
+      "resolved": true
+    },
+    {
+      "id": "R000477",
+      "label": "Inspect fuel lines",
+      "resolved": true
+    },
+    {
+      "id": "R000486",
+      "label": "Inspect fuel filter",
+      "resolved": true
+    },
+    {
+      "id": "R000462",
+      "label": "Throttle Body Inspection",
+      "resolved": true
+    },
+    {
+      "id": "R002130",
+      "label": "Compression pressure inspection",
+      "resolved": true
+    },
+    {
+      "id": "R000367",
+      "label": "Inspect camshaft timing",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Engine will not start (cranking)"
+    },
+    {
+      "type": "paragraph",
+      "text": "diagnostic item"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Check DTC",
+          "refs": [
+            {
+              "id": "T002540",
+              "label": "Check DTC",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Check PGM-FI main relay",
+          "refs": [
+            {
+              "id": "R000927",
+              "label": "Check PGM-FI main relay",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Honda Smart Key System Symptom-by-Symptom Failure Diagnosis Procedure",
+          "refs": [
+            {
+              "id": "T001391",
+              "label": "Honda Smart Key System Symptom-by-Symptom Failure Diagnosis Procedure",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Fuel Pressure Inspection ​",
+          "refs": [
+            {
+              "id": "R000475",
+              "label": "Fuel Pressure Inspection",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Inspect fuel lines",
+          "refs": [
+            {
+              "id": "R000477",
+              "label": "Inspect fuel lines",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Inspect fuel filter",
+          "refs": [
+            {
+              "id": "R000486",
+              "label": "Inspect fuel filter",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Throttle Body Inspection",
+          "refs": [
+            {
+              "id": "R000462",
+              "label": "Throttle Body Inspection",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Compression pressure inspection ​",
+          "refs": [
+            {
+              "id": "R002130",
+              "label": "Compression pressure inspection",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Inspect camshaft timing",
+          "refs": [
+            {
+              "id": "R000367",
+              "label": "Inspect camshaft timing",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Confirmation of release of all injector cylinder shutdown"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "related item"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Fuel Condition"
+        },
+        {
+          "text": "Worn and damaged spark plugs"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986085_jpn/web/html/T986085_jpn_Content.html",
+  "inOutline": true
+}

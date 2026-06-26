@@ -1,0 +1,276 @@
+{
+  "id": "R000543",
+  "title": "Transmission fluid (HMMF) replacement",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000543",
+  "assets": [
+    "543_5.0_jpn_11582173_5.0_disp.png",
+    "543_5.0_jpn_11582174_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000412",
+      "label": "Remove air cleaner (for vehicles without turbo charger)",
+      "resolved": true
+    },
+    {
+      "id": "R000418",
+      "label": "Intercooler removal (turbo charger equipped vehicles)",
+      "resolved": true
+    },
+    {
+      "id": "R000542",
+      "label": "Transmission Fluid Level Check",
+      "resolved": true
+    },
+    {
+      "id": "R002135",
+      "label": "Activate VSA maintenance mode.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Transmission fluid (HMMF) replacement"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Engine Warming up"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Warm up the radiator fan until it operates twice. Place the vehicle on a level surface and stop the engine."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Transmission Fluid Extraction"
+    },
+    {
+      "type": "figure",
+      "asset": "543_5.0_jpn_11582173_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "With the vehicle in a horizontal position, remove the drain bolt (A) and drain the transmission fluid."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Remove air cleaner (for vehicles without turbo charger)",
+      "refs": [
+        {
+          "id": "R000412",
+          "label": "Remove air cleaner (for vehicles without turbo charger)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Intercooler removal (turbo charger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000418",
+          "label": "Intercooler removal (turbo charger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Transmission Fluid Refill"
+    },
+    {
+      "type": "figure",
+      "asset": "543_5.0_jpn_11582174_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the filler cap (A) and inject the specified Honda Genuine Ultra HMMF through the opening (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful to prevent dust and other debris from entering the transmission."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Designation Transmission Fluid",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Honda Genuine Ultra HMMF",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Transmission Fluid quantity",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "2WD vehicle"
+          },
+          {
+            "text": "At exchange: 1"
+          },
+          {
+            "text": "2.0L"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "During overhaul"
+          },
+          {
+            "text": "5.1L"
+          }
+        ],
+        [
+          {
+            "text": "4WD vehicle"
+          },
+          {
+            "text": "At exchange: 1"
+          },
+          {
+            "text": "2.0L"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "During overhaul"
+          },
+          {
+            "text": "5.25L"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The filler cap must be installed with the \"FRONT\" mark (arrow) (C) facing toward the front of the vehicle."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Air cleaner installed (for vehicles not equipped with turbo charger)",
+      "refs": [
+        {
+          "id": "R000412",
+          "label": "Air cleaner installed (for vehicles not equipped with turbo charger)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Intercooler installation (Turbocharger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000418",
+          "label": "Intercooler installation (Turbocharger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Transmission Fluid Level Check",
+      "refs": [
+        {
+          "id": "R000542",
+          "label": "Transmission Fluid Level Check",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Transmission Fluid Airing"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The air bleeding of transmission fluid (HMMF) must be performed whenever there is a risk of air entering the control system oil circuit, such as when replacing parts that involve the removal and installation of transmission or control system parts."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Set the body on the lift so that all wheels can rotate freely. Activate VSA maintenance mode. In the D position, slowly depress the accelerator pedal and accelerate to a speed of approximately 60 km/h or more over a period of at least 10 seconds. Return the accelerator pedal and wait until the speed reaches the creep speed. Repeat steps 3-4 five times.",
+      "refs": [
+        {
+          "id": "R002135",
+          "label": "Activate VSA maintenance mode.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not step on the brake pedal."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000543_jpn/web/html/R000543_jpn_Content.html",
+  "inOutline": true
+}

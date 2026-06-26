@@ -1,0 +1,154 @@
+{
+  "id": "R000885",
+  "title": "A/C capacitor removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "A/C Capacitor",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000885",
+  "assets": [
+    "885_5.0_jpn_11581007_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002698",
+      "label": "Recovery of refrigerant",
+      "resolved": true
+    },
+    {
+      "id": "R000888",
+      "label": "External temperature sensor removal",
+      "resolved": true
+    },
+    {
+      "id": "R000907",
+      "label": "performance test",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "A/C capacitor removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the engine is hot, allow it to cool sufficiently before working on it."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Recovery of refrigerant",
+      "refs": [
+        {
+          "id": "R002698",
+          "label": "Recovery of refrigerant",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. External temperature sensor removal",
+      "refs": [
+        {
+          "id": "R000888",
+          "label": "External temperature sensor removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Capacitor removal"
+    },
+    {
+      "type": "figure",
+      "asset": "885_5.0_jpn_11581007_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the harness clip (A). Disconnect the discharge hose (B). Disconnect the receiver pipe (C). Loosen the bolt (D). Remove the bolt (E) and remove the capacitor (F)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "After disconnecting, seal the connection immediately with a sealing plug or vinyl tape."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "After disconnecting, seal the connection immediately with a sealing plug or vinyl tape."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not damage radiator and capacitor cores."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Precautions for installation work"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The O-ring at the pipe connection must be replaced with a new one, and compressor oil (SP-10) must be applied before installation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Vacuuming/leak testing/refrigerant sealing",
+      "refs": [
+        {
+          "id": "R002698",
+          "label": "Vacuuming/leak testing/refrigerant sealing",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "After installation, perform vacuuming, leak test, and refrigerant sealing."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. performance test",
+      "refs": [
+        {
+          "id": "R000907",
+          "label": "performance test",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000885_jpn/web/html/R000885_jpn_Content.html",
+  "inOutline": true
+}

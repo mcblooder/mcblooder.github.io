@@ -1,0 +1,78 @@
+{
+  "id": "R000830",
+  "title": "Tailgate weatherstrip removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "tailgate",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000830",
+  "assets": [
+    "830_3.0_jpn_11372247_2.0_disp.png",
+    "830_3.0_jpn_11372248_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000741",
+      "label": "Water Leakage Test",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Tailgate weatherstrip removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Tailgate weather strip removal"
+    },
+    {
+      "type": "figure",
+      "asset": "830_3.0_jpn_11372247_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Pull the tailgate weather strip (A) out from the center of the lower tailgate opening flange and remove it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Tailgate weather strip installation"
+    },
+    {
+      "type": "figure",
+      "asset": "830_3.0_jpn_11372248_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Align the center marking (B) and the lower center joint (C) of the tailgate weather strip (A) with the center of the tailgate opening of the body, and press the weather strip (A) onto the body to install it without any floating or waviness."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Water Leakage Test",
+      "refs": [
+        {
+          "id": "R000741",
+          "label": "Water Leakage Test",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000830_jpn/web/html/R000830_jpn_Content.html",
+  "inOutline": true
+}

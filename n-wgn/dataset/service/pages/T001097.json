@@ -1,0 +1,168 @@
+{
+  "id": "T001097",
+  "title": "Failure Diagnosis Table by Lubrication System Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "lubricating device",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001097",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R002133",
+      "label": "Check valve guide/valve stem clearance",
+      "resolved": true
+    },
+    {
+      "id": "R002132",
+      "label": "Replace valve/stem seal/spring",
+      "resolved": true
+    },
+    {
+      "id": "R000392",
+      "label": "Inspect and replace piston rings.",
+      "resolved": true
+    },
+    {
+      "id": "R000391",
+      "label": "Inspect cylinder block/piston",
+      "resolved": true
+    },
+    {
+      "id": "T001098",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "R000398",
+      "label": "Check oil pressure switch",
+      "resolved": true
+    },
+    {
+      "id": "R000401",
+      "label": "Oil quantity check",
+      "resolved": true
+    },
+    {
+      "id": "T001099",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Failure Diagnosis Table by Lubrication System Symptom"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "symptoms",
+            "header": true
+          },
+          {
+            "text": "diagnostic item",
+            "header": true
+          },
+          {
+            "text": "related item",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "High oil consumption"
+          },
+          {
+            "text": "1. Check for oil leaks 2. Check valve guide/valve stem clearance and Replace valve/stem seal/spring 3. Inspect and replace piston rings. 4. Inspect cylinder block/piston",
+            "refs": [
+              {
+                "id": "R002133",
+                "label": "Check valve guide/valve stem clearance",
+                "resolved": true
+              },
+              {
+                "id": "R002132",
+                "label": "Replace valve/stem seal/spring",
+                "resolved": true
+              },
+              {
+                "id": "R000392",
+                "label": "Inspect and replace piston rings.",
+                "resolved": true
+              },
+              {
+                "id": "R000391",
+                "label": "Inspect cylinder block/piston",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "If oil consumption is high, check the replacement history."
+          }
+        ],
+        [
+          {
+            "text": "Oil pressure warning light does not come on when engine is stopped and in ON mode"
+          },
+          {
+            "text": "1. Failure Diagnosis by Symptom ​ 2. Check oil pressure switch",
+            "refs": [
+              {
+                "id": "T001098",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              },
+              {
+                "id": "R000398",
+                "label": "Check oil pressure switch",
+                "resolved": true
+              }
+            ]
+          },
+          {
+            "text": "Disconnection of cord between PGM-FI ECU and oil pressure switch"
+          }
+        ],
+        [
+          {
+            "text": "Oil pressure warning light does not turn off when engine is idling"
+          },
+          {
+            "text": "1. Oil quantity check ​ 2. Failure Diagnosis by Symptom ​",
+            "refs": [
+              {
+                "id": "R000401",
+                "label": "Oil quantity check",
+                "resolved": true
+              },
+              {
+                "id": "T001099",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Short circuit in cord between PGM-FI ECU and oil pressure switch"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001097_jpn/web/html/T001097_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,112 @@
+{
+  "id": "C001925",
+  "title": "Fuel and emission control structure description - LAF/O2 feedback air-fuel ratio control",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "PGM-FI System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001925",
+  "assets": [
+    "1925_3.0_jpn_11153796_3.0_disp.png",
+    "1925_3.0_jpn_11153798_3.0_disp.png",
+    "1925_3.0_jpn_11153801_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuel and emission control structure description - LAF/O2 feedback air-fuel ratio control"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI ECU controls the fuel injection time (amount) to keep the engine intake mixture near the target air-fuel ratio based on the current value from the LAF (Linear Air Fuel Ratio) sensor."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to controlling the LAF sensor, the secondary O 2 The air-fuel ratio is controlled even more precisely by making corrections with the sensor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that feedback control is stopped under the following conditions to ensure operational performance and to protect the catalyst."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "During engine startup and during fuel increase after startup"
+        },
+        {
+          "text": "Engine cooling water temperature at low temperature"
+        },
+        {
+          "text": "Fuel is being increased at high load"
+        },
+        {
+          "text": "Fuel is being increased at high RPM"
+        },
+        {
+          "text": "Fuel cut during deceleration"
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1925_3.0_jpn_11153796_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "LAF Sensor"
+    },
+    {
+      "type": "paragraph",
+      "text": "The LAF sensor is mounted in the exhaust chamber at the entrance to the direct catalytic converter."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sensor element/heater is a laminated structure type consisting of a plate-like zirconia element coated with platinum on the inner and outer surfaces and a platinum heater integrally molded, which accelerates the activation time compared to the conventional test tube shape."
+    },
+    {
+      "type": "paragraph",
+      "text": "A ceramic-coated diffusion layer is placed over the platinum electrode on the outside of the device (emission gas side), and an atmospheric chamber is provided between the platinum electrode and the heater on the inside of the device."
+    },
+    {
+      "type": "paragraph",
+      "text": "When voltage is applied to both ends of the platinum electrodes, oxygen molecules in the exhaust gas move toward the atmospheric chamber when the air-fuel ratio is low relative to the theoretical air-fuel ratio, and oxygen molecules in the atmospheric chamber move toward the exhaust gas when the ratio is high, generating an electric current due to the chemical reaction of oxygen molecules. This current becomes the LAF sensor output and is input to the PGM-FI ECU through the platinum electrode. Since this current value is proportional to the air-fuel ratio, the PGM-FI ECU calculates the air-fuel ratio from the LAF sensor current value."
+    },
+    {
+      "type": "figure",
+      "asset": "1925_3.0_jpn_11153798_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Secondary O 2 sensor"
+    },
+    {
+      "type": "paragraph",
+      "text": "Secondary O 2 The sensor is mounted in the center of the direct catalytic converter and detects the oxygen concentration of the exhaust gas as it passes through the direct catalytic converter. Inside the sensor is a test tube-shaped zirconia element coated with platinum on the inner and outer surfaces, which is exposed to the atmosphere on the inner surface and to the exhaust gas on the outer surface. The element generates electromotive force when a difference in oxygen concentration occurs between the inner and outer surfaces, and when the temperature of the element rises above a certain level, the electromotive force suddenly changes around the theoretical air-fuel ratio due to the catalytic effect of the platinum."
+    },
+    {
+      "type": "paragraph",
+      "text": "A ceramic heater is installed inside the element. This accelerates the activation time of the sensor so that a stable output is always obtained."
+    },
+    {
+      "type": "figure",
+      "asset": "1925_3.0_jpn_11153801_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001925_jpn/web/html/C001925_jpn_Content.html",
+  "inOutline": true
+}

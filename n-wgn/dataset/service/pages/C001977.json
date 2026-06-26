@@ -1,0 +1,89 @@
+{
+  "id": "C001977",
+  "title": "Honda Smart Key System Structure Description - Components",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001977",
+  "assets": [
+    "1977_3.0_jpn_11155801_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Honda Smart Key System Structure Description - Components"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Honda Smart Key"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Honda Smart Key consists of a main unit and a built-in mechanical key. The main unit has keyless transmitter and immobilizer functions. It receives LF signals within the range of the vehicle's LF antenna and transmits RF signals. Both the Honda Smart Key and Keyless Transmitter are subject to the technical standards for specified low-power radio equipment and are therefore restricted to use only in Japan. Do not alter, disassemble, or intentionally erase or tamper with the technical standards conformity marking inside the key. Use of modified keys is prohibited by law. Up to six keys can be registered."
+    },
+    {
+      "type": "figure",
+      "asset": "1977_3.0_jpn_11155801_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lock/unlock switch"
+    },
+    {
+      "type": "paragraph",
+      "text": "The lock/unlock switch is attached to the driver and assistant door outer handles and the tailgate outer handle. Lock/Unlock Unlock/lock each door and tailgate by pushing the switch."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Each LF Antenna/RF Unit"
+    },
+    {
+      "type": "paragraph",
+      "text": "Each LF antenna forms an operating range around the entire interior, near the front doors, and around the tailgate. Each LF antenna transmits radio waves when it is activated, such as when locking or unlocking the door, and should not come within 22 cm of medical electronic devices, such as implantable cardiac pacemakers, as they may be affected. The RF unit is embedded in the smart ECU and mutually authenticates with the Honda smart key."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Electronic Steering Lock"
+    },
+    {
+      "type": "paragraph",
+      "text": "The steering wheel is controlled to lock and unlock by signals from the smart ECU."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "ENGINE START STOP switch"
+    },
+    {
+      "type": "paragraph",
+      "text": "Connected to the smart ECU, the ignition mode can be switched by pressing the button. An immobilizer receiver is built in."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ansa Back Buzzer"
+    },
+    {
+      "type": "paragraph",
+      "text": "The MICU output blows when the Honda Smart Key is unlocked or locked, when the lock button is disabled, or when the key is taken out of the car."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001977_jpn/web/html/C001977_jpn_Content.html",
+  "inOutline": true
+}

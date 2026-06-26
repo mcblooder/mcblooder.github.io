@@ -1,0 +1,303 @@
+{
+  "id": "G000998",
+  "title": "Power window configuration diagram",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "wind",
+  "system": "Power Window",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000998",
+  "assets": [
+    "998_3.0_jpn_11337369_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000927",
+      "label": "R000927",
+      "resolved": true
+    },
+    {
+      "id": "R000925",
+      "label": "R000925",
+      "resolved": true
+    },
+    {
+      "id": "R001000",
+      "label": "R001000",
+      "resolved": true
+    },
+    {
+      "id": "R001006",
+      "label": "R001006",
+      "resolved": true
+    },
+    {
+      "id": "R001003",
+      "label": "R001003",
+      "resolved": true
+    },
+    {
+      "id": "R001001",
+      "label": "R001001",
+      "resolved": true
+    },
+    {
+      "id": "R001007",
+      "label": "R001007",
+      "resolved": true
+    },
+    {
+      "id": "R001004",
+      "label": "R001004",
+      "resolved": true
+    },
+    {
+      "id": "R000999",
+      "label": "R000999",
+      "resolved": true
+    },
+    {
+      "id": "R001005",
+      "label": "R001005",
+      "resolved": true
+    },
+    {
+      "id": "R001002",
+      "label": "R001002",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Power window configuration diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "998_3.0_jpn_11337369_2.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            350.0,
+            22.0,
+            372.0,
+            36.0
+          ],
+          "ref": {
+            "id": "R000927",
+            "label": "R000927",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            577.0,
+            202.0,
+            599.0,
+            216.0
+          ],
+          "ref": {
+            "id": "R000925",
+            "label": "R000925",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            297.0,
+            113.0,
+            319.0,
+            127.0
+          ],
+          "ref": {
+            "id": "R001000",
+            "label": "R001000",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            297.0,
+            124.0,
+            319.0,
+            138.0
+          ],
+          "ref": {
+            "id": "R001006",
+            "label": "R001006",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            170.0,
+            73.0,
+            192.0,
+            87.0
+          ],
+          "ref": {
+            "id": "R001003",
+            "label": "R001003",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            88.0,
+            112.0,
+            110.0,
+            126.0
+          ],
+          "ref": {
+            "id": "R001001",
+            "label": "R001001",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            88.0,
+            126.0,
+            99.0,
+            135.0
+          ],
+          "ref": {
+            "id": "R001001",
+            "label": "R001001",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            88.0,
+            123.0,
+            110.0,
+            137.0
+          ],
+          "ref": {
+            "id": "R001007",
+            "label": "R001007",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            33.0,
+            576.0,
+            55.0,
+            590.0
+          ],
+          "ref": {
+            "id": "R001004",
+            "label": "R001004",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            319.0,
+            619.0,
+            341.0,
+            633.0
+          ],
+          "ref": {
+            "id": "R001004",
+            "label": "R001004",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            457.0,
+            560.0,
+            479.0,
+            574.0
+          ],
+          "ref": {
+            "id": "R001001",
+            "label": "R001001",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            457.0,
+            571.0,
+            479.0,
+            585.0
+          ],
+          "ref": {
+            "id": "R001007",
+            "label": "R001007",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            508.0,
+            431.0,
+            530.0,
+            445.0
+          ],
+          "ref": {
+            "id": "R000999",
+            "label": "R000999",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            508.0,
+            442.0,
+            530.0,
+            456.0
+          ],
+          "ref": {
+            "id": "R001005",
+            "label": "R001005",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            507.0,
+            504.0,
+            529.0,
+            518.0
+          ],
+          "ref": {
+            "id": "R001002",
+            "label": "R001002",
+            "resolved": true
+          }
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000998_jpn/web/html/G000998_jpn_Content.html",
+  "inOutline": true
+}

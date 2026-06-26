@@ -1,0 +1,313 @@
+{
+  "id": "A000147",
+  "title": "DTC Commentary: P2714",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000147",
+  "assets": [
+    "147_3.0_jpn_11033690_4.0_disp.png",
+    "147_3.0_jpn_11033691_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Commentary: P2714"
+    },
+    {
+      "type": "dtc",
+      "code": "P2714",
+      "text": "DTC P2714: Lock-up clutch control SOL.V. OFF Stuck"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "147_3.0_jpn_11033690_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The lock-up clutch control SOL.V. controls the hydraulic pressure applied to the lock-up clutch. The spool in the lock-up clutch control SOL.V. pushes a valve in response to the duty (load) output, which is converted to a current value by the PGM-FI ECU. As a result, the valve pushed by the spool releases oil pressure proportional to the current value. The PGM-FI ECU outputs a control signal for the lock-up clutch oil pressure for proper lock-up. If the lock-up clutch remains OFF for a predetermined period of time in the running state, the PGM-FI ECU judges that the lock-up clutch control SOL.V. is stuck OFF and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "By reproducible testing methods"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: off, D indicator light: flashing"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Engine RPM [engine rpm].",
+            "colspan": 2
+          },
+          {
+            "text": "1,000rpm"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Vehicle speed [vehicle speed].",
+            "colspan": 2
+          },
+          {
+            "text": "45km/h"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Gas pedal Pedal Position",
+            "colspan": 2
+          },
+          {
+            "text": "―"
+          },
+          {
+            "text": "13°"
+          }
+        ],
+        [
+          {
+            "text": "select The lever position",
+            "rowspan": 2
+          },
+          {
+            "text": "paddle shift switch car without equipment"
+          },
+          {
+            "text": "D, L",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "paddle shift switch equipped (with)"
+          },
+          {
+            "text": "D, S",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC",
+            "colspan": 2
+          },
+          {
+            "text": "P0502､ P0705､ P0706､ P0716､ P0717､ P0780､ P0792､ P0793､ P0796､ P0797､ P0962､ P0963､ P0966､ P0967､ P0970､ P0971､ P1898､ P1899､ P2715､ P2720､ P2721",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "When symptom 1 occurs."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "symptoms",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "Vehicle Condition",
+            "header": true
+          },
+          {
+            "text": "Information detected by PGM-FI ECU",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "1",
+            "colspan": 2
+          },
+          {
+            "text": "running"
+          },
+          {
+            "text": "Target ETR - Actual ETR less than 12% for 30 seconds Continued from above"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Lock-up clutch control SOL.V. OFF sticking"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "figure",
+      "asset": "147_3.0_jpn_11033691_4.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Start the engine."
+        },
+        {
+          "text": "Step on the brake pedal and move the select lever from the N to D position."
+        },
+        {
+          "text": "The vehicle speed [vehicle speed] is 60 km/h for 1 minute."
+        },
+        {
+          "text": "Decelerate/stop."
+        },
+        {
+          "text": "Set the select lever to the N position."
+        },
+        {
+          "text": "Repeat test run steps 2 through 5 five times."
+        },
+        {
+          "text": "Turn ignition OFF (LOCK) mode."
+        },
+        {
+          "text": "Repeat test run steps 1 through 7 five times."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When conducting test drives, the driver must comply with all laws and regulations, observe good manners, and drive in accordance with the surrounding conditions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "None."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the D indicator light will flash without the PGM-FI warning light illuminating, and the DTC and freeze data will be stored."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use of the clear command of the scan tool (including HDS) or removal of the 12V battery terminal will clear the D indicator light, temporary DTC, DTC, and freeze data."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000147_jpn/web/html/A000147_jpn_Content.html",
+  "inOutline": true
+}

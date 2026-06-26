@@ -1,0 +1,221 @@
+{
+  "id": "T001431",
+  "title": "Combination Meter Input Inspection",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "meter",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001431",
+  "assets": [
+    "1431_3.0_jpn_11579662_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R001029",
+      "label": "Replace the combination meter",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Combination Meter Input Inspection"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Combination Disconnect the meter 32P coupler"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. Perform input checks and if all is normal and there is an abnormality in the system Replace the combination meter",
+      "refs": [
+        {
+          "id": "R001029",
+          "label": "Replace the combination meter",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1431_3.0_jpn_11579662_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "inspection terminal",
+            "header": true
+          },
+          {
+            "text": "Wiring color",
+            "header": true
+          },
+          {
+            "text": "Measuring conditions",
+            "header": true
+          },
+          {
+            "text": "result",
+            "header": true
+          },
+          {
+            "text": "Inspection items in case of abnormality",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "black"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "yellow"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Blown No. A14 (10A) fuse in relay box Blown No. D1 (15A) fuse in sub fuse/relay box Fuse Box Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "17"
+          },
+          {
+            "text": "purple"
+          },
+          {
+            "text": "Turn ignition to ON mode"
+          },
+          {
+            "text": "Battery voltage must be present between the inspection terminal and body ground."
+          },
+          {
+            "text": "Blown No. D4 (7.5A) fuse in sub fuse/relay box Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "23"
+          },
+          {
+            "text": "weak matcha"
+          },
+          {
+            "text": "Parking brake Switch ON (depress the pedal)"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Parking brake switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "24"
+          },
+          {
+            "text": "tea"
+          },
+          {
+            "text": "Brake fluid level switch ON (float down)"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G201) Brake fluid level switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "7"
+          },
+          {
+            "text": "new leaves"
+          },
+          {
+            "text": "ECON switch ON"
+          },
+          {
+            "text": "Continuity must exist between the inspection terminal and body ground."
+          },
+          {
+            "text": "Grounding failure (G402) ECON Switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "12 *"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Turn ignition to ON mode Turn Signal Switch R. Position"
+          },
+          {
+            "text": "R. Turn Signal Battery voltage present between inspection terminal and body ground when indicator is lit"
+          },
+          {
+            "text": "MICU Turn Signal Switch Cord disconnection and terminal connection condition"
+          }
+        ],
+        [
+          {
+            "text": "28 *"
+          },
+          {
+            "text": "green"
+          },
+          {
+            "text": "Turn ignition to ON mode Turn Signal Switch L. Position"
+          },
+          {
+            "text": "L. Turn Signal Battery voltage present between inspection terminal and body ground when indicator is lit"
+          },
+          {
+            "text": "MICU Turn Signal Switch Cord disconnection and terminal connection condition"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131120135106/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001431_jpn/web/html/T001431_jpn_Content.html",
+  "inOutline": true
+}

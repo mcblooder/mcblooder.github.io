@@ -1,0 +1,212 @@
+{
+  "id": "R000454",
+  "title": "Removal and installation of water temperature sensor",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "PGM-FI System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000454",
+  "assets": [
+    "454_3.0_jpn_11582528_3.0_disp.png",
+    "454_3.0_jpn_11582529_3.0_disp.png",
+    "454_3.0_jpn_11582530_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000435",
+      "label": "Cooling water removal",
+      "resolved": true
+    },
+    {
+      "id": "R000412",
+      "label": "Remove air cleaner (for vehicles without turbo charger)",
+      "resolved": true
+    },
+    {
+      "id": "R000418",
+      "label": "Intercooler removal (turbo charger equipped vehicles)",
+      "resolved": true
+    },
+    {
+      "id": "R000465",
+      "label": "Cars not equipped with a turbo charger",
+      "resolved": true
+    },
+    {
+      "id": "R002172",
+      "label": "Turbo Charger equipped vehicle",
+      "resolved": true
+    },
+    {
+      "id": "R002190",
+      "label": "EGR Pipe B removal (for vehicles not equipped with turbo charger)",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removal and installation of water temperature sensor"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Cooling water removal",
+      "refs": [
+        {
+          "id": "R000435",
+          "label": "Cooling water removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Remove air cleaner (for vehicles without turbo charger)",
+      "refs": [
+        {
+          "id": "R000412",
+          "label": "Remove air cleaner (for vehicles without turbo charger)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Intercooler removal (turbo charger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000418",
+          "label": "Intercooler removal (turbo charger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Throttle body removal"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000465",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000465",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R002172",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R002172",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. EGR Pipe B removal (for vehicles not equipped with turbo charger)",
+      "refs": [
+        {
+          "id": "R002190",
+          "label": "EGR Pipe B removal (for vehicles not equipped with turbo charger)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Intake manifold bracket removal"
+    },
+    {
+      "type": "figure",
+      "asset": "454_3.0_jpn_11582528_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "454_3.0_jpn_11582529_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove engine wire harness clamp (A) and purge hose clamp (B). Remove the intake manifold stay (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Water temperature sensor removal"
+    },
+    {
+      "type": "figure",
+      "asset": "454_3.0_jpn_11582530_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Remove the water temperature sensor (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "O-rings shall be replaced upon disassembly.",
+        "When replenishing cooling water, do not allow the cooling water to adhere to electrical components or painted surfaces. If it does adhere, wipe it off immediately."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000454_jpn/web/html/R000454_jpn_Content.html",
+  "inOutline": true
+}

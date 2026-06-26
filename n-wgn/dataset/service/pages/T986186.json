@@ -1,0 +1,55 @@
+{
+  "id": "T986186",
+  "title": "City Brake Active system activated at an unnecessary time.",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Speed/body control",
+  "system": "City Brake Active System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986186",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T002257",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "City Brake Active system activated at an unnecessary time."
+    },
+    {
+      "type": "paragraph",
+      "text": "checklist"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Failure Diagnosis by Symptom ​",
+          "refs": [
+            {
+              "id": "T002257",
+              "label": "Failure Diagnosis by Symptom",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986186_jpn/web/html/T986186_jpn_Content.html",
+  "inOutline": true
+}

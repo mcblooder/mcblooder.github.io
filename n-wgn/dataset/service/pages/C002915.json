@@ -1,0 +1,340 @@
+{
+  "id": "C002915",
+  "title": "Idling Stop System Structure Description",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Idling stop system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002915",
+  "assets": [
+    "2915_3.0_jpn_11409935_2.0_disp.png",
+    "2915_3.0_jpn_11409936_2.0_disp.png",
+    "2915_3.0_jpn_11409937_2.0_disp.png",
+    "2915_3.0_jpn_11409938_2.0_disp.png",
+    "2915_3.0_jpn_11409939_2.0_disp.png",
+    "2915_3.0_jpn_11409940_2.0_disp.png",
+    "2915_3.0_jpn_11409941_2.0_disp.png",
+    "2915_3.0_jpn_11409942_2.0_disp.png",
+    "2915_3.0_jpn_11409943_2.0_disp.png",
+    "2915_3.0_jpn_11409944_2.0_disp.png",
+    "2915_3.0_jpn_11409945_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "C001964",
+      "label": "C001964",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Idling Stop System Structure Description"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Idling Stop System is a system that stops idling when decelerating after the engine is warmed up or when the vehicle stops, based on the driver's operation, the environment inside and outside the vehicle, and the condition of the vehicle. Idling stop improves fuel economy and reduces idling noise. In addition, in situations where acceleration and deceleration are repeated at low vehicle speeds, such as on congested roads, frequent engine stops and restarts are suppressed, thereby reducing the hassle of repeated stop/start cycles and the number of starter operations."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Idling is stopped when the brake pedal is depressed during deceleration or stopping, and the idling stop indicator light is illuminated during idling stop."
+        },
+        {
+          "text": "If the brake pedal is released during idling stop, the engine restarts automatically."
+        },
+        {
+          "text": "Depending on the indoor and outdoor environment, the condition of the vehicle, and the driver's operation, the engine will automatically restart without releasing the brake pedal."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2915_3.0_jpn_11409935_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The figure below shows a flowchart of the idling stop system control. The idling stop system judges the environment inside and outside the vehicle, the condition of the vehicle, and the driver's operation, and performs idling stop and restarting."
+    },
+    {
+      "type": "figure",
+      "asset": "2915_3.0_jpn_11409936_2.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            467.0,
+            14.0,
+            536.0,
+            24.0
+          ],
+          "ref": {
+            "id": "C001964",
+            "label": "C001964",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            439.0,
+            22.0,
+            487.0,
+            32.0
+          ],
+          "ref": {
+            "id": "C001964",
+            "label": "C001964",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            465.0,
+            633.0,
+            540.0,
+            643.0
+          ],
+          "ref": {
+            "id": "C001964",
+            "label": "C001964",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            437.0,
+            641.0,
+            453.0,
+            651.0
+          ],
+          "ref": {
+            "id": "C001964",
+            "label": "C001964",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            231.0,
+            682.0,
+            300.0,
+            692.0
+          ],
+          "ref": {
+            "id": "C001964",
+            "label": "C001964",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            203.0,
+            690.0,
+            251.0,
+            700.0
+          ],
+          "ref": {
+            "id": "C001964",
+            "label": "C001964",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            343.0,
+            681.0,
+            418.0,
+            691.0
+          ],
+          "ref": {
+            "id": "C001964",
+            "label": "C001964",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            315.0,
+            689.0,
+            363.0,
+            699.0
+          ],
+          "ref": {
+            "id": "C001964",
+            "label": "C001964",
+            "resolved": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2915_3.0_jpn_11409937_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Idling stop control"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI ECU judges whether to stop idling or not from signals from each unit, sensor, and switch. If it is determined to stop idling, the PGM-FI ECU stops the engine by stopping fuel injection. At the same time and at the same time, the CVT accumulator maintains storage pressure and activates creep aid control (CAS) when the vehicle stops. During idling stop operation, the idling stop indicator light in the combination meter is turned on, and the engine oil pressure warning light and charging warning light are turned off."
+    },
+    {
+      "type": "figure",
+      "asset": "2915_3.0_jpn_11409938_2.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            79.0,
+            816.0,
+            244.0,
+            830.0
+          ],
+          "ref": {
+            "id": "C001964",
+            "label": "C001964",
+            "resolved": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "After the speed condition is met, the engine automatically stops when the brake pedal is depressed. The engine restarts when the brake pedal is released. The PGM-FI ECU determines restarting from an idling stop from signals from each unit, sensor, and switch. When the engine is restarted from an idling stop, a signal from the PGM-FI ECU drives the starter motor and restarts fuel injection to restart the engine."
+    },
+    {
+      "type": "figure",
+      "asset": "2915_3.0_jpn_11409939_2.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            103.0,
+            663.0,
+            268.0,
+            677.0
+          ],
+          "ref": {
+            "id": "C001964",
+            "label": "C001964",
+            "resolved": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Idling stop control (air conditioning)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In order to maintain cabin comfort, the auto A/C control unit sends a decision to the PGM-FI ECU to stop/restart idling while using A/C based on information from each sensor and switch. When a restart is requested during idling stop, the idling stop indicator light is turned off and the engine is restarted. In the event of a malfunction of the auto A/C control unit, the malfunction information is sent to the PGM-FI ECU and the idling stop system warning light (orange) is turned on."
+    },
+    {
+      "type": "figure",
+      "asset": "2915_3.0_jpn_11409940_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Idling stop control (battery degradation)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI ECU obtains the battery internal resistance value and battery fluid temperature, current, and voltage from the battery sensor using LIN communication. the PGM-FI ECU judges battery degradation based on the received information and prohibits idling stop if it judges that the battery is degraded."
+    },
+    {
+      "type": "paragraph",
+      "text": "When replacing the 12V battery, the 12V battery internal resistance value stored in the PGM-FI ECU must be erased."
+    },
+    {
+      "type": "figure",
+      "asset": "2915_3.0_jpn_11409941_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Idling stop control (number of starter operations)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI ECU counts the number of starter starts. If the number of starter starts is the set number of times *1 The PGM-FI ECU stops the idling stop system when the number of starts exceeds the set number of starts. If the PGM-FI ECU determines that the number of starter starts exceeds the set number of starts, the idling stop system warning light (orange) on the combination meter illuminates *2 The driver will let the driver know that the idling is not stopped. When replacing the PGM-FI ECU, the stored idling stop starter start count data must be transferred. When replacing the starter motor, the starter cut relay 1/2, oil pressure switch must be replaced, and the idle stop starter start count data must be erased."
+    },
+    {
+      "type": "paragraph",
+      "text": "*1: The starter is set to start 275,000 times. (Idling stop may be stopped earlier than 275,000 times depending on driving conditions.) *2: The warning light does not come on when the system is turned off by the ECON switch."
+    },
+    {
+      "type": "figure",
+      "asset": "2915_3.0_jpn_11409942_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Battery Sensor"
+    },
+    {
+      "type": "paragraph",
+      "text": "The battery sensor detects the current, voltage, temperature, and internal resistance of the battery and outputs signals to the PGM-FI ECU, which uses the signals input from the battery sensor to determine whether idling stop is allowed."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "DC-DC Converter"
+    },
+    {
+      "type": "paragraph",
+      "text": "The DC-DC converter is activated when the engine start signal is detected by the PGM-FI ECU when restarting after an idling stop."
+    },
+    {
+      "type": "figure",
+      "asset": "2915_3.0_jpn_11409943_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2915_3.0_jpn_11409944_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Idling Stop System-related failure"
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not stop idling if any of the following systems related to idling stop have malfunctioned. If any of the warning/indication lights are on or blinking, diagnose the malfunction of each system."
+    },
+    {
+      "type": "figure",
+      "asset": "2915_3.0_jpn_11409945_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002915_jpn/web/html/C002915_jpn_Content.html",
+  "inOutline": true
+}

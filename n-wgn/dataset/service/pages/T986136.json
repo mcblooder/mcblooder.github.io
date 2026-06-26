@@ -1,0 +1,95 @@
+{
+  "id": "T986136",
+  "title": "Can't turn it off.",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986136",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T001404",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Can't turn it off."
+    },
+    {
+      "type": "paragraph",
+      "text": "diagnostic procedure"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Failure Diagnosis by Symptom ​",
+          "refs": [
+            {
+              "id": "T001404",
+              "label": "Failure Diagnosis by Symptom",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "checklist"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Disconnection or short-circuit of SS1 (+) line"
+        },
+        {
+          "text": "Disconnection or short-circuit of SS2 (-) line"
+        },
+        {
+          "text": "ENGINE START STOP switch"
+        },
+        {
+          "text": "MICU"
+        },
+        {
+          "text": "Parking pin switch"
+        },
+        {
+          "text": "P-PIN SW line disconnected or shorted"
+        },
+        {
+          "text": "Shift position sensor"
+        },
+        {
+          "text": "Disconnection or short-circuit of ATP-P line"
+        },
+        {
+          "text": "Disconnection or short-circuit of B-CAN line"
+        },
+        {
+          "text": "Disconnection or short-circuit of F-CAN line"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986136_jpn/web/html/T986136_jpn_Content.html",
+  "inOutline": true
+}

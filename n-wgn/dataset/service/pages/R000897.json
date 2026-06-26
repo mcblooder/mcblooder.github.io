@@ -1,0 +1,97 @@
+{
+  "id": "R000897",
+  "title": "Removing and installing the inside/outside air switching motor",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000897",
+  "assets": [
+    "897_5.0_jpn_11581032_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000783",
+      "label": "Glove box removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removing and installing the inside/outside air switching motor"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Before removing the motor, set the inside/outside air switch to inside air circulation. The set value shall be set in the"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Glove box removal",
+      "refs": [
+        {
+          "id": "R000783",
+          "label": "Glove box removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Remove inside/outside air switching motor"
+    },
+    {
+      "type": "figure",
+      "asset": "897_5.0_jpn_11581032_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Remove the inside/outside air switching motor (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Precautions for installation work"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Ensure that the damper linkage operates smoothly before installing the inside/outside air changeover motor."
+        },
+        {
+          "text": "Ensure that the damper linkage operates smoothly before installing the inside/outside air changeover motor."
+        },
+        {
+          "text": "After installation, operate the inside air circulation switch and confirm that the inside/outside air switching motor operates normally."
+        },
+        {
+          "text": "After installation, operate the inside air circulation switch and confirm that the inside/outside air switching motor operates normally."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000897_jpn/web/html/R000897_jpn_Content.html",
+  "inOutline": true
+}

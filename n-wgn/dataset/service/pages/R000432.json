@@ -1,0 +1,256 @@
+{
+  "id": "R000432",
+  "title": "Inspect water pump (for both A/C compressor) belt.",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cooling System",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000432",
+  "assets": [
+    "432_3.0_jpn_11583076_3.0_disp.png",
+    "432_3.0_jpn_11583077_3.0_disp.png",
+    "432_3.0_jpn_11583078_3.0_disp.png",
+    "432_3.0_jpn_11583079_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Up",
+      "resolved": true
+    },
+    {
+      "id": "R000849",
+      "label": "Right side front splash guard removal",
+      "resolved": true
+    },
+    {
+      "id": "R000433",
+      "label": "Exchange.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect water pump (for both A/C compressor) belt."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Specified commercial tools"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the belt is replaced with a new one, adjustments and inspections shall be made when the belt is replaced with a new one.",
+        "Belt inspection and adjustment shall be performed when the engine is cold, because when the engine is warm, the space between each pulley shaft is stretched, and even if the belt is adjusted to the standard tension value in that condition, the space between the shafts will shrink and the tension will decrease when the engine is cold."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Up",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Up",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Right side front splash guard removal",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Right side front splash guard removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Water pump (for both A/C compressor) belt inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "432_3.0_jpn_11583076_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect water pump belts for damage and replace any that are damaged. Exchange. The following is a list of the most common problems with the",
+      "refs": [
+        {
+          "id": "R000433",
+          "label": "Exchange.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Tension Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "432_3.0_jpn_11583077_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the belt tension gauge (07JGG-0010101) and inspect the belt tension."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not rotate the crankshaft pulley during inspection.",
+        "Always use a belt tension gauge.",
+        "Refer to the instruction manual for the gauge for belt tension gauge usage.",
+        "When installing, removing, and measuring belt tension gauges, as far as possible, the belt tension gauges should not be placed against any object other than the belt.",
+        "The reset button must not touch any other parts of the belt when it is removed from the belt.",
+        "When a remote cable is used for measurement, it should be free from unreasonable bends."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "When belt is reused",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Reference value"
+          },
+          {
+            "text": "245－343N (25－35kgf)"
+          }
+        ],
+        [
+          {
+            "text": "When new belt is replaced:.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Reference value"
+          },
+          {
+            "text": "490－638N (50－65kgf)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Deflection amount Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "432_3.0_jpn_11583078_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect the amount of deflection when the center portion (A) between the pulleys is pressed with a force of 98 N (10 kgf)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not rotate the crankshaft pulley during inspection.",
+        "Push-pull gauges should be used for measurement."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "When belt is reused",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Reference value"
+          },
+          {
+            "text": "8.5－9.5mm/98N (10kgf)"
+          }
+        ],
+        [
+          {
+            "text": "When new belt is replaced:.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Reference value"
+          },
+          {
+            "text": "6－7mm/98N (10kgf)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Water pump Belt tension adjustment"
+    },
+    {
+      "type": "figure",
+      "asset": "432_3.0_jpn_11583079_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Loosen the two lock bolts (A) on the A/C compressor, adjust the belt tension with a handy bar (KTC LZ2-600), and tighten the lock bolts to the specified torque."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Never turn the crankshaft pulley during adjustment."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When re-measuring after adjusting the belt tension, be sure to turn the crankshaft pulley clockwise 1-2 revolutions before measurement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Right side front splash guard installed",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Right side front splash guard installed",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000432_jpn/web/html/R000432_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,195 @@
+{
+  "id": "C002013",
+  "title": "Keyless Door Lock/Security Alarm System Structure Description - Components",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Keyless/power door locks/anti-theft system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002013",
+  "assets": [
+    "2013_3.0_jpn_11155929_3.0_disp.png",
+    "2013_3.0_jpn_11390970_2.0_disp.png",
+    "2013_3.0_jpn_11390971_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Keyless Door Lock/Security Alarm System Structure Description - Components"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Door lock knob switch/door lock actuator"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is built into the door latch. The door lock knob switch detects the lock/unlock status of the door lock knob. The door lock actuator controls the locking/unlocking of the door latch by the output of the MICU."
+    },
+    {
+      "type": "figure",
+      "asset": "2013_3.0_jpn_11390970_2.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "",
+            "rowspan": 2,
+            "header": true
+          },
+          {
+            "text": "Door lock knob switch",
+            "colspan": 2,
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "LOCK circuit*.",
+            "header": true
+          },
+          {
+            "text": "UNLOCK circuit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "locking"
+          },
+          {
+            "text": "ON"
+          },
+          {
+            "text": "OFF"
+          }
+        ],
+        [
+          {
+            "text": "unlocking"
+          },
+          {
+            "text": "OFF"
+          },
+          {
+            "text": "ON"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "*:Driver's seat side only"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tailgate Release Actuator/Tailgate Latch Switch"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is integrated into the tailgate lock. The tailgate release actuator is activated by the MICU, which receives an ON signal from the tailgate outer handle switch via the smart ECU, causing the tailgate release actuator to unlock and release the tailgate latch The tailgate latch is unlocked and released at the same time. The tailgate latch switch is an ON/OFF switch that detects whether the tailgate is open or closed. In the event of tailgate release actuator failure, the tailgate can be unlocked by manually operating the lock lever."
+    },
+    {
+      "type": "figure",
+      "asset": "2013_3.0_jpn_11155929_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "tailgate",
+            "header": true
+          },
+          {
+            "text": "switch",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "opening"
+          },
+          {
+            "text": "ON"
+          }
+        ],
+        [
+          {
+            "text": "half-opened door (car door, etc.)"
+          },
+          {
+            "text": "ON"
+          }
+        ],
+        [
+          {
+            "text": "closing"
+          },
+          {
+            "text": "OFF"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bonnet latch switch"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is built into the hood latch. The bonnet latch is an ON/OFF switch that detects whether the hood is open or closed. It turns OFF when the hood is open and ON when the hood is closed."
+    },
+    {
+      "type": "figure",
+      "asset": "2013_3.0_jpn_11390971_2.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "hood",
+            "header": true
+          },
+          {
+            "text": "switch",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "opening"
+          },
+          {
+            "text": "OFF"
+          }
+        ],
+        [
+          {
+            "text": "closing"
+          },
+          {
+            "text": "ON"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002013_jpn/web/html/C002013_jpn_Content.html",
+  "inOutline": true
+}

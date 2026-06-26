@@ -1,0 +1,357 @@
+{
+  "id": "R000406",
+  "title": "Remove the engine oil pump.",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder block",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000406",
+  "assets": [
+    "406_5.0_jpn_11583009_5.0_disp.png",
+    "406_5.0_jpn_11583010_5.0_disp.png",
+    "406_5.0_jpn_11583011_5.0_disp.png",
+    "406_5.0_jpn_11583012_5.0_disp.png",
+    "406_5.0_jpn_11583013_5.0_disp.png",
+    "406_5.0_jpn_11583014_5.0_disp.png",
+    "406_5.0_jpn_11583015_5.0_disp.png",
+    "406_5.0_jpn_11583016_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000369",
+      "label": "Cam chain removal",
+      "resolved": true
+    },
+    {
+      "id": "R000846",
+      "label": "Cowl top removal",
+      "resolved": true
+    },
+    {
+      "id": "R000412",
+      "label": "Remove air cleaner (for vehicles without turbo charger)",
+      "resolved": true
+    },
+    {
+      "id": "R000418",
+      "label": "Intercooler removal (turbo charger equipped vehicles)",
+      "resolved": true
+    },
+    {
+      "id": "R000505",
+      "label": "Purge Control SOL.V. Removal",
+      "resolved": true
+    },
+    {
+      "id": "R000448",
+      "label": "ECU removal",
+      "resolved": true
+    },
+    {
+      "id": "R000389",
+      "label": "Oil pan removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Remove the engine oil pump."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Specified commercial tools"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Cam chain removal",
+      "refs": [
+        {
+          "id": "R000369",
+          "label": "Cam chain removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Cowl top removal",
+      "refs": [
+        {
+          "id": "R000846",
+          "label": "Cowl top removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Remove air cleaner (for vehicles without turbo charger)",
+      "refs": [
+        {
+          "id": "R000412",
+          "label": "Remove air cleaner (for vehicles without turbo charger)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Intercooler removal (turbo charger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000418",
+          "label": "Intercooler removal (turbo charger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Relay box/relay box stay removal"
+    },
+    {
+      "type": "figure",
+      "asset": "406_5.0_jpn_11583009_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Remove the harness clamp (B). Remove the A/C pipe clamp (C). Remove the relay box stay (D)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. リレー ボックス ステイ 取外し"
+    },
+    {
+      "type": "figure",
+      "asset": "406_5.0_jpn_11583010_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Purge Control SOL.V. Removal",
+      "refs": [
+        {
+          "id": "R000505",
+          "label": "Purge Control SOL.V. Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. ECU removal",
+      "refs": [
+        {
+          "id": "R000448",
+          "label": "ECU removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Sub Hangar Stay Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "406_5.0_jpn_11583011_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the sub hanger stay (07MAK-PY30100) using the spacer (A) and bolt (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Engine support hanger installation"
+    },
+    {
+      "type": "figure",
+      "asset": "406_5.0_jpn_11583012_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Temporarily assemble the engine support hangers (AAR-T1256-J00) to the upper parts of the left and right dampers and the front bulkhead. Secure each part of the engine support hanger by hanging the hooks over the mounting holes of the sub hanger stays. Tighten the wing nut (A) on the lifting hook to support the engine."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Oil pan removal",
+      "refs": [
+        {
+          "id": "R000389",
+          "label": "Oil pan removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. Oil pump removal"
+    },
+    {
+      "type": "figure",
+      "asset": "406_5.0_jpn_11583013_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the oil strainer (A) and remove the oil pump (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Oil Pump Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "406_5.0_jpn_11583014_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the adhesive in the oil pump O-ring groove. Install the oil pump (B) using a new O-ring (A)."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Install the oil strainer (D) using the new packing (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Oil pan installation",
+      "refs": [
+        {
+          "id": "R000389",
+          "label": "Oil pan installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Remove engine support hanger/sub hanger stay"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Lower the vehicle body. Place the oil pan on a plate and support it with a garage jack. Remove the engine support hanger (AAR-T1256-J00) and the sub hanger stay (07MAK-PY30100)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Purge Control SOL.V. Installation",
+      "refs": [
+        {
+          "id": "R000505",
+          "label": "Purge Control SOL.V. Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Relay Box Stay Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "406_5.0_jpn_11583015_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Relay Box/Relay Box Stay Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "406_5.0_jpn_11583016_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install relay box stay (A). Install the harness clamp (B). Install A/C pipe clamp (C). Connect the coupler (D). Install the relay box (E)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Intercooler installation (Turbocharger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000418",
+          "label": "Intercooler installation (Turbocharger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Air cleaner installed (for vehicles not equipped with turbo charger)",
+      "refs": [
+        {
+          "id": "R000412",
+          "label": "Air cleaner installed (for vehicles not equipped with turbo charger)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Cowl Top Mounting",
+      "refs": [
+        {
+          "id": "R000846",
+          "label": "Cowl Top Mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Cam Chain Mounting",
+      "refs": [
+        {
+          "id": "R000369",
+          "label": "Cam Chain Mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When the side engine mount assembly is removed and installed, the transmission mount and torque rod must be tightened in the correct sequence."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000406_jpn/web/html/R000406_jpn_Content.html",
+  "inOutline": true
+}

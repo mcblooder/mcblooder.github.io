@@ -1,0 +1,371 @@
+{
+  "id": "R000837",
+  "title": "Fuel Lid Opener Cable Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "fuel lid",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000837",
+  "assets": [
+    "837_3.0_jpn_11372249_3.0_disp.png",
+    "837_3.0_jpn_11372250_2.0_disp.png",
+    "837_3.0_jpn_11390115_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000792",
+      "label": "Remove both front seats",
+      "resolved": true
+    },
+    {
+      "id": "R002503",
+      "label": "Seat under tray removal",
+      "resolved": true
+    },
+    {
+      "id": "R000799",
+      "label": "Rear seat removal",
+      "resolved": true
+    },
+    {
+      "id": "R000757",
+      "label": "Remove front side garnishes on both sides.",
+      "resolved": true
+    },
+    {
+      "id": "R000761",
+      "label": "Passenger side rear side garnish removal",
+      "resolved": true
+    },
+    {
+      "id": "R000758",
+      "label": "Side curtains Non-equipped vehicles without airbags",
+      "resolved": true
+    },
+    {
+      "id": "R000759",
+      "label": "Side curtain airbag-equipped vehicles",
+      "resolved": true
+    },
+    {
+      "id": "R000809",
+      "label": "Passenger side rear seat belt removal",
+      "resolved": true
+    },
+    {
+      "id": "R000767",
+      "label": "Remove the necessary amount of floor carpet.",
+      "resolved": true
+    },
+    {
+      "id": "R000703",
+      "label": "Parking cable protector removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuel Lid Opener Cable Removal and Installation"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If there are components of the SRS airbag system in the vicinity, refer to the work precautions and configuration drawings described for the SRS airbag system before proceeding."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Remove both front seats",
+      "refs": [
+        {
+          "id": "R000792",
+          "label": "Remove both front seats",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Seat under tray removal",
+      "refs": [
+        {
+          "id": "R002503",
+          "label": "Seat under tray removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Rear seat removal",
+      "refs": [
+        {
+          "id": "R000799",
+          "label": "Rear seat removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Remove front side garnishes on both sides.",
+      "refs": [
+        {
+          "id": "R000757",
+          "label": "Remove front side garnishes on both sides.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Driver's side cowl side lining removal",
+      "refs": [
+        {
+          "id": "R000757",
+          "label": "Driver's side cowl side lining removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Passenger side rear side garnish removal",
+      "refs": [
+        {
+          "id": "R000761",
+          "label": "Passenger side rear side garnish removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Passenger side center pillar lower garnish removal"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Side curtains Non-equipped vehicles without airbags",
+          "refs": [
+            {
+              "id": "R000758",
+              "label": "Side curtains Non-equipped vehicles without airbags",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtains Non-equipped vehicles without airbags",
+          "refs": [
+            {
+              "id": "R000758",
+              "label": "Side curtains Non-equipped vehicles without airbags",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtain airbag-equipped vehicles",
+          "refs": [
+            {
+              "id": "R000759",
+              "label": "Side curtain airbag-equipped vehicles",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtain airbag-equipped vehicles",
+          "refs": [
+            {
+              "id": "R000759",
+              "label": "Side curtain airbag-equipped vehicles",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Passenger side cargo side lining removal",
+      "refs": [
+        {
+          "id": "R000761",
+          "label": "Passenger side cargo side lining removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Passenger side rear pillar garnish removal"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Side curtains Non-equipped vehicles without airbags",
+          "refs": [
+            {
+              "id": "R000758",
+              "label": "Side curtains Non-equipped vehicles without airbags",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtains Non-equipped vehicles without airbags",
+          "refs": [
+            {
+              "id": "R000758",
+              "label": "Side curtains Non-equipped vehicles without airbags",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtain airbag-equipped vehicles",
+          "refs": [
+            {
+              "id": "R000759",
+              "label": "Side curtain airbag-equipped vehicles",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtain airbag-equipped vehicles",
+          "refs": [
+            {
+              "id": "R000759",
+              "label": "Side curtain airbag-equipped vehicles",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Passenger side rear seat belt removal",
+      "refs": [
+        {
+          "id": "R000809",
+          "label": "Passenger side rear seat belt removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Floor carpet removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the necessary amount of floor carpet.",
+      "refs": [
+        {
+          "id": "R000767",
+          "label": "Remove the necessary amount of floor carpet.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. Front floor spacer removal",
+      "refs": [
+        {
+          "id": "R000767",
+          "label": "Front floor spacer removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "13. Parking cable protector removal",
+      "refs": [
+        {
+          "id": "R000703",
+          "label": "Parking cable protector removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "14. Fuel Lid Opener Cable Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "837_3.0_jpn_11372249_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the fuel lid opener (A)."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the cushion tape (A) and clip (B). Cushion tape should be replaced."
+    },
+    {
+      "type": "figure",
+      "asset": "837_3.0_jpn_11390115_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "837_3.0_jpn_11372250_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Rotate the fuel lid lock (A) counterclockwise to remove it. Disconnect the fuel lid opener cable (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "15. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000837_jpn/web/html/R000837_jpn_Content.html",
+  "inOutline": true
+}

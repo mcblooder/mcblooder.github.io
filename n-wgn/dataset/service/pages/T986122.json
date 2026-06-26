@@ -1,0 +1,55 @@
+{
+  "id": "T986122",
+  "title": "brake warning light (red) and brake warning light (orange) do not all turn off (remain lit at the same time)",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA ABS warning light VSA warning light",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986122",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T002875",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ABS warning light, VSA warning light, brake warning light (red) and brake warning light (orange) do not all turn off (remain lit at the same time)"
+    },
+    {
+      "type": "paragraph",
+      "text": "diagnostic procedure"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Failure Diagnosis by Symptom ​",
+          "refs": [
+            {
+              "id": "T002875",
+              "label": "Failure Diagnosis by Symptom",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986122_jpn/web/html/T986122_jpn_Content.html",
+  "inOutline": true
+}

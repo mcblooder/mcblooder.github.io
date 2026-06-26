@@ -1,0 +1,97 @@
+{
+  "id": "R000500",
+  "title": "Inspection of blow-by gas reduction system",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Blow-by gas reduction system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000500",
+  "assets": [
+    "500_3.0_jpn_11292019_2.0_disp.png",
+    "500_3.0_jpn_11292020_2.0_disp.png",
+    "500_3.0_jpn_11292021_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000503",
+      "label": "Replace PCV valve",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspection of blow-by gas reduction system"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. PCV hose, breather tube Inspect"
+    },
+    {
+      "type": "figure",
+      "asset": "500_3.0_jpn_11292019_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "500_3.0_jpn_11292020_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect the PCV hose (A) and breather tube (B) for cracks, damage, disconnections, blockages, or looseness."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. PCV valve Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "500_3.0_jpn_11292021_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Check that the PCV valve makes a seating sound when the hose (A) between the PCV valve and intake manifold is lightly crushed during idling."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If there is no seating sound Replace PCV valve and re-inspect.",
+          "refs": [
+            {
+              "id": "R000503",
+              "label": "Replace PCV valve",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If there is no seating sound Replace PCV valve and re-inspect.",
+          "refs": [
+            {
+              "id": "R000503",
+              "label": "Replace PCV valve",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000500_jpn/web/html/R000500_jpn_Content.html",
+  "inOutline": true
+}

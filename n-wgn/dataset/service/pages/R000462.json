@@ -1,0 +1,114 @@
+{
+  "id": "R000462",
+  "title": "Throttle Body Inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "DBW System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000462",
+  "assets": [
+    "462_3.0_jpn_11291987_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000461",
+      "label": "Clean the throttle body.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Throttle Body Inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. HDS Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "462_3.0_jpn_11291987_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect HDS to the data link coupler (A) on the left side of the driver's seat."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Throttle body inspection"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "With the steering wheel in the straight ahead position, check the relative throttle opening sensor in the data list with HDS after at least 1 minute under no load with no headlights, blower motor, rear defroster, radiator fan, A/C, etc. operating."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The display unit shall be \"° (degree)\"."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Cars not equipped with a turbo charger",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "For 2.62° or greater, Clean the throttle body.",
+            "refs": [
+              {
+                "id": "R000461",
+                "label": "Clean the throttle body.",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Turbo Charger equipped vehicle",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "For 3.00° or greater, Clean the throttle body.",
+            "refs": [
+              {
+                "id": "R000461",
+                "label": "Clean the throttle body.",
+                "resolved": true
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000462_jpn/web/html/R000462_jpn_Content.html",
+  "inOutline": true
+}

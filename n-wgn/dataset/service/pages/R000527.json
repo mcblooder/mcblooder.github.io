@@ -1,0 +1,229 @@
+{
+  "id": "R000527",
+  "title": "CVT oil pan removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000527",
+  "assets": [
+    "527_3.0_jpn_11261020_2.0_disp.png",
+    "527_3.0_jpn_11336660_2.0_disp.png",
+    "527_3.0_jpn_11336661_2.0_disp.png",
+    "527_3.0_jpn_11336662_2.0_disp.png",
+    "527_3.0_jpn_11368594_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000850",
+      "label": "Front under cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000849",
+      "label": "Left side front splash guard removal",
+      "resolved": true
+    },
+    {
+      "id": "R000864",
+      "label": "Left side underload path rod installation",
+      "resolved": true
+    },
+    {
+      "id": "R000543",
+      "label": "Transmission Fluid Refill",
+      "resolved": true
+    },
+    {
+      "id": "R000542",
+      "label": "Transmission Fluid Level Check",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "CVT oil pan removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be very careful to prevent dust and other debris from entering the transmission."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Transmission Fluid Extraction"
+    },
+    {
+      "type": "figure",
+      "asset": "527_3.0_jpn_11368594_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "With the vehicle in a horizontal position, remove the drain bolt (A) and drain the transmission fluid."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Front under cover removal",
+      "refs": [
+        {
+          "id": "R000850",
+          "label": "Front under cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Left side front splash guard removal",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Left side front splash guard removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Left side underload pass rod removal"
+    },
+    {
+      "type": "figure",
+      "asset": "527_3.0_jpn_11261020_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Oil pan removal"
+    },
+    {
+      "type": "figure",
+      "asset": "527_3.0_jpn_11336660_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the oil pan (A) and oil pan gasket (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Oil pan installation"
+    },
+    {
+      "type": "figure",
+      "asset": "527_3.0_jpn_11336661_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "527_3.0_jpn_11336662_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Clean and install the oil magnet (A). Temporarily tighten the new oil pan gasket (C) and oil pan (D) with the mounting bolts (E) to the extent that they are tight against the transmission case. Tighten the mounting bolts diagonally with the specified torque. Re-tighten the mounting bolts diagonally with the specified torque."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When installing the oil magnet, it must be installed in the specified position (B)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Left side underload path rod installation",
+      "refs": [
+        {
+          "id": "R000864",
+          "label": "Left side underload path rod installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Left side front splash guard installed",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Left side front splash guard installed",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Front Under Cover Installation",
+      "refs": [
+        {
+          "id": "R000850",
+          "label": "Front Under Cover Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Transmission Fluid Refill",
+      "refs": [
+        {
+          "id": "R000543",
+          "label": "Transmission Fluid Refill",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Transmission Fluid Level Check",
+      "refs": [
+        {
+          "id": "R000542",
+          "label": "Transmission Fluid Level Check",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000527_jpn/web/html/R000527_jpn_Content.html",
+  "inOutline": true
+}

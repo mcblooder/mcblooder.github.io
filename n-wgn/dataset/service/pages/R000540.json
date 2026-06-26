@@ -1,0 +1,153 @@
+{
+  "id": "R000540",
+  "title": "Inclination sensor initial learning",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM electrical system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000540",
+  "assets": [
+    "540_5.0_jpn_11582166_5.0_disp.png",
+    "540_5.0_jpn_11582167_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "T002567",
+      "label": "If there is no communication, check the data link circuit.",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inclination sensor initial learning"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "If any one of the following items applies to the PGM-FI ECU, the HDS shall be used to perform the initial learning of the inclination sensor in the PGM-FI ECU."
+        },
+        {
+          "text": "If any one of the following items applies to the PGM-FI ECU, the HDS shall be used to perform the initial learning of the inclination sensor in the PGM-FI ECU."
+        },
+        {
+          "text": "When the PGM-FI ECU is replaced"
+        },
+        {
+          "text": "When the PGM-FI ECU is replaced"
+        },
+        {
+          "text": "When the PGM-FI ECU is replaced"
+        },
+        {
+          "text": "Inclination sensor (VSA modulator control unit) removed, installed, or replaced"
+        },
+        {
+          "text": "Inclination sensor (VSA modulator control unit) removed, installed, or replaced"
+        },
+        {
+          "text": "When an inclination sensor output error is detected"
+        },
+        {
+          "text": "When an inclination sensor output error is detected"
+        },
+        {
+          "text": "If initial learning of the tilt sensor is not performed, the R indicator light in the combination meter may come on or blink."
+        },
+        {
+          "text": "If initial learning of the tilt sensor is not performed, the R indicator light in the combination meter may come on or blink."
+        },
+        {
+          "text": "This work can be done in two ways: on a level surface or on an unlevel surface. If the level of the area where the vehicle is to be placed cannot be confirmed, the work should be performed on an unlevel area."
+        },
+        {
+          "text": "This work can be done in two ways: on a level surface or on an unlevel surface. If the level of the area where the vehicle is to be placed cannot be confirmed, the work should be performed on an unlevel area."
+        },
+        {
+          "text": "The work shall be performed by one occupant and shall not generate vibration during the study."
+        },
+        {
+          "text": "The work shall be performed by one occupant and shall not generate vibration during the study."
+        },
+        {
+          "text": "If DTCs are detected, this study should be performed after repairing the faulty part."
+        },
+        {
+          "text": "If DTCs are detected, this study should be performed after repairing the faulty part."
+        },
+        {
+          "text": "When this learning is performed, the driving information about creep control stored in the PGM-FI ECU is erased."
+        },
+        {
+          "text": "When this learning is performed, the driving information about creep control stored in the PGM-FI ECU is erased."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Inclination sensor initial learning"
+    },
+    {
+      "type": "figure",
+      "asset": "540_5.0_jpn_11582166_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply the parking brake. Check that the tire pressure is at the standard value (see the tire label on the vehicle). (See the tire label on the vehicle.) If it is out of the standard value, adjust the air pressure to the standard value. Select \"AT\" from the \"System Selection Menu\" in HDS. Select \"Various Tests\" from the \"Test Mode Menu\". Select \"Inclination Sensor Learning\" from the \"Various Tests Menu\". Select \"Inclination sensor initial learning\" from \"Inclination sensor learning\". The learning is performed once. Proceed with the work according to the HDS display, and the initial learning of the tilt sensor is completed when the display indicates that the learning is complete. If a message other than \"Learning Completed\" is displayed, the work shall be performed in accordance with the indication of HDS."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Connect HDS to the data link coupler (A) on the left side of the driver's seat. Turn ignition to ON mode. Verify that HDS communicates with the vehicle and the PGM-FI ECU. If there is no communication, check the data link circuit.",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "If there is no communication, check the data link circuit.",
+          "resolved": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Inclination sensor initial learning"
+    },
+    {
+      "type": "figure",
+      "asset": "540_5.0_jpn_11582167_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply the parking brake. Check that the tire pressure is at the standard value (see the tire label on the vehicle). (See the tire label on the vehicle.) If it is out of the standard value, adjust the air pressure to the standard value. Mark all tire locations. Select \"AT\" from the \"System Selection Menu\" in HDS. Select \"Various Tests\" from the \"Test Mode Menu\". Select \"Inclination Sensor Learning\" from the \"Various Tests Menu\". Select \"Inclination sensor initial learning\" from \"Inclination sensor learning\". The number of times to learn is 2 times. After completing the first study, turn the vehicle around, align the tires with the marked positions, stop the vehicle, and apply the parking brake. The initial learning of the tilt sensor is completed when the display indicates that the learning is complete. If a message other than \"Learning Completed\" is displayed, the work shall be performed in accordance with the indication of HDS."
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Connect HDS to the data link coupler (A) on the left side of the driver's seat. Turn ignition to ON mode. Verify that HDS communicates with the vehicle and the PGM-FI ECU. If there is no communication, check the data link circuit.",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "If there is no communication, check the data link circuit.",
+          "resolved": false
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000540_jpn/web/html/R000540_jpn_Content.html",
+  "inOutline": true
+}

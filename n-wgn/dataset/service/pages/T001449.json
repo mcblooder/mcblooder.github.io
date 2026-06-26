@@ -1,0 +1,112 @@
+{
+  "id": "T001449",
+  "title": "Inspect rear defroster hot wire",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "Rear defroster",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001449",
+  "assets": [
+    "1449_3.0_jpn_11038368_3.0_disp.png",
+    "1449_3.0_jpn_11038369_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect rear defroster hot wire"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inspect for blown No. C25 (20A) fuse in the fuse box and connections before performing the inspection."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Wrap aluminum foil (B) around the end of the tester rod (A) as shown in the figure."
+    },
+    {
+      "type": "figure",
+      "asset": "1449_3.0_jpn_11038368_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Turn ignition to ON mode."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Turn on the rear defroster/mirror heater* switch and verify that there is battery voltage between the (+) and (-) terminals. *：Mirror Heater-equipped vehicles"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "If there is no battery voltage, inspect the following items"
+        },
+        {
+          "text": "Defective rear defroster relay"
+        },
+        {
+          "text": "Defective rear defroster relay"
+        },
+        {
+          "text": "Auto A/C control unit input inspection"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        },
+        {
+          "text": "Grounding failure (G503)"
+        },
+        {
+          "text": "If battery voltage is present, step 4 Proceed to"
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "4. Connect the positive terminal of the voltmeter to the center of each heat wire (A) and the negative terminal to (-), and confirm that there is approximately 6 V."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "If the voltage is at the specified value, it is normal."
+        },
+        {
+          "text": "If the voltage shows a value other than the specified value, repair the hot wire."
+        },
+        {
+          "text": "If battery voltage is present, there is a disconnection on the (-) terminal side from the center."
+        },
+        {
+          "text": "If battery voltage is present, there is a disconnection on the (-) terminal side from the center."
+        },
+        {
+          "text": "If there is no voltage, there is a disconnection on the (+) terminal side from the center."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1449_3.0_jpn_11038369_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001449_jpn/web/html/T001449_jpn_Content.html",
+  "inOutline": true
+}

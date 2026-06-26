@@ -1,0 +1,117 @@
+{
+  "id": "R000463",
+  "title": "Check accelerator pedal position sensor",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "DBW System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000463",
+  "assets": [
+    "463_3.0_jpn_11291992_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000464",
+      "label": "Replace the accelerator pedal assembly.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Check accelerator pedal position sensor"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "This inspection is a procedure to check for any abnormality in the fully closed position of the accelerator pedal position sensor."
+        },
+        {
+          "text": "This inspection is a procedure to check for any abnormality in the fully closed position of the accelerator pedal position sensor."
+        },
+        {
+          "text": "For anomalies other than the fully closed position, DTCs are detected and are not included in this inspection procedure."
+        },
+        {
+          "text": "For anomalies other than the fully closed position, DTCs are detected and are not included in this inspection procedure."
+        },
+        {
+          "text": "Check DTCs before performing the inspection, and if DTCs are displayed, diagnose the malfunction of the displayed DTCs."
+        },
+        {
+          "text": "Check DTCs before performing the inspection, and if DTCs are displayed, diagnose the malfunction of the displayed DTCs."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. HDS Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "463_3.0_jpn_11291992_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect HDS to the data link coupler (A) on the left side of the driver's seat."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Gas pedal Pedal Position Sensor Check"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "With the foot off the accelerator pedal, check the AP sensor in the data list with HDS."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the display shows 0%, the accelerator pedal position sensor is normal."
+        },
+        {
+          "text": "If the display shows 0%, the accelerator pedal position sensor is normal."
+        },
+        {
+          "text": "If the display is not 0%, Replace the accelerator pedal assembly.",
+          "refs": [
+            {
+              "id": "R000464",
+              "label": "Replace the accelerator pedal assembly.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If the display is not 0%, Replace the accelerator pedal assembly.",
+          "refs": [
+            {
+              "id": "R000464",
+              "label": "Replace the accelerator pedal assembly.",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000463_jpn/web/html/R000463_jpn_Content.html",
+  "inOutline": true
+}

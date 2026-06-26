@@ -1,0 +1,1113 @@
+{
+  "id": "T001654",
+  "title": "SRS Airbag System Failure Diagnostic Table by DTC",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "SRS",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001654",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T001663",
+      "label": "B0001-11",
+      "resolved": false
+    },
+    {
+      "id": "T001665",
+      "label": "B0001-12",
+      "resolved": false
+    },
+    {
+      "id": "T001666",
+      "label": "B0001-13",
+      "resolved": false
+    },
+    {
+      "id": "T001667",
+      "label": "B0001-1A",
+      "resolved": false
+    },
+    {
+      "id": "T001668",
+      "label": "B0010-11",
+      "resolved": false
+    },
+    {
+      "id": "T001669",
+      "label": "B0010-12",
+      "resolved": false
+    },
+    {
+      "id": "T001670",
+      "label": "B0010-13",
+      "resolved": false
+    },
+    {
+      "id": "T001671",
+      "label": "B0010-1A",
+      "resolved": false
+    },
+    {
+      "id": "T001672",
+      "label": "B0020-11",
+      "resolved": false
+    },
+    {
+      "id": "T001673",
+      "label": "B0020-12",
+      "resolved": false
+    },
+    {
+      "id": "T001674",
+      "label": "B0020-13",
+      "resolved": false
+    },
+    {
+      "id": "T001675",
+      "label": "B0020-1A",
+      "resolved": false
+    },
+    {
+      "id": "T001676",
+      "label": "B0021-11",
+      "resolved": false
+    },
+    {
+      "id": "T001677",
+      "label": "B0021-12",
+      "resolved": false
+    },
+    {
+      "id": "T001678",
+      "label": "B0021-13",
+      "resolved": false
+    },
+    {
+      "id": "T001679",
+      "label": "B0021-1A",
+      "resolved": false
+    },
+    {
+      "id": "T001680",
+      "label": "B0028-11",
+      "resolved": false
+    },
+    {
+      "id": "T001681",
+      "label": "B0028-12",
+      "resolved": false
+    },
+    {
+      "id": "T001682",
+      "label": "B0028-13",
+      "resolved": false
+    },
+    {
+      "id": "T001683",
+      "label": "B0028-1A",
+      "resolved": false
+    },
+    {
+      "id": "T001684",
+      "label": "B0029-11",
+      "resolved": false
+    },
+    {
+      "id": "T001685",
+      "label": "B0029-12",
+      "resolved": false
+    },
+    {
+      "id": "T001686",
+      "label": "B0029-13",
+      "resolved": false
+    },
+    {
+      "id": "T001687",
+      "label": "B0029-1A",
+      "resolved": false
+    },
+    {
+      "id": "T001692",
+      "label": "B0070-11",
+      "resolved": false
+    },
+    {
+      "id": "T001694",
+      "label": "B0070-12",
+      "resolved": false
+    },
+    {
+      "id": "T001695",
+      "label": "B0070-13",
+      "resolved": false
+    },
+    {
+      "id": "T001696",
+      "label": "B0070-1A",
+      "resolved": false
+    },
+    {
+      "id": "T001697",
+      "label": "B0072-11",
+      "resolved": false
+    },
+    {
+      "id": "T001698",
+      "label": "B0072-12",
+      "resolved": false
+    },
+    {
+      "id": "T001699",
+      "label": "B0072-13",
+      "resolved": false
+    },
+    {
+      "id": "T001700",
+      "label": "B0072-1A",
+      "resolved": false
+    },
+    {
+      "id": "T001704",
+      "label": "B0091-4A",
+      "resolved": false
+    },
+    {
+      "id": "T001705",
+      "label": "B0091-87",
+      "resolved": false
+    },
+    {
+      "id": "T001706",
+      "label": "B0092-4A",
+      "resolved": false
+    },
+    {
+      "id": "T001707",
+      "label": "B0092-87",
+      "resolved": false
+    },
+    {
+      "id": "T002153",
+      "label": "B0094-4A",
+      "resolved": false
+    },
+    {
+      "id": "T001703",
+      "label": "B0094-87",
+      "resolved": false
+    },
+    {
+      "id": "T001711",
+      "label": "B0096-4A",
+      "resolved": false
+    },
+    {
+      "id": "T001712",
+      "label": "B0096-87",
+      "resolved": false
+    },
+    {
+      "id": "T001713",
+      "label": "B0097-4A",
+      "resolved": false
+    },
+    {
+      "id": "T001714",
+      "label": "B0097-87",
+      "resolved": false
+    },
+    {
+      "id": "T001715",
+      "label": "B2800-49",
+      "resolved": false
+    },
+    {
+      "id": "T001717",
+      "label": "B2840-13",
+      "resolved": false
+    },
+    {
+      "id": "T001718",
+      "label": "B2841-13",
+      "resolved": false
+    },
+    {
+      "id": "T001719",
+      "label": "U3000-51",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "SRS Airbag System Failure Diagnostic Table by DTC"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "DTC",
+            "header": true
+          },
+          {
+            "text": "Failure detection items",
+            "colspan": 2,
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "B0001-11",
+            "refs": [
+              {
+                "id": "T001663",
+                "label": "B0001-11",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Driver's airbag deployment circuit 1",
+            "rowspan": 4
+          },
+          {
+            "text": "body short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0001-12",
+            "refs": [
+              {
+                "id": "T001665",
+                "label": "B0001-12",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Power supply short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0001-13",
+            "refs": [
+              {
+                "id": "T001666",
+                "label": "B0001-13",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Increased resistance or disconnection"
+          }
+        ],
+        [
+          {
+            "text": "B0001-1A",
+            "refs": [
+              {
+                "id": "T001667",
+                "label": "B0001-1A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Resistance decrease or short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0010-11",
+            "refs": [
+              {
+                "id": "T001668",
+                "label": "B0010-11",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Front-passenger airbag deployment circuit 1",
+            "rowspan": 4
+          },
+          {
+            "text": "body short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0010-12",
+            "refs": [
+              {
+                "id": "T001669",
+                "label": "B0010-12",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Power supply short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0010-13",
+            "refs": [
+              {
+                "id": "T001670",
+                "label": "B0010-13",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Increased resistance or disconnection"
+          }
+        ],
+        [
+          {
+            "text": "B0010-1A",
+            "refs": [
+              {
+                "id": "T001671",
+                "label": "B0010-1A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Resistance decrease or short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0020-11",
+            "refs": [
+              {
+                "id": "T001672",
+                "label": "B0020-11",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Passenger side airbag deployment circuit",
+            "rowspan": 4
+          },
+          {
+            "text": "body short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0020-12",
+            "refs": [
+              {
+                "id": "T001673",
+                "label": "B0020-12",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Power supply short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0020-13",
+            "refs": [
+              {
+                "id": "T001674",
+                "label": "B0020-13",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Increased resistance or disconnection"
+          }
+        ],
+        [
+          {
+            "text": "B0020-1A",
+            "refs": [
+              {
+                "id": "T001675",
+                "label": "B0020-1A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Resistance decrease or short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0021-11",
+            "refs": [
+              {
+                "id": "T001676",
+                "label": "B0021-11",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Left side curtain Airbag deployment circuit 1",
+            "rowspan": 4
+          },
+          {
+            "text": "body short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0021-12",
+            "refs": [
+              {
+                "id": "T001677",
+                "label": "B0021-12",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Power supply short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0021-13",
+            "refs": [
+              {
+                "id": "T001678",
+                "label": "B0021-13",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Increased resistance or disconnection"
+          }
+        ],
+        [
+          {
+            "text": "B0021-1A",
+            "refs": [
+              {
+                "id": "T001679",
+                "label": "B0021-1A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Resistance decrease or short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0028-11",
+            "refs": [
+              {
+                "id": "T001680",
+                "label": "B0028-11",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Driver's side airbag deployment circuit",
+            "rowspan": 4
+          },
+          {
+            "text": "body short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0028-12",
+            "refs": [
+              {
+                "id": "T001681",
+                "label": "B0028-12",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Power supply short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0028-13",
+            "refs": [
+              {
+                "id": "T001682",
+                "label": "B0028-13",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Increased resistance or disconnection"
+          }
+        ],
+        [
+          {
+            "text": "B0028-1A",
+            "refs": [
+              {
+                "id": "T001683",
+                "label": "B0028-1A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Resistance decrease or short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0029-11",
+            "refs": [
+              {
+                "id": "T001684",
+                "label": "B0029-11",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Right side curtain Airbag deployment circuit 1",
+            "rowspan": 4
+          },
+          {
+            "text": "body short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0029-12",
+            "refs": [
+              {
+                "id": "T001685",
+                "label": "B0029-12",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Power supply short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0029-13",
+            "refs": [
+              {
+                "id": "T001686",
+                "label": "B0029-13",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Increased resistance or disconnection"
+          }
+        ],
+        [
+          {
+            "text": "B0029-1A",
+            "refs": [
+              {
+                "id": "T001687",
+                "label": "B0029-1A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Resistance decrease or short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0070-11",
+            "refs": [
+              {
+                "id": "T001692",
+                "label": "B0070-11",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Driver's seat belt pretensioner deployment circuit",
+            "rowspan": 4
+          },
+          {
+            "text": "body short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0070-12",
+            "refs": [
+              {
+                "id": "T001694",
+                "label": "B0070-12",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Power supply short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0070-13",
+            "refs": [
+              {
+                "id": "T001695",
+                "label": "B0070-13",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Increased resistance or disconnection"
+          }
+        ],
+        [
+          {
+            "text": "B0070-1A",
+            "refs": [
+              {
+                "id": "T001696",
+                "label": "B0070-1A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Resistance decrease or short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0072-11",
+            "refs": [
+              {
+                "id": "T001697",
+                "label": "B0072-11",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Passenger seat belt pretensioner deployment circuit",
+            "rowspan": 4
+          },
+          {
+            "text": "body short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0072-12",
+            "refs": [
+              {
+                "id": "T001698",
+                "label": "B0072-12",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Power supply short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0072-13",
+            "refs": [
+              {
+                "id": "T001699",
+                "label": "B0072-13",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Increased resistance or disconnection"
+          }
+        ],
+        [
+          {
+            "text": "B0072-1A",
+            "refs": [
+              {
+                "id": "T001700",
+                "label": "B0072-1A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Resistance decrease or short circuit"
+          }
+        ],
+        [
+          {
+            "text": "B0091-4A",
+            "refs": [
+              {
+                "id": "T001704",
+                "label": "B0091-4A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Left side Impact Sensor 1 circuit",
+            "rowspan": 3
+          },
+          {
+            "text": "Internal failure of side-impact sensor"
+          }
+        ],
+        [
+          {
+            "text": "B0091-87",
+            "refs": [
+              {
+                "id": "T001705",
+                "label": "B0091-87",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Signal system anomalies"
+          }
+        ],
+        [
+          {
+            "text": "B0091-92",
+            "refs": [
+              {
+                "id": "T001704",
+                "label": "B0091-92",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Internal failure of side-impact sensor"
+          }
+        ],
+        [
+          {
+            "text": "B0092-4A",
+            "refs": [
+              {
+                "id": "T001706",
+                "label": "B0092-4A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Left side Impact Sensor 2 circuits",
+            "rowspan": 3
+          },
+          {
+            "text": "Internal failure of side-impact sensor"
+          }
+        ],
+        [
+          {
+            "text": "B0092-87",
+            "refs": [
+              {
+                "id": "T001707",
+                "label": "B0092-87",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Signal system anomalies"
+          }
+        ],
+        [
+          {
+            "text": "B0092-92",
+            "refs": [
+              {
+                "id": "T001706",
+                "label": "B0092-92",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Internal failure of side-impact sensor"
+          }
+        ],
+        [
+          {
+            "text": "B0094-4A",
+            "refs": [
+              {
+                "id": "T002153",
+                "label": "B0094-4A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Front Impact Sensor Circuit",
+            "rowspan": 3
+          },
+          {
+            "text": "Front Internal failure of sensor"
+          }
+        ],
+        [
+          {
+            "text": "B0094-87",
+            "refs": [
+              {
+                "id": "T001703",
+                "label": "B0094-87",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Signal system anomalies"
+          }
+        ],
+        [
+          {
+            "text": "B0094-92",
+            "refs": [
+              {
+                "id": "T002153",
+                "label": "B0094-92",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Output abnormal"
+          }
+        ],
+        [
+          {
+            "text": "B0096-4A",
+            "refs": [
+              {
+                "id": "T001711",
+                "label": "B0096-4A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Right side Impact Sensor 1 circuit",
+            "rowspan": 3
+          },
+          {
+            "text": "Internal failure of side-impact sensor"
+          }
+        ],
+        [
+          {
+            "text": "B0096-87",
+            "refs": [
+              {
+                "id": "T001712",
+                "label": "B0096-87",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Signal system anomalies"
+          }
+        ],
+        [
+          {
+            "text": "B0096-92",
+            "refs": [
+              {
+                "id": "T001711",
+                "label": "B0096-92",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Internal failure of side-impact sensor"
+          }
+        ],
+        [
+          {
+            "text": "B0097-4A",
+            "refs": [
+              {
+                "id": "T001713",
+                "label": "B0097-4A",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Right side Impact Sensor 2 circuits",
+            "rowspan": 3
+          },
+          {
+            "text": "Internal failure of side-impact sensor"
+          }
+        ],
+        [
+          {
+            "text": "B0097-87",
+            "refs": [
+              {
+                "id": "T001714",
+                "label": "B0097-87",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Signal system anomalies"
+          }
+        ],
+        [
+          {
+            "text": "B0097-92",
+            "refs": [
+              {
+                "id": "T001713",
+                "label": "B0097-92",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Internal failure of side-impact sensor"
+          }
+        ],
+        [
+          {
+            "text": "B2800-49",
+            "refs": [
+              {
+                "id": "T001715",
+                "label": "B2800-49",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Internal failure of SRS unit",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "B2840-13",
+            "refs": [
+              {
+                "id": "T001717",
+                "label": "B2840-13",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "SRS unit Coupler A Poor connection",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "B2841-13",
+            "refs": [
+              {
+                "id": "T001718",
+                "label": "B2841-13",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "SRS unit Coupler B Poor connection",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "U3000-49",
+            "refs": [
+              {
+                "id": "T001715",
+                "label": "U3000-49",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Internal failure of SRS unit",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "U3000-51",
+            "refs": [
+              {
+                "id": "T001719",
+                "label": "U3000-51",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "SRS unit update not completed",
+            "colspan": 2
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001654_jpn/web/html/T001654_jpn_Content.html",
+  "inOutline": true
+}

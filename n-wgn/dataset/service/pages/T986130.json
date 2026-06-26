@@ -1,0 +1,74 @@
+{
+  "id": "T986130",
+  "title": "but backup operation (when smart key touches ENGINE START STOP switch) turns ON mode.",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System Smart operation does not turn ON mode",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986130",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T001397",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Smart operation does not turn ON mode, but backup operation (when smart key touches ENGINE START STOP switch) turns ON mode."
+    },
+    {
+      "type": "paragraph",
+      "text": "diagnostic procedure"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Failure Diagnosis by Symptom ​",
+          "refs": [
+            {
+              "id": "T001397",
+              "label": "Failure Diagnosis by Symptom",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "checklist"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Honda Smart Key Not Registered"
+        },
+        {
+          "text": "LF Antenna"
+        },
+        {
+          "text": "ENGINE START STOP switch"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986130_jpn/web/html/T986130_jpn_Content.html",
+  "inOutline": true
+}

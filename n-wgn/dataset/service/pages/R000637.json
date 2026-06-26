@@ -1,0 +1,243 @@
+{
+  "id": "R000637",
+  "title": "Removing and installing the steering intermediate shaft",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000637",
+  "assets": [
+    "637_3.0_jpn_11035577_3.0_disp.png",
+    "637_3.0_jpn_11035579_3.0_disp.png",
+    "637_3.0_jpn_11035580_3.0_disp.png",
+    "637_3.0_jpn_11035581_3.0_disp.png",
+    "637_3.0_jpn_11035582_3.0_disp.png",
+    "637_3.0_jpn_11035583_3.0_disp.png",
+    "637_3.0_jpn_11035584_3.0_disp.png",
+    "637_3.0_jpn_11035585_3.0_disp.png",
+    "637_3.0_jpn_11035586_3.0_disp.png",
+    "637_3.0_jpn_11035588_3.0_disp.png",
+    "637_3.0_jpn_11364647_2.0_disp.png",
+    "637_3.0_jpn_11364648_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000786",
+      "label": "Remove the steering upper column cover and lower column cover.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removing and installing the steering intermediate shaft"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Remove steering joint cover"
+    },
+    {
+      "type": "figure",
+      "asset": "637_3.0_jpn_11035577_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Steering wheel holder mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "637_3.0_jpn_11364647_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Place the steering wheel in the straight ahead position and install the steering wheel holder (aftermarket tool) (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Remove the steering upper column cover and lower column cover.",
+      "refs": [
+        {
+          "id": "R000786",
+          "label": "Remove the steering upper column cover and lower column cover.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Steering joint disconnection"
+    },
+    {
+      "type": "figure",
+      "asset": "637_3.0_jpn_11035579_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Loosen the joint bolt (A) on the intermediate shaft side of the steering joint. Remove the joint bolt (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "637_3.0_jpn_11035580_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Disconnect the steering joint (A) from the pinion shaft (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Intermediate shaft removal"
+    },
+    {
+      "type": "figure",
+      "asset": "637_3.0_jpn_11035581_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Align and mark (C) the connection between the intermediate shaft (A) and column (B). Remove the joint bolt (D) and remove the intermediate shaft from the column."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Steering joint removal"
+    },
+    {
+      "type": "figure",
+      "asset": "637_3.0_jpn_11035582_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the joint bolt (A) and remove the steering joint (C) from the intermediate shaft (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When replacing the intermediate shaft, check the alignment mark on the removed intermediate shaft and place the alignment mark at the same position on the new intermediate shaft."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Steering joint installation"
+    },
+    {
+      "type": "figure",
+      "asset": "637_3.0_jpn_11035583_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Insert the steering joint so that the flat part (B) of the intermediate shaft (A) aligns with the bolt holes (C) of the joint, and temporarily tighten the new joint bolts (D)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Intermediate Shaft Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "637_3.0_jpn_11035584_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Align the alignment marks (C) on the intermediate shaft (A) and column (B). Use new joint bolts (D) and tighten to specified torque."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Steering joint connection"
+    },
+    {
+      "type": "figure",
+      "asset": "637_3.0_jpn_11035585_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Insert the steering joint (A) into the pinion shaft (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The pinion shaft shall not be rotated to prevent the rack from changing its linear position."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "637_3.0_jpn_11035586_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Align the pinion shaft cutout (A) with the bolt holes in the steering joint and tighten to the specified torque using new joint bolts (B). Tighten the intermediate shaft side joint bolt (C) to the specified torque. Pull the steering joint toward the column to make sure it does not come loose from the pinion shaft."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Steering Upper Column Cover, Lower Column Cover Installation",
+      "refs": [
+        {
+          "id": "R000786",
+          "label": "Steering Upper Column Cover, Lower Column Cover Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Steering wheel holder removal"
+    },
+    {
+      "type": "figure",
+      "asset": "637_3.0_jpn_11364648_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the steering wheel holder (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Steering joint cover installation"
+    },
+    {
+      "type": "figure",
+      "asset": "637_3.0_jpn_11035588_3.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "After installation, inspect the steering joint cover for any looseness, looseness, or floating. If any abnormality is found, replace it with a new one."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Tilt operation check"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000637_jpn/web/html/R000637_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,256 @@
+{
+  "id": "A000021",
+  "title": "DTC Explanation: P0138",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000021",
+  "assets": [
+    "21_3.0_jpn_11033522_4.0_disp.png",
+    "21_3.0_jpn_11443416_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0138"
+    },
+    {
+      "type": "dtc",
+      "code": "P0138",
+      "text": "DTC P0138: Secondary O 2 High sensor voltage"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "21_3.0_jpn_11443416_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "21_3.0_jpn_11033522_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Secondary O 2 The sensor detects the oxygen concentration downstream of the catalytic converter during the theoretical AFR feedback control based on the output voltage of the LAF sensor; the PGM-FI ECU ensures that the purification efficiency of the catalytic converter is optimal by using a secondary O 2 The air-fuel ratio is controlled from the sensor and LAF sensor output voltage. Secondary O 2 After the sensor heater is energized, the secondary O 2 If the sensor output voltage is high (on the rich side), the PGM-FI ECU determines a fault and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "5.0 seconds or longer"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "2D/C (2 consecutive detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, running, out of condition"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "lower limit",
+            "header": true
+          },
+          {
+            "text": "upper limit",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Secondary O after engine start 2 Sensor activity judging inhibition time"
+          },
+          {
+            "text": "For 20 sec."
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine coolant temperature [Water temperature sensor]"
+          },
+          {
+            "text": "69℃"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Engine intake air temperature [Intake air temperature sensor]"
+          },
+          {
+            "text": "-15℃* 1 -25℃* 2"
+          },
+          {
+            "text": "―"
+          }
+        ],
+        [
+          {
+            "text": "Fuel trim (Fuel correction value)"
+          },
+          {
+            "text": "0.73"
+          },
+          {
+            "text": "1.47"
+          }
+        ],
+        [
+          {
+            "text": "Air-fuel ratio feedback control"
+          },
+          {
+            "text": "closed-loop",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "DTC requesting the prohibition of detection of the relevant DTC"
+          },
+          {
+            "text": "P0010､ P0011､ P0102､ P0103､ P0107､ P0108､ P0112､ P0113､ P0117､ P0118､ P0133､ P0134､ P0135､ P0141､ P0171､ P0172､ P0201､ P0202､ P0203､ P0300､ P0301､ P0302､ P0303､ P0335､ P0339､ P0340､ P0341､ P0344､ P0351､ P0352､ P0353､ P0401､ P0404､ P0443､ P060A､ P1009､ P1157､ P1659､ P2101､ P2118､ P2122､ P2123､ P2127､ P2128､ P2135､ P2138､ P2176､ P2228､ P2229､ P2238､ P2252､ P2413､ P2A00",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "Secondary O 2 Sensor output voltage [secondary O 2 sensor] is above 1.27 V for at least 5.0 seconds."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Secondary O 2 Sensor circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Start the engine, run the radiator fan twice, and then warm up the engine for at least 2 minutes at 3,000 rpm with no load."
+        },
+        {
+          "text": "Run at a constant engine speed [engine speed] of 1,500-3,000 rpm for at least 1 minute."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When conducting test drives, the driver must comply with all laws and regulations, observe good manners, and drive in accordance with the surrounding conditions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "None."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the PGM-FI warning light comes on and the DTC and freeze data are stored."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000021_jpn/web/html/A000021_jpn_Content.html",
+  "inOutline": true
+}

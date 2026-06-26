@@ -1,0 +1,39 @@
+{
+  "id": "C001749",
+  "title": "Vehicle Stability Assist (VSA) System Structure Description - Sensor",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001749",
+  "assets": [
+    "1749_3.0_jpn_11114108_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Vehicle Stability Assist (VSA) System Structure Description - Sensor"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wheel sensors are semiconductor sensors using Hall ICs that detect the magnetic field of a magnetic encoder (a plate with a series of alternating N and S poles) mounted on the wheel bearing inside seal surface or the hub unit seal surface. The frequency of the sensor output signal is proportional to wheel speed, and the VSA control unit reads the frequency from these wheel sensors to detect wheel speed."
+    },
+    {
+      "type": "figure",
+      "asset": "1749_3.0_jpn_11114108_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001749_jpn/web/html/C001749_jpn_Content.html",
+  "inOutline": true
+}

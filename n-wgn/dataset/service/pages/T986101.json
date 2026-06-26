@@ -1,0 +1,63 @@
+{
+  "id": "T986101",
+  "title": "HDS cannot communicate with PGM-FI ECU",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM electrical system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986101",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T002567",
+      "label": "Inspect data link circuits",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "HDS cannot communicate with PGM-FI ECU"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inspection items/action items"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Inspect data link circuits do",
+          "refs": [
+            {
+              "id": "T002567",
+              "label": "Inspect data link circuits",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "probable cause"
+    },
+    {
+      "type": "paragraph",
+      "text": "Defective data link circuit"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986101_jpn/web/html/T986101_jpn_Content.html",
+  "inOutline": true
+}

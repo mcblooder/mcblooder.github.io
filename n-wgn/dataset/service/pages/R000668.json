@@ -1,0 +1,261 @@
+{
+  "id": "R000668",
+  "title": "Front damper removal and installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "suspension",
+  "sectionCode": "B",
+  "subsection": "Front Suspension",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000668",
+  "assets": [
+    "668_5.0_jpn_11581780_5.0_disp.png",
+    "668_5.0_jpn_11581781_5.0_disp.png",
+    "668_5.0_jpn_11581782_5.0_disp.png",
+    "668_5.0_jpn_11581784_5.0_disp.png",
+    "668_5.0_jpn_11581785_5.0_disp.png",
+    "668_5.0_jpn_11676164_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Front wheel removal",
+      "resolved": true
+    },
+    {
+      "id": "R000924",
+      "label": "Relay box removal (when removing driver side front damper)",
+      "resolved": true
+    },
+    {
+      "id": "R001022",
+      "label": "Washer tank removal (when removing the passenger side front damper)",
+      "resolved": true
+    },
+    {
+      "id": "R000655",
+      "label": "Wheel alignment Inspection and adjustment",
+      "resolved": true
+    },
+    {
+      "id": "R000714",
+      "label": "VSA sensor Midpoint write",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front damper removal and installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Stabilizer linkage disconnection (for vehicles equipped with stabilizer)"
+    },
+    {
+      "type": "figure",
+      "asset": "668_5.0_jpn_11581780_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the damper (A) from the stabilizer link (B)."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Hold the joint pin (C) with the hex wrench (D) and loosen the flange nut (E)."
+        },
+        {
+          "text": "Hold the joint pin (C) with the hex wrench (D) and loosen the flange nut (E)."
+        },
+        {
+          "text": "When installing, replace the flange nut with a new one."
+        },
+        {
+          "text": "When installing, replace the flange nut with a new one."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Brake Hose and Wheel Sensor Wire Guide Rubber Disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "668_5.0_jpn_11581781_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the brake hose bracket mounting bolt (A). Remove the wheel sensor wire guide rubber (B) and clip (C) from the damper. Do not disconnect the wheel sensor cord."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Front damper lower part disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "668_5.0_jpn_11581782_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the damper mounting bolt (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Note that pulling the knuckle outward too hard will cause the roller of the driveshaft inboard joint to pull out.",
+        "When mounting, retain the damper mounting nut (B) and tighten the bolts to the specified torque.",
+        "When installing, replace the damper mounting bolts and nuts with new ones."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Relay box removal (when removing driver side front damper)",
+      "refs": [
+        {
+          "id": "R000924",
+          "label": "Relay box removal (when removing driver side front damper)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Washer tank removal (when removing the passenger side front damper)",
+      "refs": [
+        {
+          "id": "R001022",
+          "label": "Washer tank removal (when removing the passenger side front damper)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Front damper upper part disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "668_5.0_jpn_11676164_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Hold the damper rod (B) at the top of the damper with the hexagonal wrench (A) and loosen the nut (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "668_5.0_jpn_11581784_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the nut (A), wave washer (B) and damper mounting base (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Front damper removal"
+    },
+    {
+      "type": "figure",
+      "asset": "668_5.0_jpn_11581785_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the damper assembly (A) from the vehicle body and remove the damper mounting rubber (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The damper mounting rubber must be removed without prying, as the damper bearing (C) cap may come off.",
+        "If the cap has come off, inspect it for damage and reinstall it on the damper bearing."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Wheel alignment Inspection and adjustment",
+      "refs": [
+        {
+          "id": "R000655",
+          "label": "Wheel alignment Inspection and adjustment",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. VSA sensor Midpoint write",
+      "refs": [
+        {
+          "id": "R000714",
+          "label": "VSA sensor Midpoint write",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000668_jpn/web/html/R000668_jpn_Content.html",
+  "inOutline": true
+}

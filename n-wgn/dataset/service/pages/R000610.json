@@ -1,0 +1,164 @@
+{
+  "id": "R000610",
+  "title": "Intermediate Shaft Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "drive shaft",
+  "system": "intermediate shaft",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000610",
+  "assets": [
+    "610_3.0_jpn_11035416_3.0_disp.png",
+    "610_3.0_jpn_11035417_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000543",
+      "label": "Transmission Fluid Extraction",
+      "resolved": true
+    },
+    {
+      "id": "R000607",
+      "label": "Right side front drive shaft removal",
+      "resolved": true
+    },
+    {
+      "id": "R000655",
+      "label": "Wheel alignment Inspection and adjustment",
+      "resolved": true
+    },
+    {
+      "id": "R000714",
+      "label": "VSA sensor Midpoint write",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Intermediate Shaft Removal and Installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Transmission Fluid Extraction",
+      "refs": [
+        {
+          "id": "R000543",
+          "label": "Transmission Fluid Extraction",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Right side front drive shaft removal",
+      "refs": [
+        {
+          "id": "R000607",
+          "label": "Right side front drive shaft removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Transfer stiffener removal"
+    },
+    {
+      "type": "figure",
+      "asset": "610_3.0_jpn_11035416_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the transfer stiffener (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Intermediate shaft removal"
+    },
+    {
+      "type": "figure",
+      "asset": "610_3.0_jpn_11035417_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the intermediate shaft assembly (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "To prevent damage to the transfer oil seal (B), the intermediate shaft must be pulled out horizontally."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "To prevent damage to the transfer oil seal, the intermediate shaft must be inserted horizontally.",
+        "Be very careful to prevent dust and other debris from entering the transmission."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Transmission Fluid Refill",
+      "refs": [
+        {
+          "id": "R000543",
+          "label": "Transmission Fluid Refill",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Wheel alignment Inspection and adjustment",
+      "refs": [
+        {
+          "id": "R000655",
+          "label": "Wheel alignment Inspection and adjustment",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. VSA sensor Midpoint write",
+      "refs": [
+        {
+          "id": "R000714",
+          "label": "VSA sensor Midpoint write",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000610_jpn/web/html/R000610_jpn_Content.html",
+  "inOutline": true
+}

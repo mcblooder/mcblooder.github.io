@@ -1,0 +1,43 @@
+{
+  "id": "C001948",
+  "title": "Fuel supply system structure description - Fuel return-less system",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Fuel supply equipment",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001948",
+  "assets": [
+    "1948_3.0_jpn_11242767_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuel supply system structure description - Fuel return-less system"
+    },
+    {
+      "type": "paragraph",
+      "text": "The pressure regulator is integrated with the fuel pump module, and the fuel pressure is regulated at a constant level in the fuel pump module. This simplifies the fuel piping system by eliminating the fuel return pipe that returns fuel from the engine compartment to the fuel tank."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the return fuel is directly returned to the fuel tank, it is not affected by heat in the engine compartment. This prevents the fuel temperature in the fuel tank from rising and suppresses fuel evaporation."
+    },
+    {
+      "type": "figure",
+      "asset": "1948_3.0_jpn_11242767_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001948_jpn/web/html/C001948_jpn_Content.html",
+  "inOutline": true
+}

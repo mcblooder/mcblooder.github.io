@@ -1,0 +1,312 @@
+{
+  "id": "R002130",
+  "title": "Check cylinder head compression pressure",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder head",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002130",
+  "assets": [
+    "2130_3.0_jpn_11582747_3.0_disp.png",
+    "2130_3.0_jpn_11582748_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000346",
+      "label": "Ignition coil/spark plug removal",
+      "resolved": true
+    },
+    {
+      "id": "R000367",
+      "label": "Phase shift between crankshaft and camshaft",
+      "resolved": true
+    },
+    {
+      "id": "R002131",
+      "label": "Damage to cam surface",
+      "resolved": true
+    },
+    {
+      "id": "R000392",
+      "label": "Worn piston rings",
+      "resolved": true
+    },
+    {
+      "id": "R000391",
+      "label": "Piston and cylinder wear",
+      "resolved": true
+    },
+    {
+      "id": "R000471",
+      "label": "Idling Learning",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Check cylinder head compression pressure"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If a temporary DTC or DTC is displayed while performing this task, check the temporary DTC or DTC and erase it if necessary."
+        },
+        {
+          "text": "If a temporary DTC or DTC is displayed while performing this task, check the temporary DTC or DTC and erase it if necessary."
+        },
+        {
+          "text": "After the inspection is completed, reset the ECU with the Honda Diagnostics System (HDS) to deactivate the injector all-cylinder stop function."
+        },
+        {
+          "text": "After the inspection is completed, reset the ECU with the Honda Diagnostics System (HDS) to deactivate the injector all-cylinder stop function."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Engine Warming up"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Start the engine, operate the radiator fan twice, and then warm up the engine for at least 2 minutes at 3,000 rpm with no load. After warming up, stop the engine."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. HDS Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "2130_3.0_jpn_11582747_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect HDS to the data link coupler (A) on the left side of the driver's seat."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Injectors All cylinders shut down"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Select the Injector All Cylinders Stop function from the HDS Inspect menu."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Ignition coil/spark plug removal",
+      "refs": [
+        {
+          "id": "R000346",
+          "label": "Ignition coil/spark plug removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Compression pressure Check"
+    },
+    {
+      "type": "figure",
+      "asset": "2130_3.0_jpn_11582748_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Insert the compression gauge attachment into the plug hole."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Use a fully charged battery to make measurements in as short a time as possible."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Compression pressure",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "883kPa(9.0kgf/cm 2 )"
+          }
+        ],
+        [
+          {
+            "text": "Difference between each cylinder: 1"
+          },
+          {
+            "text": "200kPa(2.04kgf/cm 2 )"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Abnormal valve clearance (broken hydraulic tappet)"
+        },
+        {
+          "text": "Abnormal valve clearance (broken hydraulic tappet)"
+        },
+        {
+          "text": "Phase shift between crankshaft and camshaft ​",
+          "refs": [
+            {
+              "id": "R000367",
+              "label": "Phase shift between crankshaft and camshaft",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Phase shift between crankshaft and camshaft ​",
+          "refs": [
+            {
+              "id": "R000367",
+              "label": "Phase shift between crankshaft and camshaft",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Damage to cam surface ​",
+          "refs": [
+            {
+              "id": "R002131",
+              "label": "Damage to cam surface",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Damage to cam surface ​",
+          "refs": [
+            {
+              "id": "R002131",
+              "label": "Damage to cam surface",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Valve, valve seat compression leak"
+        },
+        {
+          "text": "Valve, valve seat compression leak"
+        },
+        {
+          "text": "Damaged cylinder head gasket"
+        },
+        {
+          "text": "Damaged cylinder head gasket"
+        },
+        {
+          "text": "Worn piston rings",
+          "refs": [
+            {
+              "id": "R000392",
+              "label": "Worn piston rings",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Worn piston rings",
+          "refs": [
+            {
+              "id": "R000392",
+              "label": "Worn piston rings",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Piston and cylinder wear ​",
+          "refs": [
+            {
+              "id": "R000391",
+              "label": "Piston and cylinder wear",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Piston and cylinder wear ​",
+          "refs": [
+            {
+              "id": "R000391",
+              "label": "Piston and cylinder wear",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Ignition coil/spark plug installation",
+      "refs": [
+        {
+          "id": "R000346",
+          "label": "Ignition coil/spark plug installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Injectors All cylinders deactivated"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Reset the ECU from the PGM-FI inspection menu in HDS to deactivate the injector all-cylinder stop function."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Idling Learning",
+      "refs": [
+        {
+          "id": "R000471",
+          "label": "Idling Learning",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002130_jpn/web/html/R002130_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,320 @@
+{
+  "id": "R002132",
+  "title": "Remove and inspect valve/stem seals/springs",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder head",
+  "system": "valve",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002132",
+  "assets": [
+    "2132_7.0_jpn_11582881_7.0_disp.png",
+    "2132_7.0_jpn_11582882_7.0_disp.png",
+    "2132_7.0_jpn_11582883_7.0_disp.png",
+    "2132_7.0_jpn_11582884_7.0_disp.png",
+    "2132_7.0_jpn_11582885_7.0_disp.png",
+    "2132_7.0_jpn_11582886_7.0_disp.png",
+    "2132_7.0_jpn_11582887_7.0_disp.png",
+    "2132_7.0_jpn_11582888_7.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000372",
+      "label": "Cylinder head removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Remove and inspect valve/stem seals/springs"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Since metallic sodium is sealed in the exhaust valve, refer to \"Precautions in the Workplace and Precautions when Handling Metallic Sodium Enclosed Valves\" for inspection and maintenance."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When disassembling, each valve and related parts such as valve springs should be marked and stored in an organized manner for each cylinder, and installed in the same position when installing."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Cylinder head removal",
+      "refs": [
+        {
+          "id": "R000372",
+          "label": "Cylinder head removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Spring Retainer/Valve Spring/Valve Remove"
+    },
+    {
+      "type": "figure",
+      "asset": "2132_7.0_jpn_11582881_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Use the valve spring compressor (07757-0010000) and valve spring compressor attachment (07757-0010200) to remove the valve cotter. Remove spring retainer, valve spring and valve."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Remove stem seal/valve spring seat"
+    },
+    {
+      "type": "figure",
+      "asset": "2132_7.0_jpn_11582882_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the stem seal (A) and valve spring seat (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Valve Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "2132_7.0_jpn_11582883_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect each part of the valve."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If below the limit value, the valve shall be replaced.",
+        "If bent or damaged, the valve shall be replaced."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Intake: 1",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "A"
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "101.55－102.05mm"
+          }
+        ],
+        [
+          {
+            "text": "B"
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "24.4－24.6mm"
+          }
+        ],
+        [
+          {
+            "text": "C"
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "5.48－5.49mm"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "5.45mm"
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Exhaust: (1)",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "A"
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "101.25－101.75mm"
+          }
+        ],
+        [
+          {
+            "text": "B"
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "20.4－20.6mm"
+          }
+        ],
+        [
+          {
+            "text": "C"
+          },
+          {
+            "text": "Std."
+          },
+          {
+            "text": "5.45－5.46mm"
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "5.42mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Stem Seal/Valve Spring Seat Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "2132_7.0_jpn_11582884_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Lubricate the valve stem with engine oil and insert the valve into the valve guide."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Ensure that the valve moves smoothly up and down."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2132_7.0_jpn_11582885_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install the valve spring seat."
+    },
+    {
+      "type": "figure",
+      "asset": "2132_7.0_jpn_11582886_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Insert the new stem seal (A) into the stem seal driver (07PAD-0010000) and push it vertically against the valve guide by hand."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The intake stem seal (B) has a white or silver spring (C) and the exhaust stem seal (D) has a black spring (E), so do not make a mistake when assembling them."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Spring Retainer/Valve Spring/Valve Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "2132_7.0_jpn_11582887_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the valve spring and spring retainer and install the valve cotter using the valve spring compressor (07757-0010000) and valve spring compressor attachment (07757-0010200)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Valve springs have unequal pitch, so the narrower pitch should face the valve spring seat side."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2132_7.0_jpn_11582888_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Tap the valve stem head lightly 2-3 times with a plastic hammer or similar tool to ensure good fit between the valve and the cotter."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Valve Stem Tap perpendicular to the head and do not bend the valve.",
+        "To prevent damage to the valves, always work with the cylinder head raised off the workbench."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Cylinder Head Mounting",
+      "refs": [
+        {
+          "id": "R000372",
+          "label": "Cylinder Head Mounting",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002132_jpn/web/html/R002132_jpn_Content.html",
+  "inOutline": true
+}

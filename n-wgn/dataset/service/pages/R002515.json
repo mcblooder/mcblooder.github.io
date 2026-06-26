@@ -1,0 +1,106 @@
+{
+  "id": "R002515",
+  "title": "Solenoid Wire Harness Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM electrical system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002515",
+  "assets": [
+    "2515_7.0_jpn_11594324_5.0_disp.png",
+    "2515_7.0_jpn_11594325_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000529",
+      "label": "Valve body assembly removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Solenoid Wire Harness Removal and Installation"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be very careful to prevent dust and other debris from entering the transmission."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Solenoid Wire Harness Coupler Disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "2515_7.0_jpn_11594324_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Cover the coupler with a rag, etc. and be very careful to prevent dust, oil, etc. from entering the coupler."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Valve body assembly removal",
+      "refs": [
+        {
+          "id": "R000529",
+          "label": "Valve body assembly removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Solenoid Wire Harness Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2515_7.0_jpn_11594325_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove solenoid wire harness B. Remove solenoid wire harness A."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "O-rings and gaskets shall be replaced with new ones."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002515_jpn/web/html/R002515_jpn_Content.html",
+  "inOutline": true
+}

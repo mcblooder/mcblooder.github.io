@@ -1,0 +1,75 @@
+{
+  "id": "R001047",
+  "title": "Rear defroster hot wire correction",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "Rear defroster",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001047",
+  "assets": [
+    "1047_3.0_jpn_11037296_3.0_disp.png",
+    "1047_3.0_jpn_11037297_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear defroster hot wire correction"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. advance preparation"
+    },
+    {
+      "type": "figure",
+      "asset": "1047_3.0_jpn_11037296_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Clean the disconnected part with alcohol, etc."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Apply masking tape (A) on both sides along the disconnection point. Using a thin copper wire or similar material, lightly rub both ends of the broken wire (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. revision (e.g. of a rule, regulation, etc.)"
+    },
+    {
+      "type": "figure",
+      "asset": "1047_3.0_jpn_11037297_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "After stirring the repair agent thoroughly, apply the repair agent (A) to the disconnected area with a small brush, etc. Remove the masking tape after 2-3 minutes, and allow it to dry thoroughly. 25°C x 12 hours Do not energize until fully cured. Verify that there is continuity at the corrected location."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Curing time (reference value)"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001047_jpn/web/html/R001047_jpn_Content.html",
+  "inOutline": true
+}

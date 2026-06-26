@@ -1,0 +1,128 @@
+{
+  "id": "R000563",
+  "title": "Remove and install paddle shift switches - (shift down)",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "A/T shift position indicator system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000563",
+  "assets": [
+    "563_5.0_jpn_11582320_5.0_disp.png",
+    "563_5.0_jpn_11582321_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000634",
+      "label": "Steering wheel removal",
+      "resolved": true
+    },
+    {
+      "id": "R002068",
+      "label": "HFT switch removal (vehicles equipped with HFT switch)",
+      "resolved": true
+    },
+    {
+      "id": "R002067",
+      "label": "Audio remote switch removal (models equipped with audio remote switch)",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Remove and install paddle shift switches - (shift down)"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If there are components of the SRS airbag system in the vicinity, refer to the work precautions and configuration drawings described for the SRS airbag system before proceeding."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Steering wheel removal",
+      "refs": [
+        {
+          "id": "R000634",
+          "label": "Steering wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. HFT switch removal (vehicles equipped with HFT switch)",
+      "refs": [
+        {
+          "id": "R002068",
+          "label": "HFT switch removal (vehicles equipped with HFT switch)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Body cover removal"
+    },
+    {
+      "type": "figure",
+      "asset": "563_5.0_jpn_11582320_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the body cover (A). Remove the garnish (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Audio remote switch removal (models equipped with audio remote switch)",
+      "refs": [
+        {
+          "id": "R002067",
+          "label": "Audio remote switch removal (models equipped with audio remote switch)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Paddle shift switch - (shift down) Remove"
+    },
+    {
+      "type": "figure",
+      "asset": "563_5.0_jpn_11582321_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the paddle shift switch- (shift down) coupler from the coupler holder and disconnect the coupler. Remove the paddle shift switch - (shift down) (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000563_jpn/web/html/R000563_jpn_Content.html",
+  "inOutline": true
+}

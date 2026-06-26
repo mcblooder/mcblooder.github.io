@@ -1,0 +1,411 @@
+{
+  "id": "R000754",
+  "title": "Rear windshield removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "wind",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000754",
+  "assets": [
+    "754_5.0_jpn_11581167_5.0_disp.png",
+    "754_5.0_jpn_11581168_5.0_disp.png",
+    "754_5.0_jpn_11581169_5.0_disp.png",
+    "754_5.0_jpn_11581170_5.0_disp.png",
+    "754_5.0_jpn_11581176_5.0_disp.png",
+    "754_5.0_jpn_11581179_5.0_disp.png",
+    "754_5.0_jpn_11589040_4.0_disp.png",
+    "754_5.0_jpn_11589041_4.0_disp.png",
+    "754_5.0_jpn_11589043_5.0_disp.png",
+    "754_5.0_jpn_11589044_4.0_disp.png",
+    "754_5.0_jpn_11589045_5.0_disp.png",
+    "754_5.0_jpn_11589046_4.0_disp.png",
+    "754_5.0_jpn_11677555_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000854",
+      "label": "Rear license garnish removal",
+      "resolved": true
+    },
+    {
+      "id": "R000853",
+      "label": "Tailgate spoiler removal (for vehicles equipped with a tailgate spoiler)",
+      "resolved": true
+    },
+    {
+      "id": "G000752",
+      "label": "Check the minimum leaving time and leave it.",
+      "resolved": true
+    },
+    {
+      "id": "R000857",
+      "label": "Low emission sticker and fuel consumption sticker are attached.",
+      "resolved": true
+    },
+    {
+      "id": "R000741",
+      "label": "Rear Windshield Water Leakage Test",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear windshield removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear license garnish removal",
+      "refs": [
+        {
+          "id": "R000854",
+          "label": "Rear license garnish removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Tailgate spoiler removal (for vehicles equipped with a tailgate spoiler)",
+      "refs": [
+        {
+          "id": "R000853",
+          "label": "Tailgate spoiler removal (for vehicles equipped with a tailgate spoiler)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Rear window glass removal"
+    },
+    {
+      "type": "figure",
+      "asset": "754_5.0_jpn_11581167_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "754_5.0_jpn_11581168_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "754_5.0_jpn_11581169_5.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Body, interior parts, and other areas where the piano wire comes in contact with the body should be protected with plastic plates or similar materials.",
+        "Note that if the piano wire contacts the glass, the glass will be damaged.",
+        "Cover the rear defroster terminal with a protective cover.",
+        "Support the glass so that it does not fall."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The detachment of the pillar section is done by pulling the piano wire from the rear to the front."
+        },
+        {
+          "text": "The detachment of the pillar section is done by pulling the piano wire from the rear to the front."
+        },
+        {
+          "text": "The adhesive part of the glass straight section is cut by pulling hard on the outer piece of wood while holding the piece of wood on the interior side."
+        },
+        {
+          "text": "The adhesive part of the glass straight section is cut by pulling hard on the outer piece of wood while holding the piece of wood on the interior side."
+        },
+        {
+          "text": "If the wood piece is moved too quickly, the frictional heat becomes too high, melting the adhesive and making it difficult to remove the adhesive from the piano wire."
+        },
+        {
+          "text": "If the wood piece is moved too quickly, the frictional heat becomes too high, melting the adhesive and making it difficult to remove the adhesive from the piano wire."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "754_5.0_jpn_11581170_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "7",
+      "text": "If the glass is to be reused, affix a mark for positioning the installation. Remove the glass using the suction rubber disk. Remove the remaining fasteners and dam rubber from the body."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear Window Glass Installation"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Scrape off any adhesive and fasteners remaining on the body with a knife or similar tool to a smooth 1-2 mm thickness around the entire circumference. Clean the adhesive surface with white gasoline or alcohol."
+        },
+        {
+          "text": "Scrape off any adhesive and fasteners remaining on the body with a knife or similar tool to a smooth 1-2 mm thickness around the entire circumference. Clean the adhesive surface with white gasoline or alcohol."
+        },
+        {
+          "text": "If the glass is to be reused, scrape off any adhesive, fasteners, or dam rubbers remaining on the glass with a spatula, and clean with white gasoline or alcohol."
+        },
+        {
+          "text": "If the glass is to be reused, scrape off any adhesive, fasteners, or dam rubbers remaining on the glass with a spatula, and clean with white gasoline or alcohol."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "754_5.0_jpn_11589040_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Attach fastener A and clip (B) to glass."
+    },
+    {
+      "type": "figure",
+      "asset": "754_5.0_jpn_11589041_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Attach fastener A to the body."
+    },
+    {
+      "type": "figure",
+      "asset": "754_5.0_jpn_11677555_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Cut the dam rubber (A) to 952 mm in length and install. Cut and install dam rubber (B) to a length of 1000 mm."
+    },
+    {
+      "type": "figure",
+      "asset": "754_5.0_jpn_11589043_5.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not apply body primer."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply the glass primer inside the dam rubber (A) and along the primer application position indicator mark (C) on the glass (B) as shown in the figure."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Glass primer should be applied without thickening, shattering, or scaling."
+        },
+        {
+          "text": "Glass primer should be applied without thickening, shattering, or scaling."
+        },
+        {
+          "text": "The glass corner should be applied with reference to the primer application position indicator mark."
+        },
+        {
+          "text": "The glass corner should be applied with reference to the primer application position indicator mark."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "754_5.0_jpn_11589044_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Using a suction rubber disc, place the glass on the body in alignment with fastener A and clip (B). Check that the adhesive surface is even all around. If the glass is replaced, affix a mark for positioning the installation."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the glass is reused, check the marks for installation positioning. If necessary, correct the position."
+        },
+        {
+          "text": "If the glass is reused, check the marks for installation positioning. If necessary, correct the position."
+        },
+        {
+          "text": "Avoid direct contact with cleaned glass surfaces. Re-clean if contamination adheres."
+        },
+        {
+          "text": "Avoid direct contact with cleaned glass surfaces. Re-clean if contamination adheres."
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not apply glass primer.",
+        "Interior parts shall be covered with anti-adhesion covers."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "No thick coating."
+        },
+        {
+          "text": "No thick coating."
+        },
+        {
+          "text": "Not applied to adhesives."
+        },
+        {
+          "text": "Not applied to adhesives."
+        },
+        {
+          "text": "Allow to dry naturally for at least 10 minutes after application."
+        },
+        {
+          "text": "Allow to dry naturally for at least 10 minutes after application."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "754_5.0_jpn_11581176_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Cut the nozzle tip (A) of the cartridge as shown. Install the cartridge into the gun."
+    },
+    {
+      "type": "figure",
+      "asset": "754_5.0_jpn_11589045_5.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The adhesive should be set into the body within 5 minutes after application."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "754_5.0_jpn_11589046_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Using a suction rubber plate, install the glass (A) in alignment with the positioning marks. Press lightly around the entire perimeter of the glass to ensure complete adhesion. Correct any overflow or lack of adhesive with a spatula or similar tool."
+    },
+    {
+      "type": "figure",
+      "asset": "754_5.0_jpn_11581179_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Connect the coupler (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be sure to observe the leaving time.",
+        "Avoid vibration that causes adhesive failure."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Check the minimum leaving time and leave it. ​",
+      "refs": [
+        {
+          "id": "G000752",
+          "label": "Check the minimum leaving time and leave it.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Sticker Paste"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "As needed, Low emission sticker and fuel consumption sticker are attached. ​",
+      "refs": [
+        {
+          "id": "R000857",
+          "label": "Low emission sticker and fuel consumption sticker are attached.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Tailgate spoiler installation (for vehicles equipped with a tailgate spoiler)",
+      "refs": [
+        {
+          "id": "R000853",
+          "label": "Tailgate spoiler installation (for vehicles equipped with a tailgate spoiler)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Rear license garnish installation",
+      "refs": [
+        {
+          "id": "R000854",
+          "label": "Rear license garnish installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Rear Windshield Water Leakage Test",
+      "refs": [
+        {
+          "id": "R000741",
+          "label": "Rear Windshield Water Leakage Test",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Apply sealant if leakage occurs."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000754_jpn/web/html/R000754_jpn_Content.html",
+  "inOutline": true
+}

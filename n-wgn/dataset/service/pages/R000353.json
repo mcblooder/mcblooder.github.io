@@ -1,0 +1,512 @@
+{
+  "id": "R000353",
+  "title": "Disassembly and assembly of A.C. generator",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Charging device",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000353",
+  "assets": [
+    "353_4.0_jpn_11583164_4.0_disp.png",
+    "353_4.0_jpn_11583165_4.0_disp.png",
+    "353_4.0_jpn_11583166_4.0_disp.png",
+    "353_4.0_jpn_11583167_4.0_disp.png",
+    "353_4.0_jpn_11583168_4.0_disp.png",
+    "353_4.0_jpn_11583169_4.0_disp.png",
+    "353_4.0_jpn_11583170_4.0_disp.png",
+    "353_4.0_jpn_11583171_4.0_disp.png",
+    "353_4.0_jpn_11583172_4.0_disp.png",
+    "353_4.0_jpn_11583173_4.0_disp.png",
+    "353_4.0_jpn_11583174_4.0_disp.png",
+    "353_4.0_jpn_11583175_4.0_disp.png",
+    "353_4.0_jpn_11583176_4.0_disp.png",
+    "353_4.0_jpn_11583177_4.0_disp.png",
+    "353_4.0_jpn_11583178_4.0_disp.png",
+    "353_4.0_jpn_11583179_4.0_disp.png",
+    "353_4.0_jpn_11583180_4.0_disp.png",
+    "353_4.0_jpn_11583181_4.0_disp.png",
+    "353_4.0_jpn_11583182_4.0_disp.png",
+    "353_4.0_jpn_11583183_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Disassembly and assembly of A.C. generator"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. A.C. Generator Development"
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583164_4.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When disassembling the A.C. generator, refer to the development diagram."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Stator Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583165_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the four through bolts."
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583166_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Heat the rear bearing insertion area of the rear housing with a hair dryer (industrial use is acceptable)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Only the rear bearing insertion area should be intensively heated.",
+        "Rear housing heating temperature shall be approximately 50-60°C and heating time shall be approximately 5 minutes.",
+        "The dryer should be about 1,000W."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be very careful not to burn yourself."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583167_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583168_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Insert the tip of a flat-blade screwdriver or similar tool into the gap between the stator core (A) and the drive end housing (B) to separate them."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not damage the stator coil with a screwdriver or the like.",
+        "The stator core shall be separated with the stator core attached to the rear housing side."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583169_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "While melting the solder at the lectifier terminal, open the caulk with a flat-blade screwdriver, separate the stator leads from the lectifier terminal, and remove the stator."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "A soldering iron of about 100W should be used.",
+        "Work should be performed quickly to prevent heat loss of the diode."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Lectifiers Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583170_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect continuity between the following terminals in both directions, changing polarity, and verify that continuity exists in only one direction."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "B－P（P 1 P 2 P 3 P 4 (between terminals)"
+          }
+        ],
+        [
+          {
+            "text": "E－P（P 1 P 2 P 3 P 4 (between terminals)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The stator and lectifiers are done separately."
+        },
+        {
+          "text": "The stator and lectifiers are done separately."
+        },
+        {
+          "text": "Do this with the lectifier attached to the rear housing."
+        },
+        {
+          "text": "Do this with the lectifier attached to the rear housing."
+        },
+        {
+          "text": "B, P 1 P 2 P 3 P 4 are both solder points."
+        },
+        {
+          "text": "B, P 1 P 2 P 3 P 4 are both solder points."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Regulator/rectifier removal"
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583171_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the bolts attaching the regulator and separate the regulator while melting the solder joints with the lectifiers one side at a time."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "A soldering iron of about 100W should be used.",
+        "Work should be performed quickly to prevent heat loss of the diode."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Brush Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583172_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Measure the length of the brush."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "19mm"
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "5mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583173_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "If worn below the limit, use a soldering iron to remove the brush and replace it."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Brushes Don't forget the springs.",
+        "Brushes shall be installed so that their lengths are standard values.",
+        "Do not overload the solder."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Stator Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583174_4.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The stator and lectifiers should be separated."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect for continuity between each lead wire (A). Inspect for continuity between each lead wire and stator core (B)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Insulation resistance by megatester",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "5MΩ (500V) min."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Pulley removal"
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583175_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Protect the rotor with a rag and clamp it with a vise, and remove the pulley lock nut. Separate the front housing from the rotor."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Rotor Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583176_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect for continuity between slip rings (A). Inspect for continuity between the slip ring and rotor (B). Inspect for continuity between slip ring and rotor shaft (C)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Insulation resistance by megatester",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Std."
+          },
+          {
+            "text": "1MΩ (500V) or more"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Rear bearing removal"
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583177_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the rear bearing (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Due to the narrow clearance between the bearing and the slip ring (B), a puller (C) with strong and thin jaws should be used.",
+        "Bearings shall not be reused."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When assembling the A.C. generator, refer to the development drawing."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear Bearing Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583178_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Press-fit a new bearing (A) using a hand press."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The bearing shall be set so that no load is applied to the outer ring of the bearing during press fitting."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Pulley Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583179_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Assemble the front housing and rotor. Protect the rotor with a rag, clamp it with a vise, and tighten the pulley lock nut."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Torque: 0.5 to 1.0 MPa"
+          },
+          {
+            "text": "110N·m（11.2kgf·m）"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Regulator/rectifier mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583180_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the lectifiers on the rear housing."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install the regulator and solder the entire terminal section."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "A soldering iron of about 100W should be used.",
+        "Work should be performed quickly to prevent heat loss of the diode."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Stator Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583181_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the stator, set the stator lead wire in the rectifier terminal, lightly caulk the stator lead wire with pliers, etc., and solder (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "A soldering iron of about 100W should be used.",
+        "Work should be performed quickly to prevent heat loss of the diode."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Brush Fixed"
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583182_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Push the brush (A) into the brush holder and secure it with a pin (B) or the like. Use pins with a diameter of about 1.8 mm."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Drive end housing/rear housing assembly"
+    },
+    {
+      "type": "figure",
+      "asset": "353_4.0_jpn_11583183_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Assemble the drive end housing (A) and rear housing (B). After assembly, pull out the pin (C) and check by hand that there is no abnormal noise and that the pin rotates smoothly."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Assembly shall be performed by heating the rear bearing insertion area of the rear housing in the same manner as when disassembling.",
+        "Do not scratch the stator core."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be very careful not to burn yourself."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000353_jpn/web/html/R000353_jpn_Content.html",
+  "inOutline": true
+}

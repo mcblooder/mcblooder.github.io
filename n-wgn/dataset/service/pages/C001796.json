@@ -1,0 +1,125 @@
+{
+  "id": "C001796",
+  "title": "Differential Structure Description - Rear Differential (4WD)",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "differential",
+  "system": "Rear Differential Assy.",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001796",
+  "assets": [
+    "1796_2.0_jpn_11583482_2.0_disp.png",
+    "1796_2.0_jpn_11583484_2.0_disp.png",
+    "1796_2.0_jpn_11583485_2.0_disp.png",
+    "1796_2.0_jpn_11583486_2.0_disp.png",
+    "1796_2.0_jpn_11583487_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Differential Structure Description - Rear Differential (4WD)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "The rear differential on 4WD models integrates a viscous coupling that has both a center differential function and a differential limiting function."
+    },
+    {
+      "type": "figure",
+      "asset": "1796_2.0_jpn_11583482_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Viscous couplings, like viscous and couplings, utilize the viscosity of silicon oil to transmit driving force without relying on a mechanical linkage. Silicon oil is a high-performance oil with little change in viscosity over a wide temperature range (from about -70°C to about 300°C) and excellent heat, cold, and water resistance."
+    },
+    {
+      "type": "paragraph",
+      "text": "In normal driving, the front and rear wheels rotate the same in principle, and the front wheels are almost in a front-wheel drive driving condition. However, when a rotation difference occurs between the front and rear axles, the silicon oil filled between the plates is sheared, where shear resistance is generated and the driving force is transmitted."
+    },
+    {
+      "type": "paragraph",
+      "text": "The greater the rotational difference between the front and rear axles, the stronger the shear resistance and the greater the driving force transmitted."
+    },
+    {
+      "type": "figure",
+      "asset": "1796_2.0_jpn_11583484_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "configuration"
+    },
+    {
+      "type": "paragraph",
+      "text": "The viscous coupling assembly consists of a viscous coupling case, viscous coupling case cover, viscous coupling shaft, case plate, hub plate, etc. The viscous coupling case is filled with high-viscosity silicone oil."
+    },
+    {
+      "type": "paragraph",
+      "text": "The case plate engages the splines on the inner wall of the viscous coupling case and rotates in unison with the viscous coupling case. The viscous coupling case is coupled to the propeller shaft."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hub plate engages the splines on the periphery of the viscous coupling shaft and rotates in unison with the drive pinion gear via the viscous coupling shaft."
+    },
+    {
+      "type": "figure",
+      "asset": "1796_2.0_jpn_11583485_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "operation"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "In constant speed driving on a normal road surface, the front and rear wheels rotate at the same speed, so the viscous coupling case and drive pinion gear rotate at the same speed, the shear force of the silicone oil does not work, and very little driving force is transmitted to the rear wheels, resulting in front wheel drive."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1796_2.0_jpn_11583486_2.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "On slippery surfaces such as snowy or rough roads, when the front wheels are unable to fully transmit driving force to the road surface, a difference in rotational speed occurs between the viscous coupling case and drive pinion gear, and the shear force of silicone oil acts to instantly transmit driving force to the rear wheels."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1796_2.0_jpn_11583487_2.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the difference in rotational speed between the viscous coupling case and drive pinion gear remains excessive for an extended period of time, the silicon oil expands as the temperature rises, the pressure inside the viscous coupling increases, and eventually the case plate and hub plate are pressed together, a condition known as hump phenomenon. At this time, the driving force transmitted to the rear wheel is at its maximum, but then the silicone oil is no longer subjected to shear force, so the oil temperature gradually decreases and the two plates separate and return to normal again."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131205112612/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001796_jpn/web/html/C001796_jpn_Content.html",
+  "inOutline": true
+}

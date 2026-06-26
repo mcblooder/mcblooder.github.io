@@ -1,0 +1,769 @@
+{
+  "id": "R000640",
+  "title": "Steering gear box removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000640",
+  "assets": [
+    "640_5.0_jpn_11581883_5.0_disp.png",
+    "640_5.0_jpn_11581884_5.0_disp.png",
+    "640_5.0_jpn_11581885_5.0_disp.png",
+    "640_5.0_jpn_11581886_5.0_disp.png",
+    "640_5.0_jpn_11581887_5.0_disp.png",
+    "640_5.0_jpn_11581888_5.0_disp.png",
+    "640_5.0_jpn_11581889_5.0_disp.png",
+    "640_5.0_jpn_11581890_5.0_disp.png",
+    "640_5.0_jpn_11581891_5.0_disp.png",
+    "640_5.0_jpn_11581892_5.0_disp.png",
+    "640_5.0_jpn_11581893_5.0_disp.png",
+    "640_5.0_jpn_11581894_5.0_disp.png",
+    "640_5.0_jpn_11581895_5.0_disp.png",
+    "640_5.0_jpn_11581896_5.0_disp.png",
+    "640_5.0_jpn_11581897_5.0_disp.png",
+    "640_5.0_jpn_11581898_5.0_disp.png",
+    "640_5.0_jpn_11581899_5.0_disp.png",
+    "640_5.0_jpn_11581900_5.0_disp.png",
+    "640_5.0_jpn_11581901_5.0_disp.png",
+    "640_5.0_jpn_11581902_5.0_disp.png",
+    "640_5.0_jpn_11581903_5.0_disp.png",
+    "640_5.0_jpn_11581904_5.0_disp.png",
+    "640_5.0_jpn_11581905_5.0_disp.png",
+    "640_5.0_jpn_11581906_5.0_disp.png",
+    "640_5.0_jpn_11581907_5.0_disp.png",
+    "640_5.0_jpn_11581908_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Front wheel removal on both sides",
+      "resolved": true
+    },
+    {
+      "id": "R000660",
+      "label": "Disconnect the tie rod end from the knuckle using the special tool.",
+      "resolved": true
+    },
+    {
+      "id": "R000850",
+      "label": "Front under cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000416",
+      "label": "Exhaust pipe/silencer removal",
+      "resolved": true
+    },
+    {
+      "id": "R000615",
+      "label": "Propeller shaft removal (4WD vehicles)",
+      "resolved": true
+    },
+    {
+      "id": "R000359",
+      "label": "Torque rod removal",
+      "resolved": true
+    },
+    {
+      "id": "R000865",
+      "label": "Subframe Tightening",
+      "resolved": true
+    },
+    {
+      "id": "R000864",
+      "label": "Anda Load Path Rod Tightening",
+      "resolved": true
+    },
+    {
+      "id": "R000633",
+      "label": "Stationary operation load Inspection",
+      "resolved": true
+    },
+    {
+      "id": "R000655",
+      "label": "Check and adjust wheel alignment.",
+      "resolved": true
+    },
+    {
+      "id": "R000714",
+      "label": "VSA sensor Midpoint write",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Steering gear box removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front wheel removal on both sides",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel removal on both sides",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Remove steering joint cover"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581883_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Steering wheel holder mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581884_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Place the steering wheel in the straight ahead position and install the steering wheel holder (aftermarket tool) (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Steering joint disconnection"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581885_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Loosen the joint bolt (A) on the intermediate shaft side. Remove pinion shaft side joint bolt (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581886_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Disconnect the steering joint (A) from the pinion shaft (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Tie rod end disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581887_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the split pin (B) from the ball joint connection of the tie rod end (A), and remove the nut (C). Disconnect the tie rod end from the knuckle using the special tool.",
+      "refs": [
+        {
+          "id": "R000660",
+          "label": "Disconnect the tie rod end from the knuckle using the special tool.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Stabilizer linkage disconnection (for vehicles equipped with stabilizer)"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581888_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the stabilizer link (A) from the stabilizer (B). Hold the joint pin (C) with an Allen wrench (D) and loosen the nut (E)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Front under cover removal",
+      "refs": [
+        {
+          "id": "R000850",
+          "label": "Front under cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Front splash guard clip removal"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581889_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the clip (A) on the driver side front splash guard."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Exhaust pipe/silencer removal",
+      "refs": [
+        {
+          "id": "R000416",
+          "label": "Exhaust pipe/silencer removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Propeller shaft removal (4WD vehicles)",
+      "refs": [
+        {
+          "id": "R000615",
+          "label": "Propeller shaft removal (4WD vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. Engine Support"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581890_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Support the center of the oil pan with a jack (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "13. Torque rod removal",
+      "refs": [
+        {
+          "id": "R000359",
+          "label": "Torque rod removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "14. Subframe disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581891_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Support the sub-frame (A) with the transmission jack (B) by placing a square timber or similar object against the sub-frame (A). Remove the sub-frame mounting bolt (C). Remove the underload pass rod mounting bolt (D). Lower the subframe with the transmission jack until the lower arm is level."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not lower the subframe too far than necessary."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "15. Steering gear box removal"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581892_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the steering gearbox mounting bolt (A). Remove the steering gearbox stay (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581893_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the pinion shaft grommet (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Remove the gearbox boots and pinion shaft serrations so as not to damage them."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581894_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Pull out the pinion shaft while rotating the gearbox so that the pinion shaft (A) faces the front side."
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581895_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Lift and tilt the steering gear box (A) and pull it out from between the body and the front subframe."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When pulling out, be careful not to damage the following parts by contact with the vehicle.",
+        "Serrated portion of pinion shaft",
+        "Gearbox flange section",
+        "Tie Rod End Ball Joint Boot",
+        "Steering gearbox Boots"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Steering gearbox installation"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581896_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "While tilting the steering gear box (A), pull it into the engine compartment from between the body and the front subframe."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When inserting the vehicle, be careful not to damage the following parts of the vehicle by contact with the vehicle.",
+        "Serrated portion of pinion shaft",
+        "Gearbox flange section",
+        "Tie Rod End Ball Joint Boot",
+        "Steering gearbox Boots"
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581897_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Turn the pinion shaft (B) of the steering gear box (A) toward the front side and move it to the subframe mounting position while rotating it."
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581898_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Install pinion shaft grommet (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Align the protrusion (B) of the grommet with the notch (C) in the gearbox and install."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581899_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Steering gear box Install the stay (A) and install the new gear box mounting bolts."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Gearbox mounting bolts shall be tightened in the order shown in the figure with the specified torque.",
+        "After mounting the gearbox, tighten the gearbox mounting bolts again to the specified torque for confirmation.",
+        "Washers (B) shall be securely installed."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Subframe Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581900_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Flip the lip (A) of the pinion shaft grommet outward. Lift the sub-frame (B) up to the body by supporting it with the transmission jack (C) using a square timber, etc. Restore inversion of the lip of the pinion shaft grommet. Temporarily install the new subframe mounting bolts (D). Temporarily attach the underload pass rod mounting bolt (E)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The pinion shaft grommet shall not be dislodged or displaced, and the lip shall not be turned up. Poor installation may cause mud, water, or noise intrusion into the interior."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Subframe Tightening",
+      "refs": [
+        {
+          "id": "R000865",
+          "label": "Subframe Tightening",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Anda Load Path Rod Tightening",
+      "refs": [
+        {
+          "id": "R000864",
+          "label": "Anda Load Path Rod Tightening",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Torque Rod Mounting",
+      "refs": [
+        {
+          "id": "R000359",
+          "label": "Torque Rod Mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Jack Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581901_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the jack (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Propeller Shaft Installation (4WD models)",
+      "refs": [
+        {
+          "id": "R000615",
+          "label": "Propeller Shaft Installation (4WD models)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Exhaust pipe/silencer installation",
+      "refs": [
+        {
+          "id": "R000416",
+          "label": "Exhaust pipe/silencer installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Front Splash Guard Clip Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581902_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the clip (A) on the driver side front splash guard."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Front Under Cover Installation",
+      "refs": [
+        {
+          "id": "R000850",
+          "label": "Front Under Cover Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Stabilizer link connection (for vehicles equipped with stabilizer)"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581903_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the stabilizer link (A) to the stabilizer (B). Hold the joint pin (C) with a hex wrench (D) and tighten the new nut (E)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. Tie Rod End Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581904_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the tie rod end (A) to the knuckle."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the tie rod lock nuts (B) are loosened, they should be tightened when adjusting the front toe."
+        },
+        {
+          "text": "If the tie rod lock nuts (B) are loosened, they should be tightened when adjusting the front toe."
+        },
+        {
+          "text": "Replace the split pin (C) with a new one and bend it as shown in (D) or (E) in the figure."
+        },
+        {
+          "text": "Replace the split pin (C) with a new one and bend it as shown in (D) or (E) in the figure."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "13. Steering joint connection"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581905_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Insert the steering joint (A) into the pinion shaft (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The pinion shaft shall not be rotated to prevent the rack from changing its linear position."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581906_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Align the pinion shaft cutout (A) with the bolt holes in the steering joint and tighten to the specified torque using new joint bolts (B). Tighten the new intermediate shaft side joint bolt (C) to the specified torque. Pull the steering joint toward the column to make sure it does not come loose from the pinion shaft."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "14. Steering joint cover installation"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581907_5.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "After installation, inspect the steering joint cover for any looseness, looseness, or floating. If any abnormality is found, replace it with a new one."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "15. Steering wheel holder removal"
+    },
+    {
+      "type": "figure",
+      "asset": "640_5.0_jpn_11581908_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the steering wheel holder (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "16. Front wheel mounting on both sides",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel mounting on both sides",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "17. Steering gear box Check after installation"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "With the tires not touching the floor (lifted up), turn the steering wheel fully to the left and right several times and inspect for the symptoms listed in the following table."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "symptoms"
+          },
+          {
+            "text": "Possible Causes"
+          }
+        ],
+        [
+          {
+            "text": "Resin rubbing noise from near the feet"
+          },
+          {
+            "text": "Contact between steering joint and cover"
+          }
+        ],
+        [
+          {
+            "text": "Gurgling sound from near the feet, gurgling sensation felt in the hand through the steering wheel, or a catching sensation while turning the wheel"
+          },
+          {
+            "text": "Poor serration engagement of steering joint and pinion shaft"
+          }
+        ],
+        [
+          {
+            "text": "Periodic steering force undulation"
+          },
+          {
+            "text": "Poor connection of steering joint (kink, sticking)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "18. Tilt operation check"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "19. Stationary operation load Inspection",
+      "refs": [
+        {
+          "id": "R000633",
+          "label": "Stationary operation load Inspection",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "20. Wheel alignment Inspection and adjustment"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Set the tilt position near the center, drive straight ahead, and check that the steering wheel is in the straight ahead position. If adjustment is necessary, turn the tie rods by the same amount on both sides. Check and adjust wheel alignment. If there is a left-right difference in the front wheel angle of turn, correct the serration engagement between the steering joint and shaft, and then adjust the toe.",
+      "refs": [
+        {
+          "id": "R000655",
+          "label": "Check and adjust wheel alignment.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "21. VSA sensor Midpoint write",
+      "refs": [
+        {
+          "id": "R000714",
+          "label": "VSA sensor Midpoint write",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000640_jpn/web/html/R000640_jpn_Content.html",
+  "inOutline": true
+}

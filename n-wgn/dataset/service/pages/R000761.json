@@ -1,0 +1,148 @@
+{
+  "id": "R000761",
+  "title": "Interior garnish/lining removal - Rear side section",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "interior",
+  "system": "trim",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000761",
+  "assets": [
+    "761_3.0_jpn_11581205_3.0_disp.png",
+    "761_3.0_jpn_11581206_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000830",
+      "label": "Remove the tailgate weather strip as required.",
+      "resolved": true
+    },
+    {
+      "id": "R000760",
+      "label": "Rear panel lining removal",
+      "resolved": true
+    },
+    {
+      "id": "R000757",
+      "label": "Remove the rear opening trim as required.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Interior garnish/lining removal - Rear side section"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear seat slide board removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Cargo floor lid removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Tool box removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Tailgate weather strip removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the tailgate weather strip as required.",
+      "refs": [
+        {
+          "id": "R000830",
+          "label": "Remove the tailgate weather strip as required.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Rear panel lining removal",
+      "refs": [
+        {
+          "id": "R000760",
+          "label": "Rear panel lining removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Rear opening trim removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the rear opening trim as required.",
+      "refs": [
+        {
+          "id": "R000757",
+          "label": "Remove the rear opening trim as required.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Cargo side lining removal"
+    },
+    {
+      "type": "figure",
+      "asset": "761_3.0_jpn_11581205_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "761_3.0_jpn_11581206_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Fold down the rear seatback."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove clip (A) and hook (B). Insert the handy remover between the body and the cargo side lining (C) and remove the clips (D and E). Pull the entire lining toward you and remove the hooks (G) from the rear pillar garnish (F)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Forcible pulling on the lining end without releasing the clip may damage the component."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000761_jpn/web/html/R000761_jpn_Content.html",
+  "inOutline": true
+}

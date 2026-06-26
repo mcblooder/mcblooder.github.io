@@ -1,0 +1,88 @@
+{
+  "id": "C001748",
+  "title": "Vehicle Stability Assist (VSA) System Structure Description - VSA Modulator",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001748",
+  "assets": [
+    "1748_3.0_jpn_11242717_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Vehicle Stability Assist (VSA) System Structure Description - VSA Modulator"
+    },
+    {
+      "type": "paragraph",
+      "text": "The VSA modulator unit consists of an inlet solenoid valve, outlet solenoid valve, orifice, pump, pump motor, regulator valve, and suction valve. The hydraulic control system has three modes: increasing, holding, and decreasing pressure when ABS is activated. In addition, when brake TCS, VSA, brake assist, creep aid, or hill start assist is activated, a pressurization mode is combined to drive the regulator valve and suction valve. When the City Brake Active System is activated, the pressurized mode operates alone."
+    },
+    {
+      "type": "figure",
+      "asset": "1748_3.0_jpn_11242717_2.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Increased pressure actuation"
+          },
+          {
+            "text": "Inlet valve open (OFF), outlet valve closed (OFF) Fluid from the master cylinder is routed through the inlet valve to the calipers."
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Holding actuation:"
+          },
+          {
+            "text": "Inlet valve closed (ON), outlet valve closed (OFF) Caliper fluid is shut off by inlet and outlet valves."
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Decompression actuation"
+          },
+          {
+            "text": "Inlet valve closed (ON), outlet valve open (ON) Caliper fluid passes through the outlet valve to the reservoir."
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Pressure actuation"
+          },
+          {
+            "text": "Suction valve open (ON), regulator valve closed (current control) The fluid in the master cylinder is suctioned and discharged by the pump through the suction valve. The regulator valve pressurizes the caliper above the master cylinder pressure. The amount of pressurization is controlled by electric current control of the regulator valve to control the pressure according to each control."
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001748_jpn/web/html/C001748_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,323 @@
+{
+  "id": "G000630",
+  "title": "Steering Configuration Diagram",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000630",
+  "assets": [
+    "630_3.0_jpn_11293133_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000632",
+      "label": "R000632",
+      "resolved": true
+    },
+    {
+      "id": "R000633",
+      "label": "R000633",
+      "resolved": true
+    },
+    {
+      "id": "R000634",
+      "label": "R000634",
+      "resolved": true
+    },
+    {
+      "id": "R000635",
+      "label": "R000635",
+      "resolved": true
+    },
+    {
+      "id": "R000636",
+      "label": "R000636",
+      "resolved": true
+    },
+    {
+      "id": "R000639",
+      "label": "R000639",
+      "resolved": true
+    },
+    {
+      "id": "R000638",
+      "label": "R000638",
+      "resolved": true
+    },
+    {
+      "id": "R000644",
+      "label": "R000644",
+      "resolved": true
+    },
+    {
+      "id": "R000631",
+      "label": "R000631",
+      "resolved": true
+    },
+    {
+      "id": "R000640",
+      "label": "R000640",
+      "resolved": true
+    },
+    {
+      "id": "R000641",
+      "label": "R000641",
+      "resolved": true
+    },
+    {
+      "id": "R000645",
+      "label": "R000645",
+      "resolved": true
+    },
+    {
+      "id": "R000642",
+      "label": "R000642",
+      "resolved": true
+    },
+    {
+      "id": "R000643",
+      "label": "R000643",
+      "resolved": true
+    },
+    {
+      "id": "R000637",
+      "label": "R000637",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Steering Configuration Diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "630_3.0_jpn_11293133_2.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            46.0,
+            43.0,
+            90.0,
+            57.0
+          ],
+          "ref": {
+            "id": "R000632",
+            "label": "R000632",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            46.0,
+            54.0,
+            163.0,
+            68.0
+          ],
+          "ref": {
+            "id": "R000633",
+            "label": "R000633",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            46.0,
+            64.0,
+            68.0,
+            78.0
+          ],
+          "ref": {
+            "id": "R000634",
+            "label": "R000634",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            46.0,
+            75.0,
+            97.0,
+            89.0
+          ],
+          "ref": {
+            "id": "R000635",
+            "label": "R000635",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            10.0,
+            227.0,
+            32.0,
+            241.0
+          ],
+          "ref": {
+            "id": "R000636",
+            "label": "R000636",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            10.0,
+            238.0,
+            32.0,
+            252.0
+          ],
+          "ref": {
+            "id": "R000639",
+            "label": "R000639",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            10.0,
+            146.0,
+            32.0,
+            160.0
+          ],
+          "ref": {
+            "id": "R000638",
+            "label": "R000638",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            505.0,
+            498.0,
+            650.0,
+            512.0
+          ],
+          "ref": {
+            "id": "R000644",
+            "label": "R000644",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            265.0,
+            604.0,
+            320.0,
+            618.0
+          ],
+          "ref": {
+            "id": "R000631",
+            "label": "R000631",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            265.0,
+            615.0,
+            287.0,
+            629.0
+          ],
+          "ref": {
+            "id": "R000640",
+            "label": "R000640",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            265.0,
+            625.0,
+            319.0,
+            639.0
+          ],
+          "ref": {
+            "id": "R000641",
+            "label": "R000641",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            265.0,
+            636.0,
+            375.0,
+            650.0
+          ],
+          "ref": {
+            "id": "R000645",
+            "label": "R000645",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            450.0,
+            594.0,
+            472.0,
+            608.0
+          ],
+          "ref": {
+            "id": "R000642",
+            "label": "R000642",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            156.0,
+            594.0,
+            178.0,
+            608.0
+          ],
+          "ref": {
+            "id": "R000643",
+            "label": "R000643",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            10.0,
+            513.0,
+            32.0,
+            527.0
+          ],
+          "ref": {
+            "id": "R000637",
+            "label": "R000637",
+            "resolved": true
+          }
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000630_jpn/web/html/G000630_jpn_Content.html",
+  "inOutline": true
+}

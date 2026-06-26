@@ -1,0 +1,281 @@
+{
+  "id": "R002243",
+  "title": "City Brake Active System Functional Inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Speed/body control",
+  "system": "City Brake Active System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002243",
+  "assets": [
+    "2243_3.0_jpn_11580590_3.0_disp.png",
+    "2243_3.0_jpn_11580591_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "T002567",
+      "label": "Inspect data link circuits",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "City Brake Active System Functional Inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. City Brake Active System Functional Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "2243_3.0_jpn_11580590_3.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "No modifications to the suspension.",
+        "Properly sized tires must be installed."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The City Brake Active System radar/control unit may have difficulty recognizing targets due to the surrounding environment."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "If you have difficulty recognizing the target, change the following environment"
+        },
+        {
+          "text": "If you have difficulty recognizing the target, change the following environment"
+        },
+        {
+          "text": "View ahead"
+        },
+        {
+          "text": "View ahead"
+        },
+        {
+          "text": "View ahead"
+        },
+        {
+          "text": "Lighting brightness"
+        },
+        {
+          "text": "Lighting brightness"
+        },
+        {
+          "text": "Direction of sunlight"
+        },
+        {
+          "text": "Direction of sunlight"
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Prepare the following"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "HDS"
+        },
+        {
+          "text": "HDS"
+        },
+        {
+          "text": "tape measure"
+        },
+        {
+          "text": "tape measure"
+        },
+        {
+          "text": "target"
+        },
+        {
+          "text": "target"
+        },
+        {
+          "text": "The target shall be a vehicle. The following is a list of vehicles suitable for the target."
+        },
+        {
+          "text": "Prepare the following"
+        },
+        {
+          "text": "White or silver vehicle"
+        },
+        {
+          "text": "White or silver vehicle"
+        },
+        {
+          "text": "White or silver vehicle"
+        },
+        {
+          "text": "Wagon or minivan type"
+        },
+        {
+          "text": "Wagon or minivan type"
+        },
+        {
+          "text": "Vehicles with reflectors built into the tail lens"
+        },
+        {
+          "text": "Vehicles with reflectors built into the tail lens"
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "The target should be located approximately 2.0 m from the front edge of the inspection vehicle. Place the steering wheel in the straight ahead position. Place the select lever in the P position. Apply the parking brake. Turn ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do it in a well-lit area."
+        },
+        {
+          "text": "Do it in a well-lit area."
+        },
+        {
+          "text": "Check for lighting or lighting reflections behind the target installation location."
+        },
+        {
+          "text": "Check for lighting or lighting reflections behind the target installation location."
+        },
+        {
+          "text": "Fuel tank should be full."
+        },
+        {
+          "text": "Fuel tank should be full."
+        },
+        {
+          "text": "The cargo space should be empty except for a puncture repair kit and onboard tools."
+        },
+        {
+          "text": "The cargo space should be empty except for a puncture repair kit and onboard tools."
+        },
+        {
+          "text": "Adjust tire pressure properly."
+        },
+        {
+          "text": "Adjust tire pressure properly."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2243_3.0_jpn_11580591_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "7",
+      "text": "Connect HDS to the data link coupler (A) located in the driver's seat. Turn ignition to ON mode. Ensure that HDS communicates with the vehicle and the City Brake Active System radar/control unit. Select the data list from the HDS Driver Assistance System, City Brake Active System menu and perform a function check. Inspections are performed with one person in the driver's seat. Verify that the inspection results are the following values"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If not communicating, Inspect data link circuits Do.",
+          "refs": [
+            {
+              "id": "T002567",
+              "label": "Inspect data link circuits",
+              "resolved": false
+            }
+          ]
+        },
+        {
+          "text": "If not communicating, Inspect data link circuits Do.",
+          "refs": [
+            {
+              "id": "T002567",
+              "label": "Inspect data link circuits",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "data",
+            "colspan": 2,
+            "header": true
+          },
+          {
+            "text": "parameter",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Target distance",
+            "colspan": 2
+          },
+          {
+            "text": "2.0m±50cm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "If the target distance deviates from the above values, check the following conditions and make appropriate repairs"
+        },
+        {
+          "text": "If the target distance deviates from the above values, check the following conditions and make appropriate repairs"
+        },
+        {
+          "text": "Dirt on windshield"
+        },
+        {
+          "text": "Dirt on windshield"
+        },
+        {
+          "text": "Dirt on windshield"
+        },
+        {
+          "text": "City Brake Active System Radar/Control Unit installed status"
+        },
+        {
+          "text": "City Brake Active System Radar/Control Unit installed status"
+        },
+        {
+          "text": "If the windshield is dirty, or if the target distance exceeds the standard value even though the CITY BRAKE ACTIVE SYSTEM radar/control unit is installed in good condition, replace the unit with a new CITY BRAKE ACTIVE SYSTEM radar/control unit."
+        },
+        {
+          "text": "If the windshield is dirty, or if the target distance exceeds the standard value even though the CITY BRAKE ACTIVE SYSTEM radar/control unit is installed in good condition, replace the unit with a new CITY BRAKE ACTIVE SYSTEM radar/control unit."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002243_jpn/web/html/R002243_jpn_Content.html",
+  "inOutline": true
+}

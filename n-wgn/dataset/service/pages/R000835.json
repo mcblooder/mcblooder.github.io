@@ -1,0 +1,55 @@
+{
+  "id": "R000835",
+  "title": "Adjustment of fuel lid construction",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "fuel lid",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000835",
+  "assets": [
+    "835_3.0_jpn_11369499_2.0_disp.png",
+    "835_3.0_jpn_11369500_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Adjustment of fuel lid construction"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Fuel Lid Adjustment"
+    },
+    {
+      "type": "figure",
+      "asset": "835_3.0_jpn_11369499_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Loosen the hinge mounting bolt (A) and tighten the bolt enough to allow the fuel lid (B) to move. Move the fuel lid inward, outward, up and down to adjust the gap and level between the fuel lid and the body. Tighten the hinge mounting bolts. Ensure that the fuel lid locks securely and opens smoothly."
+    },
+    {
+      "type": "figure",
+      "asset": "835_3.0_jpn_11369500_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Lubricate the sliding parts of the hinge, the hinge-spring contact area, and the actuator rod contact area of the fuel lid. Apply touch-up paint to the hinge mounting bolts and the hinge mounting areas of the body to prevent rusting."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000835_jpn/web/html/R000835_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,73 @@
+{
+  "id": "R000969",
+  "title": "License plate Valve removal and installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000969",
+  "assets": [
+    "969_3.0_jpn_11353119_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000762",
+      "label": "Tailgate lower lining removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "License plate Valve removal and installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Tailgate lower lining removal",
+      "refs": [
+        {
+          "id": "R000762",
+          "label": "Tailgate lower lining removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Valve removal"
+    },
+    {
+      "type": "figure",
+      "asset": "969_3.0_jpn_11353119_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Remove the socket (B) by pushing the tabs, and remove the valve (C). License plate light: 12V-5W"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000969_jpn/web/html/R000969_jpn_Content.html",
+  "inOutline": true
+}

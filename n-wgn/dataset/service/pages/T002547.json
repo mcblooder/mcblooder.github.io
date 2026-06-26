@@ -1,0 +1,336 @@
+{
+  "id": "T002547",
+  "title": "How to proceed with fuel and emission control failure diagnosis",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002547",
+  "assets": [
+    "2547_5.0_jpn_11381712_4.0_disp.png",
+    "2547_5.0_jpn_11381713_4.0_disp.png",
+    "2547_5.0_jpn_11381715_4.0_disp.png",
+    "2547_5.0_jpn_11393876_4.0_disp.png",
+    "2547_5.0_jpn_11393877_4.0_disp.png",
+    "2547_5.0_jpn_11393878_4.0_disp.png",
+    "2547_5.0_jpn_11394572_4.0_disp.png",
+    "2547_5.0_jpn_11394573_4.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "T002540",
+      "label": "Failure diagnosis table by DTC",
+      "resolved": true
+    },
+    {
+      "id": "T002544",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": true
+    },
+    {
+      "id": "T002567",
+      "label": "Inspect data link circuits",
+      "resolved": false
+    },
+    {
+      "id": "R002909",
+      "label": "Clear ECU learning values (ECU reset)",
+      "resolved": true
+    },
+    {
+      "id": "R000471",
+      "label": "Learning to idle.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "How to proceed with fuel and emission control failure diagnosis"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the PGM-FI warning light illuminates or blinks, or if a problem occurs during operation, proceed with failure diagnosis according to the following procedure."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Turn the ignition to the ON mode and confirm that the PGM-FI warning light (A) illuminates for approximately 20 seconds and then goes out."
+    },
+    {
+      "type": "figure",
+      "asset": "2547_5.0_jpn_11393876_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "If the PGM-FI warning light continues to illuminate, check the DTC (Diagnostic Trouble Code), Failure diagnosis table by DTC Diagnose the malfunction of the DTC indicated by the If the PGM-FI warning light is not illuminated, check the DTC, and if there is a DTC, diagnose the malfunction of the displayed DTC. if there is no DTC, check the DTC by Failure Diagnosis by Symptom (1) The company shall",
+      "refs": [
+        {
+          "id": "T002540",
+          "label": "Failure diagnosis table by DTC",
+          "resolved": true
+        },
+        {
+          "id": "T002544",
+          "label": "Failure Diagnosis by Symptom",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "After all failure diagnostics are completed, perform necessary repair work and take action after failure diagnostics are completed."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Turn the ignition to the ON mode and check that the idling stop system warning light (orange) (A) illuminates. If the Idling Stop System warning light (amber) is on, check the Diagnostic Trouble Code (DTC), Failure diagnosis table by DTC If there is no DTC, Failure Diagnosis Chart by Symptom Symptomatic failure diagnosis is performed by",
+      "refs": [
+        {
+          "id": "T002540",
+          "label": "Turn the ignition to the ON mode and check that the idling stop system warning light (orange) (A) illuminates.",
+          "resolved": true
+        },
+        {
+          "id": "T002540",
+          "label": "Failure diagnosis table by DTC",
+          "resolved": true
+        },
+        {
+          "id": "T002544",
+          "label": "Failure Diagnosis Chart by Symptom",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2547_5.0_jpn_11393877_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Turn the ignition to the ON mode and check that the starter system warning light (orange) (A) illuminates. If the starter system warning light (amber) is on, check the Diagnostic Trouble Code (DTC), Failure diagnosis table by DTC Diagnose the malfunctions indicated by the",
+      "refs": [
+        {
+          "id": "T002540",
+          "label": "Failure diagnosis table by DTC",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2547_5.0_jpn_11393878_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Connect the Honda Diagnostics System (HDS) to the data link coupler (A) on the left side of the driver's seat. 2. Turn ignition to ON mode. 3. Verify that HDS communicates with the vehicle and ECU. If it does not communicate Inspect data link circuits Do. 4. Check DTC (Diagnostic Trouble Code) and freeze data displayed on HDS.",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "Inspect data link circuits",
+          "resolved": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2547_5.0_jpn_11381712_4.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For information on the use of HDS, refer to the HDS instruction manual."
+        },
+        {
+          "text": "HDS can display various ECU data such as freeze data and snapshots, so it is useful to select the necessary mode for diagnostic purposes."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI ECU stores correction values such as the proper idling RPM required for vehicle control and the normal pattern of crank sensor pulses used for misfire detection, etc. If the 12V battery (-) terminal is removed or the No. C21 (15A) fuse in the relay box is removed, these learned values and other important information are not cleared. Even if the power supply to the ECU is interrupted by removal of the fuse, etc., important information such as these learned values will not be cleared. However, if a part is replaced, the improper information based on the old failed part must be cleared by executing the Clear command in HDS."
+    },
+    {
+      "type": "paragraph",
+      "text": "HDS can perform three types of clear commands as needed: DTC clear, ECU learn value clear (ECU reset), and crank pattern learn value clear (crank pattern clear)."
+    },
+    {
+      "type": "paragraph",
+      "text": "DTC clear clears DTCs and freeze data stored in the ECU."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ECU learning value clear (ECU reset) clears all learning values except the crank pattern learning values, including DTC and freeze data stored in the ECU. After each failure diagnosis, the idling learning must be performed after the ECU learning value clearing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clearing the crank pattern learning value (crank pattern clear) clears only the crank pattern learning value. This operation must be performed after any work that causes a phase shift between the crank sensor and the TDCAM sensor (e.g., crank sensor replacement, cam chain removal and installation, etc.). After clearing, the crank pattern must be relearned by using HDS or by performing a road test."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Connect HDS to the data link coupler (A) on the left side of the driver's seat. 2. When the engine is stopped, with the ignition in the ON mode, HDS clears DTC. 3. Turn ignition OFF (LOCK) mode. 4. Turn ignition to ON mode and wait for 30 seconds. 5. Turn the ignition to the OFF (LOCK) mode and remove the HDS from the data link coupler."
+    },
+    {
+      "type": "figure",
+      "asset": "2547_5.0_jpn_11381713_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the PGM-FI warning light comes on or blinks, check the DTC and proceed with each fault diagnosis."
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI warning light may also come on or blink when a coupler connection is faulty. If the failure location cannot be determined after inspection according to each failure diagnosis, check the connection status of the coupler in the ECU and related areas (clean and repair if necessary)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If no abnormality is found after inspection in accordance with the above procedures, or if a malfunction occurs during operation, inspect according to the symptom-based failure diagnosis table."
+    },
+    {
+      "type": "paragraph",
+      "text": "To disconnect the ECU coupler for inspection, follow the procedure below to disconnect the ECU coupler."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Execute SCS short in SCS mode with HDS."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "3. Disconnect ECU couplers A (50P) and E (80P)."
+    },
+    {
+      "type": "figure",
+      "asset": "2547_5.0_jpn_11381715_4.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The PGM-FI warning light illuminates when an abnormality is detected; the ECU retains the memory even when the ignition is turned to the OFF (LOCK) mode, so the PGM-FI warning light turns off when the ignition is turned to the OFF (LOCK) mode, but turns on when the ignition is turned to the ON mode again. The PGM-FI warning light will also turn off if the ECU determines that there is definitely no abnormality under certain conditions."
+        },
+        {
+          "text": "If the ECU coupler is disconnected and the ignition is set to ON mode within the fault diagnosis, the PGM-FI warning light may come on, so the DTC should be cleared."
+        },
+        {
+          "text": "During the inspection performed by disconnecting the ECU coupler, the D indicator light may blink because the sensors are shared with the CVT system. In this case, after completing the inspection of the PGM-FI system, clear the DTC and confirm that the D indicator light does not blink."
+        },
+        {
+          "text": "After the ignition is turned to the OFF (LOCK) mode, the ECU is still powered on (for up to 60 minutes) to monitor the vehicle status for a certain period of time. If the ECU coupler is disconnected before the ECU is completely turned off, the ECU may be damaged; this mode can be removed by disconnecting the 12V battery (-) terminal or shorting the SCS line with HDS after the ECU is in OFF (LOCK) mode."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Use a commercially available digital circuit tester (A) for failure diagnosis, and use the dedicated tool pin probe male (07ZAJ-RDJA110) for the test probe (B)."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2547_5.0_jpn_11394572_4.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When checking, insert the test probe into the inspection hole (A) of the coupler."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2547_5.0_jpn_11394573_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The OBD status in the Trouble Code menu can display the current diagnostic results of the DTCs (Diagnostic Trouble Codes) that the vehicle has. This function allows the operator to enter any DTC on the screen to check if the repair has been completed. The following five types of on-screen displays of self-diagnostic results are available."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Normal judgment: Self-diagnosis completed and the result is normal."
+        },
+        {
+          "text": "Failure determination: Self-diagnosis completed, but the result is abnormal and requires repair."
+        },
+        {
+          "text": "Running: The execution conditions for performing its DTC self-diagnosis have been met and it is currently diagnosing."
+        },
+        {
+          "text": "Not completed: Self-diagnosis has not started because the DTC is not in the execution conditions for that DTC."
+        },
+        {
+          "text": "Out of Condition: Self-diagnosis is interrupted because the vehicle is out of its DTC self-diagnostic condition."
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Clear ECU learning values (ECU reset) (1) The company shall",
+      "refs": [
+        {
+          "id": "R002909",
+          "label": "Clear ECU learning values (ECU reset)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Learning to idle. The following is a list of the most common problems with the \"C\" in the \"C\" column.",
+      "refs": [
+        {
+          "id": "R000471",
+          "label": "Learning to idle.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Turn ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Remove the HDS from the data link coupler."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002547_jpn/web/html/T002547_jpn_Content.html",
+  "inOutline": true
+}

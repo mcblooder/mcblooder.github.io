@@ -1,0 +1,40 @@
+{
+  "id": "C001919",
+  "title": "フューエル、エミッション コントロール構造説明 - 構成",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001919",
+  "assets": [
+    "1919_3.0_jpn_11242760_2.0_disp.png",
+    "1919_3.0_jpn_11242761_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "フューエル、エミッション コントロール構造説明 - 構成"
+    },
+    {
+      "type": "figure",
+      "asset": "1919_3.0_jpn_11242760_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1919_3.0_jpn_11242761_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001919_jpn/web/html/C001919_jpn_Content.html",
+  "inOutline": true
+}

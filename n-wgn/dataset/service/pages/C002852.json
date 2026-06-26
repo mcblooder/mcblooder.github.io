@@ -1,0 +1,43 @@
+{
+  "id": "C002852",
+  "title": "Auto Air Conditioner Structure Description - Outside Temperature Sensor",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002852",
+  "assets": [
+    "2852_3.0_jpn_11287677_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Auto Air Conditioner Structure Description - Outside Temperature Sensor"
+    },
+    {
+      "type": "paragraph",
+      "text": "The outdoor temperature sensor is a chip-type thermistor-type temperature sensor that utilizes the characteristics of a resistance value that decreases when the temperature is high and increases when the temperature is low."
+    },
+    {
+      "type": "paragraph",
+      "text": "The auto A/C control unit reads the change in resistance value according to the outside air temperature and performs auto A/C control."
+    },
+    {
+      "type": "figure",
+      "asset": "2852_3.0_jpn_11287677_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002852_jpn/web/html/C002852_jpn_Content.html",
+  "inOutline": true
+}

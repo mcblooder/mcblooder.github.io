@@ -1,0 +1,50 @@
+{
+  "id": "R000847",
+  "title": "Front Pillar Cover Removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "trim",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000847",
+  "assets": [
+    "847_3.0_jpn_11383003_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front Pillar Cover Removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front pillar cover removal"
+    },
+    {
+      "type": "figure",
+      "asset": "847_3.0_jpn_11383003_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000847_jpn/web/html/R000847_jpn_Content.html",
+  "inOutline": true
+}

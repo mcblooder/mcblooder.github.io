@@ -1,0 +1,200 @@
+{
+  "id": "R000857",
+  "title": "Removing and installing emblems/stickers",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000857",
+  "assets": [
+    "857_3.0_jpn_11036775_3.0_disp.png",
+    "857_3.0_jpn_11390117_2.0_disp.png",
+    "857_3.0_jpn_11390118_2.0_disp.png",
+    "857_3.0_jpn_11390119_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000842",
+      "label": "Front grille cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000854",
+      "label": "For the rear center emblem, remove the rear license garnish.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removing and installing emblems/stickers"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front grille cover removal",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front grille cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front center emblem removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the front center emblem."
+    },
+    {
+      "type": "figure",
+      "asset": "857_3.0_jpn_11390117_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear emblem/sticker removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the rear emblem/stickers. For the rear center emblem, remove the rear license garnish.",
+      "refs": [
+        {
+          "id": "R000854",
+          "label": "For the rear center emblem, remove the rear license garnish.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "857_3.0_jpn_11390118_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front center emblem installation"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the front center emblem."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Work without any misalignment or floating."
+        },
+        {
+          "text": "Work without any misalignment or floating."
+        },
+        {
+          "text": "Install the emblem in the position shown in the figure."
+        },
+        {
+          "text": "Install the emblem in the position shown in the figure."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "857_3.0_jpn_11036775_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front grille cover installation",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front grille cover installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear emblem/sticker installation"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install rear emblem/stickers."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For the rear center emblem, remove the rear license garnish.",
+          "refs": [
+            {
+              "id": "R000854",
+              "label": "For the rear center emblem, remove the rear license garnish.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "For the rear center emblem, remove the rear license garnish.",
+          "refs": [
+            {
+              "id": "R000854",
+              "label": "For the rear center emblem, remove the rear license garnish.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Work without any misalignment or floating."
+        },
+        {
+          "text": "Work without any misalignment or floating."
+        },
+        {
+          "text": "Dimensions in the figure indicate dimensions along the face."
+        },
+        {
+          "text": "Dimensions in the figure indicate dimensions along the face."
+        },
+        {
+          "text": "Install emblems and stickers in the positions shown in the figure."
+        },
+        {
+          "text": "Install emblems and stickers in the positions shown in the figure."
+        },
+        {
+          "text": "The low emission and fuel economy stickers are positioned in the positions shown on the rear windshield with application tape, then the application tape is peeled off and the stickers are installed."
+        },
+        {
+          "text": "The low emission and fuel economy stickers are positioned in the positions shown on the rear windshield with application tape, then the application tape is peeled off and the stickers are installed."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "857_3.0_jpn_11390119_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000857_jpn/web/html/R000857_jpn_Content.html",
+  "inOutline": true
+}

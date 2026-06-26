@@ -1,0 +1,180 @@
+{
+  "id": "R001003",
+  "title": "Assisted Power Window Motor Inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "wind",
+  "system": "Power Window",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001003",
+  "assets": [
+    "1003_3.0_jpn_11261151_2.0_disp.png",
+    "1003_3.0_jpn_11261153_2.0_disp.png",
+    "1003_3.0_jpn_11337377_2.0_disp.png",
+    "1003_3.0_jpn_11337378_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000720",
+      "label": "Assistant Door Lining Removal",
+      "resolved": true
+    },
+    {
+      "id": "R000725",
+      "label": "Remove the assisted door glass regulator.",
+      "resolved": true
+    },
+    {
+      "id": "R000741",
+      "label": "Assistants Adjust door glass erection.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Assisted Power Window Motor Inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Assistant Door Lining Removal",
+      "refs": [
+        {
+          "id": "R000720",
+          "label": "Assistant Door Lining Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Assist Power Window Motor Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "1003_3.0_jpn_11337377_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1003_3.0_jpn_11261151_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Confirm that the assistant power window motor rotates smoothly and without abnormality when battery voltage is applied between each terminal."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the power window motor rotates and the position reaches the limit position, the 12V battery shall be disconnected immediately."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If there is no abnormality in motor rotation, inspection is complete."
+        },
+        {
+          "text": "If there is no abnormality in motor rotation, inspection is complete."
+        },
+        {
+          "text": "If there is an abnormality in motor rotation, proceed to the next step"
+        },
+        {
+          "text": "If there is an abnormality in motor rotation, proceed to the next step"
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1003_3.0_jpn_11337378_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1003_3.0_jpn_11261153_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the assisted door glass regulator. Confirm that the assistant power window motor (A) rotates smoothly and without abnormality when battery voltage is applied between each terminal.",
+      "refs": [
+        {
+          "id": "R000725",
+          "label": "Remove the assisted door glass regulator.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If there is any abnormality in the rotation of the motor, Replace assisted door glass regulator The following is a list of the most common problems with the",
+          "refs": [
+            {
+              "id": "R000725",
+              "label": "Replace assisted door glass regulator",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If there is any abnormality in the rotation of the motor, Replace assisted door glass regulator The following is a list of the most common problems with the",
+          "refs": [
+            {
+              "id": "R000725",
+              "label": "Replace assisted door glass regulator",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If there is no abnormality in the rotation of the motor, the cord may be broken, shorted, or Assistants Adjust door glass erection. The following is a list of the most common problems with the",
+          "refs": [
+            {
+              "id": "R000741",
+              "label": "Assistants Adjust door glass erection.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If there is no abnormality in the rotation of the motor, the cord may be broken, shorted, or Assistants Adjust door glass erection. The following is a list of the most common problems with the",
+          "refs": [
+            {
+              "id": "R000741",
+              "label": "Assistants Adjust door glass erection.",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001003_jpn/web/html/R001003_jpn_Content.html",
+  "inOutline": true
+}

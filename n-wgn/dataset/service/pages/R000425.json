@@ -1,0 +1,115 @@
+{
+  "id": "R000425",
+  "title": "Coolant leak inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cooling System",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000425",
+  "assets": [
+    "425_4.0_jpn_11583064_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Coolant leak inspection"
+    },
+    {
+      "type": "paragraph",
+      "text": "*Specified commercial tools"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the cap is removed when the water temperature is high, the coolant is under pressure and may spurt out, which is dangerous. After the water temperature has dropped, wrap the cap with a piece of cloth and open it gently."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Coolant leakage Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "425_4.0_jpn_11583064_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the radiator cap. Fill the upper tank to the top with cooling water."
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Install the radiator cap tester adapter (ACKER-GP0-0110) and tester in the radiator cap opening. Pump up to the normal pressure value and inspect for leaks. Radiator cap tester Remove the adapter and tester, and install the radiator cap."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Normal pressure: 0.5 to 1.0 MPa"
+          },
+          {
+            "text": "94-122kPa (0.96－1.24kgf/cm 2 )"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "If the pressure drops in a short time, the tester is poorly installed or leaking water."
+        },
+        {
+          "text": "If the pressure drops in a short time, the tester is poorly installed or leaking water."
+        },
+        {
+          "text": "Inspect for mixing of engine oil and coolant."
+        },
+        {
+          "text": "Inspect for mixing of engine oil and coolant."
+        },
+        {
+          "text": "If oil is mixed in, engine seals are defective."
+        },
+        {
+          "text": "If oil is mixed in, engine seals are defective."
+        },
+        {
+          "text": "If oil is mixed in, engine seals are defective."
+        },
+        {
+          "text": "Inspect for mixing of coolant and transmission fluid."
+        },
+        {
+          "text": "Inspect for mixing of coolant and transmission fluid."
+        },
+        {
+          "text": "If transmission fluid is mixed with transmission fluid, CVT warmer is defective."
+        },
+        {
+          "text": "If transmission fluid is mixed with transmission fluid, CVT warmer is defective."
+        },
+        {
+          "text": "If transmission fluid is mixed with transmission fluid, CVT warmer is defective."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000425_jpn/web/html/R000425_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,240 @@
+{
+  "id": "R000634",
+  "title": "Removing and installing the steering wheel",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000634",
+  "assets": [
+    "634_3.0_jpn_11293122_2.0_disp.png",
+    "634_3.0_jpn_11293124_2.0_disp.png",
+    "634_3.0_jpn_11293125_2.0_disp.png",
+    "634_3.0_jpn_11293126_2.0_disp.png",
+    "634_3.0_jpn_11293127_2.0_disp.png",
+    "634_3.0_jpn_11293128_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000910",
+      "label": "12V battery Negative (-) terminal Disconnect",
+      "resolved": true
+    },
+    {
+      "id": "R001640",
+      "label": "Driver's airbag removal",
+      "resolved": true
+    },
+    {
+      "id": "R000655",
+      "label": "If adjustment is necessary, turn the tie rods by the same amount on both sides.",
+      "resolved": true
+    },
+    {
+      "id": "R000714",
+      "label": "VSA sensor Midpoint write",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removing and installing the steering wheel"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If there are components of the SRS airbag system in the vicinity, refer to the work precautions and configuration drawings described for the SRS airbag system before proceeding."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Negative (-) terminal Disconnect",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Negative (-) terminal Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Driver's airbag removal",
+      "refs": [
+        {
+          "id": "R001640",
+          "label": "Driver's airbag removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Steering wheel removal"
+    },
+    {
+      "type": "figure",
+      "asset": "634_3.0_jpn_11293122_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Remove the steering wheel bolt (B) and reattach the removed bolt to the column shaft temporarily with 2-3 threads."
+    },
+    {
+      "type": "figure",
+      "asset": "634_3.0_jpn_11293124_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Separate the steering wheel from the column shaft using the steering wheel puller (commercial tool) (A). Remove the steering wheel puller."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to over-thread the mounting bolt (B) of the steering wheel puller (commercially available tool) as this will damage the cable reel."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "634_3.0_jpn_11293125_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Remove the steering wheel (A) with the front wheel in the straight ahead position. Do not move the front wheel when only removing and installing the steering wheel."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If there are components of the SRS airbag system in the vicinity, refer to the work precautions and configuration drawings described for the SRS airbag system before proceeding."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Cable Reel Centering"
+    },
+    {
+      "type": "figure",
+      "asset": "634_3.0_jpn_11293126_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn the cable reel (A) clockwise (clockwise rotation) until it stops. Turn the cable reel counterclockwise (left turn) until the arrow (TOP mark) (B) points upward. From step 2, turn the cable reel back two revolutions counterclockwise (left turn), with the arrow (TOP mark) on the cable reel pointing upward, to center the cable reel."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Steering wheel mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "634_3.0_jpn_11293127_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the steering wheel (A). Align the pin (B) on the cable reel with the hole (C) in the steering wheel."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When installing the steering wheel, do not apply any impact in the axial direction of the column shaft."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "634_3.0_jpn_11293128_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install steering wheel bolts (A) and tighten to specified torque. Connect the coupler (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Special steering wheel bolts shall be used.",
+        "The steering rack and steering wheel must be in the same linear position."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Cable reel The driver's airbag harness shall be routed under the sub harness."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Driver's airbag installation",
+      "refs": [
+        {
+          "id": "R001640",
+          "label": "Driver's airbag installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. 12V battery Minus (-) terminal Connection",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Minus (-) terminal Connection",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Steering wheel Check after installation"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Check the operation of the horn. Check the operation of the switches on the steering wheel. Set the column tilt position near the center, drive straight ahead, and confirm that the steering wheel is in the straight ahead position. If adjustment is necessary, turn the tie rods by the same amount on both sides.",
+      "refs": [
+        {
+          "id": "R000655",
+          "label": "If adjustment is necessary, turn the tie rods by the same amount on both sides.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. VSA sensor Midpoint write",
+      "refs": [
+        {
+          "id": "R000714",
+          "label": "VSA sensor Midpoint write",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000634_jpn/web/html/R000634_jpn_Content.html",
+  "inOutline": true
+}

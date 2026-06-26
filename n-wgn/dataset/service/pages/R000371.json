@@ -1,0 +1,486 @@
+{
+  "id": "R000371",
+  "title": "Remove and install the cylinder head cover.",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder head",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000371",
+  "assets": [
+    "371_5.0_jpn_11582812_5.0_disp.png",
+    "371_5.0_jpn_11582813_5.0_disp.png",
+    "371_5.0_jpn_11582814_5.0_disp.png",
+    "371_5.0_jpn_11582815_5.0_disp.png",
+    "371_5.0_jpn_11582816_5.0_disp.png",
+    "371_5.0_jpn_11582817_5.0_disp.png",
+    "371_5.0_jpn_11582818_5.0_disp.png",
+    "371_5.0_jpn_11582819_5.0_disp.png",
+    "371_5.0_jpn_11582820_5.0_disp.png",
+    "371_5.0_jpn_11582821_5.0_disp.png",
+    "371_5.0_jpn_11582822_5.0_disp.png",
+    "371_5.0_jpn_11582823_5.0_disp.png",
+    "371_5.0_jpn_11582824_5.0_disp.png",
+    "371_5.0_jpn_11582825_5.0_disp.png",
+    "371_5.0_jpn_11582826_5.0_disp.png",
+    "371_5.0_jpn_11582827_5.0_disp.png",
+    "371_5.0_jpn_11582828_5.0_disp.png",
+    "371_5.0_jpn_11582829_5.0_disp.png",
+    "371_5.0_jpn_11582830_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000814",
+      "label": "Front bumper removal (turbo charger equipped vehicles)",
+      "resolved": true
+    },
+    {
+      "id": "R000842",
+      "label": "Front upper grille removal (turbo charger equipped vehicles)",
+      "resolved": true
+    },
+    {
+      "id": "R000412",
+      "label": "Cars not equipped with a turbo charger",
+      "resolved": true
+    },
+    {
+      "id": "R000413",
+      "label": "Turbo Charger equipped vehicle",
+      "resolved": true
+    },
+    {
+      "id": "R000419",
+      "label": "P2 relief valve removal (turbo charger equipped vehicles)",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Remove and install the cylinder head cover."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front bumper removal (turbo charger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000814",
+          "label": "Front bumper removal (turbo charger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front upper grille removal (turbo charger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front upper grille removal (turbo charger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Air cleaner removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the air cleaner."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000412",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000412",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000413",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000413",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. PCV tube/ breather tube/oil level gauge removal"
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582812_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the PCV tube (A) and breather tube (B) and remove the oil level gauge (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. P2 relief valve removal (turbo charger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000419",
+          "label": "P2 relief valve removal (turbo charger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. West gate control SOL.V. removal (vehicles equipped with turbo charger)"
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582813_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Turbo charger in-pipe removal (turbo charger equipped vehicles)"
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582814_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the boost hose (A) and purge tube (B) at the waste gate actuator. Remove the turbo charger in-pipe (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Coupler (LAF sensor) Disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582815_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582816_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the harness clamp (B). (Turbocharger-equipped vehicles)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Cylinder head cover removal"
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582817_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582818_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect couplers (A), coupler (B), coupler (C), coupler (D), coupler (E), coupler (F) and coupler (G)."
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582819_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the cylinder head cover."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Cylinder Head Cover Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582820_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove old fluid packings, oil, and dirt from head cover packings and cylinder head. Clean the grooves in the cylinder head cover and the head cover packing. Inspect head cover packings and replace if necessary. Install the head cover packing (A) onto the cylinder head cover (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582821_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Apply Honda genuine liquid packing 1216E with a wire diameter of about 3 mm to the chain case mating surface (A) of the cylinder head."
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582822_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "Install the cylinder head cover and gently shake it to blend the head cover packing."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the liquid packing is left on for more than 4 minutes after application, do not install it as it is. Remove the packing once and reapply.",
+        "Oil should be injected after at least 30 minutes after installation.",
+        "Do not touch the liquid packing-applied surface."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582823_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "7",
+      "text": "Tighten the head cover bolts in three separate tightening cycles in numerical order."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Torque: 0.5 to 1.0 MPa"
+          },
+          {
+            "text": "7.0N·m (0.71kgf·m)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582824_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582825_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "9",
+      "text": "Connect coupler (A), coupler (B), coupler (C), coupler (D), coupler (E), coupler (F) and coupler (G)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Coupler (LAF sensor) Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582826_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the coupler (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582827_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install the harness clamp (B). (Turbocharger-equipped vehicles)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Turbo charger in-pipe installation (turbo charger equipped vehicles)"
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582828_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the turbocharger in-pipe (B) using the new gasket (A). Connect the boost hose (C) and purge tube (D) of the wastegate actuator."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. West gate control SOL.V. installed (for vehicles equipped with turbo charger)"
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582829_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the waist gate control SOL.V. (B) using the new O-ring (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. P2 relief valve installation (Turbocharger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000419",
+          "label": "P2 relief valve installation (Turbocharger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. PCV Tube / Breather Tube / Oil Level Gauge Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "371_5.0_jpn_11582830_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the PCV tube (A) and breather tube (B) and install the oil level gauge (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Air Cleaner Installation"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the air cleaner."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000412",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000412",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000413",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000413",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Front upper grille installation (turbocharger-equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front upper grille installation (turbocharger-equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Front Bumper Installation (Turbocharger-equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000814",
+          "label": "Front Bumper Installation (Turbocharger-equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000371_jpn/web/html/R000371_jpn_Content.html",
+  "inOutline": true
+}

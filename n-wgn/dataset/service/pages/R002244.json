@@ -1,0 +1,40 @@
+{
+  "id": "R002244",
+  "title": "City Brake Active System Radar/Control Unit Update",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Speed/body control",
+  "system": "City Brake Active System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002244",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "City Brake Active System Radar/Control Unit Update"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. City Brake Active System Radar/Control Unit Update"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Refer to the user manual that comes with the device for detailed instructions and precautions for updating."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002244_jpn/web/html/R002244_jpn_Content.html",
+  "inOutline": true
+}

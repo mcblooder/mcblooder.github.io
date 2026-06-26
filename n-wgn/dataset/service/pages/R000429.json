@@ -1,0 +1,107 @@
+{
+  "id": "R000429",
+  "title": "Inspect water pump",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cooling System",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000429",
+  "assets": [
+    "429_3.0_jpn_11034443_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000849",
+      "label": "Right front splash guard removal",
+      "resolved": true
+    },
+    {
+      "id": "R000351",
+      "label": "A.C. generator belt removal",
+      "resolved": true
+    },
+    {
+      "id": "R000433",
+      "label": "Water pump Belt removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect water pump"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Right front splash guard removal",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Right front splash guard removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. A.C. generator belt removal",
+      "refs": [
+        {
+          "id": "R000351",
+          "label": "A.C. generator belt removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Water pump Belt removal",
+      "refs": [
+        {
+          "id": "R000433",
+          "label": "Water pump Belt removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Water pump inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "429_3.0_jpn_11034443_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn the water pump clockwise and check that the water pump rotates smoothly. A small amount of water may come out of the bleed hole (A), but this is not abnormal."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000429_jpn/web/html/R000429_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,134 @@
+{
+  "id": "R000577",
+  "title": "Transmission Case Forward Driven Gear Thrust Clearance Adjustment",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM transmission",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000577",
+  "assets": [
+    "577_3.0_jpn_11582415_3.0_disp.png",
+    "577_3.0_jpn_11582416_3.0_disp.png",
+    "577_3.0_jpn_11582417_3.0_disp.png",
+    "577_3.0_jpn_11582418_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Transmission Case Forward Driven Gear Thrust Clearance Adjustment"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Transmission case, reverse clutch assembly. reverse gear collar, thrust needle bearing, reverse driven gear, forward driven gear, or replace reverse clutch assembly. reverse gear collar, thrust needle bearing, reverse driven gear, When forward driven gear is removed, be sure to adjust the forward driven gear thrust clearance."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Forward Driven Gear Thrust Clearance Adjustment"
+    },
+    {
+      "type": "figure",
+      "asset": "577_3.0_jpn_11582415_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the snap ring (A) and cotter retainer (B). Remove the cotter (C), clean the cotter groove, and reinstall the cotter."
+    },
+    {
+      "type": "figure",
+      "asset": "577_3.0_jpn_11582416_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Measure the clearance between the cotter (A) and the forward driven gear (B) at three or more locations at equal intervals using a Thickness Gauge (C). Standard value: 0-0.13mm If the clearance is out of standard, measure the thickness of the cotter and select a cotter so that the clearance is at the standard value. Install the selected cotter and measure the clearance again."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "markup"
+          },
+          {
+            "text": "Thickness (mm)"
+          }
+        ],
+        [
+          {
+            "text": "A"
+          },
+          {
+            "text": "2.87－2.90"
+          }
+        ],
+        [
+          {
+            "text": "B"
+          },
+          {
+            "text": "2.97－3.00"
+          }
+        ],
+        [
+          {
+            "text": "C"
+          },
+          {
+            "text": "3.07－3.10"
+          }
+        ],
+        [
+          {
+            "text": "D"
+          },
+          {
+            "text": "3.17－3.20"
+          }
+        ],
+        [
+          {
+            "text": "E"
+          },
+          {
+            "text": "3.27－3.30"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "577_3.0_jpn_11582417_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "Install the cotter retainer (A). Install a new snap ring (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "577_3.0_jpn_11582418_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "8",
+      "text": "Check that the snap ring is securely attached and inspect if the snap ring's mounting outer diameter dimension (A) is 38.7 mm or less."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000577_jpn/web/html/R000577_jpn_Content.html",
+  "inOutline": true
+}

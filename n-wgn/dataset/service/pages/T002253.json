@@ -1,0 +1,187 @@
+{
+  "id": "T002253",
+  "title": "CITY BRAKE ACTIVE SYSTEM Failure Diagnostic Table by Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Speed/body control",
+  "system": "City Brake Active System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002253",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T002567",
+      "label": "Inspect data link circuits",
+      "resolved": false
+    },
+    {
+      "id": "T002254",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002255",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002256",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002257",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    },
+    {
+      "id": "T002258",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "CITY BRAKE ACTIVE SYSTEM Failure Diagnostic Table by Symptom"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "symptoms",
+            "header": true
+          },
+          {
+            "text": "checklist",
+            "header": true
+          },
+          {
+            "text": "related item",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "HDS does not communicate with the City Brake Active System radar/control unit or the vehicle"
+          },
+          {
+            "text": "Inspect data link circuits",
+            "refs": [
+              {
+                "id": "T002567",
+                "label": "Inspect data link circuits",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "City Brake Active System warning light flashes."
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002254",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "Pause History"
+          }
+        ],
+        [
+          {
+            "text": "City Brake Active System warning light does not turn off"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002255",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": "customize"
+          }
+        ],
+        [
+          {
+            "text": "City Brake Active System warning light does not illuminate"
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002256",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "City Brake Active system activated at an unnecessary time."
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002257",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "CITY BRAKE ACTIVE SYSTEM did not activate at the required time."
+          },
+          {
+            "text": "Failure Diagnosis by Symptom",
+            "refs": [
+              {
+                "id": "T002258",
+                "label": "Failure Diagnosis by Symptom",
+                "resolved": false
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002253_jpn/web/html/T002253_jpn_Content.html",
+  "inOutline": true
+}

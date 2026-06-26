@@ -1,0 +1,244 @@
+{
+  "id": "G001633",
+  "title": "SRS airbag system configuration diagram",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "SRS",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "DENSO SRS unit",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G001633",
+  "assets": [
+    "1633_3.0_jpn_11347613_2.0_disp.png",
+    "1633_3.0_jpn_11347614_2.0_disp.png",
+    "1633_3.0_jpn_11389990_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R001641",
+      "label": "R001641",
+      "resolved": true
+    },
+    {
+      "id": "R001644",
+      "label": "R001644",
+      "resolved": true
+    },
+    {
+      "id": "R001640",
+      "label": "R001640",
+      "resolved": true
+    },
+    {
+      "id": "R001645",
+      "label": "R001645",
+      "resolved": true
+    },
+    {
+      "id": "R000807",
+      "label": "R000807",
+      "resolved": true
+    },
+    {
+      "id": "R001648",
+      "label": "R001648",
+      "resolved": true
+    },
+    {
+      "id": "R001646",
+      "label": "R001646",
+      "resolved": true
+    },
+    {
+      "id": "R001647",
+      "label": "R001647",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "SRS airbag system configuration diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "1633_3.0_jpn_11389990_2.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            49.0,
+            43.0,
+            71.0,
+            57.0
+          ],
+          "ref": {
+            "id": "R001641",
+            "label": "R001641",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            571.0,
+            429.0,
+            593.0,
+            443.0
+          ],
+          "ref": {
+            "id": "R001644",
+            "label": "R001644",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            389.0,
+            29.0,
+            411.0,
+            43.0
+          ],
+          "ref": {
+            "id": "R001640",
+            "label": "R001640",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            409.0,
+            490.0,
+            431.0,
+            504.0
+          ],
+          "ref": {
+            "id": "R001645",
+            "label": "R001645",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            45.0,
+            406.0,
+            67.0,
+            420.0
+          ],
+          "ref": {
+            "id": "R000807",
+            "label": "R000807",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            206.0,
+            486.0,
+            228.0,
+            500.0
+          ],
+          "ref": {
+            "id": "R000807",
+            "label": "R000807",
+            "resolved": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1633_3.0_jpn_11347613_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1633_3.0_jpn_11347614_2.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            237.0,
+            730.0,
+            259.0,
+            744.0
+          ],
+          "ref": {
+            "id": "R001648",
+            "label": "R001648",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            54.0,
+            137.0,
+            76.0,
+            151.0
+          ],
+          "ref": {
+            "id": "R001648",
+            "label": "R001648",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            525.0,
+            500.0,
+            547.0,
+            514.0
+          ],
+          "ref": {
+            "id": "R001646",
+            "label": "R001646",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            333.0,
+            121.0,
+            355.0,
+            135.0
+          ],
+          "ref": {
+            "id": "R001647",
+            "label": "R001647",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            498.0,
+            724.0,
+            520.0,
+            738.0
+          ],
+          "ref": {
+            "id": "R001647",
+            "label": "R001647",
+            "resolved": true
+          }
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G001633_jpn/web/html/G001633_jpn_Content.html",
+  "inOutline": true
+}

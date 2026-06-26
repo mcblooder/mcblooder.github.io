@@ -1,0 +1,178 @@
+{
+  "id": "A000036",
+  "title": "DTC Explanation: P0335",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000036",
+  "assets": [
+    "36_3.0_jpn_11398184_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0335"
+    },
+    {
+      "type": "dtc",
+      "code": "P0335",
+      "text": "DTC P0335: Crank sensor No pulse"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "36_3.0_jpn_11398184_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The crank sensor consists of a pulsar rotor and a semiconductor that detects the rotor position. When the engine starts, the pulsar rotor rotates and the magnetic flux of the crank sensor fluctuates. The magnetic flux variation is converted into a pulse signal and sent to the PGM-FI ECU. The crank sensor is used to control the ignition timing and fuel injection timing of each cylinder. If no pulse signal is input from the crank sensor, the PGM-FI ECU judges a failure and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Detection frequency"
+          },
+          {
+            "text": "24-hour (e.g. observation, operation (of a machine), care (of patient))"
+          }
+        ],
+        [
+          {
+            "text": "Detection order (of the DTC in question)"
+          },
+          {
+            "text": "nashi (Pyrus pyrifolia, esp. var. culta)"
+          }
+        ],
+        [
+          {
+            "text": "Detection time"
+          },
+          {
+            "text": "At least 2 seconds (at 750 rpm engine speed)"
+          }
+        ],
+        [
+          {
+            "text": "Detection method type"
+          },
+          {
+            "text": "1D/C (single detection method), PGM-FI warning light: On"
+          }
+        ],
+        [
+          {
+            "text": "OBD Status"
+          },
+          {
+            "text": "Normal judgment, failure judgment, not completed"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "condition entry",
+            "header": true
+          },
+          {
+            "text": "",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Engine condition"
+          },
+          {
+            "text": "in use"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "When no pulse signal from the crank sensor is input while the pulse signal from the TDC sensor is detected 75 times or more."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Disconnection of cord (CRKN line) between PGM-FI ECU and crank sensor"
+        },
+        {
+          "text": "Ground fault in cord (CRKN line) between PGM-FI ECU and crank sensor"
+        },
+        {
+          "text": "Disconnection of crank sensor cord (power supply line)"
+        },
+        {
+          "text": "Disconnection of cord (CRKSG line) between PGM-FI ECU and crank sensor"
+        },
+        {
+          "text": "Crank sensor failure"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to be faulty, the PGM-FI warning light comes on and the temporary DTC, DTC and freeze data are stored in the PGM-FI ECU memory."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000036_jpn/web/html/A000036_jpn_Content.html",
+  "inOutline": true
+}

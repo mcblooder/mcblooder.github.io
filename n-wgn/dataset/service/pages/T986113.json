@@ -1,0 +1,63 @@
+{
+  "id": "T986113",
+  "title": "Not 4WD.",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "differential",
+  "system": "Rear Differential Assy.",
+  "subtitle": "",
+  "dgName": "Rear differential",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986113",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R000619",
+      "label": "Inspection of viscous coupling assembly.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Not 4WD."
+    },
+    {
+      "type": "paragraph",
+      "text": "probable cause"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Defective viscous coupling assembly."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "treatment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inspection of viscous coupling assembly.",
+      "refs": [
+        {
+          "id": "R000619",
+          "label": "Inspection of viscous coupling assembly.",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986113_jpn/web/html/T986113_jpn_Content.html",
+  "inOutline": true
+}

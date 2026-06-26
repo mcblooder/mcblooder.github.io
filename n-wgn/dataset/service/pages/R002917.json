@@ -1,0 +1,377 @@
+{
+  "id": "R002917",
+  "title": "Cam Chain Inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder head",
+  "system": "Timing belt/cam chain",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002917",
+  "assets": [
+    "2917_5.0_jpn_11582807_5.0_disp.png",
+    "2917_5.0_jpn_11582808_5.0_disp.png",
+    "2917_5.0_jpn_11582809_5.0_disp.png",
+    "2917_5.0_jpn_11582810_5.0_disp.png",
+    "2917_5.0_jpn_11582811_5.0_disp.png",
+    "2917_5.0_jpn_11677575_3.0_disp.png",
+    "2917_5.0_jpn_11677576_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000659",
+      "label": "Right side front wheel removal",
+      "resolved": true
+    },
+    {
+      "id": "R000849",
+      "label": "Right side front splash guard removal",
+      "resolved": true
+    },
+    {
+      "id": "R000351",
+      "label": "A.C. generator belt removal",
+      "resolved": true
+    },
+    {
+      "id": "R000433",
+      "label": "Water pump Belt removal",
+      "resolved": true
+    },
+    {
+      "id": "R000368",
+      "label": "Crankshaft pulley removal",
+      "resolved": true
+    },
+    {
+      "id": "R000814",
+      "label": "Front bumper removal",
+      "resolved": true
+    },
+    {
+      "id": "R000842",
+      "label": "Front upper grille removal",
+      "resolved": true
+    },
+    {
+      "id": "R000357",
+      "label": "Perform the side engine mount tightening procedure.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cam Chain Inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Right side front wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Right side front wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Right side front splash guard removal",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Right side front splash guard removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. A.C. generator belt removal",
+      "refs": [
+        {
+          "id": "R000351",
+          "label": "A.C. generator belt removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Water pump Belt removal",
+      "refs": [
+        {
+          "id": "R000433",
+          "label": "Water pump Belt removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Chain Case Cover Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2917_5.0_jpn_11582807_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Cam Chain Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "2917_5.0_jpn_11582808_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Measure the skip length (A) of the cam chain tensioner."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the limit is exceeded, replace the cam chain and cam chain tensioner as a set."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Cam Chain Tensioner Flyout Length",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": "Limit value: 1"
+          },
+          {
+            "text": "13.6mm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Crankshaft pulley removal",
+      "refs": [
+        {
+          "id": "R000368",
+          "label": "Crankshaft pulley removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Chain Case Cover Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "2917_5.0_jpn_11582809_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove old fluid packings, oil, and dirt from the chain case cover and chain case. Apply Honda Genuine Liquid Packing 1216E to the chain case contact surface of the chain case cover."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Apply liquid packing with a wire diameter of about 2.5 mm along the dashed line (A)."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2917_5.0_jpn_11582810_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Install the chain case cover."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the liquid packing is left on for more than 4 minutes after application, do not install it as it is. Remove the packing once and reapply.",
+        "Oil should be injected after at least 30 minutes after installation.",
+        "Do not touch the liquid packing-applied surface.",
+        "The engine should be started at least 3 hours after installation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Crankshaft pulley Installation",
+      "refs": [
+        {
+          "id": "R000368",
+          "label": "Crankshaft pulley Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Front bumper removal",
+      "refs": [
+        {
+          "id": "R000814",
+          "label": "Front bumper removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Front upper grille removal",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front upper grille removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. Right side front bulkhead box removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2917_5.0_jpn_11677575_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "13. Tighten side engine mount brackets."
+    },
+    {
+      "type": "figure",
+      "asset": "2917_5.0_jpn_11582811_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Temporarily tighten the new side engine mount bracket mounting nut (A) and loosen the side engine mount bracket mounting bolt (B). Perform the side engine mount tightening procedure.",
+      "refs": [
+        {
+          "id": "R000357",
+          "label": "Perform the side engine mount tightening procedure.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the side engine mount bracket fasteners are removed, the transmission mount and torque rod must be tightened in the correct sequence."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "14. Right side front bulkhead box installation"
+    },
+    {
+      "type": "figure",
+      "asset": "2917_5.0_jpn_11677576_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "15. Front upper grille installation",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front upper grille installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "16. Front Bumper Mounting",
+      "refs": [
+        {
+          "id": "R000814",
+          "label": "Front Bumper Mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "17. Water Pump Belt Installation",
+      "refs": [
+        {
+          "id": "R000433",
+          "label": "Water Pump Belt Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "18. A.C. generator Belt installation",
+      "refs": [
+        {
+          "id": "R000351",
+          "label": "A.C. generator Belt installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "19. Right side front splash guard installed",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Right side front splash guard installed",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "20. Right side front wheel installation",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Right side front wheel installation",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002917_jpn/web/html/R002917_jpn_Content.html",
+  "inOutline": true
+}

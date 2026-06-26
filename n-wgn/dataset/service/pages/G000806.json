@@ -1,0 +1,147 @@
+{
+  "id": "G000806",
+  "title": "Seat belt configuration diagram",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Seat Belt",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000806",
+  "assets": [
+    "806_3.0_jpn_11289014_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000807",
+      "label": "R000807",
+      "resolved": true
+    },
+    {
+      "id": "R000811",
+      "label": "R000811",
+      "resolved": true
+    },
+    {
+      "id": "R000808",
+      "label": "R000808",
+      "resolved": true
+    },
+    {
+      "id": "R000809",
+      "label": "R000809",
+      "resolved": true
+    },
+    {
+      "id": "R000810",
+      "label": "R000810",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Seat belt configuration diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "806_3.0_jpn_11289014_2.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            19.0,
+            559.0,
+            41.0,
+            573.0
+          ],
+          "ref": {
+            "id": "R000807",
+            "label": "R000807",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            19.0,
+            570.0,
+            41.0,
+            584.0
+          ],
+          "ref": {
+            "id": "R000811",
+            "label": "R000811",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            161.0,
+            601.0,
+            183.0,
+            615.0
+          ],
+          "ref": {
+            "id": "R000808",
+            "label": "R000808",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            433.0,
+            123.0,
+            455.0,
+            137.0
+          ],
+          "ref": {
+            "id": "R000809",
+            "label": "R000809",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            433.0,
+            134.0,
+            455.0,
+            148.0
+          ],
+          "ref": {
+            "id": "R000811",
+            "label": "R000811",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            184.0,
+            109.0,
+            206.0,
+            123.0
+          ],
+          "ref": {
+            "id": "R000810",
+            "label": "R000810",
+            "resolved": true
+          }
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000806_jpn/web/html/G000806_jpn_Content.html",
+  "inOutline": true
+}

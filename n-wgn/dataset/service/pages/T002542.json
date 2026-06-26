@@ -1,0 +1,158 @@
+{
+  "id": "T002542",
+  "title": "Fuel and Emission Control Symptom Diagnosis - Engine Stall - Questionnaire",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002542",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuel and Emission Control Symptom Diagnosis - Engine Stall - Questionnaire"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Date of Occurrence"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Location of Occurrence"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": ""
+          }
+        ],
+        [
+          {
+            "text": "Vehicle modifications"
+          },
+          {
+            "text": "No modifications"
+          },
+          {
+            "text": "Modified parts are available."
+          }
+        ],
+        [
+          {
+            "text": "",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": "Situation at the time of occurrence (while driving, while stopped, and presence/absence of sound or vibration)",
+            "colspan": 3
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "1) The engine stalls due to a muffled sound or vibration while decelerating or coming to a stop.",
+            "colspan": 2
+          }
+        ],
+        [
+          {
+            "text": ""
+          },
+          {
+            "text": "Engine stall occurs without vibration or noise.",
+            "colspan": 2
+          }
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "Situation at the time of occurrence",
+            "header": true
+          },
+          {
+            "text": "Possible Causes",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "Vehicle Modifications"
+          },
+          {
+            "text": "Modifications to the ignition system, intake ducts, intake manifold, or exhaust system may cause engine starting failure or engine stall. (May occur transiently due to modifications)"
+          }
+        ],
+        [
+          {
+            "text": "The engine stalls due to a muffled sound or vibration while decelerating or coming to a stop."
+          },
+          {
+            "text": "Possible failure in the following components PGM-FI Main Transient failure of relay 2 Fuel supply failure (ST fuel trim parameter) EGR operation delay (EGR parameters) (EGR equipped vehicles only) VTEC and VTC system operation delay (VTEC parameter) (VTEC or VTC equipped vehicles only) Lock-up actuation delay (Torque Converter Transfer Ratio (ETR) parameter)"
+          }
+        ],
+        [
+          {
+            "text": "No noise, vibration, etc., and engine stall occurs."
+          },
+          {
+            "text": "Possible failure in the following components Transient failure of the ignition coil relay (only for vehicles equipped with an ignition coil relay) PGM-FI Main Transient failure of relay 1 Transient failure of LAF sensor relay (only for vehicles equipped with LAF sensor relay)"
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002542_jpn/web/html/T002542_jpn_Content.html",
+  "inOutline": true
+}

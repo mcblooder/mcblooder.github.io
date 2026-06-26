@@ -1,0 +1,98 @@
+{
+  "id": "R000853",
+  "title": "Tailgate spoiler removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "trim",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000853",
+  "assets": [
+    "853_3.0_jpn_11337297_3.0_disp.png",
+    "853_3.0_jpn_11337298_3.0_disp.png",
+    "853_3.0_jpn_11337299_4.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000983",
+      "label": "High mount lamp removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Tailgate spoiler removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. High mount lamp removal",
+      "refs": [
+        {
+          "id": "R000983",
+          "label": "High mount lamp removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Tailgate spoiler removal"
+    },
+    {
+      "type": "figure",
+      "asset": "853_3.0_jpn_11337297_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Open the tailgate. Close the tailgate."
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the bolt from inside the tailgate."
+    },
+    {
+      "type": "figure",
+      "asset": "853_3.0_jpn_11337298_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Remove the pin (C) from the clip grommet (B) while lifting the tailgate spoiler (A) and pulling it backward, and remove the spoiler."
+    },
+    {
+      "type": "figure",
+      "asset": "853_3.0_jpn_11337299_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "Remove the clip grommet (A) from the tailgate."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000853_jpn/web/html/R000853_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": "C002843",
+  "title": "Air Conditioner Structure Description - Compressor",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "A/C Compressor",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002843",
+  "assets": [
+    "2843_3.0_jpn_11287661_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Air Conditioner Structure Description - Compressor"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Feature"
+    },
+    {
+      "type": "paragraph",
+      "text": "The A/C compressor is driven by a belt and functions as a pump to circulate the refrigerant. The compressed refrigerant becomes a hot, high-pressure gas and is sent to the condenser. The compressor is equipped with a mechanical relief valve that activates when the refrigerant pressure exceeds a predetermined value. The activated relief valve cannot be reused and must be replaced."
+    },
+    {
+      "type": "figure",
+      "asset": "2843_3.0_jpn_11287661_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002843_jpn/web/html/C002843_jpn_Content.html",
+  "inOutline": true
+}

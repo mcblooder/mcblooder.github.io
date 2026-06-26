@@ -1,0 +1,137 @@
+{
+  "id": "R000542",
+  "title": "Transmission Fluid (HMMF) Inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000542",
+  "assets": [
+    "542_3.0_jpn_11034864_3.0_disp.png",
+    "542_3.0_jpn_11336486_2.0_disp.png",
+    "542_3.0_jpn_11368517_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000849",
+      "label": "Left side front splash guard removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Transmission Fluid (HMMF) Inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Left side front splash guard removal",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Left side front splash guard removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Transmission Fluid Level Check"
+    },
+    {
+      "type": "figure",
+      "asset": "542_3.0_jpn_11336486_2.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The transmission fluid (HMMF) level should be checked between 60 and 90 seconds after the engine is stopped."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Warm up the radiator fan until it operates twice. Place the vehicle on a level surface. Turn the steering wheel to the left. Remove the transmission fluid level gauge (A) and wipe with a clean cloth. Return the transmission fluid level gauge to the level gauge hole."
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Turn ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "figure",
+      "asset": "542_3.0_jpn_11034864_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "7",
+      "text": "Remove the level gauge and check that the HMMF amount is between the upper level (A) and lower level (B) on the HOT gauge at the end of the level gauge."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the amount of HMMF is more than the upper level, remove the drain bolt and drain the HMMF to obtain the correct amount of fluid."
+        },
+        {
+          "text": "If the amount of HMMF is more than the upper level, remove the drain bolt and drain the HMMF to obtain the correct amount of fluid."
+        },
+        {
+          "text": "If the HMMF amount is less than the lower level, inspect for fluid leaks, etc. If any abnormality is found, repair it."
+        },
+        {
+          "text": "If the HMMF amount is less than the lower level, inspect for fluid leaks, etc. If any abnormality is found, repair it."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "542_3.0_jpn_11368517_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "8",
+      "text": "If replenishment is necessary, remove the filler cap (A) and inject the specified Honda Genuine Ultra HMMF through the opening (B) to the position midway between the upper and lower level of the level gauge. Install the filler cap."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not replenish HMMF beyond the upper level. If the upper level is exceeded, be sure to remove HMMF to the proper amount.",
+        "Be careful to prevent dust and other debris from entering the transmission."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The filler cap must be installed with the \"FRONT\" mark (arrow) (C) facing toward the front of the vehicle."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Left side front splash guard installed",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Left side front splash guard installed",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000542_jpn/web/html/R000542_jpn_Content.html",
+  "inOutline": true
+}

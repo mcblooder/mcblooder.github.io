@@ -1,0 +1,261 @@
+{
+  "id": "T002876",
+  "title": "Keyless Door Lock/Security Alarm System Failure Diagnostic Table by Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Keyless/power door locks/anti-theft system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002876",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T001411",
+      "label": "Perform input inspection of MICU.",
+      "resolved": true
+    },
+    {
+      "id": "R000934",
+      "label": "Inspect the door lock knob switch.",
+      "resolved": true
+    },
+    {
+      "id": "T001421",
+      "label": "Locking the door after opening it with the keyless key",
+      "resolved": false
+    },
+    {
+      "id": "T001422",
+      "label": "Security Alarm System not set",
+      "resolved": false
+    },
+    {
+      "id": "T001424",
+      "label": "Locked and unlocked but not answered",
+      "resolved": false
+    },
+    {
+      "id": "T001420",
+      "label": "Keyless works even in ignition ON mode.",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Keyless Door Lock/Security Alarm System Failure Diagnostic Table by Symptom"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diagnosis of Door Lock Failures"
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on defective phenomena, work and inspections are carried out starting with those with the highest priority."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "priority",
+            "header": true
+          },
+          {
+            "text": "fault phenomenon",
+            "header": true
+          },
+          {
+            "text": "Work and inspection details",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "Locked, not unlocked"
+          },
+          {
+            "text": "Perform input inspection of MICU. Inspect the door lock knob switch.",
+            "refs": [
+              {
+                "id": "T001411",
+                "label": "Perform input inspection of MICU.",
+                "resolved": true
+              },
+              {
+                "id": "R000934",
+                "label": "Inspect the door lock knob switch.",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "Unlocked."
+          },
+          {
+            "text": "Perform input inspection of MICU. Inspect the door lock knob switch. Check the door switch. (Check door switch ON/OFF information in HDS.)",
+            "refs": [
+              {
+                "id": "T001411",
+                "label": "Perform input inspection of MICU.",
+                "resolved": true
+              },
+              {
+                "id": "R000934",
+                "label": "Inspect the door lock knob switch.",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "Unlocked"
+          },
+          {
+            "text": "Perform input inspection of MICU. Inspect the door lock knob switch.",
+            "refs": [
+              {
+                "id": "T001411",
+                "label": "Perform input inspection of MICU.",
+                "resolved": true
+              },
+              {
+                "id": "R000934",
+                "label": "Inspect the door lock knob switch.",
+                "resolved": true
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "Unlocked and then unlocked"
+          },
+          {
+            "text": "Inspect the driver door switch. (Check the ON/OFF information of the driver door switch in HDS.)"
+          }
+        ],
+        [
+          {
+            "text": "5"
+          },
+          {
+            "text": "Sometimes it doesn't work."
+          },
+          {
+            "text": "Check the door switch. (Check door switch ON/OFF information in HDS.) Inspect the coupler connections."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Diagnosis of keyless-related malfunctions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on defective phenomena, work and inspections are carried out starting with those with the highest priority."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": "priority",
+            "header": true
+          },
+          {
+            "text": "fault phenomenon",
+            "header": true
+          }
+        ],
+        [
+          {
+            "text": "1"
+          },
+          {
+            "text": "Locking the door after opening it with the keyless key",
+            "refs": [
+              {
+                "id": "T001421",
+                "label": "Locking the door after opening it with the keyless key",
+                "resolved": false
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "2"
+          },
+          {
+            "text": "Security Alarm System not set",
+            "refs": [
+              {
+                "id": "T001422",
+                "label": "Security Alarm System not set",
+                "resolved": false
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "3"
+          },
+          {
+            "text": "Locked and unlocked but not answered",
+            "refs": [
+              {
+                "id": "T001424",
+                "label": "Locked and unlocked but not answered",
+                "resolved": false
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "4"
+          },
+          {
+            "text": "Keyless works even in ignition ON mode.",
+            "refs": [
+              {
+                "id": "T001420",
+                "label": "Keyless works even in ignition ON mode.",
+                "resolved": false
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002876_jpn/web/html/T002876_jpn_Content.html",
+  "inOutline": true
+}
