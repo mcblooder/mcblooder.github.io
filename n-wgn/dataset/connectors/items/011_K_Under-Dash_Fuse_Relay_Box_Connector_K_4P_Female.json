@@ -1,0 +1,97 @@
+{
+  "id": "011_K_Under-Dash_Fuse_Relay_Box_Connector_K_4P_Female",
+  "category": "connector",
+  "connectorRef": "K / BQ02",
+  "physicalIds": [
+    "BQ02"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector K (4P) (Female)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector K (4P), гнездовая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 3,
+  "faceviewPart": "91766-SLJ -0030-H1",
+  "partNumbers": [
+    "91766-SLJ -0030-H1"
+  ],
+  "harnesses": [
+    "32155-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Roof",
+    "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Front Side"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "City-Brake Active System",
+    "DLC",
+    "Entry Light Control System",
+    "Gauges",
+    "SRS"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91766-SLJ -0030-H1.svg",
+    "viewBox": "0 0 69.051 29.934",
+    "width": 69.051,
+    "height": 29.934
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z30A",
+      "geometry": {
+        "x": 6.789,
+        "y": 23.897,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "INTR_LIGHT-",
+      "english": "INTR, LIGHT -",
+      "russian": "INTR, LIGHT -",
+      "terminal": "200B",
+      "geometry": {
+        "x": 23.797,
+        "y": 23.897,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_BACK_UP_BST",
+      "english": "Constant battery power: back-up, up, BST",
+      "russian": "Постоянное питание от АКБ: резервный, вверх, BST",
+      "terminal": "B79C",
+      "geometry": {
+        "x": 40.805,
+        "y": 23.897,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 57.813,
+        "y": 23.897,
+        "svgTextId": "SVGID_3_"
+      }
+    }
+  ]
+}

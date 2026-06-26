@@ -1,0 +1,97 @@
+{
+  "id": "T001406",
+  "title": "Honda Smart LF Antenna Inspection",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001406",
+  "assets": [
+    "1406_3.0_jpn_11382651_2.0_disp.png",
+    "1406_3.0_jpn_11382652_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Honda Smart LF Antenna Inspection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perform failure diagnosis by DTC and diagnose other parts of the body than those listed."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Connect HDS to the data link coupler. 2. Turn ignition to ON mode. 3. Perform a \"Self Check\" in the \"Test Mode Menu\" menu of HDS, and if there is a malfunction, inspect the corresponding part first. 4. Select \"Honda Smart Key ECU\" in the \"One Push Start System\" menu of HDS. 5. Perform the HDS \"Function Test\" and check the range in which the Honda Smart Key indicator (LED) lights up."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Output for 60 seconds only."
+        },
+        {
+          "text": "Since there is only one LF antenna that can be checked in one forced drive, including outside the vehicle, each LF antenna is individually forced driven and checked."
+        },
+        {
+          "text": "Verify that the indicator (LED) lights up inside the vehicle, excluding the top of the instrument panel, glove box, cargo area, and various accessory compartments."
+        },
+        {
+          "text": "Drive each antenna in turn and confirm that communication is possible with any of the antennas."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1406_3.0_jpn_11382651_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perform failure diagnosis by DTC and diagnose other parts of the body than those listed."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Connect HDS to the data link coupler. 2. Turn ignition to ON mode. 3. Perform a \"Self Check\" in the \"Test Mode Menu\" menu of HDS, and if there is a malfunction, inspect the corresponding part first. 4. Select \"Honda Smart Key ECU\" in the \"One Push Start System\" menu of HDS. 5. At each measurement position, perform the HDS \"function test\" and check that the indicator (LED) on the Honda Smart Key lights up at the specified distance or greater."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Output for 60 seconds only."
+        },
+        {
+          "text": "Since there is only one LF antenna that can be checked with one forced drive, including the one in the car, each LF antenna is individually forced driven and checked."
+        },
+        {
+          "text": "The height of the Honda Smart Key from the ground shall be measured at 90 cm."
+        },
+        {
+          "text": "The reception test range of the external LF antenna is within 80 cm from the power mirror and the rear bumper LF antenna."
+        },
+        {
+          "text": "Drive each antenna in turn and confirm that communication is possible with any of the antennas."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1406_3.0_jpn_11382652_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001406_jpn/web/html/T001406_jpn_Content.html",
+  "inOutline": true
+}

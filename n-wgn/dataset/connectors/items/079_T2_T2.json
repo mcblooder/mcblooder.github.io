@@ -1,0 +1,50 @@
+{
+  "id": "079_T2_T2",
+  "category": "connector",
+  "connectorRef": "T2",
+  "physicalIds": [
+    "T2"
+  ],
+  "name": "T2",
+  "nameRu": "Разъём T2",
+  "type": "DirectCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "32411-R20 -0030-H1",
+  "partNumbers": [
+    "32411-R20 -0030-H1"
+  ],
+  "harnesses": [
+    "32410-5Z1_-0000-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "PCM (All)",
+    "Starting System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/32411-R20 -0030-H1.svg",
+    "viewBox": "0 0 26.643 49.299",
+    "width": 26.643,
+    "height": 49.299
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "+B_BATTERY",
+      "english": "Constant battery power: battery",
+      "russian": "Постоянное питание от АКБ: аккумулятор",
+      "terminal": "BA0A001",
+      "geometry": {
+        "x": 9.479,
+        "y": 36.492,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

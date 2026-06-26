@@ -1,0 +1,68 @@
+{
+  "id": "247_Q_Under-Dash_Fuse_Relay_Box_Connector_Q_4P_Male",
+  "category": "connector",
+  "connectorRef": "Q",
+  "physicalIds": [
+    "Q"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector Q (4P) (Male)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector Q (4P), штыревая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 2,
+  "faceviewPart": "DM",
+  "partNumbers": [],
+  "harnesses": [
+    "38200-T6G_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [],
+  "faceview": {
+    "asset": "assets/faceview/DM.svg",
+    "viewBox": "0 0 82.374 22.471",
+    "width": 82.374,
+    "height": 22.471
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "ORN",
+      "circuit": "IG1_SRS2",
+      "english": "ignition IG1, SRS2",
+      "russian": "зажигание IG1, SRS2",
+      "terminal": "G16A",
+      "geometry": null
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "IG1_ST_CUT_RLY_COIL",
+      "english": "ignition IG1, starter, CUT, relay, coil",
+      "russian": "зажигание IG1, стартер, CUT, реле, катушка",
+      "terminal": "G08D",
+      "geometry": null
+    }
+  ]
+}

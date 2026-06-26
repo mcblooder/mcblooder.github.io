@@ -1,0 +1,174 @@
+{
+  "id": "T002560",
+  "title": "Idling Stop System Operation Inspection",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Idling stop system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002560",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R002134",
+      "label": "Reset the internal resistance value of the 12V battery",
+      "resolved": true
+    },
+    {
+      "id": "R000471",
+      "label": "Idling learning is complete.",
+      "resolved": true
+    },
+    {
+      "id": "C001964",
+      "label": "Warm up operation thoroughly and check if the following temperature conditions are met",
+      "resolved": true
+    },
+    {
+      "id": "T002563",
+      "label": "Idling Stop System failure diagnosis.",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Idling Stop System Operation Inspection"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Before starting the inspection, the following items should be checked",
+        "Ensure that the correct procedure was followed to charge the 12V battery",
+        "12V battery If external charging is performed with the terminal connected, the current measurement by the battery sensor may not be correct and the idling stop may not work.",
+        "Check that the wiring of electronic components is not directly connected to the minus (-) terminal of the 12V battery, and if so, remove it.",
+        "Electronic component connections must be via battery sensor",
+        "If any of the above applies, disconnecting the battery sensor coupler in the ignition OFF (LOCK) mode may improve the symptoms of the idling stop not working."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Ensure that the following conditions are met 2. Warm up operation thoroughly and check if the following temperature conditions are met ​ 3. Perform test runs under the following conditions 4. Repeat steps 1-3 several times to see if the idling stop works. If it does not work, Idling Stop System failure diagnosis.",
+      "refs": [
+        {
+          "id": "R002134",
+          "label": "Reset the internal resistance value of the 12V battery",
+          "resolved": true
+        },
+        {
+          "id": "R000471",
+          "label": "Idling learning is complete.",
+          "resolved": true
+        },
+        {
+          "id": "C001964",
+          "label": "Warm up operation thoroughly and check if the following temperature conditions are met",
+          "resolved": true
+        },
+        {
+          "id": "T002563",
+          "label": "Idling Stop System failure diagnosis.",
+          "resolved": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Idling Stop System OFF Switch OFF"
+        },
+        {
+          "text": "Master power negative pressure is secured (idling stops are more frequently prohibited at high altitudes due to the difficulty of securing master power negative pressure)."
+        },
+        {
+          "text": "No warning lights are illuminated."
+        },
+        {
+          "text": "D indicator light is not flashing"
+        },
+        {
+          "text": "12V battery fully charged",
+          "refs": [
+            {
+              "id": "R002134",
+              "label": "Reset the internal resistance value of the 12V battery",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Hood not open (hood latch switch OFF)"
+        },
+        {
+          "text": "Driver's seat belt installed"
+        },
+        {
+          "text": "Turn off electrical loads such as A/C, rear defroster, headlights, etc."
+        },
+        {
+          "text": "Idling learning is complete. ​",
+          "refs": [
+            {
+              "id": "R000471",
+              "label": "Idling learning is complete.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Driving on flat roads"
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the 12V battery is replaced, Reset the internal resistance value of the 12V battery after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Engine water temperature"
+        },
+        {
+          "text": "12V battery temperature"
+        },
+        {
+          "text": "CVT oil temperature"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Stops in 5-15 seconds from a speed of 40 km/h"
+        },
+        {
+          "text": "Brake pedal should be depressed steadily until the vehicle comes to a stop (no pumping or hard braking)."
+        },
+        {
+          "text": "Brake pedal is still depressed after stopping."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131120135106/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002560_jpn/web/html/T002560_jpn_Content.html",
+  "inOutline": true
+}

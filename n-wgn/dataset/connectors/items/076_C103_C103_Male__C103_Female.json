@@ -1,0 +1,152 @@
+{
+  "id": "076_C103_C103_Male__C103_Female",
+  "category": "connector",
+  "connectorRef": "C103",
+  "physicalIds": [
+    "C103"
+  ],
+  "name": "C103 (Male) / C103 (Female)",
+  "nameRu": "Разъём C103, штыревая часть / Разъём C103, гнездовая часть",
+  "type": "MiddleCoupler",
+  "pinCount": 8,
+  "populatedPinCount": 8,
+  "faceviewPart": "91702-PRP -0030-H1_91708-RTA -0030-H1",
+  "partNumbers": [
+    "91702-PRP -0030-H1",
+    "91708-RTA -0030-H1"
+  ],
+  "harnesses": [
+    "28360-5Z3_-0000",
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Left Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Cruise Control",
+    "CVT Control System",
+    "PCM (All)",
+    "PGM-FI System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91702-PRP -0030-H1_91708-RTA -0030-H1.svg",
+    "viewBox": "0 0 109.601 166.112",
+    "width": 109.601,
+    "height": 166.112
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "SG",
+      "english": "SG",
+      "russian": "SG",
+      "terminal": "309B",
+      "geometry": {
+        "x": 15.29,
+        "y": 132.329,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "WHT / GRN",
+      "circuit": "TATF / SG2",
+      "english": "TATF  /  SG2",
+      "russian": "TATF  /  SG2",
+      "terminal": "310B / Z28B000",
+      "geometry": {
+        "x": 39.93,
+        "y": 132.329,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "ORN / LT_BLU",
+      "circuit": "SOL+ / TATF",
+      "english": "SOL+  /  TATF",
+      "russian": "SOL+  /  TATF",
+      "terminal": "312B / M59C",
+      "geometry": {
+        "x": 64.572,
+        "y": 132.329,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "BLU / YEL",
+      "circuit": "L/SOLA+(DRC+) / SOLIS",
+      "english": "L / SOLA +, DRC +,   /  SOLIS",
+      "russian": "L / SOLA +, DRC +,   /  SOLIS",
+      "terminal": "302B / K19D",
+      "geometry": {
+        "x": 89.211,
+        "y": 132.329,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "RED / LT_GRN",
+      "circuit": "L/SOLB+(DNC+) / DRLS",
+      "english": "L / SOLB +, DNC +,   /  DRLS",
+      "russian": "L / SOLB +, DNC +,   /  DRLS",
+      "terminal": "304B / M48E",
+      "geometry": {
+        "x": 15.29,
+        "y": 156.97,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "YEL / PUR",
+      "circuit": "L/SOLC+(CPC+) / DNLS",
+      "english": "L / SOLC +, CPC +,   /  DNLS",
+      "russian": "L / SOLC +, CPC +,   /  DNLS",
+      "terminal": "306B / M47F",
+      "geometry": {
+        "x": 39.93,
+        "y": 156.97,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "GRN / BLU",
+      "circuit": "L/SOLD+(LCC+) / CPCLS",
+      "english": "L / SOLD +, LCC +,   /  CPCLS",
+      "russian": "L / SOLD +, LCC +,   /  CPCLS",
+      "terminal": "308B / K20G",
+      "geometry": {
+        "x": 64.572,
+        "y": 156.97,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "LCCLS",
+      "english": "LCCLS",
+      "russian": "LCCLS",
+      "terminal": "K21H",
+      "geometry": {
+        "x": 89.211,
+        "y": 156.97,
+        "svgTextId": "SVGID_8_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "R000538",
+  "title": "Transmission Fluid temperature sensor removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM electrical system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000538",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R002515",
+      "label": "Solenoid Wire Harness A Remove",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Transmission Fluid temperature sensor removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The transmission fluid temperature sensor is an integral part of the solenoid wire harness A. The solenoid wire harness A shall be replaced.",
+        "Be very careful to prevent dust and other debris from entering the transmission."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Solenoid Wire Harness A Remove",
+      "refs": [
+        {
+          "id": "R002515",
+          "label": "Solenoid Wire Harness A Remove",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "O-rings and gaskets shall be replaced with new ones."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000538_jpn/web/html/R000538_jpn_Content.html",
+  "inOutline": true
+}

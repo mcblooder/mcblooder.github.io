@@ -1,0 +1,48 @@
+{
+  "id": "224_TH04_Rear_Window_Defogger_1P_Connector",
+  "category": "connector",
+  "connectorRef": "TH04",
+  "physicalIds": [
+    "TH04"
+  ],
+  "name": "Rear Window Defogger 1P Connector",
+  "nameRu": "Разъём задний Window Defogger, 1 контактов",
+  "type": "DirectCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "32112-500 -3100",
+  "partNumbers": [
+    "32112-500 -3100"
+  ],
+  "harnesses": [
+    "32109-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Tailgate"
+  ],
+  "systems": [
+    "Rear Window/Power Mirror Defoggers"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/32112-500 -3100.svg",
+    "viewBox": "0 0 25.489 46.142",
+    "width": 25.489,
+    "height": 46.142
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "RR_DEF+",
+      "english": "rear/right, defogger +",
+      "russian": "задний/правый, обогрев стекла +",
+      "terminal": "425A",
+      "geometry": {
+        "x": 10.672,
+        "y": 39.74,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

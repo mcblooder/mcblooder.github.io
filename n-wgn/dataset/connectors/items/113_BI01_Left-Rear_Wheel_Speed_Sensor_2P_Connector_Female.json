@@ -1,0 +1,64 @@
+{
+  "id": "113_BI01_Left-Rear_Wheel_Speed_Sensor_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BI01",
+  "physicalIds": [
+    "BI01"
+  ],
+  "name": "Left-Rear Wheel Speed Sensor 2P Connector (Female)",
+  "nameRu": "Разъём левый-задний Wheel Speed датчик, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91764-SLJ -0030-H1",
+  "partNumbers": [
+    "91764-SLJ -0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Left Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91764-SLJ -0030-H1.svg",
+    "viewBox": "0 0 57.332 46.008",
+    "width": 57.332,
+    "height": 46.008
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "RR_L_ABS_SNSR+",
+      "english": "rear/right, left, ABS, SNSR +",
+      "russian": "задний/правый, левый, ABS, SNSR +",
+      "terminal": "A24A",
+      "geometry": {
+        "x": 12.162,
+        "y": 34.394,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "RR_L_ABS_SNSR-",
+      "english": "rear/right, left, ABS, SNSR -",
+      "russian": "задний/правый, левый, ABS, SNSR -",
+      "terminal": "A25B",
+      "geometry": {
+        "x": 40.476,
+        "y": 34.394,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

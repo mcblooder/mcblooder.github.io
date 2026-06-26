@@ -1,0 +1,63 @@
+{
+  "id": "200_EC27_No.3_Secondary_Fuel_Injector_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC27",
+  "physicalIds": [
+    "EC27"
+  ],
+  "name": "No.3 Secondary Fuel Injector 2P Connector (Female)",
+  "nameRu": "Разъём No.3 Secondary Fuel Injector, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91702-R5A -0030-H1",
+  "partNumbers": [
+    "91702-R5A -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)"
+  ],
+  "systems": [
+    "PCM (All)",
+    "PGM-FI System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91702-R5A -0030-H1.svg",
+    "viewBox": "0 0 54.042 25.696",
+    "width": 54.042,
+    "height": 25.696
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "IGP(SINJ3)",
+      "english": "IGP, SINJ3",
+      "russian": "IGP, SINJ3",
+      "terminal": "D17A",
+      "geometry": {
+        "x": 12.891,
+        "y": 14.979,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "SINJ3",
+      "english": "SINJ3",
+      "russian": "SINJ3",
+      "terminal": "E44B",
+      "geometry": {
+        "x": 35.568,
+        "y": 14.979,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "C002849",
+  "title": "Auto Air Conditioner Structure Description - Overview",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002849",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Auto Air Conditioner Structure Description - Overview"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Auto A/C control"
+    },
+    {
+      "type": "paragraph",
+      "text": "The air conditioner uses an auto air conditioner with an air mix system. The auto A/C control unit controls each servo motor by determining the required outlet temperature, outlet, and airflow based on the desired set temperature and signals from each sensor. The rear defroster and mirror heater* are also controlled by the rear defroster/mirror heater switch. *：Mirror Heater-equipped vehicles"
+    },
+    {
+      "type": "paragraph",
+      "text": "The heater unit has a heater core and evaporator core, and is equipped with an air mix damper and outlet switching damper, driven by an air mix motor and mode motor."
+    },
+    {
+      "type": "paragraph",
+      "text": "The blower unit is equipped with a blower motor, inside/outside air switching damper, and A/C filter, and is connected to the heater unit by a duct integrated with the unit. The inside/outside air change damper is driven by the inside/outside air change motor."
+    },
+    {
+      "type": "paragraph",
+      "text": "To adjust the airflow manually, press the fan speed switch to change the output voltage to the blower motor."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002849_jpn/web/html/C002849_jpn_Content.html",
+  "inOutline": true
+}

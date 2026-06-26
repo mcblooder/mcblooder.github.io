@@ -1,0 +1,40 @@
+{
+  "id": "E002727",
+  "title": "Auto Air Conditioner Schematic",
+  "category": "service",
+  "packageKind": "EWD",
+  "packageKindName": "Electrical Wiring (manual)",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/E002727",
+  "assets": [
+    "2727_5.0_jpn_11677656_3.0_disp.png",
+    "2727_5.0_jpn_11677657_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Auto Air Conditioner Schematic"
+    },
+    {
+      "type": "figure",
+      "asset": "2727_5.0_jpn_11677656_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2727_5.0_jpn_11677657_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_EWD_20131205174154/Contents/jpn/60T6GD00_2014/EWD/SCT/SC/SYS/E002727_jpn/web/html/E002727_jpn_Content.html",
+  "inOutline": true
+}

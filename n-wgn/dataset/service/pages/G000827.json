@@ -1,0 +1,210 @@
+{
+  "id": "G000827",
+  "title": "Tailgate configuration diagram",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "tailgate",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000827",
+  "assets": [
+    "827_3.0_jpn_11289021_3.0_disp.png",
+    "827_3.0_jpn_11289022_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000828",
+      "label": "R000828",
+      "resolved": true
+    },
+    {
+      "id": "R000829",
+      "label": "R000829",
+      "resolved": true
+    },
+    {
+      "id": "R000830",
+      "label": "R000830",
+      "resolved": true
+    },
+    {
+      "id": "R000831",
+      "label": "R000831",
+      "resolved": true
+    },
+    {
+      "id": "R000832",
+      "label": "R000832",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Tailgate configuration diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "827_3.0_jpn_11289021_3.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            29.0,
+            461.0,
+            83.0,
+            475.0
+          ],
+          "ref": {
+            "id": "R000828",
+            "label": "R000828",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            471.0,
+            61.0,
+            493.0,
+            75.0
+          ],
+          "ref": {
+            "id": "R000829",
+            "label": "R000829",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            17.0,
+            32.0,
+            39.0,
+            46.0
+          ],
+          "ref": {
+            "id": "R000830",
+            "label": "R000830",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            381.0,
+            478.0,
+            403.0,
+            492.0
+          ],
+          "ref": {
+            "id": "R000831",
+            "label": "R000831",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            192.0,
+            486.0,
+            214.0,
+            500.0
+          ],
+          "ref": {
+            "id": "R000832",
+            "label": "R000832",
+            "resolved": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "827_3.0_jpn_11289022_3.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            16.0,
+            29.0,
+            38.0,
+            43.0
+          ],
+          "ref": {
+            "id": "R000830",
+            "label": "R000830",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            490.0,
+            49.0,
+            512.0,
+            63.0
+          ],
+          "ref": {
+            "id": "R000829",
+            "label": "R000829",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            246.0,
+            500.0,
+            268.0,
+            514.0
+          ],
+          "ref": {
+            "id": "R000832",
+            "label": "R000832",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            389.0,
+            460.0,
+            411.0,
+            474.0
+          ],
+          "ref": {
+            "id": "R000831",
+            "label": "R000831",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            33.0,
+            480.0,
+            87.0,
+            494.0
+          ],
+          "ref": {
+            "id": "R000828",
+            "label": "R000828",
+            "resolved": true
+          }
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000827_jpn/web/html/G000827_jpn_Content.html",
+  "inOutline": true
+}

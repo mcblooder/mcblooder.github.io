@@ -1,0 +1,286 @@
+{
+  "id": "R000880",
+  "title": "A/C compressor removal and installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "A/C Compressor",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000880",
+  "assets": [
+    "880_5.0_jpn_11580981_5.0_disp.png",
+    "880_5.0_jpn_11580987_5.0_disp.png",
+    "880_5.0_jpn_11676402_3.0_disp.png",
+    "880_5.0_jpn_11676403_3.0_disp.png",
+    "880_5.0_jpn_11676404_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002698",
+      "label": "Recovery of refrigerant",
+      "resolved": true
+    },
+    {
+      "id": "R000433",
+      "label": "Water pump Belt removal",
+      "resolved": true
+    },
+    {
+      "id": "R000907",
+      "label": "performance test",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "A/C compressor removal and installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front license plate removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Recovery of refrigerant",
+      "refs": [
+        {
+          "id": "R002698",
+          "label": "Recovery of refrigerant",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Water pump Belt removal",
+      "refs": [
+        {
+          "id": "R000433",
+          "label": "Water pump Belt removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Compressor removal"
+    },
+    {
+      "type": "figure",
+      "asset": "880_5.0_jpn_11580981_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A) and remove the harness clip (B). Disconnect suction hose (C) and discharge hose (D)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "After disconnecting, seal the connection immediately with a sealing plug or vinyl tape.",
+        "Do not damage the inside of the front bumper with the disconnected hoses."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "After disconnecting, seal the connection immediately with a sealing plug or vinyl tape."
+        },
+        {
+          "text": "After disconnecting, seal the connection immediately with a sealing plug or vinyl tape."
+        },
+        {
+          "text": "Do not damage the inside of the front bumper with the disconnected hoses."
+        },
+        {
+          "text": "Do not damage the inside of the front bumper with the disconnected hoses."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "880_5.0_jpn_11676402_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the bolt (A). Slide the compressor (B) downward and remove it."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Maintenance Do not remove from lid opening.",
+        "Remove the oil filter so that it will not be damaged by the compressor."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Maintenance Do not remove from lid opening."
+        },
+        {
+          "text": "Maintenance Do not remove from lid opening."
+        },
+        {
+          "text": "Remove the oil filter so that it will not be damaged by the compressor."
+        },
+        {
+          "text": "Remove the oil filter so that it will not be damaged by the compressor."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Oil quantity adjustment at compressor replacement"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Prepare two female cylinders. Drain the oil from the removed compressor into the female cylinder A. Drain the oil from the new compressor into the female cylinder B. Leave the same amount of oil in female cylinder B as in female cylinder A and discard the remainder."
+    },
+    {
+      "type": "figure",
+      "asset": "880_5.0_jpn_11676403_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Compressor Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "880_5.0_jpn_11676404_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the compressor (A) from below. Tighten the bolt (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Maintenance Do not install through the lid opening.",
+        "Do not damage the oil filter with the compressor."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Maintenance Do not install through the lid opening."
+        },
+        {
+          "text": "Maintenance Do not install through the lid opening."
+        },
+        {
+          "text": "Do not damage the oil filter with the compressor."
+        },
+        {
+          "text": "Do not damage the oil filter with the compressor."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "880_5.0_jpn_11580987_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Connect suction hose (A) and discharge hose (B). Connect the coupler (C) and attach the harness clip (D)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The O-ring must be replaced with a new one and lubricated with compressor oil (SP-10) before installation.",
+        "Do not damage the inside of the front bumper with the disconnected hoses."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The O-ring must be replaced with a new one and lubricated with compressor oil (SP-10) before installation."
+        },
+        {
+          "text": "The O-ring must be replaced with a new one and lubricated with compressor oil (SP-10) before installation."
+        },
+        {
+          "text": "Do not damage the inside of the front bumper with the disconnected hoses."
+        },
+        {
+          "text": "Do not damage the inside of the front bumper with the disconnected hoses."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Water Pump Belt Installation",
+      "refs": [
+        {
+          "id": "R000433",
+          "label": "Water Pump Belt Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Vacuuming/leak testing/refrigerant sealing",
+      "refs": [
+        {
+          "id": "R002698",
+          "label": "Vacuuming/leak testing/refrigerant sealing",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "After installation, perform vacuuming, leak test, and refrigerant sealing."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. performance test",
+      "refs": [
+        {
+          "id": "R000907",
+          "label": "performance test",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Front License Plate Installation"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000880_jpn/web/html/R000880_jpn_Content.html",
+  "inOutline": true
+}

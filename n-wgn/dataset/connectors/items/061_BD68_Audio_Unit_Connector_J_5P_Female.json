@@ -1,0 +1,104 @@
+{
+  "id": "061_BD68_Audio_Unit_Connector_J_5P_Female",
+  "category": "connector",
+  "connectorRef": "BD68",
+  "physicalIds": [
+    "BD68"
+  ],
+  "name": "Audio Unit Connector J (5P) (Female)",
+  "nameRu": "Разъём аудиоблок Connector J (5P), гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 5,
+  "populatedPinCount": 5,
+  "faceviewPart": "39837-T2A -A110-HS1",
+  "partNumbers": [
+    "39837-T2A -A110-HS1"
+  ],
+  "harnesses": [
+    "39114-T6G_-J010-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Audio System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/39837-T2A -A110-HS1.svg",
+    "viewBox": "0 0 119.996 106.446",
+    "width": 119.996,
+    "height": 106.446
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "",
+      "circuit": "USB_GND",
+      "english": "USB ground",
+      "russian": "Масса USB",
+      "terminal": "USB1A",
+      "geometry": {
+        "x": 41.675,
+        "y": 36.809,
+        "svgTextId": "XMLID_4_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "",
+      "circuit": "USB_VBUS",
+      "english": "USB power VBUS",
+      "russian": "Питание USB VBUS",
+      "terminal": "USB2A",
+      "geometry": {
+        "x": 60.574,
+        "y": 36.809,
+        "svgTextId": "XMLID_3_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "",
+      "circuit": "USB_DATA+",
+      "english": "USB data positive",
+      "russian": "Положительная линия данных USB",
+      "terminal": "USB3A",
+      "geometry": {
+        "x": 41.56,
+        "y": 76.791,
+        "svgTextId": "XMLID_2_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "",
+      "circuit": "USB_DATA-",
+      "english": "USB data negative",
+      "russian": "Отрицательная линия данных USB",
+      "terminal": "USB4A",
+      "geometry": {
+        "x": 60.459,
+        "y": 76.791,
+        "svgTextId": "XMLID_1_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "",
+      "circuit": "USB_SH",
+      "english": "USB cable shield",
+      "russian": "Экран кабеля USB",
+      "terminal": "USB5B",
+      "geometry": {
+        "x": 115.547,
+        "y": 47.392,
+        "svgTextId": "XMLID_5_"
+      }
+    }
+  ]
+}

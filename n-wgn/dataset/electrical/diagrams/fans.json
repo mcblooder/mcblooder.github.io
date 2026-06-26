@@ -1,0 +1,69 @@
+{
+  "id": "fans",
+  "category": "electrical_diagram",
+  "title": "Fans",
+  "system": "fans",
+  "sheetCount": 4,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/fans/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/fans/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/fans/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/fans/sheet4.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "ECT Sensor 1",
+      "ECT Sensor 2",
+      "Engine Start/Stop Switch",
+      "PCM",
+      "Radiator Fan Motor",
+      "Radiator Fan Relay"
+    ],
+    "Couplers": [
+      "C004 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "ECT Sensor 1 2P Connector (Female)",
+      "ECT Sensor 2 2P Connector (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "PCM Connector E (80P) (Female)",
+      "Radiator Fan Motor 2P Connector (Female)",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_RAD_FAN",
+      "+B_SMART",
+      "26_IG2_A/C"
+    ],
+    "Grounds": [
+      "G301",
+      "G402"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

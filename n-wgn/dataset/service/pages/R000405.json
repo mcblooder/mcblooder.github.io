@@ -1,0 +1,125 @@
+{
+  "id": "R000405",
+  "title": "Remove and inspect engine oil jets/bolts",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder block",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000405",
+  "assets": [
+    "405_3.0_jpn_11583007_3.0_disp.png",
+    "405_3.0_jpn_11583008_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000390",
+      "label": "Crankshaft removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Remove and inspect engine oil jets/bolts"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Crankshaft removal",
+      "refs": [
+        {
+          "id": "R000390",
+          "label": "Crankshaft removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Remove engine oil jet/bolt"
+    },
+    {
+      "type": "figure",
+      "asset": "405_3.0_jpn_11583007_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the oil jet bolt (A) and remove the oil jet (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Engine oil Jet/bolt inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "405_3.0_jpn_11583008_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect the nozzle (A) for a hole diameter of 1.1 mm. Check the oil jet bolts (B) and inspect each hole (C) for a hole diameter of 0.9 mm. Check oil jet bolt Check that the ball (D) moves smoothly and has a stroke of at least approx. 2.0 mm."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the nozzle of the oil jet is bent or damaged, it should be replaced.",
+        "When inspecting the hole diameter, insert a 1.05 mm round bar."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the nozzle of the oil jet is bent or damaged, it should be replaced."
+        },
+        {
+          "text": "If the nozzle of the oil jet is bent or damaged, it should be replaced."
+        },
+        {
+          "text": "When inspecting the hole diameter, insert a 1.05 mm round bar."
+        },
+        {
+          "text": "When inspecting the hole diameter, insert a 1.05 mm round bar."
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When inspecting, insert a 0.8 mm round rod that will not damage the check ball."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When inspecting, insert a 0.8 mm round rod that will not damage the check ball."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000405_jpn/web/html/R000405_jpn_Content.html",
+  "inOutline": true
+}

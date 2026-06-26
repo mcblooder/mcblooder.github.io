@@ -1,0 +1,120 @@
+{
+  "id": "126_BI22_Left_Taillight_6P_Connector_Male",
+  "category": "connector",
+  "connectorRef": "BI22",
+  "physicalIds": [
+    "BI22"
+  ],
+  "name": "Left Taillight 6P Connector (Male)",
+  "nameRu": "Разъём левый Taillight, 6 контактов, штыревая часть",
+  "type": "DirectCoupler",
+  "pinCount": 6,
+  "populatedPinCount": 5,
+  "faceviewPart": "91754-T2AA-0030-H1",
+  "partNumbers": [
+    "91754-T2AA-0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Left Side)"
+  ],
+  "systems": [
+    "Back-Up Lights",
+    "Brake Lights",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91754-T2AA-0030-H1.svg",
+    "viewBox": "0 0 91.746 77.725",
+    "width": 91.746,
+    "height": 77.725
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "L_TURN",
+      "english": "left, turn signal",
+      "russian": "левый, указатель поворота",
+      "terminal": "17A",
+      "geometry": {
+        "x": 66.79,
+        "y": 33.977,
+        "svgTextId": "XMLID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "BACK_LT",
+      "english": "back-up, light",
+      "russian": "резервный, освещение",
+      "terminal": "M10B",
+      "geometry": {
+        "x": 43.804,
+        "y": 33.977,
+        "svgTextId": "XMLID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(RR-L)",
+      "english": "Ground (RR-L)",
+      "russian": "Масса (RR-L)",
+      "terminal": "Z80C",
+      "geometry": {
+        "x": 20.826,
+        "y": 33.977,
+        "svgTextId": "XMLID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 66.79,
+        "y": 56.969,
+        "svgTextId": "XMLID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "RED",
+      "circuit": "STOP_LT",
+      "english": "brake light, light",
+      "russian": "стоп-сигнал, освещение",
+      "terminal": "13E",
+      "geometry": {
+        "x": 43.804,
+        "y": 56.969,
+        "svgTextId": "XMLID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11F001",
+      "geometry": {
+        "x": 20.826,
+        "y": 56.969,
+        "svgTextId": "XMLID_6_"
+      }
+    }
+  ]
+}

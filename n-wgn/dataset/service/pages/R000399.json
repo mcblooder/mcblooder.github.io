@@ -1,0 +1,114 @@
+{
+  "id": "R000399",
+  "title": "Remove and install engine oil pressure switch",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "lubricating device",
+  "system": "Oil pressure warning light component",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000399",
+  "assets": [
+    "399_3.0_jpn_11034340_3.0_disp.png",
+    "399_3.0_jpn_11034341_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Remove and install engine oil pressure switch"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Up"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Remove engine oil pressure switch"
+    },
+    {
+      "type": "figure",
+      "asset": "399_3.0_jpn_11034340_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Remove the oil pressure switch (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Bolt hole Cleaning"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove old fluid packings, oil, and dirt from oil pressure switch threads and bolt holes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Engine oil pressure switch installation"
+    },
+    {
+      "type": "figure",
+      "asset": "399_3.0_jpn_11034341_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply Honda Genuine Fluid Packing 1216E to the threaded flange side half of the oil pressure switch and install the oil pressure switch (A). Connect the coupler (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the liquid packing is left on for more than 4 minutes after application, do not install it as it is. Remove the packing once and reapply.",
+        "Oil should be injected at least 30 minutes after installation.",
+        "Do not touch the liquid packing-applied surface.",
+        "The engine should be started at least 3 hours after installation."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the liquid packing is left on for more than 4 minutes after application, do not install it as it is. Remove the packing once and reapply."
+        },
+        {
+          "text": "If the liquid packing is left on for more than 4 minutes after application, do not install it as it is. Remove the packing once and reapply."
+        },
+        {
+          "text": "Oil should be injected at least 30 minutes after installation."
+        },
+        {
+          "text": "Oil should be injected at least 30 minutes after installation."
+        },
+        {
+          "text": "Do not touch the liquid packing-applied surface."
+        },
+        {
+          "text": "Do not touch the liquid packing-applied surface."
+        },
+        {
+          "text": "The engine should be started at least 3 hours after installation."
+        },
+        {
+          "text": "The engine should be started at least 3 hours after installation."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000399_jpn/web/html/R000399_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,265 @@
+{
+  "id": "R000599",
+  "title": "Transfer desorption",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "transfer",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000599",
+  "assets": [
+    "599_5.0_jpn_11582470_5.0_disp.png",
+    "599_5.0_jpn_11582471_5.0_disp.png",
+    "599_5.0_jpn_11582472_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Up",
+      "resolved": true
+    },
+    {
+      "id": "R000850",
+      "label": "Front under cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000610",
+      "label": "Intermediate shaft removal",
+      "resolved": true
+    },
+    {
+      "id": "R000416",
+      "label": "Exhaust pipe/silencer removal",
+      "resolved": true
+    },
+    {
+      "id": "R000615",
+      "label": "Propeller shaft removal",
+      "resolved": true
+    },
+    {
+      "id": "R000597",
+      "label": "Transfer Fluid Refill",
+      "resolved": true
+    },
+    {
+      "id": "R000543",
+      "label": "Transmission Fluid Refill",
+      "resolved": true
+    },
+    {
+      "id": "R000542",
+      "label": "Transmission Fluid Level Check",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Transfer desorption"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Garage jacks, rigid racks, and lifts should be securely applied in place."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Up",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Up",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Transmission Fluid Extraction"
+    },
+    {
+      "type": "figure",
+      "asset": "599_5.0_jpn_11582470_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "With the vehicle in a horizontal position, remove the drain bolt (A) and drain the transmission fluid."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Transfer Fluid Extraction"
+    },
+    {
+      "type": "figure",
+      "asset": "599_5.0_jpn_11582471_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "With the vehicle in a horizontal position, remove the drain bolt (A) and drain the transfer fluid."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Front under cover removal",
+      "refs": [
+        {
+          "id": "R000850",
+          "label": "Front under cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Intermediate shaft removal",
+      "refs": [
+        {
+          "id": "R000610",
+          "label": "Intermediate shaft removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Exhaust pipe/silencer removal",
+      "refs": [
+        {
+          "id": "R000416",
+          "label": "Exhaust pipe/silencer removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Propeller shaft removal",
+      "refs": [
+        {
+          "id": "R000615",
+          "label": "Propeller shaft removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Transfer removal"
+    },
+    {
+      "type": "figure",
+      "asset": "599_5.0_jpn_11582472_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the breather tube (A). Remove the transfer (B) and knock pin (C). Remove the O-ring (D)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful to prevent dust and other debris from entering the transmission."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "O-rings and gaskets shall be replaced with new ones.",
+        "Be very careful to prevent dust and other debris from entering the transmission."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "O-rings and gaskets shall be replaced with new ones."
+        },
+        {
+          "text": "O-rings and gaskets shall be replaced with new ones."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Be very careful to prevent dust and other debris from entering the transmission."
+        },
+        {
+          "text": "Be very careful to prevent dust and other debris from entering the transmission."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Transfer Fluid Refill",
+      "refs": [
+        {
+          "id": "R000597",
+          "label": "Transfer Fluid Refill",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Transmission Fluid Refill",
+      "refs": [
+        {
+          "id": "R000543",
+          "label": "Transmission Fluid Refill",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. Transmission Fluid Level Check",
+      "refs": [
+        {
+          "id": "R000542",
+          "label": "Transmission Fluid Level Check",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000599_jpn/web/html/R000599_jpn_Content.html",
+  "inOutline": true
+}

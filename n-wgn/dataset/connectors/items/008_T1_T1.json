@@ -1,0 +1,96 @@
+{
+  "id": "008_T1_T1",
+  "category": "connector",
+  "connectorRef": "T1",
+  "physicalIds": [
+    "T1"
+  ],
+  "name": "T1",
+  "nameRu": "Разъём T1",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "32412-RGA -9010-Y1",
+  "partNumbers": [
+    "32412-RGA -9010-Y1"
+  ],
+  "harnesses": [
+    "32410-5Z1_-0000-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)",
+    "Fuse/Relay Boxes > Under-Hood Fuse/Relay Box > Front Side"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "A/T Interlock System",
+    "Accessory Power Socket",
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "Audio System",
+    "Auto Idle Stop System",
+    "Back-Up Lights",
+    "Brake Lights",
+    "Cable Reel",
+    "Charging System",
+    "City-Brake Active System",
+    "Climate Control",
+    "Cruise Control",
+    "CVT Control System",
+    "Dashlights",
+    "DLC",
+    "Energy Management System",
+    "Entry Light Control System",
+    "EPS",
+    "ETCS (Electronic Throttle Control System)",
+    "EVAP System",
+    "Fans",
+    "Fog Lights",
+    "Fuel Supply System",
+    "Gauges",
+    "Headlight Leveling System",
+    "Headlights",
+    "Horns",
+    "Idle Control System",
+    "Ignition System",
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "MIL Circuit",
+    "PCM (All)",
+    "PCM Power and Ground",
+    "PGM-FI System",
+    "Power Mirrors",
+    "Power Supply",
+    "Power Windows",
+    "Power, Grounds and Diagnostics",
+    "Rear Window/Power Mirror Defoggers",
+    "SRS",
+    "Starting System",
+    "VSA",
+    "Wiper/Washer (Rear Window)",
+    "Wiper/Washer (Windshield)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/32412-RGA -9010-Y1.svg",
+    "viewBox": "0 0 23.427 50.227",
+    "width": 23.427,
+    "height": 50.227
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "+B_BATTERY",
+      "english": "Constant battery power: battery",
+      "russian": "Постоянное питание от АКБ: аккумулятор",
+      "terminal": "BA0A000",
+      "geometry": {
+        "x": 9.489,
+        "y": 35.171,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

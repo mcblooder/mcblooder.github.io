@@ -1,0 +1,76 @@
+{
+  "id": "066_FA01_Roof_Antenna_3P_Connector_Male",
+  "category": "connector",
+  "connectorRef": "FA01",
+  "physicalIds": [
+    "FA01"
+  ],
+  "name": "Roof Antenna 3P Connector (Male)",
+  "nameRu": "Разъём Roof Antenna, 3 контактов, штыревая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "39839-TM0 -9010-HS1",
+  "partNumbers": [
+    "39839-TM0 -9010-HS1"
+  ],
+  "harnesses": [
+    "39160-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Antenna"
+  ],
+  "systems": [
+    "Audio System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/39839-TM0 -9010-HS1.svg",
+    "viewBox": "0 0 121.453 94.09",
+    "width": 121.453,
+    "height": 94.09
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "SWD_+B",
+      "english": "SWD, +B",
+      "russian": "SWD, +B",
+      "terminal": "J02A",
+      "geometry": {
+        "x": 44.433,
+        "y": 6.864,
+        "svgTextId": "_x31__1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "SH(AM/FM)",
+      "english": "shield, AM / FM",
+      "russian": "экран, AM / FM",
+      "terminal": "J03A",
+      "geometry": {
+        "x": 86.037,
+        "y": 51.425,
+        "svgTextId": "_x32__1_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "",
+      "circuit": "SH",
+      "english": "Shield",
+      "russian": "Экран",
+      "terminal": "SH2A",
+      "geometry": {
+        "x": 86.037,
+        "y": 91.492,
+        "svgTextId": "_x33__1_"
+      }
+    }
+  ]
+}

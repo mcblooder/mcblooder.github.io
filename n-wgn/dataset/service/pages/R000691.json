@@ -1,0 +1,146 @@
+{
+  "id": "R000691",
+  "title": "Brake master Cylinder removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "Brake Components",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000691",
+  "assets": [
+    "691_5.0_jpn_11581604_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000685",
+      "label": "air venting",
+      "resolved": true
+    },
+    {
+      "id": "R000683",
+      "label": "Brake pedal Inspection and adjustment",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Brake master Cylinder removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not allow brake fluid to adhere to painted surfaces. If it does adhere, wash it off with water immediately.",
+        "Remove and install the brake pipe with care so as not to damage or severely deform the brake pipe.",
+        "To prevent brake fluid from leaking out, the joint part of the disconnected pipe must be covered with a plug or similar item.",
+        "Before removing the master cylinder, depress the brake pedal several times to relieve negative pressure on the master power.",
+        "When removing the master cylinder, the piston side must face up to prevent the piston from falling out.",
+        "Do not reuse drained brake fluid."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Brake fluid draining"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Drain the brake fluid from the reservoir tank."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Master Cylinder removal"
+    },
+    {
+      "type": "figure",
+      "asset": "691_5.0_jpn_11581604_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Disconnect the brake pipe (B). Remove the master cylinder mounting nut (C) and washer (D). Remove the master cylinder (E) from the master power (F). Remove the O-ring (G) from the master power."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "O-rings should be replaced with new ones."
+        },
+        {
+          "text": "O-rings should be replaced with new ones."
+        },
+        {
+          "text": "Apply silicone grease (Shin-Etsu Chemical G40M or Dow Corning 822M) to the O-ring during installation."
+        },
+        {
+          "text": "Apply silicone grease (Shin-Etsu Chemical G40M or Dow Corning 822M) to the O-ring during installation."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. air venting",
+      "refs": [
+        {
+          "id": "R000685",
+          "label": "air venting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Brake pedal Inspection and adjustment",
+      "refs": [
+        {
+          "id": "R000683",
+          "label": "Brake pedal Inspection and adjustment",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000691_jpn/web/html/R000691_jpn_Content.html",
+  "inOutline": true
+}

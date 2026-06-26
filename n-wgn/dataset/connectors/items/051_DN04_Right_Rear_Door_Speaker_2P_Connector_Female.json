@@ -1,0 +1,62 @@
+{
+  "id": "051_DN04_Right_Rear_Door_Speaker_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "DN04",
+  "physicalIds": [
+    "DN04"
+  ],
+  "name": "Right Rear Door Speaker 2P Connector (Female)",
+  "nameRu": "Разъём правый задний Door Speaker, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "986D4-00002-00",
+  "partNumbers": [
+    "986D4-00002-00"
+  ],
+  "harnesses": [
+    "32753-T6G_-0000-"
+  ],
+  "locations": [
+    "Door > Right Rear Door"
+  ],
+  "systems": [
+    "Audio System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/986D4-00002-00.svg",
+    "viewBox": "0 0 74.321 27.604",
+    "width": 74.321,
+    "height": 27.604
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "RR_SPKR+",
+      "english": "rear/right, speaker +",
+      "russian": "задний/правый, динамик +",
+      "terminal": "804A",
+      "geometry": {
+        "x": 20.302,
+        "y": 16.287,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "RR_SPKR-",
+      "english": "rear/right, speaker -",
+      "russian": "задний/правый, динамик -",
+      "terminal": "805B",
+      "geometry": {
+        "x": 50.316,
+        "y": 16.288,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

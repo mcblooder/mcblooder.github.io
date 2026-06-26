@@ -1,0 +1,133 @@
+{
+  "id": "A000066",
+  "title": "DTC Commentary: P1157",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000066",
+  "assets": [
+    "66_3.0_jpn_11393431_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Commentary: P1157"
+    },
+    {
+      "type": "dtc",
+      "code": "P1157",
+      "text": "DTC P1157: LAF sensor AFS pin voltage high"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "66_3.0_jpn_11393431_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The LAF sensor is mounted on the catalytic converter directly below and detects the oxygen concentration in the exhaust gas and outputs the voltage corresponding to the concentration to the PGM-FI ECU. The LAF sensor has an integrated sensor element and heater, which is controlled by the PGM-FI ECU. The heater is provided to accelerate the activation time of the LAF sensor by heating the sensor element through current control from the PGM-FI ECU to enable stable detection at all times. When voltage is applied to the sensor, oxygen molecules in the exhaust gas move inside the sensor, and the chemical reaction of the oxygen molecules generates an electric current. This current becomes the output of the LAF sensor and is input to the PGM-FI ECU. The PGM-FI ECU compares the target air-fuel ratio with the air-fuel ratio detected by the LAF sensor to control the fuel injection amount. If the resistance value of the sensor element remains above the predetermined resistance value for a predetermined period of time after the heater is energized for a predetermined period of time, the PGM-FI ECU determines that a failure has occurred and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "D/C: Drive Cycle"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "[ ]: HDS Parameters"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the LAF sensor element resistance value [LAF sensor element impedance] is 250Ω or higher for more than 5 seconds."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Disconnection of code (AFV line) between PGM-FI ECU and LAF sensor"
+        },
+        {
+          "text": "Disconnection of cord (AFC line) between PGM-FI ECU and LAF sensor"
+        },
+        {
+          "text": "LAF sensor failure"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "paragraph",
+      "text": "Start the engine, run the radiator fan twice, and then warm up the engine for at least 2 minutes at 3,000 rpm with no load."
+    },
+    {
+      "type": "paragraph",
+      "text": "None."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the PGM-FI warning light comes on and the DTC and freeze data are stored."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000066_jpn/web/html/A000066_jpn_Content.html",
+  "inOutline": true
+}

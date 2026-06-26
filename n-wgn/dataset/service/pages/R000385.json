@@ -1,0 +1,164 @@
+{
+  "id": "R000385",
+  "title": "Inspection of axial misalignment of connecting rod large end",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder block",
+  "system": "con-rod",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000385",
+  "assets": [
+    "385_3.0_jpn_11393768_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000356",
+      "label": "Engine Removal",
+      "resolved": true
+    },
+    {
+      "id": "R000544",
+      "label": "Transmission removal",
+      "resolved": true
+    },
+    {
+      "id": "R000545",
+      "label": "Drive plate removal",
+      "resolved": true
+    },
+    {
+      "id": "R000372",
+      "label": "Cylinder head removal",
+      "resolved": true
+    },
+    {
+      "id": "R000389",
+      "label": "Oil pan removal",
+      "resolved": true
+    },
+    {
+      "id": "R000406",
+      "label": "Oil pump removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspection of axial misalignment of connecting rod large end"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Engine Removal",
+      "refs": [
+        {
+          "id": "R000356",
+          "label": "Engine Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Transmission removal",
+      "refs": [
+        {
+          "id": "R000544",
+          "label": "Transmission removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Drive plate removal",
+      "refs": [
+        {
+          "id": "R000545",
+          "label": "Drive plate removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Cylinder head removal",
+      "refs": [
+        {
+          "id": "R000372",
+          "label": "Cylinder head removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Oil pan removal",
+      "refs": [
+        {
+          "id": "R000389",
+          "label": "Oil pan removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Oil pump removal",
+      "refs": [
+        {
+          "id": "R000406",
+          "label": "Oil pump removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Con-rod large end axial misalignment Inspect"
+    },
+    {
+      "type": "figure",
+      "asset": "385_3.0_jpn_11393768_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Using a Thickness Gauge, measure the axial girth at the large end of the connecting rod. Connecting rod large end axial misalignment Std. 0.2－0.4mm Limit value: 1 0.5mm"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the limit value is exceeded, replace the connecting rod and re-inspect. If the limit value is still exceeded at the re-inspection, replace the crankshaft."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000385_jpn/web/html/R000385_jpn_Content.html",
+  "inOutline": true
+}

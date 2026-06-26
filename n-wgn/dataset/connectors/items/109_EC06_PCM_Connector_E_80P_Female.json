@@ -1,0 +1,1170 @@
+{
+  "id": "109_EC06_PCM_Connector_E_80P_Female",
+  "category": "connector",
+  "connectorRef": "EC06",
+  "physicalIds": [
+    "EC06"
+  ],
+  "name": "PCM Connector E (80P) (Female)",
+  "nameRu": "Разъём PCM Connector E (80P), гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 80,
+  "populatedPinCount": 56,
+  "faceviewPart": "91701-5R0A-V000",
+  "partNumbers": [
+    "91701-5R0A-V000"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Left Side)"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "A/T Interlock System",
+    "Auto Idle Stop System",
+    "Back-Up Lights",
+    "Cruise Control",
+    "CVT Control System",
+    "ETCS (Electronic Throttle Control System)",
+    "EVAP System",
+    "Fans",
+    "Ignition System",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "PCM (All)",
+    "PCM Power and Ground",
+    "PGM-FI System",
+    "Starting System",
+    "VTC System",
+    "Wiper/Washer (Rear Window)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91701-5R0A-V000.svg",
+    "viewBox": "0 0 577 188.07",
+    "width": 577.0,
+    "height": 188.07
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "SO2HT",
+      "english": "SO2HT",
+      "russian": "SO2HT",
+      "terminal": "E73A",
+      "geometry": {
+        "x": 28.317,
+        "y": 50.82,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 62.321,
+        "y": 50.82,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "MTR1",
+      "english": "MTR1",
+      "russian": "MTR1",
+      "terminal": "F50C",
+      "geometry": {
+        "x": 96.325,
+        "y": 50.82,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "MTR2",
+      "english": "MTR2",
+      "russian": "MTR2",
+      "terminal": "F51D",
+      "geometry": {
+        "x": 164.333,
+        "y": 50.82,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "PINJ1",
+      "english": "PINJ1",
+      "russian": "PINJ1",
+      "terminal": "E39E",
+      "geometry": {
+        "x": 198.337,
+        "y": 50.82,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "SINJ1",
+      "english": "SINJ1",
+      "russian": "SINJ1",
+      "terminal": "E42F",
+      "geometry": {
+        "x": 232.341,
+        "y": 50.82,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "PCS",
+      "english": "PCS",
+      "russian": "PCS",
+      "terminal": "E97G",
+      "geometry": {
+        "x": 266.345,
+        "y": 50.82,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "RED",
+      "circuit": "PINJ2",
+      "english": "PINJ2",
+      "russian": "PINJ2",
+      "terminal": "E40H",
+      "geometry": {
+        "x": 300.349,
+        "y": 50.82,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "PINJ3",
+      "english": "PINJ3",
+      "russian": "PINJ3",
+      "terminal": "E41J",
+      "geometry": {
+        "x": 334.353,
+        "y": 50.82,
+        "svgTextId": "SVGID_19_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 366.132,
+        "y": 50.82,
+        "svgTextId": "SVGID_21_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "LCCLS",
+      "english": "LCCLS",
+      "russian": "LCCLS",
+      "terminal": "K21L",
+      "geometry": {
+        "x": 434.14,
+        "y": 50.82,
+        "svgTextId": "SVGID_24_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "SOLIS",
+      "english": "SOLIS",
+      "russian": "SOLIS",
+      "terminal": "K19M",
+      "geometry": {
+        "x": 468.144,
+        "y": 50.82,
+        "svgTextId": "SVGID_26_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "DRLS",
+      "english": "DRLS",
+      "russian": "DRLS",
+      "terminal": "M48N",
+      "geometry": {
+        "x": 502.147,
+        "y": 50.82,
+        "svgTextId": "SVGID_28_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "AFHT",
+      "english": "AFHT",
+      "russian": "AFHT",
+      "terminal": "E79P",
+      "geometry": {
+        "x": 26.093,
+        "y": 73.497,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 60.097,
+        "y": 73.497,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "SINJ3",
+      "english": "SINJ3",
+      "russian": "SINJ3",
+      "terminal": "E44S",
+      "geometry": {
+        "x": 94.101,
+        "y": 73.497,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "SINJ2",
+      "english": "SINJ2",
+      "russian": "SINJ2",
+      "terminal": "E43T",
+      "geometry": {
+        "x": 128.105,
+        "y": 73.497,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 162.108,
+        "y": 73.497,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": true,
+      "wire": "RED",
+      "circuit": "ABV",
+      "english": "ABV",
+      "russian": "ABV",
+      "terminal": "E98X",
+      "geometry": {
+        "x": 196.112,
+        "y": 73.497,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "WGS",
+      "english": "WGS",
+      "russian": "WGS",
+      "terminal": "K15Y",
+      "geometry": {
+        "x": 230.116,
+        "y": 73.497,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 21,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 264.12,
+        "y": 73.497,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 22,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "ATPGND",
+      "english": "ATPGND",
+      "russian": "ATPGND",
+      "terminal": "Z01AA",
+      "geometry": {
+        "x": 298.124,
+        "y": 73.497,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 23,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 332.128,
+        "y": 73.497,
+        "svgTextId": "SVGID_20_"
+      }
+    },
+    {
+      "pin": 24,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "VTC",
+      "english": "VTC",
+      "russian": "VTC",
+      "terminal": "F64AC",
+      "geometry": {
+        "x": 366.132,
+        "y": 73.497,
+        "svgTextId": "SVGID_22_"
+      }
+    },
+    {
+      "pin": 25,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "CPCLS",
+      "english": "CPCLS",
+      "russian": "CPCLS",
+      "terminal": "K20AD",
+      "geometry": {
+        "x": 400.136,
+        "y": 73.497,
+        "svgTextId": "SVGID_23_"
+      }
+    },
+    {
+      "pin": 26,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 434.14,
+        "y": 73.497,
+        "svgTextId": "SVGID_25_"
+      }
+    },
+    {
+      "pin": 27,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "DNLS",
+      "english": "DNLS",
+      "russian": "DNLS",
+      "terminal": "M47AF",
+      "geometry": {
+        "x": 468.144,
+        "y": 73.497,
+        "svgTextId": "SVGID_27_"
+      }
+    },
+    {
+      "pin": 28,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 502.147,
+        "y": 73.497,
+        "svgTextId": "SVGID_29_"
+      }
+    },
+    {
+      "pin": 29,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 71.444,
+        "y": 97.984,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 30,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "IGN_COIL_2",
+      "english": "IGN, coil, 2",
+      "russian": "IGN, катушка, 2",
+      "terminal": "E12AJ",
+      "geometry": {
+        "x": 94.122,
+        "y": 97.984,
+        "svgTextId": "SVGID_32_"
+      }
+    },
+    {
+      "pin": 31,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "IGN_COIL_3",
+      "english": "IGN, coil, 3",
+      "russian": "IGN, катушка, 3",
+      "terminal": "E13AK",
+      "geometry": {
+        "x": 116.799,
+        "y": 97.984,
+        "svgTextId": "SVGID_35_"
+      }
+    },
+    {
+      "pin": 32,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 139.477,
+        "y": 97.984,
+        "svgTextId": "SVGID_38_"
+      }
+    },
+    {
+      "pin": 33,
+      "used": true,
+      "wire": "RED",
+      "circuit": "NDR",
+      "english": "NDR",
+      "russian": "NDR",
+      "terminal": "K22AM",
+      "geometry": {
+        "x": 162.155,
+        "y": 97.984,
+        "svgTextId": "SVGID_41_"
+      }
+    },
+    {
+      "pin": 34,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "VEL-DD",
+      "english": "VEL-DD",
+      "russian": "VEL-DD",
+      "terminal": "M21AN",
+      "geometry": {
+        "x": 184.833,
+        "y": 97.984,
+        "svgTextId": "SVGID_43_"
+      }
+    },
+    {
+      "pin": 35,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "TDCAM",
+      "english": "TDCAM",
+      "russian": "TDCAM",
+      "terminal": "E63AP",
+      "geometry": {
+        "x": 207.51,
+        "y": 97.984,
+        "svgTextId": "SVGID_46_"
+      }
+    },
+    {
+      "pin": 36,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 230.188,
+        "y": 97.984,
+        "svgTextId": "SVGID_49_"
+      }
+    },
+    {
+      "pin": 37,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "CRKSG",
+      "english": "CRKSG",
+      "russian": "CRKSG",
+      "terminal": "Z20AS",
+      "geometry": {
+        "x": 252.866,
+        "y": 97.984,
+        "svgTextId": "SVGID_52_"
+      }
+    },
+    {
+      "pin": 38,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "CRKN",
+      "english": "CRKN",
+      "russian": "CRKN",
+      "terminal": "E52AT",
+      "geometry": {
+        "x": 275.543,
+        "y": 97.984,
+        "svgTextId": "SVGID_55_"
+      }
+    },
+    {
+      "pin": 39,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 298.221,
+        "y": 97.984,
+        "svgTextId": "SVGID_58_"
+      }
+    },
+    {
+      "pin": 40,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 320.898,
+        "y": 97.984,
+        "svgTextId": "SVGID_61_"
+      }
+    },
+    {
+      "pin": 41,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "SG3",
+      "english": "SG3",
+      "russian": "SG3",
+      "terminal": "Z47AY",
+      "geometry": {
+        "x": 343.576,
+        "y": 97.984,
+        "svgTextId": "SVGID_64_"
+      }
+    },
+    {
+      "pin": 42,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "VCC3",
+      "english": "VCC3",
+      "russian": "VCC3",
+      "terminal": "D58AZ",
+      "geometry": {
+        "x": 366.254,
+        "y": 97.984,
+        "svgTextId": "SVGID_67_"
+      }
+    },
+    {
+      "pin": 43,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "SG2",
+      "english": "SG2",
+      "russian": "SG2",
+      "terminal": "Z28BA",
+      "geometry": {
+        "x": 388.932,
+        "y": 97.984,
+        "svgTextId": "SVGID_69_"
+      }
+    },
+    {
+      "pin": 44,
+      "used": true,
+      "wire": "RED",
+      "circuit": "VCC2_TC",
+      "english": "VCC2, TC",
+      "russian": "VCC2, TC",
+      "terminal": "D46BB000",
+      "geometry": {
+        "x": 411.609,
+        "y": 97.984,
+        "svgTextId": "SVGID_72_"
+      }
+    },
+    {
+      "pin": 45,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "SO2TSG",
+      "english": "SO2TSG",
+      "russian": "SO2TSG",
+      "terminal": "Z27BC",
+      "geometry": {
+        "x": 434.287,
+        "y": 97.984,
+        "svgTextId": "SVGID_75_"
+      }
+    },
+    {
+      "pin": 46,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "VCC1",
+      "english": "VCC1",
+      "russian": "VCC1",
+      "terminal": "D45BD",
+      "geometry": {
+        "x": 456.965,
+        "y": 97.984,
+        "svgTextId": "SVGID_78_"
+      }
+    },
+    {
+      "pin": 47,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "IGN_COIL_1",
+      "english": "IGN, coil, 1",
+      "russian": "IGN, катушка, 1",
+      "terminal": "E11BE",
+      "geometry": {
+        "x": 71.444,
+        "y": 120.662,
+        "svgTextId": "SVGID_30_"
+      }
+    },
+    {
+      "pin": 48,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "ATP-FWD",
+      "english": "ATP-FWD",
+      "russian": "ATP-FWD",
+      "terminal": "M37BF",
+      "geometry": {
+        "x": 94.122,
+        "y": 120.662,
+        "svgTextId": "SVGID_33_"
+      }
+    },
+    {
+      "pin": 49,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 116.799,
+        "y": 120.662,
+        "svgTextId": "SVGID_36_"
+      }
+    },
+    {
+      "pin": 50,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ATP-D",
+      "english": "ATP-D",
+      "russian": "ATP-D",
+      "terminal": "M30BH",
+      "geometry": {
+        "x": 139.477,
+        "y": 120.662,
+        "svgTextId": "SVGID_39_"
+      }
+    },
+    {
+      "pin": 51,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 162.155,
+        "y": 120.662,
+        "svgTextId": "SVGID_42_"
+      }
+    },
+    {
+      "pin": 52,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "NT",
+      "english": "NT",
+      "russian": "NT",
+      "terminal": "M18BK",
+      "geometry": {
+        "x": 184.833,
+        "y": 120.662,
+        "svgTextId": "SVGID_44_"
+      }
+    },
+    {
+      "pin": 53,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "TATF",
+      "english": "TATF",
+      "russian": "TATF",
+      "terminal": "M59BL",
+      "geometry": {
+        "x": 207.51,
+        "y": 120.662,
+        "svgTextId": "SVGID_47_"
+      }
+    },
+    {
+      "pin": 54,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 230.188,
+        "y": 120.662,
+        "svgTextId": "SVGID_50_"
+      }
+    },
+    {
+      "pin": 55,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "TA_TC",
+      "english": "TA, TC",
+      "russian": "TA, TC",
+      "terminal": "E91BN",
+      "geometry": {
+        "x": 252.866,
+        "y": 120.662,
+        "svgTextId": "SVGID_53_"
+      }
+    },
+    {
+      "pin": 56,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "TW",
+      "english": "TW",
+      "russian": "TW",
+      "terminal": "E90BP",
+      "geometry": {
+        "x": 275.543,
+        "y": 120.662,
+        "svgTextId": "SVGID_56_"
+      }
+    },
+    {
+      "pin": 57,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 298.221,
+        "y": 120.662,
+        "svgTextId": "SVGID_59_"
+      }
+    },
+    {
+      "pin": 58,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 320.898,
+        "y": 120.662,
+        "svgTextId": "SVGID_62_"
+      }
+    },
+    {
+      "pin": 59,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 343.576,
+        "y": 120.662,
+        "svgTextId": "SVGID_65_"
+      }
+    },
+    {
+      "pin": 60,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "SO2TSG",
+      "english": "SO2TSG",
+      "russian": "SO2TSG",
+      "terminal": "Z27BW",
+      "geometry": {
+        "x": 366.254,
+        "y": 120.662,
+        "svgTextId": "SVGID_68_"
+      }
+    },
+    {
+      "pin": 61,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "SO2T",
+      "english": "SO2T",
+      "russian": "SO2T",
+      "terminal": "E71BX",
+      "geometry": {
+        "x": 388.932,
+        "y": 120.662,
+        "svgTextId": "SVGID_70_"
+      }
+    },
+    {
+      "pin": 62,
+      "used": true,
+      "wire": "RED",
+      "circuit": "PB_TC",
+      "english": "PB, TC",
+      "russian": "PB, TC",
+      "terminal": "E86BY000",
+      "geometry": {
+        "x": 411.609,
+        "y": 120.662,
+        "svgTextId": "SVGID_73_"
+      }
+    },
+    {
+      "pin": 63,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "KSGND",
+      "english": "KSGND",
+      "russian": "KSGND",
+      "terminal": "Z31BZ",
+      "geometry": {
+        "x": 434.287,
+        "y": 120.662,
+        "svgTextId": "SVGID_76_"
+      }
+    },
+    {
+      "pin": 64,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "KS",
+      "english": "KS",
+      "russian": "KS",
+      "terminal": "E84CA",
+      "geometry": {
+        "x": 456.965,
+        "y": 120.662,
+        "svgTextId": "SVGID_79_"
+      }
+    },
+    {
+      "pin": 65,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 71.444,
+        "y": 143.338,
+        "svgTextId": "SVGID_31_"
+      }
+    },
+    {
+      "pin": 66,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "ATP-RVS",
+      "english": "ATP-RVS",
+      "russian": "ATP-RVS",
+      "terminal": "M38CC",
+      "geometry": {
+        "x": 94.122,
+        "y": 143.338,
+        "svgTextId": "SVGID_34_"
+      }
+    },
+    {
+      "pin": 67,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "ATP_L",
+      "english": "ATP, left",
+      "russian": "ATP, левый",
+      "terminal": "M36CD",
+      "geometry": {
+        "x": 116.799,
+        "y": 143.338,
+        "svgTextId": "SVGID_37_"
+      }
+    },
+    {
+      "pin": 68,
+      "used": true,
+      "wire": "RED",
+      "circuit": "ATP-N",
+      "english": "ATP-N",
+      "russian": "ATP-N",
+      "terminal": "M22CE",
+      "geometry": {
+        "x": 139.477,
+        "y": 143.338,
+        "svgTextId": "SVGID_40_"
+      }
+    },
+    {
+      "pin": 69,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "ATP-P",
+      "english": "ATP-P",
+      "russian": "ATP-P",
+      "terminal": "M35CF",
+      "geometry": {
+        "x": 184.833,
+        "y": 143.338,
+        "svgTextId": "SVGID_45_"
+      }
+    },
+    {
+      "pin": 70,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "ATP-R",
+      "english": "ATP-R",
+      "russian": "ATP-R",
+      "terminal": "M34CG",
+      "geometry": {
+        "x": 207.51,
+        "y": 143.338,
+        "svgTextId": "SVGID_48_"
+      }
+    },
+    {
+      "pin": 71,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 230.188,
+        "y": 143.338,
+        "svgTextId": "SVGID_51_"
+      }
+    },
+    {
+      "pin": 72,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 252.866,
+        "y": 143.338,
+        "svgTextId": "SVGID_54_"
+      }
+    },
+    {
+      "pin": 73,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "PDN",
+      "english": "PDN",
+      "russian": "PDN",
+      "terminal": "M60CK",
+      "geometry": {
+        "x": 275.543,
+        "y": 143.338,
+        "svgTextId": "SVGID_57_"
+      }
+    },
+    {
+      "pin": 74,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 298.221,
+        "y": 143.338,
+        "svgTextId": "SVGID_60_"
+      }
+    },
+    {
+      "pin": 75,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 320.898,
+        "y": 143.338,
+        "svgTextId": "SVGID_63_"
+      }
+    },
+    {
+      "pin": 76,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "THL2",
+      "english": "THL2",
+      "russian": "THL2",
+      "terminal": "E89CN",
+      "geometry": {
+        "x": 343.576,
+        "y": 143.338,
+        "svgTextId": "SVGID_66_"
+      }
+    },
+    {
+      "pin": 77,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "AFV",
+      "english": "AFV",
+      "russian": "AFV",
+      "terminal": "E80CP",
+      "geometry": {
+        "x": 388.932,
+        "y": 143.338,
+        "svgTextId": "SVGID_71_"
+      }
+    },
+    {
+      "pin": 78,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "THL1",
+      "english": "THL1",
+      "russian": "THL1",
+      "terminal": "E88CR",
+      "geometry": {
+        "x": 411.609,
+        "y": 143.338,
+        "svgTextId": "SVGID_74_"
+      }
+    },
+    {
+      "pin": 79,
+      "used": true,
+      "wire": "RED",
+      "circuit": "AFC",
+      "english": "AFC",
+      "russian": "AFC",
+      "terminal": "E78CS",
+      "geometry": {
+        "x": 434.287,
+        "y": 143.338,
+        "svgTextId": "SVGID_77_"
+      }
+    },
+    {
+      "pin": 80,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "OIL_PRESS_SW",
+      "english": "OIL, PRESS, switch",
+      "russian": "OIL, PRESS, выключатель",
+      "terminal": "F18CT",
+      "geometry": {
+        "x": 456.965,
+        "y": 143.338,
+        "svgTextId": "SVGID_80_"
+      }
+    }
+  ]
+}

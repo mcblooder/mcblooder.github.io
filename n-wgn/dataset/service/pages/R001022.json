@@ -1,0 +1,91 @@
+{
+  "id": "R001022",
+  "title": "Washer tank removal/attachment",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "Wiper/washer",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001022",
+  "assets": [
+    "1022_3.0_jpn_11337381_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R001021",
+      "label": "Washer motor removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Washer tank removal/attachment"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Coupler and tubing connections should be made securely."
+        },
+        {
+          "text": "Coupler and tubing connections should be made securely."
+        },
+        {
+          "text": "After installation, check the washer operation."
+        },
+        {
+          "text": "After installation, check the washer operation."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Washer motor removal",
+      "refs": [
+        {
+          "id": "R001021",
+          "label": "Washer motor removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Washer tank removal"
+    },
+    {
+      "type": "figure",
+      "asset": "1022_3.0_jpn_11337381_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the washer tank (A). Washer tank capacity: 1.5L"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001022_jpn/web/html/R001022_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,59 @@
+{
+  "id": "131_unnumbered_Driver_s_Airbag_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "UNNUMBERED",
+  "physicalIds": [],
+  "name": "Driver's Airbag 2P Connector (Female)",
+  "nameRu": "Разъём водителя Airbag, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "77972-TY0 -0030-H1",
+  "partNumbers": [
+    "77972-TY0 -0030-H1"
+  ],
+  "harnesses": [
+    "77900-T6G_-ZZ10-"
+  ],
+  "locations": [],
+  "systems": [
+    "Cable Reel",
+    "SRS"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/77972-TY0 -0030-H1.svg",
+    "viewBox": "0 0 72.613 94.164",
+    "width": 72.613,
+    "height": 94.164
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "DM",
+      "english": "DM",
+      "russian": "DM",
+      "terminal": "X1B",
+      "geometry": {
+        "x": 22.739,
+        "y": 33.873,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "DM",
+      "english": "DM",
+      "russian": "DM",
+      "terminal": "X2B",
+      "geometry": {
+        "x": 45.232,
+        "y": 33.915,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

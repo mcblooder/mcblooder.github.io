@@ -1,0 +1,80 @@
+{
+  "id": "R000574",
+  "title": "Transmission Case Input Shaft Holder Input Shaft Bearing Replacement",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM transmission",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000574",
+  "assets": [
+    "574_3.0_jpn_11035228_3.0_disp.png",
+    "574_3.0_jpn_11035229_3.0_disp.png",
+    "574_3.0_jpn_11035230_3.0_disp.png",
+    "574_3.0_jpn_11035231_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Transmission Case Input Shaft Holder Input Shaft Bearing Replacement"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Input shaft holder Input shaft bearing removal"
+    },
+    {
+      "type": "figure",
+      "asset": "574_3.0_jpn_11035228_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the bearing set plate (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "574_3.0_jpn_11035229_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the input shaft holder input shaft bearing (A) using the bearing remover shaft handle, sliding hammer weight, and bearing remover shaft set 20."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Input shaft holder Input shaft bearing mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "574_3.0_jpn_11035230_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install a new bearing using the driver handle 15 x 135L and the bearing driver attachment 40. Press-fit the bearing securely into the input shaft holder until it is pressed against the input shaft holder."
+    },
+    {
+      "type": "figure",
+      "asset": "574_3.0_jpn_11035231_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install the bearing set plate (A)."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000574_jpn/web/html/R000574_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,63 @@
+{
+  "id": "204_EC21_No.2_Primary_Fuel_Injector_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC21",
+  "physicalIds": [
+    "EC21"
+  ],
+  "name": "No.2 Primary Fuel Injector 2P Connector (Female)",
+  "nameRu": "Разъём No.2 Primary Fuel Injector, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91702-R5A -0030-H1",
+  "partNumbers": [
+    "91702-R5A -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)"
+  ],
+  "systems": [
+    "PCM (All)",
+    "PGM-FI System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91702-R5A -0030-H1.svg",
+    "viewBox": "0 0 54.042 25.696",
+    "width": 54.042,
+    "height": 25.696
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "IGP(PINJ2)",
+      "english": "IGP, PINJ2",
+      "russian": "IGP, PINJ2",
+      "terminal": "D13A",
+      "geometry": {
+        "x": 12.891,
+        "y": 14.979,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "RED",
+      "circuit": "PINJ2",
+      "english": "PINJ2",
+      "russian": "PINJ2",
+      "terminal": "E40B",
+      "geometry": {
+        "x": 35.568,
+        "y": 14.979,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

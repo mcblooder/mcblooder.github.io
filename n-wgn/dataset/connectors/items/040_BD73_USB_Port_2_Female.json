@@ -1,0 +1,104 @@
+{
+  "id": "040_BD73_USB_Port_2_Female",
+  "category": "connector",
+  "connectorRef": "BD73",
+  "physicalIds": [
+    "BD73"
+  ],
+  "name": "USB Port 2 (Female)",
+  "nameRu": "Разъём USB Port 2, гнездовая часть",
+  "type": "YopCoupler",
+  "pinCount": 5,
+  "populatedPinCount": 5,
+  "faceviewPart": "39837-TK4 -A010-HS1",
+  "partNumbers": [
+    "39837-TK4 -A010-HS1"
+  ],
+  "harnesses": [
+    "39116-T6G_-J010-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Audio System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/39837-TK4 -A010-HS1.svg",
+    "viewBox": "0 0 104.138 59.713",
+    "width": 104.138,
+    "height": 59.713
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "",
+      "circuit": "USB_VBUS",
+      "english": "USB power VBUS",
+      "russian": "Питание USB VBUS",
+      "terminal": "USB2B",
+      "geometry": {
+        "x": 15.514,
+        "y": 30.089,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "",
+      "circuit": "USB_DATA-",
+      "english": "USB data negative",
+      "russian": "Отрицательная линия данных USB",
+      "terminal": "USB4B",
+      "geometry": {
+        "x": 29.028,
+        "y": 30.089,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "",
+      "circuit": "USB_DATA+",
+      "english": "USB data positive",
+      "russian": "Положительная линия данных USB",
+      "terminal": "USB3B",
+      "geometry": {
+        "x": 42.542,
+        "y": 30.089,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "",
+      "circuit": "USB_GND",
+      "english": "USB ground",
+      "russian": "Масса USB",
+      "terminal": "USB1B",
+      "geometry": {
+        "x": 56.057,
+        "y": 30.089,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "",
+      "circuit": "USB_SH",
+      "english": "USB cable shield",
+      "russian": "Экран кабеля USB",
+      "terminal": "USB5C",
+      "geometry": {
+        "x": 99.689,
+        "y": 31.992,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "144_EC04_Throttle_Body_6P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC04",
+  "physicalIds": [
+    "EC04"
+  ],
+  "name": "Throttle Body 6P Connector (Female)",
+  "nameRu": "Разъём Throttle Body, 6 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 6,
+  "populatedPinCount": 6,
+  "faceviewPart": "91716-RNAA-A010-Y1",
+  "partNumbers": [
+    "91716-RNAA-A010-Y1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)"
+  ],
+  "systems": [
+    "Cruise Control",
+    "ETCS (Electronic Throttle Control System)",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91716-RNAA-A010-Y1.svg",
+    "viewBox": "0 0 133.13 28.8",
+    "width": 133.13,
+    "height": 28.8
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "MTR2",
+      "english": "MTR2",
+      "russian": "MTR2",
+      "terminal": "F51A",
+      "geometry": {
+        "x": 14.495,
+        "y": 21.63,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "MTR1",
+      "english": "MTR1",
+      "russian": "MTR1",
+      "terminal": "F50B",
+      "geometry": {
+        "x": 34.598,
+        "y": 21.63,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "SG3",
+      "english": "SG3",
+      "russian": "SG3",
+      "terminal": "Z47C",
+      "geometry": {
+        "x": 54.701,
+        "y": 21.63,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "THL2",
+      "english": "THL2",
+      "russian": "THL2",
+      "terminal": "E89D",
+      "geometry": {
+        "x": 74.804,
+        "y": 21.63,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "VCC3",
+      "english": "VCC3",
+      "russian": "VCC3",
+      "terminal": "D58E",
+      "geometry": {
+        "x": 94.905,
+        "y": 21.63,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "THL1",
+      "english": "THL1",
+      "russian": "THL1",
+      "terminal": "E88F",
+      "geometry": {
+        "x": 115.009,
+        "y": 21.63,
+        "svgTextId": "SVGID_6_"
+      }
+    }
+  ]
+}

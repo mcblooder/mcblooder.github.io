@@ -1,0 +1,44 @@
+{
+  "id": "R000902",
+  "title": "Diagnosis of A/C system noise",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000902",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Diagnosis of A/C system noise"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Noise Check"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "",
+          "Brackets replaced"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000902_jpn/web/html/R000902_jpn_Content.html",
+  "inOutline": true
+}

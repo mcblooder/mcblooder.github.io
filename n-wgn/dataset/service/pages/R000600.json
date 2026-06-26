@@ -1,0 +1,245 @@
+{
+  "id": "R000600",
+  "title": "Transfer case bearing replacement",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "transfer",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000600",
+  "assets": [
+    "600_5.0_jpn_11582473_5.0_disp.png",
+    "600_5.0_jpn_11582474_5.0_disp.png",
+    "600_5.0_jpn_11582475_5.0_disp.png",
+    "600_5.0_jpn_11582476_5.0_disp.png",
+    "600_5.0_jpn_11582477_5.0_disp.png",
+    "600_5.0_jpn_11582478_5.0_disp.png",
+    "600_5.0_jpn_11582479_5.0_disp.png",
+    "600_5.0_jpn_11582480_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000599",
+      "label": "Transfer removal",
+      "resolved": true
+    },
+    {
+      "id": "R000598",
+      "label": "Inspect the transfer gear tooth contact.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Transfer case bearing replacement"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Transfer removal",
+      "refs": [
+        {
+          "id": "R000599",
+          "label": "Transfer removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Transfer L. side case, transfer drive gear, transfer driven gear Remove"
+    },
+    {
+      "type": "figure",
+      "asset": "600_5.0_jpn_11582473_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the transfer L. side case (A), knock pin (B) and oil pipe (C). Remove the O-ring (D). Remove the transfer drive gear (E). Remove the transfer driven gear (F)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Transfer L. side case bearing removal"
+    },
+    {
+      "type": "figure",
+      "asset": "600_5.0_jpn_11582474_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove transfer L. side case bearing (A) using adjustable bearing remover 45-75, sliding hammer weight and bearing remover shaft."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Transfer R. side case bearing removal"
+    },
+    {
+      "type": "figure",
+      "asset": "600_5.0_jpn_11582475_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove transfer R. side case bearing (A) using adjustable bearing remover 45-75, sliding hammer weight and bearing remover shaft."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Transfer R. Side case bearing mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "600_5.0_jpn_11582476_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the new bearing using the driver handle 15 x 135L and the bearing driver attachment 62 x 64. Press-fit the bearing securely until it butts up against the transfer R. side case."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Transfer L. Side case bearing mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "600_5.0_jpn_11582477_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the new bearing using the driver handle 15 x 135L and bearing driver attachment 78 x 80. Press-fit the bearing securely until it butts up against the transfer L. side case."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Transfer drive gear, transfer driven gear Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "600_5.0_jpn_11582478_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect the transfer gear tooth contact. Install transfer driven gear (A). Install the transfer drive gear (B).",
+      "refs": [
+        {
+          "id": "R000598",
+          "label": "Inspect the transfer gear tooth contact.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Transfer L. Side Case Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "600_5.0_jpn_11582479_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply sealant to the sealing surface of the transfer L. side case."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The sealant must be genuine Honda liquid packing 1216E.",
+        "Wipe off old sealant and remove dirt and oil from the sealing surface.",
+        "If the sealant is left for more than 4 minutes after application, do not assemble the product as it is. Re-apply the sealant.",
+        "Transfer fluid should be injected 30 minutes after assembly."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The sealant must be genuine Honda liquid packing 1216E."
+        },
+        {
+          "text": "The sealant must be genuine Honda liquid packing 1216E."
+        },
+        {
+          "text": "Wipe off old sealant and remove dirt and oil from the sealing surface."
+        },
+        {
+          "text": "Wipe off old sealant and remove dirt and oil from the sealing surface."
+        },
+        {
+          "text": "If the sealant is left for more than 4 minutes after application, do not assemble the product as it is. Re-apply the sealant."
+        },
+        {
+          "text": "If the sealant is left for more than 4 minutes after application, do not assemble the product as it is. Re-apply the sealant."
+        },
+        {
+          "text": "Transfer fluid should be injected 30 minutes after assembly."
+        },
+        {
+          "text": "Transfer fluid should be injected 30 minutes after assembly."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "600_5.0_jpn_11582480_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install the knock pin (A) and new O-ring (B), and install the oil pipe (C). Install the transfer L. side case (D). Inspect the transfer overall starting torque. ​",
+      "refs": [
+        {
+          "id": "R000598",
+          "label": "Inspect the transfer overall starting torque.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Transfer gear backlash Check",
+      "refs": [
+        {
+          "id": "R000598",
+          "label": "Transfer gear backlash Check",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Transfer Mounting",
+      "refs": [
+        {
+          "id": "R000599",
+          "label": "Transfer Mounting",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000600_jpn/web/html/R000600_jpn_Content.html",
+  "inOutline": true
+}

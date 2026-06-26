@@ -1,0 +1,179 @@
+{
+  "id": "093_BD20_EPS_Control_Unit_Connector_B_10P_Female",
+  "category": "connector",
+  "connectorRef": "BD20",
+  "physicalIds": [
+    "BD20"
+  ],
+  "name": "EPS Control Unit Connector B (10P) (Female)",
+  "nameRu": "Разъём EPS блок управления Connector B (10P), гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 10,
+  "populatedPinCount": 3,
+  "faceviewPart": "91769-SNA -0030-H1",
+  "partNumbers": [
+    "91769-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "City-Brake Active System",
+    "EPS",
+    "F-CAN Communication Line",
+    "Idle Control System",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91769-SNA -0030-H1.svg",
+    "viewBox": "0 0 114.068 59.677",
+    "width": 114.068,
+    "height": 59.677
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 9.482,
+        "y": 28.538,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "F-CAN_H",
+      "english": "F-CAN high line",
+      "russian": "Высокая линия F-CAN",
+      "terminal": "X70B",
+      "geometry": {
+        "x": 32.147,
+        "y": 28.538,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 54.81,
+        "y": 28.538,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 77.475,
+        "y": 28.54,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 100.137,
+        "y": 28.54,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 9.482,
+        "y": 50.736,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "RED",
+      "circuit": "F-CAN_L",
+      "english": "F-CAN low line",
+      "russian": "Низкая линия F-CAN",
+      "terminal": "X80G",
+      "geometry": {
+        "x": 32.145,
+        "y": 50.736,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 54.81,
+        "y": 50.736,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 77.473,
+        "y": 50.736,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "IG1_VSA/ABS",
+      "english": "ignition IG1, VSA / ABS",
+      "russian": "зажигание IG1, VSA / ABS",
+      "terminal": "G17E",
+      "geometry": {
+        "x": 97.912,
+        "y": 51.129,
+        "svgTextId": "SVGID_10_"
+      }
+    }
+  ]
+}

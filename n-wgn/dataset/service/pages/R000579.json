@@ -1,0 +1,115 @@
+{
+  "id": "R000579",
+  "title": "Torque converter case Oil pump Sprocket and chain removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM transmission",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000579",
+  "assets": [
+    "579_3.0_jpn_11035239_3.0_disp.png",
+    "579_3.0_jpn_11035240_3.0_disp.png",
+    "579_3.0_jpn_11035241_3.0_disp.png",
+    "579_3.0_jpn_11035242_3.0_disp.png",
+    "579_3.0_jpn_11336526_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Torque converter case Oil pump Sprocket and chain removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Remove oil pump chain and oil pump sprocket"
+    },
+    {
+      "type": "figure",
+      "asset": "579_3.0_jpn_11035239_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the oil pump chain (A) and oil pump drive sprocket (B). Remove the sealing ring (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "579_3.0_jpn_11035240_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Spread the snap ring (B) under the oil pump driven sprocket (A) with snap ring pliers and lift up the oil pump driven sprocket."
+    },
+    {
+      "type": "figure",
+      "asset": "579_3.0_jpn_11035241_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Remove the oil pump driven sprocket (A) and snap ring (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "579_3.0_jpn_11035242_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Remove the snap ring (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Installation Precautions"
+    },
+    {
+      "type": "figure",
+      "asset": "579_3.0_jpn_11336526_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Check that the snap ring is securely attached and inspect whether the snap ring's mounting outer diameter dimension (A) is 16.4 mm or less.",
+        "The groove of the snap ring shall be cleaned and a new snap ring shall be installed."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Check that the snap ring is securely attached and inspect whether the snap ring's mounting outer diameter dimension (A) is 16.4 mm or less."
+        },
+        {
+          "text": "Check that the snap ring is securely attached and inspect whether the snap ring's mounting outer diameter dimension (A) is 16.4 mm or less."
+        },
+        {
+          "text": "The groove of the snap ring shall be cleaned and a new snap ring shall be installed."
+        },
+        {
+          "text": "The groove of the snap ring shall be cleaned and a new snap ring shall be installed."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000579_jpn/web/html/R000579_jpn_Content.html",
+  "inOutline": true
+}

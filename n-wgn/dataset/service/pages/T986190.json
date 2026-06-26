@@ -1,0 +1,55 @@
+{
+  "id": "T986190",
+  "title": "Engine does not start and HDS cannot communicate with ECU (PGM-FI warning light stays on and does not turn off)",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "PGM-FI System",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986190",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T002550",
+      "label": "Inspect ECU power circuit",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Engine does not start and HDS cannot communicate with ECU (PGM-FI warning light stays on and does not turn off)"
+    },
+    {
+      "type": "paragraph",
+      "text": "checklist"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Inspect ECU power circuit",
+          "refs": [
+            {
+              "id": "T002550",
+              "label": "Inspect ECU power circuit",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986190_jpn/web/html/T986190_jpn_Content.html",
+  "inOutline": true
+}

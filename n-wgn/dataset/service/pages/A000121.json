@@ -1,0 +1,283 @@
+{
+  "id": "A000121",
+  "title": "DTC Explanation: P0706",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000121",
+  "assets": [
+    "121_3.0_jpn_11033643_4.0_disp.png",
+    "121_3.0_jpn_11394447_2.0_disp.png",
+    "121_3.0_jpn_11394448_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0706"
+    },
+    {
+      "type": "dtc",
+      "code": "P0706",
+      "text": "DTC P0706: Shift position sensor and sensor circuit disconnected"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cars not equipped with paddle shift switches"
+    },
+    {
+      "type": "figure",
+      "asset": "121_3.0_jpn_11394447_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vehicles equipped with paddle shift switches"
+    },
+    {
+      "type": "figure",
+      "asset": "121_3.0_jpn_11394448_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Select Lever - Shift Position Sensor Connection Table"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cars not equipped with paddle shift switches"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Select Lever",
+          "Shift position Sensor signal input"
+        ],
+        [
+          "ATP-P",
+          "ATP-R",
+          "ATP-N",
+          "ATP-D",
+          "ATP-L",
+          "ATP-FWD",
+          "ATP-RVS"
+        ],
+        [
+          "P",
+          "○",
+          "×",
+          "×",
+          "×",
+          "×",
+          "×",
+          "×"
+        ],
+        [
+          "R",
+          "×",
+          "○",
+          "×",
+          "×",
+          "×",
+          "×",
+          "○"
+        ],
+        [
+          "N",
+          "×",
+          "×",
+          "○",
+          "×",
+          "×",
+          "×",
+          "×"
+        ],
+        [
+          "D",
+          "×",
+          "×",
+          "×",
+          "○",
+          "×",
+          "○",
+          "×"
+        ],
+        [
+          "L",
+          "×",
+          "×",
+          "×",
+          "×",
+          "○",
+          "○",
+          "×"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Vehicles equipped with paddle shift switches"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "○: LO signal - close (0V) ×: HI signal - open (12V)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The shift position sensor is fixed to the transmission control shaft. The control shaft rotates via the control wires when the driver operates the select lever. The shift position indicator shows which position is selected using a LO/HI signal based on the angle of rotation of the control shaft. In addition to operating the shift position sensor, the control shaft also switches the transmission hydraulics between forward, neutral, and reverse by operating a manual valve. The PGM-FI ECU uses the signal from the shift position sensor to determine the gear shift schedule. The input terminal voltage of the PGM-FI ECU is HI when each switch in the shift position sensor is open and LO when closed. If the vehicle repeatedly accelerates to a predetermined speed and stops while the FWD position signal is open (HI), the PGM-FI ECU judges that the shift position sensor is broken and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "D/C: Drive Cycle"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "condition entry",
+          ""
+        ],
+        [
+          "select The lever position",
+          "paddle shift switch car without equipment",
+          "D"
+        ],
+        [
+          "paddle shift switch equipped (with)",
+          "D, S"
+        ],
+        [
+          "DTC requesting the prohibition of detection of the relevant DTC",
+          "P0705"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "When D or S position is selected with the select lever and the FWD position signal [forward SW] is not detected when the vehicle speed changes from 10 km/h to 40 km/h to 10 km/h."
+    },
+    {
+      "type": "paragraph",
+      "text": "[ ]: HDS Parameters"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Disconnection of the cord (ATP-FWD line) between the PGM-FI ECU and the shift position sensor (including disconnected or loose coupler)"
+        },
+        {
+          "text": "Poor adjustment of control wires"
+        },
+        {
+          "text": "Shift position sensor failure"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "figure",
+      "asset": "121_3.0_jpn_11033643_4.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Start the engine."
+        },
+        {
+          "text": "Select Accelerate to 48 km/h or more with the select lever in the D position."
+        },
+        {
+          "text": "Decelerate to 10 km/h."
+        },
+        {
+          "text": "Turn ignition OFF (LOCK) mode."
+        },
+        {
+          "text": "Repeat test run steps 1 through 4."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When conducting test drives, the driver must comply with all laws and regulations, observe good manners, and drive in accordance with the surrounding conditions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "None."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the DTC and freeze data are stored without the PGM-FI warning light illuminating and without the D indicator light flashing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Temporary DTCs, DTCs and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000121_jpn/web/html/A000121_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,80 @@
+{
+  "id": "T001392",
+  "title": "Honda Smart Key System Failure Diagnostic Table by Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001392",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Honda Smart Key System Failure Diagnostic Table by Symptom"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fault Diagnostics on the Honda Smart Key System"
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on defective phenomena, work and inspections will be performed."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Check the pre-inspection items before diagnosing a malfunction."
+        },
+        {
+          "text": "Refer to the Honda Smart Key System schematic for signal names."
+        },
+        {
+          "text": "If DTCs are displayed, diagnose the corresponding DTC failure."
+        },
+        {
+          "text": "Self-check the Honda Smart Key with HDS, and if there is a malfunction, inspect the relevant part first."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection or short-circuit of B-CAN line"
+        ],
+        [
+          "",
+          "Disconnection or short-circuit of F-CAN line"
+        ],
+        [
+          "",
+          "Combination Meter"
+        ],
+        [
+          "",
+          "PGM-FI ECU"
+        ],
+        [
+          "",
+          "MICU"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131120135106/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001392_jpn/web/html/T001392_jpn_Content.html",
+  "inOutline": true
+}

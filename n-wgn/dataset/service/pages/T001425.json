@@ -1,0 +1,328 @@
+{
+  "id": "T001425",
+  "title": "Keyless Door Lock/Security Alarm System (MICU) Input Inspection",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Keyless/power door locks/anti-theft system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001425",
+  "assets": [
+    "1425_5.0_jpn_11588336_4.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "T001413",
+      "label": "Check turn signal/hazard light inputs.",
+      "resolved": true
+    },
+    {
+      "id": "R000925",
+      "label": "Disconnect each coupler from the fuse box.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Keyless Door Lock/Security Alarm System (MICU) Input Inspection"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Before inspection, check the blown and connected state of the relay box, No. A10 (10A), No. A14 (10A) and fuse boxes No. B26 (7.5A), C17 (7.5A), No. C34 (30A) and sub fuse/relay box No. C1 (15A) fuses."
+        },
+        {
+          "text": "The fuses No.C23 (15A) and No.C35 (15A) and the fuses No.C38 (15A) and No.C37 (15A) are on the same circuit, so when a fuse blows, the other fuse should also be checked and replaced if necessary."
+        },
+        {
+          "text": "Ansa If there is a problem with the backlight Check turn signal/hazard light inputs.",
+          "refs": [
+            {
+              "id": "T001413",
+              "label": "Check turn signal/hazard light inputs.",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Disconnect each coupler from the fuse box. 2. Perform input inspection, if all is normal and there is something wrong with the system, Replace fuse box Do. Each coupler is all female-terminated on the cord side. inspection terminal Wiring color Measuring conditions result Inspection items in case of abnormality P1 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. B8 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. T27 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Battery voltage must be present between the inspection terminal and body ground. U17 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Battery voltage must be present between the inspection terminal and body ground. J1 yellow 24-hour (e.g. observation, operation (of a machine), care (of patient)) Battery voltage must be present between the inspection terminal and body ground. Cord disconnection and terminal connection condition F6 ash Shorting the Z1 and F6 terminals and shorting the F3 terminal to body ground Driver Door Lock Actuator must be activated (LOCK) F3 yellow Shorting the Z1 and F3 terminals and shorting the F6 terminal to body ground Driver Door Lock Actuator must be activated (UNLOCK) P2 new leaves Short-circuit the Z1 and P2 terminals and short-circuit the P4 terminal to body ground. Assistant Door Lock Actuator must be activated (LOCK) P4 green Short-circuit the Z1 and P4 terminals, and short-circuit the P2 terminal to body ground. Assistant Door Lock Actuator must be activated (UNLOCK) E2 ash Short-circuit the Z1 and E2 terminals and short-circuit the E5 terminal to body ground. R. Rear door lock actuator must operate (LOCK) E5 yellow Short-circuit the Z1 and E5 terminals, and short-circuit the E2 terminal to body ground. R. Rear door lock actuator must operate (UNLOCK) E7 new leaves Shorting the Z1 and E7 terminals and shorting the D4 terminal to body ground L. Rear door lock actuator must operate (LOCK) D4 green Shorting the Z1 and D4 terminals and shorting the E7 terminal to body ground L. Rear door lock actuator must operate (UNLOCK) E8 ash Short-circuit the Z1 and E8 terminals and short-circuit the E6 terminal to body ground. Tailgate lock actuator is activated (LOCK) E6 yellow Short-circuit the Z1 and E6 terminals and short-circuit the E8 terminal to body ground. Tailgate lock actuator is activated (UNLOCK) J17 new leaves Pop the hood. Continuity must exist between the inspection terminal and body ground. H4 red Driver Open the door Continuity must exist between the inspection terminal and body ground. H2 *1 T24 *2 purple Assistant Open the door Continuity must exist between the inspection terminal and body ground. H3 *1 H2 *2 purple *1 peach *2 R. Open rear door Continuity must exist between the inspection terminal and body ground. H11 *2 purple Open the tailgate. Continuity must exist between the inspection terminal and body ground. H11 *1 H3 *2 purple *1 white *2 L. Open rear door Continuity must exist between the inspection terminal and body ground. F11 white Driver Door lock knob switch LOCK position Continuity must exist between the inspection terminal and body ground. F7 purple Driver Door lock knob switch UNLOCK position H6 new leaves Press the tailgate lock/unlock switch Continuity must exist between the inspection terminal and body ground. J13 red Shift Position P Position Continuity must exist between the inspection terminal and body ground. J19 white Shorting J19 terminal to body ground The sounding of horns *1: Vehicles equipped with TRW's SRS unit *2: Vehicles equipped with DENSO SRS unit",
+      "refs": [
+        {
+          "id": "R000925",
+          "label": "Disconnect each coupler from the fuse box.",
+          "resolved": true
+        },
+        {
+          "id": "R000925",
+          "label": "Replace fuse box",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1425_5.0_jpn_11588336_4.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G402)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G202)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G402)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G403)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Driver Door lock actuator"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Assisted door lock actuator"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "R. Rear door lock actuator"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "L. Rear door lock actuator"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Tailgate lock actuator"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G301)"
+        },
+        {
+          "text": "Bonnet latch switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Driver Door switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Assisted door switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "R. Rear door switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G503)"
+        },
+        {
+          "text": "Tailgate latch switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "L. Rear door switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G402)"
+        },
+        {
+          "text": "Driver Door lock knob switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G503)"
+        },
+        {
+          "text": "Tailgate lock/unlock switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Shift position sensor"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "horn"
+        },
+        {
+          "text": "Horn Relay"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001425_jpn/web/html/T001425_jpn_Content.html",
+  "inOutline": true
+}

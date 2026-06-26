@@ -1,0 +1,146 @@
+{
+  "id": "222_BD54_Relay_Block_1",
+  "category": "connector",
+  "connectorRef": "BD54",
+  "physicalIds": [
+    "BD54"
+  ],
+  "name": "Relay Block 1",
+  "nameRu": "Разъём реле Block 1",
+  "type": "DirectCoupler",
+  "pinCount": 8,
+  "populatedPinCount": 8,
+  "faceviewPart": "91750-S0A -9010-H1",
+  "partNumbers": [
+    "91750-S0A -9010-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)"
+  ],
+  "systems": [
+    "Rear Window/Power Mirror Defoggers"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91750-S0A -9010-H1.svg",
+    "viewBox": "0 0 224.86 177.896",
+    "width": 224.86,
+    "height": 177.896
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "RR_DEF+",
+      "english": "rear/right, defogger +",
+      "russian": "задний/правый, обогрев стекла +",
+      "terminal": "425A",
+      "geometry": {
+        "x": 67.767,
+        "y": 50.708,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "RED",
+      "circuit": "IG2_RR_DEF",
+      "english": "ignition IG2, rear/right, defogger",
+      "russian": "зажигание IG2, задний/правый, обогрев стекла",
+      "terminal": "G25B",
+      "geometry": {
+        "x": 67.767,
+        "y": 74.055,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "RED",
+      "circuit": "IG2_RR_DEF",
+      "english": "ignition IG2, rear/right, defogger",
+      "russian": "зажигание IG2, задний/правый, обогрев стекла",
+      "terminal": "G25C",
+      "geometry": {
+        "x": 46.421,
+        "y": 94.401,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "RR_DEF_RLY_CL-",
+      "english": "rear/right, defogger, relay, coil control -",
+      "russian": "задний/правый, обогрев стекла, реле, управление катушкой -",
+      "terminal": "426C",
+      "geometry": {
+        "x": 89.114,
+        "y": 94.401,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "+B_HEATED_MIRROR",
+      "english": "Constant battery power: HEATED, mirror",
+      "russian": "Постоянное питание от АКБ: HEATED, зеркало",
+      "terminal": "B63E",
+      "geometry": {
+        "x": 153.128,
+        "y": 115.668,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "H/MIRROR",
+      "english": "H / MIRROR",
+      "russian": "H / MIRROR",
+      "terminal": "635A",
+      "geometry": {
+        "x": 153.128,
+        "y": 94.321,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "RED",
+      "circuit": "IG2_RR_DEF",
+      "english": "ignition IG2, rear/right, defogger",
+      "russian": "зажигание IG2, задний/правый, обогрев стекла",
+      "terminal": "G25G000",
+      "geometry": {
+        "x": 175.5,
+        "y": 72.638,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "RR_DEF_RLY_CL-",
+      "english": "rear/right, defogger, relay, coil control -",
+      "russian": "задний/правый, обогрев стекла, реле, управление катушкой -",
+      "terminal": "426H",
+      "geometry": {
+        "x": 131.807,
+        "y": 72.638,
+        "svgTextId": "SVGID_8_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "id": "R000392",
+  "title": "Remove and inspect piston/piston ring/piston pin/con-rod",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder block",
+  "system": "con-rod",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000392",
+  "assets": [
+    "392_3.0_jpn_11034307_3.0_disp.png",
+    "392_3.0_jpn_11034308_3.0_disp.png",
+    "392_3.0_jpn_11034309_3.0_disp.png",
+    "392_3.0_jpn_11034310_3.0_disp.png",
+    "392_3.0_jpn_11034311_3.0_disp.png",
+    "392_3.0_jpn_11034312_3.0_disp.png",
+    "392_3.0_jpn_11034313_3.0_disp.png",
+    "392_3.0_jpn_11034314_3.0_disp.png",
+    "392_3.0_jpn_11034315_3.0_disp.png",
+    "392_3.0_jpn_11034316_3.0_disp.png",
+    "392_3.0_jpn_11034318_3.0_disp.png",
+    "392_3.0_jpn_11034319_3.0_disp.png",
+    "392_3.0_jpn_11034320_3.0_disp.png",
+    "392_3.0_jpn_11034321_3.0_disp.png",
+    "392_3.0_jpn_11034322_3.0_disp.png",
+    "392_3.0_jpn_11034324_3.0_disp.png",
+    "392_3.0_jpn_11393766_2.0_disp.png",
+    "392_3.0_jpn_11393767_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000390",
+      "label": "Crankshaft removal",
+      "resolved": true
+    },
+    {
+      "id": "R000405",
+      "label": "Remove engine oil jet/bolt",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Remove and inspect piston/piston ring/piston pin/con-rod"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Crankshaft removal",
+      "refs": [
+        {
+          "id": "R000390",
+          "label": "Crankshaft removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Remove engine oil jet/bolt",
+      "refs": [
+        {
+          "id": "R000405",
+          "label": "Remove engine oil jet/bolt",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Piston/con-rod assembly removal"
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11034307_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Extrude the piston/conrod assembly from the cylinder using a hammer handle or similar tool."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Before removing the piston/conrod assy. remove the carbon from the top of the cylinder and do not scratch the piston.",
+        "Do not damage the cylinder with the connecting rod.",
+        "When the piston/con-rod assembly is removed, mark the cylinder number on the piston head or connecting rod (but do not damage it). When installing, install in the same position as the cylinder number.",
+        "Do not scratch or dent the gasket mating surface of the cylinder block."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Before removing the piston/conrod assy. remove the carbon from the top of the cylinder and do not scratch the piston."
+        },
+        {
+          "text": "Before removing the piston/conrod assy. remove the carbon from the top of the cylinder and do not scratch the piston."
+        },
+        {
+          "text": "Do not damage the cylinder with the connecting rod."
+        },
+        {
+          "text": "Do not damage the cylinder with the connecting rod."
+        },
+        {
+          "text": "When the piston/con-rod assembly is removed, mark the cylinder number on the piston head or connecting rod (but do not damage it). When installing, install in the same position as the cylinder number."
+        },
+        {
+          "text": "When the piston/con-rod assembly is removed, mark the cylinder number on the piston head or connecting rod (but do not damage it). When installing, install in the same position as the cylinder number."
+        },
+        {
+          "text": "Do not scratch or dent the gasket mating surface of the cylinder block."
+        },
+        {
+          "text": "Do not scratch or dent the gasket mating surface of the cylinder block."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Piston ring removal"
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11034308_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the piston ring."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The removed rings should be organized by piston.",
+        "Do not scratch the piston."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The removed rings should be organized by piston."
+        },
+        {
+          "text": "The removed rings should be organized by piston."
+        },
+        {
+          "text": "Do not scratch the piston."
+        },
+        {
+          "text": "Do not scratch the piston."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Piston ring mating gap Check"
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11034309_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Insert the piston ring (A) into the bottom of the cylinder (15-20 mm from the bottom) and measure the mating gap (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the limit is exceeded, install a new piston ring and measure again. Next, inspect the inside diameter of the cylinder block.",
+        "When inserting the piston ring into the cylinder block, push in with the piston head so that the piston ring is horizontal.",
+        "Std.",
+        "0.15－0.25mm",
+        "Limit value: 1",
+        "0.6mm",
+        "Std.",
+        "0.30－0.45mm",
+        "Limit value: 1",
+        "0.55mm",
+        "Std.",
+        "0.20－0.50mm",
+        "Limit value: 1",
+        "0.6mm"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the limit is exceeded, install a new piston ring and measure again. Next, inspect the inside diameter of the cylinder block."
+        },
+        {
+          "text": "If the limit is exceeded, install a new piston ring and measure again. Next, inspect the inside diameter of the cylinder block."
+        },
+        {
+          "text": "When inserting the piston ring into the cylinder block, push in with the piston head so that the piston ring is horizontal."
+        },
+        {
+          "text": "When inserting the piston ring into the cylinder block, push in with the piston head so that the piston ring is horizontal."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Remove piston pin"
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11034310_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the pilot pin (070AF-TY00110) in the piston pin tool set (07PAF-0010000) and temporarily tighten the piston base head attachment (070AF-TY00140). Install pilot collar 17 (070AF-TY00130) and tighten so that the clearance with the piston base head attachment is even all around the pilot collar 17. Remove pilot collar 17."
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11034311_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Install the insert adjust (070AF-TY00120) on the insert pin (A) included in the piston pin tool set and adjust it to the 31.2 mm dimension. Piston head ''' With the ''' mark facing up, place the piston/conrod assembly (B) on the piston pin tool set/piston base head attachment and use the pilot collar17 and insert pin/insert adjuster to Remove the piston pin (C)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When removing the piston pin, be sure to use a dedicated tool and a hydraulic press."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Connecting rod Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11034312_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect connecting rods for cracks and damage. Each connecting rod is marked with a number indicating the inside diameter; any combination of 1, 2, 3, or 4 may be used. Inner diameter of connecting rod: 39mm fit-mark tolerance 1 0.000－+0.006mm 2 +0.006－+0.012mm 3 +0.012－+0.018mm 4 +0.018－+0.024mm"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Piston pin inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11034313_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Measure the outside diameter of the new piston pin. Piston Pin O.D. Std. 16.996－17.000mm"
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11034314_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Match the cylinder gauge (A) to the measured piston pin outside diameter value."
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11034315_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Insert cylinder gauge into piston and check clearance between piston pin and piston. Piston pin to piston clearance Std. 0.010－0.017mm"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the value is other than the standard value, the piston should be replaced."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11034316_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Insert cylinder gauge into connecting rod and check clearance between connecting rod and piston pin. Clearance between connecting rod and piston pin Std. -0.036－-0.019mm"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the value is other than the standard value, the connecting rod shall be replaced."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Piston pin mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11393766_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Piston head ''' '' Assemble the connecting rod so that the mark (A) is facing the convex side (B) of the connecting rod, and insert the pilot collar 17 (070AF-TY00130)."
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11034318_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Attach the insert adjust (070AF-TY00120) to the insert pin (A) included in the piston pin tool set (07PAF-0010000) and adjust to the 31.2 mm dimension. Piston head ''' With the ''' mark facing up, place the piston/conrod assembly (B) on the piston pin tool set/piston base head attachment (070AF-TY00140) and use the insert pin/insert adjust. Install a new piston pin (C) using the insert pin/insert adjuster."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When installing the piston pin, be sure to use a dedicated tool and a hydraulic press.",
+        "When installing the piston pin, the outer circumference should be coated with engine oil or molybdenum disulfide."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When installing the piston pin, be sure to use a dedicated tool and a hydraulic press."
+        },
+        {
+          "text": "When installing the piston pin, be sure to use a dedicated tool and a hydraulic press."
+        },
+        {
+          "text": "When installing the piston pin, the outer circumference should be coated with engine oil or molybdenum disulfide."
+        },
+        {
+          "text": "When installing the piston pin, the outer circumference should be coated with engine oil or molybdenum disulfide."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Piston Ring Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11034319_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11034320_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the piston ring. After installing each piston ring, turn it by hand to check that it moves lightly and does not stick."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Clean the ring groove of the piston before installing the piston ring.",
+        "The top ring has a 1R mark and the second ring has a 2R mark.",
+        "Piston rings must be installed with the mark facing up.",
+        "Do not scratch the piston."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Clean the ring groove of the piston before installing the piston ring."
+        },
+        {
+          "text": "Clean the ring groove of the piston before installing the piston ring."
+        },
+        {
+          "text": "The top ring has a 1R mark and the second ring has a 2R mark."
+        },
+        {
+          "text": "The top ring has a 1R mark and the second ring has a 2R mark."
+        },
+        {
+          "text": "Piston rings must be installed with the mark facing up."
+        },
+        {
+          "text": "Piston rings must be installed with the mark facing up."
+        },
+        {
+          "text": "Do not scratch the piston."
+        },
+        {
+          "text": "Do not scratch the piston."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11034321_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Align each piston ring with its mating ring."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The mating of each piston ring should be avoided in the direction of the pin hole and at right angles to the pin."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Clearance between piston ring and groove Check"
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11034322_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Measure the clearance between the piston ring and ring groove. Top Rings Std. 0.035－0.060mm Limit value: 1 0.135mm Second Ring Std. 0.030－0.055mm Limit value: 1 0.130mm"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Piston/con-rod assy. installation"
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11393767_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "392_3.0_jpn_11034324_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply engine oil or molybdenum disulfide to main bearing and connecting rod bearing surfaces. Apply engine oil to the sides of the piston and the inside surface of the cylinder wall. Piston ''' With the ''' mark (A) facing the cam chain, gently push the cylinder block with a hammer handle or the like."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the crankshaft is installed, do not damage the crankshaft with the connecting rod."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Engine Oil Jet/Bolt Installation",
+      "refs": [
+        {
+          "id": "R000405",
+          "label": "Engine Oil Jet/Bolt Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Crankshaft mounting",
+      "refs": [
+        {
+          "id": "R000390",
+          "label": "Crankshaft mounting",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000392_jpn/web/html/R000392_jpn_Content.html",
+  "inOutline": true
+}

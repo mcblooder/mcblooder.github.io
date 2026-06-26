@@ -1,0 +1,107 @@
+{
+  "id": "R000896",
+  "title": "Mode Motor inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000896",
+  "assets": [
+    "896_5.0_jpn_11581030_5.0_disp.png",
+    "896_5.0_jpn_11581031_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000783",
+      "label": "Glove box removal",
+      "resolved": true
+    },
+    {
+      "id": "R000895",
+      "label": "Replace the mode motor.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Mode Motor inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Glove box removal",
+      "refs": [
+        {
+          "id": "R000783",
+          "label": "Glove box removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Mode Motor Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "896_5.0_jpn_11581030_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Mode Disconnect the coupler from the motor. Mode Confirm that the motor operates in the DEF side when the positive (+) terminal of the 12V battery is connected to the No. 6 terminal of the motor and the negative (-) terminal is connected to the No. 7 terminal of the motor. (When connected in reverse, the motor should operate in the VENT side.)"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Disconnect the 12V battery immediately after the motor stops running."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "896_5.0_jpn_11581031_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "With the 12V battery connected to the No. 6 and No. 7 terminals and the motor running, check for continuity between the terminals in each position, ○―○ Confirm that there is continuity only between the If the motor does not operate in step 2, remove the mode motor and check that the damper linkage operates smoothly. If the damper linkage operates smoothly, Replace the mode motor.",
+      "refs": [
+        {
+          "id": "R000895",
+          "label": "Replace the mode motor.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "A digital circuit tester shall be used."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Precautions for installation work"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000896_jpn/web/html/R000896_jpn_Content.html",
+  "inOutline": true
+}

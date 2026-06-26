@@ -1,0 +1,62 @@
+{
+  "id": "231_EA33_Front_Impact_Sensor_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA33",
+  "physicalIds": [
+    "EA33"
+  ],
+  "name": "Front Impact Sensor 2P Connector (Female)",
+  "nameRu": "Разъём передний Impact датчик, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "77982-SNA -0030-H1",
+  "partNumbers": [
+    "77982-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Left Side"
+  ],
+  "systems": [
+    "SRS"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/77982-SNA -0030-H1.svg",
+    "viewBox": "0 0 79.184 28.174",
+    "width": 79.184,
+    "height": 28.174
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "LFS-",
+      "english": "LFS -",
+      "russian": "LFS -",
+      "terminal": "S54A",
+      "geometry": {
+        "x": 27.143,
+        "y": 21.256,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "LFS+",
+      "english": "LFS +",
+      "russian": "LFS +",
+      "terminal": "S53B",
+      "geometry": {
+        "x": 47.329,
+        "y": 21.256,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

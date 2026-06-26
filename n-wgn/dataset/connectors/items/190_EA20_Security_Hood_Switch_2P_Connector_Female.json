@@ -1,0 +1,62 @@
+{
+  "id": "190_EA20_Security_Hood_Switch_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA20",
+  "physicalIds": [
+    "EA20"
+  ],
+  "name": "Security Hood Switch 2P Connector (Female)",
+  "nameRu": "Разъём Security Hood выключатель, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91982-SKN -0030-H1",
+  "partNumbers": [
+    "91982-SKN -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Left Side"
+  ],
+  "systems": [
+    "Keyless/Power Door Locks/Security System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91982-SKN -0030-H1.svg",
+    "viewBox": "0 0 68.658 37.514",
+    "width": 68.658,
+    "height": 37.514
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "HOOD_SW",
+      "english": "HOOD, switch",
+      "russian": "HOOD, выключатель",
+      "terminal": "71A",
+      "geometry": {
+        "x": 17.825,
+        "y": 25.901,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-L)",
+      "english": "Ground (ENG-L)",
+      "russian": "Масса (ENG-L)",
+      "terminal": "Z25B",
+      "geometry": {
+        "x": 46.138,
+        "y": 25.901,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

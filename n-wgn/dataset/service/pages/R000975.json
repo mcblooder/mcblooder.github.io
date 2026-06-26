@@ -1,0 +1,95 @@
+{
+  "id": "R000975",
+  "title": "Front Fog Light Optical Axis Adjustment",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Fog Lights",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000975",
+  "assets": [
+    "975_3.0_jpn_11037118_3.0_disp.png",
+    "975_3.0_jpn_11037119_3.0_disp.png",
+    "975_3.0_jpn_11389544_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front Fog Light Optical Axis Adjustment"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not cover the entire surface of the outer lens of the front fog light for a long period of time because the light becomes hot when it is turned on."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Items to check before inspection"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The inspection site must be flat."
+        },
+        {
+          "text": "The inspection site must be flat."
+        },
+        {
+          "text": "The tire pressure must be at the specified pressure."
+        },
+        {
+          "text": "The tire pressure must be at the specified pressure."
+        },
+        {
+          "text": "One person must be in the driver's seat."
+        },
+        {
+          "text": "One person must be in the driver's seat."
+        },
+        {
+          "text": "No cargo other than puncture repair kits and on-board tools shall be loaded in the rear."
+        },
+        {
+          "text": "No cargo other than puncture repair kits and on-board tools shall be loaded in the rear."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Fog Light Optical Axis Adjustment"
+    },
+    {
+      "type": "figure",
+      "asset": "975_3.0_jpn_11037118_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "975_3.0_jpn_11037119_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "975_3.0_jpn_11389544_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Set the wall or screen relative to the vehicle. Measure the height (A) of the center of the front fog light bulb. Turn on the front fog lights and check the optical axis. Check the height of the cut-off line according to the distance to the wall or screen. If adjustment is necessary, adjust the optical axis at the adjust point (B). Adjust to illuminate the lower side from the indicated height."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000975_jpn/web/html/R000975_jpn_Content.html",
+  "inOutline": true
+}

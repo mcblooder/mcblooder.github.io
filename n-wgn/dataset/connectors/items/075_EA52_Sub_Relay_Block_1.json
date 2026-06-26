@@ -1,0 +1,355 @@
+{
+  "id": "075_EA52_Sub_Relay_Block_1",
+  "category": "connector",
+  "connectorRef": "EA52",
+  "physicalIds": [
+    "EA52"
+  ],
+  "name": "Sub Relay Block 1",
+  "nameRu": "Разъём Sub реле Block 1",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 22,
+  "populatedPinCount": 17,
+  "faceviewPart": "91750-TF3 -E010-Y1",
+  "partNumbers": [
+    "91750-TF3 -E010-Y1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "Auto Idle Stop System",
+    "Charging System",
+    "Cruise Control",
+    "CVT Control System",
+    "ETCS (Electronic Throttle Control System)",
+    "Fuel Supply System",
+    "Ignition System",
+    "Junction Connectors",
+    "PCM (All)",
+    "PCM Power and Ground",
+    "PGM-FI System",
+    "Power Supply",
+    "Starting System",
+    "Wiper/Washer (Rear Window)",
+    "Wiper/Washer (Windshield)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91750-TF3 -E010-Y1.svg",
+    "viewBox": "0 0 386.2 272.38",
+    "width": 386.2,
+    "height": 272.38
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "FUEL_PUMP_RLY_OUT",
+      "english": "fuel, pump, relay, output",
+      "russian": "топливо, насос, реле, выход",
+      "terminal": "F12D001",
+      "geometry": {
+        "x": 134.151,
+        "y": 85.159,
+        "svgTextId": "SVGID_20_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "IG1_FUEL_PUMP",
+      "english": "ignition IG1, fuel, pump",
+      "russian": "зажигание IG1, топливо, насос",
+      "terminal": "G01D001",
+      "geometry": {
+        "x": 156.737,
+        "y": 85.159,
+        "svgTextId": "SVGID_21_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "WASHER_RLY_OUT",
+      "english": "washer, relay, output",
+      "russian": "омыватель, реле, выход",
+      "terminal": "429K001",
+      "geometry": {
+        "x": 295.084,
+        "y": 85.159,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "+B_WASHER",
+      "english": "Constant battery power: washer",
+      "russian": "Постоянное питание от АКБ: омыватель",
+      "terminal": "B64BP001",
+      "geometry": {
+        "x": 317.67,
+        "y": 85.159,
+        "svgTextId": "SVGID_19_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "DBW_RLY_OUT",
+      "english": "electronic throttle, relay, output",
+      "russian": "электронная дроссельная заслонка, реле, выход",
+      "terminal": "D32B001",
+      "geometry": {
+        "x": 295.084,
+        "y": 203.096,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "+B_DBW",
+      "english": "Constant battery power: electronic throttle",
+      "russian": "Постоянное питание от АКБ: электронная дроссельная заслонка",
+      "terminal": "B12BK003",
+      "geometry": {
+        "x": 317.67,
+        "y": 203.096,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "FI_MAIN_RLY_OUT",
+      "english": "fuel injection, main, relay, output",
+      "russian": "впрыск топлива, главный, реле, выход",
+      "terminal": "D04A001",
+      "geometry": {
+        "x": 111.474,
+        "y": 62.482,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "FUEL_PUMP_RLY_CL-",
+      "english": "fuel, pump, relay, coil control -",
+      "russian": "топливо, насос, реле, управление катушкой -",
+      "terminal": "F23L001",
+      "geometry": {
+        "x": 111.474,
+        "y": 107.661,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "IG1_FR_WIPER",
+      "english": "ignition IG1, front, wiper",
+      "russian": "зажигание IG1, передний, стеклоочиститель",
+      "terminal": "G03AR003",
+      "geometry": {
+        "x": 272.17,
+        "y": 62.482,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-R)",
+      "english": "Ground (ENG-R)",
+      "russian": "Масса (ENG-R)",
+      "terminal": "Z09E001",
+      "geometry": {
+        "x": 269.946,
+        "y": 107.661,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "FI_MAIN_RLY_OUT",
+      "english": "fuel injection, main, relay, output",
+      "russian": "впрыск топлива, главный, реле, выход",
+      "terminal": "D04C001",
+      "geometry": {
+        "x": 270.184,
+        "y": 180.419,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "DBW_RLY_CL-",
+      "english": "electronic throttle, relay, coil control -",
+      "russian": "электронная дроссельная заслонка, реле, управление катушкой -",
+      "terminal": "D34C001",
+      "geometry": {
+        "x": 270.184,
+        "y": 225.598,
+        "svgTextId": "SVGID_22_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "ST_MG_DIODE+",
+      "english": "starter, magnetic, DIODE +",
+      "russian": "стартер, электромагнитный, DIODE +",
+      "terminal": "M08CN001",
+      "geometry": {
+        "x": 65.559,
+        "y": 168.723,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "ST_MG_SW",
+      "english": "starter, magnetic, switch",
+      "russian": "стартер, электромагнитный, выключатель",
+      "terminal": "M00Y001",
+      "geometry": {
+        "x": 134.167,
+        "y": 168.723,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 166.254,
+        "y": 168.723,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "LAF_RLY_OUT",
+      "english": "LAF, relay, output",
+      "russian": "LAF, реле, выход",
+      "terminal": "D38F001",
+      "geometry": {
+        "x": 234.862,
+        "y": 168.723,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 68.66,
+        "y": 197.519,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 169.626,
+        "y": 197.519,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 65.559,
+        "y": 225.666,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 134.167,
+        "y": 225.666,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 21,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "ST_RLY_1_TO_2",
+      "english": "starter, relay, 1, TO, 2",
+      "russian": "стартер, реле, 1, TO, 2",
+      "terminal": "M07Z001",
+      "geometry": {
+        "x": 166.254,
+        "y": 225.666,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 22,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "START_DIAG",
+      "english": "START, DIAG",
+      "russian": "START, DIAG",
+      "terminal": "M05BB001",
+      "geometry": {
+        "x": 234.862,
+        "y": 225.666,
+        "svgTextId": "SVGID_9_"
+      }
+    }
+  ]
+}

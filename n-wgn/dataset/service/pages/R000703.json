@@ -1,0 +1,671 @@
+{
+  "id": "R000703",
+  "title": "Parking brake cable removal/attachment",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "Parking Brake",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000703",
+  "assets": [
+    "703_3.0_jpn_11035950_3.0_disp.png",
+    "703_3.0_jpn_11035951_3.0_disp.png",
+    "703_3.0_jpn_11035952_3.0_disp.png",
+    "703_3.0_jpn_11035953_3.0_disp.png",
+    "703_3.0_jpn_11035954_3.0_disp.png",
+    "703_3.0_jpn_11035955_3.0_disp.png",
+    "703_3.0_jpn_11035956_3.0_disp.png",
+    "703_3.0_jpn_11035957_3.0_disp.png",
+    "703_3.0_jpn_11035958_3.0_disp.png",
+    "703_3.0_jpn_11035959_3.0_disp.png",
+    "703_3.0_jpn_11035960_3.0_disp.png",
+    "703_3.0_jpn_11035961_3.0_disp.png",
+    "703_3.0_jpn_11035962_3.0_disp.png",
+    "703_3.0_jpn_11035963_3.0_disp.png",
+    "703_3.0_jpn_11035964_3.0_disp.png",
+    "703_3.0_jpn_11035965_3.0_disp.png",
+    "703_3.0_jpn_11035966_3.0_disp.png",
+    "703_3.0_jpn_11035967_3.0_disp.png",
+    "703_3.0_jpn_11035968_3.0_disp.png",
+    "703_3.0_jpn_11035969_3.0_disp.png",
+    "703_3.0_jpn_11035970_3.0_disp.png",
+    "703_3.0_jpn_11035971_3.0_disp.png",
+    "703_3.0_jpn_11035972_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000771",
+      "label": "Driver lower cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000780",
+      "label": "Center lower cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000757",
+      "label": "Remove front side garnishes on both sides.",
+      "resolved": true
+    },
+    {
+      "id": "R000792",
+      "label": "Front seat removal",
+      "resolved": true
+    },
+    {
+      "id": "R000767",
+      "label": "Turn up the floor carpet as necessary.",
+      "resolved": true
+    },
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Rear wheel removal",
+      "resolved": true
+    },
+    {
+      "id": "R000695",
+      "label": "Brake drum removal",
+      "resolved": true
+    },
+    {
+      "id": "R000684",
+      "label": "Parking brake adjustment",
+      "resolved": true
+    },
+    {
+      "id": "R000697",
+      "label": "Install the brake shoes.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Parking brake cable removal/attachment"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Parking brake cable expansion view"
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035950_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Parking brake release"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Equalizer cover removal"
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035951_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn up the carpet in the center of the floor. Remove the equalizer cover (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Equalizer removal"
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035952_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the adjusting nut (A) and remove the equalizer (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Driver lower cover removal",
+      "refs": [
+        {
+          "id": "R000771",
+          "label": "Driver lower cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Center lower cover removal",
+      "refs": [
+        {
+          "id": "R000780",
+          "label": "Center lower cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Remove front side garnishes on both sides.",
+      "refs": [
+        {
+          "id": "R000757",
+          "label": "Remove front side garnishes on both sides.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Remove side linings of both side cowls",
+      "refs": [
+        {
+          "id": "R000757",
+          "label": "Remove side linings of both side cowls",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Front seat removal",
+      "refs": [
+        {
+          "id": "R000792",
+          "label": "Front seat removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Floor carpet removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn up the floor carpet as necessary.",
+      "refs": [
+        {
+          "id": "R000767",
+          "label": "Turn up the floor carpet as necessary.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Remove both front floor spacers.",
+      "refs": [
+        {
+          "id": "R000767",
+          "label": "Remove both front floor spacers.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Remove parking brake cable A."
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035953_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the cable clip (B). Remove the joint pin clip (C) and joint pin (D). Remove parking brake cable A from the parking brake pedal."
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035954_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Remove the parking cable protector (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035955_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Remove the parking brake cable A."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Rear wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Parking brake release"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Brake drum removal",
+      "refs": [
+        {
+          "id": "R000695",
+          "label": "Brake drum removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Equalizer cover removal"
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035956_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn up the carpet in the center of the floor. Remove the equalizer cover (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Wire Guide Base Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035957_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the wire guide base (A). Remove parking brake cable B from the equalizer (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Remove parking brake cable B."
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035958_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the grommet (A). Pull the parking brake cable B out from the interior and remove it."
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035959_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035960_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the parking brake cable B. For 4WD vehicles, remove No. 2 propeller shaft protector mounting nut (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035961_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Disconnect the parking brake cable B from the parking brake lever on the brake shoe. Remove the cable clip (D) from the cable insertion slot (C) on the back side of the backing plate (A). Pull the parking brake cable B and remove it from the backing plate."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not forcibly twist or strongly bend the parking brake cable. A deformed or damaged cable may cause malfunction or cut damage."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Parking brake cable A installation"
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035962_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install parking brake cable A. Attach parking brake cable A to parking brake pedal (B). Install the joint pin (C) and joint pin clip (D). Install the joint pin clips as shown in Figure (E). Attach cable clip (F)."
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035963_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Install parking brake cable A."
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035964_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "Install the parking cable protector (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front floor spacers on both sides",
+      "refs": [
+        {
+          "id": "R000767",
+          "label": "Front floor spacers on both sides",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Floor carpet installation",
+      "refs": [
+        {
+          "id": "R000767",
+          "label": "Floor carpet installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Front Seat Mounting",
+      "refs": [
+        {
+          "id": "R000792",
+          "label": "Front Seat Mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Side linings installed on both side cowls",
+      "refs": [
+        {
+          "id": "R000757",
+          "label": "Side linings installed on both side cowls",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Installation of front side garnishes on both sides",
+      "refs": [
+        {
+          "id": "R000757",
+          "label": "Installation of front side garnishes on both sides",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Center lower cover mounting",
+      "refs": [
+        {
+          "id": "R000780",
+          "label": "Center lower cover mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Driver Lower Cover Installation",
+      "refs": [
+        {
+          "id": "R000771",
+          "label": "Driver Lower Cover Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Equalizer Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035965_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Attach the adjusting nut (B) to the equalizer (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Parking brake adjustment",
+      "refs": [
+        {
+          "id": "R000684",
+          "label": "Parking brake adjustment",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Equalizer cover installation"
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035966_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the equalizer cover (A). Restore the carpet in the center of the floor."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Parking brake cable B installation"
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035967_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the parking brake cable B to the backing plate (A). Attach the cable clip (D) to the cable insertion slot (C) on the back side of the backing plate. Connect parking brake cable B to the parking brake lever on the brake shoe. Install the brake shoes.",
+      "refs": [
+        {
+          "id": "R000697",
+          "label": "Install the brake shoes.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not forcibly twist or strongly bend the parking brake cable. A deformed or damaged cable may cause malfunction or cut damage."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Align the protrusion (E) on the parking brake cable holder with the groove (F) on the backing plate insert."
+        },
+        {
+          "text": "Align the protrusion (E) on the parking brake cable holder with the groove (F) on the backing plate insert."
+        },
+        {
+          "text": "Push the cable holder until the groove (G) in the cable holder fits into the groove (H) in the cable insertion slot."
+        },
+        {
+          "text": "Push the cable holder until the groove (G) in the cable holder fits into the groove (H) in the cable insertion slot."
+        },
+        {
+          "text": "To install the cable clip, insert the straight part of the clip (I) into the cutout in the cable insertion area and securely fasten the parking brake cable holder."
+        },
+        {
+          "text": "To install the cable clip, insert the straight part of the clip (I) into the cutout in the cable insertion area and securely fasten the parking brake cable holder."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035968_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035969_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Install parking brake cable B. For 4WD vehicles, tighten together with No.2 propeller shaft protector mounting nut (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035970_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "Pull the parking brake cable B into the interior. Install the grommet (A). When installing grommets, make sure that they do not float or come off."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Wire Guide Base Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035971_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install parking brake cable B to the equalizer (A). Install the wire guide base (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Brake drum installation",
+      "refs": [
+        {
+          "id": "R000695",
+          "label": "Brake drum installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Rear wheel mounting",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Rear wheel mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Parking brake adjustment",
+      "refs": [
+        {
+          "id": "R000684",
+          "label": "Parking brake adjustment",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Equalizer cover installation"
+    },
+    {
+      "type": "figure",
+      "asset": "703_3.0_jpn_11035972_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the equalizer cover (A). Restore the carpet in the center of the floor."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000703_jpn/web/html/R000703_jpn_Content.html",
+  "inOutline": true
+}

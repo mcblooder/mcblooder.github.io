@@ -1,0 +1,80 @@
+{
+  "id": "T986098",
+  "title": "D indicator light remains on and does not turn off for approximately 2 seconds after ignition ON mode.",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM electrical system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986098",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T001427",
+      "label": "Combination Meter Self-Diagnosis",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "D indicator light remains on and does not turn off for approximately 2 seconds after ignition ON mode."
+    },
+    {
+      "type": "paragraph",
+      "text": "Inspection items/action items"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Combination Meter Self-Diagnosis do",
+          "refs": [
+            {
+              "id": "T001427",
+              "label": "Combination Meter Self-Diagnosis",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "In the HDS body electrical menu, check the F-CAN communication line between the PGM-FI ECU and the combination meter for any abnormalities."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "probable cause"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Defective combination meter"
+        },
+        {
+          "text": "D Indicator light bulb check continuity failure"
+        },
+        {
+          "text": "Disconnection or short circuit of the F-CAN communication line between the PGM-FI ECU and the combination meter"
+        },
+        {
+          "text": "Defective PGM-FI ECU"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986098_jpn/web/html/T986098_jpn_Content.html",
+  "inOutline": true
+}

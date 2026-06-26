@@ -1,0 +1,145 @@
+{
+  "id": "climate_control",
+  "category": "electrical_diagram",
+  "title": "Climate Control",
+  "system": "climate_control",
+  "sheetCount": 8,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/climate_control/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/climate_control/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/climate_control/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/climate_control/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/climate_control/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/climate_control/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/climate_control/sheet7.svg"
+    },
+    {
+      "name": "sheet8",
+      "asset": "assets/svg/climate_control/sheet8.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "A/C Compressor",
+      "A/C Pressure Sensor",
+      "Air Mix Control Motor",
+      "Automatic Lighting/Sunlight Sensor",
+      "Blower Motor",
+      "Blower Motor Relay",
+      "Climate Control Unit",
+      "Compressor Clutch Relay",
+      "ECON Switch",
+      "ECT Sensor 2",
+      "Engine Start/Stop Switch",
+      "Evaporator Temperature Sensor",
+      "Gauge Control Module",
+      "Humidity/In-Car Temperature Sensor",
+      "IG1 Relay 1",
+      "IG1 Relay 2",
+      "Mode Control Motor",
+      "Outside Air Temperature Sensor",
+      "PCM",
+      "Power Transistor",
+      "Radiator Fan Motor",
+      "Radiator Fan Relay",
+      "Recirculation Control Motor",
+      "Taillight Relay"
+    ],
+    "Couplers": [
+      "A/C Compressor 1P Connector (Female)",
+      "A/C Pressure Sensor 2P Connector (Female)",
+      "Air Mix Control Motor 5P Connector (Female)",
+      "Automatic Lighting/Sunlight Sensor 7P Connector (Female)",
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "Blower Motor 2P Connector (Female)",
+      "C003 (Female)",
+      "C004 (Female)",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "C120 (Male)|C120 (Female)",
+      "Climate Control Unit 32P Connector (Female)",
+      "Data Link Connector (DLC) (Female)",
+      "ECON Switch 4P Connector (Female)",
+      "ECT Sensor 2 2P Connector (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Evaporator Temperature Sensor 2P Connector (Female)",
+      "Gauge Control Module 32P Connector (Female)",
+      "Humidity/In-Car Temperature Sensor 2P Connector (Female)",
+      "Mode Control Motor 7P Connector (Female)",
+      "Outside Air Temperature Sensor 2P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "Power Transistor 4P Connector (Female)",
+      "Radiator Fan Motor 2P Connector (Female)",
+      "Recirculation Control Motor 4P Connector (Female)",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector N (4P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Y (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_BACK_UP(BST)",
+      "+B_BACK_UP_MAIN(P/S)",
+      "+B_BLOWER",
+      "+B_DC/DC_1",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_MG_CLUTCH",
+      "+B_RAD_FAN",
+      "+B_SMALL",
+      "+B_SMART",
+      "+B_VBU_SOL(PUSH_SMART)",
+      "07_IG1_RELAY_1",
+      "16_IG1_RELAY_2",
+      "25_IG2_RR_DEF",
+      "26_IG2_A/C",
+      "IG1_METER(P/S)",
+      "IG1_MICU(P/S)"
+    ],
+    "Grounds": [
+      "G301",
+      "G401",
+      "G402",
+      "G403"
+    ],
+    "Harnesses": [
+      "BC Combinetion Switch Subharness",
+      "BD Dashboard Wire Harness",
+      "BQ Roof Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

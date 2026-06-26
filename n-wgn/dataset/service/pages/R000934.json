@@ -1,0 +1,90 @@
+{
+  "id": "R000934",
+  "title": "Check door lock knob switch",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "door (Western-style)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000934",
+  "assets": [
+    "934_3.0_jpn_11337330_2.0_disp.png",
+    "934_3.0_jpn_11353093_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000720",
+      "label": "Driver Door Lining Removal",
+      "resolved": true
+    },
+    {
+      "id": "R000722",
+      "label": "Replace front door latch (C).",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Check door lock knob switch"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Driver Door Lining Removal",
+      "refs": [
+        {
+          "id": "R000720",
+          "label": "Driver Door Lining Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Driver Door lock knob switch Check"
+    },
+    {
+      "type": "figure",
+      "asset": "934_3.0_jpn_11353093_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "934_3.0_jpn_11337330_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Inspect the continuity between terminals in each position of the coupler (B) and confirm that there is continuity only between ○ and ○. If there is no continuity, front door lock knob switch is defective, Replace front door latch (C). Connect the coupler.",
+      "refs": [
+        {
+          "id": "R000722",
+          "label": "Replace front door latch (C).",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000934_jpn/web/html/R000934_jpn_Content.html",
+  "inOutline": true
+}

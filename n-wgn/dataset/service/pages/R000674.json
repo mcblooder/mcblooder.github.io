@@ -1,0 +1,455 @@
+{
+  "id": "R000674",
+  "title": "Rear axle beam removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "suspension",
+  "sectionCode": "B",
+  "subsection": "Rear Suspension",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "4WD vehicle",
+  "models": [
+    "JH2"
+  ],
+  "assetDir": "assets/R000674",
+  "assets": [
+    "674_3.0_jpn_11035791_3.0_disp.png",
+    "674_3.0_jpn_11035792_4.0_disp.png",
+    "674_3.0_jpn_11035793_3.0_disp.png",
+    "674_3.0_jpn_11035795_3.0_disp.png",
+    "674_3.0_jpn_11293165_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Rear wheel removal",
+      "resolved": true
+    },
+    {
+      "id": "R000695",
+      "label": "Brake drum removal",
+      "resolved": true
+    },
+    {
+      "id": "R000715",
+      "label": "Rear wheel sensor removal",
+      "resolved": true
+    },
+    {
+      "id": "R000672",
+      "label": "Hub bearing unit removal",
+      "resolved": true
+    },
+    {
+      "id": "R000989",
+      "label": "Disconnect the headlight leveling sensor from the rear axle beam.",
+      "resolved": true
+    },
+    {
+      "id": "R000615",
+      "label": "Propeller shaft removal",
+      "resolved": true
+    },
+    {
+      "id": "R000622",
+      "label": "Rear differential removal",
+      "resolved": true
+    },
+    {
+      "id": "R000612",
+      "label": "Rear drive shaft removal",
+      "resolved": true
+    },
+    {
+      "id": "R000678",
+      "label": "Rear spring removal",
+      "resolved": true
+    },
+    {
+      "id": "R000685",
+      "label": "Brake air bleed",
+      "resolved": true
+    },
+    {
+      "id": "R000655",
+      "label": "Wheel alignment Inspection and adjustment",
+      "resolved": true
+    },
+    {
+      "id": "R000714",
+      "label": "VSA sensor Midpoint write",
+      "resolved": true
+    },
+    {
+      "id": "R000915",
+      "label": "Headlight initial position learning (vehicles equipped with headlight leveling system)",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear axle beam removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Rear wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Parking brake release"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Brake drum removal",
+      "refs": [
+        {
+          "id": "R000695",
+          "label": "Brake drum removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Parking brake cable removal"
+    },
+    {
+      "type": "figure",
+      "asset": "674_3.0_jpn_11035791_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the parking brake cable (A). Do not disconnect the parking brake cable."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Brake pipe removal"
+    },
+    {
+      "type": "figure",
+      "asset": "674_3.0_jpn_11035792_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the brake pipe (A) and clip (B), and remove the brake hose (C) from the rear axle beam."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "To prevent brake fluid from spilling out, the joints of the disconnected hoses must be covered with plugs or other means.",
+        "Do not allow brake fluid to adhere to painted surfaces. If it does adhere, wash it off with water immediately.",
+        "When installing, do not twist the brake hose forcibly.",
+        "When installing, replace the brake hose fixing clip with a new one."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "To prevent brake fluid from spilling out, the joints of the disconnected hoses must be covered with plugs or other means."
+        },
+        {
+          "text": "To prevent brake fluid from spilling out, the joints of the disconnected hoses must be covered with plugs or other means."
+        },
+        {
+          "text": "Do not allow brake fluid to adhere to painted surfaces. If it does adhere, wash it off with water immediately."
+        },
+        {
+          "text": "Do not allow brake fluid to adhere to painted surfaces. If it does adhere, wash it off with water immediately."
+        },
+        {
+          "text": "When installing, do not twist the brake hose forcibly."
+        },
+        {
+          "text": "When installing, do not twist the brake hose forcibly."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Rear wheel sensor removal",
+      "refs": [
+        {
+          "id": "R000715",
+          "label": "Rear wheel sensor removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not disconnect the wheel sensor cord."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Hub bearing unit removal",
+      "refs": [
+        {
+          "id": "R000672",
+          "label": "Hub bearing unit removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Rear brake removal"
+    },
+    {
+      "type": "figure",
+      "asset": "674_3.0_jpn_11035793_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the brake assembly (A) from the rear axle beam."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not forcibly twist or strongly bend the parking brake cable. A deformed or damaged cable may cause malfunction or cut damage.",
+        "To prevent damage to other parts, the brake assembly should be secured with a wire or other means."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do not forcibly twist or strongly bend the parking brake cable. A deformed or damaged cable may cause malfunction or cut damage."
+        },
+        {
+          "text": "Do not forcibly twist or strongly bend the parking brake cable. A deformed or damaged cable may cause malfunction or cut damage."
+        },
+        {
+          "text": "To prevent damage to other parts, the brake assembly should be secured with a wire or other means."
+        },
+        {
+          "text": "To prevent damage to other parts, the brake assembly should be secured with a wire or other means."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Headlight leveling sensor disconnection (vehicles equipped with headlight leveling system)"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the headlight leveling sensor from the rear axle beam.",
+      "refs": [
+        {
+          "id": "R000989",
+          "label": "Disconnect the headlight leveling sensor from the rear axle beam.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Propeller shaft removal",
+      "refs": [
+        {
+          "id": "R000615",
+          "label": "Propeller shaft removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. Rear differential removal",
+      "refs": [
+        {
+          "id": "R000622",
+          "label": "Rear differential removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "13. Rear drive shaft removal",
+      "refs": [
+        {
+          "id": "R000612",
+          "label": "Rear drive shaft removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "14. Wheel sensor holder removal"
+    },
+    {
+      "type": "figure",
+      "asset": "674_3.0_jpn_11293165_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the wheel sensor holder (A). When mounting, install the wheel sensor holder in the orientation shown in the figure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "15. Rear spring removal",
+      "refs": [
+        {
+          "id": "R000678",
+          "label": "Rear spring removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "16. Rear axle beam removal"
+    },
+    {
+      "type": "figure",
+      "asset": "674_3.0_jpn_11035795_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Support the left and right spring lower seats (B) of the rear axle beam (A) with a jack. Remove the right and left rear axle beam mounting bolts (C), lower the jack and remove the rear axle beam from the vehicle body. When installing, replace the rear axle beam mounting bolts with new ones."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not apply a jack to the center of the rear axle beam (torsion beam)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "17. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Pay attention to the following items and install in the reverse order of removal."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For tightening the bushing part, tighten it to the specified torque with the vehicle weight applied after mounting it in a temporarily tightened condition."
+        },
+        {
+          "text": "For tightening the bushing part, tighten it to the specified torque with the vehicle weight applied after mounting it in a temporarily tightened condition."
+        },
+        {
+          "text": "After installing the wheel sensor cord, parking brake cable and brake hose, make sure there is no interference or kinking with other parts."
+        },
+        {
+          "text": "After installing the wheel sensor cord, parking brake cable and brake hose, make sure there is no interference or kinking with other parts."
+        },
+        {
+          "text": "Ensure that there is no interference between the brake pipe and the rear axle beam."
+        },
+        {
+          "text": "Ensure that there is no interference between the brake pipe and the rear axle beam."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "18. Brake air bleed",
+      "refs": [
+        {
+          "id": "R000685",
+          "label": "Brake air bleed",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "19. Wheel alignment Inspection and adjustment",
+      "refs": [
+        {
+          "id": "R000655",
+          "label": "Wheel alignment Inspection and adjustment",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "20. VSA sensor Midpoint write",
+      "refs": [
+        {
+          "id": "R000714",
+          "label": "VSA sensor Midpoint write",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "21. Headlight initial position learning (vehicles equipped with headlight leveling system)",
+      "refs": [
+        {
+          "id": "R000915",
+          "label": "Headlight initial position learning (vehicles equipped with headlight leveling system)",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000674_jpn/web/html/R000674_jpn_Content.html",
+  "inOutline": true
+}

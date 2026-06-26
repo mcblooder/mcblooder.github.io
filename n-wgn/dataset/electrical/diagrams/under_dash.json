@@ -1,0 +1,50 @@
+{
+  "id": "under_dash",
+  "category": "electrical_diagram",
+  "title": "Under Dash",
+  "system": "under_dash",
+  "sheetCount": 10,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/under_dash/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/under_dash/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/under_dash/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/under_dash/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/under_dash/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/under_dash/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/under_dash/sheet7.svg"
+    },
+    {
+      "name": "sheet8",
+      "asset": "assets/svg/under_dash/sheet8.svg"
+    },
+    {
+      "name": "sheet9",
+      "asset": "assets/svg/under_dash/sheet9.svg"
+    },
+    {
+      "name": "sheet10",
+      "asset": "assets/svg/under_dash/sheet10.svg"
+    }
+  ],
+  "components": {}
+}

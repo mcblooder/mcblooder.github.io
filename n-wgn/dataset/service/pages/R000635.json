@@ -1,0 +1,135 @@
+{
+  "id": "R000635",
+  "title": "Dismantle and reassemble steering wheel",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000635",
+  "assets": [
+    "635_3.0_jpn_11035552_3.0_disp.png",
+    "635_3.0_jpn_11035553_3.0_disp.png",
+    "635_3.0_jpn_11035554_3.0_disp.png",
+    "635_3.0_jpn_11035555_3.0_disp.png",
+    "635_3.0_jpn_11035556_3.0_disp.png",
+    "635_3.0_jpn_11035557_3.0_disp.png",
+    "635_3.0_jpn_11293130_2.0_disp.png",
+    "635_3.0_jpn_11364646_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Dismantle and reassemble steering wheel"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Steering Wheel Development"
+    },
+    {
+      "type": "figure",
+      "asset": "635_3.0_jpn_11293130_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. HFT switch removal"
+    },
+    {
+      "type": "figure",
+      "asset": "635_3.0_jpn_11364646_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the switch cover (A). Remove the HFT switch (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Body cover removal"
+    },
+    {
+      "type": "figure",
+      "asset": "635_3.0_jpn_11035552_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the body cover (A). Remove the garnish (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Audio remote switch removal (models equipped with audio remote switch)"
+    },
+    {
+      "type": "figure",
+      "asset": "635_3.0_jpn_11035553_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Cruise Control Combination Switch Removal (for vehicles equipped with cruise control)"
+    },
+    {
+      "type": "figure",
+      "asset": "635_3.0_jpn_11035554_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Paddle shift switch removal (paddle shift equipped vehicles)"
+    },
+    {
+      "type": "figure",
+      "asset": "635_3.0_jpn_11035555_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the paddle shift switch + (A). Remove the paddle shift switch- (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Cable reel sub harness removal"
+    },
+    {
+      "type": "figure",
+      "asset": "635_3.0_jpn_11035556_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Cord Guide Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "635_3.0_jpn_11035557_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000635_jpn/web/html/R000635_jpn_Content.html",
+  "inOutline": true
+}

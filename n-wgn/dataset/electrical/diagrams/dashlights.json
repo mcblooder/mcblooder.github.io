@@ -1,0 +1,113 @@
+{
+  "id": "dashlights",
+  "category": "electrical_diagram",
+  "title": "Dashlights",
+  "system": "dashlights",
+  "sheetCount": 9,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/dashlights/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/dashlights/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/dashlights/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/dashlights/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/dashlights/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/dashlights/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/dashlights/sheet7.svg"
+    },
+    {
+      "name": "sheet8",
+      "asset": "assets/svg/dashlights/sheet8.svg"
+    },
+    {
+      "name": "sheet9",
+      "asset": "assets/svg/dashlights/sheet9.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Audio Remote/Multi-Information Display Switch",
+      "Cable Reel",
+      "City-Brake Active System OFF Switch",
+      "Climate Control Unit",
+      "Combination Light Switch",
+      "Cruise Control Combination Switch",
+      "ECON Switch",
+      "Engine Start/Stop Switch",
+      "HFL-Navigation Voice Control Switch",
+      "Hazard Warning Switch",
+      "Park Pin Switch",
+      "Power Window Master Switch",
+      "Taillight Relay",
+      "VSA OFF Switch"
+    ],
+    "Couplers": [
+      "Audio Remote/Multi-Information Display Switch 12P Connector (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "C120 (Male)|C120 (Female)",
+      "Cable Reel Connector A (20P) (Female)",
+      "Cable Reel Connector C (20P) (Female)",
+      "City-Brake Active System OFF Switch 6P Connector (Female)",
+      "Climate Control Unit 32P Connector (Female)",
+      "Combination Light Switch 12P Connector (Female)",
+      "Cruise Control Combination Switch 12P Connector (Female)",
+      "ECON Switch 4P Connector (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "HFL-Navigation Voice Control Switch 4P Connector (Female)",
+      "Hazard Warning Switch 4P Connector (Female)",
+      "Park Pin Switch 6P Connector (Female)",
+      "Power Window Master Switch 24P Connector (Female)",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector U (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box",
+      "VSA OFF Switch 5P Connector (Female)"
+    ],
+    "Fuses": [
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMALL",
+      "+B_SMART"
+    ],
+    "Grounds": [
+      "G402",
+      "G403",
+      "G451"
+    ],
+    "Harnesses": [
+      "BB Cable Reel Subharness",
+      "BC Combinetion Switch Subharness",
+      "BD Dashboard Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

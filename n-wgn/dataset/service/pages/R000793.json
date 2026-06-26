@@ -1,0 +1,78 @@
+{
+  "id": "R000793",
+  "title": "Front Seat Armrest Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "sheet",
+  "system": "Front Seat",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000793",
+  "assets": [
+    "793_3.0_jpn_11581328_3.0_disp.png",
+    "793_3.0_jpn_11581329_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000797",
+      "label": "Turn up the seat back trim cover as needed.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front Seat Armrest Removal and Installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front seat armrest removal"
+    },
+    {
+      "type": "figure",
+      "asset": "793_3.0_jpn_11581328_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the cap (A). Remove the nut. Remove the front seat armrests (B). If necessary, remove the nylon bushing (C) and wave washer (D)."
+    },
+    {
+      "type": "figure",
+      "asset": "793_3.0_jpn_11581329_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Turn up the seat back trim cover as needed. Remove the armrest pin (A).",
+      "refs": [
+        {
+          "id": "R000797",
+          "label": "Turn up the seat back trim cover as needed.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000793_jpn/web/html/R000793_jpn_Content.html",
+  "inOutline": true
+}

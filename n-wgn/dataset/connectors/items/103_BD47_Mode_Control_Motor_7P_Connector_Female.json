@@ -1,0 +1,133 @@
+{
+  "id": "103_BD47_Mode_Control_Motor_7P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD47",
+  "physicalIds": [
+    "BD47"
+  ],
+  "name": "Mode Control Motor 7P Connector (Female)",
+  "nameRu": "Разъём Mode Control электродвигатель, 7 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 7,
+  "populatedPinCount": 7,
+  "faceviewPart": "98680-00007-00",
+  "partNumbers": [
+    "98680-00007-00"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Climate Control"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/98680-00007-00.svg",
+    "viewBox": "0 0 198.896 46.008",
+    "width": 198.896,
+    "height": 46.008
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "SENSER_COM",
+      "english": "sensor, common",
+      "russian": "датчик, общий",
+      "terminal": "331A",
+      "geometry": {
+        "x": 12.163,
+        "y": 34.394,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "MODE1",
+      "english": "MODE1",
+      "russian": "MODE1",
+      "terminal": "316B",
+      "geometry": {
+        "x": 40.476,
+        "y": 34.394,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "MODE2",
+      "english": "MODE2",
+      "russian": "MODE2",
+      "terminal": "317C",
+      "geometry": {
+        "x": 68.789,
+        "y": 34.394,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "MODE3",
+      "english": "MODE3",
+      "russian": "MODE3",
+      "terminal": "318D",
+      "geometry": {
+        "x": 97.101,
+        "y": 34.394,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "MODE4",
+      "english": "MODE4",
+      "russian": "MODE4",
+      "terminal": "319E",
+      "geometry": {
+        "x": 125.414,
+        "y": 34.394,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "RED",
+      "circuit": "MODE_MTR_DEF",
+      "english": "MODE, motor, defogger",
+      "russian": "MODE, электродвигатель, обогрев стекла",
+      "terminal": "315F",
+      "geometry": {
+        "x": 153.727,
+        "y": 34.394,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "MODE_MTR_VENT",
+      "english": "MODE, motor, VENT",
+      "russian": "MODE, электродвигатель, VENT",
+      "terminal": "314G",
+      "geometry": {
+        "x": 182.039,
+        "y": 34.394,
+        "svgTextId": "SVGID_7_"
+      }
+    }
+  ]
+}

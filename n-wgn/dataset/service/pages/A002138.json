@@ -1,0 +1,131 @@
+{
+  "id": "A002138",
+  "title": "DTC Explanation: P0097",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A002138",
+  "assets": [
+    "2138_3.0_jpn_11231250_3.0_disp.png",
+    "2138_3.0_jpn_11399166_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0097"
+    },
+    {
+      "type": "dtc",
+      "code": "P0097",
+      "text": "DTC P0097: Intake air temperature sensor 2 voltage low"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "2138_3.0_jpn_11399166_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2138_3.0_jpn_11231250_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Intake air temperature sensor 2 uses a thermistor to detect intake air temperature and compensate for changes in air density due to temperature. The electrical resistance of the intake air temperature sensor 2 varies with temperature. When the intake air temperature decreases, the electrical resistance increases and the PGM-FI ECU detects a higher voltage. When the intake air temperature increases, the electrical resistance decreases and the PGM-FI ECU detects a lower voltage. If the intake air temperature sensor 2 output voltage remains below a predetermined value for a predetermined period of time, the PGM-FI ECU judges a failure and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "D/C: Drive Cycle"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "condition entry",
+          ""
+        ],
+        [
+          "Ignition switch/ ENGINE START STOP switch",
+          "Ignition ON mode"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "Intake air temperature sensor 2 output voltage [intake air temperature sensor 2] remains below 0.08V for more than 2.0 seconds."
+    },
+    {
+      "type": "paragraph",
+      "text": "[ ]: HDS Parameters"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Ground fault in code (INTA line) between PGM-FI ECU and intake air temperature sensor 2"
+        },
+        {
+          "text": "Failure of intake air temperature sensor 2"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the PGM-FI warning light comes on and the DTC and freeze data are stored."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A002138_jpn/web/html/A002138_jpn_Content.html",
+  "inOutline": true
+}

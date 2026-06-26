@@ -1,0 +1,55 @@
+{
+  "id": "T986121",
+  "title": "VSA OFF warning light does not turn off",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986121",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R000714",
+      "label": "Perform midpoint learning of VSA sensor",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VSA OFF warning light does not turn off"
+    },
+    {
+      "type": "paragraph",
+      "text": "diagnostic procedure"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Perform midpoint learning of VSA sensor",
+          "refs": [
+            {
+              "id": "R000714",
+              "label": "Perform midpoint learning of VSA sensor",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986121_jpn/web/html/T986121_jpn_Content.html",
+  "inOutline": true
+}

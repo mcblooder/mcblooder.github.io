@@ -1,0 +1,90 @@
+{
+  "id": "140_BD33_Recirculation_Control_Motor_4P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD33",
+  "physicalIds": [
+    "BD33"
+  ],
+  "name": "Recirculation Control Motor 4P Connector (Female)",
+  "nameRu": "Разъём Recirculation Control электродвигатель, 4 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 3,
+  "faceviewPart": "91760-SR3 -0030",
+  "partNumbers": [
+    "91760-SR3 -0030"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Climate Control"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91760-SR3 -0030.svg",
+    "viewBox": "0 0 91.454 37.032",
+    "width": 91.454,
+    "height": 37.032
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "F/R_MTR(FRESH)",
+      "english": "F / R, motor, FRESH",
+      "russian": "F / R, электродвигатель, FRESH",
+      "terminal": "321A",
+      "geometry": {
+        "x": 9.488,
+        "y": 28.161,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "F/R_MTR(REC)",
+      "english": "F / R, motor, REC",
+      "russian": "F / R, электродвигатель, REC",
+      "terminal": "322B",
+      "geometry": {
+        "x": 32.164,
+        "y": 28.161,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 54.84,
+        "y": 28.161,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "IG2_A/C",
+      "english": "ignition IG2, air conditioning",
+      "russian": "зажигание IG2, кондиционер",
+      "terminal": "G22D",
+      "geometry": {
+        "x": 77.516,
+        "y": 28.161,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "power_windows",
+  "category": "electrical_diagram",
+  "title": "Power Windows",
+  "system": "power_windows",
+  "sheetCount": 6,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/power_windows/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/power_windows/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/power_windows/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/power_windows/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/power_windows/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/power_windows/sheet6.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Driver's Power Window Motor",
+      "Engine Start/Stop Switch",
+      "Front Passenger's Power Window Motor",
+      "Front Passenger's Power Window Switch",
+      "Left Rear Power Window Motor",
+      "Left Rear Power Window Switch",
+      "Power Window Master Switch",
+      "Power Window Relay",
+      "Right Rear Power Window Motor",
+      "Right Rear Power Window Switch"
+    ],
+    "Couplers": [
+      "C109 (Male)|C109 (Female)",
+      "C110 (Male)|C110 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C115 (Male)|C115 (Female)",
+      "C118 (Male)|C118 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "Driver's Power Window Motor 6P Connector (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Front Passenger's Power Window Motor 2P Connector (Female)",
+      "Front Passenger's Power Window Switch 5P Connector (Female)",
+      "Left Rear Power Window Motor 2P Connector (Female)",
+      "Left Rear Power Window Switch 5P Connector (Female)",
+      "Power Window Master Switch 24P Connector (Female)",
+      "Right Rear Power Window Motor 2P Connector (Female)",
+      "Right Rear Power Window Switch 5P Connector (Female)",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector E (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector F (18P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_P/W_DR",
+      "+B_SMART",
+      "05_IG1_RR_WIPER",
+      "17_P/W_RR_L_MAIN",
+      "18_P/W_AS_MAIN",
+      "P/W_RR_R_MAIN"
+    ],
+    "Grounds": [
+      "G402"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "DH Front Passenger's Door Wire Harness",
+      "DJ Left Rear Door Wire Harness",
+      "DN Right Rear Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

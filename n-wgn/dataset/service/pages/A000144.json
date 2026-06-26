@@ -1,0 +1,181 @@
+{
+  "id": "A000144",
+  "title": "DTC Commentary: P1898",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000144",
+  "assets": [
+    "144_3.0_jpn_11033684_4.0_disp.png",
+    "144_3.0_jpn_11033685_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Commentary: P1898"
+    },
+    {
+      "type": "dtc",
+      "code": "P1898",
+      "text": "DTC P1898: Drive pulley control SOL.V. ON stuck or driven pulley control SOL.V. OFF stuck"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "144_3.0_jpn_11033684_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The drive pulley control SOL.V. and driven pulley control SOL.V. control the hydraulic pressure in the hydraulic circuit. The spools in the drive pulley control SOL.V. and driven pulley control SOL.V. push valves in response to duty (load) outputs converted to current values by the PGM-FI ECU. As a result, the valve pushed by the spool releases oil pressure proportional to the current value. The PGM-FI ECU measures the current flowing in the linear solenoids of the drive pulley control SOL.V. and driven pulley control SOL.V., and feeds back control of the resulting difference compared to the command current at the duty output. The PGM-FI ECU outputs a control signal for drive/driven pulley hydraulic pressure for proper gear shifting. If the pulley ratio is within the specified range from in-gear (driving force transmission state) vehicle stop to running state, the PGM-FI ECU judges that the drive pulley control SOL.V. is stuck ON or the driven pulley control SOL.V. is stuck OFF and stores DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "D/C: Drive Cycle"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*: Symptom 1 **: Symptom 2 [ ]: HDS Parameters"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "If any of the following symptoms are present"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "symptoms",
+          "Vehicle Condition",
+          "Information detected by PGM-FI ECU"
+        ],
+        [
+          "1",
+          "In-gear stop",
+          "Pulley ratio greater than 2 and less than 3 for more than 0.4 seconds"
+        ],
+        [
+          "2",
+          "running",
+          "Pulley ratio greater than 1.8 and less than 3"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "ON sticking of drive pulley control SOL.V."
+        },
+        {
+          "text": "OFF sticking of Driven Pulley control SOL.V."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "figure",
+      "asset": "144_3.0_jpn_11033685_4.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Start the engine."
+        },
+        {
+          "text": "Drive until the vehicle speed [vehicle speed] reaches 60 km/h."
+        },
+        {
+          "text": "Decelerate/stop."
+        },
+        {
+          "text": "Fully open the accelerator pedal to start the car."
+        },
+        {
+          "text": "Decelerate/stop the car and put the ignition in the OFF (LOCK) mode."
+        },
+        {
+          "text": "Repeat test run steps 1 through 5."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When conducting test drives, the driver must comply with all laws and regulations, observe good manners, and drive in accordance with the surrounding conditions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "None."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the D indicator light will flash without the PGM-FI warning light illuminating, and the DTC and freeze data will be stored."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use of the clear command of the scan tool (including HDS) or removal of the 12V battery terminal will clear the D indicator light, temporary DTC, DTC, and freeze data."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000144_jpn/web/html/A000144_jpn_Content.html",
+  "inOutline": true
+}

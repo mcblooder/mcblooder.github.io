@@ -1,0 +1,62 @@
+{
+  "id": "172_EA31_Left_Discharge_Headlight_Unit_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA31",
+  "physicalIds": [
+    "EA31"
+  ],
+  "name": "Left Discharge Headlight Unit 2P Connector (Female)",
+  "nameRu": "Разъём левый Discharge Headlight Unit, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91722-PY4 -0030",
+  "partNumbers": [
+    "91722-PY4 -0030"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Left Side"
+  ],
+  "systems": [
+    "Headlights"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91722-PY4 -0030.svg",
+    "viewBox": "0 0 65.906 37.56",
+    "width": 65.906,
+    "height": 37.56
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "L_H/L_LO",
+      "english": "left, H / L, low",
+      "russian": "левый, H / L, низкий",
+      "terminal": "6A001",
+      "geometry": {
+        "x": 16.929,
+        "y": 25.931,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-L)",
+      "english": "Ground (ENG-L)",
+      "russian": "Масса (ENG-L)",
+      "terminal": "Z20D",
+      "geometry": {
+        "x": 45.276,
+        "y": 25.931,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

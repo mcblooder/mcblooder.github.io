@@ -1,0 +1,178 @@
+{
+  "id": "G000972",
+  "title": "Front Fog Light Configuration Diagram",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Fog Lights",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000972",
+  "assets": [
+    "972_4.0_jpn_11580798_4.0_disp.png",
+    "972_4.0_jpn_11677565_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000927",
+      "label": "R000927",
+      "resolved": true
+    },
+    {
+      "id": "R000973",
+      "label": "R000973",
+      "resolved": true
+    },
+    {
+      "id": "R000974",
+      "label": "R000974",
+      "resolved": true
+    },
+    {
+      "id": "R000975",
+      "label": "R000975",
+      "resolved": true
+    },
+    {
+      "id": "R000960",
+      "label": "R000960",
+      "resolved": true
+    },
+    {
+      "id": "T001411",
+      "label": "T001411",
+      "resolved": true
+    },
+    {
+      "id": "R000925",
+      "label": "R000925",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front Fog Light Configuration Diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "972_4.0_jpn_11677565_3.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            246.0,
+            119.0,
+            268.0,
+            133.0
+          ],
+          "ref": {
+            "id": "R000927",
+            "label": "R000927",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            89.0,
+            619.0,
+            111.0,
+            633.0
+          ],
+          "ref": {
+            "id": "R000973",
+            "label": "R000973",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            89.0,
+            630.0,
+            154.0,
+            644.0
+          ],
+          "ref": {
+            "id": "R000974",
+            "label": "R000974",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            89.0,
+            640.0,
+            133.0,
+            654.0
+          ],
+          "ref": {
+            "id": "R000975",
+            "label": "R000975",
+            "resolved": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "972_4.0_jpn_11580798_4.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            106.0,
+            594.0,
+            157.0,
+            608.0
+          ],
+          "ref": {
+            "id": "R000960",
+            "label": "R000960",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            282.0,
+            640.0,
+            326.0,
+            654.0
+          ],
+          "ref": {
+            "id": "T001411",
+            "label": "T001411",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            282.0,
+            650.0,
+            304.0,
+            664.0
+          ],
+          "ref": {
+            "id": "R000925",
+            "label": "R000925",
+            "resolved": true
+          }
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131205174051/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000972_jpn/web/html/G000972_jpn_Content.html",
+  "inOutline": true
+}

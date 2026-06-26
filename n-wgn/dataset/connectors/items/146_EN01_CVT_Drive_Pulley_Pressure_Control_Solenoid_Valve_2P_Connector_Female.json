@@ -1,0 +1,63 @@
+{
+  "id": "146_EN01_CVT_Drive_Pulley_Pressure_Control_Solenoid_Valve_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EN01",
+  "physicalIds": [
+    "EN01"
+  ],
+  "name": "CVT Drive Pulley Pressure Control Solenoid Valve 2P Connector (Female)",
+  "nameRu": "Разъём CVT Drive Pulley Pressure электромагнитный клапан управления, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91701-R9L -0030-H1",
+  "partNumbers": [
+    "91701-R9L -0030-H1"
+  ],
+  "harnesses": [
+    "28370-5Z3_-0050"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Left Side)"
+  ],
+  "systems": [
+    "CVT Control System",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91701-R9L -0030-H1.svg",
+    "viewBox": "0 0 23.427 53.463",
+    "width": 23.427,
+    "height": 53.463
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "L/SOLA-(DRC-)",
+      "english": "L / SOLA -, DRC -",
+      "russian": "L / SOLA -, DRC -",
+      "terminal": "301A",
+      "geometry": {
+        "x": 9.488,
+        "y": 21.915,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "L/SOLA+(DRC+)",
+      "english": "L / SOLA +, DRC +",
+      "russian": "L / SOLA +, DRC +",
+      "terminal": "302A",
+      "geometry": {
+        "x": 9.488,
+        "y": 44.592,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

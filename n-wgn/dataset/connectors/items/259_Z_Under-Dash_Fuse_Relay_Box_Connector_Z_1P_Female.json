@@ -1,0 +1,48 @@
+{
+  "id": "259_Z_Under-Dash_Fuse_Relay_Box_Connector_Z_1P_Female",
+  "category": "connector",
+  "connectorRef": "Z",
+  "physicalIds": [
+    "Z"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector Z (1P), гнездовая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 1,
+  "faceviewPart": "DM",
+  "partNumbers": [],
+  "harnesses": [
+    "38200-T6G_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [],
+  "faceview": {
+    "asset": "assets/faceview/DM.svg",
+    "viewBox": "0 0 82.374 22.471",
+    "width": 82.374,
+    "height": 22.471
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "RED",
+      "circuit": "+B_F/BOX_MAIN",
+      "english": "Constant battery power: F / BOX, main",
+      "russian": "Постоянное питание от АКБ: F / BOX, главный",
+      "terminal": "B04A",
+      "geometry": null
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    }
+  ]
+}

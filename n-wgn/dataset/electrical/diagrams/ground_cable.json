@@ -1,0 +1,33 @@
+{
+  "id": "ground_cable",
+  "category": "electrical_diagram",
+  "title": "Ground Cable",
+  "system": "ground_cable",
+  "sheetCount": 1,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/ground_cable/sheet1.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Engine",
+      "Transmission Housing"
+    ],
+    "Couplers": [
+      "T3",
+      "T4"
+    ],
+    "Grounds": [
+      "G1",
+      "G2",
+      "G3"
+    ],
+    "Harnesses": [
+      "GA Battery Ground Cable",
+      "GC Engine Ground Cable",
+      "GH Transmission Ground Cable"
+    ]
+  }
+}

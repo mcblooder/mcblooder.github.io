@@ -1,0 +1,135 @@
+{
+  "id": "A000038",
+  "title": "DTC Explanation: P0340",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000038",
+  "assets": [
+    "38_3.0_jpn_11398181_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0340"
+    },
+    {
+      "type": "dtc",
+      "code": "P0340",
+      "text": "DTC P0340: VTC Cam Sensor No pulse"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "38_3.0_jpn_11398181_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The TDC sensor consists of a pulsar rotor and semiconductors that detect rotor position and intake camshaft timing. When the engine starts, the pulsar rotor rotates, causing the magnetic flux of the TDC sensor to fluctuate. The TDC sensor also detects the top dead center of each cylinder, and the PGM-FI ECU uses the pulse signals from the TDC sensor and the crank sensor to determine the intake camshaft position. If the pulse signal from the TDC sensor is not input, the PGM-FI ECU determines a failure and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "D/C: Drive Cycle"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "condition entry",
+          ""
+        ],
+        [
+          "Engine condition",
+          "in use"
+        ],
+        [
+          "DTC requesting the prohibition of detection of the relevant DTC",
+          "P0335､ P0339､ P0344"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "When no pulse signal is input from the TDC sensor during 300 consecutive detections of a pulse signal from the crank sensor."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Ground fault in code (TDCAM line) between PGM-FI ECU and TDC sensor"
+        },
+        {
+          "text": "Disconnection of code (TDCAM line) between PGM-FI ECU and TDC sensor"
+        },
+        {
+          "text": "Disconnection of TDC sensor cord (power supply line)"
+        },
+        {
+          "text": "Disconnection of code (CRKSG line) between PGM-FI ECU and TDC sensor"
+        },
+        {
+          "text": "TDC sensor failure"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to be faulty, the PGM-FI warning light comes on and the temporary DTC, DTC and freeze data are stored in the PGM-FI ECU memory."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000038_jpn/web/html/A000038_jpn_Content.html",
+  "inOutline": true
+}

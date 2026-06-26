@@ -1,0 +1,104 @@
+{
+  "id": "R001018",
+  "title": "Front wiper blade removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "Wiper/washer",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001018",
+  "assets": [
+    "1018_3.0_jpn_11580886_3.0_disp.png",
+    "1018_3.0_jpn_11580887_3.0_disp.png",
+    "1018_3.0_jpn_11580888_3.0_disp.png",
+    "1018_3.0_jpn_11580889_3.0_disp.png",
+    "1018_3.0_jpn_11589050_2.0_disp.png",
+    "1018_3.0_jpn_11589051_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front wiper blade removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front wiper blade removal"
+    },
+    {
+      "type": "figure",
+      "asset": "1018_3.0_jpn_11589050_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Release the lock (B) on the front wiper blade (A) and slide it off the front wiper arm (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "1018_3.0_jpn_11580886_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Pull the rubber (A) out of the front wiper blade (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "1018_3.0_jpn_11580887_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the retainer (A) from the rubber (B)."
+    },
+    {
+      "type": "paragraph",
+      "text": "After installation, check that the front wiper arm operates smoothly."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front wiper blade installation"
+    },
+    {
+      "type": "figure",
+      "asset": "1018_3.0_jpn_11580888_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Attach retainer (A) to rubber (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "1018_3.0_jpn_11580889_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Attach the rubber (A) to the front wiper blade (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "1018_3.0_jpn_11589051_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Attach the front wiper blade (A) to the front wiper arm (B)."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001018_jpn/web/html/R001018_jpn_Content.html",
+  "inOutline": true
+}

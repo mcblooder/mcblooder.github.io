@@ -1,0 +1,90 @@
+{
+  "id": "267_EA18_Windshield_Wiper_Motor_4P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA18",
+  "physicalIds": [
+    "EA18"
+  ],
+  "name": "Windshield Wiper Motor 4P Connector (Female)",
+  "nameRu": "Разъём Windshield Wiper электродвигатель, 4 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 4,
+  "faceviewPart": "91705-SNA -0030-H1",
+  "partNumbers": [
+    "91705-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Wiper/Washer (Windshield)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91705-SNA -0030-H1.svg",
+    "viewBox": "0 0 85.748 69.295",
+    "width": 85.748,
+    "height": 69.295
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-R)",
+      "english": "Ground (ENG-R)",
+      "russian": "Масса (ENG-R)",
+      "terminal": "Z15A001",
+      "geometry": {
+        "x": 40.523,
+        "y": 29.32,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "RED",
+      "circuit": "FR_WIPER_LO",
+      "english": "front, wiper, low",
+      "russian": "передний, стеклоочиститель, низкий",
+      "terminal": "400B",
+      "geometry": {
+        "x": 68.307,
+        "y": 29.883,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "FR_WIPER_AS",
+      "english": "front, wiper, AS",
+      "russian": "передний, стеклоочиститель, AS",
+      "terminal": "402C",
+      "geometry": {
+        "x": 24.347,
+        "y": 57.666,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "FR_WIPER_HI",
+      "english": "front, wiper, high",
+      "russian": "передний, стеклоочиститель, высокий",
+      "terminal": "401D",
+      "geometry": {
+        "x": 56.701,
+        "y": 57.666,
+        "svgTextId": "SVGID_4_"
+      }
+    }
+  ]
+}

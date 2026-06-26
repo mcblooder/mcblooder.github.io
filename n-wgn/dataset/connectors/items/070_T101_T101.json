@@ -1,0 +1,53 @@
+{
+  "id": "070_T101_T101",
+  "category": "connector",
+  "connectorRef": "T101",
+  "physicalIds": [
+    "T101"
+  ],
+  "name": "T101",
+  "nameRu": "Разъём T101",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "32412-RGA -9010-Y1",
+  "partNumbers": [
+    "32412-RGA -9010-Y1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)",
+    "Fuse/Relay Boxes > Under-Hood Fuse/Relay Box > Front Side"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Charging System",
+    "Energy Management System",
+    "Idle Control System",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/32412-RGA -9010-Y1.svg",
+    "viewBox": "0 0 23.427 50.227",
+    "width": 23.427,
+    "height": 50.227
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "ACG_+B",
+      "english": "alternator, +B",
+      "russian": "генератор, +B",
+      "terminal": "D00A",
+      "geometry": {
+        "x": 9.489,
+        "y": 35.171,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

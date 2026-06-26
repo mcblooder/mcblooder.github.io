@@ -1,0 +1,90 @@
+{
+  "id": "242_BD03_Front_Passenger_s_Airbag_Inflator_4P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD03",
+  "physicalIds": [
+    "BD03"
+  ],
+  "name": "Front Passenger's Airbag Inflator 4P Connector (Female)",
+  "nameRu": "Разъём передний пассажира Airbag Inflator, 4 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 2,
+  "faceviewPart": "77978-SNA -0030-H1",
+  "partNumbers": [
+    "77978-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "SRS"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/77978-SNA -0030-H1.svg",
+    "viewBox": "0 0 95.706 50.271",
+    "width": 95.706,
+    "height": 50.271
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 10.105,
+        "y": 31.945,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "LA1+",
+      "english": "LA1 +",
+      "russian": "LA1 +",
+      "terminal": "S05B",
+      "geometry": {
+        "x": 30.757,
+        "y": 31.945,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "LA1-",
+      "english": "LA1 -",
+      "russian": "LA1 -",
+      "terminal": "S06C",
+      "geometry": {
+        "x": 59.669,
+        "y": 31.945,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 80.322,
+        "y": 31.945,
+        "svgTextId": "SVGID_4_"
+      }
+    }
+  ]
+}

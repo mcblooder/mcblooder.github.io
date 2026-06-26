@@ -1,0 +1,63 @@
+{
+  "id": "105_BD43_Humidity_In-Car_Temperature_Sensor_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD43",
+  "physicalIds": [
+    "BD43"
+  ],
+  "name": "Humidity/In-Car Temperature Sensor 2P Connector (Female)",
+  "nameRu": "Разъём Humidity/In-Car Temperature датчик, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91764-SFA -0030-H1",
+  "partNumbers": [
+    "91764-SFA -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Climate Control"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91764-SFA -0030-H1.svg",
+    "viewBox": "0 0 57.332 46.825",
+    "width": 57.332,
+    "height": 46.825
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "TR",
+      "english": "TR",
+      "russian": "TR",
+      "terminal": "334A",
+      "geometry": {
+        "x": 12.163,
+        "y": 29.549,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "SENSER_COM",
+      "english": "sensor, common",
+      "russian": "датчик, общий",
+      "terminal": "331B",
+      "geometry": {
+        "x": 40.476,
+        "y": 29.549,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

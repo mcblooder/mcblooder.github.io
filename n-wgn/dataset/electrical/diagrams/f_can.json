@@ -1,0 +1,53 @@
+{
+  "id": "f_can",
+  "category": "electrical_diagram",
+  "title": "F-CAN Communication Line",
+  "system": "f_can",
+  "sheetCount": 3,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/f_can/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/f_can/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/f_can/sheet3.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Audio Unit",
+      "City-Brake Active System",
+      "EPS Control Unit",
+      "Gauge Control Module",
+      "PCM",
+      "SRS Unit",
+      "Steering Angle Sensor",
+      "VSA Modulator-Control Unit"
+    ],
+    "Couplers": [
+      "Audio Unit Connector C (24P) (Female)",
+      "C111 (Male)|C111 (Female)",
+      "City-Brake Active System 7P Connector (Female)",
+      "Data Link Connector (DLC) (Female)",
+      "EPS Control Unit Connector B (10P) (Female)",
+      "Gauge Control Module 32P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "SRS Unit Connector A (39P) (Female)",
+      "Steering Angle Sensor 4P Connector (Female)",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "VSA Modulator-Control Unit 38P Connector (Female)"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "BQ Roof Wire Harness",
+      "EA Engine Compartment Wire Harness"
+    ]
+  }
+}

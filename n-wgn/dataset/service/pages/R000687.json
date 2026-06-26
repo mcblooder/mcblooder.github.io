@@ -1,0 +1,355 @@
+{
+  "id": "R000687",
+  "title": "Inspect and correct front brake disc.",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "",
+  "sectionCode": "",
+  "subsection": "",
+  "system": "",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000687",
+  "assets": [
+    "687_5.0_jpn_11581575_5.0_disp.png",
+    "687_5.0_jpn_11581577_5.0_disp.png",
+    "687_5.0_jpn_11581581_5.0_disp.png",
+    "687_5.0_jpn_11581582_5.0_disp.png",
+    "687_5.0_jpn_11581583_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Front wheel removal",
+      "resolved": true
+    },
+    {
+      "id": "R002922",
+      "label": "Front brake pad removal",
+      "resolved": true
+    },
+    {
+      "id": "R000688",
+      "label": "Replace the brake disc.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect and correct front brake disc."
+    },
+    {
+      "type": "paragraph",
+      "text": "*Specified commercial tools"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Front brake pad removal",
+      "refs": [
+        {
+          "id": "R002922",
+          "label": "Front brake pad removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Thickness and parallelism inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "687_5.0_jpn_11581575_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect the sliding surfaces of the brake disc (A) for cracks, abnormal scratches or stepped wear. Measure the thickness of the brake disc at 8 locations at approximately 45° intervals, 10 mm closer to the center from the outer circumference of the disc. The smallest of these measurements shall be the limit value. Brake Disc Thickness: 1.0 12-inch brake spec. vehicle: 12-inch brake spec. vehicle: 12-inch brake spec. vehicle Std. 12.0mm Limit value: 1 10.0mm 13\" brake spec. car:. Std. 17.0mm Limit value: 1 15.0mm Parallelism of the brake disc (maximum difference between each measured value):. Limit value: 1 0.015mm If the thickness is below the limit, Replace the brake disc. If the parallelism exceeds the limit value, the brake disc should be milled and corrected. Inspect the front brake disc for runout.",
+      "refs": [
+        {
+          "id": "R000688",
+          "label": "Replace the brake disc.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Front brake pad installation",
+      "refs": [
+        {
+          "id": "R002922",
+          "label": "Front brake pad installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Front wheel mounting",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Front brake pad removal",
+      "refs": [
+        {
+          "id": "R002922",
+          "label": "Front brake pad removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. runout inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "687_5.0_jpn_11581577_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Secure the brake disc with the wheel nut (B) through an appropriate flat washer (A) so as not to damage the tapered portion of the wheel nut. Place the dial gauge (C) as shown in the figure at a position about 10 mm closer to the center from the outer circumference of the disc. Turn the disc slowly by hand to measure the runout. The minimum to maximum range of the gauge reading is the runout value. Brake disc runout Limit value: 1 0.04mm If it is below the limit, inspect the hub bearings, and if there is nothing wrong with the bearings, cut and correct the brake disk."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Front brake pad installation",
+      "refs": [
+        {
+          "id": "R002922",
+          "label": "Front brake pad installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Front wheel mounting",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Brake caliper and bracket removal"
+    },
+    {
+      "type": "figure",
+      "asset": "687_5.0_jpn_11581581_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the brake hose clamp bolt (A). Remove the caliper (B) from the knuckle and secure the caliper with a wire or similar."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When securing the caliper, be very careful not to damage other parts.",
+        "Do not suspend the caliper by the brake hose.",
+        "Do not forcefully twist the brake hose."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When securing the caliper, be very careful not to damage other parts."
+        },
+        {
+          "text": "When securing the caliper, be very careful not to damage other parts."
+        },
+        {
+          "text": "Do not suspend the caliper by the brake hose."
+        },
+        {
+          "text": "Do not suspend the caliper by the brake hose."
+        },
+        {
+          "text": "Do not forcefully twist the brake hose."
+        },
+        {
+          "text": "Do not forcefully twist the brake hose."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Cutting correction"
+    },
+    {
+      "type": "figure",
+      "asset": "687_5.0_jpn_11581582_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Cut and correct using a brake disc grinder (specially designated commercial tool) (A). After cutting correction, check the runout and parallelism of the brake disc again to confirm that it is within the following limits. Limits after cutting modification: 1. Brake disc runout 0.04mm Brake disc parallelism: 1 0.015mm"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cutting correction is performed with a motor-driven brake disc grinder."
+        },
+        {
+          "text": "Cutting correction is performed with a motor-driven brake disc grinder."
+        },
+        {
+          "text": "Refer to the instruction manual of the grinder for the use of the brake disc grinder."
+        },
+        {
+          "text": "Refer to the instruction manual of the grinder for the use of the brake disc grinder."
+        },
+        {
+          "text": "Cut the brake disc so that it does not fall below the thickness limit value."
+        },
+        {
+          "text": "Cut the brake disc so that it does not fall below the thickness limit value."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Brake caliper and bracket installation"
+    },
+    {
+      "type": "figure",
+      "asset": "687_5.0_jpn_11581583_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the caliper (A) on the knuckle. Install the brake hose clamp bolt (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not forcefully twist the brake hose."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Front wheel mounting",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel mounting",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000687_jpn/web/html/R000687_jpn_Content.html",
+  "inOutline": false
+}

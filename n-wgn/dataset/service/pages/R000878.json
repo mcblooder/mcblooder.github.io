@@ -1,0 +1,175 @@
+{
+  "id": "R000878",
+  "title": "Removal and installation of evaporator expansion valve",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "Cooling Unit",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000878",
+  "assets": [
+    "878_5.0_jpn_11580975_5.0_disp.png",
+    "878_5.0_jpn_11580976_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002698",
+      "label": "Recovery of refrigerant",
+      "resolved": true
+    },
+    {
+      "id": "R000414",
+      "label": "Intake manifold removal",
+      "resolved": true
+    },
+    {
+      "id": "R000907",
+      "label": "performance test",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removal and installation of evaporator expansion valve"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front license plate removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Recovery of refrigerant",
+      "refs": [
+        {
+          "id": "R002698",
+          "label": "Recovery of refrigerant",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Intake manifold removal",
+      "refs": [
+        {
+          "id": "R000414",
+          "label": "Intake manifold removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Disconnect suction hose and receiver pipe"
+    },
+    {
+      "type": "figure",
+      "asset": "878_5.0_jpn_11580975_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the receiver pipe (A) and suction hose (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not use air or cleaning fluids after disconnecting.",
+        "Seal connections with sealing plugs or vinyl tape."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do not use air or cleaning fluids after disconnecting."
+        },
+        {
+          "text": "Do not use air or cleaning fluids after disconnecting."
+        },
+        {
+          "text": "Seal connections with sealing plugs or vinyl tape."
+        },
+        {
+          "text": "Seal connections with sealing plugs or vinyl tape."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Expansion valve removal"
+    },
+    {
+      "type": "figure",
+      "asset": "878_5.0_jpn_11580976_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the expansion valve (A). Screw the flange fixing bolt of the suction hose into the expansion valve with 4 to 6 threads, and hold the bolt and shake it up and down, left and right for easy removal."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Precautions for installation work"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The O-ring at the pipe connection must be replaced with a new one, and compressor oil (SP-10) must be applied before installation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Vacuuming/leak testing/refrigerant sealing",
+      "refs": [
+        {
+          "id": "R002698",
+          "label": "Vacuuming/leak testing/refrigerant sealing",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "After installation, perform vacuuming, leak test, and refrigerant sealing."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. performance test",
+      "refs": [
+        {
+          "id": "R000907",
+          "label": "performance test",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000878_jpn/web/html/R000878_jpn_Content.html",
+  "inOutline": true
+}

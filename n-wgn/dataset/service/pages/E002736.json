@@ -1,0 +1,104 @@
+{
+  "id": "E002736",
+  "title": "Fuse Load List",
+  "category": "service",
+  "packageKind": "EWD",
+  "packageKindName": "Electrical Wiring (manual)",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "electrical wiring",
+  "system": "power supply",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/E002736",
+  "assets": [
+    "2736_5.0_jpn_11579595_5.0_disp.png",
+    "2736_5.0_jpn_11579596_5.0_disp.png",
+    "2736_5.0_jpn_11579597_5.0_disp.png",
+    "2736_5.0_jpn_11579598_5.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuse Load List"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*1: Vehicles equipped with dual discharge headlights *2: Vehicles equipped with 4-discharge headlights *3: Vehicles equipped with 2-lamp halogen headlights *4: Vehicles equipped with front fog lights *5: Vehicles equipped with the Citi Brake Active System *6: Cars equipped with auto lights *7: Cars equipped with plasma cluster *8: Vehicles equipped with cruise control *9: Cars without audio remote switch *10: Vehicles without headlight auto-leveling system"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2736_5.0_jpn_11579595_5.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Fuse No.",
+          "Fuse capacity",
+          "access point"
+        ],
+        [
+          "B1",
+          "7.5A",
+          "Starter Magnet Diode"
+        ],
+        [
+          "B2",
+          "-",
+          "unused"
+        ],
+        [
+          "B3",
+          "7.5A",
+          "LAF Sensor"
+        ],
+        [
+          "B4",
+          "7.5A",
+          "PGM-FI ECU"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2736_5.0_jpn_11579596_5.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*1: Cars without audio equipment *2: Cars equipped with plasma cluster *3: Cars equipped with mirror heaters"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2736_5.0_jpn_11579597_5.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*1: Vehicles equipped with the Citi Brake Active System *2: Cars equipped with audio system *3: Cars without audio equipment"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2736_5.0_jpn_11579598_5.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_EWD_20131205174154/Contents/jpn/60T6GD00_2014/EWD/SCT/SC/SYS/E002736_jpn/web/html/E002736_jpn_Content.html",
+  "inOutline": true
+}

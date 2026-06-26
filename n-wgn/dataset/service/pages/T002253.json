@@ -1,0 +1,69 @@
+{
+  "id": "T002253",
+  "title": "CITY BRAKE ACTIVE SYSTEM Failure Diagnostic Table by Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Speed/body control",
+  "system": "City Brake Active System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002253",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "CITY BRAKE ACTIVE SYSTEM Failure Diagnostic Table by Symptom"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "symptoms",
+          "checklist",
+          "related item"
+        ],
+        [
+          "HDS does not communicate with the City Brake Active System radar/control unit or the vehicle",
+          "Inspect data link circuits",
+          ""
+        ],
+        [
+          "City Brake Active System warning light flashes.",
+          "Failure Diagnosis by Symptom",
+          "Pause History"
+        ],
+        [
+          "City Brake Active System warning light does not turn off",
+          "Failure Diagnosis by Symptom",
+          "customize"
+        ],
+        [
+          "City Brake Active System warning light does not illuminate",
+          "Failure Diagnosis by Symptom",
+          ""
+        ],
+        [
+          "City Brake Active system activated at an unnecessary time.",
+          "Failure Diagnosis by Symptom",
+          ""
+        ],
+        [
+          "CITY BRAKE ACTIVE SYSTEM did not activate at the required time.",
+          "Failure Diagnosis by Symptom",
+          ""
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002253_jpn/web/html/T002253_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,132 @@
+{
+  "id": "R000533",
+  "title": "Drive Pulley Speed Sensor Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM electrical system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000533",
+  "assets": [
+    "533_5.0_jpn_11582159_5.0_disp.png",
+    "533_5.0_jpn_11582160_5.0_disp.png",
+    "533_5.0_jpn_11582161_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000412",
+      "label": "Remove air cleaner (for vehicles without turbo charger)",
+      "resolved": true
+    },
+    {
+      "id": "R000418",
+      "label": "Intercooler removal (turbo charger equipped vehicles)",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Drive Pulley Speed Sensor Removal and Installation"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be very careful to prevent dust and other debris from entering the transmission."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Remove air cleaner (for vehicles without turbo charger)",
+      "refs": [
+        {
+          "id": "R000412",
+          "label": "Remove air cleaner (for vehicles without turbo charger)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Intercooler removal (turbo charger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000418",
+          "label": "Intercooler removal (turbo charger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Air cleaner stay removal (for vehicles not equipped with turbo charger)"
+    },
+    {
+      "type": "figure",
+      "asset": "533_5.0_jpn_11582159_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove purge hose clamp (A). Remove the air cleaner stay (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Intercooler stay removal (for vehicles equipped with turbo charger)"
+    },
+    {
+      "type": "figure",
+      "asset": "533_5.0_jpn_11582160_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove purge hose clamp (A). Remove the intercooler stay (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Drive pulley Speed sensor removal"
+    },
+    {
+      "type": "figure",
+      "asset": "533_5.0_jpn_11582161_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Remove the drive pulley speed sensor (B). Remove the O-ring (C) from the drive pulley speed sensor."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "O-rings shall be replaced with new ones."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000533_jpn/web/html/R000533_jpn_Content.html",
+  "inOutline": true
+}

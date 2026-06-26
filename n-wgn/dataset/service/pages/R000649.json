@@ -1,0 +1,165 @@
+{
+  "id": "R000649",
+  "title": "Removal and installation of EPS motor",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "Electric Power Steering (EPS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000649",
+  "assets": [
+    "649_3.0_jpn_11581937_3.0_disp.png",
+    "649_3.0_jpn_11581938_3.0_disp.png",
+    "649_3.0_jpn_11581939_3.0_disp.png",
+    "649_3.0_jpn_11581940_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000910",
+      "label": "12V battery Negative (-) terminal Disconnect",
+      "resolved": true
+    },
+    {
+      "id": "R000636",
+      "label": "Steering column removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removal and installation of EPS motor"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Negative (-) terminal Disconnect",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Negative (-) terminal Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Steering column removal",
+      "refs": [
+        {
+          "id": "R000636",
+          "label": "Steering column removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Motor terminal removal"
+    },
+    {
+      "type": "figure",
+      "asset": "649_3.0_jpn_11581937_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the motor terminal cover (A). Remove the motor terminal screw (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. EPS motor removal"
+    },
+    {
+      "type": "figure",
+      "asset": "649_3.0_jpn_11581938_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the motor (B) from the steering column (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. EPS motor installation"
+    },
+    {
+      "type": "figure",
+      "asset": "649_3.0_jpn_11581939_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Clean the mating surface on the motor (A) side and the mating surface on the steering column (B) side, respectively. Apply grease (Molywhite TA No.2) to the spline (C) of the motor shaft, engage the worm shaft (D) on the steering column side, and mount the motor on the steering column paying attention to the mounting direction (terminal direction). After the motor is tightly seated on the steering column, turn the motor about 45° to the right and left 2-3 times to check the adhesion of the motor mating surfaces. Tighten the motor mounting bolts to the specified torque. After installing and temporarily tightening the bolts, tighten the bolts several times alternately while holding the motor firmly by hand."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The mating surfaces shall be free of foreign matter adhesion."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Motor terminal Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "649_3.0_jpn_11581940_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Tighten the motor terminal screw (A) to the specified torque. Install new motor terminal cover (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Steering Column Installation",
+      "refs": [
+        {
+          "id": "R000636",
+          "label": "Steering Column Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. 12V battery Minus (-) terminal Connection",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Minus (-) terminal Connection",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Steering wheel steering inspection"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Start the engine on an asphalt paved surface, steer the steering wheel, and check the sound and vibration from the motor."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000649_jpn/web/html/R000649_jpn_Content.html",
+  "inOutline": true
+}

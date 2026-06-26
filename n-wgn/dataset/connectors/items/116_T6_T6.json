@@ -1,0 +1,52 @@
+{
+  "id": "116_T6_T6",
+  "category": "connector",
+  "connectorRef": "T6",
+  "physicalIds": [
+    "T6"
+  ],
+  "name": "T6",
+  "nameRu": "Разъём T6",
+  "type": "DirectCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "32604-T4NA-0030-H1",
+  "partNumbers": [
+    "32604-T4NA-0030-H1"
+  ],
+  "harnesses": [
+    "32600-T6G_-0000-"
+  ],
+  "locations": [
+    "Engine Compartment > Starter/Ground Cable"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Charging System",
+    "Energy Management System",
+    "Power Supply",
+    "Starting System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/32604-T4NA-0030-H1.svg",
+    "viewBox": "0 0 74.994 28.271",
+    "width": 74.994,
+    "height": 28.271
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(BATT)",
+      "english": "Ground (BATT)",
+      "russian": "Масса (BATT)",
+      "terminal": "ZZ0A000",
+      "geometry": {
+        "x": 9.576,
+        "y": 16.128,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "R000416",
+  "title": "Exhaust pipe/silencer removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Exhaust System",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000416",
+  "assets": [
+    "416_3.0_jpn_11402341_2.0_disp.png",
+    "416_3.0_jpn_11402342_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Exhaust pipe/silencer removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Exhaust pipe/silencer removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Gasket must be replaced upon disassembly."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "416_3.0_jpn_11402341_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "416_3.0_jpn_11402342_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000416_jpn/web/html/R000416_jpn_Content.html",
+  "inOutline": true
+}

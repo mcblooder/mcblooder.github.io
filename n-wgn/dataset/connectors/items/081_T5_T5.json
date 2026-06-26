@@ -1,0 +1,52 @@
+{
+  "id": "081_T5_T5",
+  "category": "connector",
+  "connectorRef": "T5",
+  "physicalIds": [
+    "T5"
+  ],
+  "name": "T5",
+  "nameRu": "Разъём T5",
+  "type": "DirectCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "32115-RNAA-0030-H1",
+  "partNumbers": [
+    "32115-RNAA-0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Charging System",
+    "Energy Management System",
+    "Idle Control System",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/32115-RNAA-0030-H1.svg",
+    "viewBox": "0 0 37.56 43.231",
+    "width": 37.56,
+    "height": 43.231
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "ACG_+B",
+      "english": "alternator, +B",
+      "russian": "генератор, +B",
+      "terminal": "D00A000",
+      "geometry": {
+        "x": 19.264,
+        "y": 18.5,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

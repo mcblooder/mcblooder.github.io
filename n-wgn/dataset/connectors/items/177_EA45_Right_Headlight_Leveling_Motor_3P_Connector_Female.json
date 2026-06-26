@@ -1,0 +1,76 @@
+{
+  "id": "177_EA45_Right_Headlight_Leveling_Motor_3P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA45",
+  "physicalIds": [
+    "EA45"
+  ],
+  "name": "Right Headlight Leveling Motor 3P Connector (Female)",
+  "nameRu": "Разъём правый Headlight Leveling электродвигатель, 3 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "91761-ST7 -0030-H1",
+  "partNumbers": [
+    "91761-ST7 -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Headlight Leveling System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91761-ST7 -0030-H1.svg",
+    "viewBox": "0 0 50.708 54.361",
+    "width": 50.708,
+    "height": 54.361
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ADJ_ACT_GND",
+      "english": "ADJ, ACT, ground",
+      "russian": "ADJ, ACT, масса",
+      "terminal": "57A000",
+      "geometry": {
+        "x": 13.337,
+        "y": 22.249,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "ADJ_ACT_SIG",
+      "english": "ADJ, ACT, signal",
+      "russian": "ADJ, ACT, сигнал",
+      "terminal": "58B007",
+      "geometry": {
+        "x": 32.923,
+        "y": 22.249,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "ADJ_ACT_+5V",
+      "english": "ADJ, ACT, +5V",
+      "russian": "ADJ, ACT, +5V",
+      "terminal": "59C004",
+      "geometry": {
+        "x": 23.23,
+        "y": 41.947,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

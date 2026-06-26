@@ -1,0 +1,41 @@
+{
+  "id": "G000313",
+  "title": "unit",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "NA",
+  "sectionCode": "0",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000313",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "unit"
+    },
+    {
+      "type": "paragraph",
+      "text": "SI units as a unit of measure *1 （The SI units used are listed in the following table. For items related to force, pressure, negative pressure, and torque, SI units are listed first, followed by the conventional units in parentheses ( ). Items that are quoted from specifications and other notified documents are used as they are. The SI unit is a unit that has been established to unify the conventional unit system internationally, and some countries around the world have already completely switched to SI units. *1: SI unit is an abbreviation of the French term Système International d'Unités."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*2: Until now, when using the term ''weight'' or ''force'' instead of ''weight'' or ''load'', we have simply used kilogram (kg) instead of kilogram (kgf) as the unit of force. f means force. The term ''force'' is used to refer to the force of the weight of the load."
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000313_jpn/web/html/G000313_jpn_Content.html",
+  "inOutline": true
+}

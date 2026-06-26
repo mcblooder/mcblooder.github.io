@@ -1,0 +1,137 @@
+{
+  "id": "R002203",
+  "title": "Rear seat cushion frame/slide adjuster removal/replacement",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "sheet",
+  "system": "Rear seat",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002203",
+  "assets": [
+    "2203_3.0_jpn_11337263_3.0_disp.png",
+    "2203_3.0_jpn_11337264_3.0_disp.png",
+    "2203_3.0_jpn_11337265_3.0_disp.png",
+    "2203_3.0_jpn_11337266_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000799",
+      "label": "Rear seat removal",
+      "resolved": true
+    },
+    {
+      "id": "R002176",
+      "label": "Remove rear seat cushion trim cover/pad",
+      "resolved": true
+    },
+    {
+      "id": "R000810",
+      "label": "Rear seat belt buckle removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear seat cushion frame/slide adjuster removal/replacement"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear seat removal",
+      "refs": [
+        {
+          "id": "R000799",
+          "label": "Rear seat removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Remove rear seat cushion trim cover/pad",
+      "refs": [
+        {
+          "id": "R002176",
+          "label": "Remove rear seat cushion trim cover/pad",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Rear seat belt buckle removal",
+      "refs": [
+        {
+          "id": "R000810",
+          "label": "Rear seat belt buckle removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Rear seat cushion frame/slide adjuster removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2203_3.0_jpn_11337263_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the cable band (A) and disconnect the control cable (D) from the rear seat cushion frame (B) and slide adjuster lever (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "2203_3.0_jpn_11337264_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the rear seat upper rail cover (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "2203_3.0_jpn_11337265_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the slide adjuster lever (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "2203_3.0_jpn_11337266_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Remove the rear seatback reclining strap (B) from the control cable (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002203_jpn/web/html/R002203_jpn_Content.html",
+  "inOutline": true
+}

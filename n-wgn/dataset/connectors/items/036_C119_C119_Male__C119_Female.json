@@ -1,0 +1,258 @@
+{
+  "id": "036_C119_C119_Male__C119_Female",
+  "category": "connector",
+  "connectorRef": "C119",
+  "physicalIds": [
+    "C119"
+  ],
+  "name": "C119 (Male) / C119 (Female)",
+  "nameRu": "Разъём C119, штыревая часть / Разъём C119, гнездовая часть",
+  "type": "MiddleCoupler",
+  "pinCount": 14,
+  "populatedPinCount": 13,
+  "faceviewPart": "91792-T2AA-0030-H1_91793-T2AA-0030-H1",
+  "partNumbers": [
+    "91792-T2AA-0030-H1",
+    "91793-T2AA-0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-",
+    "32751-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)",
+    "Door > Driver's Door"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "A/T Interlock System",
+    "Audio System",
+    "Auto Idle Stop System",
+    "Cable Reel",
+    "City-Brake Active System",
+    "Climate Control",
+    "Cruise Control",
+    "CVT Control System",
+    "Dashlights",
+    "Entry Light Control System",
+    "Fog Lights",
+    "Gauges",
+    "Headlight Leveling System",
+    "Headlights",
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "Power Mirrors",
+    "Power Supply",
+    "Power Windows",
+    "Power, Grounds and Diagnostics",
+    "Rear Window/Power Mirror Defoggers",
+    "SRS",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91792-T2AA-0030-H1_91793-T2AA-0030-H1.svg",
+    "viewBox": "0 0 182.645 181.26",
+    "width": 182.645,
+    "height": 181.26
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z30A001 / Z30A",
+      "geometry": {
+        "x": 21.915,
+        "y": 149.706,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "RED",
+      "circuit": "FR_SPKR+",
+      "english": "front, speaker +",
+      "russian": "передний, динамик +",
+      "terminal": "800B",
+      "geometry": {
+        "x": 44.309,
+        "y": 149.706,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "FR_SPKR-",
+      "english": "front, speaker -",
+      "russian": "передний, динамик -",
+      "terminal": "801C",
+      "geometry": {
+        "x": 66.705,
+        "y": 149.706,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "MIRROR_L_COM",
+      "english": "mirror, left, common",
+      "russian": "зеркало, левый, общий",
+      "terminal": "601D",
+      "geometry": {
+        "x": 89.098,
+        "y": 149.706,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "MIRROR_UD",
+      "english": "mirror, up/down",
+      "russian": "зеркало, вверх/вниз",
+      "terminal": "604E",
+      "geometry": {
+        "x": 111.492,
+        "y": 149.706,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 133.889,
+        "y": 149.706,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "PUR / RED",
+      "circuit": "P/W_AS_SW_UP",
+      "english": "power window, AS, switch, up",
+      "russian": "стеклоподъёмник, AS, выключатель, вверх",
+      "terminal": "508G",
+      "geometry": {
+        "x": 156.281,
+        "y": 149.706,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z40H",
+      "geometry": {
+        "x": 21.915,
+        "y": 172.383,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "RETRA_OPEN",
+      "english": "retract, open",
+      "russian": "складывание, открытие",
+      "terminal": "611J",
+      "geometry": {
+        "x": 44.309,
+        "y": 172.383,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "RETRA_CLOSE",
+      "english": "retract, close",
+      "russian": "складывание, закрытие",
+      "terminal": "612K",
+      "geometry": {
+        "x": 64.48,
+        "y": 172.383,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "MIRROR_L_LR",
+      "english": "mirror, left, LR",
+      "russian": "зеркало, левый, LR",
+      "terminal": "603L000 / 603L",
+      "geometry": {
+        "x": 86.725,
+        "y": 172.383,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11M",
+      "geometry": {
+        "x": 108.972,
+        "y": 172.383,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "H/MIRROR",
+      "english": "H / MIRROR",
+      "russian": "H / MIRROR",
+      "terminal": "635N",
+      "geometry": {
+        "x": 131.515,
+        "y": 172.383,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "PUR/GRN / PNK",
+      "circuit": "P/W_AS_SW_DOWN",
+      "english": "power window, AS, switch, down",
+      "russian": "стеклоподъёмник, AS, выключатель, вниз",
+      "terminal": "509P000 / 509P",
+      "geometry": {
+        "x": 154.058,
+        "y": 172.383,
+        "svgTextId": "SVGID_14_"
+      }
+    }
+  ]
+}

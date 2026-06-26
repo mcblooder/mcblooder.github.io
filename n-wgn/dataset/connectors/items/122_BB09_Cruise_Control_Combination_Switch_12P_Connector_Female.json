@@ -1,0 +1,206 @@
+{
+  "id": "122_BB09_Cruise_Control_Combination_Switch_12P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BB09",
+  "physicalIds": [
+    "BB09"
+  ],
+  "name": "Cruise Control Combination Switch 12P Connector (Female)",
+  "nameRu": "Разъём Cruise Control Combination выключатель, 12 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 12,
+  "populatedPinCount": 5,
+  "faceviewPart": "91960-SHJ -0030-H1",
+  "partNumbers": [
+    "91960-SHJ -0030-H1"
+  ],
+  "harnesses": [
+    "77901-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Steering"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "Cruise Control",
+    "CVT Control System",
+    "Dashlights",
+    "Gauges"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91960-SHJ -0030-H1.svg",
+    "viewBox": "0 0 170.584 74.32",
+    "width": 170.584,
+    "height": 74.32
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "ILL+",
+      "english": "ILL +",
+      "russian": "ILL +",
+      "terminal": "11ACA",
+      "geometry": {
+        "x": 12.163,
+        "y": 34.894,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "CRUISE",
+      "english": "CRUISE",
+      "russian": "CRUISE",
+      "terminal": "700B",
+      "geometry": {
+        "x": 40.476,
+        "y": 34.894,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 68.788,
+        "y": 34.894,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 97.101,
+        "y": 34.894,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "CRUISE_GND",
+      "english": "CRUISE, ground",
+      "russian": "CRUISE, масса",
+      "terminal": "701E",
+      "geometry": {
+        "x": 125.414,
+        "y": 34.894,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND-ILL",
+      "english": "GND-ILL",
+      "russian": "GND-ILL",
+      "terminal": "Z30CF",
+      "geometry": {
+        "x": 153.726,
+        "y": 34.894,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 12.163,
+        "y": 63.208,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 40.476,
+        "y": 63.208,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 68.788,
+        "y": 63.208,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 94.876,
+        "y": 63.208,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 123.189,
+        "y": 63.208,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND",
+      "english": "Ground",
+      "russian": "Масса",
+      "terminal": "Z61M",
+      "geometry": {
+        "x": 151.501,
+        "y": 63.208,
+        "svgTextId": "SVGID_12_"
+      }
+    }
+  ]
+}

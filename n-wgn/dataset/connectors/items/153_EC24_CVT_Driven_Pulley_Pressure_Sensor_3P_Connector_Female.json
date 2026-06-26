@@ -1,0 +1,78 @@
+{
+  "id": "153_EC24_CVT_Driven_Pulley_Pressure_Sensor_3P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC24",
+  "physicalIds": [
+    "EC24"
+  ],
+  "name": "CVT Driven Pulley Pressure Sensor 3P Connector (Female)",
+  "nameRu": "Разъём CVT Driven Pulley Pressure датчик, 3 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "91703-R40 -0030-H1",
+  "partNumbers": [
+    "91703-R40 -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Left Side)"
+  ],
+  "systems": [
+    "CVT Control System",
+    "PCM (All)",
+    "PGM-FI System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91703-R40 -0030-H1.svg",
+    "viewBox": "0 0 68.859 27.554",
+    "width": 68.859,
+    "height": 27.554
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "SG2",
+      "english": "SG2",
+      "russian": "SG2",
+      "terminal": "Z28A001",
+      "geometry": {
+        "x": 12.004,
+        "y": 19.988,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "PDN",
+      "english": "PDN",
+      "russian": "PDN",
+      "terminal": "M60B",
+      "geometry": {
+        "x": 32.656,
+        "y": 19.988,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "RED",
+      "circuit": "VCC2_TC",
+      "english": "VCC2, TC",
+      "russian": "VCC2, TC",
+      "terminal": "D46C001",
+      "geometry": {
+        "x": 53.308,
+        "y": 19.988,
+        "svgTextId": "SVGID_3_"
+      }
+    }
+  ]
+}

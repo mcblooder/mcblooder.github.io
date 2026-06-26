@@ -1,0 +1,177 @@
+{
+  "id": "R000734",
+  "title": "Rear door glass removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "door (Western-style)",
+  "system": "Rear door",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000734",
+  "assets": [
+    "734_3.0_jpn_11036158_3.0_disp.png",
+    "734_3.0_jpn_11364967_2.0_disp.png",
+    "734_3.0_jpn_11364968_3.0_disp.png",
+    "734_3.0_jpn_11367429_2.0_disp.png",
+    "734_3.0_jpn_11367430_2.0_disp.png",
+    "734_3.0_jpn_11367431_2.0_disp.png",
+    "734_3.0_jpn_11381312_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000737",
+      "label": "Rear door molding removal",
+      "resolved": true
+    },
+    {
+      "id": "R000731",
+      "label": "Rear door lining removal",
+      "resolved": true
+    },
+    {
+      "id": "R000741",
+      "label": "Adjustment of rear door glass installation",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear door glass removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear door molding removal",
+      "refs": [
+        {
+          "id": "R000737",
+          "label": "Rear door molding removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear door lining removal",
+      "refs": [
+        {
+          "id": "R000731",
+          "label": "Rear door lining removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Rear door hole seal removal"
+    },
+    {
+      "type": "figure",
+      "asset": "734_3.0_jpn_11381312_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the plug cap (A). Disconnect the coupler (B). Remove the harness clip (C). Remove the rear door hole seal (D) as required. If the rear door hall seal is damaged or torn, replace it with a new rear door hall seal."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Rear door glass removal"
+    },
+    {
+      "type": "figure",
+      "asset": "734_3.0_jpn_11367429_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Move the rear door glass regulator (A) so that the bolt is visible through the hole in the door panel. While supporting the rear door glass (B), remove the bolts."
+    },
+    {
+      "type": "figure",
+      "asset": "734_3.0_jpn_11367430_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the bolt from the rear door rear lower sash (A) and loosen the nut. Remove the required amount of glass run channel (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "734_3.0_jpn_11367431_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Rear Door Remove the rear lower sash (A) from the door panel and rear door glass (B). Rear Door Pull the rear lower sash outward from the door panel."
+    },
+    {
+      "type": "figure",
+      "asset": "734_3.0_jpn_11036158_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "7",
+      "text": "Remove the glass run channel (A) from the rear door rear lower sash (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "734_3.0_jpn_11364967_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "8",
+      "text": "Remove the rear door glass (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Rear door glass run channel removal"
+    },
+    {
+      "type": "figure",
+      "asset": "734_3.0_jpn_11364968_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the glass run channel (A) from the rear door sash."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Adjustment of rear door glass installation",
+      "refs": [
+        {
+          "id": "R000741",
+          "label": "Adjustment of rear door glass installation",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000734_jpn/web/html/R000734_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,93 @@
+{
+  "id": "C001964",
+  "title": "Idling Stop System Structure Description - Operating Conditions",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Idling stop system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001964",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Idling Stop System Structure Description - Operating Conditions"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Idling Stop System Operating Conditions"
+    },
+    {
+      "type": "paragraph",
+      "text": "List of conditions for not stopping idling"
+    },
+    {
+      "type": "paragraph",
+      "text": "Idling Stop The system will not perform an Idling Stop if any of the following conditions apply"
+    },
+    {
+      "type": "paragraph",
+      "text": "Assumptions during the work inspection are that all system DTC failures have not been stored."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Idling stop may not occur when DTCs are detected in the associated system."
+        ],
+        [
+          "",
+          "If the idling stop system warning light (orange) comes on due to the above prohibited conditions, the warning light will be turned off when the system is turned off by operating the ECON switch OFF."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions for returning to idling (restarting)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The idling stop system shall restart if any of the following conditions apply during idling stop operation"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "If the battery temperature falls below 5°C (41°F)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "List of conditions for not returning to idling (restarting)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The idling stop system will not restart if any of the following conditions apply during idling stop operation"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "－",
+          "DC-DC converter temperature error/Internal circuit error/Input terminal voltage error"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001964_jpn/web/html/C001964_jpn_Content.html",
+  "inOutline": true
+}

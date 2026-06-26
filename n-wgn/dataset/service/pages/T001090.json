@@ -1,0 +1,61 @@
+{
+  "id": "T001090",
+  "title": "Failure Diagnostic Table by Charging Device Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Charging device",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001090",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T002547",
+      "label": "Check DTC",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Failure Diagnostic Table by Charging Device Symptom"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because it is equipped with a multi-stage controlled A.C. generator, Check DTC and there is no DTC indication, the A.C. generator is normal",
+      "refs": [
+        {
+          "id": "T002547",
+          "label": "Check DTC",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "symptoms",
+          "diagnostic item",
+          "related item"
+        ],
+        [
+          "Charging warning light does not turn off",
+          "Check the self-diagnostic function of the combination meter",
+          ""
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131120135106/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001090_jpn/web/html/T001090_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,62 @@
+{
+  "id": "029_BD12_Left_Cup_Holder_Light_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD12",
+  "physicalIds": [
+    "BD12"
+  ],
+  "name": "Left Cup Holder Light 2P Connector (Female)",
+  "nameRu": "Разъём левый Cup Holder Light, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91787-TA0 -0030-H1",
+  "partNumbers": [
+    "91787-TA0 -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Ambient Light, Cargo Area Light and Individual MAP Light"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91787-TA0 -0030-H1.svg",
+    "viewBox": "0 0 57.401 54.567",
+    "width": 57.401,
+    "height": 54.567
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-2)",
+      "english": "Ground (CTR-2)",
+      "russian": "Масса (CTR-2)",
+      "terminal": "Z50A",
+      "geometry": {
+        "x": 12.444,
+        "y": 44.356,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11B",
+      "geometry": {
+        "x": 40.791,
+        "y": 44.356,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

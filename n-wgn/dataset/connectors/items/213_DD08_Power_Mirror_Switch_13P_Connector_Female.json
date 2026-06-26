@@ -1,0 +1,216 @@
+{
+  "id": "213_DD08_Power_Mirror_Switch_13P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "DD08",
+  "physicalIds": [
+    "DD08"
+  ],
+  "name": "Power Mirror Switch 13P Connector (Female)",
+  "nameRu": "Разъём Power Mirror выключатель, 13 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 13,
+  "populatedPinCount": 9,
+  "faceviewPart": "91835-S5A -0030-H1",
+  "partNumbers": [
+    "91835-S5A -0030-H1"
+  ],
+  "harnesses": [
+    "32751-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Door > Driver's Door"
+  ],
+  "systems": [
+    "Power Mirrors"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91835-S5A -0030-H1.svg",
+    "viewBox": "0 0 220.708 66.708",
+    "width": 220.708,
+    "height": 66.708
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "MIRROR_UD",
+      "english": "mirror, up/down",
+      "russian": "зеркало, вверх/вниз",
+      "terminal": "604A",
+      "geometry": {
+        "x": 11.801,
+        "y": 22.489,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 39.302,
+        "y": 22.489,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 149.301,
+        "y": 22.489,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "IG2_MIRROR",
+      "english": "ignition IG2, mirror",
+      "russian": "зажигание IG2, зеркало",
+      "terminal": "G24D",
+      "geometry": {
+        "x": 176.801,
+        "y": 22.489,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 204.301,
+        "y": 22.489,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "MIRROR_R_LR",
+      "english": "mirror, right, LR",
+      "russian": "зеркало, правый, LR",
+      "terminal": "602F",
+      "geometry": {
+        "x": 11.801,
+        "y": 49.989,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "MIRROR_L_LR",
+      "english": "mirror, left, LR",
+      "russian": "зеркало, левый, LR",
+      "terminal": "603G",
+      "geometry": {
+        "x": 39.301,
+        "y": 49.989,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "RED",
+      "circuit": "MIRROR_R_COM",
+      "english": "mirror, right, common",
+      "russian": "зеркало, правый, общий",
+      "terminal": "600H",
+      "geometry": {
+        "x": 66.801,
+        "y": 49.989,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "MIRROR_L_COM",
+      "english": "mirror, left, common",
+      "russian": "зеркало, левый, общий",
+      "terminal": "601J",
+      "geometry": {
+        "x": 94.302,
+        "y": 49.989,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 119.577,
+        "y": 49.989,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "RETRA_OPEN",
+      "english": "retract, open",
+      "russian": "складывание, открытие",
+      "terminal": "611L",
+      "geometry": {
+        "x": 147.077,
+        "y": 49.989,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "RETRA_CLOSE",
+      "english": "retract, close",
+      "russian": "складывание, закрытие",
+      "terminal": "612M",
+      "geometry": {
+        "x": 174.577,
+        "y": 49.989,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z30N000",
+      "geometry": {
+        "x": 202.077,
+        "y": 49.989,
+        "svgTextId": "SVGID_13_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "id": "057_BD14_Audio_Unit_Connector_C_24P_Female",
+  "category": "connector",
+  "connectorRef": "BD14",
+  "physicalIds": [
+    "BD14"
+  ],
+  "name": "Audio Unit Connector C (24P) (Female)",
+  "nameRu": "Разъём аудиоблок Connector C (24P), гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 24,
+  "populatedPinCount": 11,
+  "faceviewPart": "90267-SNA -0030-H1",
+  "partNumbers": [
+    "90267-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Audio System",
+    "F-CAN Communication Line"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/90267-SNA -0030-H1.svg",
+    "viewBox": "0 0 220.708 48.229",
+    "width": 220.708,
+    "height": 48.229
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "RED",
+      "circuit": "F-CAN_L",
+      "english": "F-CAN low line",
+      "russian": "Низкая линия F-CAN",
+      "terminal": "X80A",
+      "geometry": {
+        "x": 15.159,
+        "y": 23.748,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "SH_CAMERA",
+      "english": "shield, camera",
+      "russian": "экран, камера",
+      "terminal": "N20B",
+      "geometry": {
+        "x": 32.795,
+        "y": 23.748,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "RED",
+      "circuit": "CAMERA_GND",
+      "english": "camera, ground",
+      "russian": "камера, масса",
+      "terminal": "N18C",
+      "geometry": {
+        "x": 50.432,
+        "y": 23.748,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "RC_GND",
+      "english": "RC, ground",
+      "russian": "RC, масса",
+      "terminal": "N19D",
+      "geometry": {
+        "x": 68.068,
+        "y": 23.748,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "CAMERA_BIT0",
+      "english": "camera, BIT0",
+      "russian": "камера, BIT0",
+      "terminal": "N38E",
+      "geometry": {
+        "x": 85.705,
+        "y": 23.748,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 103.341,
+        "y": 23.748,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "BACK_LT",
+      "english": "back-up, light",
+      "russian": "резервный, освещение",
+      "terminal": "M10G",
+      "geometry": {
+        "x": 120.978,
+        "y": 23.748,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 138.615,
+        "y": 23.748,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 156.25,
+        "y": 23.748,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 171.662,
+        "y": 23.748,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 189.298,
+        "y": 23.748,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 206.935,
+        "y": 23.748,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "F-CAN_H",
+      "english": "F-CAN high line",
+      "russian": "Высокая линия F-CAN",
+      "terminal": "X70N",
+      "geometry": {
+        "x": 3.786,
+        "y": 41.899,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 21.467,
+        "y": 41.899,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "CAMERA_V",
+      "english": "camera, V",
+      "russian": "камера, V",
+      "terminal": "N17R",
+      "geometry": {
+        "x": 39.149,
+        "y": 41.899,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "CAMERA_VCC",
+      "english": "camera, supply voltage",
+      "russian": "камера, напряжение питания",
+      "terminal": "N16S",
+      "geometry": {
+        "x": 56.831,
+        "y": 41.899,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 74.513,
+        "y": 41.899,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "CAMERA_BIT1",
+      "english": "camera, BIT1",
+      "russian": "камера, BIT1",
+      "terminal": "N39W",
+      "geometry": {
+        "x": 92.195,
+        "y": 41.899,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "CAMERA_ADPT",
+      "english": "camera, ADPT",
+      "russian": "камера, ADPT",
+      "terminal": "N21X",
+      "geometry": {
+        "x": 109.876,
+        "y": 41.899,
+        "svgTextId": "SVGID_19_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 127.558,
+        "y": 41.899,
+        "svgTextId": "SVGID_20_"
+      }
+    },
+    {
+      "pin": 21,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 145.24,
+        "y": 41.899,
+        "svgTextId": "SVGID_21_"
+      }
+    },
+    {
+      "pin": 22,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 162.921,
+        "y": 41.899,
+        "svgTextId": "SVGID_22_"
+      }
+    },
+    {
+      "pin": 23,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 180.604,
+        "y": 41.899,
+        "svgTextId": "SVGID_23_"
+      }
+    },
+    {
+      "pin": 24,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 198.286,
+        "y": 41.899,
+        "svgTextId": "SVGID_24_"
+      }
+    }
+  ]
+}

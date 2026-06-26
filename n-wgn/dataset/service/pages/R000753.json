@@ -1,0 +1,590 @@
+{
+  "id": "R000753",
+  "title": "Windshield removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "wind",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000753",
+  "assets": [
+    "753_5.0_jpn_11581157_5.0_disp.png",
+    "753_5.0_jpn_11581158_5.0_disp.png",
+    "753_5.0_jpn_11581159_5.0_disp.png",
+    "753_5.0_jpn_11581162_5.0_disp.png",
+    "753_5.0_jpn_11581164_5.0_disp.png",
+    "753_5.0_jpn_11581166_5.0_disp.png",
+    "753_5.0_jpn_11677551_3.0_disp.png",
+    "753_5.0_jpn_11677552_3.0_disp.png",
+    "753_5.0_jpn_11677553_3.0_disp.png",
+    "753_5.0_jpn_11677554_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000749",
+      "label": "Room mirror removal",
+      "resolved": true
+    },
+    {
+      "id": "R002241",
+      "label": "City Brake Active System radar/control unit removal (vehicles equipped with City Brake Active System)",
+      "resolved": true
+    },
+    {
+      "id": "R000758",
+      "label": "Side curtains Non-equipped vehicles without airbags",
+      "resolved": true
+    },
+    {
+      "id": "R000759",
+      "label": "Side curtain airbag-equipped vehicles",
+      "resolved": true
+    },
+    {
+      "id": "R000766",
+      "label": "Remove the front portion of the roof lining as necessary.",
+      "resolved": true
+    },
+    {
+      "id": "R000847",
+      "label": "Front pillar cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000846",
+      "label": "Cowl top removal",
+      "resolved": true
+    },
+    {
+      "id": "G000752",
+      "label": "Check the minimum leaving time and leave it.",
+      "resolved": true
+    },
+    {
+      "id": "R002245",
+      "label": "City Brake Active System radar/control unit learning value reset (for vehicles equipped with City Brake Active System)",
+      "resolved": true
+    },
+    {
+      "id": "R000741",
+      "label": "Front Windshield Water Leakage Test",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Windshield removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Room mirror removal",
+      "refs": [
+        {
+          "id": "R000749",
+          "label": "Room mirror removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. City Brake Active System radar/control unit removal (vehicles equipped with City Brake Active System)",
+      "refs": [
+        {
+          "id": "R002241",
+          "label": "City Brake Active System radar/control unit removal (vehicles equipped with City Brake Active System)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Front pillar garnish removal"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Side curtains Non-equipped vehicles without airbags",
+          "refs": [
+            {
+              "id": "R000758",
+              "label": "Side curtains Non-equipped vehicles without airbags",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtains Non-equipped vehicles without airbags",
+          "refs": [
+            {
+              "id": "R000758",
+              "label": "Side curtains Non-equipped vehicles without airbags",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtain airbag-equipped vehicles",
+          "refs": [
+            {
+              "id": "R000759",
+              "label": "Side curtain airbag-equipped vehicles",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtain airbag-equipped vehicles",
+          "refs": [
+            {
+              "id": "R000759",
+              "label": "Side curtain airbag-equipped vehicles",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Roof Lining Removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not force the roof lining to bend."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the front portion of the roof lining as necessary.",
+      "refs": [
+        {
+          "id": "R000766",
+          "label": "Remove the front portion of the roof lining as necessary.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Front pillar cover removal",
+      "refs": [
+        {
+          "id": "R000847",
+          "label": "Front pillar cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Cowl top removal",
+      "refs": [
+        {
+          "id": "R000846",
+          "label": "Cowl top removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Front windshield glass removal"
+    },
+    {
+      "type": "figure",
+      "asset": "753_5.0_jpn_11581157_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "753_5.0_jpn_11581158_5.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Body, interior parts, and other areas where the piano wire comes in contact with the body should be protected with plastic plates or similar materials.",
+        "Note that if the piano wire contacts the glass, the glass will be damaged."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The pillar section is disconnected by pulling the piano wire from the bottom up."
+        },
+        {
+          "text": "The pillar section is disconnected by pulling the piano wire from the bottom up."
+        },
+        {
+          "text": "The adhesive part of the glass straight section is cut by holding the wood piece on the inside of the car and pulling hard on the outside piece."
+        },
+        {
+          "text": "The adhesive part of the glass straight section is cut by holding the wood piece on the inside of the car and pulling hard on the outside piece."
+        },
+        {
+          "text": "If the wood piece is moved too quickly, the frictional heat becomes too high and the glue melts and adheres to the piano wire, making it difficult to remove the glue."
+        },
+        {
+          "text": "If the wood piece is moved too quickly, the frictional heat becomes too high and the glue melts and adheres to the piano wire, making it difficult to remove the glue."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "753_5.0_jpn_11581159_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "If the glass is to be reused, affix a mark for positioning the installation. Remove the glass using the suction rubber disk. Remove the remaining clip and dam rubber from the body."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front windshield glass installation"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Scrape off any adhesive remaining on the body with a knife or similar tool to smooth the entire circumference to a thickness of 1-2 mm. Clean the adhesive surface with white gasoline or alcohol."
+        },
+        {
+          "text": "Scrape off any adhesive remaining on the body with a knife or similar tool to smooth the entire circumference to a thickness of 1-2 mm. Clean the adhesive surface with white gasoline or alcohol."
+        },
+        {
+          "text": "If the glass is to be reused, scrape off any remaining adhesive, clips, or dam rubbers from the glass with a spatula, and clean with white gasoline or alcohol."
+        },
+        {
+          "text": "If the glass is to be reused, scrape off any remaining adhesive, clips, or dam rubbers from the glass with a spatula, and clean with white gasoline or alcohol."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "753_5.0_jpn_11677551_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the clip (A). Align seal (B) with mounting position (C) and install. （C）： 0B 72mm 2LB 68mm 2RB 67mm 4LB 64mm 4RB 61mm"
+    },
+    {
+      "type": "figure",
+      "asset": "753_5.0_jpn_11677552_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Cut and install dam rubber (A) to a length of 1061 mm. Cut and install dam rubber (B) to a length of 1040 mm. Cut and install dam rubber (C) to a length of 637 mm."
+    },
+    {
+      "type": "figure",
+      "asset": "753_5.0_jpn_11581162_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Using a suction rubber disk, place the glass on the body by aligning the clip (A) with the hole position on the body. Check that the adhesive surface is even all around. If the glass is replaced, affix a mark for positioning the installation."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the glass is reused, check the marks for installation positioning. If necessary, correct the position."
+        },
+        {
+          "text": "If the glass is reused, check the marks for installation positioning. If necessary, correct the position."
+        },
+        {
+          "text": "Avoid direct contact with cleaned glass surfaces. Re-clean if contamination adheres."
+        },
+        {
+          "text": "Avoid direct contact with cleaned glass surfaces. Re-clean if contamination adheres."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "753_5.0_jpn_11677553_3.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not apply body primer."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply glass primer inside the dam rubber and along the perimeter of the glass."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Glass primer should be applied without thickening, shattering, or scaling."
+        },
+        {
+          "text": "Glass primer should be applied without thickening, shattering, or scaling."
+        },
+        {
+          "text": "The glass corner should be applied with reference to the primer application position indicator mark."
+        },
+        {
+          "text": "The glass corner should be applied with reference to the primer application position indicator mark."
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not apply glass primer.",
+        "Interior parts shall be covered with anti-adhesion covers."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "No thick coating."
+        },
+        {
+          "text": "No thick coating."
+        },
+        {
+          "text": "Not applied to adhesives."
+        },
+        {
+          "text": "Not applied to adhesives."
+        },
+        {
+          "text": "Allow to dry naturally for at least 10 minutes after application."
+        },
+        {
+          "text": "Allow to dry naturally for at least 10 minutes after application."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "753_5.0_jpn_11581164_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Cut the nozzle tip (A) of the cartridge as shown. Install the cartridge into the gun."
+    },
+    {
+      "type": "figure",
+      "asset": "753_5.0_jpn_11677554_3.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The adhesive should be set into the body within 5 minutes after application."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "753_5.0_jpn_11581166_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Using a suction rubber plate, install the glass (A) in alignment with the positioning marks. Press lightly around the entire perimeter of the glass to ensure complete adhesion. Correct any overflow or lack of adhesive with a spatula or similar tool."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be sure to observe the leaving time.",
+        "Avoid vibration that causes adhesive failure."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Check the minimum leaving time and leave it. ​",
+      "refs": [
+        {
+          "id": "G000752",
+          "label": "Check the minimum leaving time and leave it.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Cowl Top Mounting",
+      "refs": [
+        {
+          "id": "R000846",
+          "label": "Cowl Top Mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Front Pillar Cover Installation",
+      "refs": [
+        {
+          "id": "R000847",
+          "label": "Front Pillar Cover Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Roof Lining Installation",
+      "refs": [
+        {
+          "id": "R000766",
+          "label": "Roof Lining Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not force the roof lining to bend."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Front pillar garnish installation"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Side curtains Non-equipped vehicles without airbags",
+          "refs": [
+            {
+              "id": "R000758",
+              "label": "Side curtains Non-equipped vehicles without airbags",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtains Non-equipped vehicles without airbags",
+          "refs": [
+            {
+              "id": "R000758",
+              "label": "Side curtains Non-equipped vehicles without airbags",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtain airbag-equipped vehicles",
+          "refs": [
+            {
+              "id": "R000759",
+              "label": "Side curtain airbag-equipped vehicles",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtain airbag-equipped vehicles",
+          "refs": [
+            {
+              "id": "R000759",
+              "label": "Side curtain airbag-equipped vehicles",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. City Brake Active System radar/control unit installation (for vehicles equipped with City Brake Active System)",
+      "refs": [
+        {
+          "id": "R002241",
+          "label": "City Brake Active System radar/control unit installation (for vehicles equipped with City Brake Active System)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Room Mirror Installation",
+      "refs": [
+        {
+          "id": "R000749",
+          "label": "Room Mirror Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. City Brake Active System radar/control unit learning value reset (for vehicles equipped with City Brake Active System)",
+      "refs": [
+        {
+          "id": "R002245",
+          "label": "City Brake Active System radar/control unit learning value reset (for vehicles equipped with City Brake Active System)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Front Windshield Water Leakage Test",
+      "refs": [
+        {
+          "id": "R000741",
+          "label": "Front Windshield Water Leakage Test",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Apply sealant if leakage occurs."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000753_jpn/web/html/R000753_jpn_Content.html",
+  "inOutline": true
+}

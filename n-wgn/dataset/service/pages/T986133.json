@@ -1,0 +1,101 @@
+{
+  "id": "T986133",
+  "title": "Cannot be locked/unlocked by smart operation (lock/unlock switch) or keyless entry operation",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986133",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T001399",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cannot be locked/unlocked by smart operation (lock/unlock switch) or keyless entry operation"
+    },
+    {
+      "type": "paragraph",
+      "text": "diagnostic procedure"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Failure Diagnosis by Symptom ​",
+          "refs": [
+            {
+              "id": "T001399",
+              "label": "Failure Diagnosis by Symptom",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "checklist"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Honda Smart Key Not Registered"
+        },
+        {
+          "text": "Each door Switch"
+        },
+        {
+          "text": "Tailgate latch switch"
+        },
+        {
+          "text": "Disconnection or short-circuit of FR DOOR SW line"
+        },
+        {
+          "text": "Disconnection or short-circuit of OTHER DOOR SW line"
+        },
+        {
+          "text": "Door lock knob switch"
+        },
+        {
+          "text": "Blown No. C23 (15A), No. C35 (15A), No. C37 (15A), No. C38 (15A) fuses in fuse box"
+        },
+        {
+          "text": "No. C23 (15A), No. C35 (15A), No. C37 (15A), No. C38 (15A) fuse lines in fuse box disconnected or shorted"
+        },
+        {
+          "text": "Each door lock actuator"
+        },
+        {
+          "text": "Honda Smart Key"
+        },
+        {
+          "text": "LF Antenna"
+        },
+        {
+          "text": "MICU"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986133_jpn/web/html/T986133_jpn_Content.html",
+  "inOutline": true
+}

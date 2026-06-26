@@ -1,0 +1,53 @@
+{
+  "id": "071_C106_C106_Male__C106_Female",
+  "category": "connector",
+  "connectorRef": "C106",
+  "physicalIds": [
+    "C106"
+  ],
+  "name": "C106 (Male) / C106 (Female)",
+  "nameRu": "Разъём C106, штыревая часть / Разъём C106, гнездовая часть",
+  "type": "MiddleCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "91717-RTA -0030-H1_91707-RTA -0030-H1",
+  "partNumbers": [
+    "91707-RTA -0030-H1",
+    "91717-RTA -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-",
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)",
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "PCM (All)",
+    "Starting System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91717-RTA -0030-H1_91707-RTA -0030-H1.svg",
+    "viewBox": "0 0 29.62 113.858",
+    "width": 29.62,
+    "height": 113.858
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK/WHT / BRN",
+      "circuit": "STMG / ST_MG_SW",
+      "english": "STMG  /  ST, magnetic, switch",
+      "russian": "STMG  /  ST, электромагнитный, выключатель",
+      "terminal": "M00A",
+      "geometry": {
+        "x": 12.455,
+        "y": 105.29,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

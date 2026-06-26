@@ -1,0 +1,49 @@
+{
+  "id": "132_BB10_Horn_Switch_1P_Connector",
+  "category": "connector",
+  "connectorRef": "BB10",
+  "physicalIds": [
+    "BB10"
+  ],
+  "name": "Horn Switch 1P Connector",
+  "nameRu": "Разъём Horn выключатель, 1 контактов",
+  "type": "DirectCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "32112-500 -3100",
+  "partNumbers": [
+    "32112-500 -3100"
+  ],
+  "harnesses": [
+    "77901-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Steering"
+  ],
+  "systems": [
+    "Cable Reel",
+    "Horns"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/32112-500 -3100.svg",
+    "viewBox": "0 0 25.489 46.142",
+    "width": 25.489,
+    "height": 46.142
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "HORN+B",
+      "english": "HORN+B",
+      "russian": "HORN+B",
+      "terminal": "61A000",
+      "geometry": {
+        "x": 10.672,
+        "y": 39.74,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

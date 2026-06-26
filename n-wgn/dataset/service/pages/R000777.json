@@ -1,0 +1,65 @@
+{
+  "id": "R000777",
+  "title": "Instrument Center Panel Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "interior",
+  "system": "Instrument Panel",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000777",
+  "assets": [
+    "777_3.0_jpn_11371281_3.0_disp.png",
+    "777_3.0_jpn_11390121_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Instrument Center Panel Removal and Installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Center panel removal"
+    },
+    {
+      "type": "figure",
+      "asset": "777_3.0_jpn_11390121_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the center panel (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "777_3.0_jpn_11371281_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the coupler (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000777_jpn/web/html/R000777_jpn_Content.html",
+  "inOutline": true
+}

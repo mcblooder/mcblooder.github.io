@@ -1,0 +1,64 @@
+{
+  "id": "R001030",
+  "title": "Correction of outside temperature display",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "indicator",
+  "system": "Outside temperature display component",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001030",
+  "assets": [
+    "1030_3.0_jpn_11037266_3.0_disp.png",
+    "1030_3.0_jpn_11037267_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Correction of outside temperature display"
+    },
+    {
+      "type": "paragraph",
+      "text": "Combination Correct the outside temperature display if the meter or outside temperature sensor has been replaced or if correction is required."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Outside temperature display Confirmation"
+    },
+    {
+      "type": "figure",
+      "asset": "1030_3.0_jpn_11037266_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition to ON mode. Use the SEL/RESET switch to display the outside temperature. Cool the outside temperature sensor (A) as follows: make sure that the entire display flashes 10 times only when the outside temperature display first shows 4°C or higher to 3°C or lower. Check whether the outside temperature display matches the thermometer (B), and if not, go to step 2."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Outside temperature display Correction"
+    },
+    {
+      "type": "figure",
+      "asset": "1030_3.0_jpn_11037267_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "While the outside temperature is displayed, hold down the SEL/RESET switch for at least 10 seconds, check that the outside temperature display changes as follows, and release the hand from the SEL/RESET switch at the correction value for the deviation from the thermometer. Check that the outside temperature display matches the thermometer. If they do not match, perform the correction again."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001030_jpn/web/html/R001030_jpn_Content.html",
+  "inOutline": true
+}

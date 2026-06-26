@@ -1,0 +1,58 @@
+{
+  "id": "R000698",
+  "title": "Brake Wheel Cylinder Overhaul",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "",
+  "sectionCode": "",
+  "subsection": "",
+  "system": "",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000698",
+  "assets": [
+    "698_3.0_jpn_11035933_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Brake Wheel Cylinder Overhaul"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Wheel Cylinder Development"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not allow brake fluid to adhere to painted surfaces. If it does adhere, wash it off with water immediately.",
+        "To prevent brake fluid from leaking out, disconnected pipe joints should be plugged with a plug or the like.",
+        "Disassembled parts should be cleaned, and each port should be checked for ventilation by cleaning with compressed air, etc.",
+        "Disassembled parts should be kept free from dust and debris.",
+        "Each component should be assembled after making sure that it is free from dust and dirt.",
+        "Parts that are specified to be replaced must be replaced with new ones.",
+        "Do not use different brands of brake fluid to prevent chemical changes.",
+        "Genuine Honda Ultra Brake Fluid DOT3 or DOT4 must be used.",
+        "Do not reuse drained brake fluid."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Apply Nisseki Mitsubishi rubber grease to the mounting area of the dust cover before installing it on the piston and cylinder."
+    },
+    {
+      "type": "figure",
+      "asset": "698_3.0_jpn_11035933_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000698_jpn/web/html/R000698_jpn_Content.html",
+  "inOutline": false
+}

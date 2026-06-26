@@ -1,0 +1,340 @@
+{
+  "id": "C001991",
+  "title": "Interior Light Structure Description - Control/Function",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Interior Lights",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001991",
+  "assets": [
+    "1991_3.0_jpn_11242818_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Interior Light Structure Description - Control/Function"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Interior Light Control"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following control functions are available depending on the input signal of each switch and the vehicle status."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the initial state when the power is connected, the system detects and controls the open/close status of each door from each door switch without being affected by the state of the ignition switch."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "input signal",
+          "Vehicle Condition",
+          "output (e.g. of dynamo)"
+        ],
+        [
+          "Door switches for each seat",
+          "Ignition switch",
+          "pre-entry state",
+          "post-entry activation"
+        ],
+        [
+          "Either ON (Door open)",
+          "―",
+          "―",
+          "lighting (a lamp)"
+        ],
+        [
+          "―",
+          "―",
+          "Operated by Timer 3"
+        ],
+        [
+          "All OFF (DOOR CLOSES)",
+          "―",
+          "―",
+          "dimming"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A \"-\" in the table indicates that it is not used for control."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detects and controls locking/unlocking of the driver door from the driver door lock knob switch."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "input signal",
+          "Vehicle Condition",
+          "output (e.g. of dynamo)"
+        ],
+        [
+          "Door lock knob switch",
+          "Door of each seat switch",
+          "ignition switch",
+          "pre-entry state",
+          "post-entry activation"
+        ],
+        [
+          "ON (lock) from (e.g. time, place, numerical quantity) OFF (unlocked)",
+          "All OFF (DOOR CLOSES)",
+          "OFF mode",
+          "lighting conditions",
+          "Operated by Timer 1"
+        ],
+        [
+          "unlit state",
+          "Operated by Timer 4"
+        ],
+        [
+          "OFF mode",
+          "―",
+          "Continuation of pre-input state"
+        ],
+        [
+          "Either one is ON (Door open)",
+          "OFF mode",
+          "―"
+        ],
+        [
+          "OFF (unlocked) from (e.g. time, place, numerical quantity) ON (lock)",
+          "All OFF (DOOR CLOSES)",
+          "OFF mode",
+          "―",
+          "dimming"
+        ],
+        [
+          "Either one is ON (Door open)",
+          "OFF mode",
+          "―",
+          "Continuation of pre-input state"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A \"-\" in the table indicates that it is not used for control."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detects and controls the open/close status of each door from each door switch."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "input",
+          "Vehicle Condition",
+          "output (e.g. of dynamo)"
+        ],
+        [
+          "Door switches for each seat",
+          "Door locks Knob Switch",
+          "ignition switch",
+          "pre-entry state",
+          "post-entry activation"
+        ],
+        [
+          "Any ON (door open) to all OFF (door closed)",
+          "OFF",
+          "OFF mode",
+          "lighting conditions",
+          "Operated by Timer 2"
+        ],
+        [
+          "unlit state",
+          "Continuation of pre-input state"
+        ],
+        [
+          "ON mode",
+          "―",
+          "dimming"
+        ],
+        [
+          "―",
+          "―",
+          "dimming"
+        ],
+        [
+          "ON",
+          "―",
+          "―"
+        ],
+        [
+          "Either OFF (door closed) to ON (door open)",
+          "―",
+          "OFF mode",
+          "lighting conditions",
+          "Operated by Timer 3 (Timer restart)"
+        ],
+        [
+          "unlit state",
+          "Operated by Timer 3"
+        ],
+        [
+          "ON mode",
+          "―",
+          "lighting (a lamp)"
+        ],
+        [
+          "―",
+          "―"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A \"-\" in the table indicates that it is not used for control."
+    },
+    {
+      "type": "paragraph",
+      "text": "Detects and controls the ON mode/OFF mode of the ignition."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "input",
+          "Vehicle Condition",
+          "output (e.g. of dynamo)"
+        ],
+        [
+          "ignition switch",
+          "Door switches for each seat",
+          "pre-entry state",
+          "post-entry activation"
+        ],
+        [
+          "OFF mode from ON mode",
+          "All OFF (door closed)",
+          "lighting conditions",
+          "Operated by Timer 1"
+        ],
+        [
+          "unlit state",
+          "Operated by Timer 4"
+        ],
+        [
+          "Either one is ON (door open)",
+          "―",
+          "Operated by Timer 3"
+        ],
+        [
+          "―",
+          "―",
+          "Continuation of pre-input state"
+        ],
+        [
+          "ON mode from OFF mode",
+          "All OFF (door closed)",
+          "―",
+          "dimming"
+        ],
+        [
+          "Either one is ON (door open)",
+          "―",
+          "lighting (a lamp)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A \"-\" in the table indicates that it is not used for control."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keyless Entry Control by a system signal."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "input",
+          "Vehicle Condition",
+          "output (e.g. of dynamo)"
+        ],
+        [
+          "keyless signal",
+          "Door switches for each seat",
+          "Door lock knob switch",
+          "pre-entry state",
+          "post-entry activation"
+        ],
+        [
+          "unlock signal",
+          "All OFF (door closed)",
+          "ON (lock) to OFF (unlock) or OFF (unlock)",
+          "―",
+          "Operated by Timer 4"
+        ],
+        [
+          "ON (lock)",
+          "―",
+          "Continuation of pre-input state"
+        ],
+        [
+          "Either one is ON (door open)",
+          "―",
+          "―",
+          "Operated by Timer 3"
+        ],
+        [
+          "lock signal",
+          "All OFF (door closed)",
+          "OFF (unlock) to ON (lock) or ON (lock)",
+          "―",
+          "dimming"
+        ],
+        [
+          "OFF (unlocked)",
+          "―",
+          "Continuation of pre-input state"
+        ],
+        [
+          "Either one is ON (door open)",
+          "―",
+          "―",
+          "Continuation of pre-input state"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A \"-\" in the table indicates that it is not used for control."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Timer function"
+    },
+    {
+      "type": "paragraph",
+      "text": "The timer function of the interior light control is duty-controlled for turning on/off lights."
+    },
+    {
+      "type": "figure",
+      "asset": "1991_3.0_jpn_11242818_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001991_jpn/web/html/C001991_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,377 @@
+{
+  "id": "T001366",
+  "title": "How to proceed with auto air conditioner failure diagnosis",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001366",
+  "assets": [
+    "1366_3.0_jpn_11038192_3.0_disp.png",
+    "1366_3.0_jpn_11038193_3.0_disp.png",
+    "1366_3.0_jpn_11038194_3.0_disp.png",
+    "1366_3.0_jpn_11038195_3.0_disp.png",
+    "1366_3.0_jpn_11266161_2.0_disp.png",
+    "1366_3.0_jpn_11266162_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "How to proceed with auto air conditioner failure diagnosis"
+    },
+    {
+      "type": "paragraph",
+      "text": "The self-diagnostic function of the auto A/C control unit can also check DTCs."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. Connect HDS to the data link coupler (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "1366_3.0_jpn_11266161_2.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For information on the use of HDS, refer to the HDS instruction manual."
+        },
+        {
+          "text": "After repairing the faulty part, clear the DTC with HDS."
+        },
+        {
+          "text": "When clearing DTC, work according to HDS instructions."
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. Connect HDS to the data link coupler (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "1366_3.0_jpn_11266162_2.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For information on the use of HDS, refer to the HDS instruction manual."
+        },
+        {
+          "text": "After repairing the faulty part, clear the DTC with HDS."
+        },
+        {
+          "text": "When clearing DTC, work according to HDS instructions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The auto A/C control unit has a self-diagnostic function."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The self-diagnostic operation is valid only once after the ignition ON mode."
+        },
+        {
+          "text": "During self-diagnosis, all systems are automatically activated for up to approximately 90 seconds."
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "3. After self-diagnosis is completed, if there is an error, the error code corresponding to the faulty part of the temperature setting indicator ''88'' lights up. After the error code is lit for 1 second, it is turned off for 0.5 seconds, after which the error code is lit repeatedly. If there is more than one failure, the error codes are turned on in order of error code (from 01 to number), and after all error codes are turned on, the display returns to the first error code. If there is no abnormality, ''no'' lights up."
+    },
+    {
+      "type": "figure",
+      "asset": "1366_3.0_jpn_11038192_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "3. If there has been an abnormality in the past, the error code corresponding to the faulty part of the set temperature indicator ''88'' will light up. The error code is illuminated for 1 second, followed by 0.5 seconds of the light being off, after which the error code is illuminated repeatedly. If there is more than one failure, the error codes are turned on in order of error code (from 01 to number), and after all error codes are turned on, the display returns to the first error code. If there is no abnormality, ''no'' lights up."
+    },
+    {
+      "type": "figure",
+      "asset": "1366_3.0_jpn_11038193_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "After repairing the faulty part, the presence of the faulty part shall be checked again by the self-diagnostic function."
+    },
+    {
+      "type": "figure",
+      "asset": "1366_3.0_jpn_11038194_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Error Code",
+          "DTC",
+          "trouble spot"
+        ],
+        [
+          "01",
+          "B1225",
+          "Disconnection of cord of internal air temperature sensor, sensor failure"
+        ],
+        [
+          "02",
+          "B1226",
+          "Shorted cord of internal air temperature sensor, defective sensor"
+        ],
+        [
+          "05",
+          "B1227",
+          "Disconnection of cord of outside temperature sensor, sensor failure"
+        ],
+        [
+          "06",
+          "B1228",
+          "Short-circuited cord of outside temperature sensor, defective sensor"
+        ],
+        [
+          "07",
+          "B1229",
+          "Disconnection of cord of solar radiation sensor, sensor failure"
+        ],
+        [
+          "08",
+          "B1230",
+          "Short circuit in cord of solar radiation sensor, sensor failure"
+        ],
+        [
+          "09",
+          "B1231",
+          "Evaporator Disconnection of sensor cord, sensor failure"
+        ],
+        [
+          "0A",
+          "B1232",
+          "Evaporator Shorted sensor cord, defective sensor"
+        ],
+        [
+          "40",
+          "B1233",
+          "Disconnection of potentiometer of air mix motor"
+        ],
+        [
+          "41",
+          "B1234",
+          "Short circuit of potentiometer of air mix motor"
+        ],
+        [
+          "42",
+          "B1235",
+          "Air Mix Motor Locks"
+        ],
+        [
+          "4b",
+          "B1240",
+          "Mode Motor Lock"
+        ],
+        [
+          "4C",
+          "B1239",
+          "Mode Disconnection or short-circuit of motor cord"
+        ],
+        [
+          "59",
+          "B1241",
+          "Blower Motor cord break, short, blown fuse, motor lock"
+        ],
+        [
+          "80",
+          "U1280",
+          "Auto A/C control unit communication circuit error (Bus off)"
+        ],
+        [
+          "81",
+          "U128D",
+          "Auto A/C Control Unit cannot receive communication from Combination Meter Control Unit (water temperature frame)"
+        ],
+        [
+          "83",
+          "U128D",
+          "Auto A/C Control Unit cannot receive communication from Combination Meter Control Unit (VSP frame)"
+        ],
+        [
+          "C0",
+          "―――",
+          "Auto A/C control unit internal failure"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If segments 01, 05, 07, 40, and 4C light up simultaneously, the common sensor GND code may be disconnected."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Information on each sensor input to the auto A/C control unit can be displayed."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the ignition is turned on mode while pressing the AUTO switch and the inside/outside air changeover switch at the same time, the display will shift to the sensor display mode. After the display, each time the rear defroster/mirror heater switch is pressed, the sensor number is displayed UP."
+    },
+    {
+      "type": "figure",
+      "asset": "1366_3.0_jpn_11038195_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Flashing sensor No. and information alternately on the set temperature indicator."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Sensor No.",
+          "Indication Sensor",
+          "unit"
+        ],
+        [
+          "1",
+          "Internal temperature sensor",
+          "（°C）"
+        ],
+        [
+          "2",
+          "Outside temperature sensor",
+          "（°C）"
+        ],
+        [
+          "3",
+          "Solar radiation sensor",
+          "（10W/m 2 ）"
+        ],
+        [
+          "4",
+          "Evaporator Sensor",
+          "（°C）"
+        ],
+        [
+          "5",
+          "Air mix motor (potentiometer value)",
+          "（%）"
+        ],
+        [
+          "6",
+          "vehicle speed",
+          "（10km/h）"
+        ],
+        [
+          "7",
+          "water temperature",
+          "（°C）"
+        ],
+        [
+          "8",
+          "Required outlet temperature",
+          "（°C）"
+        ],
+        [
+          "9",
+          "Illumination (dimming step)**",
+          "―――"
+        ],
+        [
+          "A",
+          "Idle Stop Not Allowed Flag",
+          "―――"
+        ],
+        [
+          "b",
+          "not used",
+          "―――"
+        ],
+        [
+          "C",
+          "not used",
+          "―――"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "*: \"Er\" is always displayed for vehicles not equipped with illumination control."
+    },
+    {
+      "type": "paragraph",
+      "text": "Temperature (°C) and potentiometer values are indicated by a combination of defined segments."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Temperature (°C)",
+          "Potentiometric value (%)",
+          "Segment Display"
+        ],
+        [
+          "－1°C－－9°C",
+          "－1%－－9%",
+          "A1－A9"
+        ],
+        [
+          "－10°C－－19°C",
+          "－10%－－19%",
+          "B0－B9"
+        ],
+        [
+          "－20°C－－29°C",
+          "－20%－－29%",
+          "C0－C9"
+        ],
+        [
+          "－30°C－－39°C",
+          "－30%－－39%",
+          "D0－D9"
+        ],
+        [
+          "－40°C－－49°C",
+          "－40%－－49%",
+          "E0－E9"
+        ],
+        [
+          "100°C－109°C",
+          "100%－109%",
+          "F0－F9"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "During the sensor value display mode, the system returns to normal operation by pressing the AUTO switch or by turning the ignition OFF (LOCK) mode."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001366_jpn/web/html/T001366_jpn_Content.html",
+  "inOutline": true
+}

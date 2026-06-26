@@ -1,0 +1,70 @@
+{
+  "id": "R000592",
+  "title": "Differential case bearing replacement",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM differential",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000592",
+  "assets": [
+    "592_3.0_jpn_11035269_3.0_disp.png",
+    "592_3.0_jpn_11035270_3.0_disp.png",
+    "592_3.0_jpn_11035271_3.0_disp.png",
+    "592_3.0_jpn_11035272_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Differential case bearing replacement"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Differential case bearing removal"
+    },
+    {
+      "type": "figure",
+      "asset": "592_3.0_jpn_11035269_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "592_3.0_jpn_11035270_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply the collar (B) to the differential case (A) and remove the bearing (D) using the bearing puller (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Differential case bearing installation"
+    },
+    {
+      "type": "figure",
+      "asset": "592_3.0_jpn_11035271_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "592_3.0_jpn_11035272_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the bearing with the cover side (A) down and press-fit the new bearing using the inner driver handle 40 and a press. Install the bearing so that there is no clearance between the bearing and the differential case."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000592_jpn/web/html/R000592_jpn_Content.html",
+  "inOutline": true
+}

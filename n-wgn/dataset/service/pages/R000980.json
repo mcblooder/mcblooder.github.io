@@ -1,0 +1,70 @@
+{
+  "id": "R000980",
+  "title": "Side turn signal light/valve removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Turn Signal/Hazard Lights",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000980",
+  "assets": [
+    "980_3.0_jpn_11037128_3.0_disp.png",
+    "980_3.0_jpn_11037129_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Side turn signal light/valve removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Side turn signal light removal"
+    },
+    {
+      "type": "figure",
+      "asset": "980_3.0_jpn_11037128_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Push the retaining spring (B) from the notch (front side of the vehicle) of the side turn signal light (A) and remove the side turn signal light. Protect the fender with a rag to prevent scratching. Disconnect the coupler (C) and remove the side turn signal light."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Valve removal"
+    },
+    {
+      "type": "figure",
+      "asset": "980_3.0_jpn_11037129_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the socket (A) by rotating it counterclockwise and remove the valve (B). Side turn signal light: 12V-5W"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000980_jpn/web/html/R000980_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,194 @@
+{
+  "id": "078_B_Under-Dash_Fuse_Relay_Box_Connector_B_10P_Female",
+  "category": "connector",
+  "connectorRef": "B / EA13",
+  "physicalIds": [
+    "EA13"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector B (10P), гнездовая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 10,
+  "populatedPinCount": 8,
+  "faceviewPart": "91767-SHJ -0030-H1",
+  "partNumbers": [
+    "91767-SHJ -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side",
+    "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Front Side"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "Auto Idle Stop System",
+    "Charging System",
+    "City-Brake Active System",
+    "Cruise Control",
+    "CVT Control System",
+    "ETCS (Electronic Throttle Control System)",
+    "Fog Lights",
+    "Fuel Supply System",
+    "Gauges",
+    "Headlight Leveling System",
+    "Ignition System",
+    "Junction Connectors",
+    "PCM (All)",
+    "PCM Power and Ground",
+    "PGM-FI System",
+    "Power Supply",
+    "Power, Grounds and Diagnostics",
+    "Wiper/Washer (Rear Window)",
+    "Wiper/Washer (Windshield)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91767-SHJ -0030-H1.svg",
+    "viewBox": "0 0 166.152 67.165",
+    "width": 166.152,
+    "height": 67.165
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "FR_WASHER_MTR",
+      "english": "front, washer, motor",
+      "russian": "передний, омыватель, электродвигатель",
+      "terminal": "430A000",
+      "geometry": {
+        "x": 11.162,
+        "y": 22.153,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "IG1_MICU(BST)",
+      "english": "ignition IG1, MICU, BST",
+      "russian": "зажигание IG1, блок MICU, BST",
+      "terminal": "G36B",
+      "geometry": {
+        "x": 38.988,
+        "y": 22.153,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "FI_MAIN_RLY_OUT",
+      "english": "fuel injection, main, relay, output",
+      "russian": "впрыск топлива, главный, реле, выход",
+      "terminal": "D04C",
+      "geometry": {
+        "x": 122.471,
+        "y": 22.153,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "IG1_FUEL_PUMP",
+      "english": "ignition IG1, fuel, pump",
+      "russian": "зажигание IG1, топливо, насос",
+      "terminal": "G01D",
+      "geometry": {
+        "x": 150.3,
+        "y": 22.153,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "RR_WASHER_MTR",
+      "english": "rear/right, washer, motor",
+      "russian": "задний/правый, омыватель, электродвигатель",
+      "terminal": "431E",
+      "geometry": {
+        "x": 11.162,
+        "y": 50.498,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "IG1_MICU(BST)",
+      "english": "ignition IG1, MICU, BST",
+      "russian": "зажигание IG1, блок MICU, BST",
+      "terminal": "G36F",
+      "geometry": {
+        "x": 38.989,
+        "y": 50.498,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 66.816,
+        "y": 50.498,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-RR)",
+      "english": "Ground (ENG-RR)",
+      "russian": "Масса (ENG-RR)",
+      "terminal": "Z01H",
+      "geometry": {
+        "x": 94.643,
+        "y": 50.498,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 122.472,
+        "y": 50.498,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "RED",
+      "circuit": "IG1_IG_COIL1",
+      "english": "ignition IG1, IG, COIL1",
+      "russian": "зажигание IG1, IG, COIL1",
+      "terminal": "G06K",
+      "geometry": {
+        "x": 147.852,
+        "y": 50.498,
+        "svgTextId": "SVGID_10_"
+      }
+    }
+  ]
+}

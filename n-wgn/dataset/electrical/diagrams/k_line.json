@@ -1,0 +1,35 @@
+{
+  "id": "k_line",
+  "category": "electrical_diagram",
+  "title": "K-Line Communication Line",
+  "system": "k_line",
+  "sheetCount": 3,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/k_line/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/k_line/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/k_line/sheet3.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Audio Unit"
+    ],
+    "Couplers": [
+      "Audio Unit Connector A (24P) (Female)",
+      "Data Link Connector (DLC) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "R000825",
+  "title": "Bonnet lock removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "hood",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000825",
+  "assets": [
+    "825_3.0_jpn_11581465_3.0_disp.png",
+    "825_3.0_jpn_11581466_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000820",
+      "label": "Hood Construction Adjustment",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Bonnet lock removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Bonnet lock removal"
+    },
+    {
+      "type": "figure",
+      "asset": "825_3.0_jpn_11581465_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "825_3.0_jpn_11581466_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the hood lock (A). Disconnect the bonnet opener cable (B) from the hood lock."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Hood Construction Adjustment",
+      "refs": [
+        {
+          "id": "R000820",
+          "label": "Hood Construction Adjustment",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000825_jpn/web/html/R000825_jpn_Content.html",
+  "inOutline": true
+}

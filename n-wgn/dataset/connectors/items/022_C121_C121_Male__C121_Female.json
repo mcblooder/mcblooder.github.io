@@ -1,0 +1,75 @@
+{
+  "id": "022_C121_C121_Male__C121_Female",
+  "category": "connector",
+  "connectorRef": "C121",
+  "physicalIds": [
+    "C121"
+  ],
+  "name": "C121 (Male) / C121 (Female)",
+  "nameRu": "Разъём C121, штыревая часть / Разъём C121, гнездовая часть",
+  "type": "MiddleCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "98383-00002-00_984B3-00002-00",
+  "partNumbers": [
+    "98383-00002-00",
+    "984B3-00002-00"
+  ],
+  "harnesses": [
+    "32109-T6G_-ZZ00-",
+    "34271-T6G_-J010-"
+  ],
+  "locations": [
+    "Body > Tailgate"
+  ],
+  "systems": [
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "Back-Up Lights",
+    "Brake Lights",
+    "City-Brake Active System",
+    "Entry Light Control System",
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "Rear Window/Power Mirror Defoggers",
+    "VSA",
+    "Wiper/Washer (Rear Window)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/98383-00002-00_984B3-00002-00.svg",
+    "viewBox": "0 0 59.721 117.292",
+    "width": 59.721,
+    "height": 117.292
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT/BLK / RED",
+      "circuit": "GND(RR-R) / STOP_LT",
+      "english": "ground, RR-R,   /  STOP, light",
+      "russian": "масса, RR-R,   /  STOP, освещение",
+      "terminal": "Z90I / 13B000",
+      "geometry": {
+        "x": 16.297,
+        "y": 103.197,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "WHT/BLK / BLK",
+      "circuit": "STOP_LT / GND(RR-R)",
+      "english": "brake light, LT  /  GND, RR-R",
+      "russian": "стоп-сигнал, LT  /  GND, RR-R",
+      "terminal": "13C / Z90A002",
+      "geometry": {
+        "x": 38.974,
+        "y": 103.197,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

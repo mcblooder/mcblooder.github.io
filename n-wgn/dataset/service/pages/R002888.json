@@ -1,0 +1,151 @@
+{
+  "id": "R002888",
+  "title": "Instrument Driver Panel Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "interior",
+  "system": "Instrument Panel",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002888",
+  "assets": [
+    "2888_3.0_jpn_11387492_3.0_disp.png",
+    "2888_3.0_jpn_11390120_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002064",
+      "label": "Audio panel removal (for vehicles equipped with audio system)",
+      "resolved": true
+    },
+    {
+      "id": "R000777",
+      "label": "Center panel removal (for vehicles not equipped with audio system)",
+      "resolved": true
+    },
+    {
+      "id": "R000770",
+      "label": "Meter panel removal",
+      "resolved": true
+    },
+    {
+      "id": "R000780",
+      "label": "Center lower cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000771",
+      "label": "Driver lower cover removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Instrument Driver Panel Removal and Installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Audio panel removal (for vehicles equipped with audio system)",
+      "refs": [
+        {
+          "id": "R002064",
+          "label": "Audio panel removal (for vehicles equipped with audio system)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Center panel removal (for vehicles not equipped with audio system)",
+      "refs": [
+        {
+          "id": "R000777",
+          "label": "Center panel removal (for vehicles not equipped with audio system)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Meter panel removal",
+      "refs": [
+        {
+          "id": "R000770",
+          "label": "Meter panel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Center lower cover removal",
+      "refs": [
+        {
+          "id": "R000780",
+          "label": "Center lower cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Driver lower cover removal",
+      "refs": [
+        {
+          "id": "R000771",
+          "label": "Driver lower cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Driver panel removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2888_3.0_jpn_11387492_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A) and harness clip (B). Remove the driver panel (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "2888_3.0_jpn_11390120_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "If necessary, remove the driver center panel (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002888_jpn/web/html/R002888_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,62 @@
+{
+  "id": "187_BD37_Front_Interior_LF_Antenna_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD37",
+  "physicalIds": [
+    "BD37"
+  ],
+  "name": "Front Interior LF Antenna 2P Connector (Female)",
+  "nameRu": "Разъём передний Interior LF Antenna, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91982-SKN -0030-H1",
+  "partNumbers": [
+    "91982-SKN -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Keyless Access System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91982-SKN -0030-H1.svg",
+    "viewBox": "0 0 68.658 37.514",
+    "width": 68.658,
+    "height": 37.514
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "EXT_F+",
+      "english": "EXT, F +",
+      "russian": "EXT, F +",
+      "terminal": "900A",
+      "geometry": {
+        "x": 17.825,
+        "y": 25.901,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "EXT_F-",
+      "english": "EXT, F -",
+      "russian": "EXT, F -",
+      "terminal": "901B",
+      "geometry": {
+        "x": 46.138,
+        "y": 25.901,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

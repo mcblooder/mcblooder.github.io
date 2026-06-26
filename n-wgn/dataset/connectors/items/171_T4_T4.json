@@ -1,0 +1,48 @@
+{
+  "id": "171_T4_T4",
+  "category": "connector",
+  "connectorRef": "T4",
+  "physicalIds": [
+    "T4"
+  ],
+  "name": "T4",
+  "nameRu": "Разъём T4",
+  "type": "DirectCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "32611-TF0 -0030-H1",
+  "partNumbers": [
+    "32611-TF0 -0030-H1"
+  ],
+  "harnesses": [
+    "32601-TY0_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Starter/Ground Cable"
+  ],
+  "systems": [
+    "Ground Cable"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/32611-TF0 -0030-H1.svg",
+    "viewBox": "0 0 48.186 26.782",
+    "width": 48.186,
+    "height": 26.782
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND",
+      "english": "Ground",
+      "russian": "Масса",
+      "terminal": "ZZ1A001",
+      "geometry": {
+        "x": 19.31,
+        "y": 16.6,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "135_EA11_ELD_3P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA11",
+  "physicalIds": [
+    "EA11"
+  ],
+  "name": "ELD 3P Connector (Female)",
+  "nameRu": "Разъём ELD, 3 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "91771-TK8 -A010-M1",
+  "partNumbers": [
+    "91771-TK8 -A010-M1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Charging System",
+    "PCM (All)",
+    "PGM-FI System",
+    "Starting System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91771-TK8 -A010-M1.svg",
+    "viewBox": "0 0 68.778 40.434",
+    "width": 68.778,
+    "height": 40.434
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "ELD",
+      "english": "ELD",
+      "russian": "ELD",
+      "terminal": "D24A",
+      "geometry": {
+        "x": 9.974,
+        "y": 31.917,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-RR)",
+      "english": "Ground (ENG-RR)",
+      "russian": "Масса (ENG-RR)",
+      "terminal": "Z41B",
+      "geometry": {
+        "x": 32.102,
+        "y": 31.917,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "IG1_MICU(BST)",
+      "english": "ignition IG1, MICU, BST",
+      "russian": "зажигание IG1, блок MICU, BST",
+      "terminal": "G36C",
+      "geometry": {
+        "x": 54.231,
+        "y": 31.917,
+        "svgTextId": "SVGID_3_"
+      }
+    }
+  ]
+}

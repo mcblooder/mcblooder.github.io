@@ -1,0 +1,111 @@
+{
+  "id": "cruise",
+  "category": "electrical_diagram",
+  "title": "Cruise Control",
+  "system": "cruise",
+  "sheetCount": 5,
+  "sheets": [
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/cruise/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/cruise/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/cruise/sheet7.svg"
+    },
+    {
+      "name": "sheet8",
+      "asset": "assets/svg/cruise/sheet8.svg"
+    },
+    {
+      "name": "sheet9",
+      "asset": "assets/svg/cruise/sheet9.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "APP Sensor",
+      "Brake Pedal Position Switch",
+      "Cable Reel",
+      "Cruise Control Combination Switch",
+      "DBW Relay",
+      "Engine Start/Stop Switch",
+      "Gauge Control Module",
+      "IG1 Relay 1",
+      "PCM",
+      "PGM-FI Main Relay 1",
+      "Throttle Body",
+      "Transmission Range Sensor",
+      "Vehicle Speed Sensor"
+    ],
+    "Couplers": [
+      "APP Sensor 6P Connector (Female)",
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "Brake Pedal Position Switch 4P Connector (Female)",
+      "C001 (Female)",
+      "C002 (Female)",
+      "C103 (Male)|C103 (Female)",
+      "C105 (Male)|C105 (Female)",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "Cable Reel Connector A (20P) (Female)",
+      "Cable Reel Connector C (20P) (Female)",
+      "Cruise Control Combination Switch 12P Connector (Female)",
+      "Data Link Connector (DLC) (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Gauge Control Module 32P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "PCM Connector E (80P) (Female)",
+      "Sub Relay Block 1",
+      "T1",
+      "Throttle Body 6P Connector (Female)",
+      "Transmission Range Sensor 10P Connector (Female)",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box",
+      "Vehicle Speed Sensor 3P Connector (Female)"
+    ],
+    "Fuses": [
+      "+B_BACK_UP(BST)",
+      "+B_BACK_UP_MAIN(P/S)",
+      "+B_DBW",
+      "+B_DC/DC_1",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "+B_STOP_&_HORN",
+      "07_IG1_RELAY_1",
+      "21_+B_IGP",
+      "32_IG1_ACG",
+      "IG1_METER(P/S)"
+    ],
+    "Grounds": [
+      "G401",
+      "G402"
+    ],
+    "Harnesses": [
+      "BB Cable Reel Subharness",
+      "BD Dashboard Wire Harness",
+      "BQ Roof Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "EM Shift Solenoid Wire Harness A"
+    ]
+  }
+}

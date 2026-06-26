@@ -1,0 +1,82 @@
+{
+  "id": "starting_system",
+  "category": "electrical_diagram",
+  "title": "Starting System",
+  "system": "starting_system",
+  "sheetCount": 3,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/starting_system/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/starting_system/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/starting_system/sheet3.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "12 Volt Battery",
+      "Battery Sensor",
+      "Brake Pedal Position Switch",
+      "Diode",
+      "ELD",
+      "Engine Start/Stop Switch",
+      "PCM",
+      "Starter",
+      "Starter Cut Relay 1",
+      "Starter Cut Relay 2",
+      "Transmission Range Sensor"
+    ],
+    "Couplers": [
+      "(+)",
+      "Brake Pedal Position Switch 4P Connector (Female)",
+      "C106 (Male)|C106 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "ELD 3P Connector (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "PCM Connector E (80P) (Female)",
+      "Starter 1P Connector (Female)",
+      "Sub Relay Block 1",
+      "T1",
+      "T2",
+      "T6",
+      "Transmission Range Sensor 10P Connector (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Q (4P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "+B_STARTER",
+      "+B_STOP_&_HORN",
+      "04_IG1_ST_CUT_RLY_COIL",
+      "STRLD+",
+      "ST_MG_FUSE"
+    ],
+    "Grounds": [
+      "G1",
+      "G202",
+      "G402"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "GA Battery Ground Cable"
+    ]
+  }
+}

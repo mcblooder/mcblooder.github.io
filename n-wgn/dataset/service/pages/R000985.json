@@ -1,0 +1,79 @@
+{
+  "id": "R000985",
+  "title": "Removal and installation of brake switch",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Brake Light",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000985",
+  "assets": [
+    "985_3.0_jpn_11337359_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000683",
+      "label": "Brake pedal adjustment",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removal and installation of brake switch"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not connect the coupler with the brake switch removed. The engine will recognize that the brake is depressed, and the engine will start with a single press of the ENGINE START STOP button, which is dangerous due to engine starting when not intended."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Brake switch removal"
+    },
+    {
+      "type": "figure",
+      "asset": "985_3.0_jpn_11337359_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Rotate the brake switch (B) counterclockwise to remove it. Remove the clip (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Brake pedal adjustment",
+      "refs": [
+        {
+          "id": "R000683",
+          "label": "Brake pedal adjustment",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000985_jpn/web/html/R000985_jpn_Content.html",
+  "inOutline": true
+}

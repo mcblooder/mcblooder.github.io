@@ -1,0 +1,63 @@
+{
+  "id": "138_BD08_Blower_Motor_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD08",
+  "physicalIds": [
+    "BD08"
+  ],
+  "name": "Blower Motor 2P Connector (Female)",
+  "nameRu": "Разъём Blower электродвигатель, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91763-SFE -0030",
+  "partNumbers": [
+    "91763-SFE -0030"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Climate Control",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91763-SFE -0030.svg",
+    "viewBox": "0 0 50.709 33.797",
+    "width": 50.709,
+    "height": 33.797
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "RED",
+      "circuit": "BLOWER_HI",
+      "english": "BLOWER, high",
+      "russian": "BLOWER, высокий",
+      "terminal": "301A",
+      "geometry": {
+        "x": 12.157,
+        "y": 24.511,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "BLOWER_MTR",
+      "english": "BLOWER, motor",
+      "russian": "BLOWER, электродвигатель",
+      "terminal": "300B",
+      "geometry": {
+        "x": 34.103,
+        "y": 24.511,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

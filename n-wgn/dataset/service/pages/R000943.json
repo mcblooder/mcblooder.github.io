@@ -1,0 +1,90 @@
+{
+  "id": "R000943",
+  "title": "Honda Smart Lock/Unlock Switch Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000943",
+  "assets": [
+    "943_3.0_jpn_11287909_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000762",
+      "label": "Tailgate lower lining removal",
+      "resolved": true
+    },
+    {
+      "id": "R000854",
+      "label": "Rear license garnish removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Honda Smart Lock/Unlock Switch Removal and Installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Tailgate lower lining removal",
+      "refs": [
+        {
+          "id": "R000762",
+          "label": "Tailgate lower lining removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear license garnish removal",
+      "refs": [
+        {
+          "id": "R000854",
+          "label": "Rear license garnish removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Tailgate lock/unlock switch removal"
+    },
+    {
+      "type": "figure",
+      "asset": "943_3.0_jpn_11287909_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the tailgate lock/unlock switch (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000943_jpn/web/html/R000943_jpn_Content.html",
+  "inOutline": true
+}

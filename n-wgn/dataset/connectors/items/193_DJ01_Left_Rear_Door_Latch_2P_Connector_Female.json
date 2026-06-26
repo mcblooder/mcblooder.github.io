@@ -1,0 +1,62 @@
+{
+  "id": "193_DJ01_Left_Rear_Door_Latch_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "DJ01",
+  "physicalIds": [
+    "DJ01"
+  ],
+  "name": "Left Rear Door Latch 2P Connector (Female)",
+  "nameRu": "Разъём левый задний Door Latch, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91782-S2A -0030-H1",
+  "partNumbers": [
+    "91782-S2A -0030-H1"
+  ],
+  "harnesses": [
+    "32754-T6G_-0000-"
+  ],
+  "locations": [
+    "Door > Left Rear Door"
+  ],
+  "systems": [
+    "Keyless/Power Door Locks/Security System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91782-S2A -0030-H1.svg",
+    "viewBox": "0 0 46.105 61.986",
+    "width": 46.105,
+    "height": 61.986
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "L_SIDE_DOOR_UNLOCK",
+      "english": "left, SIDE, door, unlock",
+      "russian": "левый, SIDE, дверь, отпирание",
+      "terminal": "581A",
+      "geometry": {
+        "x": 9.49,
+        "y": 47.868,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "L_SIDE_DOOR_LOCK",
+      "english": "left, SIDE, door, lock",
+      "russian": "левый, SIDE, дверь, запирание",
+      "terminal": "580B",
+      "geometry": {
+        "x": 32.167,
+        "y": 47.868,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

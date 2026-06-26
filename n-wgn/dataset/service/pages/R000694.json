@@ -1,0 +1,236 @@
+{
+  "id": "R000694",
+  "title": "Brake Master Power Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "Brake Components",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000694",
+  "assets": [
+    "694_7.0_jpn_11581613_7.0_disp.png",
+    "694_7.0_jpn_11581614_7.0_disp.png",
+    "694_7.0_jpn_11581615_7.0_disp.png",
+    "694_7.0_jpn_11581616_7.0_disp.png",
+    "694_7.0_jpn_11581617_7.0_disp.png",
+    "694_7.0_jpn_11581618_7.0_disp.png",
+    "694_7.0_jpn_11593543_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000691",
+      "label": "Master Cylinder removal",
+      "resolved": true
+    },
+    {
+      "id": "R000924",
+      "label": "Relay box removal",
+      "resolved": true
+    },
+    {
+      "id": "R000685",
+      "label": "air venting",
+      "resolved": true
+    },
+    {
+      "id": "R000683",
+      "label": "Brake pedal Inspection and adjustment",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Brake Master Power Removal and Installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Master Cylinder removal",
+      "refs": [
+        {
+          "id": "R000691",
+          "label": "Master Cylinder removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Master Power Negative Pressure Sensor Coupler Disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "694_7.0_jpn_11581613_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the master power negative pressure sensor bracket (A). Do not remove the vacuum hose or master power negative pressure sensor. Disconnect the coupler (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Master Power Vacuum Hose Disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "694_7.0_jpn_11581614_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the master power vacuum hose (B) from the master power (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Relay box removal",
+      "refs": [
+        {
+          "id": "R000924",
+          "label": "Relay box removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Brake pipe removal"
+    },
+    {
+      "type": "figure",
+      "asset": "694_7.0_jpn_11581615_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the brake pipe (A) from the clamp (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Master Power Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "694_7.0_jpn_11581616_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the clip (A) and joint pin (B). Disconnect the yoke (C) from the brake pedal (D). Remove the master power mounting nut (E)."
+    },
+    {
+      "type": "figure",
+      "asset": "694_7.0_jpn_11581617_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "With the yoke (A) down, pull the master power toward the engine compartment. Remove the master power gasket (B). Replace the master power gasket with a new one at the time of installation."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not damage master power surfaces and stud bolt threads.",
+        "Do not deform the brake pipe significantly."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do not damage master power surfaces and stud bolt threads."
+        },
+        {
+          "text": "Do not damage master power surfaces and stud bolt threads."
+        },
+        {
+          "text": "Do not deform the brake pipe significantly."
+        },
+        {
+          "text": "Do not deform the brake pipe significantly."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Installation Precautions"
+    },
+    {
+      "type": "figure",
+      "asset": "694_7.0_jpn_11581618_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure. Clip (A) is installed as shown in the figure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. air venting",
+      "refs": [
+        {
+          "id": "R000685",
+          "label": "air venting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Brake pedal Inspection and adjustment",
+      "refs": [
+        {
+          "id": "R000683",
+          "label": "Brake pedal Inspection and adjustment",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Push rod Yoke mounting dimensions (reference values)"
+    },
+    {
+      "type": "figure",
+      "asset": "694_7.0_jpn_11593543_5.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000694_jpn/web/html/R000694_jpn_Content.html",
+  "inOutline": true
+}

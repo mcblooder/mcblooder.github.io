@@ -1,0 +1,349 @@
+{
+  "id": "R000448",
+  "title": "ECU removal and installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000448",
+  "assets": [
+    "448_3.0_jpn_11582509_3.0_disp.png",
+    "448_3.0_jpn_11582510_3.0_disp.png",
+    "448_3.0_jpn_11582511_3.0_disp.png",
+    "448_3.0_jpn_11582512_3.0_disp.png",
+    "448_3.0_jpn_11582513_3.0_disp.png",
+    "448_3.0_jpn_11582514_3.0_disp.png",
+    "448_3.0_jpn_11582515_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002224",
+      "label": "12V battery removal",
+      "resolved": true
+    },
+    {
+      "id": "R000912",
+      "label": "Honda Smart Key System Registration",
+      "resolved": true
+    },
+    {
+      "id": "R002909",
+      "label": "ECU reset",
+      "resolved": true
+    },
+    {
+      "id": "R000447",
+      "label": "ECU Update",
+      "resolved": true
+    },
+    {
+      "id": "R000458",
+      "label": "Crank pattern learning value Clear, learning",
+      "resolved": true
+    },
+    {
+      "id": "R000471",
+      "label": "Idling Learning",
+      "resolved": true
+    },
+    {
+      "id": "R001900",
+      "label": "CVT system Various studies",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ECU removal and installation"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When replacing the ECU, perform all steps."
+        },
+        {
+          "text": "When replacing the ECU, perform all steps."
+        },
+        {
+          "text": "When only removing and installing the ECU, perform steps 1, 3, 4, and 5 only."
+        },
+        {
+          "text": "When only removing and installing the ECU, perform steps 1, 3, 4, and 5 only."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. HDS Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "448_3.0_jpn_11582509_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect HDS to the data link coupler (A) on the left side of the driver's seat."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. ECU data readout"
+    },
+    {
+      "type": "paragraph",
+      "text": "When replacing the ECU, this procedure will copy the idle stop starter start count data from the ECU to the HDS. This data will be used when writing data after the ECU is replaced."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Select the PGM-FI system in HDS. Select ECU replacement and perform data readout."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If data readout fails after performing this procedure several times, proceed to the next procedure \"SCS Short\"."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. SCS Short"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode. Execute SCS short in SCS mode with HDS."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. 12V battery removal",
+      "refs": [
+        {
+          "id": "R002224",
+          "label": "12V battery removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. ECU removal"
+    },
+    {
+      "type": "figure",
+      "asset": "448_3.0_jpn_11582510_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "448_3.0_jpn_11582511_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the ECU cover (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "448_3.0_jpn_11582512_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Loosen bolt (A) and remove bolt (B). Remove the ECU (C)."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When replacing the ECU, perform all steps."
+        },
+        {
+          "text": "When replacing the ECU, perform all steps."
+        },
+        {
+          "text": "When only removing and installing the ECU, perform steps 1, 2, and 3 only."
+        },
+        {
+          "text": "When only removing and installing the ECU, perform steps 1, 2, and 3 only."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. ECU Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "448_3.0_jpn_11582513_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install ECU (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "448_3.0_jpn_11582514_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Install the ECU cover (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "448_3.0_jpn_11582515_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Connect the coupler (A). The coupler part of the ECU has imprint marks: □ mark: ECU coupler A (50P) and △ mark: ECU coupler E (80P), respectively. When connecting the ECU coupler, pay attention to the imprint marks on the ECU body and the ECU coupler."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. 12V battery installation",
+      "refs": [
+        {
+          "id": "R002224",
+          "label": "12V battery installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. SCS Open"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Execute SCS Open in SCS mode in HDS."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Frame number Input"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition to ON mode. DTC P0630 may be displayed, but ignore it and proceed to the next step. Enter frame numbers in HDS."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. ECU data write"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If \"Read ECU Data\" has failed, skip this step and proceed to the next step \"Honda Smart Key System Registration\"."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Select the PGM-FI system in HDS. Select ECU replacement and perform data write."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Honda Smart Key System Registration",
+      "refs": [
+        {
+          "id": "R000912",
+          "label": "Honda Smart Key System Registration",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. ECU reset",
+      "refs": [
+        {
+          "id": "R002909",
+          "label": "ECU reset",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. ECU Update",
+      "refs": [
+        {
+          "id": "R000447",
+          "label": "ECU Update",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Crank pattern learning value Clear, learning",
+      "refs": [
+        {
+          "id": "R000458",
+          "label": "Crank pattern learning value Clear, learning",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Idling Learning",
+      "refs": [
+        {
+          "id": "R000471",
+          "label": "Idling Learning",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. CVT system Various studies",
+      "refs": [
+        {
+          "id": "R001900",
+          "label": "CVT system Various studies",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000448_jpn/web/html/R000448_jpn_Content.html",
+  "inOutline": true
+}

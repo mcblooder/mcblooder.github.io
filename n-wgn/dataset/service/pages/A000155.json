@@ -1,0 +1,367 @@
+{
+  "id": "A000155",
+  "title": "DTC Explanation: EPS",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "EPS Control Unit",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000155",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: EPS"
+    },
+    {
+      "type": "dtc",
+      "code": "",
+      "text": "EPS System"
+    },
+    {
+      "type": "paragraph",
+      "text": "knowledge"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Initial Diagnosis: Self-diagnosis performed after the EPS warning light comes on with the ignition in ON mode and before the engine is started and the EPS warning light goes out."
+        },
+        {
+          "text": "Continuous diagnostics: Self-diagnostics that continue from the time the EPS warning light goes off until the ignition is turned to the OFF (LOCK) mode."
+        },
+        {
+          "text": "When performing diagnostics, be sure to check the \"Troubleshooting Procedure\" and follow the troubleshooting procedure."
+        },
+        {
+          "text": "When conducting test drives, the driver must comply with all laws and regulations, observe good manners, and drive in accordance with the surrounding conditions."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Failure of rudder angle sensor"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Internal failure of EPS motor"
+        ],
+        [
+          "",
+          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection or poor contact between steering column/EPS control unit and EPS motor terminals (M+, M- lines)"
+        ],
+        [
+          "",
+          "Internal failure of EPS motor"
+        ],
+        [
+          "",
+          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Internal failure of EPS motor"
+        ],
+        [
+          "",
+          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "EPS control unit program is not up-to-date"
+        ],
+        [
+          "",
+          "Internal circuit failure in steering column/EPS control unit (torque sensor)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "EPS control unit program is not up-to-date"
+        ],
+        [
+          "",
+          "Internal circuit failure in steering column/EPS control unit (torque sensor)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "EPS control unit program is not up-to-date"
+        ],
+        [
+          "",
+          "Internal circuit failure in steering column/EPS control unit (torque sensor)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "EPS control unit program is not up-to-date"
+        ],
+        [
+          "",
+          "Internal circuit failure in steering column/EPS control unit (torque sensor)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection, ground fault or poor contact of cord between steering column/EPS control unit and relay box (+B EPS line)"
+        ],
+        [
+          "",
+          "Blown fuse (relay box No. A3-2 (40A))"
+        ],
+        [
+          "",
+          "EPS control unit program is not up-to-date"
+        ],
+        [
+          "",
+          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection or poor contact of cord between steering column/EPS control unit and PGM-FI ECU (F-CAN_H and F-CAN_L lines)"
+        ],
+        [
+          "",
+          "PGM-FI ECU program is not up-to-date"
+        ],
+        [
+          "",
+          "EPS control unit program is not up-to-date"
+        ],
+        [
+          "",
+          "Internal circuit failure of PGM-FI ECU"
+        ],
+        [
+          "",
+          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Ground fault in code between EPS control unit and PGM-FI ECU (F-CAN_H, F-CAN_L lines)"
+        ],
+        [
+          "",
+          "EPS control unit program is not up-to-date"
+        ],
+        [
+          "",
+          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection or poor contact of cord between steering column/EPS control unit and PGM-FI ECU (F-CAN_H and F-CAN_L lines)"
+        ],
+        [
+          "",
+          "PGM-FI ECU program is not up-to-date"
+        ],
+        [
+          "",
+          "EPS control unit program is not up-to-date"
+        ],
+        [
+          "",
+          "Internal circuit failure of PGM-FI ECU"
+        ],
+        [
+          "",
+          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection or poor contact of cords between steering column/EPS control unit and VSA modulator control unit (F-CAN_H and F-CAN_L lines)"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ],
+        [
+          "",
+          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection of cord between steering column/EPS control unit and rudder angle sensor, poor contact (F-CAN_H and F-CAN_L lines)"
+        ],
+        [
+          "",
+          "Rudder angle sensor program is not up-to-date"
+        ],
+        [
+          "",
+          "Failure of rudder angle sensor"
+        ],
+        [
+          "",
+          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "EPS control unit program is not up-to-date"
+        ],
+        [
+          "",
+          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "EPS control unit program rewrite incomplete"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection or ground fault of the cord between the steering column/EPS control unit and the relay box, Poor contact (+B EPS line)"
+        ],
+        [
+          "",
+          "Blown fuse (relay box No. A3-2 (40A))"
+        ],
+        [
+          "",
+          "Defective 12V battery"
+        ],
+        [
+          "",
+          "EPS control unit program is not up-to-date"
+        ],
+        [
+          "",
+          "Internal circuit failure in steering column/EPS control unit (EPS control unit)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "High-voltage power supply connection"
+        ],
+        [
+          "",
+          "A.C. generator failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "DC-DC converter failure"
+        ],
+        [
+          "",
+          "High-voltage power supply connection"
+        ],
+        [
+          "",
+          "A.C. generator failure"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000155_jpn/web/html/A000155_jpn_Content.html",
+  "inOutline": true
+}

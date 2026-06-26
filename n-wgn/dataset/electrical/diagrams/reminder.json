@@ -1,0 +1,133 @@
+{
+  "id": "reminder",
+  "category": "electrical_diagram",
+  "title": "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+  "system": "reminder",
+  "sheetCount": 7,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/reminder/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/reminder/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/reminder/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/reminder/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/reminder/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/reminder/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/reminder/sheet7.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Combination Light Switch",
+      "Driver's Door Switch",
+      "Driver's Seat Belt Buckle Switch",
+      "Engine Start/Stop Switch",
+      "Front Passenger's Door Switch",
+      "Front Passenger's Seat Belt Buckle Switch",
+      "Front Passenger's Seat Sitting Switch",
+      "Gauge Control Module",
+      "IG1 Relay 1",
+      "IG1 Relay 2",
+      "Left Rear Door Switch",
+      "Oil Pressure Sensor",
+      "PCM",
+      "Parking Brake Switch",
+      "Rear Seat Belt Buckle Switch",
+      "Right Rear Door Switch",
+      "SRS Unit",
+      "Tailgate Latch Switch"
+    ],
+    "Couplers": [
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "C003 (Female)",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C116 (Male)|C116 (Female)",
+      "C117 (Male)|C117 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "C120 (Male)|C120 (Female)",
+      "C121 (Male)|C121 (Female)",
+      "Combination Light Switch 12P Connector (Female)",
+      "Data Link Connector (DLC) (Female)",
+      "Driver's Door Switch 1P Connector (Female)",
+      "Driver's Seat Belt Buckle Switch 2P Connector (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Front Passenger's Door Switch 1P Connector (Female)",
+      "Front Passenger's Seat Belt Buckle Switch 2P Connector (Female)",
+      "Front Passenger's Seat Sitting Switch 4P Connector (Female)",
+      "Gauge Control Module 32P Connector (Female)",
+      "Left Rear Door Switch 1P Connector (Female)",
+      "Oil Pressure Sensor 1P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "PCM Connector E (80P) (Female)",
+      "Parking Brake Switch 1P Connector",
+      "Rear Seat Belt Buckle Switch 4P Connector (Female)",
+      "Right Rear Door Switch 1P Connector (Female)",
+      "SRS Unit Connector A (39P) (Female)",
+      "SRS Unit Connector B (39P) (Female)",
+      "T1",
+      "Tailgate Latch Switch 2P Connector (Female)",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector H (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Y (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_BACK_UP(BST)",
+      "+B_BACK_UP_MAIN(P/S)",
+      "+B_DC/DC_1",
+      "+B_DC/DC_2",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "07_IG1_RELAY_1",
+      "16_IG1_RELAY_2",
+      "IG1_METER(P/S)",
+      "IG1_MICU(P/S)"
+    ],
+    "Grounds": [
+      "G401",
+      "G402",
+      "G501",
+      "G503"
+    ],
+    "Harnesses": [
+      "BC Combinetion Switch Subharness",
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "BQ Roof Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "LB High Mount Brake Light Subharness",
+      "TH Tailgate Wire Harness"
+    ]
+  }
+}

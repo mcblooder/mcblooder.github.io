@@ -1,0 +1,175 @@
+{
+  "id": "A000024",
+  "title": "DTC Explanation: P0171",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000024",
+  "assets": [
+    "24_3.0_jpn_11033527_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0171"
+    },
+    {
+      "type": "dtc",
+      "code": "P0171",
+      "text": "DTC P0171: Fuel supply unit air-fuel ratio thin"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "24_3.0_jpn_11033527_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI ECU detects the oxygen concentration in the exhaust gas from the LAF sensor signal voltage and performs fuel feedback control to maintain the optimum air-fuel ratio. The fuel injection amount correction factor used for fuel feedback control is the short term fuel trim, and the PGM-FI ECU corrects the short term fuel trim to keep the air-fuel ratio near the theoretical air-fuel ratio according to changes in operating conditions. The long term fuel trim is calculated from the short term fuel trim and is used to adjust for deviations from the theoretical AFR. Deviations from the theoretical AFR can occur due to aging of the fuel system or system malfunctions. In addition, the long term fuel trim is stored in the PGM-FI ECU memory and is used to determine fuel system failures. If the Long Term Fuel Trim is higher than normal (1.0 (0%)), increase fuel injection; if lower, decrease fuel injection. If the Long Term Fuel Trim is higher than normal (on the lean side), the PGM-FI ECU determines a fuel system failure and stores a DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*: If a normal judgment is made under the same operating conditions as when the fault was detected, the fault judgment is deleted. D/C: Drive Cycle"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "[ ]: HDS Parameters"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "Long Term Fuel Trim [LT Fuel Trim] exceeds 1.31 (+31%)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Fuel pump failure"
+        },
+        {
+          "text": "Fuel injector failure"
+        },
+        {
+          "text": "Fuel pressure regulator failure"
+        },
+        {
+          "text": "Abnormality of fuel piping"
+        },
+        {
+          "text": "Fuel supply system failure"
+        },
+        {
+          "text": "Air flow meter characteristic deviation*. 1"
+        },
+        {
+          "text": "Intake air pressure sensor characteristic deviation"
+        },
+        {
+          "text": "LAF sensor failure"
+        },
+        {
+          "text": "Secondary O 2 Sensor failure"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "*1: Cars not equipped with a turbo charger"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Start the engine, run the radiator fan twice, and then warm up the engine for at least 2 minutes at 3,000 rpm with no load."
+        },
+        {
+          "text": "Drive the vehicle at a constant speed [vehicle speed] 25-100 km/h for at least 15 minutes and check the Long Term Fuel Trim value [LT Fuel Trim]. If the Long Term Fuel Trim value [LT Fuel Trim] is constant around 1.0, the vehicle is normal. If the problem has not been corrected, the Long Term Fuel Trim [LT Fuel Trim] should read above or below the set value."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If freeze data is stored, instead of step 2 of the above test run, a test run shall be performed under conditions similar to those of the freeze data."
+        },
+        {
+          "text": "If the 12V battery terminal is disconnected or the DTC is cleared using a scan tool (including HDS), the vehicle shall be driven at a constant speed [vehicle speed] of 25-90 km/h for at least 40 minutes to restore the long term fuel trim [LT fuel trim]."
+        },
+        {
+          "text": "When conducting test drives, the driver must comply with all laws and regulations, observe good manners, and drive in accordance with the surrounding conditions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "None."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the PGM-FI warning light comes on and the DTC and freeze data are stored."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to be normal by diagnosing the fault in a series of 3D/C runs under conditions that approximate those in which the vehicle initially detected the fault, the PGM-FI warning light will be turned off. In addition, the PGM-FI warning light, temporary DTC, DTC, and freeze data are cleared by using the clear command of the scan tool (including HDS) or by disconnecting the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000024_jpn/web/html/A000024_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,62 @@
+{
+  "id": "165_EA39_Right_Front_Fog_Light_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA39",
+  "physicalIds": [
+    "EA39"
+  ],
+  "name": "Right Front Fog Light 2P Connector (Female)",
+  "nameRu": "Разъём правый передний Fog Light, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91849-TE0 -0030-H1",
+  "partNumbers": [
+    "91849-TE0 -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Fog Lights"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91849-TE0 -0030-H1.svg",
+    "viewBox": "0 0 54.401 28.587",
+    "width": 54.401,
+    "height": 28.587
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "FR_FOG_LT_RLY_OUT",
+      "english": "front, FOG, light, relay, output",
+      "russian": "передний, FOG, освещение, реле, выход",
+      "terminal": "47A",
+      "geometry": {
+        "x": 13.553,
+        "y": 22.052,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-R)",
+      "english": "Ground (ENG-R)",
+      "russian": "Масса (ENG-R)",
+      "terminal": "Z12B",
+      "geometry": {
+        "x": 37.303,
+        "y": 22.052,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

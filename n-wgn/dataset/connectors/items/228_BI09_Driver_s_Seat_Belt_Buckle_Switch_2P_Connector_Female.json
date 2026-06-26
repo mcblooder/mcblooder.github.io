@@ -1,0 +1,63 @@
+{
+  "id": "228_BI09_Driver_s_Seat_Belt_Buckle_Switch_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BI09",
+  "physicalIds": [
+    "BI09"
+  ],
+  "name": "Driver's Seat Belt Buckle Switch 2P Connector (Female)",
+  "nameRu": "Разъём водителя Seat Belt Buckle выключатель, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91751-T2AA-0031-H1",
+  "partNumbers": [
+    "91751-T2AA-0031-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Right Side)"
+  ],
+  "systems": [
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "SRS"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91751-T2AA-0031-H1.svg",
+    "viewBox": "0 0 46.284 37.177",
+    "width": 46.284,
+    "height": 37.177
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "FRBO",
+      "english": "FRBO",
+      "russian": "FRBO",
+      "terminal": "S38A",
+      "geometry": {
+        "x": 10.331,
+        "y": 27.616,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(FLOOR)",
+      "english": "Ground (FLOOR)",
+      "russian": "Масса (FLOOR)",
+      "terminal": "Z60B",
+      "geometry": {
+        "x": 32.971,
+        "y": 27.616,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

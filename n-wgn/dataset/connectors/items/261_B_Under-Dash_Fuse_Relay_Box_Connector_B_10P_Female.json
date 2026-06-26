@@ -1,0 +1,128 @@
+{
+  "id": "261_B_Under-Dash_Fuse_Relay_Box_Connector_B_10P_Female",
+  "category": "connector",
+  "connectorRef": "B",
+  "physicalIds": [
+    "B"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector B (10P), гнездовая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 10,
+  "populatedPinCount": 8,
+  "faceviewPart": "DM",
+  "partNumbers": [],
+  "harnesses": [
+    "38200-T6G_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [],
+  "faceview": {
+    "asset": "assets/faceview/DM.svg",
+    "viewBox": "0 0 82.374 22.471",
+    "width": 82.374,
+    "height": 22.471
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "FR_WASHER_MTR",
+      "english": "front, washer, motor",
+      "russian": "передний, омыватель, электродвигатель",
+      "terminal": "430A000",
+      "geometry": null
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "IG1_MICU(BST)",
+      "english": "ignition IG1, MICU, BST",
+      "russian": "зажигание IG1, блок MICU, BST",
+      "terminal": "G36B",
+      "geometry": null
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "ORN",
+      "circuit": "FI_MAIN_RLY_OUT",
+      "english": "fuel injection, main, relay, output",
+      "russian": "впрыск топлива, главный, реле, выход",
+      "terminal": "D04C",
+      "geometry": null
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "IG1_FUEL_PUMP",
+      "english": "ignition IG1, fuel, pump",
+      "russian": "зажигание IG1, топливо, насос",
+      "terminal": "G01D",
+      "geometry": null
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "RR_WASHER_MTR",
+      "english": "rear/right, washer, motor",
+      "russian": "задний/правый, омыватель, электродвигатель",
+      "terminal": "431E",
+      "geometry": null
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "IG1_MICU(BST)",
+      "english": "ignition IG1, MICU, BST",
+      "russian": "зажигание IG1, блок MICU, BST",
+      "terminal": "G36F",
+      "geometry": null
+    },
+    {
+      "pin": 7,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z30H",
+      "geometry": null
+    },
+    {
+      "pin": 9,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "RED",
+      "circuit": "IG1_IG_COIL1",
+      "english": "ignition IG1, IG, COIL1",
+      "russian": "зажигание IG1, IG, COIL1",
+      "terminal": "G06K",
+      "geometry": null
+    }
+  ]
+}

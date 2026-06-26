@@ -1,0 +1,425 @@
+{
+  "id": "020_BD62_Auxiliary_Under-Dash_Fuse_Relay_Box",
+  "category": "connector",
+  "connectorRef": "BD62",
+  "physicalIds": [
+    "BD62"
+  ],
+  "name": "Auxiliary Under-Dash Fuse/Relay Box",
+  "nameRu": "Разъём дополнительный блок предохранителей и реле под панелью",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 26,
+  "populatedPinCount": 21,
+  "faceviewPart": "38210-TF3X-E010-M1",
+  "partNumbers": [
+    "38210-TF3X-E010-M1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "A/T Interlock System",
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "Audio System",
+    "Auto Idle Stop System",
+    "Brake Lights",
+    "Charging System",
+    "City-Brake Active System",
+    "Climate Control",
+    "Cruise Control",
+    "CVT Control System",
+    "DLC",
+    "Energy Management System",
+    "Entry Light Control System",
+    "EPS",
+    "Fog Lights",
+    "Gauges",
+    "Headlight Leveling System",
+    "Headlights",
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "MIL Circuit",
+    "PCM (All)",
+    "PGM-FI System",
+    "Power Supply",
+    "Power, Grounds and Diagnostics",
+    "SRS",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/38210-TF3X-E010-M1.svg",
+    "viewBox": "0 0 399.92 323.384",
+    "width": 399.92,
+    "height": 323.384
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "ACC(BST)",
+      "english": "ACC, BST",
+      "russian": "ACC, BST",
+      "terminal": "C05A",
+      "geometry": {
+        "x": 61.655,
+        "y": 235.131,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "ACC_RLY_OUT",
+      "english": "ACC, relay, output",
+      "russian": "ACC, реле, выход",
+      "terminal": "K04B",
+      "geometry": {
+        "x": 61.655,
+        "y": 212.45,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "ORN",
+      "circuit": "IG1_RLY2_OUT",
+      "english": "ignition IG1, RLY2, output",
+      "russian": "зажигание IG1, RLY2, выход",
+      "terminal": "K03C",
+      "geometry": {
+        "x": 179.591,
+        "y": 235.131,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "DC/DC_OUT2",
+      "english": "DC / DC, OUT2",
+      "russian": "DC / DC, OUT2",
+      "terminal": "K01D",
+      "geometry": {
+        "x": 179.591,
+        "y": 212.45,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "IG1_METER(BST)",
+      "english": "ignition IG1, METER, BST",
+      "russian": "зажигание IG1, METER, BST",
+      "terminal": "G35E",
+      "geometry": {
+        "x": 297.527,
+        "y": 235.131,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "IG1_RLY1_OUT",
+      "english": "ignition IG1, RLY1, output",
+      "russian": "зажигание IG1, RLY1, выход",
+      "terminal": "K02F",
+      "geometry": {
+        "x": 297.527,
+        "y": 212.45,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "RED",
+      "circuit": "ACC",
+      "english": "Accessory power",
+      "russian": "Питание аксессуаров ACC",
+      "terminal": "C01G",
+      "geometry": {
+        "x": 38.975,
+        "y": 257.81,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(EPS)",
+      "english": "Ground (EPS)",
+      "russian": "Масса (EPS)",
+      "terminal": "Z46H",
+      "geometry": {
+        "x": 84.335,
+        "y": 257.81,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "IG1_RELAY2",
+      "english": "ignition IG1, RELAY2",
+      "russian": "зажигание IG1, RELAY2",
+      "terminal": "G34J",
+      "geometry": {
+        "x": 156.912,
+        "y": 257.81,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(EPS)",
+      "english": "Ground (EPS)",
+      "russian": "Масса (EPS)",
+      "terminal": "Z46K",
+      "geometry": {
+        "x": 200.046,
+        "y": 257.81,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "IG1_RELAY1",
+      "english": "ignition IG1, RELAY1",
+      "russian": "зажигание IG1, RELAY1",
+      "terminal": "G33A",
+      "geometry": {
+        "x": 272.622,
+        "y": 257.81,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(EPS)",
+      "english": "Ground (EPS)",
+      "russian": "Масса (EPS)",
+      "terminal": "Z46M",
+      "geometry": {
+        "x": 317.982,
+        "y": 257.81,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 40.435,
+        "y": 147.988,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "ORN",
+      "circuit": "IG1_RLY2_OUT",
+      "english": "ignition IG1, RLY2, output",
+      "russian": "зажигание IG1, RLY2, выход",
+      "terminal": "K03P",
+      "geometry": {
+        "x": 85.796,
+        "y": 147.988,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 131.156,
+        "y": 147.988,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "DC/DC_OUT1",
+      "english": "DC / DC, OUT1",
+      "russian": "DC / DC, OUT1",
+      "terminal": "K00S",
+      "geometry": {
+        "x": 176.516,
+        "y": 147.988,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 221.875,
+        "y": 147.988,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "DC/DC_OUT1",
+      "english": "DC / DC, OUT1",
+      "russian": "DC / DC, OUT1",
+      "terminal": "K00W",
+      "geometry": {
+        "x": 267.236,
+        "y": 147.988,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 312.597,
+        "y": 147.988,
+        "svgTextId": "SVGID_19_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 40.435,
+        "y": 84.483,
+        "svgTextId": "SVGID_20_"
+      }
+    },
+    {
+      "pin": 21,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "IG1_VSA/ABS",
+      "english": "ignition IG1, VSA / ABS",
+      "russian": "зажигание IG1, VSA / ABS",
+      "terminal": "G17Z",
+      "geometry": {
+        "x": 85.796,
+        "y": 84.483,
+        "svgTextId": "SVGID_21_"
+      }
+    },
+    {
+      "pin": 22,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "IG1_MICU(BST)",
+      "english": "ignition IG1, MICU, BST",
+      "russian": "зажигание IG1, блок MICU, BST",
+      "terminal": "G36AA",
+      "geometry": {
+        "x": 131.157,
+        "y": 84.483,
+        "svgTextId": "SVGID_22_"
+      }
+    },
+    {
+      "pin": 23,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "IG1_RLY1_OUT",
+      "english": "ignition IG1, RLY1, output",
+      "russian": "зажигание IG1, RLY1, выход",
+      "terminal": "K02AB",
+      "geometry": {
+        "x": 176.515,
+        "y": 84.483,
+        "svgTextId": "SVGID_23_"
+      }
+    },
+    {
+      "pin": 24,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_VB_SOL_IS",
+      "english": "Constant battery power: VB, solenoid, IS",
+      "russian": "Постоянное питание от АКБ: VB, соленоид, IS",
+      "terminal": "B18AC",
+      "geometry": {
+        "x": 221.876,
+        "y": 84.483,
+        "svgTextId": "SVGID_24_"
+      }
+    },
+    {
+      "pin": 25,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "ACC_RLY_OUT",
+      "english": "ACC, relay, output",
+      "russian": "ACC, реле, выход",
+      "terminal": "K04AD",
+      "geometry": {
+        "x": 267.236,
+        "y": 84.483,
+        "svgTextId": "SVGID_25_"
+      }
+    },
+    {
+      "pin": 26,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "+B_BACK_UP_MAIN",
+      "english": "Constant battery power: back-up, up, main",
+      "russian": "Постоянное питание от АКБ: резервный, вверх, главный",
+      "terminal": "B70AE",
+      "geometry": {
+        "x": 312.597,
+        "y": 84.483,
+        "svgTextId": "SVGID_26_"
+      }
+    }
+  ]
+}

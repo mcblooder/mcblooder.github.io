@@ -1,0 +1,123 @@
+{
+  "id": "C002030",
+  "title": "Network Communication Structure Description - Automotive Network",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Network Communication",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002030",
+  "assets": [
+    "2030_3.0_jpn_11156005_3.0_disp.png",
+    "2030_3.0_jpn_11242839_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Network Communication Structure Description - Automotive Network"
+    },
+    {
+      "type": "paragraph",
+      "text": "This vehicle uses CAN (Controller Area Network), LIN (Local Interconnect Network), and other networks as protocols for in-vehicle LAN (Local Area Network), which exchanges information among multiple control units through multiplex communication. The vehicle adopts CAN (Controller Area Network) and LIN (Local Interconnect Network) networks as in-vehicle LAN (Local Area Network) protocols that exchange information among multiple control units."
+    },
+    {
+      "type": "paragraph",
+      "text": "CAN stands for Controller Area Network, a serial bus system developed for automobiles and standardized by ISO. It is a multi-master system in which multiple connected control units (called nodes) communicate on equal terms, and is characterized by its high-speed communication capability."
+    },
+    {
+      "type": "paragraph",
+      "text": "CAN consists of two networks: F-CAN for communication between powertrain/chassis control units and B-CAN for communication between body control units. LIN is a network that connects the PGM-FI ECU, A.C. generator, and battery sensor, ensuring reliability suitable for control systems."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition, K-LINE, which communicates the results of failure diagnosis by HDS (Honda Diagnostic System) and other information, is used as a multiplex communication system connecting multiple control units."
+    },
+    {
+      "type": "figure",
+      "asset": "2030_3.0_jpn_11242839_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "communication system"
+    },
+    {
+      "type": "paragraph",
+      "text": "Each node sends digital signals to the bus line in the form of data frames under normal conditions. The timing of data transmission includes cyclic transmission, in which data is sent periodically at a set cycle, and event transmission, in which data is sent when a change in data content occurs."
+    },
+    {
+      "type": "paragraph",
+      "text": "If another node is already transmitting at the time transmission is about to start, the system waits for the other node to finish its transmission to avoid data collision (CSMA/CA: Carrier Sense Multiple Access with Collision Avoidance) is used to avoid data collision."
+    },
+    {
+      "type": "paragraph",
+      "text": "Digital signals are represented as ''0'' and ''1'', A ''0'' is called dominant and a ''1'' is called recessive. A data frame is centered on a data field. A data frame consists of the data field as the core, an arbitration field indicating the data priority (ID), a control field indicating the data length, a CRC field to detect transmission errors, and an ACK field to confirm the completion of reception."
+    },
+    {
+      "type": "paragraph",
+      "text": "When data transmission is initiated simultaneously from multiple nodes, it is mediated according to the priority order indicated by the ID in the arbitration field. For example, if node 1 sends data with ID = 156h and node 2 sends data with ID = 164h at the same time, the data of node 1 with the smaller ID has priority and only the ID of node 1 appears on the bus line. At this time, node 2 stops sending IDs, moves to the receiving state, waits for node 1 to finish sending data, and then starts sending data again. In this way, multiple nodes can communicate on the same bus (multi-master system)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Data sent by a node is received by all nodes, and the necessary information is selected by each control unit based on IDs and other information and used for control."
+    },
+    {
+      "type": "figure",
+      "asset": "2030_3.0_jpn_11156005_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "F-CAN"
+    },
+    {
+      "type": "paragraph",
+      "text": "The network between control units for powertrain/chassis systems is called F-CAN and uses High-speed CAN with a communication speed of 500 kbps."
+    },
+    {
+      "type": "paragraph",
+      "text": "The connection of each control unit takes the form of placing a control unit with a termination resistor provided for the purpose of preventing signal reflection at both ends of a pair of twisted pair signal lines and connecting other control units in parallel between them."
+    },
+    {
+      "type": "paragraph",
+      "text": "The signal detects the difference in voltage between the two signal lines (CAN H and CAN L) as differential voltage, with differential voltage being ''0'' and no differential voltage being ' 1'' for the presence of differential voltage and ''1'' for the absence of differential voltage."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "B-CAN"
+    },
+    {
+      "type": "paragraph",
+      "text": "The network between control units of the body system is called B-CAN and uses low-speed CAN with a communication speed of 125 kbps. The connection of each control unit uses the operating voltage between the two signal lines (CAN H and CAN L) as in F-CAN, and takes the form of a control unit with a termination resistor provided to prevent signal reflection, placed at both ends of a pair of twisted pair signal lines, with other control units connected in parallel between them. The control unit is connected in parallel with the other control unit between the two twisted pair signal lines."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the body system, some control units do not stop control even in the ignition OFF (LOCK) mode, and control units with a power-saving mode are set to reduce dark current."
+    },
+    {
+      "type": "paragraph",
+      "text": "The transition to (sleep) and return from (wake-up) power-saving mode is controlled by active, sleep, and wake-up signals. A control unit that is not in a sleep-enabled state periodically sends an active signal on the bus line and stops sending active signals when it enters a sleep-enabled state."
+    },
+    {
+      "type": "paragraph",
+      "text": "When all Control Units stop sending active signals, one or more Control Units send a sleep signal, and the Control Unit that receives the sleep signal shifts to the power-saving mode."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the Control Unit receives a switch input, sensor input, or other input during the power saving mode, it sends a wake-up signal on the bus line. The Control Unit that receives the wake-up signal returns from the power-saving mode."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002030_jpn/web/html/C002030_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,138 @@
+{
+  "id": "T986154",
+  "title": "Large shock when accelerator pedal is depressed or when accelerator pedal is released",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM hydraulic system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986154",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R000542",
+      "label": "Transmission Fluid Level Inspection",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Large shock when accelerator pedal is depressed or when accelerator pedal is released"
+    },
+    {
+      "type": "paragraph",
+      "text": "checklist"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Transmission Fluid Level Inspection",
+          "refs": [
+            {
+              "id": "R000542",
+              "label": "Transmission Fluid Level Inspection",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Transmission Fluid Inspection",
+          "refs": [
+            {
+              "id": "R000542",
+              "label": "Transmission Fluid Inspection",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Inspection of main valve body assy."
+        },
+        {
+          "text": "Inspect solenoid harness"
+        },
+        {
+          "text": "Forward Clutch Assy. inspection"
+        },
+        {
+          "text": "Reverse Clutch Assy. inspection"
+        },
+        {
+          "text": "Transmission Inspect the pulleys and pulley belts in the case."
+        },
+        {
+          "text": "Inspect pulley pressure feed pipe"
+        },
+        {
+          "text": "Feed Pipe Inspection"
+        },
+        {
+          "text": "Inspection of torque converter assy."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "probable cause"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Insufficient transmission fluid"
+        },
+        {
+          "text": "Transmission fluid deterioration"
+        },
+        {
+          "text": "Main valve body assembly. defective"
+        },
+        {
+          "text": "Solenoid Harness failure"
+        },
+        {
+          "text": "Forward clutch assembly. defective"
+        },
+        {
+          "text": "Reverse clutch assembly. defective"
+        },
+        {
+          "text": "Defective pulley-related parts"
+        },
+        {
+          "text": "Pulley pressure feed Pipe damaged, O-ring defective"
+        },
+        {
+          "text": "Pulley pressure feed Pipe seal ring defective"
+        },
+        {
+          "text": "Feed Pipe damaged, O-ring defective"
+        },
+        {
+          "text": "Torque converter assy. defective"
+        },
+        {
+          "text": "PGM-FI ECU failure"
+        },
+        {
+          "text": "Transmission assembly and drive plate installation failure"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986154_jpn/web/html/T986154_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,62 @@
+{
+  "id": "238_BI13_Right_Side_Airbag_Inflator_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BI13",
+  "physicalIds": [
+    "BI13"
+  ],
+  "name": "Right Side Airbag Inflator 2P Connector (Female)",
+  "nameRu": "Разъём правый Side Airbag Inflator, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "77982-SNA -0030-H1",
+  "partNumbers": [
+    "77982-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Right Side)"
+  ],
+  "systems": [
+    "SRS"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/77982-SNA -0030-H1.svg",
+    "viewBox": "0 0 79.184 28.174",
+    "width": 79.184,
+    "height": 28.174
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "RSA-",
+      "english": "RSA -",
+      "russian": "RSA -",
+      "terminal": "S10A",
+      "geometry": {
+        "x": 27.143,
+        "y": 21.256,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "RED",
+      "circuit": "RSA+",
+      "english": "RSA +",
+      "russian": "RSA +",
+      "terminal": "S09B",
+      "geometry": {
+        "x": 47.329,
+        "y": 21.256,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

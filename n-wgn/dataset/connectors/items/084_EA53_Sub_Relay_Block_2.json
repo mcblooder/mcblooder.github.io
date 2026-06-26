@@ -1,0 +1,166 @@
+{
+  "id": "084_EA53_Sub_Relay_Block_2",
+  "category": "connector",
+  "connectorRef": "EA53",
+  "physicalIds": [
+    "EA53"
+  ],
+  "name": "Sub Relay Block 2",
+  "nameRu": "Разъём Sub реле Block 2",
+  "type": "DirectCoupler",
+  "pinCount": 9,
+  "populatedPinCount": 9,
+  "faceviewPart": "91750-S84 -9110-H1",
+  "partNumbers": [
+    "91750-S84 -9110-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Brake Lights",
+    "City-Brake Active System",
+    "CVT Control System",
+    "Headlights",
+    "PCM (All)",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91750-S84 -9110-H1.svg",
+    "viewBox": "0 0 227.607 180.076",
+    "width": 227.607,
+    "height": 180.076
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "+B_H/L_HI",
+      "english": "Constant battery power: H / L, high",
+      "russian": "Постоянное питание от АКБ: H / L, высокий",
+      "terminal": "B94B",
+      "geometry": {
+        "x": 68.748,
+        "y": 52.614,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "H/L_HI_RLY_OUT",
+      "english": "H / L, high, relay, output",
+      "russian": "H / L, высокий, реле, выход",
+      "terminal": "24A",
+      "geometry": {
+        "x": 68.748,
+        "y": 74.22,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "+B_H/L_HI",
+      "english": "Constant battery power: H / L, high",
+      "russian": "Постоянное питание от АКБ: H / L, высокий",
+      "terminal": "B94C",
+      "geometry": {
+        "x": 47.143,
+        "y": 95.825,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "H/L_HI_RLY_CL-",
+      "english": "H / L, high, relay, coil control -",
+      "russian": "H / L, высокий, реле, управление катушкой -",
+      "terminal": "26D",
+      "geometry": {
+        "x": 90.354,
+        "y": 95.825,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "BRK_LAMP",
+      "english": "BRK, LAMP",
+      "russian": "BRK, LAMP",
+      "terminal": "38E",
+      "geometry": {
+        "x": 133.565,
+        "y": 72.14,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "STOP_SW",
+      "english": "brake light, switch",
+      "russian": "стоп-сигнал, выключатель",
+      "terminal": "37A",
+      "geometry": {
+        "x": 155.169,
+        "y": 72.14,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "IG1_VSA/ABS",
+      "english": "ignition IG1, VSA / ABS",
+      "russian": "зажигание IG1, VSA / ABS",
+      "terminal": "G17G",
+      "geometry": {
+        "x": 176.777,
+        "y": 72.14,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "+B_STOP",
+      "english": "Constant battery power: brake light",
+      "russian": "Постоянное питание от АКБ: стоп-сигнал",
+      "terminal": "B01H",
+      "geometry": {
+        "x": 155.169,
+        "y": 93.745,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "RED",
+      "circuit": "STOP_LT",
+      "english": "brake light, light",
+      "russian": "стоп-сигнал, освещение",
+      "terminal": "13B",
+      "geometry": {
+        "x": 155.169,
+        "y": 115.351,
+        "svgTextId": "SVGID_9_"
+      }
+    }
+  ]
+}

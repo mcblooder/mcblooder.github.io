@@ -1,0 +1,80 @@
+{
+  "id": "C002125",
+  "title": "City Brake Active System Structure Description - Overview",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Speed/body control",
+  "system": "City Brake Active System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002125",
+  "assets": [
+    "2125_3.0_jpn_11242787_2.0_disp.png",
+    "2125_3.0_jpn_11390467_2.0_disp.png",
+    "2125_3.0_jpn_11390468_2.0_disp.png",
+    "2125_3.0_jpn_11390469_2.0_disp.png",
+    "2125_3.0_jpn_11390470_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "City Brake Active System Structure Description - Overview"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "The City Brake Active System is a system that reduces damage or helps avoid accidents by warning (warning light and buzzer) and brake control in the event of a rear-end collision at low speeds (30 km/h or less). The City Brake Active System radar/control unit (A) installed in the upper center of the windshield emits a laser beam to detect the distance and relative speed of the vehicle in front to determine the risk of a collision. This system was developed for the purpose of mitigating damage from rear-end collisions or assisting in accident avoidance. The system is not capable of avoiding a collision in all situations, and if the driver does not drive properly, a collision or other accident may occur, resulting in death or serious disability."
+    },
+    {
+      "type": "figure",
+      "asset": "2125_3.0_jpn_11390467_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2125_3.0_jpn_11390468_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a rear-end collision is about to occur from almost directly behind the vehicle in front while the vehicle is traveling at a speed of 5-30 km/h, the City Brake Active System radar/control unit activates VSA (brake assist control + brake light on) and combination meters (warning light + buzzer) via the F-CAN line to mitigate damage or help the driver avoid an accident. (warning light + buzzer) via the F-CAN line from the radar/control unit to mitigate damage or assist in avoiding an accident."
+    },
+    {
+      "type": "figure",
+      "asset": "2125_3.0_jpn_11390469_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The City Brake Active System rays based on information from the distance from the vehicle in front, the accelerator pedal position, and wheel speed when starting off or driving at low speeds. If the da/control unit determines that the vehicle is inadvertently departing from the vehicle in front of the driver's vehicle, it alerts the driver to switch to the brake pedal and limits the engine output to the accelerator pedal operation for up to four seconds to allow time for the driver to switch pedals before collision and to control sudden acceleration."
+    },
+    {
+      "type": "figure",
+      "asset": "2125_3.0_jpn_11390470_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The city brake active system can be turned on and off with the CTBA OFF switch (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "2125_3.0_jpn_11242787_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The City Brake Active System radar/control unit emits a laser beam through the windshield, and thus corrects its accuracy in accordance with the contamination and fogging of the windshield due to ageing. The correction information is recorded in the City Brake Active System Radar/Control Unit."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002125_jpn/web/html/C002125_jpn_Content.html",
+  "inOutline": true
+}

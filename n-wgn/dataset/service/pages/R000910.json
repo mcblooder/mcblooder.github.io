@@ -1,0 +1,173 @@
+{
+  "id": "R000910",
+  "title": "12V battery Caution when canceling",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "electrical wiring",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000910",
+  "assets": [
+    "910_3.0_jpn_11580687_3.0_disp.png",
+    "910_3.0_jpn_11580688_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "12V battery Caution when canceling"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When disconnecting cables, always do so from the minus (-) terminal."
+        },
+        {
+          "text": "When disconnecting cables, always do so from the minus (-) terminal."
+        },
+        {
+          "text": "Some systems lose stored memory by disconnecting the cable."
+        },
+        {
+          "text": "Some systems lose stored memory by disconnecting the cable."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery terminal disconnected"
+    },
+    {
+      "type": "figure",
+      "asset": "910_3.0_jpn_11580687_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode. Disconnect the cable (A) from the negative (-) terminal of the 12V battery. Remove the terminal cover (D). Disconnect the cable (E) from the positive (+) terminal of the 12V battery."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The cable must be disconnected from the 12V battery sensor (B).",
+        "12V battery Do not disconnect the cable from the 12V battery sensor except to replace the sensor.",
+        "To prevent breakage, do not hold the connector part (C) and do not perform the detachment operation."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The cable must be disconnected from the 12V battery sensor (B)."
+        },
+        {
+          "text": "The cable must be disconnected from the 12V battery sensor (B)."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "12V battery Do not disconnect the cable from the 12V battery sensor except to replace the sensor."
+        },
+        {
+          "text": "12V battery Do not disconnect the cable from the 12V battery sensor except to replace the sensor."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "To prevent breakage, do not hold the connector part (C) and do not perform the detachment operation."
+        },
+        {
+          "text": "To prevent breakage, do not hold the connector part (C) and do not perform the detachment operation."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "If 12V battery power is cancelled, the next item does not need to be learned."
+        },
+        {
+          "text": "If 12V battery power is cancelled, the next item does not need to be learned."
+        },
+        {
+          "text": "Initial position of headlights"
+        },
+        {
+          "text": "Initial position of headlights"
+        },
+        {
+          "text": "Initial position of headlights"
+        },
+        {
+          "text": "Power window reset and learning"
+        },
+        {
+          "text": "Power window reset and learning"
+        },
+        {
+          "text": "If the 12V battery and cable terminals are dirty, clean them with a wire brush or sandpaper before installation."
+        },
+        {
+          "text": "If the 12V battery and cable terminals are dirty, clean them with a wire brush or sandpaper before installation."
+        },
+        {
+          "text": "When connecting cables, always do so from the positive (+) terminal."
+        },
+        {
+          "text": "When connecting cables, always do so from the positive (+) terminal."
+        },
+        {
+          "text": "Be careful not to overtighten the terminals as this may damage the fasteners."
+        },
+        {
+          "text": "Be careful not to overtighten the terminals as this may damage the fasteners."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery terminal Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "910_3.0_jpn_11580688_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply grease to the 12V battery terminals. Connect cable (A) to the positive (+) terminal of the 12V battery, then connect cable (B) to the negative (-) terminal of the 12V battery. Install the terminal cover (D)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "To prevent breakage, do not hold the connector part (C) and do not perform the detachment operation."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000910_jpn/web/html/R000910_jpn_Content.html",
+  "inOutline": true
+}

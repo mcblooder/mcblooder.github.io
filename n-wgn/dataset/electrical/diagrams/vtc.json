@@ -1,0 +1,30 @@
+{
+  "id": "vtc",
+  "category": "electrical_diagram",
+  "title": "VTC System",
+  "system": "vtc",
+  "sheetCount": 1,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/vtc/sheet1.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "PCM",
+      "VTC Oil Control Solenoid Valve"
+    ],
+    "Couplers": [
+      "C002 (Female)",
+      "PCM Connector E (80P) (Female)",
+      "VTC Oil Control Solenoid Valve 2P Connector (Female)"
+    ],
+    "Grounds": [
+      "G101"
+    ],
+    "Harnesses": [
+      "EC Engine Wire Harness"
+    ]
+  }
+}

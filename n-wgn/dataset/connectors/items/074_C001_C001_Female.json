@@ -1,0 +1,210 @@
+{
+  "id": "074_C001_C001_Female",
+  "category": "connector",
+  "connectorRef": "C001",
+  "physicalIds": [
+    "C001"
+  ],
+  "name": "C001 (Female)",
+  "nameRu": "Разъём C001, гнездовая часть",
+  "type": "ShortCoupler",
+  "pinCount": 12,
+  "populatedPinCount": 12,
+  "faceviewPart": "91951-RTA -0030-H1",
+  "partNumbers": [
+    "91951-RTA -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Left Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Cruise Control",
+    "CVT Control System",
+    "EVAP System",
+    "Junction Connectors",
+    "PCM (All)",
+    "PCM Power and Ground",
+    "PGM-FI System",
+    "Power Supply"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91951-RTA -0030-H1.svg",
+    "viewBox": "0 0 220.707 49.421",
+    "width": 220.707,
+    "height": 49.421
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "CRKSG",
+      "english": "CRKSG",
+      "russian": "CRKSG",
+      "terminal": "Z20A000",
+      "geometry": {
+        "x": 21.165,
+        "y": 27.819,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "LG1",
+      "english": "LG1",
+      "russian": "LG1",
+      "terminal": "Z20B000",
+      "geometry": {
+        "x": 36.965,
+        "y": 27.819,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "LG1",
+      "english": "LG1",
+      "russian": "LG1",
+      "terminal": "Z20C",
+      "geometry": {
+        "x": 52.766,
+        "y": 27.819,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "RED",
+      "circuit": "VCC2_TC",
+      "english": "VCC2, TC",
+      "russian": "VCC2, TC",
+      "terminal": "D46D",
+      "geometry": {
+        "x": 68.566,
+        "y": 27.819,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "RED",
+      "circuit": "VCC2_TC",
+      "english": "VCC2, TC",
+      "russian": "VCC2, TC",
+      "terminal": "D46E",
+      "geometry": {
+        "x": 84.367,
+        "y": 27.819,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "RED",
+      "circuit": "VCC2_TC",
+      "english": "VCC2, TC",
+      "russian": "VCC2, TC",
+      "terminal": "D46F",
+      "geometry": {
+        "x": 100.168,
+        "y": 27.819,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "RED",
+      "circuit": "VCC2_TC",
+      "english": "VCC2, TC",
+      "russian": "VCC2, TC",
+      "terminal": "D46G",
+      "geometry": {
+        "x": 115.967,
+        "y": 27.819,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "IG1(ABV)",
+      "english": "ignition IG1, ABV",
+      "russian": "зажигание IG1, ABV",
+      "terminal": "K13H",
+      "geometry": {
+        "x": 131.767,
+        "y": 27.819,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "IG1(WGS)",
+      "english": "ignition IG1, WGS",
+      "russian": "зажигание IG1, WGS",
+      "terminal": "K12J",
+      "geometry": {
+        "x": 147.568,
+        "y": 27.819,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "IG1(PCS)_TC",
+      "english": "ignition IG1, PCS, TC",
+      "russian": "зажигание IG1, PCS, TC",
+      "terminal": "D26K",
+      "geometry": {
+        "x": 161.144,
+        "y": 27.819,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "IG1(SO2HT)_TC",
+      "english": "ignition IG1, SO2HT, TC",
+      "russian": "зажигание IG1, SO2HT, TC",
+      "terminal": "D22L",
+      "geometry": {
+        "x": 176.945,
+        "y": 27.819,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "IG1(MAIN)_TC",
+      "english": "ignition IG1, main, TC",
+      "russian": "зажигание IG1, главный, TC",
+      "terminal": "D36M",
+      "geometry": {
+        "x": 192.745,
+        "y": 27.819,
+        "svgTextId": "SVGID_12_"
+      }
+    }
+  ]
+}

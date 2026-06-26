@@ -1,0 +1,63 @@
+{
+  "id": "196_EA25_Left_Front_Turn_Signal_Light_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA25",
+  "physicalIds": [
+    "EA25"
+  ],
+  "name": "Left Front Turn Signal Light 2P Connector (Female)",
+  "nameRu": "Разъём левый передний Turn Signal Light, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91702-S5A -0030-H1",
+  "partNumbers": [
+    "91702-S5A -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Left Side"
+  ],
+  "systems": [
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91702-S5A -0030-H1.svg",
+    "viewBox": "0 0 65.826 43.176",
+    "width": 65.826,
+    "height": 43.176
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-L)",
+      "english": "Ground (ENG-L)",
+      "russian": "Масса (ENG-L)",
+      "terminal": "Z25A",
+      "geometry": {
+        "x": 15.827,
+        "y": 31.563,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "L_TURN",
+      "english": "left, turn signal",
+      "russian": "левый, указатель поворота",
+      "terminal": "17B",
+      "geometry": {
+        "x": 44.141,
+        "y": 31.563,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

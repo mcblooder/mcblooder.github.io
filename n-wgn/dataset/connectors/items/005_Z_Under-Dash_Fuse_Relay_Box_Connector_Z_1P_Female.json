@@ -1,0 +1,94 @@
+{
+  "id": "005_Z_Under-Dash_Fuse_Relay_Box_Connector_Z_1P_Female",
+  "category": "connector",
+  "connectorRef": "Z / EA16",
+  "physicalIds": [
+    "EA16"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector Z (1P), гнездовая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "91760-SNA -0030-H1",
+  "partNumbers": [
+    "91760-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side",
+    "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Front Side"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "A/T Interlock System",
+    "Accessory Power Socket",
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "Audio System",
+    "Auto Idle Stop System",
+    "Back-Up Lights",
+    "Brake Lights",
+    "Charging System",
+    "City-Brake Active System",
+    "Climate Control",
+    "Cruise Control",
+    "CVT Control System",
+    "Dashlights",
+    "DLC",
+    "Energy Management System",
+    "Entry Light Control System",
+    "EPS",
+    "ETCS (Electronic Throttle Control System)",
+    "EVAP System",
+    "Fans",
+    "Fog Lights",
+    "Fuel Supply System",
+    "Gauges",
+    "Headlight Leveling System",
+    "Headlights",
+    "Idle Control System",
+    "Ignition System",
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "MIL Circuit",
+    "PCM (All)",
+    "PCM Power and Ground",
+    "PGM-FI System",
+    "Power Mirrors",
+    "Power Supply",
+    "Power Windows",
+    "Power, Grounds and Diagnostics",
+    "Rear Window/Power Mirror Defoggers",
+    "SRS",
+    "Starting System",
+    "VSA",
+    "Wiper/Washer (Rear Window)",
+    "Wiper/Washer (Windshield)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91760-SNA -0030-H1.svg",
+    "viewBox": "0 0 35.815 33.75",
+    "width": 35.815,
+    "height": 33.75
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "RED",
+      "circuit": "+B_F/BOX_MAIN",
+      "english": "Constant battery power: F / BOX, main",
+      "russian": "Постоянное питание от АКБ: F / BOX, главный",
+      "terminal": "B04A",
+      "geometry": {
+        "x": 15.134,
+        "y": 25.182,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

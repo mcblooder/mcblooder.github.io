@@ -1,0 +1,63 @@
+{
+  "id": "R000936",
+  "title": "Inspect hood latch switch",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "hood",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000936",
+  "assets": [
+    "936_5.0_jpn_11580725_5.0_disp.png",
+    "936_5.0_jpn_11677561_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000825",
+      "label": "Replace the hood lock.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect hood latch switch"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Bonnet latch switch Check"
+    },
+    {
+      "type": "figure",
+      "asset": "936_5.0_jpn_11580725_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "936_5.0_jpn_11677561_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Inspect the continuity between terminals in each position of the coupler (B) and confirm that there is continuity only between ○ and ○. If there is no continuity, bonnet latch switch is defective, Replace the hood lock. Connect the coupler.",
+      "refs": [
+        {
+          "id": "R000825",
+          "label": "Replace the hood lock.",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000936_jpn/web/html/R000936_jpn_Content.html",
+  "inOutline": true
+}

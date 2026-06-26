@@ -1,0 +1,34 @@
+{
+  "id": "audioless",
+  "category": "electrical_diagram",
+  "title": "Audioless",
+  "system": "audioless",
+  "sheetCount": 6,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/audioless/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/audioless/sheet2.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/audioless/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/audioless/sheet5.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/audioless/sheet7.svg"
+    },
+    {
+      "name": "sheet8",
+      "asset": "assets/svg/audioless/sheet8.svg"
+    }
+  ],
+  "components": {}
+}

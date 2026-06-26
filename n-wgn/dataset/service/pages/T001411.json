@@ -1,0 +1,110 @@
+{
+  "id": "T001411",
+  "title": "MICU input inspection",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "integrated system",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001411",
+  "assets": [
+    "1411_5.0_jpn_11579607_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000925",
+      "label": "Disconnect each coupler from the fuse box.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "MICU input inspection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before performing the inspection, check relay box No. A14 (10A), fuse box No. B7 (7.5A), sub fuse/relay box No. C1 (15A) and fuses for blown or connected conditions."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Disconnect each coupler from the fuse box. 2. Perform input inspection, if all is normal and there is something wrong with the system, Replace fuse box. Each coupler is all female-terminated on the cord side. inspection terminal Wiring color Measuring conditions result Inspection items in case of abnormality P1 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. B8 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. T27 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. U17 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. J1 yellow 24-hour (e.g. observation, operation (of a machine), care (of patient)) Battery voltage must be present between the inspection terminal and body ground. Cord disconnection and terminal connection condition M4 green 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity between the inspection terminal and the data link coupler No. 10 terminal Cord disconnection and terminal connection condition T6 peach Disconnect combination meter coupler (32P) There should be continuity between the inspection terminal and the combination meter coupler (32P) No. 31 terminal. Cord disconnection and terminal connection condition T7 green There should be continuity between the inspection terminal and the combination meter coupler (32P) No. 30 terminal. A24 peach Disconnect the headlight auto-leveling control unit coupler (12-pin) There should be continuity between the inspection terminal and the headlight auto-leveling control unit coupler (12P) No. 8 terminal. Cord disconnection and terminal connection condition A23 green There should be continuity between the inspection terminal and the headlight auto-leveling control unit coupler (12P) No. 7 terminal. T6 peach Disconnect the auto light control unit coupler (7P) There should be continuity between the inspection terminal and the No. 7 terminal of the auto light control unit coupler (7P). Cord disconnection and terminal connection condition T7 green There should be continuity between the inspection terminal and the auto light control unit coupler (7P) No. 6 terminal. T6 peach Disconnect audio unit coupler D (24P) There should be continuity between the inspection terminal and the audio unit coupler D (24P) No. 11 terminal. Cord disconnection and terminal connection condition T7 green There should be continuity between the inspection terminal and the audio unit coupler D (24P) No. 23 terminal. T9 peach Disconnect the auto A/C control unit coupler (32P) There should be continuity between the inspection terminal and the auto A/C control unit coupler (32P) coupler No. 18 terminal. Cord disconnection and terminal connection condition T8 green There should be continuity between the inspection terminal and the auto A/C control unit coupler (32P) No. 17 terminal.",
+      "refs": [
+        {
+          "id": "R000925",
+          "label": "Disconnect each coupler from the fuse box.",
+          "resolved": true
+        },
+        {
+          "id": "R000925",
+          "label": "Replace fuse box.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1411_5.0_jpn_11579607_5.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G402)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G202)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G402)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G403)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001411_jpn/web/html/T001411_jpn_Content.html",
+  "inOutline": true
+}

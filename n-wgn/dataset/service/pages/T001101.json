@@ -1,0 +1,38 @@
+{
+  "id": "T001101",
+  "title": "Cooling Fan Control Failure Diagnostic Table by Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cooling System",
+  "system": "cooling device",
+  "subtitle": "",
+  "dgName": "engine",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001101",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cooling Fan Control Failure Diagnostic Table by Symptom"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "1.",
+          "Inspect radiator fan operating circuit."
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001101_jpn/web/html/T001101_jpn_Content.html",
+  "inOutline": true
+}

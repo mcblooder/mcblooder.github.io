@@ -1,0 +1,48 @@
+{
+  "id": "263_T1_T1",
+  "category": "connector",
+  "connectorRef": "T1",
+  "physicalIds": [
+    "T1"
+  ],
+  "name": "T1",
+  "nameRu": "Разъём T1",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 1,
+  "faceviewPart": "DM",
+  "partNumbers": [],
+  "harnesses": [
+    "38250-T6G_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [],
+  "faceview": {
+    "asset": "assets/faceview/DM.svg",
+    "viewBox": "0 0 82.374 22.471",
+    "width": 82.374,
+    "height": 22.471
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "+B_BATTERY",
+      "english": "Constant battery power: battery",
+      "russian": "Постоянное питание от АКБ: аккумулятор",
+      "terminal": "BA0A",
+      "geometry": null
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    }
+  ]
+}

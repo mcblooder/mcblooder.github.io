@@ -1,0 +1,44 @@
+{
+  "id": "C002028",
+  "title": "Power Mirror Structure Description - Overview",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "mirror",
+  "system": "Power Mirror",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002028",
+  "assets": [
+    "2028_3.0_jpn_11390982_2.0_disp.png",
+    "2028_3.0_jpn_11409950_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Power Mirror Structure Description - Overview"
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on the specifications, electrically retractable door mirrors and mirror heaters are equipped. The mirror heaters are controlled by the same auto A/C control unit as the rear defroster. (See rear defroster structure description.)"
+    },
+    {
+      "type": "figure",
+      "asset": "2028_3.0_jpn_11409950_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2028_3.0_jpn_11390982_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002028_jpn/web/html/C002028_jpn_Content.html",
+  "inOutline": true
+}

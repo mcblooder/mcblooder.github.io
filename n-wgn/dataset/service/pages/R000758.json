@@ -1,0 +1,218 @@
+{
+  "id": "R000758",
+  "title": "Interior garnish/lining removal - Pillar area - Side curtains Non-equipped vehicles with airbags",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "interior",
+  "system": "trim",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000758",
+  "assets": [
+    "758_3.0_jpn_11581188_3.0_disp.png",
+    "758_3.0_jpn_11581189_3.0_disp.png",
+    "758_3.0_jpn_11581190_3.0_disp.png",
+    "758_3.0_jpn_11581191_3.0_disp.png",
+    "758_3.0_jpn_11581192_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000757",
+      "label": "Remove the necessary amount of front door opening seal (A).",
+      "resolved": true
+    },
+    {
+      "id": "R000807",
+      "label": "Front seat belt upper anchor removal",
+      "resolved": true
+    },
+    {
+      "id": "R000761",
+      "label": "Cargo side lining removal",
+      "resolved": true
+    },
+    {
+      "id": "R000809",
+      "label": "Rear seat belt lower anchor removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Interior garnish/lining removal - Pillar area - Side curtains Non-equipped vehicles with airbags"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front pillar garnish removal"
+    },
+    {
+      "type": "figure",
+      "asset": "758_3.0_jpn_11581188_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the necessary amount of front door opening seal (A). Pull out the upper edge of the front pillar garnish (B) and remove the clips (C, D). Pull up the garnish and remove it from the instrument panel.",
+      "refs": [
+        {
+          "id": "R000757",
+          "label": "Remove the necessary amount of front door opening seal (A).",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front side garnish removal",
+      "refs": [
+        {
+          "id": "R000757",
+          "label": "Front side garnish removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear side garnish removal",
+      "refs": [
+        {
+          "id": "R000757",
+          "label": "Rear side garnish removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Center pillar lower garnish removal"
+    },
+    {
+      "type": "figure",
+      "asset": "758_3.0_jpn_11581189_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Shift the front seat all the way forward. Remove the seat belt (C) from the slit (B) in the center pillar lower garnish (A) and remove the garnish."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Front seat belt upper anchor removal",
+      "refs": [
+        {
+          "id": "R000807",
+          "label": "Front seat belt upper anchor removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Center pillar upper garnish removal"
+    },
+    {
+      "type": "figure",
+      "asset": "758_3.0_jpn_11581190_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the front door opening seal (A) and rear door opening seal (B) as required."
+    },
+    {
+      "type": "figure",
+      "asset": "758_3.0_jpn_11581191_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Pull out the lower end of the center pillar upper garnish (A) and remove the hook (B). Pull down the garnish to remove the overlap with the roof lining (C) and remove the hook (D) from the hole in the body."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Cargo side lining removal",
+      "refs": [
+        {
+          "id": "R000761",
+          "label": "Cargo side lining removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear seat belt lower anchor removal",
+      "refs": [
+        {
+          "id": "R000809",
+          "label": "Rear seat belt lower anchor removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Rear pillar garnish removal"
+    },
+    {
+      "type": "figure",
+      "asset": "758_3.0_jpn_11581192_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the rear opening trim (A) and tailgate weather strip (B) as required. Pull the lower part of the rear pillar garnish (C) toward you and remove the clips (D, E). Pull down the garnish to remove the overlap with the roof lining (F) and remove the hook (G) from the hole in the body."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000758_jpn/web/html/R000758_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,46 @@
+{
+  "id": "T001104",
+  "title": "Turbo Charger System Failure Diagnostic Table by Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Exhaust System",
+  "system": "Turbo Charger System",
+  "subtitle": "",
+  "dgName": "Turbo Charger System",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001104",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Turbo Charger System Failure Diagnostic Table by Symptom"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "1.",
+          "Check DTC"
+        ],
+        [
+          "2.",
+          "Vacuum tube crush/damage inspection of West Gate valve control SOL.V"
+        ],
+        [
+          "3.",
+          "West gate inspection"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001104_jpn/web/html/T001104_jpn_Content.html",
+  "inOutline": true
+}

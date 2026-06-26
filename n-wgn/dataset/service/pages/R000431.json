@@ -1,0 +1,120 @@
+{
+  "id": "R000431",
+  "title": "Remove and install the water pump cover.",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cooling System",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000431",
+  "assets": [
+    "431_5.0_jpn_11583072_5.0_disp.png",
+    "431_5.0_jpn_11583073_5.0_disp.png",
+    "431_5.0_jpn_11583074_5.0_disp.png",
+    "431_5.0_jpn_11583075_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000430",
+      "label": "Water pump removal",
+      "resolved": true
+    },
+    {
+      "id": "R000435",
+      "label": "Coolant Injection",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Remove and install the water pump cover."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Water pump removal",
+      "refs": [
+        {
+          "id": "R000430",
+          "label": "Water pump removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Disconnect water bypass hose (Turbocharger equipped vehicles)"
+    },
+    {
+      "type": "figure",
+      "asset": "431_5.0_jpn_11583072_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Remove the catalytic converter cover (for vehicles not equipped with a turbo charger)."
+    },
+    {
+      "type": "figure",
+      "asset": "431_5.0_jpn_11583073_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "431_5.0_jpn_11583074_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the nadir catalytic converter cover (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Water pump cover removal"
+    },
+    {
+      "type": "figure",
+      "asset": "431_5.0_jpn_11583075_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Coolant Injection",
+      "refs": [
+        {
+          "id": "R000435",
+          "label": "Coolant Injection",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000431_jpn/web/html/R000431_jpn_Content.html",
+  "inOutline": true
+}

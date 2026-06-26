@@ -1,0 +1,128 @@
+{
+  "id": "262_C_Under-Dash_Fuse_Relay_Box_Connector_C_10P_Female",
+  "category": "connector",
+  "connectorRef": "C",
+  "physicalIds": [
+    "C"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector C (10P), гнездовая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 10,
+  "populatedPinCount": 6,
+  "faceviewPart": "DM",
+  "partNumbers": [],
+  "harnesses": [
+    "38200-T6G_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [],
+  "faceview": {
+    "asset": "assets/faceview/DM.svg",
+    "viewBox": "0 0 82.374 22.471",
+    "width": 82.374,
+    "height": 22.471
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "FI_MAIN_RLY_CL-",
+      "english": "fuel injection, main, relay, coil control -",
+      "russian": "впрыск топлива, главный, реле, управление катушкой -",
+      "terminal": "D05A",
+      "geometry": null
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11B",
+      "geometry": null
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "RED",
+      "circuit": "STOP_LT",
+      "english": "brake light, light",
+      "russian": "стоп-сигнал, освещение",
+      "terminal": "13C",
+      "geometry": null
+    },
+    {
+      "pin": 4,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 5,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 6,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11G",
+      "geometry": null
+    },
+    {
+      "pin": 8,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "IG1_ACG",
+      "english": "ignition IG1, alternator",
+      "russian": "зажигание IG1, генератор",
+      "terminal": "G05J",
+      "geometry": null
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "IG1_ACG",
+      "english": "ignition IG1, alternator",
+      "russian": "зажигание IG1, генератор",
+      "terminal": "G05K",
+      "geometry": null
+    }
+  ]
+}

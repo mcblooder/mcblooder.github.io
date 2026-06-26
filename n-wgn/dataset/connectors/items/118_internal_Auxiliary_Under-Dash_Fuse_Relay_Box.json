@@ -1,0 +1,286 @@
+{
+  "id": "118_internal_Auxiliary_Under-Dash_Fuse_Relay_Box",
+  "category": "connector",
+  "connectorRef": "INTERNAL",
+  "physicalIds": [],
+  "name": "Auxiliary Under-Dash Fuse/Relay Box",
+  "nameRu": "Разъём дополнительный блок предохранителей и реле под панелью",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 26,
+  "populatedPinCount": 15,
+  "faceviewPart": "DM",
+  "partNumbers": [],
+  "harnesses": [
+    "38210-TF3_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [],
+  "faceview": {
+    "asset": "assets/faceview/DM.svg",
+    "viewBox": "0 0 82.374 22.471",
+    "width": 82.374,
+    "height": 22.471
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "ACC(BST)",
+      "english": "ACC, BST",
+      "russian": "ACC, BST",
+      "terminal": "C05A",
+      "geometry": null
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "DC/DC_OUT2",
+      "english": "DC / DC, OUT2",
+      "russian": "DC / DC, OUT2",
+      "terminal": "K01D",
+      "geometry": null
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "IG1_METER(BST)",
+      "english": "ignition IG1, METER, BST",
+      "russian": "зажигание IG1, METER, BST",
+      "terminal": "G35E",
+      "geometry": null
+    },
+    {
+      "pin": 6,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "RED",
+      "circuit": "ACC",
+      "english": "Accessory power",
+      "russian": "Питание аксессуаров ACC",
+      "terminal": "C01G",
+      "geometry": null
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(EPS)",
+      "english": "Ground (EPS)",
+      "russian": "Масса (EPS)",
+      "terminal": "Z46H",
+      "geometry": null
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "IG1_RELAY2",
+      "english": "ignition IG1, RELAY2",
+      "russian": "зажигание IG1, RELAY2",
+      "terminal": "G34J",
+      "geometry": null
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(EPS)",
+      "english": "Ground (EPS)",
+      "russian": "Масса (EPS)",
+      "terminal": "Z46K",
+      "geometry": null
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "ORN",
+      "circuit": "IG1_RELAY1",
+      "english": "ignition IG1, RELAY1",
+      "russian": "зажигание IG1, RELAY1",
+      "terminal": "G33L",
+      "geometry": null
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(EPS)",
+      "english": "Ground (EPS)",
+      "russian": "Масса (EPS)",
+      "terminal": "Z46M",
+      "geometry": null
+    },
+    {
+      "pin": 13,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 14,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 15,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "DC/DC_OUT1",
+      "english": "DC / DC, OUT1",
+      "russian": "DC / DC, OUT1",
+      "terminal": "K00S",
+      "geometry": null
+    },
+    {
+      "pin": 17,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "DC/DC_OUT1",
+      "english": "DC / DC, OUT1",
+      "russian": "DC / DC, OUT1",
+      "terminal": "K00W",
+      "geometry": null
+    },
+    {
+      "pin": 19,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 20,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 21,
+      "used": true,
+      "wire": "ORN",
+      "circuit": "IG1_VSA/ABS",
+      "english": "ignition IG1, VSA / ABS",
+      "russian": "зажигание IG1, VSA / ABS",
+      "terminal": "G17Z",
+      "geometry": null
+    },
+    {
+      "pin": 22,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "IG1_MICU(BST)",
+      "english": "ignition IG1, MICU, BST",
+      "russian": "зажигание IG1, блок MICU, BST",
+      "terminal": "G36AA",
+      "geometry": null
+    },
+    {
+      "pin": 23,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 24,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_VB_SOL_IS",
+      "english": "Constant battery power: VB, solenoid, IS",
+      "russian": "Постоянное питание от АКБ: VB, соленоид, IS",
+      "terminal": "B18AC",
+      "geometry": null
+    },
+    {
+      "pin": 25,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 26,
+      "used": true,
+      "wire": "ORN",
+      "circuit": "+B_BACK_UP_MAIN",
+      "english": "Constant battery power: back-up, up, main",
+      "russian": "Постоянное питание от АКБ: резервный, вверх, главный",
+      "terminal": "B70AE",
+      "geometry": null
+    }
+  ]
+}

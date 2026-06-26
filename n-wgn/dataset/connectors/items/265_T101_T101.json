@@ -1,0 +1,48 @@
+{
+  "id": "265_T101_T101",
+  "category": "connector",
+  "connectorRef": "T101",
+  "physicalIds": [
+    "T101"
+  ],
+  "name": "T101",
+  "nameRu": "Разъём T101",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 1,
+  "faceviewPart": "DM",
+  "partNumbers": [],
+  "harnesses": [
+    "38250-T6G_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [],
+  "faceview": {
+    "asset": "assets/faceview/DM.svg",
+    "viewBox": "0 0 82.374 22.471",
+    "width": 82.374,
+    "height": 22.471
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "+B_MAIN",
+      "english": "Constant battery power: main",
+      "russian": "Постоянное питание от АКБ: главный",
+      "terminal": "B00BA",
+      "geometry": null
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    }
+  ]
+}

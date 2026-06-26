@@ -1,0 +1,121 @@
+{
+  "id": "145_C104_C104_Male__C104_Female",
+  "category": "connector",
+  "connectorRef": "C104",
+  "physicalIds": [
+    "C104"
+  ],
+  "name": "C104 (Male) / C104 (Female)",
+  "nameRu": "Разъём C104, штыревая часть / Разъём C104, гнездовая часть",
+  "type": "MiddleCoupler",
+  "pinCount": 6,
+  "populatedPinCount": 6,
+  "faceviewPart": "91704-RJ2 -0040-H1_91703-RJ2 -0040-H1",
+  "partNumbers": [
+    "91703-RJ2 -0040-H1",
+    "91704-RJ2 -0040-H1"
+  ],
+  "harnesses": [
+    "28360-5Z3_-0000",
+    "28370-5Z3_-0050"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Left Side)"
+  ],
+  "systems": [
+    "CVT Control System",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91704-RJ2 -0040-H1_91703-RJ2 -0040-H1.svg",
+    "viewBox": "0 0 75.239 165.358",
+    "width": 75.239,
+    "height": 165.358
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "L/SOLA+(DRC+)",
+      "english": "L / SOLA +, DRC +",
+      "russian": "L / SOLA +, DRC +",
+      "terminal": "302A / 302B",
+      "geometry": {
+        "x": 13.488,
+        "y": 134.34,
+        "svgTextId": "XMLID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "L/SOLD+(LCC+)",
+      "english": "L / SOLD +, LCC +",
+      "russian": "L / SOLD +, LCC +",
+      "terminal": "308A / 308B",
+      "geometry": {
+        "x": 35.829,
+        "y": 134.34,
+        "svgTextId": "XMLID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "L/SOLC+(CPC+)",
+      "english": "L / SOLC +, CPC +",
+      "russian": "L / SOLC +, CPC +",
+      "terminal": "306A / 306B",
+      "geometry": {
+        "x": 58.507,
+        "y": 134.34,
+        "svgTextId": "XMLID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "RED",
+      "circuit": "L/SOLB+(DNC+)",
+      "english": "L / SOLB +, DNC +",
+      "russian": "L / SOLB +, DNC +",
+      "terminal": "304A / 304B",
+      "geometry": {
+        "x": 13.488,
+        "y": 157.016,
+        "svgTextId": "XMLID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "ORN",
+      "circuit": "SOL+",
+      "english": "solenoid +",
+      "russian": "соленоид +",
+      "terminal": "312A / 312B",
+      "geometry": {
+        "x": 35.829,
+        "y": 157.016,
+        "svgTextId": "XMLID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "DUMMY",
+      "english": "DUMMY",
+      "russian": "DUMMY",
+      "terminal": "313B",
+      "geometry": {
+        "x": 58.507,
+        "y": 157.016,
+        "svgTextId": "XMLID_6_"
+      }
+    }
+  ]
+}

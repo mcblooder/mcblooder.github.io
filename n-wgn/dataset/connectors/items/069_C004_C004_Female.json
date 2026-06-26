@@ -1,0 +1,210 @@
+{
+  "id": "069_C004_C004_Female",
+  "category": "connector",
+  "connectorRef": "C004",
+  "physicalIds": [
+    "C004"
+  ],
+  "name": "C004 (Female)",
+  "nameRu": "Разъём C004, гнездовая часть",
+  "type": "ShortCoupler",
+  "pinCount": 12,
+  "populatedPinCount": 11,
+  "faceviewPart": "91960-SHJ -0030-H1",
+  "partNumbers": [
+    "91960-SHJ -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Charging System",
+    "Climate Control",
+    "Energy Management System",
+    "Fans",
+    "Headlight Leveling System",
+    "Junction Connectors",
+    "PCM (All)",
+    "PGM-FI System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91960-SHJ -0030-H1.svg",
+    "viewBox": "0 0 170.584 74.32",
+    "width": 170.584,
+    "height": 74.32
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "ADJ_ACT_SIG",
+      "english": "ADJ, ACT, signal",
+      "russian": "ADJ, ACT, сигнал",
+      "terminal": "58A000",
+      "geometry": {
+        "x": 12.163,
+        "y": 34.894,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 40.476,
+        "y": 34.894,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "LIN(BATT_SENSOR)",
+      "english": "LIN, battery, sensor",
+      "russian": "LIN, аккумулятор, датчик",
+      "terminal": "X31C",
+      "geometry": {
+        "x": 68.788,
+        "y": 34.894,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "LIN(BATT_SENSOR)",
+      "english": "LIN, battery, sensor",
+      "russian": "LIN, аккумулятор, датчик",
+      "terminal": "X31D",
+      "geometry": {
+        "x": 97.101,
+        "y": 34.894,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "LIN(BATT_SENSOR)",
+      "english": "LIN, battery, sensor",
+      "russian": "LIN, аккумулятор, датчик",
+      "terminal": "X31E",
+      "geometry": {
+        "x": 125.414,
+        "y": 34.894,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "LIN(BATT_SENSOR)",
+      "english": "LIN, battery, sensor",
+      "russian": "LIN, аккумулятор, датчик",
+      "terminal": "X31F",
+      "geometry": {
+        "x": 153.726,
+        "y": 34.894,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "ADJ_ACT_SIG",
+      "english": "ADJ, ACT, signal",
+      "russian": "ADJ, ACT, сигнал",
+      "terminal": "58T",
+      "geometry": {
+        "x": 12.163,
+        "y": 63.208,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "ADJ_ACT_SIG",
+      "english": "ADJ, ACT, signal",
+      "russian": "ADJ, ACT, сигнал",
+      "terminal": "58S",
+      "geometry": {
+        "x": 40.476,
+        "y": 63.208,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "SG6",
+      "english": "SG6",
+      "russian": "SG6",
+      "terminal": "D20J",
+      "geometry": {
+        "x": 68.788,
+        "y": 63.208,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "SG6",
+      "english": "SG6",
+      "russian": "SG6",
+      "terminal": "D20K",
+      "geometry": {
+        "x": 94.876,
+        "y": 63.208,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "SG6",
+      "english": "SG6",
+      "russian": "SG6",
+      "terminal": "D20L",
+      "geometry": {
+        "x": 123.189,
+        "y": 63.208,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "SG6",
+      "english": "SG6",
+      "russian": "SG6",
+      "terminal": "D20M",
+      "geometry": {
+        "x": 151.501,
+        "y": 63.208,
+        "svgTextId": "SVGID_12_"
+      }
+    }
+  ]
+}

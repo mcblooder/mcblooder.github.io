@@ -1,0 +1,29 @@
+{
+  "id": "s_net",
+  "category": "electrical_diagram",
+  "title": "S-NET Communication Line",
+  "system": "s_net",
+  "sheetCount": 2,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/s_net/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/s_net/sheet2.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "PCM"
+    ],
+    "Couplers": [
+      "PCM Connector A (50P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)"
+    ],
+    "Harnesses": [
+      "EA Engine Compartment Wire Harness"
+    ]
+  }
+}

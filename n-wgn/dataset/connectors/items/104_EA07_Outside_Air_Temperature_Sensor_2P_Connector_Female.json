@@ -1,0 +1,63 @@
+{
+  "id": "104_EA07_Outside_Air_Temperature_Sensor_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA07",
+  "physicalIds": [
+    "EA07"
+  ],
+  "name": "Outside Air Temperature Sensor 2P Connector (Female)",
+  "nameRu": "Разъём Outside Air Temperature датчик, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91702-RTA -0030-H1",
+  "partNumbers": [
+    "91702-RTA -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Left Side"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Climate Control"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91702-RTA -0030-H1.svg",
+    "viewBox": "0 0 48.207 27.554",
+    "width": 48.207,
+    "height": 27.554
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "SENSER_COM",
+      "english": "sensor, common",
+      "russian": "датчик, общий",
+      "terminal": "331A",
+      "geometry": {
+        "x": 11.422,
+        "y": 18.988,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "TAM",
+      "english": "TAM",
+      "russian": "TAM",
+      "terminal": "335B",
+      "geometry": {
+        "x": 32.074,
+        "y": 18.988,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

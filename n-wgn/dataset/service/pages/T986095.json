@@ -1,0 +1,73 @@
+{
+  "id": "T986095",
+  "title": "No power.",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Exhaust System",
+  "system": "Turbo Charger System",
+  "subtitle": "",
+  "dgName": "Turbo Charger System",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986095",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T002547",
+      "label": "Check DTC",
+      "resolved": true
+    },
+    {
+      "id": "R000421",
+      "label": "West gate inspection",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "No power."
+    },
+    {
+      "type": "paragraph",
+      "text": "diagnostic item"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Check DTC",
+          "refs": [
+            {
+              "id": "T002547",
+              "label": "Check DTC",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Vacuum tube crush/damage inspection of West Gate valve control SOL.V"
+        },
+        {
+          "text": "West gate inspection",
+          "refs": [
+            {
+              "id": "R000421",
+              "label": "West gate inspection",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986095_jpn/web/html/T986095_jpn_Content.html",
+  "inOutline": true
+}

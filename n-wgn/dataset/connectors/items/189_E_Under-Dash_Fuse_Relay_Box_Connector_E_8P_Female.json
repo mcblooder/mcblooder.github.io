@@ -1,0 +1,148 @@
+{
+  "id": "189_E_Under-Dash_Fuse_Relay_Box_Connector_E_8P_Female",
+  "category": "connector",
+  "connectorRef": "E / BI15",
+  "physicalIds": [
+    "BI15"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector E (8P) (Female)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector E (8P), гнездовая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 8,
+  "populatedPinCount": 7,
+  "faceviewPart": "91773-SJD -0030-H1",
+  "partNumbers": [
+    "91773-SJD -0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Right Side)",
+    "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Front Side"
+  ],
+  "systems": [
+    "Keyless/Power Door Locks/Security System",
+    "Power Windows"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91773-SJD -0030-H1.svg",
+    "viewBox": "0 0 94.191 45.679",
+    "width": 94.191,
+    "height": 45.679
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "P/W_RR_L_POWER",
+      "english": "power window, rear/right, left, power",
+      "russian": "стеклоподъёмник, задний/правый, левый, питание",
+      "terminal": "522A",
+      "geometry": {
+        "x": 7.835,
+        "y": 17.085,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "R_SIDE_DOOR_LOCK",
+      "english": "right, SIDE, door, lock",
+      "russian": "правый, SIDE, дверь, запирание",
+      "terminal": "550B",
+      "geometry": {
+        "x": 63.81,
+        "y": 17.123,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 82.469,
+        "y": 17.123,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "P/W_RR_R_POWER",
+      "english": "power window, rear/right, right, power",
+      "russian": "стеклоподъёмник, задний/правый, правый, питание",
+      "terminal": "521D",
+      "geometry": {
+        "x": 7.835,
+        "y": 35.781,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "R_SIDE_DOOR_UNLOCK",
+      "english": "right, SIDE, door, unlock",
+      "russian": "правый, SIDE, дверь, отпирание",
+      "terminal": "551E",
+      "geometry": {
+        "x": 26.494,
+        "y": 35.781,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "R_SIDE_DOOR_UNLOCK",
+      "english": "right, SIDE, door, unlock",
+      "russian": "правый, SIDE, дверь, отпирание",
+      "terminal": "551F",
+      "geometry": {
+        "x": 45.152,
+        "y": 35.781,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "L_SIDE_DOOR_LOCK",
+      "english": "left, SIDE, door, lock",
+      "russian": "левый, SIDE, дверь, запирание",
+      "terminal": "580G",
+      "geometry": {
+        "x": 63.81,
+        "y": 35.781,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "R_SIDE_DOOR_LOCK",
+      "english": "right, SIDE, door, lock",
+      "russian": "правый, SIDE, дверь, запирание",
+      "terminal": "550H",
+      "geometry": {
+        "x": 82.469,
+        "y": 35.781,
+        "svgTextId": "SVGID_3_"
+      }
+    }
+  ]
+}

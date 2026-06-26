@@ -1,0 +1,142 @@
+{
+  "id": "R000654",
+  "title": "Tire puncture first aid extraction",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "suspension",
+  "sectionCode": "B",
+  "subsection": "Wheels tires",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000654",
+  "assets": [
+    "654_3.0_jpn_11035657_3.0_disp.png",
+    "654_3.0_jpn_11035658_3.0_disp.png",
+    "654_3.0_jpn_11035659_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Wheel removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Tire puncture first aid extraction"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not dispose of tires with the repair agent filled."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Tires that have been repaired using tire puncture remedy should be collected by removing the remedy from the tire. Expired repair agents and recovered repair agents contain components that are treated as industrial waste, so they should be separated and disposed of in the same manner as waste oil and fluid."
+        },
+        {
+          "text": "Tires that have been repaired using tire puncture remedy should be collected by removing the remedy from the tire. Expired repair agents and recovered repair agents contain components that are treated as industrial waste, so they should be separated and disposed of in the same manner as waste oil and fluid."
+        },
+        {
+          "text": "When installing tires, replace valves with new ones."
+        },
+        {
+          "text": "When installing tires, replace valves with new ones."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Tire Flat tire first aid agent Extracted"
+    },
+    {
+      "type": "figure",
+      "asset": "654_3.0_jpn_11035657_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove air from the tire. Cut off the valve (A) from the base using a cutter, etc., and push the valve rubber part remaining in the wheel hole into the tire using a flat-blade screwdriver, etc. Put the tire on the workbench and stand the tire up."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not scratch the wheels with tools or cutters."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to spill the repair agent through the valve hole (B)."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "654_3.0_jpn_11035658_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Using the empty bottle (A) used for filling, insert the hose through the valve hole of the tire and push it in until the tip of the hose is covered with the repair agent (B). Pump (compress and expand) the empty bottle at a lower position than the tire to suck out the repair agent. Remove the repair agent completely by shaking the tire, and do not leave the repair agent in the tire."
+    },
+    {
+      "type": "figure",
+      "asset": "654_3.0_jpn_11035659_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "The bottle (A) from which the repair agent was drained is bent over the hose as shown and taped with string or tape. If the wheel and tire are to be reused, thoroughly wipe off any repair agent around the damaged area. Next, repair the puncture and replace the valve. Tire Flat tire first aid agent blocks puncture holes, etc., so depending on the extent of the damage, the damaged area may not be found. Tires If you continue to drive without repairing a flat tire, check the tire pressure frequently and replace the tire if there is an abnormality (loss of air pressure)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Wipe off the tire bead and wheel rim/bead mating area thoroughly so as not to leave any repair agent on the tire."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000654_jpn/web/html/R000654_jpn_Content.html",
+  "inOutline": true
+}

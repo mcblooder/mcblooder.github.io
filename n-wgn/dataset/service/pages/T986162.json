@@ -1,0 +1,147 @@
+{
+  "id": "T986162",
+  "title": "Engine vibration is loud at idling when in-gear",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM hydraulic system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986162",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R000542",
+      "label": "Transmission Fluid Level Inspection",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Engine vibration is loud at idling when in-gear"
+    },
+    {
+      "type": "paragraph",
+      "text": "checklist"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Transmission Fluid Level Inspection",
+          "refs": [
+            {
+              "id": "R000542",
+              "label": "Transmission Fluid Level Inspection",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Transmission Fluid Inspection",
+          "refs": [
+            {
+              "id": "R000542",
+              "label": "Transmission Fluid Inspection",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Engine power adjustment"
+        },
+        {
+          "text": "Inspection of main valve body assy."
+        },
+        {
+          "text": "Inspect solenoid harness"
+        },
+        {
+          "text": "Feed Pipe Inspection"
+        },
+        {
+          "text": "Forward Clutch Assy. inspection"
+        },
+        {
+          "text": "Reverse Clutch Assy. inspection"
+        },
+        {
+          "text": "Input shaft inspection"
+        },
+        {
+          "text": "Inspect drive plate"
+        },
+        {
+          "text": "Inspection of torque converter assy."
+        },
+        {
+          "text": "Inspect stator shaft"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "probable cause"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Insufficient transmission fluid"
+        },
+        {
+          "text": "Transmission fluid deterioration"
+        },
+        {
+          "text": "Insufficient engine power"
+        },
+        {
+          "text": "Main valve body assembly. defective"
+        },
+        {
+          "text": "Solenoid Harness failure"
+        },
+        {
+          "text": "Feed Pipe damaged, O-ring defective"
+        },
+        {
+          "text": "Forward clutch assembly. defective"
+        },
+        {
+          "text": "Reverse clutch assembly. defective"
+        },
+        {
+          "text": "Input shaft defective, needle bearing damaged"
+        },
+        {
+          "text": "Input shaft seal ring defective, O-ring defective"
+        },
+        {
+          "text": "Drive plate damaged"
+        },
+        {
+          "text": "Torque converter assy. defective"
+        },
+        {
+          "text": "Stator shaft damage"
+        },
+        {
+          "text": "PGM-FI ECU failure"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986162_jpn/web/html/T986162_jpn_Content.html",
+  "inOutline": true
+}

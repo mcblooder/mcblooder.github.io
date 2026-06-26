@@ -1,0 +1,77 @@
+{
+  "id": "096_EA35_Master_Power_Vacuum_Sensor_3P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA35",
+  "physicalIds": [
+    "EA35"
+  ],
+  "name": "Master Power Vacuum Sensor 3P Connector (Female)",
+  "nameRu": "Разъём Master Power Vacuum датчик, 3 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "91703-RTA -0030-H1",
+  "partNumbers": [
+    "91703-RTA -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Left Side"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91703-RTA -0030-H1.svg",
+    "viewBox": "0 0 95.435 38.029",
+    "width": 95.435,
+    "height": 38.029
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "SG6",
+      "english": "SG6",
+      "russian": "SG6",
+      "terminal": "D20A",
+      "geometry": {
+        "x": 16.955,
+        "y": 25.736,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "VAC1",
+      "english": "VAC1",
+      "russian": "VAC1",
+      "terminal": "A41B",
+      "geometry": {
+        "x": 45.302,
+        "y": 25.736,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "VCC6",
+      "english": "VCC6",
+      "russian": "VCC6",
+      "terminal": "D19C",
+      "geometry": {
+        "x": 73.957,
+        "y": 25.785,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

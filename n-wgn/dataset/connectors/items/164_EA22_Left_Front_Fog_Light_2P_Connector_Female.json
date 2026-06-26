@@ -1,0 +1,62 @@
+{
+  "id": "164_EA22_Left_Front_Fog_Light_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA22",
+  "physicalIds": [
+    "EA22"
+  ],
+  "name": "Left Front Fog Light 2P Connector (Female)",
+  "nameRu": "Разъём левый передний Fog Light, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91849-TE0 -0030-H1",
+  "partNumbers": [
+    "91849-TE0 -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Left Side"
+  ],
+  "systems": [
+    "Fog Lights"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91849-TE0 -0030-H1.svg",
+    "viewBox": "0 0 54.401 28.587",
+    "width": 54.401,
+    "height": 28.587
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "FR_FOG_LT_RLY_OUT",
+      "english": "front, FOG, light, relay, output",
+      "russian": "передний, FOG, освещение, реле, выход",
+      "terminal": "47A000",
+      "geometry": {
+        "x": 13.553,
+        "y": 22.052,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-L)",
+      "english": "Ground (ENG-L)",
+      "russian": "Масса (ENG-L)",
+      "terminal": "Z20H",
+      "geometry": {
+        "x": 37.303,
+        "y": 22.052,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

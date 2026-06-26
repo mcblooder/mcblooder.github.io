@@ -1,0 +1,132 @@
+{
+  "id": "A000058",
+  "title": "DTC Explanation: P065A",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000058",
+  "assets": [
+    "58_3.0_jpn_11033567_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P065A"
+    },
+    {
+      "type": "dtc",
+      "code": "",
+      "text": "DTC P065A: ACG failure"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "58_3.0_jpn_11033567_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The LIN-connected A.C. generator converts a portion of the engine output into electric power via the drive belt, receives instructions from the PGM-FI ECU via LIN on the voltage to be generated, and generates power accordingly The only connection terminals between the A.C. generator and the vehicle side are the +B terminal (output terminal) and LIN communication terminal (1P connector ), and the enclosure of the A.C. generator is the GND. The power supply for regulator operation is connected internally using the +B terminal. the A.C. generator has a self-diagnostic function in the regulator and sends the self-diagnostic results to the PGM-FI ECU via LIN upon request from the PGM-FI ECU. If the abnormal diagnosis continues for more than a predetermined time, the PGM-FI ECU determines a failure and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "D/C: Drive Cycle"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "[ ]: HDS Parameters"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "If any of the following conditions persists for more than 5 seconds"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When the B terminal voltage is above the adjustment voltage and the F terminal voltage is Hi."
+        },
+        {
+          "text": "B terminal voltage is 10V or less (A.C. generator speed: 3,000 rpm or less) or 11V or less (A.C. generator speed: 3,000 rpm or more)."
+        },
+        {
+          "text": "P terminal voltage is 2V or less (A.C. generator speed: 3,000 rpm or less) or 6V or less (A.C. generator speed: 3,000 rpm or more)."
+        },
+        {
+          "text": "A.C. Generator speed is 400 rpm or less."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "A.C. generator rotation failure"
+        },
+        {
+          "text": "A.C. generator internal circuit failure (broken wire, short circuit and regulator failure)"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to be faulty, the temporary DTC, DTC and freeze data are stored in the PGM-FI ECU memory without the PGM-FI warning light being turned on."
+    },
+    {
+      "type": "paragraph",
+      "text": "Temporary DTCs, DTCs and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000058_jpn/web/html/A000058_jpn_Content.html",
+  "inOutline": true
+}

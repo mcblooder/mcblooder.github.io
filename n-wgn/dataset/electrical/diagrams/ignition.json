@@ -1,0 +1,70 @@
+{
+  "id": "ignition",
+  "category": "electrical_diagram",
+  "title": "Ignition System",
+  "system": "ignition",
+  "sheetCount": 4,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/ignition/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/ignition/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/ignition/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/ignition/sheet4.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Engine Start/Stop Switch",
+      "No.1 Ignition Coil",
+      "No.2 Ignition Coil",
+      "No.3 Ignition Coil",
+      "PCM"
+    ],
+    "Couplers": [
+      "C002 (Female)",
+      "C105 (Male)|C105 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "No. 1 Ignition Coil 3P Connector (Female)",
+      "No. 2 Ignition Coil 3P Connector (Female)",
+      "No. 3 Ignition Coil 3P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "PCM Connector E (80P) (Female)",
+      "Sub Relay Block 1",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "15_IG1_COIL",
+      "19_IG1_FUEL_PUMP"
+    ],
+    "Grounds": [
+      "G101",
+      "G402"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

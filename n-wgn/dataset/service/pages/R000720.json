@@ -1,0 +1,148 @@
+{
+  "id": "R000720",
+  "title": "Front door lining removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "door (Western-style)",
+  "system": "Front door",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000720",
+  "assets": [
+    "720_3.0_jpn_11337145_3.0_disp.png",
+    "720_3.0_jpn_11369290_2.0_disp.png",
+    "720_3.0_jpn_11369292_3.0_disp.png",
+    "720_3.0_jpn_11369294_3.0_disp.png",
+    "720_3.0_jpn_11381563_2.0_disp.png",
+    "720_3.0_jpn_11391654_2.0_disp.png",
+    "720_3.0_jpn_11392556_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000916",
+      "label": "Power window reset and learn (driver's side)",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front door lining removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Mirror garnish removal"
+    },
+    {
+      "type": "figure",
+      "asset": "720_3.0_jpn_11337145_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front door lining removal"
+    },
+    {
+      "type": "figure",
+      "asset": "720_3.0_jpn_11391654_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the screws (A and B)."
+    },
+    {
+      "type": "figure",
+      "asset": "720_3.0_jpn_11392556_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Insert the handy remover into the gap on the underside of the front door lining (A), pull the lining toward you, and remove the clip and hook (B). Slide the lining upward and remove it."
+    },
+    {
+      "type": "figure",
+      "asset": "720_3.0_jpn_11369290_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Disconnect coupler (A) (driver's side) and coupler (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Front door inner weather strip removal"
+    },
+    {
+      "type": "figure",
+      "asset": "720_3.0_jpn_11369292_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the front door inner weather strip (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Front door power window switch panel removal"
+    },
+    {
+      "type": "figure",
+      "asset": "720_3.0_jpn_11369294_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the front door power window switch panel (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Front door inner handle garnish removal"
+    },
+    {
+      "type": "figure",
+      "asset": "720_3.0_jpn_11381563_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the front door inner handle garnish (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Power window reset and learn (driver's side)",
+      "refs": [
+        {
+          "id": "R000916",
+          "label": "Power window reset and learn (driver's side)",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000720_jpn/web/html/R000720_jpn_Content.html",
+  "inOutline": true
+}

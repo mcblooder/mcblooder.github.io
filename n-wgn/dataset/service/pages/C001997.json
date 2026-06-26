@@ -1,0 +1,65 @@
+{
+  "id": "C001997",
+  "title": "Exterior Light Structure Description - Components",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001997",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Exterior Light Structure Description - Components"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lighting Switch"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lighting/turn signal switch signal is input to MICU."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "headlight"
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on the specifications, discharge lamps or halogen bulbs are used as the low-beam light source."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "taillight"
+    },
+    {
+      "type": "paragraph",
+      "text": "The tail light, brake light, rear turn signal light, and back light are all integrated."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "High mount stop lamp"
+    },
+    {
+      "type": "paragraph",
+      "text": "A high-mounted stop lamp is installed above the tailgate. LEDs are used as the light source."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001997_jpn/web/html/C001997_jpn_Content.html",
+  "inOutline": true
+}

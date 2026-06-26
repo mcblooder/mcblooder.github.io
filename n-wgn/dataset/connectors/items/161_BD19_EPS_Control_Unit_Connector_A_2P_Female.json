@@ -1,0 +1,62 @@
+{
+  "id": "161_BD19_EPS_Control_Unit_Connector_A_2P_Female",
+  "category": "connector",
+  "connectorRef": "BD19",
+  "physicalIds": [
+    "BD19"
+  ],
+  "name": "EPS Control Unit Connector A (2P) (Female)",
+  "nameRu": "Разъём EPS блок управления Connector A (2P), гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91757-SNA -0030-H1",
+  "partNumbers": [
+    "91757-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)"
+  ],
+  "systems": [
+    "EPS"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91757-SNA -0030-H1.svg",
+    "viewBox": "0 0 55.553 32.875",
+    "width": 55.553,
+    "height": 32.875
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(EPS)",
+      "english": "Ground (EPS)",
+      "russian": "Масса (EPS)",
+      "terminal": "Z32A",
+      "geometry": {
+        "x": 9.489,
+        "y": 24.005,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "+B_EPS",
+      "english": "Constant battery power: electric power steering",
+      "russian": "Постоянное питание от АКБ: электроусилитель руля",
+      "terminal": "B20B",
+      "geometry": {
+        "x": 41.614,
+        "y": 24.005,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

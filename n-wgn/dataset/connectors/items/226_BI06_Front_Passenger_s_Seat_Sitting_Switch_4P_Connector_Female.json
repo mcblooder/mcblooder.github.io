@@ -1,0 +1,91 @@
+{
+  "id": "226_BI06_Front_Passenger_s_Seat_Sitting_Switch_4P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BI06",
+  "physicalIds": [
+    "BI06"
+  ],
+  "name": "Front Passenger's Seat Sitting Switch 4P Connector (Female)",
+  "nameRu": "Разъём передний пассажира Seat Sitting выключатель, 4 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 2,
+  "faceviewPart": "91794-T2A -0030-H1",
+  "partNumbers": [
+    "91794-T2A -0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Left Side)"
+  ],
+  "systems": [
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "SRS"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91794-T2A -0030-H1.svg",
+    "viewBox": "0 0 91.391 37.004",
+    "width": 91.391,
+    "height": 37.004
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 9.636,
+        "y": 27.435,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(FLOOR)",
+      "english": "Ground (FLOOR)",
+      "russian": "Масса (FLOOR)",
+      "terminal": "Z62B",
+      "geometry": {
+        "x": 32.458,
+        "y": 27.436,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "SS+",
+      "english": "SS +",
+      "russian": "SS +",
+      "terminal": "S73C",
+      "geometry": {
+        "x": 55.583,
+        "y": 27.435,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 78.214,
+        "y": 27.436,
+        "svgTextId": "SVGID_4_"
+      }
+    }
+  ]
+}

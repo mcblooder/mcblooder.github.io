@@ -1,0 +1,83 @@
+{
+  "id": "R000458",
+  "title": "learning",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "PGM-FI System Crank pattern learning value clear",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000458",
+  "assets": [
+    "458_3.0_jpn_11291971_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Crank pattern learning value clear, learning"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Clearing DTC by HDS does not require this learning."
+        },
+        {
+          "text": "Clearing DTC by HDS does not require this learning."
+        },
+        {
+          "text": "The ECU stores the learned state in the memory in the PGM-FI ECU after the ignition is turned off (LOCK) and approximately 60 minutes have elapsed. If the 12V battery terminal is to be disconnected before that time, it is necessary to execute SCS short in HDS and disconnect the 12V battery terminal after approximately 60 seconds has elapsed."
+        },
+        {
+          "text": "The ECU stores the learned state in the memory in the PGM-FI ECU after the ignition is turned off (LOCK) and approximately 60 minutes have elapsed. If the 12V battery terminal is to be disconnected before that time, it is necessary to execute SCS short in HDS and disconnect the 12V battery terminal after approximately 60 seconds has elapsed."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. HDS Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "458_3.0_jpn_11291971_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect HDS to the data link coupler (A) on the left side of the driver's seat."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Crank pattern learning value Clear, learning"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Select the crank pattern in the Adjustment menu with HDS. Select CRANK PATTERN CLEAR to clear the crank pattern learning value. Select the crank pattern study and follow the HDS on-screen instructions. Turn ignition OFF (LOCK) mode. Execute SCS short in SCS mode with HDS. Execute SCS open in SCS mode at HDS after about 60 seconds. Remove HDS from the data link coupler."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Crank Pattern Learning Value Learning"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Start the engine and allow it to warm up for at least 2 minutes at 3,000 rpm with no load after the radiator fan has run twice. Perform a road test: in the D position, slow down the engine from 4,000 to 1,500 rpm with the throttle fully closed. Repeat step 2 several times. Turn ignition OFF (LOCK) mode. Turn ignition to ON mode and wait for 30 seconds. Turn ignition OFF (LOCK) mode."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000458_jpn/web/html/R000458_jpn_Content.html",
+  "inOutline": true
+}

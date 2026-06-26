@@ -1,0 +1,96 @@
+{
+  "id": "072_Q_Under-Dash_Fuse_Relay_Box_Connector_Q_4P_Female",
+  "category": "connector",
+  "connectorRef": "Q / BD26",
+  "physicalIds": [
+    "BD26"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector Q (4P) (Female)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector Q (4P), гнездовая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 2,
+  "faceviewPart": "77978-SNA -0030-H1",
+  "partNumbers": [
+    "77978-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)",
+    "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Back Side"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "CVT Control System",
+    "PCM (All)",
+    "Power Supply",
+    "SRS",
+    "Starting System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/77978-SNA -0030-H1.svg",
+    "viewBox": "0 0 95.706 50.271",
+    "width": 95.706,
+    "height": 50.271
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "ORN",
+      "circuit": "IG1_SRS2",
+      "english": "ignition IG1, SRS2",
+      "russian": "зажигание IG1, SRS2",
+      "terminal": "G16A",
+      "geometry": {
+        "x": 10.105,
+        "y": 31.945,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 30.757,
+        "y": 31.945,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 59.669,
+        "y": 31.945,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "IG1_ST_CUT_RLY_COIL",
+      "english": "ignition IG1, starter, CUT, relay, coil",
+      "russian": "зажигание IG1, стартер, CUT, реле, катушка",
+      "terminal": "G08D",
+      "geometry": {
+        "x": 80.322,
+        "y": 31.945,
+        "svgTextId": "SVGID_4_"
+      }
+    }
+  ]
+}

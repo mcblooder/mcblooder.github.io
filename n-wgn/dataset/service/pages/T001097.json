@@ -1,0 +1,42 @@
+{
+  "id": "T001097",
+  "title": "Failure Diagnosis Table by Lubrication System Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "lubricating device",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001097",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Failure Diagnosis Table by Lubrication System Symptom"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "1.",
+          "Oil quantity check ​"
+        ],
+        [
+          "2.",
+          "Failure Diagnosis by Symptom ​"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001097_jpn/web/html/T001097_jpn_Content.html",
+  "inOutline": true
+}

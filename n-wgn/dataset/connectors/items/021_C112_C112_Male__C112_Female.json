@@ -1,0 +1,263 @@
+{
+  "id": "021_C112_C112_Male__C112_Female",
+  "category": "connector",
+  "connectorRef": "C112",
+  "physicalIds": [
+    "C112"
+  ],
+  "name": "C112 (Male) / C112 (Female)",
+  "nameRu": "Разъём C112, штыревая часть / Разъём C112, гнездовая часть",
+  "type": "MiddleCoupler",
+  "pinCount": 14,
+  "populatedPinCount": 12,
+  "faceviewPart": "91763-T2AA-0030-H1_91762-T2AA-0030-H1",
+  "partNumbers": [
+    "91762-T2AA-0030-H1",
+    "91763-T2AA-0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-",
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)",
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "Audio System",
+    "Auto Idle Stop System",
+    "Brake Lights",
+    "Cable Reel",
+    "Charging System",
+    "City-Brake Active System",
+    "Climate Control",
+    "Cruise Control",
+    "CVT Control System",
+    "DLC",
+    "Energy Management System",
+    "Entry Light Control System",
+    "EPS",
+    "Fog Lights",
+    "Gauges",
+    "Headlight Leveling System",
+    "Headlights",
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "MIL Circuit",
+    "PCM (All)",
+    "PGM-FI System",
+    "Power Supply",
+    "Power, Grounds and Diagnostics",
+    "SRS",
+    "Starting System",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91763-T2AA-0030-H1_91762-T2AA-0030-H1.svg",
+    "viewBox": "0 0 217.129 208.126",
+    "width": 217.129,
+    "height": 208.126
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "DC/DC_OUT1",
+      "english": "DC / DC, OUT1",
+      "russian": "DC / DC, OUT1",
+      "terminal": "K00A / K00D",
+      "geometry": {
+        "x": 32.05,
+        "y": 169.178,
+        "svgTextId": "XMLID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 179.367,
+        "y": 169.129,
+        "svgTextId": "XMLID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "DC/DC_OUT2",
+      "english": "DC / DC, OUT2",
+      "russian": "DC / DC, OUT2",
+      "terminal": "K01C",
+      "geometry": {
+        "x": 31.926,
+        "y": 196.333,
+        "svgTextId": "XMLID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "IG1_ACG",
+      "english": "ignition IG1, alternator",
+      "russian": "зажигание IG1, генератор",
+      "terminal": "G05D000",
+      "geometry": {
+        "x": 179.282,
+        "y": 196.352,
+        "svgTextId": "XMLID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "SENSER_COM",
+      "english": "sensor, common",
+      "russian": "датчик, общий",
+      "terminal": "331E",
+      "geometry": {
+        "x": 60.476,
+        "y": 171.415,
+        "svgTextId": "XMLID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "IG1_VSA/ABS",
+      "english": "ignition IG1, VSA / ABS",
+      "russian": "зажигание IG1, VSA / ABS",
+      "terminal": "G17F / G17C",
+      "geometry": {
+        "x": 83.033,
+        "y": 171.415,
+        "svgTextId": "XMLID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 105.665,
+        "y": 171.415,
+        "svgTextId": "XMLID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "IG1_RELAY1",
+      "english": "ignition IG1, RELAY1",
+      "russian": "зажигание IG1, RELAY1",
+      "terminal": "G33H",
+      "geometry": {
+        "x": 128.278,
+        "y": 171.415,
+        "svgTextId": "XMLID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_VB_SOL_IS",
+      "english": "Constant battery power: VB, solenoid, IS",
+      "russian": "Постоянное питание от АКБ: VB, соленоид, IS",
+      "terminal": "B18J / B18B",
+      "geometry": {
+        "x": 151.031,
+        "y": 171.415,
+        "svgTextId": "XMLID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "PADDLE_SW_UP",
+      "english": "PADDLE, switch, up",
+      "russian": "PADDLE, выключатель, вверх",
+      "terminal": "M18K",
+      "geometry": {
+        "x": 58.004,
+        "y": 194.096,
+        "svgTextId": "XMLID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "PADDLE_SW_DOWN",
+      "english": "PADDLE, switch, down",
+      "russian": "PADDLE, выключатель, вниз",
+      "terminal": "M19L",
+      "geometry": {
+        "x": 80.876,
+        "y": 194.096,
+        "svgTextId": "XMLID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "IG1_ST_CUT_RLY_COIL",
+      "english": "ignition IG1, starter, CUT, relay, coil",
+      "russian": "зажигание IG1, стартер, CUT, реле, катушка",
+      "terminal": "G08M",
+      "geometry": {
+        "x": 103.194,
+        "y": 194.096,
+        "svgTextId": "XMLID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "TAM",
+      "english": "TAM",
+      "russian": "TAM",
+      "terminal": "335N",
+      "geometry": {
+        "x": 125.806,
+        "y": 194.096,
+        "svgTextId": "XMLID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "+B_BACK_UP_MAIN",
+      "english": "Constant battery power: back-up, up, main",
+      "russian": "Постоянное питание от АКБ: резервный, вверх, главный",
+      "terminal": "B70P / B70P000",
+      "geometry": {
+        "x": 148.559,
+        "y": 194.096,
+        "svgTextId": "XMLID_14_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "R000700",
+  "title": "Inspect brake hoses/pipes",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "Brake Components",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000700",
+  "assets": [
+    "700_4.0_jpn_11581637_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect brake hoses/pipes"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Brake hose/pipe Inspection"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect brake hoses for damage, interference with other parts, kinks, or leaks. Inspect brake pipes for crushed, bent, damaged, corroded, or leaking fluid. Inspect hose and pipe joints for oozing or leakage, and retighten as necessary to the specified torque. Inspect the joint between the VSA modulator control unit and the pipe for oozing or leakage, and retighten to the specified torque if necessary. symbol parts connection torque A Front brake caliper (12-inch brake spec. vehicle) Brake Hose (Oil Bolt) 35N·m（3.6kgf·m） Bleed screw 8.5N·m（0.87kgf·m） Front brake caliper (13-inch brake spec car) Brake Hose (Oil Bolt) 35N·m（3.6kgf·m） Bleed screw 7.9N·m（0.81kgf·m） B Rear wheel Cylinder Brake Pipe 15N·m（1.5kgf·m） Bleed screw 6.9N·m（0.70kgf·m） C Brake Hose Brake Pipe 15N·m（1.5kgf·m） D Master Cylinder Brake Pipe 22N·m（2.2kgf·m） E VSA Modulator Control Unit Brake Pipe (10 mm flare nut) 15N·m（1.5kgf·m） Brake Pipe (12 mm flare nut) 22N·m（2.2kgf·m）"
+    },
+    {
+      "type": "figure",
+      "asset": "700_4.0_jpn_11581637_4.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000700_jpn/web/html/R000700_jpn_Content.html",
+  "inOutline": true
+}

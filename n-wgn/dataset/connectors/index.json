@@ -1,0 +1,4015 @@
+[
+  {
+    "id": "001_P_Under-Dash_Fuse_Relay_Box_Connector_P_8P_Female",
+    "connectorRef": "P / BD25",
+    "name": "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 8,
+    "populatedPinCount": 7,
+    "faceviewPart": "91761-T4G -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Back Side"
+    ],
+    "systemCount": 16,
+    "file": "items/001_P_Under-Dash_Fuse_Relay_Box_Connector_P_8P_Female.json"
+  },
+  {
+    "id": "002_R_Under-Dash_Fuse_Relay_Box_Connector_R_28P_Female",
+    "connectorRef": "R / BD27",
+    "name": "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 28,
+    "populatedPinCount": 21,
+    "faceviewPart": "91995-SJA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Back Side"
+    ],
+    "systemCount": 44,
+    "file": "items/002_R_Under-Dash_Fuse_Relay_Box_Connector_R_28P_Female.json"
+  },
+  {
+    "id": "003_S_Under-Dash_Fuse_Relay_Box_Connector_S_20P_Female",
+    "connectorRef": "S / BD28",
+    "name": "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 20,
+    "populatedPinCount": 12,
+    "faceviewPart": "91951-S7A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Back Side"
+    ],
+    "systemCount": 44,
+    "file": "items/003_S_Under-Dash_Fuse_Relay_Box_Connector_S_20P_Female.json"
+  },
+  {
+    "id": "004_X_Under-Dash_Fuse_Relay_Box_Connector_X_1P_Female",
+    "connectorRef": "X / BD31",
+    "name": "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "91765-TF0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Back Side"
+    ],
+    "systemCount": 44,
+    "file": "items/004_X_Under-Dash_Fuse_Relay_Box_Connector_X_1P_Female.json"
+  },
+  {
+    "id": "005_Z_Under-Dash_Fuse_Relay_Box_Connector_Z_1P_Female",
+    "connectorRef": "Z / EA16",
+    "name": "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "91760-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Front Side"
+    ],
+    "systemCount": 46,
+    "file": "items/005_Z_Under-Dash_Fuse_Relay_Box_Connector_Z_1P_Female.json"
+  },
+  {
+    "id": "006_C113_C113_Male__C113_Female",
+    "connectorRef": "C113",
+    "name": "C113 (Male) / C113 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91764-TF0 -0030-H1_91763-TF0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)",
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 44,
+    "file": "items/006_C113_C113_Male__C113_Female.json"
+  },
+  {
+    "id": "007_EA37_Under-Hood_Fuse_Relay_Box",
+    "connectorRef": "EA37",
+    "name": "Under-Hood Fuse/Relay Box",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 76,
+    "populatedPinCount": 67,
+    "faceviewPart": "38250-TY0A-9011-Y1",
+    "hasGeometry": true,
+    "locations": [],
+    "systemCount": 48,
+    "file": "items/007_EA37_Under-Hood_Fuse_Relay_Box.json"
+  },
+  {
+    "id": "008_T1_T1",
+    "connectorRef": "T1",
+    "name": "T1",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "32412-RGA -9010-Y1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)",
+      "Fuse/Relay Boxes > Under-Hood Fuse/Relay Box > Front Side"
+    ],
+    "systemCount": 48,
+    "file": "items/008_T1_T1.json"
+  },
+  {
+    "id": "009_BD02_Accessory_Power_Socket_2P_Connector_Female",
+    "connectorRef": "BD02",
+    "name": "Accessory Power Socket 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "98456-30002-00",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/009_BD02_Accessory_Power_Socket_2P_Connector_Female.json"
+  },
+  {
+    "id": "010_BD60_Engine_Start_Stop_Switch_10P_Connector_Female",
+    "connectorRef": "BD60",
+    "name": "Engine Start/Stop Switch 10P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 10,
+    "populatedPinCount": 9,
+    "faceviewPart": "91769-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 44,
+    "file": "items/010_BD60_Engine_Start_Stop_Switch_10P_Connector_Female.json"
+  },
+  {
+    "id": "011_K_Under-Dash_Fuse_Relay_Box_Connector_K_4P_Female",
+    "connectorRef": "K / BQ02",
+    "name": "Under-Dash Fuse/Relay Box Connector K (4P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 3,
+    "faceviewPart": "91766-SLJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Roof",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Front Side"
+    ],
+    "systemCount": 7,
+    "file": "items/011_K_Under-Dash_Fuse_Relay_Box_Connector_K_4P_Female.json"
+  },
+  {
+    "id": "012_C116_C116_Male__C116_Female",
+    "connectorRef": "C116",
+    "name": "C116 (Male) / C116 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 18,
+    "populatedPinCount": 16,
+    "faceviewPart": "91783-T2A -0030-H1_91782-T2A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)",
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 7,
+    "file": "items/012_C116_C116_Male__C116_Female.json"
+  },
+  {
+    "id": "013_C117_C117_Male__C117_Female",
+    "connectorRef": "C117",
+    "name": "C117 (Male) / C117 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 18,
+    "populatedPinCount": 18,
+    "faceviewPart": "91783-T2AA-0030-H1_91782-T2AA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)",
+      "Body > Tailgate"
+    ],
+    "systemCount": 14,
+    "file": "items/013_C117_C117_Male__C117_Female.json"
+  },
+  {
+    "id": "014_H_Under-Dash_Fuse_Relay_Box_Connector_H_20P_Female",
+    "connectorRef": "H / BI16",
+    "name": "Under-Dash Fuse/Relay Box Connector H (20P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 20,
+    "populatedPinCount": 13,
+    "faceviewPart": "91991-S7A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Front Side"
+    ],
+    "systemCount": 9,
+    "file": "items/014_H_Under-Dash_Fuse_Relay_Box_Connector_H_20P_Female.json"
+  },
+  {
+    "id": "015_T_Under-Dash_Fuse_Relay_Box_Connector_T_34P_Female",
+    "connectorRef": "T / BD29",
+    "name": "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 34,
+    "populatedPinCount": 19,
+    "faceviewPart": "91955-SFE -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Back Side"
+    ],
+    "systemCount": 34,
+    "file": "items/015_T_Under-Dash_Fuse_Relay_Box_Connector_T_34P_Female.json"
+  },
+  {
+    "id": "016_J_Under-Dash_Fuse_Relay_Box_Connector_J_24P_Female",
+    "connectorRef": "J / EA15",
+    "name": "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 24,
+    "populatedPinCount": 18,
+    "faceviewPart": "91953-S7A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Front Side"
+    ],
+    "systemCount": 31,
+    "file": "items/016_J_Under-Dash_Fuse_Relay_Box_Connector_J_24P_Female.json"
+  },
+  {
+    "id": "017_U_Under-Dash_Fuse_Relay_Box_Connector_U_24P_Female",
+    "connectorRef": "U / BD30",
+    "name": "Under-Dash Fuse/Relay Box Connector U (24P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 24,
+    "populatedPinCount": 14,
+    "faceviewPart": "91953-S7A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Back Side"
+    ],
+    "systemCount": 14,
+    "file": "items/017_U_Under-Dash_Fuse_Relay_Box_Connector_U_24P_Female.json"
+  },
+  {
+    "id": "018_M_Under-Dash_Fuse_Relay_Box_Connector_M_10P_Female",
+    "connectorRef": "M / BD23",
+    "name": "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 10,
+    "populatedPinCount": 7,
+    "faceviewPart": "91769-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Back Side"
+    ],
+    "systemCount": 33,
+    "file": "items/018_M_Under-Dash_Fuse_Relay_Box_Connector_M_10P_Female.json"
+  },
+  {
+    "id": "019_Y_Under-Dash_Fuse_Relay_Box_Connector_Y_16P_Female",
+    "connectorRef": "Y / BD32",
+    "name": "Under-Dash Fuse/Relay Box Connector Y (16P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 16,
+    "populatedPinCount": 9,
+    "faceviewPart": "91763-SHJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Back Side"
+    ],
+    "systemCount": 18,
+    "file": "items/019_Y_Under-Dash_Fuse_Relay_Box_Connector_Y_16P_Female.json"
+  },
+  {
+    "id": "020_BD62_Auxiliary_Under-Dash_Fuse_Relay_Box",
+    "connectorRef": "BD62",
+    "name": "Auxiliary Under-Dash Fuse/Relay Box",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 26,
+    "populatedPinCount": 21,
+    "faceviewPart": "38210-TF3X-E010-M1",
+    "hasGeometry": true,
+    "locations": [],
+    "systemCount": 30,
+    "file": "items/020_BD62_Auxiliary_Under-Dash_Fuse_Relay_Box.json"
+  },
+  {
+    "id": "021_C112_C112_Male__C112_Female",
+    "connectorRef": "C112",
+    "name": "C112 (Male) / C112 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 14,
+    "populatedPinCount": 12,
+    "faceviewPart": "91763-T2AA-0030-H1_91762-T2AA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)",
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 31,
+    "file": "items/021_C112_C112_Male__C112_Female.json"
+  },
+  {
+    "id": "022_C121_C121_Male__C121_Female",
+    "connectorRef": "C121",
+    "name": "C121 (Male) / C121 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "98383-00002-00_984B3-00002-00",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Tailgate"
+    ],
+    "systemCount": 12,
+    "file": "items/022_C121_C121_Male__C121_Female.json"
+  },
+  {
+    "id": "023_C_Under-Dash_Fuse_Relay_Box_Connector_C_10P_Female",
+    "connectorRef": "C / EA14",
+    "name": "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 10,
+    "populatedPinCount": 6,
+    "faceviewPart": "91769-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Front Side"
+    ],
+    "systemCount": 21,
+    "file": "items/023_C_Under-Dash_Fuse_Relay_Box_Connector_C_10P_Female.json"
+  },
+  {
+    "id": "024_BI10_Driver_s_Door_Switch_1P_Connector_Female",
+    "connectorRef": "BI10",
+    "name": "Driver's Door Switch 1P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "91848-S5A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)"
+    ],
+    "systemCount": 4,
+    "file": "items/024_BI10_Driver_s_Door_Switch_1P_Connector_Female.json"
+  },
+  {
+    "id": "025_BI17_Front_Passenger_s_Door_Switch_1P_Connector_Female",
+    "connectorRef": "BI17",
+    "name": "Front Passenger's Door Switch 1P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "91848-S5A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Left Side)"
+    ],
+    "systemCount": 4,
+    "file": "items/025_BI17_Front_Passenger_s_Door_Switch_1P_Connector_Female.json"
+  },
+  {
+    "id": "026_BI28_Left_Rear_Door_Switch_1P_Connector_Female",
+    "connectorRef": "BI28",
+    "name": "Left Rear Door Switch 1P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "91848-S5A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Left Side)"
+    ],
+    "systemCount": 4,
+    "file": "items/026_BI28_Left_Rear_Door_Switch_1P_Connector_Female.json"
+  },
+  {
+    "id": "027_BI29_Right_Rear_Door_Switch_1P_Connector_Female",
+    "connectorRef": "BI29",
+    "name": "Right Rear Door Switch 1P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "91848-S5A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)"
+    ],
+    "systemCount": 4,
+    "file": "items/027_BI29_Right_Rear_Door_Switch_1P_Connector_Female.json"
+  },
+  {
+    "id": "028_TH09_Tailgate_Latch_Switch_2P_Connector_Female",
+    "connectorRef": "TH09",
+    "name": "Tailgate Latch Switch 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91764-SLJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Tailgate"
+    ],
+    "systemCount": 4,
+    "file": "items/028_TH09_Tailgate_Latch_Switch_2P_Connector_Female.json"
+  },
+  {
+    "id": "029_BD12_Left_Cup_Holder_Light_2P_Connector_Female",
+    "connectorRef": "BD12",
+    "name": "Left Cup Holder Light 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91787-TA0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/029_BD12_Left_Cup_Holder_Light_2P_Connector_Female.json"
+  },
+  {
+    "id": "030_BD13_Right_Cup_Holder_Light_2P_Connector_Female",
+    "connectorRef": "BD13",
+    "name": "Right Cup Holder Light 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91787-TA0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/030_BD13_Right_Cup_Holder_Light_2P_Connector_Female.json"
+  },
+  {
+    "id": "031_BD11_Center_Tray_Light_2P_Connector_Female",
+    "connectorRef": "BD11",
+    "name": "Center Tray Light 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91787-TA0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/031_BD11_Center_Tray_Light_2P_Connector_Female.json"
+  },
+  {
+    "id": "032_BD34_Front_Passenger_s_Foot_Light_2P_Connector_Female",
+    "connectorRef": "BD34",
+    "name": "Front Passenger's Foot Light 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91787-TA0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/032_BD34_Front_Passenger_s_Foot_Light_2P_Connector_Female.json"
+  },
+  {
+    "id": "033_BD35_Driver_s_Foot_Light_2P_Connector_Female",
+    "connectorRef": "BD35",
+    "name": "Driver's Foot Light 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91787-TA0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/033_BD35_Driver_s_Foot_Light_2P_Connector_Female.json"
+  },
+  {
+    "id": "034_BQ04_Cargo_Area_Light_3P_Connector_Female",
+    "connectorRef": "BQ04",
+    "name": "Cargo Area Light 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 2,
+    "faceviewPart": "91770-T2AA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Roof"
+    ],
+    "systemCount": 2,
+    "file": "items/034_BQ04_Cargo_Area_Light_3P_Connector_Female.json"
+  },
+  {
+    "id": "035_BQ03_Individual_Map_Light_3P_Connector_Female",
+    "connectorRef": "BQ03",
+    "name": "Individual Map Light 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 2,
+    "faceviewPart": "91770-T2AA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Roof"
+    ],
+    "systemCount": 2,
+    "file": "items/035_BQ03_Individual_Map_Light_3P_Connector_Female.json"
+  },
+  {
+    "id": "036_C119_C119_Male__C119_Female",
+    "connectorRef": "C119",
+    "name": "C119 (Male) / C119 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 14,
+    "populatedPinCount": 13,
+    "faceviewPart": "91792-T2AA-0030-H1_91793-T2AA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)",
+      "Door > Driver's Door"
+    ],
+    "systemCount": 26,
+    "file": "items/036_C119_C119_Male__C119_Female.json"
+  },
+  {
+    "id": "037_C110_C110_Male__C110_Female",
+    "connectorRef": "C110",
+    "name": "C110 (Male) / C110 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 8,
+    "populatedPinCount": 7,
+    "faceviewPart": "91756-T2A -0030-H1_91755-T2A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)",
+      "Door > Right Rear Door"
+    ],
+    "systemCount": 3,
+    "file": "items/037_C110_C110_Male__C110_Female.json"
+  },
+  {
+    "id": "038_C109_C109_Male__C109_Female",
+    "connectorRef": "C109",
+    "name": "C109 (Male) / C109 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 8,
+    "populatedPinCount": 7,
+    "faceviewPart": "91756-T2A -0030-H1_91755-T2A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Left Side)",
+      "Door > Left Rear Door"
+    ],
+    "systemCount": 3,
+    "file": "items/038_C109_C109_Male__C109_Female.json"
+  },
+  {
+    "id": "039_BD72_USB_Port_1_Female",
+    "connectorRef": "BD72",
+    "name": "USB Port 1 (Female)",
+    "type": "YopCoupler",
+    "pinCount": 5,
+    "populatedPinCount": 5,
+    "faceviewPart": "39837-TK4 -A010-HS1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/039_BD72_USB_Port_1_Female.json"
+  },
+  {
+    "id": "040_BD73_USB_Port_2_Female",
+    "connectorRef": "BD73",
+    "name": "USB Port 2 (Female)",
+    "type": "YopCoupler",
+    "pinCount": 5,
+    "populatedPinCount": 5,
+    "faceviewPart": "39837-TK4 -A010-HS1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/040_BD73_USB_Port_2_Female.json"
+  },
+  {
+    "id": "041_D_Under-Dash_Fuse_Relay_Box_Connector_D_16P_Female",
+    "connectorRef": "D / BI14",
+    "name": "Under-Dash Fuse/Relay Box Connector D (16P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 16,
+    "populatedPinCount": 6,
+    "faceviewPart": "91768-TA0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Front Side"
+    ],
+    "systemCount": 9,
+    "file": "items/041_D_Under-Dash_Fuse_Relay_Box_Connector_D_16P_Female.json"
+  },
+  {
+    "id": "042_C101_C101_Male__C101_Female",
+    "connectorRef": "C101",
+    "name": "C101 (Male) / C101 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "39839-TM0 -9010-HS1_39837-TM0 -9010-HS1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Antenna"
+    ],
+    "systemCount": 1,
+    "file": "items/042_C101_C101_Male__C101_Female.json"
+  },
+  {
+    "id": "043_C003_C003_Female",
+    "connectorRef": "C003",
+    "name": "C003 (Female)",
+    "type": "ShortCoupler",
+    "pinCount": 12,
+    "populatedPinCount": 8,
+    "faceviewPart": "91960-SHJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 14,
+    "file": "items/043_C003_C003_Female.json"
+  },
+  {
+    "id": "044_C111_C111_Male__C111_Female",
+    "connectorRef": "C111",
+    "name": "C111 (Male) / C111 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 8,
+    "populatedPinCount": 6,
+    "faceviewPart": "91756-T2AA-0030-H1_91755-T2AA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Roof",
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 26,
+    "file": "items/044_C111_C111_Male__C111_Female.json"
+  },
+  {
+    "id": "045_BD48_Data_Link_Connector_DLC_Female",
+    "connectorRef": "BD48",
+    "name": "Data Link Connector (DLC) (Female)",
+    "type": "YopCoupler",
+    "pinCount": 16,
+    "populatedPinCount": 9,
+    "faceviewPart": "91772-TA0 -0030-HS1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 24,
+    "file": "items/045_BD48_Data_Link_Connector_DLC_Female.json"
+  },
+  {
+    "id": "046_BD71_HDMI_Port_Male",
+    "connectorRef": "BD71",
+    "name": "HDMI Port (Male)",
+    "type": "YopCoupler",
+    "pinCount": 20,
+    "populatedPinCount": 20,
+    "faceviewPart": "39838-T4N -H010-Y1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/046_BD71_HDMI_Port_Male.json"
+  },
+  {
+    "id": "047_C118_C118_Male__C118_Female",
+    "connectorRef": "C118",
+    "name": "C118 (Male) / C118 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 20,
+    "populatedPinCount": 19,
+    "faceviewPart": "91767-T2A -0030-H1_91766-T2A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)",
+      "Door > Front Passenger's Door"
+    ],
+    "systemCount": 8,
+    "file": "items/047_C118_C118_Male__C118_Female.json"
+  },
+  {
+    "id": "048_TH03_Rearview_Camera_12P_Connector_Female",
+    "connectorRef": "TH03",
+    "name": "Rearview Camera 12P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 12,
+    "populatedPinCount": 8,
+    "faceviewPart": "91960-SHJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Tailgate"
+    ],
+    "systemCount": 1,
+    "file": "items/048_TH03_Rearview_Camera_12P_Connector_Female.json"
+  },
+  {
+    "id": "049_DD05_Right_Front_Door_Speaker_2P_Connector_Female",
+    "connectorRef": "DD05",
+    "name": "Right Front Door Speaker 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "986D4-00002-00",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Driver's Door"
+    ],
+    "systemCount": 1,
+    "file": "items/049_DD05_Right_Front_Door_Speaker_2P_Connector_Female.json"
+  },
+  {
+    "id": "050_DH06_Left_Front_Door_Speaker_2P_Connector_Female",
+    "connectorRef": "DH06",
+    "name": "Left Front Door Speaker 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "986D4-00002-00",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Front Passenger's Door"
+    ],
+    "systemCount": 1,
+    "file": "items/050_DH06_Left_Front_Door_Speaker_2P_Connector_Female.json"
+  },
+  {
+    "id": "051_DN04_Right_Rear_Door_Speaker_2P_Connector_Female",
+    "connectorRef": "DN04",
+    "name": "Right Rear Door Speaker 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "986D4-00002-00",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Right Rear Door"
+    ],
+    "systemCount": 1,
+    "file": "items/051_DN04_Right_Rear_Door_Speaker_2P_Connector_Female.json"
+  },
+  {
+    "id": "052_DJ04_Left_Rear_Door_Speaker_2P_Connector_Female",
+    "connectorRef": "DJ04",
+    "name": "Left Rear Door Speaker 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "986D4-00002-00",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Left Rear Door"
+    ],
+    "systemCount": 1,
+    "file": "items/052_DJ04_Left_Rear_Door_Speaker_2P_Connector_Female.json"
+  },
+  {
+    "id": "053_BD36_Parking_Brake_Switch_1P_Connector",
+    "connectorRef": "BD36",
+    "name": "Parking Brake Switch 1P Connector",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "32112-500 -3100",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 5,
+    "file": "items/053_BD36_Parking_Brake_Switch_1P_Connector.json"
+  },
+  {
+    "id": "054_BD46_Gauge_Control_Module_32P_Connector_Female",
+    "connectorRef": "BD46",
+    "name": "Gauge Control Module 32P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 32,
+    "populatedPinCount": 20,
+    "faceviewPart": "90255-SJA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 24,
+    "file": "items/054_BD46_Gauge_Control_Module_32P_Connector_Female.json"
+  },
+  {
+    "id": "055_BD52_Audio_Unit_Connector_A_24P_Female",
+    "connectorRef": "BD52",
+    "name": "Audio Unit Connector A (24P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 24,
+    "populatedPinCount": 15,
+    "faceviewPart": "91774-TA0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/055_BD52_Audio_Unit_Connector_A_24P_Female.json"
+  },
+  {
+    "id": "056_BD15_Audio_Unit_Connector_B_20P_Female",
+    "connectorRef": "BD15",
+    "name": "Audio Unit Connector B (20P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 20,
+    "populatedPinCount": 4,
+    "faceviewPart": "90253-SJK -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/056_BD15_Audio_Unit_Connector_B_20P_Female.json"
+  },
+  {
+    "id": "057_BD14_Audio_Unit_Connector_C_24P_Female",
+    "connectorRef": "BD14",
+    "name": "Audio Unit Connector C (24P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 24,
+    "populatedPinCount": 11,
+    "faceviewPart": "90267-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/057_BD14_Audio_Unit_Connector_C_24P_Female.json"
+  },
+  {
+    "id": "058_BD70_Audio_Unit_Connector_H_5P_Female",
+    "connectorRef": "BD70",
+    "name": "Audio Unit Connector H (5P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 20,
+    "populatedPinCount": 20,
+    "faceviewPart": "39837-TK8 -A010-Y1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/058_BD70_Audio_Unit_Connector_H_5P_Female.json"
+  },
+  {
+    "id": "059_FB02_Audio_Unit_Connector_E_3P_Female",
+    "connectorRef": "FB02",
+    "name": "Audio Unit Connector E (3P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "39837-TM0 -9010-HS1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Antenna"
+    ],
+    "systemCount": 1,
+    "file": "items/059_FB02_Audio_Unit_Connector_E_3P_Female.json"
+  },
+  {
+    "id": "060_BD69_Audio_Unit_Connector_K_5P_Female",
+    "connectorRef": "BD69",
+    "name": "Audio Unit Connector K (5P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 5,
+    "populatedPinCount": 5,
+    "faceviewPart": "39837-T2A -A410-HS1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/060_BD69_Audio_Unit_Connector_K_5P_Female.json"
+  },
+  {
+    "id": "061_BD68_Audio_Unit_Connector_J_5P_Female",
+    "connectorRef": "BD68",
+    "name": "Audio Unit Connector J (5P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 5,
+    "populatedPinCount": 5,
+    "faceviewPart": "39837-T2A -A110-HS1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/061_BD68_Audio_Unit_Connector_J_5P_Female.json"
+  },
+  {
+    "id": "062_BB07_Audio_Remote_Multi-Information_Display_Switch_12P_Connector_Female",
+    "connectorRef": "BB07",
+    "name": "Audio Remote/Multi-Information Display Switch 12P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 12,
+    "populatedPinCount": 10,
+    "faceviewPart": "91960-SHJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Steering"
+    ],
+    "systemCount": 4,
+    "file": "items/062_BB07_Audio_Remote_Multi-Information_Display_Switch_12P_Connector_Female.json"
+  },
+  {
+    "id": "063_BB08_Cable_Reel_Connector_C_20P_Female",
+    "connectorRef": "BB08",
+    "name": "Cable Reel Connector C (20P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 20,
+    "populatedPinCount": 13,
+    "faceviewPart": "91951-S7A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Steering"
+    ],
+    "systemCount": 9,
+    "file": "items/063_BB08_Cable_Reel_Connector_C_20P_Female.json"
+  },
+  {
+    "id": "064_BD09_Cable_Reel_Connector_A_20P_Female",
+    "connectorRef": "BD09",
+    "name": "Cable Reel Connector A (20P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 20,
+    "populatedPinCount": 11,
+    "faceviewPart": "91951-S7A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 9,
+    "file": "items/064_BD09_Cable_Reel_Connector_A_20P_Female.json"
+  },
+  {
+    "id": "065_BB13_HFL-Navigation_Voice_Control_Switch_4P_Connector_Female",
+    "connectorRef": "BB13",
+    "name": "HFL-Navigation Voice Control Switch 4P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 4,
+    "faceviewPart": "91794-T2AA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Steering"
+    ],
+    "systemCount": 2,
+    "file": "items/065_BB13_HFL-Navigation_Voice_Control_Switch_4P_Connector_Female.json"
+  },
+  {
+    "id": "066_FA01_Roof_Antenna_3P_Connector_Male",
+    "connectorRef": "FA01",
+    "name": "Roof Antenna 3P Connector (Male)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "39839-TM0 -9010-HS1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Antenna"
+    ],
+    "systemCount": 1,
+    "file": "items/066_FA01_Roof_Antenna_3P_Connector_Male.json"
+  },
+  {
+    "id": "067_C108_C108_Male__C108_Female",
+    "connectorRef": "C108",
+    "name": "C108 (Male) / C108 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 8,
+    "populatedPinCount": 8,
+    "faceviewPart": "91756-T2AA-0030-H1_91755-T2AA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)",
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 6,
+    "file": "items/067_C108_C108_Male__C108_Female.json"
+  },
+  {
+    "id": "068_C105_C105_Male__C105_Female",
+    "connectorRef": "C105",
+    "name": "C105 (Male) / C105 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 6,
+    "populatedPinCount": 5,
+    "faceviewPart": "91716-RJA -0030-H1_91706-R40 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)",
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 15,
+    "file": "items/068_C105_C105_Male__C105_Female.json"
+  },
+  {
+    "id": "069_C004_C004_Female",
+    "connectorRef": "C004",
+    "name": "C004 (Female)",
+    "type": "ShortCoupler",
+    "pinCount": 12,
+    "populatedPinCount": 11,
+    "faceviewPart": "91960-SHJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 9,
+    "file": "items/069_C004_C004_Female.json"
+  },
+  {
+    "id": "070_T101_T101",
+    "connectorRef": "T101",
+    "name": "T101",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "32412-RGA -9010-Y1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)",
+      "Fuse/Relay Boxes > Under-Hood Fuse/Relay Box > Front Side"
+    ],
+    "systemCount": 5,
+    "file": "items/070_T101_T101.json"
+  },
+  {
+    "id": "071_C106_C106_Male__C106_Female",
+    "connectorRef": "C106",
+    "name": "C106 (Male) / C106 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "91717-RTA -0030-H1_91707-RTA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)",
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 3,
+    "file": "items/071_C106_C106_Male__C106_Female.json"
+  },
+  {
+    "id": "072_Q_Under-Dash_Fuse_Relay_Box_Connector_Q_4P_Female",
+    "connectorRef": "Q / BD26",
+    "name": "Under-Dash Fuse/Relay Box Connector Q (4P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 2,
+    "faceviewPart": "77978-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Back Side"
+    ],
+    "systemCount": 6,
+    "file": "items/072_Q_Under-Dash_Fuse_Relay_Box_Connector_Q_4P_Female.json"
+  },
+  {
+    "id": "073_C002_C002_Female",
+    "connectorRef": "C002",
+    "name": "C002 (Female)",
+    "type": "ShortCoupler",
+    "pinCount": 24,
+    "populatedPinCount": 22,
+    "faceviewPart": "91952-R9G -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 14,
+    "file": "items/073_C002_C002_Female.json"
+  },
+  {
+    "id": "074_C001_C001_Female",
+    "connectorRef": "C001",
+    "name": "C001 (Female)",
+    "type": "ShortCoupler",
+    "pinCount": 12,
+    "populatedPinCount": 12,
+    "faceviewPart": "91951-RTA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 9,
+    "file": "items/074_C001_C001_Female.json"
+  },
+  {
+    "id": "075_EA52_Sub_Relay_Block_1",
+    "connectorRef": "EA52",
+    "name": "Sub Relay Block 1",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 22,
+    "populatedPinCount": 17,
+    "faceviewPart": "91750-TF3 -E010-Y1",
+    "hasGeometry": true,
+    "locations": [],
+    "systemCount": 16,
+    "file": "items/075_EA52_Sub_Relay_Block_1.json"
+  },
+  {
+    "id": "076_C103_C103_Male__C103_Female",
+    "connectorRef": "C103",
+    "name": "C103 (Male) / C103 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 8,
+    "populatedPinCount": 8,
+    "faceviewPart": "91702-PRP -0030-H1_91708-RTA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 5,
+    "file": "items/076_C103_C103_Male__C103_Female.json"
+  },
+  {
+    "id": "077_A_Under-Dash_Fuse_Relay_Box_Connector_A_34P_Female",
+    "connectorRef": "A / EA12",
+    "name": "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 34,
+    "populatedPinCount": 14,
+    "faceviewPart": "91955-SFE -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Front Side"
+    ],
+    "systemCount": 27,
+    "file": "items/077_A_Under-Dash_Fuse_Relay_Box_Connector_A_34P_Female.json"
+  },
+  {
+    "id": "078_B_Under-Dash_Fuse_Relay_Box_Connector_B_10P_Female",
+    "connectorRef": "B / EA13",
+    "name": "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 10,
+    "populatedPinCount": 8,
+    "faceviewPart": "91767-SHJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Front Side"
+    ],
+    "systemCount": 20,
+    "file": "items/078_B_Under-Dash_Fuse_Relay_Box_Connector_B_10P_Female.json"
+  },
+  {
+    "id": "079_T2_T2",
+    "connectorRef": "T2",
+    "name": "T2",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "32411-R20 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 3,
+    "file": "items/079_T2_T2.json"
+  },
+  {
+    "id": "080_EC30_Starter_1P_Connector_Female",
+    "connectorRef": "EC30",
+    "name": "Starter 1P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "91707-RTA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 3,
+    "file": "items/080_EC30_Starter_1P_Connector_Female.json"
+  },
+  {
+    "id": "081_T5_T5",
+    "connectorRef": "T5",
+    "name": "T5",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "32115-RNAA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 5,
+    "file": "items/081_T5_T5.json"
+  },
+  {
+    "id": "082_EC01_Alternator_1P_Connector_Female",
+    "connectorRef": "EC01",
+    "name": "Alternator 1P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "91721-R9G -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 4,
+    "file": "items/082_EC01_Alternator_1P_Connector_Female.json"
+  },
+  {
+    "id": "083_EA03_VSA_Modulator-Control_Unit_38P_Connector_Female",
+    "connectorRef": "EA03",
+    "name": "VSA Modulator-Control Unit 38P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 33,
+    "populatedPinCount": 16,
+    "faceviewPart": "91768-TV0 -0031-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 6,
+    "file": "items/083_EA03_VSA_Modulator-Control_Unit_38P_Connector_Female.json"
+  },
+  {
+    "id": "084_EA53_Sub_Relay_Block_2",
+    "connectorRef": "EA53",
+    "name": "Sub Relay Block 2",
+    "type": "DirectCoupler",
+    "pinCount": 9,
+    "populatedPinCount": 9,
+    "faceviewPart": "91750-S84 -9110-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 7,
+    "file": "items/084_EA53_Sub_Relay_Block_2.json"
+  },
+  {
+    "id": "085_EA56_DC-DC_Converter_Connector_A_5P_Female",
+    "connectorRef": "EA56",
+    "name": "DC-DC Converter Connector A (5P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 5,
+    "populatedPinCount": 5,
+    "faceviewPart": "91187-SHJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 1,
+    "file": "items/085_EA56_DC-DC_Converter_Connector_A_5P_Female.json"
+  },
+  {
+    "id": "086_EA57_DC-DC_Converter_Connector_B_3P_Female",
+    "connectorRef": "EA57",
+    "name": "DC-DC Converter Connector B (3P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "90262-SMG -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 1,
+    "file": "items/086_EA57_DC-DC_Converter_Connector_B_3P_Female.json"
+  },
+  {
+    "id": "087_BD61_Steering_Angle_Sensor_4P_Connector_Female",
+    "connectorRef": "BD61",
+    "name": "Steering Angle Sensor 4P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 4,
+    "faceviewPart": "91766-SLJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 5,
+    "file": "items/087_BD61_Steering_Angle_Sensor_4P_Connector_Female.json"
+  },
+  {
+    "id": "088_BD17_ECON_Switch_4P_Connector_Female",
+    "connectorRef": "BD17",
+    "name": "ECON Switch 4P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 4,
+    "faceviewPart": "91766-SLJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 4,
+    "file": "items/088_BD17_ECON_Switch_4P_Connector_Female.json"
+  },
+  {
+    "id": "089_BD64_VSA_OFF_Switch_5P_Connector_Female",
+    "connectorRef": "BD64",
+    "name": "VSA OFF Switch 5P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 5,
+    "populatedPinCount": 4,
+    "faceviewPart": "91764-TV0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 4,
+    "file": "items/089_BD64_VSA_OFF_Switch_5P_Connector_Female.json"
+  },
+  {
+    "id": "090_BD07_Automatic_Lighting_Sunlight_Sensor_7P_Connector_Female",
+    "connectorRef": "BD07",
+    "name": "Automatic Lighting/Sunlight Sensor 7P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 7,
+    "populatedPinCount": 7,
+    "faceviewPart": "91784-TA0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 5,
+    "file": "items/090_BD07_Automatic_Lighting_Sunlight_Sensor_7P_Connector_Female.json"
+  },
+  {
+    "id": "091_BD06_Climate_Control_Unit_32P_Connector_Female",
+    "connectorRef": "BD06",
+    "name": "Climate Control Unit 32P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 32,
+    "populatedPinCount": 28,
+    "faceviewPart": "90255-SJA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 5,
+    "file": "items/091_BD06_Climate_Control_Unit_32P_Connector_Female.json"
+  },
+  {
+    "id": "092_BQ01_City-Brake_Active_System_7P_Connector_Female",
+    "connectorRef": "BQ01",
+    "name": "City-Brake Active System 7P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 7,
+    "populatedPinCount": 4,
+    "faceviewPart": "98680-00007-00",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Roof"
+    ],
+    "systemCount": 4,
+    "file": "items/092_BQ01_City-Brake_Active_System_7P_Connector_Female.json"
+  },
+  {
+    "id": "093_BD20_EPS_Control_Unit_Connector_B_10P_Female",
+    "connectorRef": "BD20",
+    "name": "EPS Control Unit Connector B (10P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 10,
+    "populatedPinCount": 3,
+    "faceviewPart": "91769-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 6,
+    "file": "items/093_BD20_EPS_Control_Unit_Connector_B_10P_Female.json"
+  },
+  {
+    "id": "094_BD21_Evaporator_Temperature_Sensor_2P_Connector_Female",
+    "connectorRef": "BD21",
+    "name": "Evaporator Temperature Sensor 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91764-SLJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 3,
+    "file": "items/094_BD21_Evaporator_Temperature_Sensor_2P_Connector_Female.json"
+  },
+  {
+    "id": "095_EA02_A_C_Pressure_Sensor_2P_Connector_Female",
+    "connectorRef": "EA02",
+    "name": "A/C Pressure Sensor 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "986CE-00002-00",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 3,
+    "file": "items/095_EA02_A_C_Pressure_Sensor_2P_Connector_Female.json"
+  },
+  {
+    "id": "096_EA35_Master_Power_Vacuum_Sensor_3P_Connector_Female",
+    "connectorRef": "EA35",
+    "name": "Master Power Vacuum Sensor 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "91703-RTA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 2,
+    "file": "items/096_EA35_Master_Power_Vacuum_Sensor_3P_Connector_Female.json"
+  },
+  {
+    "id": "097_EA55_ECT_Sensor_2_2P_Connector_Female",
+    "connectorRef": "EA55",
+    "name": "ECT Sensor 2 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-R40 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 5,
+    "file": "items/097_EA55_ECT_Sensor_2_2P_Connector_Female.json"
+  },
+  {
+    "id": "098_EC03_CKP_Sensor_3P_Connector_Female",
+    "connectorRef": "EC03",
+    "name": "CKP Sensor 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "91703-RB0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 3,
+    "file": "items/098_EC03_CKP_Sensor_3P_Connector_Female.json"
+  },
+  {
+    "id": "099_EC15_CVT_Input_Shaft_Drive_Pulley_Speed_Sensor_3P_Connector_Female",
+    "connectorRef": "EC15",
+    "name": "CVT Input Shaft (Drive Pulley) Speed Sensor 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "91703-R40 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 4,
+    "file": "items/099_EC15_CVT_Input_Shaft_Drive_Pulley_Speed_Sensor_3P_Connector_Female.json"
+  },
+  {
+    "id": "100_EC34_ECT_Sensor_1_2P_Connector_Female",
+    "connectorRef": "EC34",
+    "name": "ECT Sensor 1 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-R40 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 4,
+    "file": "items/100_EC34_ECT_Sensor_1_2P_Connector_Female.json"
+  },
+  {
+    "id": "101_EC23_Transmission_Range_Sensor_10P_Connector_Female",
+    "connectorRef": "EC23",
+    "name": "Transmission Range Sensor 10P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 10,
+    "populatedPinCount": 8,
+    "faceviewPart": "91701-RTA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 9,
+    "file": "items/101_EC23_Transmission_Range_Sensor_10P_Connector_Female.json"
+  },
+  {
+    "id": "102_EA06_APP_Sensor_6P_Connector_Female",
+    "connectorRef": "EA06",
+    "name": "APP Sensor 6P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 6,
+    "populatedPinCount": 6,
+    "faceviewPart": "91767-TF0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 5,
+    "file": "items/102_EA06_APP_Sensor_6P_Connector_Female.json"
+  },
+  {
+    "id": "103_BD47_Mode_Control_Motor_7P_Connector_Female",
+    "connectorRef": "BD47",
+    "name": "Mode Control Motor 7P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 7,
+    "populatedPinCount": 7,
+    "faceviewPart": "98680-00007-00",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/103_BD47_Mode_Control_Motor_7P_Connector_Female.json"
+  },
+  {
+    "id": "104_EA07_Outside_Air_Temperature_Sensor_2P_Connector_Female",
+    "connectorRef": "EA07",
+    "name": "Outside Air Temperature Sensor 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-RTA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 2,
+    "file": "items/104_EA07_Outside_Air_Temperature_Sensor_2P_Connector_Female.json"
+  },
+  {
+    "id": "105_BD43_Humidity_In-Car_Temperature_Sensor_2P_Connector_Female",
+    "connectorRef": "BD43",
+    "name": "Humidity/In-Car Temperature Sensor 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91764-SFA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/105_BD43_Humidity_In-Car_Temperature_Sensor_2P_Connector_Female.json"
+  },
+  {
+    "id": "106_EC35_Vehicle_Speed_Sensor_3P_Connector_Female",
+    "connectorRef": "EC35",
+    "name": "Vehicle Speed Sensor 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "91703-RB0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 5,
+    "file": "items/106_EC35_Vehicle_Speed_Sensor_3P_Connector_Female.json"
+  },
+  {
+    "id": "107_EC16_Neutral_Sensor_3P_Connector_Female",
+    "connectorRef": "EC16",
+    "name": "Neutral Sensor 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "91703-R40 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 3,
+    "file": "items/107_EC16_Neutral_Sensor_3P_Connector_Female.json"
+  },
+  {
+    "id": "108_EA17_PCM_Connector_A_50P_Female",
+    "connectorRef": "EA17",
+    "name": "PCM Connector A (50P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 50,
+    "populatedPinCount": 42,
+    "faceviewPart": "91771-T5AA-V000",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 32,
+    "file": "items/108_EA17_PCM_Connector_A_50P_Female.json"
+  },
+  {
+    "id": "109_EC06_PCM_Connector_E_80P_Female",
+    "connectorRef": "EC06",
+    "name": "PCM Connector E (80P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 80,
+    "populatedPinCount": 56,
+    "faceviewPart": "91701-5R0A-V000",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 17,
+    "file": "items/109_EC06_PCM_Connector_E_80P_Female.json"
+  },
+  {
+    "id": "110_EA51_Brake_Pedal_Position_Switch_4P_Connector_Female",
+    "connectorRef": "EA51",
+    "name": "Brake Pedal Position Switch 4P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 4,
+    "faceviewPart": "91771-TY0A-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 11,
+    "file": "items/110_EA51_Brake_Pedal_Position_Switch_4P_Connector_Female.json"
+  },
+  {
+    "id": "111_EA04_Left-Front_Wheel_Speed_Sensor_2P_Connector_Male",
+    "connectorRef": "EA04",
+    "name": "Left-Front Wheel Speed Sensor 2P Connector (Male)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91982-SKN -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 3,
+    "file": "items/111_EA04_Left-Front_Wheel_Speed_Sensor_2P_Connector_Male.json"
+  },
+  {
+    "id": "112_EA05_Right-Front_Wheel_Speed_Sensor_2P_Connector_Female",
+    "connectorRef": "EA05",
+    "name": "Right-Front Wheel Speed Sensor 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91982-SKN -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 3,
+    "file": "items/112_EA05_Right-Front_Wheel_Speed_Sensor_2P_Connector_Female.json"
+  },
+  {
+    "id": "113_BI01_Left-Rear_Wheel_Speed_Sensor_2P_Connector_Female",
+    "connectorRef": "BI01",
+    "name": "Left-Rear Wheel Speed Sensor 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91764-SLJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Left Side)"
+    ],
+    "systemCount": 3,
+    "file": "items/113_BI01_Left-Rear_Wheel_Speed_Sensor_2P_Connector_Female.json"
+  },
+  {
+    "id": "114_BI02_Right-Rear_Wheel_Speed_Sensor_2P_Connector_Male",
+    "connectorRef": "BI02",
+    "name": "Right-Rear Wheel Speed Sensor 2P Connector (Male)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91972-SKN -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)"
+    ],
+    "systemCount": 3,
+    "file": "items/114_BI02_Right-Rear_Wheel_Speed_Sensor_2P_Connector_Male.json"
+  },
+  {
+    "id": "115_connector_connector",
+    "connectorRef": "(+)",
+    "name": "(+)",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "32413-SAA -3000",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 5,
+    "file": "items/115_connector_connector.json"
+  },
+  {
+    "id": "116_T6_T6",
+    "connectorRef": "T6",
+    "name": "T6",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "32604-T4NA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Starter/Ground Cable"
+    ],
+    "systemCount": 5,
+    "file": "items/116_T6_T6.json"
+  },
+  {
+    "id": "117_EA09_Battery_Sensor_3P_Connector_Female",
+    "connectorRef": "EA09",
+    "name": "Battery Sensor 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "91983-SJK -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 3,
+    "file": "items/117_EA09_Battery_Sensor_3P_Connector_Female.json"
+  },
+  {
+    "id": "118_internal_Auxiliary_Under-Dash_Fuse_Relay_Box",
+    "connectorRef": "INTERNAL",
+    "name": "Auxiliary Under-Dash Fuse/Relay Box",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 26,
+    "populatedPinCount": 15,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/118_internal_Auxiliary_Under-Dash_Fuse_Relay_Box.json"
+  },
+  {
+    "id": "119_internal_Under-Hood_Sub_Fuse_Relay_Box",
+    "connectorRef": "INTERNAL",
+    "name": "Under-Hood Sub Fuse/Relay Box",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 22,
+    "populatedPinCount": 17,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/119_internal_Under-Hood_Sub_Fuse_Relay_Box.json"
+  },
+  {
+    "id": "120_BB12_Paddle_Shifter_Upshift_Switch_2P_Connector_Female",
+    "connectorRef": "BB12",
+    "name": "Paddle Shifter + (Upshift Switch) 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91712-SDA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Steering"
+    ],
+    "systemCount": 3,
+    "file": "items/120_BB12_Paddle_Shifter_Upshift_Switch_2P_Connector_Female.json"
+  },
+  {
+    "id": "121_BB11_Paddle_Shifter_-_Downshift_Switch_2P_Connector_Female",
+    "connectorRef": "BB11",
+    "name": "Paddle Shifter - (Downshift Switch) 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91712-SDA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Steering"
+    ],
+    "systemCount": 3,
+    "file": "items/121_BB11_Paddle_Shifter_-_Downshift_Switch_2P_Connector_Female.json"
+  },
+  {
+    "id": "122_BB09_Cruise_Control_Combination_Switch_12P_Connector_Female",
+    "connectorRef": "BB09",
+    "name": "Cruise Control Combination Switch 12P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 12,
+    "populatedPinCount": 5,
+    "faceviewPart": "91960-SHJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Steering"
+    ],
+    "systemCount": 5,
+    "file": "items/122_BB09_Cruise_Control_Combination_Switch_12P_Connector_Female.json"
+  },
+  {
+    "id": "123_BD04_Park_Pin_Switch_6P_Connector_Female",
+    "connectorRef": "BD04",
+    "name": "Park Pin Switch 6P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 6,
+    "populatedPinCount": 4,
+    "faceviewPart": "91767-SLJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/123_BD04_Park_Pin_Switch_6P_Connector_Female.json"
+  },
+  {
+    "id": "124_BD05_Shift_Lock_Solenoid_2P_Connector_Female",
+    "connectorRef": "BD05",
+    "name": "Shift Lock Solenoid 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91764-SLJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 3,
+    "file": "items/124_BD05_Shift_Lock_Solenoid_2P_Connector_Female.json"
+  },
+  {
+    "id": "125_BD18_Electric_Steering_Lock_12P_Connector_Female",
+    "connectorRef": "BD18",
+    "name": "Electric Steering Lock 12P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 12,
+    "populatedPinCount": 11,
+    "faceviewPart": "90262-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/125_BD18_Electric_Steering_Lock_12P_Connector_Female.json"
+  },
+  {
+    "id": "126_BI22_Left_Taillight_6P_Connector_Male",
+    "connectorRef": "BI22",
+    "name": "Left Taillight 6P Connector (Male)",
+    "type": "DirectCoupler",
+    "pinCount": 6,
+    "populatedPinCount": 5,
+    "faceviewPart": "91754-T2AA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Left Side)"
+    ],
+    "systemCount": 3,
+    "file": "items/126_BI22_Left_Taillight_6P_Connector_Male.json"
+  },
+  {
+    "id": "127_BI30_Right_Taillight_6P_Connector_Male",
+    "connectorRef": "BI30",
+    "name": "Right Taillight 6P Connector (Male)",
+    "type": "DirectCoupler",
+    "pinCount": 6,
+    "populatedPinCount": 5,
+    "faceviewPart": "91754-T2AA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)"
+    ],
+    "systemCount": 3,
+    "file": "items/127_BI30_Right_Taillight_6P_Connector_Male.json"
+  },
+  {
+    "id": "128_LB01_High_Mount_Brake_Light_2P_Connector_Female",
+    "connectorRef": "LB01",
+    "name": "High Mount Brake Light 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91775-T5A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Tailgate"
+    ],
+    "systemCount": 1,
+    "file": "items/128_LB01_High_Mount_Brake_Light_2P_Connector_Female.json"
+  },
+  {
+    "id": "129_EA08_Headlight_Auto_Leveling_Control_Unit_12P_Connector_Female",
+    "connectorRef": "EA08",
+    "name": "Headlight Auto Leveling Control Unit 12P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 12,
+    "populatedPinCount": 10,
+    "faceviewPart": "90262-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 2,
+    "file": "items/129_EA08_Headlight_Auto_Leveling_Control_Unit_12P_Connector_Female.json"
+  },
+  {
+    "id": "130_EA21_Horn_1P_Connector_Female",
+    "connectorRef": "EA21",
+    "name": "Horn 1P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "91702-P5M -0030",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 4,
+    "file": "items/130_EA21_Horn_1P_Connector_Female.json"
+  },
+  {
+    "id": "131_unnumbered_Driver_s_Airbag_2P_Connector_Female",
+    "connectorRef": "UNNUMBERED",
+    "name": "Driver's Airbag 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "77972-TY0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [],
+    "systemCount": 2,
+    "file": "items/131_unnumbered_Driver_s_Airbag_2P_Connector_Female.json"
+  },
+  {
+    "id": "132_BB10_Horn_Switch_1P_Connector",
+    "connectorRef": "BB10",
+    "name": "Horn Switch 1P Connector",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "32112-500 -3100",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Steering"
+    ],
+    "systemCount": 2,
+    "file": "items/132_BB10_Horn_Switch_1P_Connector.json"
+  },
+  {
+    "id": "133_BD16_Cable_Reel_Connector_B_4P_Female",
+    "connectorRef": "BD16",
+    "name": "Cable Reel Connector B (4P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 2,
+    "faceviewPart": "77978-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/133_BD16_Cable_Reel_Connector_B_4P_Female.json"
+  },
+  {
+    "id": "134_BD10_City-Brake_Active_System_OFF_Switch_6P_Connector_Female",
+    "connectorRef": "BD10",
+    "name": "City-Brake Active System OFF Switch 6P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 6,
+    "populatedPinCount": 4,
+    "faceviewPart": "91767-SLJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 3,
+    "file": "items/134_BD10_City-Brake_Active_System_OFF_Switch_6P_Connector_Female.json"
+  },
+  {
+    "id": "135_EA11_ELD_3P_Connector_Female",
+    "connectorRef": "EA11",
+    "name": "ELD 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "91771-TK8 -A010-M1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 4,
+    "file": "items/135_EA11_ELD_3P_Connector_Female.json"
+  },
+  {
+    "id": "136_N_Under-Dash_Fuse_Relay_Box_Connector_N_4P_Female",
+    "connectorRef": "N / BD24",
+    "name": "Under-Dash Fuse/Relay Box Connector N (4P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 1,
+    "faceviewPart": "91188-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Back Side"
+    ],
+    "systemCount": 2,
+    "file": "items/136_N_Under-Dash_Fuse_Relay_Box_Connector_N_4P_Female.json"
+  },
+  {
+    "id": "137_C120_C120_Male__C120_Female",
+    "connectorRef": "C120",
+    "name": "C120 (Male) / C120 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 20,
+    "populatedPinCount": 17,
+    "faceviewPart": "91952-S7A -0030-H1_91951-S7A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 8,
+    "file": "items/137_C120_C120_Male__C120_Female.json"
+  },
+  {
+    "id": "138_BD08_Blower_Motor_2P_Connector_Female",
+    "connectorRef": "BD08",
+    "name": "Blower Motor 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91763-SFE -0030",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/138_BD08_Blower_Motor_2P_Connector_Female.json"
+  },
+  {
+    "id": "139_BD51_Power_Transistor_4P_Connector_Female",
+    "connectorRef": "BD51",
+    "name": "Power Transistor 4P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 4,
+    "faceviewPart": "91838-TF0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/139_BD51_Power_Transistor_4P_Connector_Female.json"
+  },
+  {
+    "id": "140_BD33_Recirculation_Control_Motor_4P_Connector_Female",
+    "connectorRef": "BD33",
+    "name": "Recirculation Control Motor 4P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 3,
+    "faceviewPart": "91760-SR3 -0030",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/140_BD33_Recirculation_Control_Motor_4P_Connector_Female.json"
+  },
+  {
+    "id": "141_BD01_Air_Mix_Control_Motor_5P_Connector_Female",
+    "connectorRef": "BD01",
+    "name": "Air Mix Control Motor 5P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 5,
+    "populatedPinCount": 5,
+    "faceviewPart": "98680-00005-00",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/141_BD01_Air_Mix_Control_Motor_5P_Connector_Female.json"
+  },
+  {
+    "id": "142_EA38_Radiator_Fan_Motor_2P_Connector_Female",
+    "connectorRef": "EA38",
+    "name": "Radiator Fan Motor 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91765-SJK -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 2,
+    "file": "items/142_EA38_Radiator_Fan_Motor_2P_Connector_Female.json"
+  },
+  {
+    "id": "143_EA01_A_C_Compressor_1P_Connector_Female",
+    "connectorRef": "EA01",
+    "name": "A/C Compressor 1P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "91701-PNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 3,
+    "file": "items/143_EA01_A_C_Compressor_1P_Connector_Female.json"
+  },
+  {
+    "id": "144_EC04_Throttle_Body_6P_Connector_Female",
+    "connectorRef": "EC04",
+    "name": "Throttle Body 6P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 6,
+    "populatedPinCount": 6,
+    "faceviewPart": "91716-RNAA-A010-Y1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 3,
+    "file": "items/144_EC04_Throttle_Body_6P_Connector_Female.json"
+  },
+  {
+    "id": "145_C104_C104_Male__C104_Female",
+    "connectorRef": "C104",
+    "name": "C104 (Male) / C104 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 6,
+    "populatedPinCount": 6,
+    "faceviewPart": "91704-RJ2 -0040-H1_91703-RJ2 -0040-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/145_C104_C104_Male__C104_Female.json"
+  },
+  {
+    "id": "146_EN01_CVT_Drive_Pulley_Pressure_Control_Solenoid_Valve_2P_Connector_Female",
+    "connectorRef": "EN01",
+    "name": "CVT Drive Pulley Pressure Control Solenoid Valve 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91701-R9L -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/146_EN01_CVT_Drive_Pulley_Pressure_Control_Solenoid_Valve_2P_Connector_Female.json"
+  },
+  {
+    "id": "147_EN02_CVT_Driven_Pulley_Pressure_Control_Solenoid_Valve_2P_Connector_Female",
+    "connectorRef": "EN02",
+    "name": "CVT Driven Pulley Pressure Control Solenoid Valve 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91701-R9L -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/147_EN02_CVT_Driven_Pulley_Pressure_Control_Solenoid_Valve_2P_Connector_Female.json"
+  },
+  {
+    "id": "148_EN03_CVT_Clutch_Pressure_Control_Solenoid_Valve_2P_Connector_Female",
+    "connectorRef": "EN03",
+    "name": "CVT Clutch Pressure Control Solenoid Valve 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91701-R9L -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/148_EN03_CVT_Clutch_Pressure_Control_Solenoid_Valve_2P_Connector_Female.json"
+  },
+  {
+    "id": "149_EN04_CVT_Lock-Up_Clutch_Control_Solenoid_Valve_2P_Connector_Female",
+    "connectorRef": "EN04",
+    "name": "CVT Lock-Up Clutch Control Solenoid Valve 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91701-R9L -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/149_EN04_CVT_Lock-Up_Clutch_Control_Solenoid_Valve_2P_Connector_Female.json"
+  },
+  {
+    "id": "150_EN05_Accumulator_Control_Solenoid_Valve_2P_Connector_Female",
+    "connectorRef": "EN05",
+    "name": "Accumulator Control Solenoid Valve 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91701-R9L -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/150_EN05_Accumulator_Control_Solenoid_Valve_2P_Connector_Female.json"
+  },
+  {
+    "id": "151_EM01_ATF_Temperature_Sensor_2P_Connector_Female",
+    "connectorRef": "EM01",
+    "name": "ATF Temperature Sensor 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "28650-R9L -J010-Y1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/151_EM01_ATF_Temperature_Sensor_2P_Connector_Female.json"
+  },
+  {
+    "id": "152_EC18_P2_Relief_Valve_Control_SOL.V_2P_Connector_Female",
+    "connectorRef": "EC18",
+    "name": "P2 Relief Valve Control SOL.V 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-R40 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/152_EC18_P2_Relief_Valve_Control_SOL.V_2P_Connector_Female.json"
+  },
+  {
+    "id": "153_EC24_CVT_Driven_Pulley_Pressure_Sensor_3P_Connector_Female",
+    "connectorRef": "EC24",
+    "name": "CVT Driven Pulley Pressure Sensor 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "91703-R40 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Left Side)"
+    ],
+    "systemCount": 3,
+    "file": "items/153_EC24_CVT_Driven_Pulley_Pressure_Sensor_3P_Connector_Female.json"
+  },
+  {
+    "id": "154_BD40_Hazard_Warning_Switch_4P_Connector_Female",
+    "connectorRef": "BD40",
+    "name": "Hazard Warning Switch 4P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 4,
+    "faceviewPart": "91766-SLJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/154_BD40_Hazard_Warning_Switch_4P_Connector_Female.json"
+  },
+  {
+    "id": "155_DD07_Power_Window_Master_Switch_24P_Connector_Female",
+    "connectorRef": "DD07",
+    "name": "Power Window Master Switch 24P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 24,
+    "populatedPinCount": 19,
+    "faceviewPart": "91761-T4NA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Driver's Door"
+    ],
+    "systemCount": 2,
+    "file": "items/155_DD07_Power_Window_Master_Switch_24P_Connector_Female.json"
+  },
+  {
+    "id": "156_BC01_Combination_Light_Switch_12P_Connector_Female",
+    "connectorRef": "BC01",
+    "name": "Combination Light Switch 12P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 12,
+    "populatedPinCount": 9,
+    "faceviewPart": "91960-SHJ -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 5,
+    "file": "items/156_BC01_Combination_Light_Switch_12P_Connector_Female.json"
+  },
+  {
+    "id": "157_F_Under-Dash_Fuse_Relay_Box_Connector_F_18P_Female",
+    "connectorRef": "F / DD06",
+    "name": "Under-Dash Fuse/Relay Box Connector F (18P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 18,
+    "populatedPinCount": 13,
+    "faceviewPart": "91769-TA0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Driver's Door",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Front Side"
+    ],
+    "systemCount": 8,
+    "file": "items/157_F_Under-Dash_Fuse_Relay_Box_Connector_F_18P_Female.json"
+  },
+  {
+    "id": "158_DD01_Driver_s_Door_Latch_6P_Connector_Female",
+    "connectorRef": "DD01",
+    "name": "Driver's Door Latch 6P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 6,
+    "populatedPinCount": 5,
+    "faceviewPart": "91781-S04 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Driver's Door"
+    ],
+    "systemCount": 2,
+    "file": "items/158_DD01_Driver_s_Door_Latch_6P_Connector_Female.json"
+  },
+  {
+    "id": "159_DD04_Driver_s_Door_Touch_Sensor_2P_Connector_Male",
+    "connectorRef": "DD04",
+    "name": "Driver's Door Touch Sensor 2P Connector (Male)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91972-SKN -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Driver's Door"
+    ],
+    "systemCount": 3,
+    "file": "items/159_DD04_Driver_s_Door_Touch_Sensor_2P_Connector_Male.json"
+  },
+  {
+    "id": "160_TH07_Tailgate_Lock_Unlock_Switch_2P_Connector_Female",
+    "connectorRef": "TH07",
+    "name": "Tailgate Lock/ Unlock Switch 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91751-T2AA-0031-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Tailgate"
+    ],
+    "systemCount": 3,
+    "file": "items/160_TH07_Tailgate_Lock_Unlock_Switch_2P_Connector_Female.json"
+  },
+  {
+    "id": "161_BD19_EPS_Control_Unit_Connector_A_2P_Female",
+    "connectorRef": "BD19",
+    "name": "EPS Control Unit Connector A (2P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91757-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/161_BD19_EPS_Control_Unit_Connector_A_2P_Female.json"
+  },
+  {
+    "id": "162_EC19_EVAP_Canister_Purge_Valve_2P_Connector_Female",
+    "connectorRef": "EC19",
+    "name": "EVAP Canister Purge Valve 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-R40 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/162_EC19_EVAP_Canister_Purge_Valve_2P_Connector_Female.json"
+  },
+  {
+    "id": "163_EA54_Sub_Relay_Block_3",
+    "connectorRef": "EA54",
+    "name": "Sub Relay Block 3",
+    "type": "DirectCoupler",
+    "pinCount": 9,
+    "populatedPinCount": 4,
+    "faceviewPart": "91750-S84 -9110-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 1,
+    "file": "items/163_EA54_Sub_Relay_Block_3.json"
+  },
+  {
+    "id": "164_EA22_Left_Front_Fog_Light_2P_Connector_Female",
+    "connectorRef": "EA22",
+    "name": "Left Front Fog Light 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91849-TE0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 1,
+    "file": "items/164_EA22_Left_Front_Fog_Light_2P_Connector_Female.json"
+  },
+  {
+    "id": "165_EA39_Right_Front_Fog_Light_2P_Connector_Female",
+    "connectorRef": "EA39",
+    "name": "Right Front Fog Light 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91849-TE0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 1,
+    "file": "items/165_EA39_Right_Front_Fog_Light_2P_Connector_Female.json"
+  },
+  {
+    "id": "166_BI18_Fuel_Tank_Unit_4P_Connector",
+    "connectorRef": "BI18",
+    "name": "Fuel Tank Unit 4P Connector",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 4,
+    "faceviewPart": "91765-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Left Side)"
+    ],
+    "systemCount": 3,
+    "file": "items/166_BI18_Fuel_Tank_Unit_4P_Connector.json"
+  },
+  {
+    "id": "167_BD58_SRS_Unit_Connector_A_39P_Female",
+    "connectorRef": "BD58",
+    "name": "SRS Unit Connector A (39P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 39,
+    "populatedPinCount": 11,
+    "faceviewPart": "77986-T2A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 3,
+    "file": "items/167_BD58_SRS_Unit_Connector_A_39P_Female.json"
+  },
+  {
+    "id": "168_EA10_Brake_Fluid_Level_Switch_2P_Connector_Female",
+    "connectorRef": "EA10",
+    "name": "Brake Fluid Level Switch 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-S5A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 2,
+    "file": "items/168_EA10_Brake_Fluid_Level_Switch_2P_Connector_Female.json"
+  },
+  {
+    "id": "169_BQ05_Automatic_Dimming_Inside_Mirror_5P_Connector_Female",
+    "connectorRef": "BQ05",
+    "name": "Automatic Dimming Inside Mirror 5P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 5,
+    "populatedPinCount": 4,
+    "faceviewPart": "90264-SMG -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Roof"
+    ],
+    "systemCount": 2,
+    "file": "items/169_BQ05_Automatic_Dimming_Inside_Mirror_5P_Connector_Female.json"
+  },
+  {
+    "id": "170_T3_T3",
+    "connectorRef": "T3",
+    "name": "T3",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "32124-SAP -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Starter/Ground Cable"
+    ],
+    "systemCount": 1,
+    "file": "items/170_T3_T3.json"
+  },
+  {
+    "id": "171_T4_T4",
+    "connectorRef": "T4",
+    "name": "T4",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "32611-TF0 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Starter/Ground Cable"
+    ],
+    "systemCount": 1,
+    "file": "items/171_T4_T4.json"
+  },
+  {
+    "id": "172_EA31_Left_Discharge_Headlight_Unit_2P_Connector_Female",
+    "connectorRef": "EA31",
+    "name": "Left Discharge Headlight Unit 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91722-PY4 -0030",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 1,
+    "file": "items/172_EA31_Left_Discharge_Headlight_Unit_2P_Connector_Female.json"
+  },
+  {
+    "id": "173_EA24_Left_Front_Position_Light_Hood_COMP_4P_Connector_Female",
+    "connectorRef": "EA24",
+    "name": "Left Front Position Light/Hood COMP 4P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 4,
+    "faceviewPart": "91702-P2A -J010-M1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 2,
+    "file": "items/173_EA24_Left_Front_Position_Light_Hood_COMP_4P_Connector_Female.json"
+  },
+  {
+    "id": "174_EA48_Right_Discharge_Headlight_Unit_2P_Connector_Female",
+    "connectorRef": "EA48",
+    "name": "Right Discharge Headlight Unit 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91722-PY4 -0030",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 1,
+    "file": "items/174_EA48_Right_Discharge_Headlight_Unit_2P_Connector_Female.json"
+  },
+  {
+    "id": "175_EA41_Right_Front_Position_Light_Hood_COMP_4P_Connector_Female",
+    "connectorRef": "EA41",
+    "name": "Right Front Position Light/Hood COMP 4P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 4,
+    "faceviewPart": "91702-P2A -J010-M1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 2,
+    "file": "items/175_EA41_Right_Front_Position_Light_Hood_COMP_4P_Connector_Female.json"
+  },
+  {
+    "id": "176_EA28_Left_Headlight_Leveling_Motor_3P_Connector_Female",
+    "connectorRef": "EA28",
+    "name": "Left Headlight Leveling Motor 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "91761-ST7 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 1,
+    "file": "items/176_EA28_Left_Headlight_Leveling_Motor_3P_Connector_Female.json"
+  },
+  {
+    "id": "177_EA45_Right_Headlight_Leveling_Motor_3P_Connector_Female",
+    "connectorRef": "EA45",
+    "name": "Right Headlight Leveling Motor 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "91761-ST7 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 1,
+    "file": "items/177_EA45_Right_Headlight_Leveling_Motor_3P_Connector_Female.json"
+  },
+  {
+    "id": "178_BI27_Suspension_Stroke_Sensor_3P_Connector_Female",
+    "connectorRef": "BI27",
+    "name": "Suspension Stroke Sensor 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "91761-SMG -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/178_BI27_Suspension_Stroke_Sensor_3P_Connector_Female.json"
+  },
+  {
+    "id": "179_EC09_No._3_Ignition_Coil_3P_Connector_Female",
+    "connectorRef": "EC09",
+    "name": "No. 3 Ignition Coil 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "91703-R40 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/179_EC09_No._3_Ignition_Coil_3P_Connector_Female.json"
+  },
+  {
+    "id": "180_EC08_No._2_Ignition_Coil_3P_Connector_Female",
+    "connectorRef": "EC08",
+    "name": "No. 2 Ignition Coil 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "91703-R40 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/180_EC08_No._2_Ignition_Coil_3P_Connector_Female.json"
+  },
+  {
+    "id": "181_EC07_No._1_Ignition_Coil_3P_Connector_Female",
+    "connectorRef": "EC07",
+    "name": "No. 1 Ignition Coil 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "91703-R40 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/181_EC07_No._1_Ignition_Coil_3P_Connector_Female.json"
+  },
+  {
+    "id": "182_DH05_Front_Passenger_s_Door_Touch_Sensor_2P_Connector_Male",
+    "connectorRef": "DH05",
+    "name": "Front Passenger's Door Touch Sensor 2P Connector (Male)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91972-SKN -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Front Passenger's Door"
+    ],
+    "systemCount": 2,
+    "file": "items/182_DH05_Front_Passenger_s_Door_Touch_Sensor_2P_Connector_Male.json"
+  },
+  {
+    "id": "183_BI08_Answer_Back_Buzzer_3P_Connector_Female",
+    "connectorRef": "BI08",
+    "name": "Answer Back Buzzer 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 2,
+    "faceviewPart": "91983-SJK -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/183_BI08_Answer_Back_Buzzer_3P_Connector_Female.json"
+  },
+  {
+    "id": "184_DH04_Left_Power_Mirror_14P_Connector_Male",
+    "connectorRef": "DH04",
+    "name": "Left Power Mirror 14P Connector (Male)",
+    "type": "DirectCoupler",
+    "pinCount": 14,
+    "populatedPinCount": 11,
+    "faceviewPart": "91792-T2AA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Front Passenger's Door"
+    ],
+    "systemCount": 5,
+    "file": "items/184_DH04_Left_Power_Mirror_14P_Connector_Male.json"
+  },
+  {
+    "id": "185_DD03_Right_Power_Mirror_14P_Connector_Male",
+    "connectorRef": "DD03",
+    "name": "Right Power Mirror 14P Connector (Male)",
+    "type": "DirectCoupler",
+    "pinCount": 14,
+    "populatedPinCount": 11,
+    "faceviewPart": "91792-T2AA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Driver's Door"
+    ],
+    "systemCount": 5,
+    "file": "items/185_DD03_Right_Power_Mirror_14P_Connector_Male.json"
+  },
+  {
+    "id": "186_BI20_Rear_Bumper_LF_Antenna_2P_Connector_Female",
+    "connectorRef": "BI20",
+    "name": "Rear Bumper LF Antenna 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91982-SKN -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/186_BI20_Rear_Bumper_LF_Antenna_2P_Connector_Female.json"
+  },
+  {
+    "id": "187_BD37_Front_Interior_LF_Antenna_2P_Connector_Female",
+    "connectorRef": "BD37",
+    "name": "Front Interior LF Antenna 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91982-SKN -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/187_BD37_Front_Interior_LF_Antenna_2P_Connector_Female.json"
+  },
+  {
+    "id": "188_BI21_Rear_Interior_LF_Antenna_2P_Connector_Female",
+    "connectorRef": "BI21",
+    "name": "Rear Interior LF Antenna 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91982-SKN -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/188_BI21_Rear_Interior_LF_Antenna_2P_Connector_Female.json"
+  },
+  {
+    "id": "189_E_Under-Dash_Fuse_Relay_Box_Connector_E_8P_Female",
+    "connectorRef": "E / BI15",
+    "name": "Under-Dash Fuse/Relay Box Connector E (8P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 8,
+    "populatedPinCount": 7,
+    "faceviewPart": "91773-SJD -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)",
+      "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Front Side"
+    ],
+    "systemCount": 2,
+    "file": "items/189_E_Under-Dash_Fuse_Relay_Box_Connector_E_8P_Female.json"
+  },
+  {
+    "id": "190_EA20_Security_Hood_Switch_2P_Connector_Female",
+    "connectorRef": "EA20",
+    "name": "Security Hood Switch 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91982-SKN -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 1,
+    "file": "items/190_EA20_Security_Hood_Switch_2P_Connector_Female.json"
+  },
+  {
+    "id": "191_DH01_Front_Passenger_s_Door_Latch_2P_Connector_Female",
+    "connectorRef": "DH01",
+    "name": "Front Passenger's Door Latch 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91782-S2A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Front Passenger's Door"
+    ],
+    "systemCount": 1,
+    "file": "items/191_DH01_Front_Passenger_s_Door_Latch_2P_Connector_Female.json"
+  },
+  {
+    "id": "192_DN01_Right_Rear_Door_Latch_2P_Connector_Female",
+    "connectorRef": "DN01",
+    "name": "Right Rear Door Latch 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91782-S2A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Right Rear Door"
+    ],
+    "systemCount": 1,
+    "file": "items/192_DN01_Right_Rear_Door_Latch_2P_Connector_Female.json"
+  },
+  {
+    "id": "193_DJ01_Left_Rear_Door_Latch_2P_Connector_Female",
+    "connectorRef": "DJ01",
+    "name": "Left Rear Door Latch 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91782-S2A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Left Rear Door"
+    ],
+    "systemCount": 1,
+    "file": "items/193_DJ01_Left_Rear_Door_Latch_2P_Connector_Female.json"
+  },
+  {
+    "id": "194_TH08_Tailgate_Lock_2P_Connector_Female",
+    "connectorRef": "TH08",
+    "name": "Tailgate Lock 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91751-T2AA-0031-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Tailgate"
+    ],
+    "systemCount": 1,
+    "file": "items/194_TH08_Tailgate_Lock_2P_Connector_Female.json"
+  },
+  {
+    "id": "195_EA42_Right_Front_Turn_Signal_Light_2P_Connector_Female",
+    "connectorRef": "EA42",
+    "name": "Right Front Turn Signal Light 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-S5A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 2,
+    "file": "items/195_EA42_Right_Front_Turn_Signal_Light_2P_Connector_Female.json"
+  },
+  {
+    "id": "196_EA25_Left_Front_Turn_Signal_Light_2P_Connector_Female",
+    "connectorRef": "EA25",
+    "name": "Left Front Turn Signal Light 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-S5A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 2,
+    "file": "items/196_EA25_Left_Front_Turn_Signal_Light_2P_Connector_Female.json"
+  },
+  {
+    "id": "197_TH02_License_Plate_Light_2P_Connector_Female",
+    "connectorRef": "TH02",
+    "name": "License Plate Light 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "98630-00002-00",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Tailgate"
+    ],
+    "systemCount": 1,
+    "file": "items/197_TH02_License_Plate_Light_2P_Connector_Female.json"
+  },
+  {
+    "id": "198_EA19_Front_Accessory_Light_2P_Connector_Female",
+    "connectorRef": "EA19",
+    "name": "Front Accessory Light 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91982-SKN -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 1,
+    "file": "items/198_EA19_Front_Accessory_Light_2P_Connector_Female.json"
+  },
+  {
+    "id": "199_EC33_CMP_Sensor_3P_Connector_Female",
+    "connectorRef": "EC33",
+    "name": "CMP Sensor 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "91703-R40 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/199_EC33_CMP_Sensor_3P_Connector_Female.json"
+  },
+  {
+    "id": "200_EC27_No.3_Secondary_Fuel_Injector_2P_Connector_Female",
+    "connectorRef": "EC27",
+    "name": "No.3 Secondary Fuel Injector 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-R5A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/200_EC27_No.3_Secondary_Fuel_Injector_2P_Connector_Female.json"
+  },
+  {
+    "id": "201_EC26_No.2_Secondary_Fuel_Injector_2P_Connector_Female",
+    "connectorRef": "EC26",
+    "name": "No.2 Secondary Fuel Injector 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-R5A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/201_EC26_No.2_Secondary_Fuel_Injector_2P_Connector_Female.json"
+  },
+  {
+    "id": "202_EC25_No.1_Secondary_Fuel_Injector_2P_Connector_Female",
+    "connectorRef": "EC25",
+    "name": "No.1 Secondary Fuel Injector 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-R5A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/202_EC25_No.1_Secondary_Fuel_Injector_2P_Connector_Female.json"
+  },
+  {
+    "id": "203_EC22_No.3_Primary_Fuel_Injector_2P_Connector_Female",
+    "connectorRef": "EC22",
+    "name": "No.3 Primary Fuel Injector 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-R5A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/203_EC22_No.3_Primary_Fuel_Injector_2P_Connector_Female.json"
+  },
+  {
+    "id": "204_EC21_No.2_Primary_Fuel_Injector_2P_Connector_Female",
+    "connectorRef": "EC21",
+    "name": "No.2 Primary Fuel Injector 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-R5A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/204_EC21_No.2_Primary_Fuel_Injector_2P_Connector_Female.json"
+  },
+  {
+    "id": "205_EC20_No.1_Primary_Fuel_Injector_2P_Connector_Female",
+    "connectorRef": "EC20",
+    "name": "No.1 Primary Fuel Injector 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-R5A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/205_EC20_No.1_Primary_Fuel_Injector_2P_Connector_Female.json"
+  },
+  {
+    "id": "206_EC31_MAF_Sensor_IAT_Sensor_5P_Connector_Female",
+    "connectorRef": "EC31",
+    "name": "MAF Sensor/IAT Sensor 5P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 5,
+    "populatedPinCount": 4,
+    "faceviewPart": "91705-RTA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/206_EC31_MAF_Sensor_IAT_Sensor_5P_Connector_Female.json"
+  },
+  {
+    "id": "207_EC10_Knock_Sensor_2P_Connector_Female",
+    "connectorRef": "EC10",
+    "name": "Knock Sensor 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-R40 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/207_EC10_Knock_Sensor_2P_Connector_Female.json"
+  },
+  {
+    "id": "208_EC17_Oil_Pressure_Sensor_1P_Connector_Female",
+    "connectorRef": "EC17",
+    "name": "Oil Pressure Sensor 1P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "91701-PHMA-0040-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/208_EC17_Oil_Pressure_Sensor_1P_Connector_Female.json"
+  },
+  {
+    "id": "209_EC37_Westgate_Control_SOL.V._2P_Connector_Female",
+    "connectorRef": "EC37",
+    "name": "Westgate Control SOL.V. 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-R40 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/209_EC37_Westgate_Control_SOL.V._2P_Connector_Female.json"
+  },
+  {
+    "id": "210_EC36_VTC_Oil_Control_Solenoid_Valve_2P_Connector_Female",
+    "connectorRef": "EC36",
+    "name": "VTC Oil Control Solenoid Valve 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91702-R40 -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/210_EC36_VTC_Oil_Control_Solenoid_Valve_2P_Connector_Female.json"
+  },
+  {
+    "id": "211_EC12_A_F_Sensor_Sensor_1_4P_Connector_Female",
+    "connectorRef": "EC12",
+    "name": "A/F Sensor (Sensor 1) 4P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 4,
+    "faceviewPart": "91704-R70 -A010-Y1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/211_EC12_A_F_Sensor_Sensor_1_4P_Connector_Female.json"
+  },
+  {
+    "id": "212_EC29_Secondary_HO2S_Sensor_2_4P_Connector_Male",
+    "connectorRef": "EC29",
+    "name": "Secondary HO2S (Sensor 2) 4P Connector (Male)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 4,
+    "faceviewPart": "91714-RNAA-A010-Y1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Engine (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/212_EC29_Secondary_HO2S_Sensor_2_4P_Connector_Male.json"
+  },
+  {
+    "id": "213_DD08_Power_Mirror_Switch_13P_Connector_Female",
+    "connectorRef": "DD08",
+    "name": "Power Mirror Switch 13P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 13,
+    "populatedPinCount": 9,
+    "faceviewPart": "91835-S5A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Driver's Door"
+    ],
+    "systemCount": 1,
+    "file": "items/213_DD08_Power_Mirror_Switch_13P_Connector_Female.json"
+  },
+  {
+    "id": "214_C115_C115_Male__C115_Female",
+    "connectorRef": "C115",
+    "name": "C115 (Male) / C115 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 4,
+    "faceviewPart": "91778-T2AA-0030-H1_91794-T2AA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)",
+      "Door > Driver's Door"
+    ],
+    "systemCount": 1,
+    "file": "items/214_C115_C115_Male__C115_Female.json"
+  },
+  {
+    "id": "215_DD02_Driver_s_Power_Window_Motor_6P_Connector_Female",
+    "connectorRef": "DD02",
+    "name": "Driver's Power Window Motor 6P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 6,
+    "populatedPinCount": 6,
+    "faceviewPart": "91762-STK -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Driver's Door"
+    ],
+    "systemCount": 1,
+    "file": "items/215_DD02_Driver_s_Power_Window_Motor_6P_Connector_Female.json"
+  },
+  {
+    "id": "216_DH03_Front_Passenger_s_Power_Window_Switch_5P_Connector_Female",
+    "connectorRef": "DH03",
+    "name": "Front Passenger's Power Window Switch 5P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 5,
+    "populatedPinCount": 5,
+    "faceviewPart": "91763-T4NA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Front Passenger's Door"
+    ],
+    "systemCount": 1,
+    "file": "items/216_DH03_Front_Passenger_s_Power_Window_Switch_5P_Connector_Female.json"
+  },
+  {
+    "id": "217_DJ03_Left_Rear_Power_Window_Switch_5P_Connector_Female",
+    "connectorRef": "DJ03",
+    "name": "Left Rear Power Window Switch 5P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 5,
+    "populatedPinCount": 5,
+    "faceviewPart": "91763-T4NA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Left Rear Door"
+    ],
+    "systemCount": 1,
+    "file": "items/217_DJ03_Left_Rear_Power_Window_Switch_5P_Connector_Female.json"
+  },
+  {
+    "id": "218_DN03_Right_Rear_Power_Window_Switch_5P_Connector_Female",
+    "connectorRef": "DN03",
+    "name": "Right Rear Power Window Switch 5P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 5,
+    "populatedPinCount": 5,
+    "faceviewPart": "91763-T4NA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Right Rear Door"
+    ],
+    "systemCount": 1,
+    "file": "items/218_DN03_Right_Rear_Power_Window_Switch_5P_Connector_Female.json"
+  },
+  {
+    "id": "219_DN02_Right_Rear_Power_Window_Motor_2P_Connector_Female",
+    "connectorRef": "DN02",
+    "name": "Right Rear Power Window Motor 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91765-STK -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Right Rear Door"
+    ],
+    "systemCount": 1,
+    "file": "items/219_DN02_Right_Rear_Power_Window_Motor_2P_Connector_Female.json"
+  },
+  {
+    "id": "220_DJ02_Left_Rear_Power_Window_Motor_2P_Connector_Female",
+    "connectorRef": "DJ02",
+    "name": "Left Rear Power Window Motor 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91765-STK -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Left Rear Door"
+    ],
+    "systemCount": 1,
+    "file": "items/220_DJ02_Left_Rear_Power_Window_Motor_2P_Connector_Female.json"
+  },
+  {
+    "id": "221_DH02_Front_Passenger_s_Power_Window_Motor_2P_Connector_Female",
+    "connectorRef": "DH02",
+    "name": "Front Passenger's Power Window Motor 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91765-STK -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Door > Front Passenger's Door"
+    ],
+    "systemCount": 1,
+    "file": "items/221_DH02_Front_Passenger_s_Power_Window_Motor_2P_Connector_Female.json"
+  },
+  {
+    "id": "222_BD54_Relay_Block_1",
+    "connectorRef": "BD54",
+    "name": "Relay Block 1",
+    "type": "DirectCoupler",
+    "pinCount": 8,
+    "populatedPinCount": 8,
+    "faceviewPart": "91750-S0A -9010-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/222_BD54_Relay_Block_1.json"
+  },
+  {
+    "id": "223_TH05_Rear_Window_Defogger_1P_Connector",
+    "connectorRef": "TH05",
+    "name": "Rear Window Defogger 1P Connector",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "32112-500 -3100",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Tailgate"
+    ],
+    "systemCount": 1,
+    "file": "items/223_TH05_Rear_Window_Defogger_1P_Connector.json"
+  },
+  {
+    "id": "224_TH04_Rear_Window_Defogger_1P_Connector",
+    "connectorRef": "TH04",
+    "name": "Rear Window Defogger 1P Connector",
+    "type": "DirectCoupler",
+    "pinCount": 1,
+    "populatedPinCount": 1,
+    "faceviewPart": "32112-500 -3100",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Tailgate"
+    ],
+    "systemCount": 1,
+    "file": "items/224_TH04_Rear_Window_Defogger_1P_Connector.json"
+  },
+  {
+    "id": "225_BI26_Rear_Seat_Belt_Buckle_Switch_4P_Connector_Female",
+    "connectorRef": "BI26",
+    "name": "Rear Seat Belt Buckle Switch 4P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 3,
+    "faceviewPart": "91794-T2A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/225_BI26_Rear_Seat_Belt_Buckle_Switch_4P_Connector_Female.json"
+  },
+  {
+    "id": "226_BI06_Front_Passenger_s_Seat_Sitting_Switch_4P_Connector_Female",
+    "connectorRef": "BI06",
+    "name": "Front Passenger's Seat Sitting Switch 4P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 2,
+    "faceviewPart": "91794-T2A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Left Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/226_BI06_Front_Passenger_s_Seat_Sitting_Switch_4P_Connector_Female.json"
+  },
+  {
+    "id": "227_BI33_SRS_Unit_Connector_B_39P_Female",
+    "connectorRef": "BI33",
+    "name": "SRS Unit Connector B (39P) (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 39,
+    "populatedPinCount": 21,
+    "faceviewPart": "77988-T2A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Left Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/227_BI33_SRS_Unit_Connector_B_39P_Female.json"
+  },
+  {
+    "id": "228_BI09_Driver_s_Seat_Belt_Buckle_Switch_2P_Connector_Female",
+    "connectorRef": "BI09",
+    "name": "Driver's Seat Belt Buckle Switch 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91751-T2AA-0031-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/228_BI09_Driver_s_Seat_Belt_Buckle_Switch_2P_Connector_Female.json"
+  },
+  {
+    "id": "229_BI03_Front_Passenger_s_Seat_Belt_Buckle_Switch_2P_Connector_Female",
+    "connectorRef": "BI03",
+    "name": "Front Passenger's Seat Belt Buckle Switch 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91751-T2AA-0031-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Left Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/229_BI03_Front_Passenger_s_Seat_Belt_Buckle_Switch_2P_Connector_Female.json"
+  },
+  {
+    "id": "230_C102_C102_Male__C102_Female",
+    "connectorRef": "C102",
+    "name": "C102 (Male) / C102 (Female)",
+    "type": "MiddleCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 2,
+    "faceviewPart": "77977-SNA -0030-H1_77978-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)",
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 1,
+    "file": "items/230_C102_C102_Male__C102_Female.json"
+  },
+  {
+    "id": "231_EA33_Front_Impact_Sensor_2P_Connector_Female",
+    "connectorRef": "EA33",
+    "name": "Front Impact Sensor 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "77982-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 1,
+    "file": "items/231_EA33_Front_Impact_Sensor_2P_Connector_Female.json"
+  },
+  {
+    "id": "232_BI24_Left_Side_Impact_Sensor_Second_2P_Connector_Female",
+    "connectorRef": "BI24",
+    "name": "Left Side Impact Sensor (Second) 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "77982-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/232_BI24_Left_Side_Impact_Sensor_Second_2P_Connector_Female.json"
+  },
+  {
+    "id": "233_BI19_Left_Side_Impact_Sensor_First_4P_Connector_Female",
+    "connectorRef": "BI19",
+    "name": "Left Side Impact Sensor (First) 4P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 4,
+    "faceviewPart": "77980-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/233_BI19_Left_Side_Impact_Sensor_First_4P_Connector_Female.json"
+  },
+  {
+    "id": "234_BI25_Right_Side_Impact_Sensor_First_4P_Connector_Female",
+    "connectorRef": "BI25",
+    "name": "Right Side Impact Sensor (First) 4P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 4,
+    "faceviewPart": "77980-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/234_BI25_Right_Side_Impact_Sensor_First_4P_Connector_Female.json"
+  },
+  {
+    "id": "235_BI32_Right_Side_Impact_Sensor_Second_2P_Connector_Female",
+    "connectorRef": "BI32",
+    "name": "Right Side Impact Sensor (Second) 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "77982-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/235_BI32_Right_Side_Impact_Sensor_Second_2P_Connector_Female.json"
+  },
+  {
+    "id": "236_BI31_Right_Side_Curtain_Airbag_2P_Connector_Female",
+    "connectorRef": "BI31",
+    "name": "Right Side Curtain Airbag 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "77972-TY0A-0032-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/236_BI31_Right_Side_Curtain_Airbag_2P_Connector_Female.json"
+  },
+  {
+    "id": "237_BI23_Left_Side_Curtain_Airbag_2P_Connector_Female",
+    "connectorRef": "BI23",
+    "name": "Left Side Curtain Airbag 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "77972-TY0A-0032-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/237_BI23_Left_Side_Curtain_Airbag_2P_Connector_Female.json"
+  },
+  {
+    "id": "238_BI13_Right_Side_Airbag_Inflator_2P_Connector_Female",
+    "connectorRef": "BI13",
+    "name": "Right Side Airbag Inflator 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "77982-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/238_BI13_Right_Side_Airbag_Inflator_2P_Connector_Female.json"
+  },
+  {
+    "id": "239_BI07_Left_Side_Airbag_Inflator_2P_Connector_Female",
+    "connectorRef": "BI07",
+    "name": "Left Side Airbag Inflator 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "77982-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/239_BI07_Left_Side_Airbag_Inflator_2P_Connector_Female.json"
+  },
+  {
+    "id": "240_BI04_Left_Front_Seat_Belt_Tensioner_2P_Connector_Female",
+    "connectorRef": "BI04",
+    "name": "Left Front Seat Belt Tensioner 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "77972-T2A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/240_BI04_Left_Front_Seat_Belt_Tensioner_2P_Connector_Female.json"
+  },
+  {
+    "id": "241_BI11_Right_Front_Seat_Belt_Tensioner_2P_Connector_Female",
+    "connectorRef": "BI11",
+    "name": "Right Front Seat Belt Tensioner 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "77972-T2A -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Floor (Right Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/241_BI11_Right_Front_Seat_Belt_Tensioner_2P_Connector_Female.json"
+  },
+  {
+    "id": "242_BD03_Front_Passenger_s_Airbag_Inflator_4P_Connector_Female",
+    "connectorRef": "BD03",
+    "name": "Front Passenger's Airbag Inflator 4P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 2,
+    "faceviewPart": "77978-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Left Side)"
+    ],
+    "systemCount": 1,
+    "file": "items/242_BD03_Front_Passenger_s_Airbag_Inflator_4P_Connector_Female.json"
+  },
+  {
+    "id": "243_K_Under-Dash_Fuse_Relay_Box_Connector_K_4P_Male",
+    "connectorRef": "K",
+    "name": "Under-Dash Fuse/Relay Box Connector K (4P) (Male)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/243_K_Under-Dash_Fuse_Relay_Box_Connector_K_4P_Male.json"
+  },
+  {
+    "id": "244_M_Under-Dash_Fuse_Relay_Box_Connector_M_10P_Male",
+    "connectorRef": "M",
+    "name": "Under-Dash Fuse/Relay Box Connector M (10P) (Male)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 10,
+    "populatedPinCount": 7,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/244_M_Under-Dash_Fuse_Relay_Box_Connector_M_10P_Male.json"
+  },
+  {
+    "id": "245_N_Under-Dash_Fuse_Relay_Box_Connector_N_4P_Male",
+    "connectorRef": "N",
+    "name": "Under-Dash Fuse/Relay Box Connector N (4P) (Male)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 1,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/245_N_Under-Dash_Fuse_Relay_Box_Connector_N_4P_Male.json"
+  },
+  {
+    "id": "246_P_Under-Dash_Fuse_Relay_Box_Connector_P_8P_Male",
+    "connectorRef": "P",
+    "name": "Under-Dash Fuse/Relay Box Connector P (8P) (Male)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 7,
+    "populatedPinCount": 7,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/246_P_Under-Dash_Fuse_Relay_Box_Connector_P_8P_Male.json"
+  },
+  {
+    "id": "247_Q_Under-Dash_Fuse_Relay_Box_Connector_Q_4P_Male",
+    "connectorRef": "Q",
+    "name": "Under-Dash Fuse/Relay Box Connector Q (4P) (Male)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 2,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/247_Q_Under-Dash_Fuse_Relay_Box_Connector_Q_4P_Male.json"
+  },
+  {
+    "id": "248_R_Under-Dash_Fuse_Relay_Box_Connector_R_28P_Male",
+    "connectorRef": "R",
+    "name": "Under-Dash Fuse/Relay Box Connector R (28P) (Male)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 28,
+    "populatedPinCount": 21,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/248_R_Under-Dash_Fuse_Relay_Box_Connector_R_28P_Male.json"
+  },
+  {
+    "id": "249_S_Under-Dash_Fuse_Relay_Box_Connector_S_20P_Male",
+    "connectorRef": "S",
+    "name": "Under-Dash Fuse/Relay Box Connector S (20P) (Male)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 20,
+    "populatedPinCount": 12,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/249_S_Under-Dash_Fuse_Relay_Box_Connector_S_20P_Male.json"
+  },
+  {
+    "id": "250_T_Under-Dash_Fuse_Relay_Box_Connector_T_34P_Male",
+    "connectorRef": "T",
+    "name": "Under-Dash Fuse/Relay Box Connector T (34P) (Male)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 33,
+    "populatedPinCount": 19,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/250_T_Under-Dash_Fuse_Relay_Box_Connector_T_34P_Male.json"
+  },
+  {
+    "id": "251_U_Under-Dash_Fuse_Relay_Box_Connector_U_24P_Male",
+    "connectorRef": "U",
+    "name": "Under-Dash Fuse/Relay Box Connector U (24P) (Male)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 23,
+    "populatedPinCount": 14,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/251_U_Under-Dash_Fuse_Relay_Box_Connector_U_24P_Male.json"
+  },
+  {
+    "id": "252_X_Under-Dash_Fuse_Relay_Box_Connector_X_1P_Female",
+    "connectorRef": "X",
+    "name": "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 1,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/252_X_Under-Dash_Fuse_Relay_Box_Connector_X_1P_Female.json"
+  },
+  {
+    "id": "253_Y_Under-Dash_Fuse_Relay_Box_Connector_Y_16P_Male",
+    "connectorRef": "Y",
+    "name": "Under-Dash Fuse/Relay Box Connector Y (16P) (Male)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 13,
+    "populatedPinCount": 9,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/253_Y_Under-Dash_Fuse_Relay_Box_Connector_Y_16P_Male.json"
+  },
+  {
+    "id": "254_J_Under-Dash_Fuse_Relay_Box_Connector_J_24P_Male",
+    "connectorRef": "J",
+    "name": "Under-Dash Fuse/Relay Box Connector J (24P) (Male)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 24,
+    "populatedPinCount": 18,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/254_J_Under-Dash_Fuse_Relay_Box_Connector_J_24P_Male.json"
+  },
+  {
+    "id": "255_D_Under-Dash_Fuse_Relay_Box_Connector_D_16P_Female",
+    "connectorRef": "D",
+    "name": "Under-Dash Fuse/Relay Box Connector D (16P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 13,
+    "populatedPinCount": 6,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/255_D_Under-Dash_Fuse_Relay_Box_Connector_D_16P_Female.json"
+  },
+  {
+    "id": "256_E_Under-Dash_Fuse_Relay_Box_Connector_E_8P_Female",
+    "connectorRef": "E",
+    "name": "Under-Dash Fuse/Relay Box Connector E (8P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 8,
+    "populatedPinCount": 7,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/256_E_Under-Dash_Fuse_Relay_Box_Connector_E_8P_Female.json"
+  },
+  {
+    "id": "257_F_Under-Dash_Fuse_Relay_Box_Connector_F_18P_Female",
+    "connectorRef": "F",
+    "name": "Under-Dash Fuse/Relay Box Connector F (18P)」 (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 18,
+    "populatedPinCount": 13,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/257_F_Under-Dash_Fuse_Relay_Box_Connector_F_18P_Female.json"
+  },
+  {
+    "id": "258_H_Under-Dash_Fuse_Relay_Box_Connector_H_20P_Female",
+    "connectorRef": "H",
+    "name": "Under-Dash Fuse/Relay Box Connector H (20P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 20,
+    "populatedPinCount": 13,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/258_H_Under-Dash_Fuse_Relay_Box_Connector_H_20P_Female.json"
+  },
+  {
+    "id": "259_Z_Under-Dash_Fuse_Relay_Box_Connector_Z_1P_Female",
+    "connectorRef": "Z",
+    "name": "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 1,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/259_Z_Under-Dash_Fuse_Relay_Box_Connector_Z_1P_Female.json"
+  },
+  {
+    "id": "260_A_Under-Dash_Fuse_Relay_Box_Connector_A_34P_Male",
+    "connectorRef": "A",
+    "name": "Under-Dash Fuse/Relay Box Connector A (34P) (Male)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 29,
+    "populatedPinCount": 14,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/260_A_Under-Dash_Fuse_Relay_Box_Connector_A_34P_Male.json"
+  },
+  {
+    "id": "261_B_Under-Dash_Fuse_Relay_Box_Connector_B_10P_Female",
+    "connectorRef": "B",
+    "name": "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 10,
+    "populatedPinCount": 8,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/261_B_Under-Dash_Fuse_Relay_Box_Connector_B_10P_Female.json"
+  },
+  {
+    "id": "262_C_Under-Dash_Fuse_Relay_Box_Connector_C_10P_Female",
+    "connectorRef": "C",
+    "name": "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 10,
+    "populatedPinCount": 6,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/262_C_Under-Dash_Fuse_Relay_Box_Connector_C_10P_Female.json"
+  },
+  {
+    "id": "263_T1_T1",
+    "connectorRef": "T1",
+    "name": "T1",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 1,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/263_T1_T1.json"
+  },
+  {
+    "id": "264_internal_Under-Hood_Fuse_Relay_Box",
+    "connectorRef": "INTERNAL",
+    "name": "Under-Hood Fuse/Relay Box",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 76,
+    "populatedPinCount": 52,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/264_internal_Under-Hood_Fuse_Relay_Box.json"
+  },
+  {
+    "id": "265_T101_T101",
+    "connectorRef": "T101",
+    "name": "T101",
+    "type": "HarnessBoxCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 1,
+    "faceviewPart": "DM",
+    "hasGeometry": false,
+    "locations": [],
+    "systemCount": 0,
+    "file": "items/265_T101_T101.json"
+  },
+  {
+    "id": "266_EA58_Windshield_Rear_Window_Washer_Motor_2P_Connector_Female",
+    "connectorRef": "EA58",
+    "name": "Windshield/Rear Window Washer Motor 2P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 2,
+    "populatedPinCount": 2,
+    "faceviewPart": "91761-STK -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Left Side"
+    ],
+    "systemCount": 2,
+    "file": "items/266_EA58_Windshield_Rear_Window_Washer_Motor_2P_Connector_Female.json"
+  },
+  {
+    "id": "267_EA18_Windshield_Wiper_Motor_4P_Connector_Female",
+    "connectorRef": "EA18",
+    "name": "Windshield Wiper Motor 4P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 4,
+    "populatedPinCount": 4,
+    "faceviewPart": "91705-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Engine Compartment > Right Side"
+    ],
+    "systemCount": 1,
+    "file": "items/267_EA18_Windshield_Wiper_Motor_4P_Connector_Female.json"
+  },
+  {
+    "id": "268_BC02_Wiper_Washer_Switch_10P_Connector_Female",
+    "connectorRef": "BC02",
+    "name": "Wiper/Washer Switch 10P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 10,
+    "populatedPinCount": 8,
+    "faceviewPart": "91769-SNA -0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Dashboard > Dashboard Main (Right Side)"
+    ],
+    "systemCount": 2,
+    "file": "items/268_BC02_Wiper_Washer_Switch_10P_Connector_Female.json"
+  },
+  {
+    "id": "269_TH06_Rear_Window_Wiper_Motor_3P_Connector_Female",
+    "connectorRef": "TH06",
+    "name": "Rear Window Wiper Motor 3P Connector (Female)",
+    "type": "DirectCoupler",
+    "pinCount": 3,
+    "populatedPinCount": 3,
+    "faceviewPart": "91758-T2AA-0030-H1",
+    "hasGeometry": true,
+    "locations": [
+      "Body > Tailgate"
+    ],
+    "systemCount": 1,
+    "file": "items/269_TH06_Rear_Window_Wiper_Motor_3P_Connector_Female.json"
+  }
+]

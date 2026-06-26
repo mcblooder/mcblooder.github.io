@@ -1,0 +1,87 @@
+{
+  "id": "G000752",
+  "title": "Window Adhesives",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "wind",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000752",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Window Adhesives"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Adhesive type",
+          "Sealant for repairing water leakage"
+        ],
+        [
+          "Hamatite (WS-222) Urethane one-component adhesives (Yokohama Rubber Co.)",
+          "Hamatite (WS-222) Urethane one-component adhesives (Yokohama Rubber Co.)"
+        ],
+        [
+          "Penguin Seal #581 Super Urethane one-component adhesives (Sunsta Giken Co.)",
+          "Sunstar #860 (Sunsta Giken Co.)"
+        ]
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Primers should be the designated primers and should never be mixed with other primers.",
+        "Primers are important to enhance the adhesive effect, and two types of primers, one for body and the other for glass, should be used separately.",
+        "Do not open primers and adhesives unless they are to be used.",
+        "Primers and adhesives should be stored in a cool, dark place."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The adhesive must be applied within 5 minutes after application."
+    },
+    {
+      "type": "paragraph",
+      "text": "After 1-2 hours after installation of the glass, perform a water leakage test. If water leakage occurs, dry the glass and repair it with the specified sealant."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When testing for leaks, do not apply water by squeezing the end of the hose."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Winter Outside temperature approx. 10°C 6-8 hrs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Spring Fall Outside temperature approx. 20°C 3-4 hrs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Summer: ambient temperature approx. 30°C for 1-2 hours"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The minimum leaving time must be observed. Running the product for less than the minimum leaving time will cause adhesion failure."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000752_jpn/web/html/G000752_jpn_Content.html",
+  "inOutline": true
+}

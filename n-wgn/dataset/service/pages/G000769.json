@@ -1,0 +1,410 @@
+{
+  "id": "G000769",
+  "title": "Instrument Panel Configuration Diagram",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "interior",
+  "system": "Instrument Panel",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000769",
+  "assets": [
+    "769_3.0_jpn_11581233_3.0_disp.png",
+    "769_3.0_jpn_11581234_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000777",
+      "label": "R000777",
+      "resolved": true
+    },
+    {
+      "id": "R000774",
+      "label": "R000774",
+      "resolved": true
+    },
+    {
+      "id": "R000771",
+      "label": "R000771",
+      "resolved": true
+    },
+    {
+      "id": "R000770",
+      "label": "R000770",
+      "resolved": true
+    },
+    {
+      "id": "R000785",
+      "label": "R000785",
+      "resolved": true
+    },
+    {
+      "id": "R000780",
+      "label": "R000780",
+      "resolved": true
+    },
+    {
+      "id": "R000781",
+      "label": "R000781",
+      "resolved": true
+    },
+    {
+      "id": "R000786",
+      "label": "R000786",
+      "resolved": true
+    },
+    {
+      "id": "R000783",
+      "label": "R000783",
+      "resolved": true
+    },
+    {
+      "id": "R000784",
+      "label": "R000784",
+      "resolved": true
+    },
+    {
+      "id": "R000782",
+      "label": "R000782",
+      "resolved": true
+    },
+    {
+      "id": "R002838",
+      "label": "R002838",
+      "resolved": true
+    },
+    {
+      "id": "R002888",
+      "label": "R002888",
+      "resolved": true
+    },
+    {
+      "id": "R000775",
+      "label": "R000775",
+      "resolved": true
+    },
+    {
+      "id": "R002502",
+      "label": "R002502",
+      "resolved": true
+    },
+    {
+      "id": "R000789",
+      "label": "R000789",
+      "resolved": true
+    },
+    {
+      "id": "R000788",
+      "label": "R000788",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Instrument Panel Configuration Diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "769_3.0_jpn_11581233_3.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            297.0,
+            25.0,
+            319.0,
+            39.0
+          ],
+          "ref": {
+            "id": "R000777",
+            "label": "R000777",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            506.0,
+            38.0,
+            528.0,
+            52.0
+          ],
+          "ref": {
+            "id": "R000774",
+            "label": "R000774",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            443.0,
+            550.0,
+            465.0,
+            564.0
+          ],
+          "ref": {
+            "id": "R000771",
+            "label": "R000771",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            378.0,
+            26.0,
+            400.0,
+            40.0
+          ],
+          "ref": {
+            "id": "R000770",
+            "label": "R000770",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            619.0,
+            310.0,
+            641.0,
+            324.0
+          ],
+          "ref": {
+            "id": "R000785",
+            "label": "R000785",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            320.0,
+            542.0,
+            342.0,
+            556.0
+          ],
+          "ref": {
+            "id": "R000780",
+            "label": "R000780",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            220.0,
+            519.0,
+            242.0,
+            533.0
+          ],
+          "ref": {
+            "id": "R000781",
+            "label": "R000781",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            505.0,
+            516.0,
+            527.0,
+            530.0
+          ],
+          "ref": {
+            "id": "R000786",
+            "label": "R000786",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            133.0,
+            551.0,
+            155.0,
+            565.0
+          ],
+          "ref": {
+            "id": "R000783",
+            "label": "R000783",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            23.0,
+            518.0,
+            45.0,
+            532.0
+          ],
+          "ref": {
+            "id": "R000784",
+            "label": "R000784",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            17.0,
+            309.0,
+            39.0,
+            323.0
+          ],
+          "ref": {
+            "id": "R000785",
+            "label": "R000785",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            235.0,
+            79.0,
+            257.0,
+            93.0
+          ],
+          "ref": {
+            "id": "R000782",
+            "label": "R000782",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            21.0,
+            56.0,
+            43.0,
+            70.0
+          ],
+          "ref": {
+            "id": "R000782",
+            "label": "R000782",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            451.0,
+            79.0,
+            473.0,
+            93.0
+          ],
+          "ref": {
+            "id": "R000782",
+            "label": "R000782",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            99.0,
+            33.0,
+            121.0,
+            47.0
+          ],
+          "ref": {
+            "id": "R002838",
+            "label": "R002838",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            584.0,
+            54.0,
+            606.0,
+            68.0
+          ],
+          "ref": {
+            "id": "R002888",
+            "label": "R002888",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            155.0,
+            80.0,
+            177.0,
+            94.0
+          ],
+          "ref": {
+            "id": "R000775",
+            "label": "R000775",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            265.0,
+            577.0,
+            287.0,
+            591.0
+          ],
+          "ref": {
+            "id": "R002502",
+            "label": "R002502",
+            "resolved": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "769_3.0_jpn_11581234_3.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            418.0,
+            75.0,
+            440.0,
+            89.0
+          ],
+          "ref": {
+            "id": "R000789",
+            "label": "R000789",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            230.0,
+            34.0,
+            252.0,
+            48.0
+          ],
+          "ref": {
+            "id": "R000788",
+            "label": "R000788",
+            "resolved": true
+          }
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131120091740/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000769_jpn/web/html/G000769_jpn_Content.html",
+  "inOutline": true
+}

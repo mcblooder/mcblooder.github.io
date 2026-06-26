@@ -1,0 +1,62 @@
+{
+  "id": "052_DJ04_Left_Rear_Door_Speaker_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "DJ04",
+  "physicalIds": [
+    "DJ04"
+  ],
+  "name": "Left Rear Door Speaker 2P Connector (Female)",
+  "nameRu": "Разъём левый задний Door Speaker, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "986D4-00002-00",
+  "partNumbers": [
+    "986D4-00002-00"
+  ],
+  "harnesses": [
+    "32754-T6G_-0000-"
+  ],
+  "locations": [
+    "Door > Left Rear Door"
+  ],
+  "systems": [
+    "Audio System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/986D4-00002-00.svg",
+    "viewBox": "0 0 74.321 27.604",
+    "width": 74.321,
+    "height": 27.604
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "RL_SPKR+",
+      "english": "rear left, speaker +",
+      "russian": "задний левый, динамик +",
+      "terminal": "806A",
+      "geometry": {
+        "x": 20.302,
+        "y": 16.287,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "RL_SPKR-",
+      "english": "rear left, speaker -",
+      "russian": "задний левый, динамик -",
+      "terminal": "807B",
+      "geometry": {
+        "x": 50.316,
+        "y": 16.288,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

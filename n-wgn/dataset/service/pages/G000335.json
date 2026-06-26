@@ -1,0 +1,1546 @@
+{
+  "id": "G000335",
+  "title": "Inspection and maintenance method",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "NA",
+  "sectionCode": "0",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000335",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspection and maintenance method"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "1）",
+          "The judgment criteria for daily inspection items should be made known to vehicle users."
+        ],
+        [
+          "2）",
+          "The \"●\" and \"◆\" marks indicate the inspection period required by law, and the \"○\" and \"◇\" marks indicate that Honda recommends it."
+        ],
+        [
+          "3）",
+          "The \"◆\" mark indicates \"distance items\" that can be omitted depending on the mileage since the previous inspection. For 12-month and 24-month inspection items of distance items, such inspection and maintenance may be omitted if the mileage is less than 5,000 km per year, but may not be omitted twice in a row. For \"business use\" and \"private-use cargo,\" etc., if the annual mileage is less than 8,000 km (2,000 km in 3 months and 4,000 km in 6 months when the inspection period is 3 months and 6 months, respectively), the relevant inspection and maintenance may be omitted, but not twice in a row."
+        ],
+        [
+          "4）",
+          "◇ mark indicates severe conditions."
+        ],
+        [
+          "Severe Condition"
+        ],
+        [
+          "A:",
+          "● Rough roads (bumpy roads, gravel roads, unpaved roads)"
+        ],
+        [
+          "Guideline for Rough Roads"
+        ],
+        [
+          "Rough road surface where the driver feels impact (rush sensation) on his/her body"
+        ],
+        [
+          "Road surfaces that have many opportunities to be hit by stones, ruts, etc."
+        ],
+        [
+          "Dusty road surface"
+        ],
+        [
+          "Driving on snowy roads frequently"
+        ],
+        [
+          "B:",
+          "High mileage"
+        ],
+        [
+          "(Approximate distance : 20,000 km or more/year)"
+        ],
+        [
+          "C:",
+          "● Many driving on mountain roads and uphill descent roads."
+        ],
+        [
+          "(Approximate number of times the brakes are used due to frequent climbing and descending)"
+        ],
+        [
+          "D:",
+          "● Short distance repetitive driving."
+        ],
+        [
+          "(Approximate distance: 8 km or less/trip)"
+        ],
+        [
+          "Repeatedly run at outside temperatures below freezing."
+        ],
+        [
+          "E:",
+          "When running at low speeds"
+        ],
+        [
+          "(Approximate speed: 30 km/h or less)"
+        ],
+        [
+          "When there is a lot of idling"
+        ],
+        [
+          "If any of the conditions from A to E applies to more than approximately 30% of the total distance traveled, the vehicle is classified as Severe Condition."
+        ],
+        [
+          "5）",
+          "An \"X\" mark indicates not applicable."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Inspection and maintenance items",
+          "Inspection and Maintenance Period",
+          "criterion",
+          "remarks"
+        ],
+        [
+          "business use Automobiles, etc.",
+          "for private or home use Passenger cars, etc."
+        ],
+        [
+          "Inspection point",
+          "checklist",
+          "Daily Inspection",
+          "Every 3 months",
+          "Every 12 months",
+          "Daily Inspection",
+          "Every 6 months",
+          "Every 1 year",
+          "Every 2 years"
+        ],
+        [
+          "steering gear",
+          "handle",
+          "state of operation",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "gearbox",
+          "Steering Gear Fluid leak in box",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Steering Gear Loose box installation",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "◇",
+          "◆",
+          "",
+          "Conditions A, B, C"
+        ],
+        [
+          "Rod and arms",
+          "Steering rod, Loose, rattled, or damaged arms",
+          "",
+          "◆",
+          "◆",
+          "",
+          "",
+          "",
+          "◆",
+          "",
+          ""
+        ],
+        [
+          "Balls for rods and arms Joint dust boot Cracks or damage to",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "◇",
+          "●",
+          "",
+          "Conditions A, B, C"
+        ],
+        [
+          "knuckle",
+          "Steering knuckle Rattling of the connection",
+          "",
+          "◆",
+          "◆",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "steering wheel",
+          "Wheel alignment",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "◆",
+          "Toe-in (front wheels): 0±3mm Toe-in (rear wheel) 2WD ： 3±3mm 4WD ： 2 +4 -2 mm",
+          ""
+        ],
+        [
+          "Camber (front wheel) : 0°00'±1°. (rear wheel): -1°30'±1° (rear wheel)"
+        ],
+        [
+          "Casters (front wheels) 2WD ： 4°05’±30’ 4WD ： 3°50’±30’"
+        ],
+        [
+          "power steering equipment",
+          "Power Steering Loose and damaged belts",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "●",
+          "●",
+          "",
+          "×"
+        ],
+        [
+          "Power Steering Fluid leakage, quantity",
+          "",
+          "◆",
+          "◆",
+          "",
+          "",
+          "",
+          "●",
+          "",
+          "×"
+        ],
+        [
+          "Power Steering Loose installation",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "◆",
+          "",
+          ""
+        ],
+        [
+          "braking device",
+          "Brake pedal",
+          "Brake pedal play, Gap with floorboard when stepped on",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "●",
+          "●",
+          "Play : 1-6mm",
+          ""
+        ],
+        [
+          "When stepping on the pedal with a tread force of 196N (20.0kgf), Clearance from floor plate : 144mm or more"
+        ],
+        [
+          "Brake pedal travel and effectiveness",
+          "●",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "How well the brakes work",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "●",
+          "●",
+          "braking power",
+          ""
+        ],
+        [
+          "Rear wheel sum: 10% or more of shaft weight"
+        ],
+        [
+          "Left-right difference of each wheel: Less than 8% of shaft weight"
+        ],
+        [
+          "Total ：Minimum of 50% of the vehicle weight at the time of inspection"
+        ],
+        [
+          "Note: If all wheels are locked and measurement is difficult, the wheel is considered to be in conformity with the sum of the wheels."
+        ],
+        [
+          "parking brake mechanism",
+          "Parking Brake pedal foot",
+          "●",
+          "●",
+          "●",
+          "●",
+          "",
+          "●",
+          "●",
+          "At tread force of 294N (30.0kgf)",
+          ""
+        ],
+        [
+          "Tread: 5-7 notches"
+        ],
+        [
+          "Total stroke: 14 notches"
+        ],
+        [
+          "Parking Brake Effectiveness of the",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "●",
+          "●",
+          "Braking force : 20% or more of the vehicle weight at the time of inspection",
+          ""
+        ],
+        [
+          "Hose and pipe",
+          "Brake hose, pipe Leakage or damage to the Installed state",
+          "",
+          "●",
+          "●",
+          "",
+          "◇",
+          "●",
+          "●",
+          "",
+          "Conditions A, B, C"
+        ],
+        [
+          "Reservoir Tank",
+          "Amount of brake fluid",
+          "●",
+          "●",
+          "●",
+          "●",
+          "",
+          "",
+          "",
+          "Liquid level : Must be between the upper and lower limits",
+          ""
+        ],
+        [
+          "Master Cylinder, Wheel Cylinder and Disc caliper",
+          "Brake master Cylinder, wheel Cylinder, disk Leaking caliper fluid",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "●",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "Brake master Cylinder, wheel Cylinder, disk Caliper's Function, wear and tear",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "brake chamber",
+          "Brake chamber Rod stroke",
+          "●",
+          "●",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "×"
+        ],
+        [
+          "Brake Chamber Function",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "×"
+        ],
+        [
+          "brake Valves, quick release Valves and Relay Valves",
+          "Brake valve, Quick release valve, Relay Valve Function",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "×"
+        ],
+        [
+          "servo unit",
+          "of the brake doubling device. Clogged air cleaner",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "×"
+        ],
+        [
+          "Function of brake doubler",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Air Pressure Gauge Functions (Increase in air pressure) (Condition)",
+          "●",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "×"
+        ],
+        [
+          "Inspect brake valves (exhaust noise)",
+          "●",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "×"
+        ],
+        [
+          "Brake Cam",
+          "Worn brake cam",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "×"
+        ],
+        [
+          "Brake drum and Brake shoe",
+          "Brake drum and Gap with Lining",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "◆",
+          "◆",
+          "",
+          "Self-adjusting"
+        ],
+        [
+          "Brake shoe Sliding portions and Lining wear",
+          "",
+          "◆",
+          "◆",
+          "",
+          "◇",
+          "◆",
+          "◆",
+          "Standard thickness : 4.5mm",
+          "Conditions A, B, C"
+        ],
+        [
+          "Usable limit : 1.0mm"
+        ],
+        [
+          "Worn or damaged brake drums",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "◇",
+          "●",
+          "Standard diameter : 180.0mm",
+          "Conditions A, B, C"
+        ],
+        [
+          "Usable limit : 181.0mm"
+        ],
+        [
+          "Back plate",
+          "Brake back Plate condition",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "brake disk and pads",
+          "Brake disc and Gap between pad and",
+          "",
+          "◆",
+          "◆",
+          "",
+          "",
+          "◆",
+          "◆",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Worn brake pads",
+          "",
+          "◆",
+          "◆",
+          "",
+          "◇",
+          "◆",
+          "◆",
+          "Standard thickness",
+          "Front wheel : 12-inch brake specification : 8.5mm 13-inch brake specification : 9.5mm",
+          "Conditions A, B, C"
+        ],
+        [
+          "use limit",
+          "Front wheel : 1.6mm"
+        ],
+        [
+          "Brake disc Wear and tear",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "◇",
+          "●",
+          "Standard thickness",
+          "Front wheel : 12-inch brake specification : 12.0mm 13-inch brake specification : 17.0mm",
+          "Conditions A, B, C"
+        ],
+        [
+          "use limit",
+          "Front wheel : 12-inch brake specification : 10.0mm 13-inch brake specification : 15.0mm"
+        ],
+        [
+          "double safety brake mechanism",
+          "Dual safety brake mechanism functions",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "traveling gear",
+          "wheel",
+          "Tire condition",
+          "●",
+          "◆",
+          "◆",
+          "●",
+          "",
+          "◆",
+          "◆",
+          "Tire Specifications",
+          "Tire pressure",
+          ""
+        ],
+        [
+          "front wheel",
+          "rear wheel"
+        ],
+        [
+          "155/65R14 75S",
+          "240kPa （2.4kgf/cm 2 ）",
+          "230kPa （2.3kgf/cm 2 ）"
+        ],
+        [
+          "165/55R15 75V",
+          "210kPa （2.1kgf/cm 2 ）",
+          "210kPa （2.1kgf/cm 2 ）"
+        ],
+        [
+          "Tire groove depth: Up to 1.6 mm remaining grooves"
+        ],
+        [
+          "Loose wheel nuts and wheel bolts",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "◆",
+          "◆",
+          "Tightening torque for wheel nuts: 108N·m（11.0kgf·m）",
+          ""
+        ],
+        [
+          "Rim and side rings, Disc Wheel damage",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Front wheel Bearing rattling",
+          "",
+          "◆",
+          "◆",
+          "",
+          "",
+          "",
+          "◆",
+          "Hub axial misalignment: 0-0.05mm",
+          ""
+        ],
+        [
+          "Rear wheel bearing rattling",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "◆",
+          "Hub axial misalignment: 0-0.05mm",
+          ""
+        ],
+        [
+          "shock absorber",
+          "leaf suspension",
+          "Damaged leaf springs",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "×"
+        ],
+        [
+          "Leaf Suspension Mounting and Loose connection, Rattle, damage",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "×"
+        ],
+        [
+          "coil suspension",
+          "Damaged coil spring",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Coil Suspension Mounting and Loose connection, Rattle, damage",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Mounting and connecting parts",
+          "Suspension mounting and loose connections, Rattle, damage",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "◇",
+          "●",
+          "",
+          "Conditions A, B, C"
+        ],
+        [
+          "shock absorber",
+          "shock absorber Damage to, oil leakage from",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "power transmission equipment",
+          "clutch",
+          "Clutch pedal play, Gap between floorboards when cut",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "●",
+          "●",
+          "",
+          "×"
+        ],
+        [
+          "Clutch Action",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "×"
+        ],
+        [
+          "Amount of clutch fluid",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "×"
+        ],
+        [
+          "Transmission and transfer",
+          "Transmission, The transfer Fluid leakage, quantity",
+          "",
+          "◆",
+          "◆",
+          "",
+          "",
+          "◆",
+          "◆",
+          "Liquid level : Must be between the upper and lower limits",
+          ""
+        ],
+        [
+          "Propeller Shaft and Drive shaft",
+          "Propeller shaft, drive Loose shaft connection",
+          "",
+          "◆",
+          "◆",
+          "",
+          "",
+          "◆",
+          "◆",
+          "",
+          ""
+        ],
+        [
+          "Drive shaft universal of the joint part. Dust Boots Cracks, damage",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "◇",
+          "●",
+          "",
+          "Conditions A, B, C"
+        ],
+        [
+          "Propeller shaft, drive Shaft universal Joint rattling",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Propeller shaft, drive Shaft center bearing rattling of a fork (in a road)",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "differential",
+          "Differential's Fluid leakage, quantity",
+          "",
+          "◆",
+          "◆",
+          "",
+          "",
+          "",
+          "◆",
+          "Liquid level : Filler Must be at the same level as the underside of the bolt holes",
+          ""
+        ],
+        [
+          "electrical equipment",
+          "ignition device",
+          "Spark plug condition",
+          "",
+          "◆",
+          "◆",
+          "",
+          "",
+          "◆",
+          "◆",
+          "Plug gap : Cars without turbocharger: 1.0-1.1mm Turbocharged vehicles: 0.7-0.8mm",
+          "Platinum, iridium (Ir) The plugs are No inspection required"
+        ],
+        [
+          "Ignition timing",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "●",
+          "●",
+          "0±2°BTDC/850rpm (N or P position)",
+          "The non-adjustable type is No inspection required"
+        ],
+        [
+          "Distributor's Cap condition",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "●",
+          "●",
+          "",
+          "distributor conservative without party affiliation No inspection required"
+        ],
+        [
+          "battery",
+          "Amount of battery fluid",
+          "●",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "Liquid level : Must be between the upper and lower limits",
+          "Sealed type requires no inspection"
+        ],
+        [
+          "Battery terminal section Loosening and corrosion of",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "●",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "electrical wiring",
+          "of electrical wiring connections. Loosening, damage",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "motor",
+          "body (of a machine)",
+          "How the engine runs, strange noise",
+          "●",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Low speed and acceleration conditions",
+          "●",
+          "●",
+          "●",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Exhaust condition",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "●",
+          "●",
+          "Electronic fuel injection type Idling RPM (no load) : 850±50 rpm (N or P position)",
+          ""
+        ],
+        [
+          "Air Cleaner Elements Dirt and clogging of",
+          "",
+          "◆",
+          "◆",
+          "",
+          "◇",
+          "◆",
+          "◆",
+          "",
+          "Conditions A, B, C"
+        ],
+        [
+          "Cylinder head and Tightening condition of each part of manifold",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "No inspection required due to plastic zone tightening"
+        ],
+        [
+          "lubricating device",
+          "Engine oil leak",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "●",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "Engine oil quantity",
+          "●",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "Level Gauge: Must be between the upper and lower limits",
+          ""
+        ],
+        [
+          "Fuel System",
+          "fuel leak",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "◇",
+          "●",
+          "",
+          "Conditions A, B, C"
+        ],
+        [
+          "cooling device",
+          "Amount of radiator fluid",
+          "●",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "Reservoir tank : Must be between the upper and lower limits",
+          ""
+        ],
+        [
+          "Loose fan belt, damage",
+          "●",
+          "●",
+          "●",
+          "",
+          "",
+          "●",
+          "●",
+          "Deflection when the center of the belt between the pulleys is pressed with a force of approximately 98 N (10.0 kgf) with the engine cold At inspection: 10.5-11.5mm When new: 6-7mm",
+          "Indicates belt used for both A/C belt compressor and compressor"
+        ],
+        [
+          "Leaking radiator fluid",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "●",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "soot and smoke Bad smelling gas Device to prevent emission of harmful gases, etc.",
+          "blow-by gas reducer",
+          "Metering valve's condition",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "Blow-by gas reduction system Damage to piping in",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "Fuel evaporation gas emission limiter",
+          "Fuel evaporative gas emission deterrence Damage to equipment piping, etc.",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "Charcoal Canister's Clogging, damage",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "Fuel evaporative gas emission deterrence Check equipment Check valves Feature",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "Carbon monoxide, etc. anti-dissipation device",
+          "Decrease in catalyst and other emissions Loose equipment installation, damage",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "Function of secondary air supply unit",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "●",
+          "",
+          "×"
+        ],
+        [
+          "Exhaust gas recirculation system Feature",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "●",
+          "",
+          "Cars without turbocharger"
+        ],
+        [
+          "Function of exhaust gas reduction device during deceleration",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "Prevention of carbon monoxide and other emissions Damage to equipment piping, Installed state",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "Lamping devices and turn signal",
+          "Illumination or flashing condition, dirt, or damage to headlamps, stop lamps, indicator lamps, etc.",
+          "●",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Alarms, Window washer, Cleaning solution injection system, Defroster and locking device",
+          "Horn, weipa, Windshield washer, Defroster, handle Locking device action",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Windshield Washer injection state",
+          "●",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "No abnormalities in the direction or height of the liquid",
+          ""
+        ],
+        [
+          "Wiping state of wiper",
+          "●",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "No abnormal operating or wiping conditions.",
+          ""
+        ],
+        [
+          "Window Washer Tank liquid volume",
+          "●",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "Confirming capacity with level gauge",
+          ""
+        ],
+        [
+          "exhaust pipe and muffler",
+          "Loose or damaged exhaust pipe or muffler installation",
+          "",
+          "◆",
+          "◆",
+          "",
+          "",
+          "◆",
+          "◆",
+          "",
+          ""
+        ],
+        [
+          "Muffler Functions",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "◇",
+          "●",
+          "",
+          "Condition D, E"
+        ],
+        [
+          "Fueled by high-pressure gas Fuel equipment, etc. to",
+          "Fuel system fueled by high-pressure gas and other pipes and joints. Gas leakage, damage",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "×"
+        ],
+        [
+          "Gas Cylinder Mounting Section Loosening, damage",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "×"
+        ],
+        [
+          "Frame and body",
+          "Frame and body Loosening, damage",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "",
+          "●",
+          "",
+          ""
+        ],
+        [
+          "seat",
+          "Damage to seat belt, operation",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Other",
+          "Lubrication of chassis parts",
+          "",
+          "●",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "abnormal in operation (of a machine, especially security cameras) Areas where the",
+          "There is something wrong with the area in question. the fact that there is no ...",
+          "●",
+          "",
+          "",
+          "●",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Periodic Replacement Parts Items",
+          "Replacement time",
+          "Inspection Method and Judgment Criteria",
+          "remarks"
+        ],
+        [
+          "Replace every year Unit : Year",
+          "Replaced every kilometer traveled Unit : thousand km"
+        ],
+        [
+          "Brake Fluid",
+          "［3］",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "2",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Automatic transmission fluid",
+          "",
+          "［80］",
+          "",
+          "CVT"
+        ],
+        [
+          "60"
+        ],
+        [
+          "Forty.\""
+        ],
+        [
+          "Rear differential fluid",
+          "",
+          "［60］",
+          "",
+          "4WD vehicle"
+        ],
+        [
+          "Transfer Fluid",
+          "",
+          "［80］",
+          "",
+          "4WD vehicle"
+        ],
+        [
+          "60"
+        ],
+        [
+          "Forty.\""
+        ],
+        [
+          "Spark Plug",
+          "",
+          "100",
+          "",
+          "Iridium Plug"
+        ],
+        [
+          "Air Cleaner Elements",
+          "",
+          "50",
+          "",
+          "wet (process)"
+        ],
+        [
+          "25.\""
+        ],
+        [
+          "Engine oil",
+          "1",
+          "10",
+          "",
+          "Vehicles not equipped with a turbo charger"
+        ],
+        [
+          "0.5\"",
+          "Five.\""
+        ],
+        [
+          "0.5",
+          "5",
+          "",
+          "Vehicles equipped with a turbo charger"
+        ],
+        [
+          "Engine oil filter",
+          "2",
+          "20",
+          "",
+          "Vehicles not equipped with a turbo charger"
+        ],
+        [
+          "One.\"",
+          "10.\""
+        ],
+        [
+          "1",
+          "10",
+          "",
+          "Vehicles equipped with a turbo charger"
+        ],
+        [
+          "radiator fluid",
+          "［11］",
+          "［200］",
+          "",
+          ""
+        ],
+        [
+          "6",
+          "120"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Note)",
+          "1. Replacement should be made by year or mileage, whichever comes first."
+        ],
+        [
+          "",
+          "2. The marks [ ] and [ ] indicate the time of replacement for the first time in passenger cars and for severe conditions, respectively."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Idle the engine and disconnect the coupler from the EGR valve."
+        ],
+        [
+          "",
+          "Confirm that the engine becomes sluggish (engine speed fluctuates) when the positive (+) terminal of the battery is connected to the No. 5 terminal of the connector on the EGR valve side and the negative (-) terminal to the No. 1 terminal. If the engine does not malfunction, remove the EGR valve and inspect its function by itself."
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131120091740/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000335_jpn/web/html/G000335_jpn_Content.html",
+  "inOutline": true
+}

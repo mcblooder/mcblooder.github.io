@@ -1,0 +1,120 @@
+{
+  "id": "134_BD10_City-Brake_Active_System_OFF_Switch_6P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD10",
+  "physicalIds": [
+    "BD10"
+  ],
+  "name": "City-Brake Active System OFF Switch 6P Connector (Female)",
+  "nameRu": "Разъём система предотвращения столкновений City-Brake OFF выключатель, 6 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 6,
+  "populatedPinCount": 4,
+  "faceviewPart": "91767-SLJ -0030-H1",
+  "partNumbers": [
+    "91767-SLJ -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)"
+  ],
+  "systems": [
+    "City-Brake Active System",
+    "Dashlights",
+    "Gauges"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91767-SLJ -0030-H1.svg",
+    "viewBox": "0 0 170.584 46.008",
+    "width": 170.584,
+    "height": 46.008
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z52A",
+      "geometry": {
+        "x": 11.864,
+        "y": 34.394,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "SS30_OFF",
+      "english": "SS30, off",
+      "russian": "SS30, выключение",
+      "terminal": "730B",
+      "geometry": {
+        "x": 40.176,
+        "y": 34.394,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 68.489,
+        "y": 34.394,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11D001",
+      "geometry": {
+        "x": 96.801,
+        "y": 34.394,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z52E",
+      "geometry": {
+        "x": 125.114,
+        "y": 34.394,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 153.426,
+        "y": 34.394,
+        "svgTextId": "SVGID_6_"
+      }
+    }
+  ]
+}

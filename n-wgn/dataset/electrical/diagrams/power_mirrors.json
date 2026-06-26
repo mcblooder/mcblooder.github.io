@@ -1,0 +1,75 @@
+{
+  "id": "power_mirrors",
+  "category": "electrical_diagram",
+  "title": "Power Mirrors",
+  "system": "power_mirrors",
+  "sheetCount": 6,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/power_mirrors/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/power_mirrors/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/power_mirrors/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/power_mirrors/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/power_mirrors/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/power_mirrors/sheet6.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Engine Start/Stop Switch",
+      "Left Power Mirror",
+      "Power Mirror Switch",
+      "Right Power Mirror"
+    ],
+    "Couplers": [
+      "C113 (Male)|C113 (Female)",
+      "C118 (Male)|C118 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Left Power Mirror 14P Connector (Male)",
+      "Power Mirror Switch 13P Connector (Female)",
+      "Right Power Mirror 14P Connector (Male)",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector F (18P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "27_IG2_MIRROR"
+    ],
+    "Grounds": [
+      "G402"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "DH Front Passenger's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

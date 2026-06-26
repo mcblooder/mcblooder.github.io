@@ -1,0 +1,64 @@
+{
+  "id": "R000676",
+  "title": "Rear damper inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "suspension",
+  "sectionCode": "B",
+  "subsection": "Rear Suspension",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000676",
+  "assets": [
+    "676_3.0_jpn_11035809_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000326",
+      "label": "The damper unit should be disposed of after venting the gas.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear damper inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear damper Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "676_3.0_jpn_11035809_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the nut onto the rod. Push the damper rod in by hand as shown in the figure and check if it extends naturally at a constant speed when the force is released. If the rod does not extend naturally, the damper unit should be replaced because the filled gas is leaking. Also, inspect for oil leakage, abnormal noise, deformation, etc.",
+      "refs": [
+        {
+          "id": "G000326",
+          "label": "The damper unit should be disposed of after venting the gas.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The damper unit should be disposed of after venting the gas."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000676_jpn/web/html/R000676_jpn_Content.html",
+  "inOutline": true
+}

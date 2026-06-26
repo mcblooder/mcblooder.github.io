@@ -1,0 +1,78 @@
+{
+  "id": "042_C101_C101_Male__C101_Female",
+  "category": "connector",
+  "connectorRef": "C101",
+  "physicalIds": [
+    "C101"
+  ],
+  "name": "C101 (Male) / C101 (Female)",
+  "nameRu": "Разъём C101, штыревая часть / Разъём C101, гнездовая часть",
+  "type": "MiddleCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "39839-TM0 -9010-HS1_39837-TM0 -9010-HS1",
+  "partNumbers": [
+    "39837-TM0 -9010-HS1",
+    "39839-TM0 -9010-HS1"
+  ],
+  "harnesses": [
+    "39156-T6G_-ZZ00-",
+    "39160-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Antenna"
+  ],
+  "systems": [
+    "Audio System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/39839-TM0 -9010-HS1_39837-TM0 -9010-HS1.svg",
+    "viewBox": "0 0 121.453 191.395",
+    "width": 121.453,
+    "height": 191.395
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "SWD_+B",
+      "english": "SWD, +B",
+      "russian": "SWD, +B",
+      "terminal": "J02A / J02B",
+      "geometry": {
+        "x": 73.588,
+        "y": 104.169,
+        "svgTextId": "_x31__1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "SH(AM/FM)",
+      "english": "shield, AM / FM",
+      "russian": "экран, AM / FM",
+      "terminal": "J03A / J03B",
+      "geometry": {
+        "x": 31.984,
+        "y": 148.73,
+        "svgTextId": "_x32__1_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "",
+      "circuit": "SH",
+      "english": "Shield",
+      "russian": "Экран",
+      "terminal": "SH1A",
+      "geometry": {
+        "x": 31.984,
+        "y": 188.797,
+        "svgTextId": "_x33__1_"
+      }
+    }
+  ]
+}

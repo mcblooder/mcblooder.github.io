@@ -1,0 +1,52 @@
+{
+  "id": "115_connector_connector",
+  "category": "connector",
+  "connectorRef": "(+)",
+  "physicalIds": [
+    "(+)"
+  ],
+  "name": "(+)",
+  "nameRu": "Разъём (+)",
+  "type": "DirectCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "32413-SAA -3000",
+  "partNumbers": [
+    "32413-SAA -3000"
+  ],
+  "harnesses": [
+    "32410-5Z1_-0000-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Left Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Charging System",
+    "Energy Management System",
+    "Power Supply",
+    "Starting System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/32413-SAA -3000.svg",
+    "viewBox": "0 0 55.084 32.453",
+    "width": 55.084,
+    "height": 32.453
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "+B_BATTERY",
+      "english": "Constant battery power: battery",
+      "russian": "Постоянное питание от АКБ: аккумулятор",
+      "terminal": "BA0A",
+      "geometry": {
+        "x": 27.371,
+        "y": 18.359,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

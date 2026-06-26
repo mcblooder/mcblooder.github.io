@@ -1,0 +1,38 @@
+{
+  "id": "under_hood",
+  "category": "electrical_diagram",
+  "title": "Under Hood",
+  "system": "under_hood",
+  "sheetCount": 7,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/under_hood/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/under_hood/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/under_hood/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/under_hood/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/under_hood/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/under_hood/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/under_hood/sheet7.svg"
+    }
+  ],
+  "components": {}
+}

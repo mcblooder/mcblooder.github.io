@@ -1,0 +1,323 @@
+{
+  "id": "014_H_Under-Dash_Fuse_Relay_Box_Connector_H_20P_Female",
+  "category": "connector",
+  "connectorRef": "H / BI16",
+  "physicalIds": [
+    "BI16"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector H (20P) (Female)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector H (20P), гнездовая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 20,
+  "populatedPinCount": 13,
+  "faceviewPart": "91991-S7A -0030-H1",
+  "partNumbers": [
+    "91991-S7A -0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Right Side)",
+    "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Front Side"
+  ],
+  "systems": [
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "Entry Light Control System",
+    "Gauges",
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "Power Supply",
+    "Wiper/Washer (Rear Window)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91991-S7A -0030-H1.svg",
+    "viewBox": "0 0 220.708 46.279",
+    "width": 220.708,
+    "height": 46.279
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "SMART_BUZZER",
+      "english": "SMART, BUZZER",
+      "russian": "SMART, BUZZER",
+      "terminal": "965A",
+      "geometry": {
+        "x": 52.951,
+        "y": 25.461,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "OTHER_DOOR_SW",
+      "english": "OTHER, door, switch",
+      "russian": "OTHER, дверь, выключатель",
+      "terminal": "97B",
+      "geometry": {
+        "x": 68.737,
+        "y": 25.461,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "OTHER_DOOR_SW",
+      "english": "OTHER, door, switch",
+      "russian": "OTHER, дверь, выключатель",
+      "terminal": "98C",
+      "geometry": {
+        "x": 84.522,
+        "y": 25.461,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "RED",
+      "circuit": "FR_DOOR_SW",
+      "english": "front, door, switch",
+      "russian": "передний, дверь, выключатель",
+      "terminal": "95D",
+      "geometry": {
+        "x": 100.308,
+        "y": 25.461,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "EXT_R+",
+      "english": "EXT, right +",
+      "russian": "EXT, правый +",
+      "terminal": "904E",
+      "geometry": {
+        "x": 116.093,
+        "y": 25.461,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "T/G_REQ_SW",
+      "english": "T / G, REQ, switch",
+      "russian": "T / G, REQ, выключатель",
+      "terminal": "970F",
+      "geometry": {
+        "x": 131.879,
+        "y": 25.461,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 147.666,
+        "y": 25.461,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "EXT_RR_R+",
+      "english": "EXT, rear/right, right +",
+      "russian": "EXT, задний/правый, правый +",
+      "terminal": "912H",
+      "geometry": {
+        "x": 163.451,
+        "y": 25.461,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 52.951,
+        "y": 41.175,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 66.512,
+        "y": 41.175,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "OTHER_DOOR_SW",
+      "english": "OTHER, door, switch",
+      "russian": "OTHER, дверь, выключатель",
+      "terminal": "99L",
+      "geometry": {
+        "x": 82.298,
+        "y": 41.175,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 98.084,
+        "y": 41.175,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "EXT_R-",
+      "english": "EXT, right -",
+      "russian": "EXT, правый -",
+      "terminal": "905N",
+      "geometry": {
+        "x": 113.869,
+        "y": 41.175,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 129.655,
+        "y": 41.175,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 145.441,
+        "y": 41.175,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "EXT_RR_R-",
+      "english": "EXT, rear/right, right -",
+      "russian": "EXT, задний/правый, правый -",
+      "terminal": "913S",
+      "geometry": {
+        "x": 161.226,
+        "y": 41.175,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "L_TURN",
+      "english": "left, turn signal",
+      "russian": "левый, указатель поворота",
+      "terminal": "17T",
+      "geometry": {
+        "x": 6.959,
+        "y": 33.319,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 31.316,
+        "y": 33.319,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "RR_WIPER_AS",
+      "english": "rear/right, wiper, AS",
+      "russian": "задний/правый, стеклоочиститель, AS",
+      "terminal": "424X",
+      "geometry": {
+        "x": 180.602,
+        "y": 33.319,
+        "svgTextId": "SVGID_19_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "IG1_RR_WIPER",
+      "english": "ignition IG1, rear/right, wiper",
+      "russian": "зажигание IG1, задний/правый, стеклоочиститель",
+      "terminal": "G13Y",
+      "geometry": {
+        "x": 204.173,
+        "y": 33.319,
+        "svgTextId": "SVGID_20_"
+      }
+    }
+  ]
+}

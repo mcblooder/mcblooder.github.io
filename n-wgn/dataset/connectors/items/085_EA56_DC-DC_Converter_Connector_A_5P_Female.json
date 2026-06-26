@@ -1,0 +1,104 @@
+{
+  "id": "085_EA56_DC-DC_Converter_Connector_A_5P_Female",
+  "category": "connector",
+  "connectorRef": "EA56",
+  "physicalIds": [
+    "EA56"
+  ],
+  "name": "DC-DC Converter Connector A (5P) (Female)",
+  "nameRu": "Разъём DC-DC Converter Connector A (5P), гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 5,
+  "populatedPinCount": 5,
+  "faceviewPart": "91187-SHJ -0030-H1",
+  "partNumbers": [
+    "91187-SHJ -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Auto Idle Stop System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91187-SHJ -0030-H1.svg",
+    "viewBox": "0 0 85.645 74.32",
+    "width": 85.645,
+    "height": 74.32
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "+B_DC/DC1",
+      "english": "Constant battery power: DC / DC1",
+      "russian": "Постоянное питание от АКБ: DC / DC1",
+      "terminal": "B77A",
+      "geometry": {
+        "x": 11.499,
+        "y": 25.659,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "RED",
+      "circuit": "+B_DC/DC2",
+      "english": "Constant battery power: DC / DC2",
+      "russian": "Постоянное питание от АКБ: DC / DC2",
+      "terminal": "B78B",
+      "geometry": {
+        "x": 68.124,
+        "y": 25.659,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "DC/DC_OUT1",
+      "english": "DC / DC, OUT1",
+      "russian": "DC / DC, OUT1",
+      "terminal": "K00C",
+      "geometry": {
+        "x": 11.499,
+        "y": 53.972,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-RR)",
+      "english": "Ground (ENG-RR)",
+      "russian": "Масса (ENG-RR)",
+      "terminal": "Z47D",
+      "geometry": {
+        "x": 39.812,
+        "y": 53.972,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "DC/DC_OUT2",
+      "english": "DC / DC, OUT2",
+      "russian": "DC / DC, OUT2",
+      "terminal": "K01E",
+      "geometry": {
+        "x": 68.124,
+        "y": 53.972,
+        "svgTextId": "SVGID_5_"
+      }
+    }
+  ]
+}

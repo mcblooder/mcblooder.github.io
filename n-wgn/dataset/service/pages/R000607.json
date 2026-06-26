@@ -1,0 +1,479 @@
+{
+  "id": "R000607",
+  "title": "Front Drive Shaft Removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "drive shaft",
+  "system": "Front Drive Shaft",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000607",
+  "assets": [
+    "607_7.0_jpn_11581998_7.0_disp.png",
+    "607_7.0_jpn_11581999_7.0_disp.png",
+    "607_7.0_jpn_11582000_7.0_disp.png",
+    "607_7.0_jpn_11582001_7.0_disp.png",
+    "607_7.0_jpn_11582002_7.0_disp.png",
+    "607_7.0_jpn_11582003_7.0_disp.png",
+    "607_7.0_jpn_11582004_7.0_disp.png",
+    "607_7.0_jpn_11582005_7.0_disp.png",
+    "607_7.0_jpn_11582006_7.0_disp.png",
+    "607_7.0_jpn_11582007_7.0_disp.png",
+    "607_7.0_jpn_11582008_7.0_disp.png",
+    "607_7.0_jpn_11582009_7.0_disp.png",
+    "607_7.0_jpn_11582010_7.0_disp.png",
+    "607_7.0_jpn_11582011_7.0_disp.png",
+    "607_7.0_jpn_11582012_7.0_disp.png",
+    "607_7.0_jpn_11582013_7.0_disp.png",
+    "607_7.0_jpn_11582014_7.0_disp.png",
+    "607_7.0_jpn_11582015_7.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Front wheel removal",
+      "resolved": true
+    },
+    {
+      "id": "R000850",
+      "label": "Front under cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000543",
+      "label": "Transmission Fluid Extraction",
+      "resolved": true
+    },
+    {
+      "id": "R000665",
+      "label": "Lower arm Ball joint Disconnect",
+      "resolved": true
+    },
+    {
+      "id": "R000655",
+      "label": "Wheel alignment Inspection and adjustment",
+      "resolved": true
+    },
+    {
+      "id": "R000714",
+      "label": "VSA sensor Midpoint write",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front Drive Shaft Removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Front under cover removal",
+      "refs": [
+        {
+          "id": "R000850",
+          "label": "Front under cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Spindle nut removal"
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11581998_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Caulk (B) the spindle nut (A). Remove the spindle nut."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Transmission Fluid Extraction",
+      "refs": [
+        {
+          "id": "R000543",
+          "label": "Transmission Fluid Extraction",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Lower arm Ball joint Disconnect",
+      "refs": [
+        {
+          "id": "R000665",
+          "label": "Lower arm Ball joint Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Front drive shaft outboard joint removal"
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11581999_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Tap the end of the front driveshaft with a plastic hammer and press the outboard joint into the inside of the knuckle."
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11582000_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Pull the knuckle (A) outward and pull the outboard joint (B) out from the knuckle."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Front drive shaft inboard joint removal"
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11582001_7.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11582002_7.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11582003_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Hold the inboard joint (A) and pull it out horizontally from the differential or intermediate shaft."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to push the tool tip in too far, as this will damage the differential oil seal.",
+        "Be careful not to pull the differential oil seal out at an angle as this will damage the differential oil seal.",
+        "Be careful not to pull the roller out of the joint by holding the shaft part (B). If the roller is pulled out, remove the boot and reassemble the joint."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Be careful not to push the tool tip in too far, as this will damage the differential oil seal."
+        },
+        {
+          "text": "Be careful not to push the tool tip in too far, as this will damage the differential oil seal."
+        },
+        {
+          "text": "Be careful not to pull the differential oil seal out at an angle as this will damage the differential oil seal."
+        },
+        {
+          "text": "Be careful not to pull the differential oil seal out at an angle as this will damage the differential oil seal."
+        },
+        {
+          "text": "Be careful not to pull the roller out of the joint by holding the shaft part (B). If the roller is pulled out, remove the boot and reassemble the joint."
+        },
+        {
+          "text": "Be careful not to pull the roller out of the joint by holding the shaft part (B). If the roller is pulled out, remove the boot and reassemble the joint."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Set Ring Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11582004_7.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11582005_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the set ring (C) from the inboard joint (A) or the intermediate shaft (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Make sure that there is no dust or dirt on the mating surfaces of the joint and the splines before installation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Set Ring Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11582006_7.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11582007_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install a new set ring (C) on the inboard joint (A) or the intermediate shaft (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front Drive Shaft Inboard Joint Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11582008_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "For 4WD vehicles, apply grease to the right side inboard joint spline. Right side inboard joint Spline section Specified grease Kyodo Yushi Morylex CS No.1 Application volume 0.5－1.0g"
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11582009_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Push the drive shaft (C) until the set ring (A) \"clicks\" into the mounting groove (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Front Drive Shaft Outboard Joint Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11582010_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply 5 g of molybdenum grease to the contact surface of the front wheel bearing and outboard joint. Specified grease Molybdenum grease Application volume 5g"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Molybdenum grease must be applied to prevent abnormal noise and vibration."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11582011_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Insert the outboard joint (A) into the front hub (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Outboard joint contact surfaces, knuckles, and front hubs should be free of debris and foreign objects."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Lower arm Ball joint Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11582012_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Wipe off any grease or foreign matter on the ball joint taper and threads, and connect the knuckle (A) to the lower arm (B). Ball joint boots must be checked for dents or other deformities, and if deformed, they must be corrected before installation. If the boots are installed with deformation, they may be damaged. Tighten the new grooved nut (C) to the lower torque limit and turn the nut in the tightening direction to align the pin hole position. Install the clip (D)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not back the nut toward the loosening direction to align."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Tie Rod End Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11582013_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the tie rod end (A) to the knuckle."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Replace the split pin (B) with a new one and bend it as shown in (C) or (D) in the figure."
+        },
+        {
+          "text": "Replace the split pin (B) with a new one and bend it as shown in (C) or (D) in the figure."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Stabilizer link connection (for vehicles equipped with stabilizer)"
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11582014_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the damper (A) to the stabilizer link (B) and tighten the new flange nut (C) to the specified torque. Hold the joint pin (D) with an Allen wrench (E) and tighten the nut."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Spindle nut mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "607_7.0_jpn_11582015_7.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply a small amount of engine oil to the seating surface and threads of the new spindle nut (A). Tighten the spindle nut. Perform caulking (b) in the recess of the shaft."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Front Under Cover Installation",
+      "refs": [
+        {
+          "id": "R000850",
+          "label": "Front Under Cover Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Front wheel mounting",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Drive shaft Check after installation"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn the wheel by hand to make sure the drive shaft does not interfere with any surrounding parts."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Transmission Fluid Refill",
+      "refs": [
+        {
+          "id": "R000543",
+          "label": "Transmission Fluid Refill",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. Wheel alignment Inspection and adjustment",
+      "refs": [
+        {
+          "id": "R000655",
+          "label": "Wheel alignment Inspection and adjustment",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "13. VSA sensor Midpoint write",
+      "refs": [
+        {
+          "id": "R000714",
+          "label": "VSA sensor Midpoint write",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000607_jpn/web/html/R000607_jpn_Content.html",
+  "inOutline": true
+}

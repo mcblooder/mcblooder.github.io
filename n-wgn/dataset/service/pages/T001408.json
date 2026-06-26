@@ -1,0 +1,250 @@
+{
+  "id": "T001408",
+  "title": "Electric Steering Lock) input check",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System Honda Smart Key System (MICU",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001408",
+  "assets": [
+    "1408_3.0_jpn_11038268_3.0_disp.png",
+    "1408_3.0_jpn_11381049_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000925",
+      "label": "Replace fuse box.",
+      "resolved": true
+    },
+    {
+      "id": "R000638",
+      "label": "Replace electronic steering lock.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Honda Smart Key System (MICU, Electric Steering Lock) input check"
+    },
+    {
+      "type": "paragraph",
+      "text": "Check DTC at HDS before performing input inspection."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. Perform input checks and if all is normal and there is an abnormality in the system Replace fuse box. Each coupler is all female-terminated on the cord side. inspection terminal Wiring color Measuring conditions result Inspection items in case of abnormality R5 yellow 24-hour (e.g. observation, operation (of a machine), care (of patient)) Battery voltage must be present between the inspection terminal and body ground. R6 M6 green ON mode Battery voltage must be present between the inspection terminal and body ground. Cord disconnection and terminal connection condition B8 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. P1 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. T27 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. U17 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. F14 green Press driver door lock/unlock switch Continuity must exist between the inspection terminal and body ground. S19 purple Assistant Door Lock/Unlock Push the switch Continuity must exist between the inspection terminal and body ground. H6 new leaves Press the tailgate lock/unlock switch Continuity must exist between the inspection terminal and body ground. U12 new leaves Disconnect the electronic steering lock 12P coupler There should be continuity between the inspection terminal and the electronic steering lock 12P coupler No. 8 terminal. Cord disconnection and terminal connection condition S8 peach Short the inspection terminal to body ground. The illumination of the ENGINE START STOP switch should be illuminated. S1 green Short the inspection terminal to body ground. The indicator on the ENGINE START STOP switch should light up. U22 weak matcha ON mode Battery voltage must be present between the inspection terminal and body ground. Cord disconnection and terminal connection condition",
+      "refs": [
+        {
+          "id": "R000925",
+          "label": "Replace fuse box.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1408_3.0_jpn_11381049_2.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Blown No. C11 (10A) fuse in fuse box"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G202)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G402)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G402)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G403)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G402)"
+        },
+        {
+          "text": "Driver Door lock/unlock switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G403)"
+        },
+        {
+          "text": "Assisted door lock/unlock switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G503)"
+        },
+        {
+          "text": "Tailgate lock/unlock switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Blown No. C11 (10A) fuse in fuse box"
+        },
+        {
+          "text": "ENGINE START STOP switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Blown No. C11 (10A) fuse in fuse box"
+        },
+        {
+          "text": "ENGINE START STOP switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "4. Perform an input check and if all is normal and the Honda Smart Key System is not working properly, Replace electronic steering lock. inspection terminal Wiring color Measuring conditions result Inspection items in case of abnormality 3 yellow 24-hour (e.g. observation, operation (of a machine), care (of patient)) Battery voltage must be present between the inspection terminal and body ground. 12 green ON mode Battery voltage must be present between the inspection terminal and body ground. 7 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground.",
+      "refs": [
+        {
+          "id": "R000638",
+          "label": "Replace electronic steering lock.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1408_3.0_jpn_11038268_3.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Blown No. C11 (10A) fuse in fuse box"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Blown No. C19 (15A) fuse in fuse box"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G402)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001408_jpn/web/html/T001408_jpn_Content.html",
+  "inOutline": true
+}

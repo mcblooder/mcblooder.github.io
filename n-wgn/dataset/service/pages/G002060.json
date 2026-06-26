@@ -1,0 +1,73 @@
+{
+  "id": "G002060",
+  "title": "Audio & Visual System Working Precautions",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "",
+  "sectionCode": "",
+  "subsection": "",
+  "system": "",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G002060",
+  "assets": [
+    "2060_3.0_jpn_11165835_3.0_disp.png",
+    "2060_3.0_jpn_11165836_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Audio & Visual System Working Precautions"
+    },
+    {
+      "type": "paragraph",
+      "text": "When disconnecting the +B power supply to the audio and navigation unit by removing the 12V battery terminal or disconnecting the coupler for repair or other reasons, note the following items."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "After repair, the vehicle should be parked in a location where it is easy to receive GPS signals, and the correct time and current location should be displayed on the screen before the repair is completed."
+        },
+        {
+          "text": "The clock will not display the correct time until the GPS signal is received after the audio & navigation unit's +B power is turned off."
+        },
+        {
+          "text": "＋After connecting the +B power supply, the program starts loading when the ignition is turned to ACC mode or ON mode. In the meantime, the ignition is not turned to the ignition OFF (LOCK) mode until program loading is completed."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Disconnect and connect the lever-lock type couplers used in audio & visual systems in the following manner"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Pull the lever (B) in the direction of the arrow while pressing the tab (A), and pull out the coupler (C) to disconnect it."
+    },
+    {
+      "type": "figure",
+      "asset": "2060_3.0_jpn_11165835_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Holding the cord side of the coupler (A), insert the terminal side of the coupler into the sleeve (B) of the unit. 2. When the coupler is pushed in, the sleeve on the unit side pushes the lever (C) back in the direction of the arrow. At this time, push the coupler in without touching the lever."
+    },
+    {
+      "type": "figure",
+      "asset": "2060_3.0_jpn_11165836_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G002060_jpn/web/html/G002060_jpn_Content.html",
+  "inOutline": false
+}

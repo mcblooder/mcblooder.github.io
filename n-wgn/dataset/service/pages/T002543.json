@@ -1,0 +1,171 @@
+{
+  "id": "T002543",
+  "title": "Fuel and Emission Control Symptom Diagnosis - Engine Failure to Start - Questionnaire",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002543",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuel and Emission Control Symptom Diagnosis - Engine Failure to Start - Questionnaire"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Date of Occurrence",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Location of Occurrence",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Frequency of occurrence",
+          "(_____) times/day",
+          "(___) times/month"
+        ],
+        [
+          "Occurrence",
+          ""
+        ],
+        [
+          "",
+          "(1) Weather",
+          "1. air temperature (________℃)"
+        ],
+        [
+          "",
+          "",
+          "2. weather (sunny, cloudy, rainy)"
+        ],
+        [
+          "",
+          "(2) Parking Hours",
+          "1. parking time (_____) hours or (_____) days"
+        ],
+        [
+          "",
+          "Parking location",
+          "1. flat road",
+          "2. downhill",
+          "3. uphill",
+          ""
+        ],
+        [
+          "Refueling Status",
+          ""
+        ],
+        [
+          "",
+          "(1) Date of refueling",
+          "(_____) days or (_____) months before refueling"
+        ],
+        [
+          "",
+          "(2) Fuel used",
+          "1. regular",
+          "2. high octane"
+        ],
+        [
+          "",
+          "",
+          "3. alcohol fuel",
+          ""
+        ],
+        [
+          "",
+          "Gasoline additive",
+          "1. put in",
+          "2. not included."
+        ],
+        [
+          "",
+          "(4) Remaining fuel level",
+          "1. full tank",
+          "2. half",
+          "3. refueling warning light comes on"
+        ],
+        [
+          "Cranking operation and status at the time of occurrence"
+        ],
+        [
+          "",
+          "(1) Cranking condition",
+          "1. cranking feels heavier than normal"
+        ],
+        [
+          "",
+          "",
+          "2. did not feel particularly uncomfortable"
+        ],
+        [
+          "",
+          "(2) Cranking operation",
+          "1. continued cranking until the engine started"
+        ],
+        [
+          "",
+          "",
+          "2. stopped cranking in (_____) seconds regardless of whether the engine starts or not."
+        ],
+        [
+          "",
+          "",
+          "Cranking started immediately after the ignition was turned to the ON mode (vehicles not equipped with the Honda Smart Key System)."
+        ],
+        [
+          "",
+          "",
+          "After turning the ignition to the ON mode, wait (_______) seconds before cranking (vehicles not equipped with the Honda Smart Key System)."
+        ],
+        [
+          "",
+          "(iii) First bombing or not",
+          "1. with first explosion",
+          "2. No first explosion"
+        ],
+        [
+          "Vehicle modifications",
+          "1. modified.",
+          "2. not modified"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Modifying the vehicle."
+        ],
+        [
+          "",
+          "Check engine oil, ATF (CVTF), and A/C gas levels"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002543_jpn/web/html/T002543_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,63 @@
+{
+  "id": "junction",
+  "category": "electrical_diagram",
+  "title": "Junction Connectors",
+  "system": "junction",
+  "sheetCount": 8,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/junction/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/junction/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/junction/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/junction/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/junction/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/junction/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/junction/sheet7.svg"
+    },
+    {
+      "name": "sheet8",
+      "asset": "assets/svg/junction/sheet8.svg"
+    }
+  ],
+  "components": {
+    "Couplers": [
+      "C001 (Female)",
+      "C002 (Female)",
+      "C003 (Female)",
+      "C004 (Female)",
+      "C105 (Male)|C105 (Female)",
+      "Sub Relay Block 1",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)"
+    ],
+    "Grounds": [
+      "G101"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "id": "063_BB08_Cable_Reel_Connector_C_20P_Female",
+  "category": "connector",
+  "connectorRef": "BB08",
+  "physicalIds": [
+    "BB08"
+  ],
+  "name": "Cable Reel Connector C (20P) (Female)",
+  "nameRu": "Разъём Cable Reel Connector C (20P), гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 20,
+  "populatedPinCount": 13,
+  "faceviewPart": "91951-S7A -0030-H1",
+  "partNumbers": [
+    "91951-S7A -0030-H1"
+  ],
+  "harnesses": [
+    "77901-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Steering"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "Audio System",
+    "Cable Reel",
+    "Cruise Control",
+    "CVT Control System",
+    "Dashlights",
+    "Gauges",
+    "Horns",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91951-S7A -0030-H1.svg",
+    "viewBox": "0 0 220.708 57.908",
+    "width": 220.708,
+    "height": 57.908
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 8.479,
+        "y": 28.304,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "HORN+B",
+      "english": "HORN+B",
+      "russian": "HORN+B",
+      "terminal": "61B",
+      "geometry": {
+        "x": 30.482,
+        "y": 28.304,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "RED",
+      "circuit": "AUDIO_MENU",
+      "english": "audio, MENU",
+      "russian": "аудиосистема, MENU",
+      "terminal": "215C",
+      "geometry": {
+        "x": 52.485,
+        "y": 28.304,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "VR&HFT",
+      "english": "VR&HFT",
+      "russian": "VR&HFT",
+      "terminal": "839D",
+      "geometry": {
+        "x": 74.487,
+        "y": 28.304,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 96.49,
+        "y": 28.304,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 118.494,
+        "y": 28.304,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 140.496,
+        "y": 28.304,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 162.499,
+        "y": 28.304,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 184.501,
+        "y": 28.304,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 204.28,
+        "y": 28.304,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND-ILL",
+      "english": "GND-ILL",
+      "russian": "GND-ILL",
+      "terminal": "Z30AL",
+      "geometry": {
+        "x": 6.254,
+        "y": 50.304,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND-ILL",
+      "english": "GND-ILL",
+      "russian": "GND-ILL",
+      "terminal": "Z30CM",
+      "geometry": {
+        "x": 28.257,
+        "y": 50.304,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "HORN_GND",
+      "english": "horn, ground",
+      "russian": "звуковой сигнал, масса",
+      "terminal": "Z30N",
+      "geometry": {
+        "x": 50.26,
+        "y": 50.304,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "ILL+",
+      "english": "ILL +",
+      "russian": "ILL +",
+      "terminal": "11AA",
+      "geometry": {
+        "x": 72.263,
+        "y": 50.304,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "CRUISE",
+      "english": "CRUISE",
+      "russian": "CRUISE",
+      "terminal": "700R",
+      "geometry": {
+        "x": 94.266,
+        "y": 50.304,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "CRUISE_GND",
+      "english": "CRUISE, ground",
+      "russian": "CRUISE, масса",
+      "terminal": "701S",
+      "geometry": {
+        "x": 116.269,
+        "y": 50.304,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "AUDIO_REMOTE",
+      "english": "audio, remote control",
+      "russian": "аудиосистема, дистанционное управление",
+      "terminal": "808T",
+      "geometry": {
+        "x": 138.271,
+        "y": 50.304,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "AUDIO_REMOTE_GND",
+      "english": "audio, remote control, ground",
+      "russian": "аудиосистема, дистанционное управление, масса",
+      "terminal": "819W",
+      "geometry": {
+        "x": 160.274,
+        "y": 50.304,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "PADDLE_UP",
+      "english": "PADDLE, up",
+      "russian": "PADDLE, вверх",
+      "terminal": "M18X",
+      "geometry": {
+        "x": 182.277,
+        "y": 50.304,
+        "svgTextId": "SVGID_19_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "PADDLE_DOWN",
+      "english": "PADDLE, down",
+      "russian": "PADDLE, вниз",
+      "terminal": "M19Y",
+      "geometry": {
+        "x": 204.28,
+        "y": 50.304,
+        "svgTextId": "SVGID_20_"
+      }
+    }
+  ]
+}

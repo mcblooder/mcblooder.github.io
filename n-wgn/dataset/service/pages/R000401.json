@@ -1,0 +1,77 @@
+{
+  "id": "R000401",
+  "title": "Check engine oil",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "lubricating device",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000401",
+  "assets": [
+    "401_3.0_jpn_11393780_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Check engine oil"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Inspections should be performed before starting the engine or at least 3 minutes after stopping the engine.",
+        "It must be performed on a level surface with the engine stopped."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Engine oil Check"
+    },
+    {
+      "type": "figure",
+      "asset": "401_3.0_jpn_11393780_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Pull out the oil level gauge and check for contamination and that the oil level is between the upper (A) and lower (B) limits. After wiping with a rag, insert the gauge and inspect. If the oil quantity is near the lower limit, refill to the upper limit."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not mix different brands or grades of oil, or use low-quality oil, as it will alter the quality and cause malfunctions.",
+        "Always check for oil leaks if the oil level is low."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do not mix different brands or grades of oil, or use low-quality oil, as it will alter the quality and cause malfunctions."
+        },
+        {
+          "text": "Do not mix different brands or grades of oil, or use low-quality oil, as it will alter the quality and cause malfunctions."
+        },
+        {
+          "text": "Always check for oil leaks if the oil level is low."
+        },
+        {
+          "text": "Always check for oil leaks if the oil level is low."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000401_jpn/web/html/R000401_jpn_Content.html",
+  "inOutline": true
+}

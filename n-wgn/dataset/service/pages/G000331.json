@@ -1,0 +1,1320 @@
+{
+  "id": "G000331",
+  "title": "Service Data Table",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "NA",
+  "sectionCode": "0",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000331",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Service Data Table"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Part Name",
+          "(data) item",
+          "supplement",
+          "standard value",
+          "limit value"
+        ],
+        [
+          "Ignition timing",
+          "When idling",
+          "N or P position (when SCS is shorted)",
+          "0±2°BTDC"
+        ],
+        [
+          "Spark Plug",
+          "Model (without turbo charger) Uses ISO (International Organization for Standardization) standard products",
+          "NGK",
+          "DILZKAR7C11S"
+        ],
+        [
+          "DENSO",
+          "DXE22HCR11S"
+        ],
+        [
+          "Model (with turbo charger) Uses ISO (International Organization for Standardization) standard products",
+          "NGK",
+          "ILZKAR8F8S"
+        ],
+        [
+          "DENSO",
+          "SXE24HCR8S"
+        ],
+        [
+          "Electrode gap",
+          "Cars not equipped with a turbo charger",
+          "1.0-1.1mm"
+        ],
+        [
+          "Turbo Charger equipped vehicle",
+          "0.7-0.8mm"
+        ],
+        [
+          "Ignition Coil",
+          "Ignition sequence",
+          "",
+          "1-2-3"
+        ],
+        [
+          "A.C. Generator",
+          "Rising RPM (13.5V, when hot)",
+          "",
+          "1100rpm",
+          "－"
+        ],
+        [
+          "Brush length",
+          "",
+          "19mm",
+          "5mm"
+        ],
+        [
+          "A.C. generator belt (when cold)",
+          "Deflection (when the center of the belt between the pulleys is pressed with a force of approximately 98 N (10.0 kgf))",
+          "time for inspection",
+          "10.5-11.5mm",
+          "－"
+        ],
+        [
+          "(when) new",
+          "6-7mm",
+          "－"
+        ],
+        [
+          "Tension (as measured by belt tension gauge)",
+          "time for inspection",
+          "196-294N（20-30kgf）",
+          "－"
+        ],
+        [
+          "(when) new",
+          "540-638N（55-65kgf）",
+          "－"
+        ],
+        [
+          "Starter motor",
+          "Depth of mica",
+          "",
+          "0.4-0.5mm",
+          "0.15mm"
+        ],
+        [
+          "Commutator swing",
+          "",
+          "0.02 mm or less",
+          "0.05mm"
+        ],
+        [
+          "Outer Diameter of Commutator",
+          "",
+          "28.0-28.1mm",
+          "27.5mm"
+        ],
+        [
+          "Brush length",
+          "",
+          "10.8-11.2mm",
+          "4mm"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Part Name",
+          "(data) item",
+          "supplement",
+          "standard value",
+          "limit value"
+        ],
+        [
+          "engine",
+          "Compression pressure",
+          "when cranking",
+          "－",
+          "883kPa （9.0kgf/cm 2 ）"
+        ],
+        [
+          "Difference between each cylinder",
+          "－",
+          "200kPa （2.04kgf/cm 2 ）"
+        ],
+        [
+          "Cylinder head",
+          "Cylinder block mating surface distortion",
+          "",
+          "0.05 mm or less",
+          "－"
+        ],
+        [
+          "height",
+          "",
+          "125.95-126.05mm",
+          "－"
+        ],
+        [
+          "Cam Shaft",
+          "Axial deformation",
+          "",
+          "0.075-0.175mm",
+          "0.375mm"
+        ],
+        [
+          "Oil Clearance",
+          "No. 1 Journal",
+          "0.030-0.069mm",
+          "0.12mm"
+        ],
+        [
+          "No. 2, 3, 4 Journal",
+          "0.060-0.090mm",
+          "0.15mm"
+        ],
+        [
+          "vibration",
+          "",
+          "0.03 mm or less",
+          "－"
+        ],
+        [
+          "Cam Height",
+          "IN",
+          "33.263mm",
+          "－"
+        ],
+        [
+          "EX",
+          "33.260mm",
+          "－"
+        ],
+        [
+          "valve",
+          "Stem O.D.",
+          "IN",
+          "5.48-5.49mm",
+          "5.45mm"
+        ],
+        [
+          "EX",
+          "5.45-5.46mm",
+          "5.42mm"
+        ],
+        [
+          "Clearance between guide and stem",
+          "IN",
+          "0.025-0.050mm",
+          "0.08mm"
+        ],
+        [
+          "EX",
+          "0.055-0.080mm",
+          "0.11mm"
+        ],
+        [
+          "Valve Seats",
+          "Width per sheet",
+          "IN",
+          "1.05-1.35mm",
+          "2.0mm"
+        ],
+        [
+          "EX",
+          "1.25-1.55mm",
+          "2.0mm"
+        ],
+        [
+          "Valve mounting height",
+          "IN",
+          "49.05-50.05mm",
+          "50.25mm"
+        ],
+        [
+          "EX",
+          "43.55-44.55mm",
+          "44.75mm"
+        ],
+        [
+          "Valve Guide",
+          "Projection length",
+          "IN",
+          "15.2-16.2mm",
+          "－"
+        ],
+        [
+          "EX",
+          "16.0-17.0mm",
+          "－"
+        ],
+        [
+          "Cylinder block",
+          "Cylinder head mating surface distortion",
+          "",
+          "0.07mm or less",
+          "－"
+        ],
+        [
+          "inside diameter",
+          "Y direction",
+          "64.000-64.015mm",
+          "64.065mm"
+        ],
+        [
+          "Difference between upper and lower I.D.",
+          "",
+          "－",
+          "0.05mm"
+        ],
+        [
+          "piston",
+          "Outer diameter (at 11 mm from the bottom of the skirt)",
+          "",
+          "63.970-63.977mm",
+          "63.97mm"
+        ],
+        [
+          "Clearance with cylinder block bore (Y-direction)",
+          "",
+          "0.023-0.045mm",
+          "0.055mm"
+        ],
+        [
+          "Piston ring",
+          "Clearance between piston groove and",
+          "top",
+          "0.035-0.060mm",
+          "0.135mm"
+        ],
+        [
+          "second",
+          "0.030-0.055mm",
+          "0.130mm"
+        ],
+        [
+          "clearance (e.g. clearance at the front door)",
+          "top",
+          "0.15-0.25mm",
+          "0.6mm"
+        ],
+        [
+          "second",
+          "0.30-0.45mm",
+          "0.55mm"
+        ],
+        [
+          "oil",
+          "0.20-0.50mm",
+          "0.6mm"
+        ],
+        [
+          "Piston pin",
+          "outer diameter",
+          "",
+          "16.996-17.000mm",
+          "－"
+        ],
+        [
+          "Clearance to piston",
+          "",
+          "0.010-0.017mm",
+          "－"
+        ],
+        [
+          "con-rod",
+          "Clearance to piston pin",
+          "",
+          "-0.036- -0.019mm",
+          "－"
+        ],
+        [
+          "Piston Pin hole diameter",
+          "",
+          "16.964-16.977mm",
+          "－"
+        ],
+        [
+          "Large end axial deformation",
+          "",
+          "0.2-0.4mm",
+          "0.5mm"
+        ],
+        [
+          "Crankshaft",
+          "Journal Diameter",
+          "No. 1, 4 Journal",
+          "38.989-39.013mm",
+          "－"
+        ],
+        [
+          "No. 2, 3 Journal",
+          "38.976-39.000mm",
+          "－"
+        ],
+        [
+          "Taper (cylindricity)",
+          "",
+          "0.005 mm or less",
+          "0.010mm"
+        ],
+        [
+          "pin diameter",
+          "",
+          "35.976-36.000mm",
+          "－"
+        ],
+        [
+          "circularity",
+          "",
+          "0.005 mm or less",
+          "0.010mm"
+        ],
+        [
+          "Axial play",
+          "",
+          "0.40-0.95mm",
+          "1.05mm"
+        ],
+        [
+          "vibration",
+          "",
+          "0.03 mm or less",
+          "0.04mm"
+        ],
+        [
+          "bearing",
+          "Journal Oil Clearance",
+          "No. 1, 4 Journal",
+          "0.013-0.029mm",
+          "0.037mm"
+        ],
+        [
+          "No. 2, 3 Journal",
+          "0.017-0.033mm",
+          "0.041mm"
+        ],
+        [
+          "Pin Oil Clearance",
+          "",
+          "0.020-0.038mm",
+          "－"
+        ],
+        [
+          "Recommended engine oil",
+          "Recommended engine oil",
+          "Cars not equipped with a turbo charger",
+          "Honda Genuine Oil ULTRA NEXT* (Honda's new fuel-saving oil) ULTRA Green (Honda's fuel-saving oil) ULTRA LEO (API SN class SAE 0W-20) Or, API SM or SN class or higher of the above oil viscosity, or engine oil with the API CERTIFICATION mark on the oil can. * : Most fuel-efficient oil"
+        ],
+        [
+          "Turbo Charger equipped vehicle",
+          "Honda Genuine Oil ULTRA LEO* 1 (API SN class SAE 0W-20) ULTRA LTD (API SN class SAE 5W-30) Or, API SM or SN class or higher of the above oil viscosity, or engine oil with the API CERTIFICATION mark on the oil can. * 1 Fuel-efficient oil: The most fuel-efficient oil"
+        ],
+        [
+          "Oil quantity",
+          "During disassembly and assembly",
+          "3.0L",
+          "－"
+        ],
+        [
+          "When only oil is changed",
+          "2.4L",
+          "－"
+        ],
+        [
+          "When oil and filter are changed at the same time",
+          "2.6L",
+          "－"
+        ],
+        [
+          "Relief valve",
+          "Adjustment hydraulic pressure",
+          "Oil temperature 80℃, at idling",
+          "70kPa（0.71kgf/cm 2 ) or more",
+          "－"
+        ],
+        [
+          "At 80°C oil temperature and 3,000 rpm",
+          "230kPa（2.35kgf/cm 2 ) or more",
+          "－"
+        ],
+        [
+          "radiator fluid",
+          "designated money",
+          "",
+          "Genuine Honda Ultra e-Coolant"
+        ],
+        [
+          "Engine/radiator specified quantity (including reserve tank capacity) (Vehicles not equipped with a turbo charger)",
+          "at breakdown time",
+          "3.86L",
+          "－"
+        ],
+        [
+          "time to switch over",
+          "2.80L",
+          "－"
+        ],
+        [
+          "Engine/radiator specified quantity (including reserve tank capacity) (Turbo Charger-equipped vehicles)",
+          "at breakdown time",
+          "3.93L",
+          "－"
+        ],
+        [
+          "time to switch over",
+          "2.85L",
+          "－"
+        ],
+        [
+          "Reserve tank capacity",
+          "",
+          "0.33L",
+          "－"
+        ],
+        [
+          "Radiator cap",
+          "Diaphragm pressure",
+          "",
+          "93-123kPa （0.95-1.25kgf/cm 2 ）",
+          "－"
+        ],
+        [
+          "Thermo stat",
+          "Opening temperature (at 0.35mm lift)",
+          "",
+          "80-84℃",
+          "－"
+        ],
+        [
+          "Full open temperature",
+          "",
+          "95℃",
+          "－"
+        ],
+        [
+          "Lift at full open",
+          "",
+          "8.0 mm or more",
+          "－"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Part Name",
+          "(data) item",
+          "supplement",
+          "standard value",
+          "limit value"
+        ],
+        [
+          "Fuel pump",
+          "Discharge rate (at 12V for 10 seconds)",
+          "Cars not equipped with a turbo charger",
+          "111mL or more"
+        ],
+        [
+          "Turbo Charger equipped vehicle",
+          "150mL or more"
+        ],
+        [
+          "Fuel Line",
+          "Control pressure",
+          "Cars not equipped with a turbo charger",
+          "370-420kPa（3.77-4.28kgf/cm 2 ）",
+          "－"
+        ],
+        [
+          "Turbo Charger equipped vehicle",
+          "320-370kPa（3.26-3.77kgf/cm 2 ）",
+          "－"
+        ],
+        [
+          "Idling RPM",
+          "no load",
+          "N or P position",
+          "850±50 rpm"
+        ],
+        [
+          "High electrical load (see \"Inspecting Idle RPM\") (vehicles not equipped with turbo charger)",
+          "N or P position",
+          "910±50 rpm"
+        ],
+        [
+          "High electrical load (see \"Inspecting Idle RPM\") (Turbocharged vehicles)",
+          "N or P position",
+          "910±50 rpm"
+        ],
+        [
+          "Idling Emission",
+          "CO concentration",
+          "No-load and maintenance target values",
+          "0.1% or less"
+        ],
+        [
+          "HC concentration",
+          "No-load and maintenance target values",
+          "Less than 100ppm"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Part Name",
+          "(data) item",
+          "supplement",
+          "standard value",
+          "limit value"
+        ],
+        [
+          "Specified Transmission Fluid",
+          "Fluid quantity (2WD vehicles)",
+          "time to switch over",
+          "2.00L",
+          "－"
+        ],
+        [
+          "at breakdown time",
+          "5.10L",
+          "－"
+        ],
+        [
+          "Fluid quantity (4WD vehicles)",
+          "time to switch over",
+          "2.00L",
+          "－"
+        ],
+        [
+          "at breakdown time",
+          "5.25L",
+          "－"
+        ],
+        [
+          "Specified Transmission Fluid",
+          "",
+          "Honda Genuine Ultra HMMF"
+        ],
+        [
+          "hydraulics (Vehicles not equipped with a turbo charger)",
+          "Forward Clutch Pressure",
+          "D position 2000 rpm",
+          "760-961kPa （7.8-9.8kgf/cm 2 ）",
+          "－"
+        ],
+        [
+          "－"
+        ],
+        [
+          "Reverse Clutch Pressure",
+          "R position 2000 rpm",
+          "943-1139kPa （9.6-11.6kgf/cm 2 ）",
+          "－"
+        ],
+        [
+          "－"
+        ],
+        [
+          "Drive pulley pressure",
+          "N position 1700rpm",
+          "594-986kPa （6.1-10.1kgf/cm 2 ）",
+          "－"
+        ],
+        [
+          "－"
+        ],
+        [
+          "Driven Puli Pressure",
+          "N position 1700rpm",
+          "754-1146kPa （7.7-11.7kgf/cm 2 ）",
+          "－"
+        ],
+        [
+          "－"
+        ],
+        [
+          "hydraulics (Turbo Charger-equipped vehicles)",
+          "Forward Clutch Pressure",
+          "D position 2000 rpm",
+          "598-794kPa （6.1-8.1kgf/cm 2 ）",
+          "－"
+        ],
+        [
+          "－"
+        ],
+        [
+          "Reverse Clutch Pressure",
+          "R position 2000 rpm",
+          "738-934kPa （7.5-9.5kgf/cm 2 ）",
+          "－"
+        ],
+        [
+          "－"
+        ],
+        [
+          "Drive pulley pressure",
+          "N position 1700rpm",
+          "590-982kPa （6.0-10.0kgf/cm 2 ）",
+          "－"
+        ],
+        [
+          "－"
+        ],
+        [
+          "Driven Puli Pressure",
+          "N position 1700rpm",
+          "741-1134kPa （7.6-11.6kgf/cm 2 ）",
+          "－"
+        ],
+        [
+          "－"
+        ],
+        [
+          "Stall RPM (Vehicles not equipped with a turbo charger)",
+          "standard value",
+          "",
+          "3,000rpm",
+          "－"
+        ],
+        [
+          "specified range",
+          "",
+          "2,850-3,150rpm",
+          "－"
+        ],
+        [
+          "Stall RPM (Turbo Charger-equipped vehicles)",
+          "standard value",
+          "",
+          "2,850rpm",
+          "－"
+        ],
+        [
+          "specified range",
+          "",
+          "2,800-2,900rpm",
+          "－"
+        ],
+        [
+          "Forward clutch",
+          "Initial clearance between clutch end plate and clutch disc",
+          "",
+          "0.5-0.7mm",
+          "－"
+        ],
+        [
+          "Reverse clutch",
+          "Reverse Brake Initial clearance between end plate and brake plate",
+          "",
+          "1.0-1.2mm",
+          "－"
+        ],
+        [
+          "Input shaft/Drive pulley Shaft",
+          "Input shaft/drive pulley shaft thrust clearance",
+          "",
+          "0.11-0.24mm",
+          "－"
+        ],
+        [
+          "Driven Pulley Shaft",
+          "Driven Pulley Shaft Thrust Clearance",
+          "",
+          "0-0.13mm",
+          "－"
+        ],
+        [
+          "Differential Pinion Gear",
+          "backlash",
+          "",
+          "0.05-0.15mm",
+          "－"
+        ],
+        [
+          "Transfer (4WD)",
+          "backlash",
+          "",
+          "0.06-0.16mm",
+          "－"
+        ],
+        [
+          "Pre-loaded total starting torque",
+          "",
+          "1.44-2.21N･m （0.147-0.225kgf･m）",
+          "－"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Part Name",
+          "(data) item",
+          "supplement",
+          "standard value",
+          "limit value"
+        ],
+        [
+          "Designated Rear Differential Fluid",
+          "Fluid quantity",
+          "time to switch over",
+          "0.34L",
+          "－"
+        ],
+        [
+          "at breakdown time",
+          "0.35L",
+          "－"
+        ],
+        [
+          "Designated Fluids",
+          "",
+          "Genuine Honda Ultra HGO-μ (hypoid gear oil)"
+        ],
+        [
+          "Differential Pinion Gear",
+          "Back Rush",
+          "",
+          "0.05-0.15mm",
+          "－"
+        ],
+        [
+          "Drive Pinion",
+          "Back Rush",
+          "",
+          "0.06-0.16mm",
+          "－"
+        ],
+        [
+          "Starting torque",
+          "",
+          "1.10-1.51N･m (11.2-15.4 kgf-cm)",
+          "adjustment"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Part Name",
+          "(data) item",
+          "supplement",
+          "standard value",
+          "limit value"
+        ],
+        [
+          "Steering wheel",
+          "Play (in straight line, at wheel circumference)",
+          "",
+          "0-10mm",
+          "－"
+        ],
+        [
+          "Fixed cut-off operating load (at idling, starting load at outer circumference of the wheel)",
+          "",
+          "31N (3.2kgf) or less",
+          "－"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Part Name",
+          "(data) item",
+          "supplement",
+          "standard value",
+          "limit value"
+        ],
+        [
+          "Wheel alignment",
+          "Camber angle",
+          "front wheel",
+          "0°00’±1°"
+        ],
+        [
+          "rear wheel",
+          "-1°30’±1°"
+        ],
+        [
+          "Caster angle",
+          "Front wheels (2WD vehicles)",
+          "4°05’±30’"
+        ],
+        [
+          "Front wheels (4WD vehicles)",
+          "3°50’±30’"
+        ],
+        [
+          "Total Toe-in",
+          "front wheel",
+          "0±3mm"
+        ],
+        [
+          "Rear wheels (2WD vehicles)",
+          "3±3mm"
+        ],
+        [
+          "Rear wheels (4WD vehicles)",
+          "2 ＋4 －2 mm"
+        ],
+        [
+          "Front Wheel Angle (FWD model)",
+          "Inside (for vehicles equipped with 14-inch wheels)",
+          "43°29’±2°"
+        ],
+        [
+          "Inside (for vehicles equipped with 15-inch wheels)",
+          "40°34’±2°"
+        ],
+        [
+          "Outside (for vehicles equipped with 14-inch wheels)",
+          "37°26’±1°"
+        ],
+        [
+          "Outside (with 15-inch wheels)",
+          "35°34’±1°"
+        ],
+        [
+          "Front wheel angle (4WD models)",
+          "inside",
+          "40°50’±2°"
+        ],
+        [
+          "outside",
+          "35°14’±1°"
+        ],
+        [
+          "Side Slip",
+          "front wheel",
+          "0±5mm"
+        ],
+        [
+          "Wheel bearings",
+          "Axial deformation",
+          "front wheel",
+          "0-0.05mm",
+          "－"
+        ],
+        [
+          "rear wheel",
+          "0-0.05mm",
+          "－"
+        ],
+        [
+          "Wheels, tires",
+          "Rim Vibration",
+          "Steel Wheel lateral",
+          "0-0.7mm",
+          "2.0mm"
+        ],
+        [
+          "Steel Wheel longitudinal",
+          "0-0.5mm",
+          "1.5mm"
+        ],
+        [
+          "Aluminum Wheel lateral direction",
+          "0-0.3mm",
+          "2.0mm"
+        ],
+        [
+          "Aluminum Wheel longitudinal",
+          "0-0.3mm",
+          "1.5mm"
+        ],
+        [
+          "Pitch Circle Diameter (PCD)",
+          "",
+          "100mm",
+          "－"
+        ],
+        [
+          "inset",
+          "Steel wheels (14\")",
+          "40mm",
+          "－"
+        ],
+        [
+          "Aluminum wheels (14 inches)",
+          "40mm",
+          "－"
+        ],
+        [
+          "Aluminum wheels (15 inches)",
+          "45mm",
+          "－"
+        ],
+        [
+          "Wheel size",
+          "Steel wheels (155/65R14 75S)",
+          "14×4 1/2J",
+          "－"
+        ],
+        [
+          "Aluminum wheels (155/65R14 75S)",
+          "14×4 1/2J",
+          "－"
+        ],
+        [
+          "Aluminum wheels (165/55R15 75V)",
+          "15×4 1/2J",
+          "－"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Part Name",
+          "(data) item",
+          "supplement",
+          "standard value",
+          "limit value"
+        ],
+        [
+          "Parking brake pedal",
+          "All strokes",
+          "",
+          "14 Notch"
+        ],
+        [
+          "Step height (at tread force of 294 N (30.0 kgf))",
+          "",
+          "5-7 Notch"
+        ],
+        [
+          "Brake pedal",
+          "Pedal height (from floor steel surface)",
+          "",
+          "201±5mm",
+          "－"
+        ],
+        [
+          "Gaps between floorboards (at tread force of 196N (20.0kgf))",
+          "",
+          "144mm or more",
+          "－"
+        ],
+        [
+          "Play (on the pedal tread)",
+          "",
+          "1-6mm",
+          "－"
+        ],
+        [
+          "Disc brake",
+          "Disc thickness (12\" brake spec car)",
+          "",
+          "12.0mm",
+          "10.0mm"
+        ],
+        [
+          "Disc thickness (13\" brake spec car)",
+          "",
+          "17.0mm",
+          "15.0mm"
+        ],
+        [
+          "disk wobble",
+          "",
+          "－",
+          "0.04mm"
+        ],
+        [
+          "Disk parallelism",
+          "",
+          "－",
+          "0.015mm"
+        ],
+        [
+          "Pad thickness (12\" brake spec car)",
+          "",
+          "8.5mm",
+          "1.6mm"
+        ],
+        [
+          "Pad thickness (13-inch brake spec car)",
+          "",
+          "9.5mm",
+          "1.6mm"
+        ],
+        [
+          "Rear drum brakes",
+          "Gap between drum and lining",
+          "",
+          "Self-adjusting"
+        ],
+        [
+          "Lining thickness",
+          "",
+          "4.5mm",
+          "1.0mm"
+        ],
+        [
+          "Drum I.D.",
+          "",
+          "180.0mm",
+          "181.0mm"
+        ],
+        [
+          "Master Power",
+          "Master Cylinder oil pressure (at negative pressure = 0 kPa (0 mmHg))",
+          "Tread force = 98N (10.0kgf)",
+          "173kPa（1.76kgf/cm 2 ) or more",
+          "－"
+        ],
+        [
+          "At tread force = 294N (30.0kgf)",
+          "2,728kPa（27.82kgf/cm 2 ) or more",
+          "－"
+        ],
+        [
+          "Master Cylinder oil pressure (at negative pressure = 66.7 kPa (500 mmHg))",
+          "Tread force = 98N (10.0kgf)",
+          "4,764kPa（48.58kgf/cm 2 ) or more",
+          "－"
+        ],
+        [
+          "At tread force = 294N (30.0kgf)",
+          "6,297kPa（64.21kgf/cm 2 ) or more",
+          "－"
+        ],
+        [
+          "Brake Fluid",
+          "Specified brake fluid",
+          "",
+          "Genuine Honda Ultra Brake Fluid DOT3 or DOT4"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Part Name",
+          "(data) item",
+          "supplement",
+          "standard value",
+          "limit value"
+        ],
+        [
+          "Air Conditioner System",
+          "Specified lubricating oil",
+          "",
+          "SP-10 (P/N 38897-P13-003, 38898-P13-003, or 38899-P13-J01)"
+        ],
+        [
+          "Amount of lubricating oil",
+          "Capacitor (including receiver tank capacity)",
+          "25mL"
+        ],
+        [
+          "Receiver Tank",
+          "10mL"
+        ],
+        [
+          "evaporator",
+          "35mL"
+        ],
+        [
+          "piping",
+          "10mL each"
+        ],
+        [
+          "In case of refrigerant gas leakage",
+          "25mL"
+        ],
+        [
+          "Designated refrigerant",
+          "",
+          "HFC-134a（R-134a）"
+        ],
+        [
+          "Amount of refrigerant",
+          "",
+          "320±25g"
+        ],
+        [
+          "compressor",
+          "Specified lubricating oil",
+          "",
+          "SP-10 (P/N 38897-P13-003, 38898-P13-003, or 38899-P13-J01)"
+        ],
+        [
+          "Amount of lubricating oil",
+          "",
+          "50 +10 -0 mL"
+        ],
+        [
+          "Clutch resistance",
+          "at 20°C",
+          "3.85-4.15Ω"
+        ],
+        [
+          "Clearance between pulley and flange",
+          "",
+          "0.35-0.65mm"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Part Name",
+          "(data) item",
+          "supplement",
+          "standard value",
+          "limit value"
+        ],
+        [
+          "12V battery",
+          "Capacity/Type",
+          "",
+          "32Ah（5HR）/M-42R"
+        ],
+        [
+          "valve",
+          "Headlights (models without discharge headlights)",
+          "",
+          "12V-55W"
+        ],
+        [
+          "Headlights (for vehicles equipped with dual discharge headlights)",
+          "",
+          "12V-35W"
+        ],
+        [
+          "Headlights (for vehicles equipped with 4-discharge headlights)",
+          "discharge",
+          "12V-35W"
+        ],
+        [
+          "",
+          "halogen",
+          "12V-55W"
+        ],
+        [
+          "Headlights (for vehicles equipped with 2-lamp type halogen headlights)",
+          "",
+          "12V-60/55W"
+        ],
+        [
+          "Front Fog Lights",
+          "",
+          "12V-19W"
+        ],
+        [
+          "Front Position Light",
+          "Vehicles equipped with dual discharge headlights",
+          "LED"
+        ],
+        [
+          "Vehicles equipped with 4-discharge headlights",
+          "12V-5W"
+        ],
+        [
+          "Vehicles equipped with 2-lamp halogen headlights",
+          "12V-5W"
+        ],
+        [
+          "Front turn signal light",
+          "",
+          "12V-21W"
+        ],
+        [
+          "Door mirrors Side turn signal lights",
+          "",
+          "LED"
+        ],
+        [
+          "Side turn signal lights (door mirrors) (vehicles without side turn signal lights)",
+          "",
+          "12V-5W"
+        ],
+        [
+          "Brake light/Tail light",
+          "",
+          "LED"
+        ],
+        [
+          "Rear turn signal light",
+          "",
+          "12V-21W"
+        ],
+        [
+          "Backlight",
+          "",
+          "12V-16W"
+        ],
+        [
+          "License plate light",
+          "",
+          "12V-5W"
+        ],
+        [
+          "High mount stop lamp",
+          "",
+          "LED"
+        ],
+        [
+          "Driver Footlight",
+          "",
+          "LED"
+        ],
+        [
+          "Assistant Foot Light",
+          "",
+          "LED"
+        ],
+        [
+          "Center Tray Light",
+          "",
+          "LED"
+        ],
+        [
+          "Cup Holder Light",
+          "",
+          "LED"
+        ],
+        [
+          "Map Light",
+          "",
+          "12V-8W"
+        ],
+        [
+          "Cargo Area Light",
+          "",
+          "12V-8W"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131120091740/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000331_jpn/web/html/G000331_jpn_Content.html",
+  "inOutline": true
+}

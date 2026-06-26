@@ -1,0 +1,108 @@
+{
+  "id": "R000892",
+  "title": "Blower Power Transistor Inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "Blower Unit",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000892",
+  "assets": [
+    "892_5.0_jpn_11581025_5.0_disp.png",
+    "892_5.0_jpn_11581026_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000783",
+      "label": "Glove box removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Blower Power Transistor Inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Glove box removal",
+      "refs": [
+        {
+          "id": "R000783",
+          "label": "Glove box removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Power Transistor Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "892_5.0_jpn_11581025_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler from the power transistor. Check the resistance between No.1 and No.3 terminals of the power transistor. Std. Approx. 1.5kΩ"
+    },
+    {
+      "type": "figure",
+      "asset": "892_5.0_jpn_11581026_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Unplug terminal No. 4 (green) (A) from the removed coupler and connect the coupler to the power transistor. As shown in the figure, connect the positive (+) terminal of the 12V battery to the No. 4 terminal of the coupler and the negative (-) terminal to the No. 2 terminal. Turn the ignition to the ON mode and check that the blower motor rotates."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not break the claws on the terminals.",
+        "Do not allow the unplugged terminals to come into contact with nearby objects."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do not break the claws on the terminals."
+        },
+        {
+          "text": "Do not break the claws on the terminals."
+        },
+        {
+          "text": "Do not allow the unplugged terminals to come into contact with nearby objects."
+        },
+        {
+          "text": "Do not allow the unplugged terminals to come into contact with nearby objects."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Precautions for installation work"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000892_jpn/web/html/R000892_jpn_Content.html",
+  "inOutline": true
+}

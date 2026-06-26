@@ -1,0 +1,104 @@
+{
+  "id": "T986132",
+  "title": "Engine does not start (power supply is normal)",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986132",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T001393",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Engine does not start (power supply is normal)"
+    },
+    {
+      "type": "paragraph",
+      "text": "diagnostic procedure"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Failure Diagnosis by Symptom ​",
+          "refs": [
+            {
+              "id": "T001393",
+              "label": "Failure Diagnosis by Symptom",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "checklist"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Parking brake switch"
+        },
+        {
+          "text": "Disconnection or short circuit of PARKING BRAKE SW line"
+        },
+        {
+          "text": "Brake switch"
+        },
+        {
+          "text": "Disconnection or short-circuit of STOP SW line"
+        },
+        {
+          "text": "Shift position sensor"
+        },
+        {
+          "text": "Disconnection or short-circuit of ATP-P line"
+        },
+        {
+          "text": "Parking pin switch"
+        },
+        {
+          "text": "P-PIN SW line disconnected or shorted"
+        },
+        {
+          "text": "Disconnection or short-circuit of STS line"
+        },
+        {
+          "text": "ESL SW Disconnection or short-circuit of B line"
+        },
+        {
+          "text": "Disconnection or short-circuit of S-NET line"
+        },
+        {
+          "text": "Disconnection or short-circuit of IG1 MAIN line"
+        },
+        {
+          "text": "MICU"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986132_jpn/web/html/T986132_jpn_Content.html",
+  "inOutline": true
+}

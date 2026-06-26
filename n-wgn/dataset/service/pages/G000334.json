@@ -1,0 +1,150 @@
+{
+  "id": "G000334",
+  "title": "oil-supply diagram",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "NA",
+  "sectionCode": "0",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000334",
+  "assets": [
+    "334_3.0_jpn_11262607_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "oil-supply diagram"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Waste oil from oil or fluid changes, parts cleaning oil, etc. must be disposed of in accordance with laws, regulations, ordinances, etc.",
+        "Refer to the development, disassembly, inspection, and assembly procedures for each component for lubrication, lubrication points, and lubricant names."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "No.",
+          "Lubricating oil point",
+          "Oil and fat name",
+          "remarks"
+        ],
+        [
+          "",
+          "engine",
+          "Cars not equipped with a turbo charger",
+          "Recommended engine oil",
+          "Honda Genuine Oil ULTRA NEXT* (Honda's new fuel-saving oil) ULTRA Green (Honda fuel-saving oil) ULTRA LEO（API SN SAE 0W-20） Or engine oil with the above oil viscosity API SM or SN or higher, or with the API CERTIFICATION mark on the oil can. * : The most fuel-efficient oil",
+          ""
+        ],
+        [
+          "Turbo Charger equipped vehicle",
+          "Recommended engine oil",
+          "Honda Genuine Oil ULTRA LEO* 1 (API SN or higher, SAE 0W-20) ULTRA LTD (API SN or higher, SAE 5W-30) Or engine oil with API SM or SN or higher, or with API CERTIFICATION mark on the oil can. * 1 Oil with the best fuel economy",
+          ""
+        ],
+        [
+          "",
+          "CVT",
+          "Specified Transmission Fluid",
+          "Honda Genuine Ultra HMMF",
+          ""
+        ],
+        [
+          "",
+          "Transfer Fluid",
+          "Designated Transfer Fluid",
+          "Genuine Honda DPSF-II",
+          ""
+        ],
+        [
+          "",
+          "Rear differential",
+          "Designated Rear Differential Fluid",
+          "Genuine Honda Ultra HGO-μ (hypoid gear oil)",
+          ""
+        ],
+        [
+          "",
+          "Brake Line VSA Line",
+          "Specified brake fluid",
+          "Genuine Honda Ultra Brake Fluid DOT3 or DOT4",
+          ""
+        ],
+        [
+          "",
+          "Hood Locks and Hinges",
+          "grease",
+          "Dia Mondo Multi-Purpose Grease",
+          ""
+        ],
+        [
+          "",
+          "Battery Terminal"
+        ],
+        [
+          "",
+          "Fuel filler lid/hinge"
+        ],
+        [
+          "",
+          "Tailgate hinge"
+        ],
+        [
+          "",
+          "Brake pedal joint Pin and yoke section"
+        ],
+        [
+          "",
+          "Caliper Pin",
+          "Pin Grease",
+          "Nigroove RM",
+          ""
+        ],
+        [
+          "",
+          "Rear brake shoe Linkage",
+          "grease",
+          "Cosmo Rubber Grease",
+          ""
+        ],
+        [
+          "",
+          "air conditioner compressor",
+          "Compressor oil",
+          "SP-10 (P/N 38897-P13-003, 38898-P13-003, or 38899-P13-J01)",
+          "For refrigerant HFC-134a (R-134a)"
+        ],
+        [
+          "",
+          "radiator",
+          "Designated coolant",
+          "Genuine Honda Ultra e-Coolant",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Illustration shows a 4WD vehicle"
+    },
+    {
+      "type": "figure",
+      "asset": "334_3.0_jpn_11262607_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000334_jpn/web/html/G000334_jpn_Content.html",
+  "inOutline": true
+}

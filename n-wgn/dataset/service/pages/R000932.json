@@ -1,0 +1,221 @@
+{
+  "id": "R000932",
+  "title": "Inspect door lock actuators",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "door (Western-style)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000932",
+  "assets": [
+    "932_3.0_jpn_11337325_3.0_disp.png",
+    "932_3.0_jpn_11337326_3.0_disp.png",
+    "932_3.0_jpn_11337327_2.0_disp.png",
+    "932_3.0_jpn_11337328_3.0_disp.png",
+    "932_3.0_jpn_11337329_2.0_disp.png",
+    "932_3.0_jpn_11393418_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000720",
+      "label": "Front door lining removal",
+      "resolved": true
+    },
+    {
+      "id": "R000722",
+      "label": "Replace front door latch (C).",
+      "resolved": true
+    },
+    {
+      "id": "R000731",
+      "label": "Rear door lining removal",
+      "resolved": true
+    },
+    {
+      "id": "R000733",
+      "label": "Replace rear door latch (C).",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect door lock actuators"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front door lining removal",
+      "refs": [
+        {
+          "id": "R000720",
+          "label": "Front door lining removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front door lock actuator Check"
+    },
+    {
+      "type": "figure",
+      "asset": "932_3.0_jpn_11337325_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "932_3.0_jpn_11393418_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "932_3.0_jpn_11337326_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "932_3.0_jpn_11337327_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Confirm that the lock knob operates to lock or unlock when battery voltage is applied between each terminal of the coupler (B). If the actuator does not operate, the front door lock actuator is defective, Replace front door latch (C). Connect the coupler.",
+      "refs": [
+        {
+          "id": "R000722",
+          "label": "Replace front door latch (C).",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When applying battery voltage to the actuator, connect the 12V battery (-) momentarily. Prolonged connection will damage the actuator.",
+        "When applying battery voltage, be very careful not to short-circuit the battery."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When applying battery voltage to the actuator, connect the 12V battery (-) momentarily. Prolonged connection will damage the actuator."
+        },
+        {
+          "text": "When applying battery voltage to the actuator, connect the 12V battery (-) momentarily. Prolonged connection will damage the actuator."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When applying battery voltage, be very careful not to short-circuit the battery."
+        },
+        {
+          "text": "When applying battery voltage, be very careful not to short-circuit the battery."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear door lining removal",
+      "refs": [
+        {
+          "id": "R000731",
+          "label": "Rear door lining removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear door lock actuator Check"
+    },
+    {
+      "type": "figure",
+      "asset": "932_3.0_jpn_11337328_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "932_3.0_jpn_11337329_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Confirm that the lock knob operates to lock or unlock when battery voltage is applied between each terminal of the coupler (B). If the actuator does not operate, the rear door lock actuator is defective, Replace rear door latch (C). Connect the coupler.",
+      "refs": [
+        {
+          "id": "R000733",
+          "label": "Replace rear door latch (C).",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When applying battery voltage to the actuator, connect the 12V battery (-) momentarily. Prolonged connection will damage the actuator.",
+        "When applying battery voltage, be very careful not to short-circuit the battery."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When applying battery voltage to the actuator, connect the 12V battery (-) momentarily. Prolonged connection will damage the actuator."
+        },
+        {
+          "text": "When applying battery voltage to the actuator, connect the 12V battery (-) momentarily. Prolonged connection will damage the actuator."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When applying battery voltage, be very careful not to short-circuit the battery."
+        },
+        {
+          "text": "When applying battery voltage, be very careful not to short-circuit the battery."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000932_jpn/web/html/R000932_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,133 @@
+{
+  "id": "R000999",
+  "title": "Inspect power window master switch",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "wind",
+  "system": "Power Window",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000999",
+  "assets": [
+    "999_3.0_jpn_11580842_3.0_disp.png",
+    "999_3.0_jpn_11580843_3.0_disp.png",
+    "999_3.0_jpn_11580844_3.0_disp.png",
+    "999_3.0_jpn_11580845_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "T002877",
+      "label": "Power Window Master Switch Input Inspection",
+      "resolved": true
+    },
+    {
+      "id": "R000720",
+      "label": "Driver Door Power Window Switch Panel Removal",
+      "resolved": true
+    },
+    {
+      "id": "R001005",
+      "label": "Replace power window master switch (B).",
+      "resolved": true
+    },
+    {
+      "id": "R000916",
+      "label": "Power Wind Reset and Learning",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect power window master switch"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the power window master switch is a control unit integrated type, it is not possible to inspect the switch alone. Therefore, the Power Window Master Switch Input Inspection and if all is normal and the driver power window operates abnormally, the power window master switch is defective.",
+      "refs": [
+        {
+          "id": "T002877",
+          "label": "Power Window Master Switch Input Inspection",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Driver Door Power Window Switch Panel Removal",
+      "refs": [
+        {
+          "id": "R000720",
+          "label": "Driver Door Power Window Switch Panel Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Power window master switch Check"
+    },
+    {
+      "type": "figure",
+      "asset": "999_3.0_jpn_11580842_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "999_3.0_jpn_11580843_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "999_3.0_jpn_11580844_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "999_3.0_jpn_11580845_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect the continuity between terminals in each position of the coupler (A) and confirm that there is continuity only between ○ and ○. If there is no continuity, Replace power window master switch (B).",
+      "refs": [
+        {
+          "id": "R001005",
+          "label": "Replace power window master switch (B).",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Power Wind Reset and Learning",
+      "refs": [
+        {
+          "id": "R000916",
+          "label": "Power Wind Reset and Learning",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000999_jpn/web/html/R000999_jpn_Content.html",
+  "inOutline": true
+}

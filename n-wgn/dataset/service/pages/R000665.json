@@ -1,0 +1,236 @@
+{
+  "id": "R000665",
+  "title": "Front Lower Arm Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "suspension",
+  "sectionCode": "B",
+  "subsection": "Front Suspension",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000665",
+  "assets": [
+    "665_3.0_jpn_11035717_3.0_disp.png",
+    "665_3.0_jpn_11035719_3.0_disp.png",
+    "665_3.0_jpn_11364658_2.0_disp.png",
+    "665_3.0_jpn_11389365_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Front wheel removal",
+      "resolved": true
+    },
+    {
+      "id": "R000660",
+      "label": "Disconnect the tie rod end from the knuckle using the special tool.",
+      "resolved": true
+    },
+    {
+      "id": "R000655",
+      "label": "Wheel alignment Inspection and adjustment",
+      "resolved": true
+    },
+    {
+      "id": "R000714",
+      "label": "VSA sensor Midpoint write",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front Lower Arm Removal and Installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Tie rod end disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "665_3.0_jpn_11364658_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the split pin (B) from the ball joint connection of the tie rod end (A) and remove the nut (C). When installing, replace the split pin with a new one and bend it as shown in the figure. Disconnect the tie rod end from the knuckle using the special tool.",
+      "refs": [
+        {
+          "id": "R000660",
+          "label": "Disconnect the tie rod end from the knuckle using the special tool.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Stabilizer linkage disconnection (for vehicles equipped with stabilizer)"
+    },
+    {
+      "type": "figure",
+      "asset": "665_3.0_jpn_11035717_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the damper (A) from the stabilizer link (B)."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Hold the joint pin (C) with the hex wrench (D) and loosen the flange nut (E)."
+        },
+        {
+          "text": "Hold the joint pin (C) with the hex wrench (D) and loosen the flange nut (E)."
+        },
+        {
+          "text": "When installing, replace the flange nut with a new one."
+        },
+        {
+          "text": "When installing, replace the flange nut with a new one."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Ball Joint Disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "665_3.0_jpn_11389365_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the clip (B) from the ball joint connection on the lower arm (A) and remove the grooved nut (C). At the time of installation, replace the grooved nut with a new one. Install the special tool and disconnect the knuckle from the lower arm. To remove the left side ball joint, rotate the knuckle to the right, and to remove the right side ball joint, rotate the knuckle to the left and install the special tool from the rear.",
+      "refs": [
+        {
+          "id": "R000660",
+          "label": "Install the special tool and disconnect the knuckle from the lower arm.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Lower arm removal"
+    },
+    {
+      "type": "figure",
+      "asset": "665_3.0_jpn_11035719_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the lower arm mounting bolts, and remove the lower arm (A) from the subframe. When installing, replace the lower arm mounting bolts with new ones."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Pay attention to the following items and install in the reverse order of removal."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For tightening the bushings, tighten the bushings to the specified torque with the vehicle weight applied after mounting the bushings in a temporarily tightened condition. Do not apply a jack to the ball joint of the lower arm."
+        },
+        {
+          "text": "For tightening the bushings, tighten the bushings to the specified torque with the vehicle weight applied after mounting the bushings in a temporarily tightened condition. Do not apply a jack to the ball joint of the lower arm."
+        },
+        {
+          "text": "Ball joint boots must be checked for dents or other deformities, and if deformed, they must be corrected before installation. If the boots are installed with deformation, they may be damaged."
+        },
+        {
+          "text": "Ball joint boots must be checked for dents or other deformities, and if deformed, they must be corrected before installation. If the boots are installed with deformation, they may be damaged."
+        },
+        {
+          "text": "Ball joint connections (ball pin taper, thread, nut seat) shall be degreased, cleaned, and free of grease."
+        },
+        {
+          "text": "Ball joint connections (ball pin taper, thread, nut seat) shall be degreased, cleaned, and free of grease."
+        },
+        {
+          "text": "When tightening the grooved nut, first tighten at the lower torque limit, and then tighten until the grooved nut and joint pin holes align. Do not back-tighten in the loosening direction."
+        },
+        {
+          "text": "When tightening the grooved nut, first tighten at the lower torque limit, and then tighten until the grooved nut and joint pin holes align. Do not back-tighten in the loosening direction."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Wheel alignment Inspection and adjustment",
+      "refs": [
+        {
+          "id": "R000655",
+          "label": "Wheel alignment Inspection and adjustment",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. VSA sensor Midpoint write",
+      "refs": [
+        {
+          "id": "R000714",
+          "label": "VSA sensor Midpoint write",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000665_jpn/web/html/R000665_jpn_Content.html",
+  "inOutline": true
+}

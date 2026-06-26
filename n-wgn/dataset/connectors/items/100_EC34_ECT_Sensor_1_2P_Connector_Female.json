@@ -1,0 +1,65 @@
+{
+  "id": "100_EC34_ECT_Sensor_1_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC34",
+  "physicalIds": [
+    "EC34"
+  ],
+  "name": "ECT Sensor 1 2P Connector (Female)",
+  "nameRu": "Разъём ECT датчик 1, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91702-R40 -0030-H1",
+  "partNumbers": [
+    "91702-R40 -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Fans",
+    "PCM (All)",
+    "PGM-FI System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91702-R40 -0030-H1.svg",
+    "viewBox": "0 0 48.207 27.554",
+    "width": 48.207,
+    "height": 27.554
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "TW",
+      "english": "TW",
+      "russian": "TW",
+      "terminal": "E90A",
+      "geometry": {
+        "x": 11.422,
+        "y": 20.405,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "SO2TSG",
+      "english": "SO2TSG",
+      "russian": "SO2TSG",
+      "terminal": "Z27B002",
+      "geometry": {
+        "x": 32.074,
+        "y": 20.405,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

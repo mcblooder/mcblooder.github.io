@@ -1,0 +1,123 @@
+{
+  "id": "A002194",
+  "title": "DTC Explanation: P15C7",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A002194",
+  "assets": [
+    "2194_3.0_jpn_11240538_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P15C7"
+    },
+    {
+      "type": "dtc",
+      "code": "",
+      "text": "DTC P15C7: Master Power negative pressure sensor A characteristic abnormal (Hi side)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "2194_3.0_jpn_11240538_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI ECU calculates the negative pressure in the master power based on the output voltage of the master power negative pressure sensor and determines whether idling stop is permitted. The master power negative pressure sensor value atmospheric side deviation characteristic error is counted as one count when the master power negative pressure sensor value remains below a predetermined value for a predetermined period of time under conditions where negative pressure is supplied stably and there is a history of vehicle stops, and when the count reaches the predetermined number of times, the PGM-FI ECU judges a failure and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*: Idling stop system warning light (orange) illuminates D/C: Drive Cycle"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "[ ]: HDS Parameters"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "Master Power The difference between the negative pressure sensor value and atmospheric pressure is -6kPa (-44mmHg) or more, and if it continues for 2.1 seconds, it is counted as 1 count, and if the condition continues for 5 counts."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Check Valve leakage, blockage"
+        },
+        {
+          "text": "Master Power Vacuum Hose leaking or blocked"
+        },
+        {
+          "text": "Master Power Leakage"
+        },
+        {
+          "text": "Master Power negative pressure sensor failure"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to be faulty, the idling stop system warning light (orange) will illuminate without the brake warning light (orange) and the temporary DTC, DTC and freeze data will be stored in the PGM-FI ECU memory."
+    },
+    {
+      "type": "paragraph",
+      "text": "If no vehicle malfunction is detected in the next ignition ON mode, the Idle Stop System warning light (orange) will turn off. The temporary DTCs, DTCs and freeze data are cleared by using the clear command of the scan tool (including HDS) or by disconnecting the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A002194_jpn/web/html/A002194_jpn_Content.html",
+  "inOutline": true
+}

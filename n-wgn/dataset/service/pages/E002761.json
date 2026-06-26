@@ -1,0 +1,40 @@
+{
+  "id": "E002761",
+  "title": "Interior Light Schematic",
+  "category": "service",
+  "packageKind": "EWD",
+  "packageKindName": "Electrical Wiring (manual)",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Interior Lights",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/E002761",
+  "assets": [
+    "2761_6.0_jpn_11673884_5.0_disp.png",
+    "2761_6.0_jpn_11678062_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Interior Light Schematic"
+    },
+    {
+      "type": "figure",
+      "asset": "2761_6.0_jpn_11673884_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2761_6.0_jpn_11678062_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_EWD_20131205174154/Contents/jpn/60T6GD00_2014/EWD/SCT/SC/SYS/E002761_jpn/web/html/E002761_jpn_Content.html",
+  "inOutline": true
+}

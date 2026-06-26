@@ -1,0 +1,26 @@
+{
+  "id": "aux_under_hood",
+  "category": "electrical_diagram",
+  "title": "Aux Under Hood",
+  "system": "aux_under_hood",
+  "sheetCount": 4,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/aux_under_hood/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/aux_under_hood/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/aux_under_hood/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/aux_under_hood/sheet4.svg"
+    }
+  ],
+  "components": {}
+}

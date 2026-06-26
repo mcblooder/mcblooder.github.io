@@ -1,0 +1,115 @@
+{
+  "id": "R000810",
+  "title": "Rear seat belt buckle removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Seat Belt",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000810",
+  "assets": [
+    "810_3.0_jpn_11370760_3.0_disp.png",
+    "810_3.0_jpn_11370761_3.0_disp.png",
+    "810_3.0_jpn_11390235_2.0_disp.png",
+    "810_3.0_jpn_11390236_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000799",
+      "label": "Rear seat removal",
+      "resolved": true
+    },
+    {
+      "id": "R002176",
+      "label": "Remove rear seat cushion trim cover/pad",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear seat belt buckle removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear seat removal",
+      "refs": [
+        {
+          "id": "R000799",
+          "label": "Rear seat removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Remove rear seat cushion trim cover/pad",
+      "refs": [
+        {
+          "id": "R002176",
+          "label": "Remove rear seat cushion trim cover/pad",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Rear seat belt buckle removal"
+    },
+    {
+      "type": "figure",
+      "asset": "810_3.0_jpn_11370760_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the rear seat center pivot cover A (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "810_3.0_jpn_11390235_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Disconnect the harness clip (A) and coupler (B), and remove the rear seat belt buckle (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "810_3.0_jpn_11390236_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the harness clip (A) and coupler clip (B) and remove the rear seat belt buckle (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "figure",
+      "asset": "810_3.0_jpn_11370761_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure. If the anchor bolts are disassembled, assemble them in the order shown in the figure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000810_jpn/web/html/R000810_jpn_Content.html",
+  "inOutline": true
+}

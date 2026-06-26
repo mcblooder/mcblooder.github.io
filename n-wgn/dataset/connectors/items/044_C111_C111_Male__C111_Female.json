@@ -1,0 +1,174 @@
+{
+  "id": "044_C111_C111_Male__C111_Female",
+  "category": "connector",
+  "connectorRef": "C111",
+  "physicalIds": [
+    "C111"
+  ],
+  "name": "C111 (Male) / C111 (Female)",
+  "nameRu": "Разъём C111, штыревая часть / Разъём C111, гнездовая часть",
+  "type": "MiddleCoupler",
+  "pinCount": 8,
+  "populatedPinCount": 6,
+  "faceviewPart": "91756-T2AA-0030-H1_91755-T2AA-0030-H1",
+  "partNumbers": [
+    "91755-T2AA-0030-H1",
+    "91756-T2AA-0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-",
+    "32155-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Roof",
+    "Dashboard > Dashboard Main (Right Side)"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "Audio System",
+    "Auto Idle Stop System",
+    "Brake Lights",
+    "Charging System",
+    "City-Brake Active System",
+    "Climate Control",
+    "Cruise Control",
+    "CVT Control System",
+    "DLC",
+    "Energy Management System",
+    "EPS",
+    "F-CAN Communication Line",
+    "Fog Lights",
+    "Gauges",
+    "Headlights",
+    "Idle Control System",
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "MIL Circuit",
+    "PCM (All)",
+    "Power, Grounds and Diagnostics",
+    "SRS",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91756-T2AA-0030-H1_91755-T2AA-0030-H1.svg",
+    "viewBox": "0 0 114 173.933",
+    "width": 114.0,
+    "height": 173.933
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "F-CAN_H",
+      "english": "F-CAN high line",
+      "russian": "Высокая линия F-CAN",
+      "terminal": "X70A",
+      "geometry": {
+        "x": 22.446,
+        "y": 142.393,
+        "svgTextId": "XMLID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "RED",
+      "circuit": "F-CAN_L",
+      "english": "F-CAN low line",
+      "russian": "Низкая линия F-CAN",
+      "terminal": "X80B",
+      "geometry": {
+        "x": 45.443,
+        "y": 142.393,
+        "svgTextId": "XMLID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "RR_SBR_IND",
+      "english": "rear/right, SBR, IND",
+      "russian": "задний/правый, SBR, IND",
+      "terminal": "S34C",
+      "geometry": {
+        "x": 68.44,
+        "y": 142.393,
+        "svgTextId": "XMLID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "RL_SBR_IND",
+      "english": "rear left, SBR, IND",
+      "russian": "задний левый, SBR, IND",
+      "terminal": "S36D",
+      "geometry": {
+        "x": 91.438,
+        "y": 142.393,
+        "svgTextId": "XMLID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "IG1_VSA/ABS",
+      "english": "ignition IG1, VSA / ABS",
+      "russian": "зажигание IG1, VSA / ABS",
+      "terminal": "G17A / G17E",
+      "geometry": {
+        "x": 22.446,
+        "y": 165.39,
+        "svgTextId": "XMLID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "IG1_METER(BST)",
+      "english": "ignition IG1, METER, BST",
+      "russian": "зажигание IG1, METER, BST",
+      "terminal": "G35A / G35F",
+      "geometry": {
+        "x": 45.443,
+        "y": 165.39,
+        "svgTextId": "XMLID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 68.44,
+        "y": 165.39,
+        "svgTextId": "XMLID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 91.438,
+        "y": 165.39,
+        "svgTextId": "XMLID_8_"
+      }
+    }
+  ]
+}

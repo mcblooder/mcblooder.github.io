@@ -1,0 +1,126 @@
+{
+  "id": "A002144",
+  "title": "DTC Explanation: P0406",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A002144",
+  "assets": [
+    "2144_3.0_jpn_11231332_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0406"
+    },
+    {
+      "type": "dtc",
+      "code": "P0406",
+      "text": "DTC P0406: EGR valve lift sensor failure"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "2144_3.0_jpn_11231332_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "An exhaust gas recirculation system (EGR system) is a system that reduces NOx levels. NOx is produced during high-temperature combustion, and the EGR system recirculates exhaust gas and mixes it with intake air to lower the maximum combustion temperature and reduce NOx levels. The PGM-FI ECU controls the lift of the EGR valve according to the operating conditions and adjusts the amount of exhaust gas reduction to be optimal. The EGR valve lift sensor sends the EGR valve lift to the PGM-FI ECU for feedback control. If the EGR valve lift sensor output voltage remains above a predetermined value for a predetermined period of time, the PGM-FI ECU judges a failure and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "D/C: Drive Cycle"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "condition entry",
+          ""
+        ],
+        [
+          "Engine condition",
+          "in use"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "EGR valve lift sensor output voltage [EGR lift sensor] remains at 4.89V or higher for 2 seconds or longer."
+    },
+    {
+      "type": "paragraph",
+      "text": "[ ]: HDS Parameters"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Short circuit in code (EGRL line and VCC line) between PGM-FI ECU and EGR valve lift sensor"
+        },
+        {
+          "text": "EGR valve lift sensor failure"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the PGM-FI warning light comes on and the DTC and freeze data are stored."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A002144_jpn/web/html/A002144_jpn_Content.html",
+  "inOutline": true
+}

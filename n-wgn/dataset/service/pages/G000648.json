@@ -1,0 +1,92 @@
+{
+  "id": "G000648",
+  "title": "EPS Control Unit Pin Assignment",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "Electric Power Steering (EPS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000648",
+  "assets": [
+    "648_3.0_jpn_11581935_3.0_disp.png",
+    "648_3.0_jpn_11581936_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "EPS Control Unit Pin Assignment"
+    },
+    {
+      "type": "figure",
+      "asset": "648_3.0_jpn_11581935_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "port (e.g. LAN port) No.",
+          "Wiring color",
+          "Terminal Symbols",
+          "Contents"
+        ],
+        [
+          "1",
+          "black",
+          "GND",
+          "EPS control unit grounding"
+        ],
+        [
+          "2",
+          "green",
+          "＋B EPS",
+          "Motor drive power supply"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "648_3.0_jpn_11581936_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "port (e.g. LAN port) No.",
+          "Wiring color",
+          "Terminal Symbols",
+          "Contents"
+        ],
+        [
+          "2",
+          "white",
+          "F-CAN_H",
+          "Transmission and reception of F-CAN communication signals"
+        ],
+        [
+          "7",
+          "red",
+          "F-CAN_L",
+          "Transmission and reception of F-CAN communication signals"
+        ],
+        [
+          "10",
+          "weak matcha",
+          "IG1 VSA/ABS",
+          "Power Switch Power Supply"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131120091740/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000648_jpn/web/html/G000648_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,60 @@
+{
+  "id": "G000324",
+  "title": "Jack-up point",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "NA",
+  "sectionCode": "0",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000324",
+  "assets": [
+    "324_3.0_jpn_11263075_2.0_disp.png",
+    "324_3.0_jpn_11263077_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Jack-up point"
+    },
+    {
+      "type": "figure",
+      "asset": "324_3.0_jpn_11263075_2.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Always use a rigid rack after jacking up. It is dangerous to work only with a jack, even for short periods of time.",
+        "When jacking up the front wheels, the wheels shall be fastened on the rear side of the rear wheels, and when jacking up the rear wheels, the wheels shall be fastened on the front side of the front wheels.",
+        "When jacked up, the grounded wheel shall be secured on both the front and rear sides of the wheel.",
+        "Do not get under the vehicle while it is jacked up."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "With the front wheels on the ground, the lift platform of the garage jack cannot reach the jack-up point.",
+        "When jacking up, the operating lever of the garage jack may come in contact with the bumper, so a cloth or rag should be applied to the lever to prevent damage to the bumper."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The front jack up point is located on the subframe behind the engine under cover. When jacking up the vehicle using a garage jack, raise the front wheels on a ramp or the like to raise the vehicle body by 70 mm, and then apply the garage jack to the jack-up point."
+    },
+    {
+      "type": "figure",
+      "asset": "324_3.0_jpn_11263077_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000324_jpn/web/html/G000324_jpn_Content.html",
+  "inOutline": true
+}

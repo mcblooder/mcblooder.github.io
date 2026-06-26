@@ -1,0 +1,339 @@
+{
+  "id": "R000478",
+  "title": "Inspect fuel breather lines/suction lines",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Fuel supply equipment",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000478",
+  "assets": [
+    "478_5.0_jpn_11582573_5.0_disp.png",
+    "478_5.0_jpn_11582574_5.0_disp.png",
+    "478_5.0_jpn_11582575_5.0_disp.png",
+    "478_5.0_jpn_11582576_5.0_disp.png",
+    "478_5.0_jpn_11582577_5.0_disp.png",
+    "478_5.0_jpn_11582578_5.0_disp.png",
+    "478_5.0_jpn_11582579_5.0_disp.png",
+    "478_5.0_jpn_11582580_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000792",
+      "label": "Remove the passenger side front seat.",
+      "resolved": true
+    },
+    {
+      "id": "R000486",
+      "label": "Replace the fuel filter.",
+      "resolved": true
+    },
+    {
+      "id": "G000319",
+      "label": "Lift Up",
+      "resolved": true
+    },
+    {
+      "id": "R000489",
+      "label": "Replace the fuel tank.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect fuel breather lines/suction lines"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Fire is strictly prohibited."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Passenger side front seat removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode. Remove the passenger side front seat.",
+      "refs": [
+        {
+          "id": "R000792",
+          "label": "Remove the passenger side front seat.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Maintenance Lid removal"
+    },
+    {
+      "type": "figure",
+      "asset": "478_5.0_jpn_11582573_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Fuel filter inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "478_5.0_jpn_11582574_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the suction tube (A) from the fuel pump and install the hand vacuum pump (B)."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If negative pressure is present, proceed to the next step \"Suction Line Inspection 1\"."
+        },
+        {
+          "text": "If negative pressure is present, proceed to the next step \"Suction Line Inspection 1\"."
+        },
+        {
+          "text": "If there is no negative pressure, Replace the fuel filter.",
+          "refs": [
+            {
+              "id": "R000486",
+              "label": "Replace the fuel filter.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If there is no negative pressure, Replace the fuel filter.",
+          "refs": [
+            {
+              "id": "R000486",
+              "label": "Replace the fuel filter.",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Suction line Inspection 1"
+    },
+    {
+      "type": "figure",
+      "asset": "478_5.0_jpn_11582575_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode. Attach the hand vacuum pump (A) to the suction tube (B) and apply negative pressure. Check to see if negative pressure is maintained."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "If negative pressure is retained, inspect the following areas"
+        },
+        {
+          "text": "If negative pressure is retained, inspect the following areas"
+        },
+        {
+          "text": "Clogged suction line"
+        },
+        {
+          "text": "Clogged suction line"
+        },
+        {
+          "text": "Clogged suction line"
+        },
+        {
+          "text": "Suction joint (3-way joint)"
+        },
+        {
+          "text": "Suction joint (3-way joint)"
+        },
+        {
+          "text": "If negative pressure does not hold, proceed to the next step, \"Lift Up\"."
+        },
+        {
+          "text": "If negative pressure does not hold, proceed to the next step, \"Lift Up\"."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Lift Up",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Up",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Breather line Inspection 1"
+    },
+    {
+      "type": "figure",
+      "asset": "478_5.0_jpn_11582576_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the breather tube (B) on the filler neck side from the suction joint (3-way joint) (A), and attach a rubber plug (C) or similar device to the suction joint (3-way joint)."
+    },
+    {
+      "type": "figure",
+      "asset": "478_5.0_jpn_11582577_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Apply negative pressure to the suction tube (B) with the hand vacuum pump (A)."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If negative pressure persists, check for a blocked breather line between the suction joint (3-way joint) and the fuel tank breather valve. Replace the fuel tank.",
+          "refs": [
+            {
+              "id": "R000489",
+              "label": "Replace the fuel tank.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If negative pressure persists, check for a blocked breather line between the suction joint (3-way joint) and the fuel tank breather valve. Replace the fuel tank.",
+          "refs": [
+            {
+              "id": "R000489",
+              "label": "Replace the fuel tank.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If negative pressure does not hold, proceed to the next step, Breather Line Inspection 2."
+        },
+        {
+          "text": "If negative pressure does not hold, proceed to the next step, Breather Line Inspection 2."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Breather line Inspection 2"
+    },
+    {
+      "type": "figure",
+      "asset": "478_5.0_jpn_11582578_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Lift up the vehicle. Attach a hand vacuum pump (B) to the breather tube (A) on the filler neck side to provide negative pressure. Check to see if negative pressure is maintained."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If negative pressure persists, check for a clogged breather line from the suction joint (3-way joint) to the filler neck."
+        },
+        {
+          "text": "If negative pressure persists, check for a clogged breather line from the suction joint (3-way joint) to the filler neck."
+        },
+        {
+          "text": "If negative pressure does not hold, proceed to the next step \"Suction line inspection 2\"."
+        },
+        {
+          "text": "If negative pressure does not hold, proceed to the next step \"Suction line inspection 2\"."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Suction line Inspection 2"
+    },
+    {
+      "type": "figure",
+      "asset": "478_5.0_jpn_11582579_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the rubber plug (B), etc. from the suction joint (3-way joint) (A) and reconnect the breather tube (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "478_5.0_jpn_11582580_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Attach the pressurized side of the hand vacuum pump (A) to the suction tube (B) and check that it pressurizes and holds pressure."
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Breather line and suction line normal if pressure holds."
+        },
+        {
+          "text": "Breather line and suction line normal if pressure holds."
+        },
+        {
+          "text": "If pressure does not hold, inspect the following areas"
+        },
+        {
+          "text": "If pressure does not hold, inspect the following areas"
+        },
+        {
+          "text": "Torn suction tube"
+        },
+        {
+          "text": "Torn suction tube"
+        },
+        {
+          "text": "Torn suction tube"
+        },
+        {
+          "text": "Suction joint (3-way joint)"
+        },
+        {
+          "text": "Suction joint (3-way joint)"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000478_jpn/web/html/R000478_jpn_Content.html",
+  "inOutline": true
+}

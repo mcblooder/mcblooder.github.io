@@ -1,0 +1,234 @@
+{
+  "id": "184_DH04_Left_Power_Mirror_14P_Connector_Male",
+  "category": "connector",
+  "connectorRef": "DH04",
+  "physicalIds": [
+    "DH04"
+  ],
+  "name": "Left Power Mirror 14P Connector (Male)",
+  "nameRu": "Разъём левый Power Mirror, 14 контактов, штыревая часть",
+  "type": "DirectCoupler",
+  "pinCount": 14,
+  "populatedPinCount": 11,
+  "faceviewPart": "91792-T2AA-0030-H1",
+  "partNumbers": [
+    "91792-T2AA-0030-H1"
+  ],
+  "harnesses": [
+    "32752-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Door > Front Passenger's Door"
+  ],
+  "systems": [
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Power Mirrors",
+    "Rear Window/Power Mirror Defoggers"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91792-T2AA-0030-H1.svg",
+    "viewBox": "0 0 182.645 77.303",
+    "width": 182.645,
+    "height": 77.303
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 157.894,
+        "y": 34.783,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 134.928,
+        "y": 34.783,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 112.06,
+        "y": 34.783,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "L_TURN",
+      "english": "left, turn signal",
+      "russian": "левый, указатель поворота",
+      "terminal": "17D",
+      "geometry": {
+        "x": 89.386,
+        "y": 34.783,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "RETRA_OPEN",
+      "english": "retract, open",
+      "russian": "складывание, открытие",
+      "terminal": "611E",
+      "geometry": {
+        "x": 66.557,
+        "y": 34.783,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "H/MIRROR",
+      "english": "H / MIRROR",
+      "russian": "H / MIRROR",
+      "terminal": "635F",
+      "geometry": {
+        "x": 43.639,
+        "y": 34.783,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "EXT_FR_AS-",
+      "english": "EXT, front, AS -",
+      "russian": "EXT, передний, AS -",
+      "terminal": "911G",
+      "geometry": {
+        "x": 20.786,
+        "y": 34.783,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "MIRROR_UD",
+      "english": "mirror, up/down",
+      "russian": "зеркало, вверх/вниз",
+      "terminal": "604H",
+      "geometry": {
+        "x": 157.894,
+        "y": 57.518,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "MIRROR_L_COM",
+      "english": "mirror, left, common",
+      "russian": "зеркало, левый, общий",
+      "terminal": "601J",
+      "geometry": {
+        "x": 134.928,
+        "y": 57.518,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "MIRROR_L_LR",
+      "english": "mirror, left, LR",
+      "russian": "зеркало, левый, LR",
+      "terminal": "603K",
+      "geometry": {
+        "x": 109.835,
+        "y": 57.518,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-2)",
+      "english": "Ground (CTR-2)",
+      "russian": "Масса (CTR-2)",
+      "terminal": "Z38L",
+      "geometry": {
+        "x": 87.165,
+        "y": 57.518,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "RETRA_CLOSE",
+      "english": "retract, close",
+      "russian": "складывание, закрытие",
+      "terminal": "612M",
+      "geometry": {
+        "x": 64.496,
+        "y": 57.518,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-2)",
+      "english": "Ground (CTR-2)",
+      "russian": "Масса (CTR-2)",
+      "terminal": "Z38N",
+      "geometry": {
+        "x": 41.528,
+        "y": 57.518,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "RED",
+      "circuit": "EXT_FR_AS+",
+      "english": "EXT, front, AS +",
+      "russian": "EXT, передний, AS +",
+      "terminal": "910P",
+      "geometry": {
+        "x": 18.561,
+        "y": 57.518,
+        "svgTextId": "SVGID_14_"
+      }
+    }
+  ]
+}

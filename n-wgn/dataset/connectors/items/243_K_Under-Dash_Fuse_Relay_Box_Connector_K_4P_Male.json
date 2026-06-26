@@ -1,0 +1,58 @@
+{
+  "id": "243_K_Under-Dash_Fuse_Relay_Box_Connector_K_4P_Male",
+  "category": "connector",
+  "connectorRef": "K",
+  "physicalIds": [
+    "K"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector K (4P) (Male)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector K (4P), штыревая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "DM",
+  "partNumbers": [],
+  "harnesses": [
+    "38200-T6G_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [],
+  "faceview": {
+    "asset": "assets/faceview/DM.svg",
+    "viewBox": "0 0 82.374 22.471",
+    "width": 82.374,
+    "height": 22.471
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z30A",
+      "geometry": null
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "INTR_LIGHT-",
+      "english": "INTR, LIGHT -",
+      "russian": "INTR, LIGHT -",
+      "terminal": "200B",
+      "geometry": null
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_BACK_UP_BST",
+      "english": "Constant battery power: back-up, up, BST",
+      "russian": "Постоянное питание от АКБ: резервный, вверх, BST",
+      "terminal": "B79C",
+      "geometry": null
+    }
+  ]
+}

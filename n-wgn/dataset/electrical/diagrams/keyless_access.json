@@ -1,0 +1,113 @@
+{
+  "id": "keyless_access",
+  "category": "electrical_diagram",
+  "title": "Keyless Access System",
+  "system": "keyless_access",
+  "sheetCount": 6,
+  "sheets": [
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/keyless_access/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/keyless_access/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/keyless_access/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/keyless_access/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/keyless_access/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/keyless_access/sheet7.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Answer Back Buzzer",
+      "Driver's Door Touch Sensor",
+      "Electric Steering Lock",
+      "Engine Start/Stop Switch",
+      "Front Interior LF Antenna",
+      "Front Passenger's Door Touch Sensor",
+      "Gauge Control Module",
+      "IG1 Relay 1",
+      "Left Power Mirror",
+      "Parking Brake Switch",
+      "Rear Bumper LF Antenna",
+      "Rear Interior LF Antenna",
+      "Right Power Mirror",
+      "Tailgate Lock/ Unlock Switch"
+    ],
+    "Couplers": [
+      "Answer Back Buzzer 3P Connector (Female)",
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "C003 (Female)",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C117 (Male)|C117 (Female)",
+      "C118 (Male)|C118 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "C121 (Male)|C121 (Female)",
+      "Data Link Connector (DLC) (Female)",
+      "Driver's Door Touch Sensor 2P Connector (Male)",
+      "Electric Steering Lock 12P Connector (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Front Interior LF Antenna 2P Connector (Female)",
+      "Front Passenger's Door Touch Sensor 2P Connector (Male)",
+      "Gauge Control Module 32P Connector (Female)",
+      "Left Power Mirror 14P Connector (Male)",
+      "Parking Brake Switch 1P Connector",
+      "Rear Bumper LF Antenna 2P Connector (Female)",
+      "Rear Interior LF Antenna 2P Connector (Female)",
+      "Right Power Mirror 14P Connector (Male)",
+      "T1",
+      "Tailgate Lock/ Unlock Switch 2P Connector (Female)",
+      "Under-Dash Fuse/Relay Box Connector F (18P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector H (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector U (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_DC/DC_1",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "07_IG1_RELAY_1",
+      "IG1_METER(P/S)"
+    ],
+    "Grounds": [
+      "G401",
+      "G402",
+      "G403",
+      "G503"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "BQ Roof Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "DH Front Passenger's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "LB High Mount Brake Light Subharness",
+      "TH Tailgate Wire Harness"
+    ]
+  }
+}

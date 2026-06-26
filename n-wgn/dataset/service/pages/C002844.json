@@ -1,0 +1,44 @@
+{
+  "id": "C002844",
+  "title": "Air Conditioner Structure Description - Condenser",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "A/C Capacitor",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002844",
+  "assets": [
+    "2844_3.0_jpn_11287662_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Air Conditioner Structure Description - Condenser"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Subcooled Cycle Capacitor System"
+    },
+    {
+      "type": "paragraph",
+      "text": "The condenser and receiver tank are integrated into a single unit. The vaporized refrigerant is cooled by the main condenser, the cooled vaporized refrigerant is converted to liquid refrigerant, and separated into gas and liquid in the receiver tank. In the tank, desiccants are used to remove water from the system, and a filter removes debris. The liquid refrigerant is then cooled in a sub-condenser to achieve high efficiency in cooling performance."
+    },
+    {
+      "type": "figure",
+      "asset": "2844_3.0_jpn_11287662_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002844_jpn/web/html/C002844_jpn_Content.html",
+  "inOutline": true
+}

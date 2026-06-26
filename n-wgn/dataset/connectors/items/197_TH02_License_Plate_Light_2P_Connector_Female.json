@@ -1,0 +1,62 @@
+{
+  "id": "197_TH02_License_Plate_Light_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "TH02",
+  "physicalIds": [
+    "TH02"
+  ],
+  "name": "License Plate Light 2P Connector (Female)",
+  "nameRu": "Разъём License Plate Light, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "98630-00002-00",
+  "partNumbers": [
+    "98630-00002-00"
+  ],
+  "harnesses": [
+    "32109-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Tailgate"
+  ],
+  "systems": [
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/98630-00002-00.svg",
+    "viewBox": "0 0 68.658 43.176",
+    "width": 68.658,
+    "height": 43.176
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(RR-R)",
+      "english": "Ground (RR-R)",
+      "russian": "Масса (RR-R)",
+      "terminal": "Z90A000",
+      "geometry": {
+        "x": 17.825,
+        "y": 25.901,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11B",
+      "geometry": {
+        "x": 46.138,
+        "y": 25.901,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "id": "T986160",
+  "title": "Engine RPM hunting.",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM hydraulic system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986160",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R000542",
+      "label": "Transmission Fluid Level Inspection",
+      "resolved": true
+    },
+    {
+      "id": "R000576",
+      "label": "Transmission Fluid Strainer Inspection",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Engine RPM hunting."
+    },
+    {
+      "type": "paragraph",
+      "text": "checklist"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Transmission Fluid Level Inspection",
+          "refs": [
+            {
+              "id": "R000542",
+              "label": "Transmission Fluid Level Inspection",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Transmission Fluid Strainer Inspection",
+          "refs": [
+            {
+              "id": "R000576",
+              "label": "Transmission Fluid Strainer Inspection",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Inspection of main valve body assy."
+        },
+        {
+          "text": "Torque converter Turbine Speed sensor inspection"
+        },
+        {
+          "text": "Inspect drive pulley speed sensor"
+        },
+        {
+          "text": "Inspect oil pump drive chain sprocket"
+        },
+        {
+          "text": "Inspect solenoid harness"
+        },
+        {
+          "text": "Forward Clutch Assy. inspection"
+        },
+        {
+          "text": "Reverse Clutch Assy. inspection"
+        },
+        {
+          "text": "Inspect oil pump assy."
+        },
+        {
+          "text": "Transmission Inspect the pulleys and pulley belts in the case."
+        },
+        {
+          "text": "Inspect pulley pressure feed pipe"
+        },
+        {
+          "text": "Feed Pipe Inspection"
+        },
+        {
+          "text": "Inspect stator shaft"
+        },
+        {
+          "text": "Inspection of torque converter assy."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "probable cause"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Insufficient transmission fluid"
+        },
+        {
+          "text": "Transmission fluid deterioration"
+        },
+        {
+          "text": "Transmission fluid strainer clogged"
+        },
+        {
+          "text": "Main valve body assembly. defective"
+        },
+        {
+          "text": "Torque converter Turbine speed sensor failure"
+        },
+        {
+          "text": "Drive pulley speed sensor failure"
+        },
+        {
+          "text": "Oil pump Drive chain broken, sprocket broken"
+        },
+        {
+          "text": "Oil pump drive sprocket Sealing failure"
+        },
+        {
+          "text": "Solenoid Harness failure"
+        },
+        {
+          "text": "Forward clutch assembly. defective"
+        },
+        {
+          "text": "Reverse clutch assembly. defective"
+        },
+        {
+          "text": "Defective oil pump assembly."
+        },
+        {
+          "text": "Defective pulley-related parts"
+        },
+        {
+          "text": "Pulley pressure feed Pipe damaged, O-ring defective"
+        },
+        {
+          "text": "Pulley pressure feed Pipe seal ring defective"
+        },
+        {
+          "text": "Feed Pipe damaged, O-ring defective"
+        },
+        {
+          "text": "Stator shaft damage"
+        },
+        {
+          "text": "Torque converter assy. defective"
+        },
+        {
+          "text": "PGM-FI ECU failure"
+        },
+        {
+          "text": "Transmission assembly and drive plate installation failure"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986160_jpn/web/html/T986160_jpn_Content.html",
+  "inOutline": true
+}

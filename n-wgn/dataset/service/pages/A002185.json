@@ -1,0 +1,916 @@
+{
+  "id": "A002185",
+  "title": "DTC Explanation: SRS Airbags",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "SRS Unit",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A002185",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: SRS Airbags"
+    },
+    {
+      "type": "dtc",
+      "code": "",
+      "text": "SRS airbag system"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When performing diagnostics, be sure to check the \"Troubleshooting Procedure\" and follow the troubleshooting procedure."
+        },
+        {
+          "text": "Be sure to use a fully charged 12V battery (12V or higher)."
+        },
+        {
+          "text": "If the 12V battery is undercharged (less than 10V), the diagnostic function stops and the SRS warning light illuminates."
+        },
+        {
+          "text": "When checking the manufacturer name of the SRS unit, use HDS to check the ECU manufacturer displayed in the data list."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "DENSO SRS unit records two DTCs B0001-11 and B0010-11 simultaneously in the event of a body short circuit fault"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Ground fault in cord between SRS unit and driver's airbag inflator (RA1+, RA1- lines)"
+        ],
+        [
+          "",
+          "Driver's airbag internal failure (driver's airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "DENSO SRS unit records two DTCs B0001-12 and B0010-12 simultaneously in the event of a power short circuit fault"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Cord ceiling fault between SRS unit and driver's airbag inflator (RA1+, RA1- lines)"
+        ],
+        [
+          "",
+          "Driver's airbag internal failure (driver's airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection or poor contact of cord between SRS unit and driver's airbag inflator (RA1+, RA1- lines)"
+        ],
+        [
+          "",
+          "Driver's airbag internal failure (driver's airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Short circuit or poor contact between wires in cord between SRS unit and driver's airbag inflator (RA1+, RA1- lines)"
+        ],
+        [
+          "",
+          "Driver's airbag internal failure (driver's airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Ground fault in cord between SRS unit and passenger airbag inflator (LA1+, LA1- lines)"
+        ],
+        [
+          "",
+          "Passenger airbag internal failure (passenger airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Cord ceiling fault between SRS unit and passenger airbag inflator (LA1+, LA1- line)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection or poor contact of cord between SRS unit and passenger airbag inflator (LA1+, LA1- lines)"
+        ],
+        [
+          "",
+          "Passenger airbag internal failure (passenger airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Short circuit or poor contact between wires in cord between SRS unit and passenger airbag inflator (LA1+, LA1- lines)"
+        ],
+        [
+          "",
+          "Passenger airbag internal failure (passenger airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Ground fault in cord between SRS unit and passenger side airbag inflator (LSA+, LSA- line)"
+        ],
+        [
+          "",
+          "Passenger side airbag internal failure (passenger side airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Tensioning of cord between SRS unit and passenger side airbag inflator (LSA+, LSA- line)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection or poor contact of the cord between the SRS unit and the passenger side airbag inflator (LSA+, LSA- line)"
+        ],
+        [
+          "",
+          "Passenger side airbag internal failure (passenger side airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Short circuit or poor contact between wires in cord between SRS unit and passenger side airbag inflator (LSA+, LSA- lines)"
+        ],
+        [
+          "",
+          "Passenger side airbag internal failure (passenger side airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Ground fault in cord between SRS unit and left side curtain airbag inflator (LCA+, LCA- line)"
+        ],
+        [
+          "",
+          "Left side curtain airbag internal failure (left side curtain airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Cord tangling between SRS unit and left side curtain airbag inflator (LCA+, LCA- line)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection or poor contact of cord between SRS unit and left side curtain airbag inflator (LCA+, LCA- line)"
+        ],
+        [
+          "",
+          "Left side curtain airbag internal failure (left side curtain airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Short circuit or poor contact (LCA+, LCA- line) between wires of cord between SRS unit and left side curtain airbag inflator"
+        ],
+        [
+          "",
+          "Left side curtain airbag internal failure (left side curtain airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Ground fault in cord between SRS unit and driver's side airbag inflator (RSA+, RSA- line)"
+        ],
+        [
+          "",
+          "Driver's side airbag internal failure (driver's side airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Tensioning of cord between SRS unit and driver's side airbag inflator (RSA+, RSA- line)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection or poor contact of the cord between the SRS unit and the driver's side airbag inflator (RSA+, RSA- line)"
+        ],
+        [
+          "",
+          "Driver's side airbag internal failure (driver's side airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Short circuit or poor contact (RSA+, RSA- line) between wires of cord between SRS unit and driver's side airbag inflator"
+        ],
+        [
+          "",
+          "Driver's side airbag internal failure (driver's side airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Ground fault in cord between SRS unit and right side curtain airbag inflator (RCA+, RCA- lines)"
+        ],
+        [
+          "",
+          "Right side curtain airbag internal failure (right side curtain airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Cord tangling between SRS unit and right side curtain airbag inflator (RCA+, RCA- lines)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection or poor contact of cord between SRS unit and right side curtain airbag inflator (RCA+, RCA- lines)"
+        ],
+        [
+          "",
+          "Right side curtain airbag internal failure (right side curtain airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Short circuit or poor contact (RCA+, RCA- lines) between wires of cord between SRS unit and right side curtain airbag inflator"
+        ],
+        [
+          "",
+          "Right side curtain airbag internal failure (right side curtain airbag inflator)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "DENSO SRS unit records two DTCs B0070-11 and B0072-11 simultaneously in the event of a body short circuit fault"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Ground fault in cord between SRS unit and driver's seat belt pretensioner (RRP+, RRP- lines)"
+        ],
+        [
+          "",
+          "Driver's seat belt internal failure (driver's seat belt pretensioner)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "DENSO SRS unit records two DTCs B0070-12 and B0072-12 simultaneously in the event of a power short circuit fault"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Cord skype between SRS unit and driver's seat belt pretensioner (RRP+, RRP- lines)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection or poor contact of the cord between the SRS unit and the driver's seat belt pretensioner (RRP+, RRP- line)"
+        ],
+        [
+          "",
+          "Driver's seat belt internal failure (driver's seat belt pretensioner)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Short circuit or poor contact between wires in the cord between the SRS unit and the driver's seat belt pretensioner (RRP+, RRP- lines)"
+        ],
+        [
+          "",
+          "Driver's seat belt internal failure (driver's seat belt pretensioner)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Ground fault in cord between SRS unit and passenger seat belt pretensioner (LRP+, LRP- lines)"
+        ],
+        [
+          "",
+          "Front passenger seat belt internal failure (front passenger seat belt pretensioner)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Tensioning of cords between SRS unit and passenger seat belt pretensioner (LRP+, LRP- lines)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection or poor contact of the cord between the SRS unit and the passenger seat belt pretensioner (LRP+, LRP- line)"
+        ],
+        [
+          "",
+          "Front passenger seat belt internal failure (front passenger seat belt pretensioner)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Short circuit or poor contact between wires of cord between SRS unit and passenger seat belt pretensioner (LRP+, LRP- lines)"
+        ],
+        [
+          "",
+          "Front passenger seat belt internal failure (front passenger seat belt pretensioner)"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Improper left side impact Improper assembly of sensor 1 (e.g., incorrectly assembled parts)"
+        ],
+        [
+          "",
+          "Improper assembly of SRS units (e.g., incorrectly assembled parts)"
+        ],
+        [
+          "",
+          "Left side impact Sensor 1 internal failure"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "SRS unit and left side Impact Cord breakage between sensor 1, short between wires, ground fault, sky fault, poor contact (LS1+, LS1- lines)"
+        ],
+        [
+          "",
+          "Left side impact Sensor 1 internal failure"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Left side impact Sensor 1 internal failure"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Improper left side impact Improper assembly of sensor 2 (e.g., incorrectly assembled parts)"
+        ],
+        [
+          "",
+          "Improper assembly of SRS units (e.g., incorrectly assembled parts)"
+        ],
+        [
+          "",
+          "Left side impact Sensor 2 internal failure"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "SRS unit and left side Impact Cord breakage between Sensor 2, shorts between wires, ground fault, sky fault, poor contact (LS2+, LS2- lines)"
+        ],
+        [
+          "",
+          "Left side impact Sensor 2 internal failure"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Left side impact Sensor 2 internal failure"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Improper front impact sensor assembly (e.g., incorrectly assembled parts)"
+        ],
+        [
+          "",
+          "Improper assembly of SRS units (e.g., incorrectly assembled parts)"
+        ],
+        [
+          "",
+          "Front Impact Sensor internal failure"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection of cord between SRS unit and front impact sensor, short circuit between wires, ground fault, sky fault, poor contact (LFS+, LFS- lines)"
+        ],
+        [
+          "",
+          "Front Impact Sensor internal failure"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Front Impact Sensor internal failure"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Improper right side impact Improper assembly of sensor 1 (e.g., incorrectly assembled parts)"
+        ],
+        [
+          "",
+          "Improper assembly of SRS units (e.g., incorrectly assembled parts)"
+        ],
+        [
+          "",
+          "Right side impact Sensor 1 internal failure"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "SRS unit and right side Impact Cord breakage between sensor 1, short between wires, ground fault, sky fault, poor contact (RS1+, RS1- lines)"
+        ],
+        [
+          "",
+          "Right side impact Sensor 1 internal failure"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Right side impact Sensor 1 internal failure"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Improper right side impact Improper assembly of sensor 2 (e.g., incorrectly assembled parts)"
+        ],
+        [
+          "",
+          "Improper assembly of SRS units (e.g., incorrectly assembled parts)"
+        ],
+        [
+          "",
+          "Right side impact Sensor 2 internal failure"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "SRS unit and right side Impact Cord breakage between Sensor 2, short between wires, ground fault, sky fault, poor contact (RS2+, RS2- lines)"
+        ],
+        [
+          "",
+          "Right side impact Sensor 2 internal failure"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Right side impact Sensor 2 internal failure"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "DENSO SRS units record two DTCs B2840-13 and B2841-13 simultaneously in the event of a joint failure."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Poor contact of SRS unit Coupler A"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Poor contact of SRS unit coupler B"
+        ],
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "SRS unit internal circuit failure"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "SRS unit update not completed"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A002185_jpn/web/html/A002185_jpn_Content.html",
+  "inOutline": true
+}

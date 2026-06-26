@@ -1,0 +1,78 @@
+{
+  "id": "R000621",
+  "title": "Rear differential fluid replacement",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "differential",
+  "system": "Rear Differential Assy.",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000621",
+  "assets": [
+    "621_3.0_jpn_11581945_3.0_disp.png",
+    "621_3.0_jpn_11581946_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear differential fluid replacement"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear differential fluid removal"
+    },
+    {
+      "type": "figure",
+      "asset": "621_3.0_jpn_11581945_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "With the vehicle horizontal, remove the filler bolt (A) and sealing washer (B). Remove the drain bolt (C) and sealing washer (D), and drain the dirty oil."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Rear differential fluid refill"
+    },
+    {
+      "type": "figure",
+      "asset": "621_3.0_jpn_11581946_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install a new sealing washer (A) and tighten the drain bolt (B). Inject the specified \"Honda Genuine Ultra HGO-μ (hypoid gear oil)\" through the filler bolt (C) hole to the same level as the underside of the screw. Specified oil Genuine Honda Ultra HGO-μ (hypoid gear oil) During overhaul 0.35L At exchange: 1 0.34L Install a new sealing washer (D) and tighten the filler bolt."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000621_jpn/web/html/R000621_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,135 @@
+{
+  "id": "vsa",
+  "category": "electrical_diagram",
+  "title": "VSA",
+  "system": "vsa",
+  "sheetCount": 7,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/vsa/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/vsa/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/vsa/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/vsa/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/vsa/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/vsa/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/vsa/sheet7.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Brake Fluid Level Switch",
+      "Brake Light Relay",
+      "Brake Pedal Position Switch",
+      "City-Brake Active System",
+      "EPS Control Unit",
+      "Engine Start/Stop Switch",
+      "Gauge Control Module",
+      "IG1 Relay 1",
+      "IG1 Relay 2",
+      "Left-Front Wheel Speed Sensor",
+      "Left-Rear Wheel Speed Sensor",
+      "PCM",
+      "Parking Brake Switch",
+      "Right-Front Wheel Speed Sensor",
+      "Right-Rear Wheel Speed Sensor",
+      "Steering Angle Sensor",
+      "VSA Modulator-Control Unit",
+      "VSA OFF Switch"
+    ],
+    "Couplers": [
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "Brake Fluid Level Switch 2P Connector (Female)",
+      "Brake Pedal Position Switch 4P Connector (Female)",
+      "C108 (Male)|C108 (Female)",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C117 (Male)|C117 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "C121 (Male)|C121 (Female)",
+      "City-Brake Active System 7P Connector (Female)",
+      "Data Link Connector (DLC) (Female)",
+      "EPS Control Unit Connector B (10P) (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Gauge Control Module 32P Connector (Female)",
+      "Left-Front Wheel Speed Sensor 2P Connector (Male)",
+      "Left-Rear Wheel Speed Sensor 2P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "Parking Brake Switch 1P Connector",
+      "Right-Front Wheel Speed Sensor 2P Connector (Female)",
+      "Right-Rear Wheel Speed Sensor 2P Connector (Male)",
+      "Steering Angle Sensor 4P Connector (Female)",
+      "Sub Relay Block 2",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector D (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector U (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Y (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box",
+      "VSA Modulator-Control Unit 38P Connector (Female)",
+      "VSA OFF Switch 5P Connector (Female)"
+    ],
+    "Fuses": [
+      "+B_ABS_VSA_FSR",
+      "+B_BACK_UP(BST)",
+      "+B_BACK_UP_MAIN(P/S)",
+      "+B_DC/DC_1",
+      "+B_DC/DC_2",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "+B_STOP_&_HORN",
+      "+B_VSA_MTR",
+      "07_IG1_RELAY_1",
+      "16_IG1_RELAY_2",
+      "IG1_ABS/EPS(P/S)",
+      "IG1_METER(P/S)",
+      "IG1_MICU(P/S)"
+    ],
+    "Grounds": [
+      "G201",
+      "G302",
+      "G401",
+      "G402",
+      "G403"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "BQ Roof Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "LB High Mount Brake Light Subharness",
+      "TH Tailgate Wire Harness"
+    ]
+  }
+}

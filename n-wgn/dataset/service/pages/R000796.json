@@ -1,0 +1,111 @@
+{
+  "id": "R000796",
+  "title": "Front Seat Reclining Remove and install the cover.",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "sheet",
+  "system": "Front Seat",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000796",
+  "assets": [
+    "796_3.0_jpn_11581333_3.0_disp.png",
+    "796_3.0_jpn_11581334_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000910",
+      "label": "12V battery Negative (-) terminal Disconnect",
+      "resolved": true
+    },
+    {
+      "id": "R000792",
+      "label": "Front seat removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front Seat Reclining Remove and install the cover."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If there are components of the SRS airbag system in the vicinity, refer to the work precautions and configuration drawings described for the SRS airbag system before proceeding."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Negative (-) terminal Disconnect",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Negative (-) terminal Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front seat removal",
+      "refs": [
+        {
+          "id": "R000792",
+          "label": "Front seat removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Removal of driver's manual height steering wheel (for vehicles equipped with manual height steering wheel)"
+    },
+    {
+      "type": "figure",
+      "asset": "796_3.0_jpn_11581333_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Pry the top of the cap (A) and float the cap. Remove the hook (B) and remove the cap. Remove the screw and remove the manual height handle (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Front seat reclining cover removal"
+    },
+    {
+      "type": "figure",
+      "asset": "796_3.0_jpn_11581334_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the reclining knob (A). Wrap a rag (B) around the knob and pull. Remove the screw. Remove the clip and hook (C), and remove the front seat reclining cover (E) while avoiding the reclining knob lever (D)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000796_jpn/web/html/R000796_jpn_Content.html",
+  "inOutline": true
+}

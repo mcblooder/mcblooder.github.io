@@ -1,0 +1,83 @@
+{
+  "id": "G000918",
+  "title": "List of Customized Functions",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Network Communication",
+  "system": "Body Communication",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000918",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "List of Customized Functions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Each function that is initially set at the factory can be changed in HDS."
+    },
+    {
+      "type": "paragraph",
+      "text": "Setup Method"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "MICU related: Select \"Customize\" from \"Body Electrical\" in HDS, and change the settings in \"Customize\"."
+        },
+        {
+          "text": "Smart-related: Select \"One-push start system\" in HDS, then select \"Honda Smart Key ECU\" and \"Customize\". Select \"Customize\" from \"Honda Smart Key ECU\" and change the settings in \"Customize\"."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "To restore the factory default settings"
+        },
+        {
+          "text": "MICU related: Select \"Customize\" from \"Body Electrical\" in HDS, then select \"Customize Reset\"."
+        },
+        {
+          "text": "MICU related: Select \"Customize\" from \"Body Electrical\" in HDS, then select \"Customize Reset\"."
+        },
+        {
+          "text": "Smart-related: Select \"One-push start system\" in HDS, select \"Honda Smart Key ECU\", select \"Customize\", and then select \"Initialize customized data (change to factory defaults)\". Select \"Customize\" from \"Honda Smart Key ECU\" and select \"Initialize Customized Data (change to factory defaults)\"."
+        },
+        {
+          "text": "Check the instruction manual for information on changing user-customized settings and resetting."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Lighting timing: (lit in dark condition) Min→Low→Mid→High→Max (lit in bright condition)"
+        ],
+        [
+          "",
+          "Turn off timing: (Turn off in dark condition)Min→Low→Mid→High→Max (Turn off in bright condition)"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131205174051/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000918_jpn/web/html/G000918_jpn_Content.html",
+  "inOutline": true
+}

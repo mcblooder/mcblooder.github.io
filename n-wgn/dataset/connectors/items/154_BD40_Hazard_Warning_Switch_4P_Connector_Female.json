@@ -1,0 +1,91 @@
+{
+  "id": "154_BD40_Hazard_Warning_Switch_4P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD40",
+  "physicalIds": [
+    "BD40"
+  ],
+  "name": "Hazard Warning Switch 4P Connector (Female)",
+  "nameRu": "Разъём Hazard Warning выключатель, 4 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 4,
+  "faceviewPart": "91766-SLJ -0030-H1",
+  "partNumbers": [
+    "91766-SLJ -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)"
+  ],
+  "systems": [
+    "Dashlights",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91766-SLJ -0030-H1.svg",
+    "viewBox": "0 0 69.051 29.934",
+    "width": 69.051,
+    "height": 29.934
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z30A002",
+      "geometry": {
+        "x": 6.789,
+        "y": 23.897,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11B005",
+      "geometry": {
+        "x": 23.797,
+        "y": 23.897,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "HAZARD_SW",
+      "english": "HAZARD, switch",
+      "russian": "HAZARD, выключатель",
+      "terminal": "2C",
+      "geometry": {
+        "x": 40.805,
+        "y": 23.897,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "+B_HAZARD",
+      "english": "Constant battery power: HAZARD",
+      "russian": "Постоянное питание от АКБ: HAZARD",
+      "terminal": "B02D",
+      "geometry": {
+        "x": 57.813,
+        "y": 23.897,
+        "svgTextId": "SVGID_3_"
+      }
+    }
+  ]
+}

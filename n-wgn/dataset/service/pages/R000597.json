@@ -1,0 +1,60 @@
+{
+  "id": "R000597",
+  "title": "Replace transfer fluid",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "transfer",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000597",
+  "assets": [
+    "597_4.0_jpn_11582457_4.0_disp.png",
+    "597_4.0_jpn_11582458_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Replace transfer fluid"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Transfer Fluid Extraction"
+    },
+    {
+      "type": "figure",
+      "asset": "597_4.0_jpn_11582457_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "With the vehicle in a horizontal position, remove the drain bolt (A) and drain the transfer fluid."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Transfer Fluid Refill"
+    },
+    {
+      "type": "figure",
+      "asset": "597_4.0_jpn_11582458_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "With the vehicle horizontal, remove the filler bolt (A) and sealing washer (B). Inject the specified ''Honda Genuine Ultra DPSF-II (Dual Pump System Fluid)'' through the filler bolt hole (C) to the same level as the underside of the screw. Designated transfer fluid: Honda Genuine Ultra DPSF-II Transfer fluid volume: When replaced: 0.43L When overhauled: 0.44L Install a new sealing washer and tighten the filler bolt."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000597_jpn/web/html/R000597_jpn_Content.html",
+  "inOutline": true
+}

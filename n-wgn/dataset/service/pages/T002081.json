@@ -1,0 +1,42 @@
+{
+  "id": "T002081",
+  "title": "Audio & Visual System Failure Diagnostic Table by Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "",
+  "sectionCode": "",
+  "subsection": "",
+  "system": "",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002081",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Audio & Visual System Failure Diagnostic Table by Symptom"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Low sound recording level"
+        ],
+        [
+          "",
+          "Failure Diagnosis by Symptom ​"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002081_jpn/web/html/T002081_jpn_Content.html",
+  "inOutline": false
+}

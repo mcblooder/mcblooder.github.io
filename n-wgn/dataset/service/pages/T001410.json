@@ -1,0 +1,208 @@
+{
+  "id": "T001410",
+  "title": "How to proceed with MICU self-assessment",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "integrated system",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001410",
+  "assets": [
+    "1410_5.0_jpn_11579599_5.0_disp.png",
+    "1410_5.0_jpn_11579600_5.0_disp.png",
+    "1410_5.0_jpn_11579601_5.0_disp.png",
+    "1410_5.0_jpn_11579602_5.0_disp.png",
+    "1410_5.0_jpn_11579603_5.0_disp.png",
+    "1410_5.0_jpn_11579604_5.0_disp.png",
+    "1410_5.0_jpn_11579605_5.0_disp.png",
+    "1410_5.0_jpn_11579606_5.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "How to proceed with MICU self-assessment"
+    },
+    {
+      "type": "paragraph",
+      "text": "The self-diagnostic function of the MICU can be performed by checking DTC (using HDS) or DTC (not using HDS)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-diagnosis mode 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Performs self-diagnosis of MICU communication errors and indicates failure codes by the number of times the interior light blinks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Self-diagnosis mode 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "By operating the input lines (switches, sensors, etc.) to each unit, the interior lights indicate whether the lines are normal or not."
+    },
+    {
+      "type": "paragraph",
+      "text": "Example: The"
+    },
+    {
+      "type": "figure",
+      "asset": "1410_5.0_jpn_11579599_5.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inspect No. A14 (10A) fuse in relay box and No. D1 (15A) fuse in sub-fuse/relay box for blown and connected conditions before performing inspection."
+    },
+    {
+      "type": "paragraph",
+      "text": "Steps 3-6 are done within 10 seconds"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "3. Hold the passing switch in the ON position and turn the headlight switch (small) ON."
+    },
+    {
+      "type": "figure",
+      "asset": "1410_5.0_jpn_11579600_5.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "DTC",
+          "symptoms"
+        ],
+        [
+          "1",
+          "Communication error between MICU and other units"
+        ],
+        [
+          "5",
+          "MICU cannot receive VSP/NE frames sent from the combination meter"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Work from the mode 1 state."
+        },
+        {
+          "text": "Steps 1-4 should be performed within 10 seconds."
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Hold the passing switch in the ON position and turn the headlight switch (small) ON."
+    },
+    {
+      "type": "figure",
+      "asset": "1410_5.0_jpn_11579601_5.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "When shifting to self-diagnosis mode 1 again, repeat steps 1-4."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*: For vehicles equipped with the SRS unit manufactured by TRW, the same circuit is used, so it is linked to a single switch operation."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cancellation of self-diagnostic mode"
+    },
+    {
+      "type": "paragraph",
+      "text": "To cancel the self-diagnostic mode, set the ignition to the ignition OFF (LOCK) mode."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Connect HDS to the data link coupler (16P) (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "1410_5.0_jpn_11579602_5.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Refer to the instruction manual for the use of HDS."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "Refer to the instruction manual for the use of HDS."
+    },
+    {
+      "type": "paragraph",
+      "text": "Steps 2-5 should be done within 10 seconds"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. Hold the passing switch in the ON position and turn the headlight switch (small) ON."
+    },
+    {
+      "type": "figure",
+      "asset": "1410_5.0_jpn_11579603_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "6. DTC is displayed on the information display in the combination meter. Unit Number List MICU 17 Combination Meter 50 Auto A/C control unit 51 Auto Light Control Unit 72 Display Audio 54 Headlight auto-leveling control unit 75"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If a DTC is displayed in the combination meter, confirm the failure diagnosis of the displayed DTC."
+        },
+        {
+          "text": "Each time the Select/Reset knob is pressed, the next DTC is displayed."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1410_5.0_jpn_11579604_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1410_5.0_jpn_11579605_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1410_5.0_jpn_11579606_5.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clear DTC"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001410_jpn/web/html/T001410_jpn_Content.html",
+  "inOutline": true
+}

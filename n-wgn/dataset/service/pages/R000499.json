@@ -1,0 +1,91 @@
+{
+  "id": "R000499",
+  "title": "Exhaust gas inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Exhaust gas control equipment",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000499",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R000470",
+      "label": "Verify that the specified idling rpm (no load) is achieved.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Exhaust gas inspection"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Measurements should be taken in a well-ventilated area not directly exposed to the elements.",
+        "Carbon monoxide (CO%) and hydrocarbon concentration (HCppm) measurements shall be made at idling speed (no load).",
+        "Before measurement, confirm that the following items have been inspected and adjusted.",
+        "Condition of air cleaner element",
+        "Ignition timing function",
+        "Spark plug electrode condition",
+        "Blow-by gas reducer function",
+        "PGM-FI warning light is not illuminated"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Engine Warming up"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Start the engine, operate the radiator fan twice, and then warm up the engine for at least 2 minutes at 3,000 rpm with no load."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Idling RPM Check"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Verify that the specified idling rpm (no load) is achieved. ​",
+      "refs": [
+        {
+          "id": "R000470",
+          "label": "Verify that the specified idling rpm (no load) is achieved.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Exhaust Gas Inspection"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Carbon monoxide concentration (CO%) and hydrocarbon concentration (HCppm) are measured using an analyzer and checked to see if they are within the standard values. CO concentration at idling: (%) 0.1% or less HC concentration at idling: (%) Less than 100ppm"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "In the event of an idle stop, the ECON switch shall be pressed to turn the ECON system to the OFF state, and the engine shall be restarted before taking measurements."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000499_jpn/web/html/R000499_jpn_Content.html",
+  "inOutline": true
+}

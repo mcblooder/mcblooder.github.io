@@ -1,0 +1,329 @@
+{
+  "id": "R000461",
+  "title": "Throttle body cleaning",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "DBW System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000461",
+  "assets": [
+    "461_3.0_jpn_11291969_2.0_disp.png",
+    "461_3.0_jpn_11291970_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000410",
+      "label": "Cars not equipped with a turbo charger",
+      "resolved": true
+    },
+    {
+      "id": "R000411",
+      "label": "Turbo Charger equipped vehicle",
+      "resolved": true
+    },
+    {
+      "id": "R000465",
+      "label": "Cars not equipped with a turbo charger",
+      "resolved": true
+    },
+    {
+      "id": "R002172",
+      "label": "Turbo Charger equipped vehicle",
+      "resolved": true
+    },
+    {
+      "id": "R000471",
+      "label": "Idling Learning",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Throttle body cleaning"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not place fingers inside the throttle body when the ignition is turned to the ON mode or while the ignition is in the ON mode. If the throttle valve should actuate, it could pinch your fingers and cause serious injury."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Air cleaner element Inspection"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Check air cleaner for damage and replace if necessary.",
+      "refs": [
+        {
+          "id": "R000410",
+          "label": "Cars not equipped with a turbo charger",
+          "resolved": true
+        },
+        {
+          "id": "R000411",
+          "label": "Turbo Charger equipped vehicle",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000410",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000410",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000411",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000411",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Throttle body removal"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000465",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000465",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R002172",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R002172",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Throttle Body Cleaning"
+    },
+    {
+      "type": "figure",
+      "asset": "461_3.0_jpn_11291969_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Soak a paper rag with carburetor cleaner and wipe off any dirt (carbon, etc.) on the inside of the throttle bore and throttle valve end faces."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be sure to remove the throttle body before starting work.",
+        "Do not clean the throttle valve bearing (A) to protect the molybdenum coating.",
+        "Use the stock carburetor cleaner.",
+        "Do not inject carburetor cleaner directly into the throttle body."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Be sure to remove the throttle body before starting work."
+        },
+        {
+          "text": "Be sure to remove the throttle body before starting work."
+        },
+        {
+          "text": "Do not clean the throttle valve bearing (A) to protect the molybdenum coating."
+        },
+        {
+          "text": "Do not clean the throttle valve bearing (A) to protect the molybdenum coating."
+        },
+        {
+          "text": "Use the stock carburetor cleaner."
+        },
+        {
+          "text": "Use the stock carburetor cleaner."
+        },
+        {
+          "text": "Do not inject carburetor cleaner directly into the throttle body."
+        },
+        {
+          "text": "Do not inject carburetor cleaner directly into the throttle body."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Throttle Body Mounting"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000465",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000465",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R002172",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R002172",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. HDS Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "461_3.0_jpn_11291970_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect HDS to the data link coupler (A) on the left side of the driver's seat."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Carbon Deposition Correction Value Clear"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "In HDS, select the DBW test in the Inspection menu, then select Clear Throttle Valve Correction Value to clear the carbon deposit correction value. Turn ignition OFF (LOCK) mode. Turn ignition to ON mode and wait for 2 seconds."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not step on the accelerator pedal at this time."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Idling Learning",
+      "refs": [
+        {
+          "id": "R000471",
+          "label": "Idling Learning",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000461_jpn/web/html/R000461_jpn_Content.html",
+  "inOutline": true
+}

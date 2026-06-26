@@ -1,0 +1,68 @@
+{
+  "id": "R000950",
+  "title": "Removal and installation of ENGINE START STOP switch",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000950",
+  "assets": [
+    "950_3.0_jpn_11287871_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000899",
+      "label": "Auto A/C control panel removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removal and installation of ENGINE START STOP switch"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Auto A/C control panel removal",
+      "refs": [
+        {
+          "id": "R000899",
+          "label": "Auto A/C control panel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. ENGINE START STOP switch removal"
+    },
+    {
+      "type": "figure",
+      "asset": "950_3.0_jpn_11287871_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000950_jpn/web/html/R000950_jpn_Content.html",
+  "inOutline": true
+}

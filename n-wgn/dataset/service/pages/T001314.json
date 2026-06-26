@@ -1,0 +1,46 @@
+{
+  "id": "T001314",
+  "title": "Failure Diagnosis Chart by Brake Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "Brake Components",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001314",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Failure Diagnosis Chart by Brake Symptom"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "1.",
+          "Check the DTC of the PGM-FI system"
+        ],
+        [
+          "2.",
+          "Check DTCs for City Brake Active System"
+        ],
+        [
+          "3.",
+          "Combination Meter Failure Diagnostics."
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001314_jpn/web/html/T001314_jpn_Content.html",
+  "inOutline": true
+}

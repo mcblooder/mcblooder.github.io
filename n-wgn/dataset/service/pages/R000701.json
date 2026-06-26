@@ -1,0 +1,259 @@
+{
+  "id": "R000701",
+  "title": "Brake hose removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "Brake Components",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000701",
+  "assets": [
+    "701_3.0_jpn_11581638_3.0_disp.png",
+    "701_3.0_jpn_11581639_3.0_disp.png",
+    "701_3.0_jpn_11581640_3.0_disp.png",
+    "701_3.0_jpn_11581641_3.0_disp.png",
+    "701_3.0_jpn_11581642_3.0_disp.png",
+    "701_3.0_jpn_11581643_3.0_disp.png",
+    "701_3.0_jpn_11581644_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Front wheel removal",
+      "resolved": true
+    },
+    {
+      "id": "R000685",
+      "label": "air venting",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Brake hose removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Parts that are specified to be replaced must be replaced.",
+        "Do not allow brake fluid to adhere to painted surfaces. If it does adhere, wash it off with water immediately."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Front brake hose removal"
+    },
+    {
+      "type": "figure",
+      "asset": "701_3.0_jpn_11581638_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the brake pipe (B) from the brake hose (A). Remove the brake hose bolt (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "701_3.0_jpn_11581639_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the bolt (A). Remove the oil bolt (C) from the caliper body (B). Remove the brake hose (D)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Rear wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Rear brake hose removal"
+    },
+    {
+      "type": "figure",
+      "asset": "701_3.0_jpn_11581640_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the brake pipe (B) from the brake hose (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "701_3.0_jpn_11581641_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the hose retaining clip (A) from the groove in the brake hose. Remove the brake hose (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Make sure that each component is free of dust and debris before assembly.",
+        "Parts that are specified to be replaced must be replaced.",
+        "Do not allow brake fluid to adhere to painted surfaces. If it does adhere, wash it off with water immediately."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front brake hose installation"
+    },
+    {
+      "type": "figure",
+      "asset": "701_3.0_jpn_11581642_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install brake hose (A). Connect the brake hose to the caliper with the oil bolt (B) and a new sealing washer (C). Install the bolt (D)."
+    },
+    {
+      "type": "figure",
+      "asset": "701_3.0_jpn_11581643_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Install the brake hose bolts (A). Do not install the brake hose by twisting it forcibly. Connect the brake pipe (C) to the brake hose (B) and tighten to the specified torque."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "After installing the brake hose, check for interference with other parts, kinks, or leaks."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front wheel mounting",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. air venting",
+      "refs": [
+        {
+          "id": "R000685",
+          "label": "air venting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear brake hose installation"
+    },
+    {
+      "type": "figure",
+      "asset": "701_3.0_jpn_11581644_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Attach the new hose retaining clip (A) to the groove on the brake hose to secure the hose. Do not install the brake hose by twisting it forcibly. Connect the brake pipe (B) to the brake hose and tighten to the specified torque."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "After installing the brake hose, check for interference with other parts, kinks, or leaks."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear wheel mounting",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Rear wheel mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. air venting",
+      "refs": [
+        {
+          "id": "R000685",
+          "label": "air venting",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000701_jpn/web/html/R000701_jpn_Content.html",
+  "inOutline": true
+}

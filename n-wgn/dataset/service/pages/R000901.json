@@ -1,0 +1,44 @@
+{
+  "id": "R000901",
+  "title": "Diagnosis of abnormal A/C system refrigerant pressure",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000901",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Diagnosis of abnormal A/C system refrigerant pressure"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Abnormal refrigerant pressure"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "",
+          "Foreign matter caught in the valve on the high pressure side"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000901_jpn/web/html/R000901_jpn_Content.html",
+  "inOutline": true
+}

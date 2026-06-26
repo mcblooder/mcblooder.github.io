@@ -1,0 +1,104 @@
+{
+  "id": "216_DH03_Front_Passenger_s_Power_Window_Switch_5P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "DH03",
+  "physicalIds": [
+    "DH03"
+  ],
+  "name": "Front Passenger's Power Window Switch 5P Connector (Female)",
+  "nameRu": "Разъём передний пассажира стеклоподъёмник выключатель, 5 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 5,
+  "populatedPinCount": 5,
+  "faceviewPart": "91763-T4NA-0030-H1",
+  "partNumbers": [
+    "91763-T4NA-0030-H1"
+  ],
+  "harnesses": [
+    "32752-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Door > Front Passenger's Door"
+  ],
+  "systems": [
+    "Power Windows"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91763-T4NA-0030-H1.svg",
+    "viewBox": "0 0 114.134 33.797",
+    "width": 114.134,
+    "height": 33.797
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "RED",
+      "circuit": "P/W_AS_SW_UP",
+      "english": "power window, AS, switch, up",
+      "russian": "стеклоподъёмник, AS, выключатель, вверх",
+      "terminal": "508A",
+      "geometry": {
+        "x": 9.488,
+        "y": 25.359,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "P/W_AS_MTR_UP",
+      "english": "power window, AS, motor, up",
+      "russian": "стеклоподъёмник, AS, электродвигатель, вверх",
+      "terminal": "502B",
+      "geometry": {
+        "x": 32.165,
+        "y": 25.36,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "P/W_AS_POWER",
+      "english": "power window, AS, power",
+      "russian": "стеклоподъёмник, AS, питание",
+      "terminal": "520C",
+      "geometry": {
+        "x": 54.842,
+        "y": 25.359,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "P/W_AS_SW_DOWN",
+      "english": "power window, AS, switch, down",
+      "russian": "стеклоподъёмник, AS, выключатель, вниз",
+      "terminal": "509D",
+      "geometry": {
+        "x": 77.52,
+        "y": 25.359,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "P/W_AS_MTR_DOWN",
+      "english": "power window, AS, motor, down",
+      "russian": "стеклоподъёмник, AS, электродвигатель, вниз",
+      "terminal": "503E",
+      "geometry": {
+        "x": 100.198,
+        "y": 25.359,
+        "svgTextId": "SVGID_5_"
+      }
+    }
+  ]
+}

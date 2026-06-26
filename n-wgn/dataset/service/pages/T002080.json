@@ -1,0 +1,1192 @@
+{
+  "id": "T002080",
+  "title": "How to proceed with audio system self-diagnosis",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "AV/Communication Systems",
+  "system": "Audio Components",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002080",
+  "assets": [
+    "2080_3.0_jpn_11165900_3.0_disp.png",
+    "2080_3.0_jpn_11165901_3.0_disp.png",
+    "2080_3.0_jpn_11165902_3.0_disp.png",
+    "2080_3.0_jpn_11165903_3.0_disp.png",
+    "2080_3.0_jpn_11165904_3.0_disp.png",
+    "2080_3.0_jpn_11165905_3.0_disp.png",
+    "2080_3.0_jpn_11165906_3.0_disp.png",
+    "2080_3.0_jpn_11165907_3.0_disp.png",
+    "2080_3.0_jpn_11165908_3.0_disp.png",
+    "2080_3.0_jpn_11165909_3.0_disp.png",
+    "2080_3.0_jpn_11165910_3.0_disp.png",
+    "2080_3.0_jpn_11165911_3.0_disp.png",
+    "2080_3.0_jpn_11165912_3.0_disp.png",
+    "2080_3.0_jpn_11165913_3.0_disp.png",
+    "2080_3.0_jpn_11165914_3.0_disp.png",
+    "2080_3.0_jpn_11165920_3.0_disp.png",
+    "2080_3.0_jpn_11165923_3.0_disp.png",
+    "2080_3.0_jpn_11165924_3.0_disp.png",
+    "2080_3.0_jpn_11165925_3.0_disp.png",
+    "2080_3.0_jpn_11165926_3.0_disp.png",
+    "2080_3.0_jpn_11165928_3.0_disp.png",
+    "2080_3.0_jpn_11165929_3.0_disp.png",
+    "2080_3.0_jpn_11165931_3.0_disp.png",
+    "2080_3.0_jpn_11165932_3.0_disp.png",
+    "2080_3.0_jpn_11165942_3.0_disp.png",
+    "2080_3.0_jpn_11165945_3.0_disp.png",
+    "2080_3.0_jpn_11165946_3.0_disp.png",
+    "2080_3.0_jpn_11165947_3.0_disp.png",
+    "2080_3.0_jpn_11165948_3.0_disp.png",
+    "2080_3.0_jpn_11165949_3.0_disp.png",
+    "2080_3.0_jpn_11165950_3.0_disp.png",
+    "2080_3.0_jpn_11165952_3.0_disp.png",
+    "2080_3.0_jpn_11165953_3.0_disp.png",
+    "2080_3.0_jpn_11165954_3.0_disp.png",
+    "2080_3.0_jpn_11165955_3.0_disp.png",
+    "2080_3.0_jpn_11165956_3.0_disp.png",
+    "2080_3.0_jpn_11165957_3.0_disp.png",
+    "2080_3.0_jpn_11165958_3.0_disp.png",
+    "2080_3.0_jpn_11165961_3.0_disp.png",
+    "2080_3.0_jpn_11165962_3.0_disp.png",
+    "2080_3.0_jpn_11165963_3.0_disp.png",
+    "2080_3.0_jpn_11165964_3.0_disp.png",
+    "2080_3.0_jpn_11165965_3.0_disp.png",
+    "2080_3.0_jpn_11165966_3.0_disp.png",
+    "2080_3.0_jpn_11165968_3.0_disp.png",
+    "2080_3.0_jpn_11165988_3.0_disp.png",
+    "2080_3.0_jpn_11165989_3.0_disp.png",
+    "2080_3.0_jpn_11279230_2.0_disp.png",
+    "2080_3.0_jpn_11279231_2.0_disp.png",
+    "2080_3.0_jpn_11279232_2.0_disp.png",
+    "2080_3.0_jpn_11279233_2.0_disp.png",
+    "2080_3.0_jpn_11279234_2.0_disp.png",
+    "2080_3.0_jpn_11390516_2.0_disp.png",
+    "2080_3.0_jpn_11390517_2.0_disp.png",
+    "2080_3.0_jpn_11390518_2.0_disp.png",
+    "2080_3.0_jpn_11390519_2.0_disp.png",
+    "2080_3.0_jpn_11390520_2.0_disp.png",
+    "2080_3.0_jpn_11390521_2.0_disp.png",
+    "2080_3.0_jpn_11390522_2.0_disp.png",
+    "2080_3.0_jpn_11390523_2.0_disp.png",
+    "2080_3.0_jpn_11390524_2.0_disp.png",
+    "2080_3.0_jpn_11390525_2.0_disp.png",
+    "2080_3.0_jpn_11390526_2.0_disp.png",
+    "2080_3.0_jpn_11390527_2.0_disp.png",
+    "2080_3.0_jpn_11390528_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002064",
+      "label": "Replacing the audio unit",
+      "resolved": true
+    },
+    {
+      "id": "T002095",
+      "label": "Perform ''Operation by voice recognition is not possible'' of symptom-based failure diagnosis.",
+      "resolved": false
+    },
+    {
+      "id": "T002079",
+      "label": "How to proceed with failure diagnosis",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "How to proceed with audio system self-diagnosis"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. With the map screen displayed, press the eject button, power ( Press and hold down the (▲) and HOME buttons simultaneously until the diagnostic menu screen is displayed."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11279230_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "3. After switching to the diagnostic menu screen, select the item to be diagnosed. 4. Select ''Exit Diag'' or ''Back'' to return to the Map screen or HOME screen."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11390516_2.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be sure to switch to the map screen or HOME screen before turning the ignition OFF (LOCK) mode. If the ignition is turned to the ignition OFF (LOCK) mode on the diagnostic screen, the system may not operate properly."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Each system connected to the audio unit is diagnosed, and the diagnosis results are indicated by the color of the box. In addition, selecting each box displays detailed information about the item (unit diagnosis)."
+    },
+    {
+      "type": "paragraph",
+      "text": "System connection diagnostics are performed with the engine running before activating the self-diagnostic function."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. When system connection diagnostics is selected, the system starts diagnostics of the connection between the audio unit and the external connection unit and audio input/output diagnostics by outputting electronic sounds. During the system diagnosis, the display shows ''Diagnosis in progress ...'' at the bottom of the screen. is displayed at the bottom of the screen during system diagnosis. 2. Select ''Hard Key'' to perform diagnosis (see Unit Diagnostics section). Select ''Return'' after diagnosis is completed. 3. Check the color of the box being displayed. Box Color condition white under diagnosis ash without diagnosis *1 yellow No connection (YOP) or warning *2 red Connection (diagnosis) NG green Connection (diagnosis) OK *1: *2: For error history, if there is even one error in the error history (both hardware and software errors), it is displayed in yellow. 4. If there is a red or yellow box, select the box to view the unit diagnostic details (see each unit diagnostic item). 5. To exit diagnosis, select ''Exit Diag'' to switch to the normal screen. Selecting ''Back'' will switch to the diagnostic menu screen."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11390517_2.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For error history, if there is no single error history, it is displayed in gray."
+        },
+        {
+          "text": "Vehicle information is always displayed in gray, regardless of whether or not a diagnosis is made."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Perform diagnostics, adjustments, and settings related to the audio unit (see Unit Diagnostics for items that overlap with some unit diagnostics)."
+    },
+    {
+      "type": "paragraph",
+      "text": "''GPS information'' is not available for this model."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165900_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perform diagnostics and adjustments related to the audio unit display."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165901_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Displays a screen to confirm red, green, and blue coloration. full screen display as long as the HOME button is pressed."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165902_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Displays a screen that changes from white to black in 16 shades of gray; the full screen is displayed as long as the HOME button is pressed."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165903_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Displays a white screen; full screen display as long as the HOME button is held down."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165904_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Displays a black screen; full screen while the HOME button is held down."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165905_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Displays a list of colors used on the monitor screen; while the HOME button is pressed, the screen is displayed in full screen."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165906_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the screen is operated while the ticker (A) is displayed, the locus of the operation changes to black and the coordinates of the part of the screen touched are displayed in the upper right corner of the screen. If the operation is performed at one point on the screen, the coordinates are displayed at X1 and Y1; if the operation is performed at two points, the coordinates are displayed at X1 and Y1 and X2 and Y2. Recognized operations are displayed in a message for 5 seconds. The displayed trajectory is retained until the next operation. If the response is at a different location, perform touch panel adjustment; pressing the BACK button returns to the monitor adjustment screen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Name of each operation"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "tap"
+        },
+        {
+          "text": "Double tap"
+        },
+        {
+          "text": "pinch"
+        },
+        {
+          "text": "slide"
+        },
+        {
+          "text": "flick"
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165907_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165908_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Corrects the position of the touch panel press detection. Touch the ''+'' buttons on the screen in order from 1 to 5, and select ''Set''. The message \"Adjustment completed\" is displayed."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165909_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Select ''Confirm'' to return to the touch panel adjustment screen."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165910_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adjust the display position of each RGB and NTSC screen."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165911_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "RGB screen display position"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pressing each arrow moves the display position by one dot in the direction of the arrow. Pressing the BACK button returns to the MONITOR CHECK menu screen."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165912_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Press the Menu button and select ''Set'' to apply the adjustment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Selecting ''Default'' will restore the factory defaults."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165913_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "NTSC screen display position"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pressing each arrow moves the display position in the pressed direction with a BEEP sound. The display position can be moved continuously by continuing to press the arrows."
+    },
+    {
+      "type": "paragraph",
+      "text": "When ''set'' is selected, the adjustment is reflected."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165914_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "When ''Screen Switching'' is selected, each source that can be adjusted is displayed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Selecting ''Default'' will restore the factory defaults."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11390518_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perform diagnostics of internal connections of audio units and external connection units."
+    },
+    {
+      "type": "paragraph",
+      "text": "Scrolling down the screen, each diagnostic item is displayed."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11390519_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diagnose the ECU and system microcomputer of the audio unit."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "D-RAM diagnostic results: Display as OK/NG. if displayed as NG, Replacing the audio unit The following is a list of the most common problems with the",
+          "refs": [
+            {
+              "id": "R002064",
+              "label": "Replacing the audio unit",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Model number: Displays the model model number obtained from the unit. If it cannot be obtained, display '' - ''."
+        },
+        {
+          "text": "Serial Number: Displays the serial number obtained from the unit."
+        },
+        {
+          "text": "Flash Status: Display as OK/NG, if NG is displayed, Replacing the audio unit The following is a list of the most common problems with the",
+          "refs": [
+            {
+              "id": "R002064",
+              "label": "Replacing the audio unit",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11390520_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "F-CAN is diagnosed by starting the engine."
+    },
+    {
+      "type": "paragraph",
+      "text": "Diagnose whether the audio unit is receiving specific F-CAN data. If communication is normal, NO ERROR is displayed."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If TIME OUT is displayed, check the DTC of F-CAN with HDS. If there is no abnormality, check for disconnection of the F-CAN_H and F-CAN_L lines between the audio unit and the combination meter."
+        },
+        {
+          "text": "If the message RX ERROR is displayed, Replacing the audio unit The following is a list of the most common problems with the",
+          "refs": [
+            {
+              "id": "R002064",
+              "label": "Replacing the audio unit",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11390521_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diagnose whether the audio unit is receiving specific B-CAN data. If the data of the displayed item is received, the diagnostic OK is displayed."
+    },
+    {
+      "type": "paragraph",
+      "text": "If all data from each transmitting unit is NG, check the DTC of B-CAN at HDS. If there is no abnormality, check the disconnection of the B-CAN_H and B-CAN_L lines between the audio unit and the transmitting unit."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "data-name",
+          "Transmitting Unit"
+        ],
+        [
+          "VSPNE, AT, ILLUMI, STRG_ANG, ODO_TRIP, TRICOM1-4",
+          "Combination Meter"
+        ],
+        [
+          "ACINFO",
+          "Auto A/C control unit"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11390522_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a USB flash drive is connected to the audio unit, the status of the USB controller, bus power, and USB flash drive will be displayed."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the type of the connected USB memory device is ''Storage'', the used capacity and free capacity are displayed."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165920_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Displays the status of each signal input to the audio unit. The display changes each time according to the status of the signal."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11390523_2.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "display items",
+          "source (e.g. query)",
+          "remarks"
+        ],
+        [
+          "BACK",
+          "BACK LT Line",
+          "1: When select lever is in R position 0: Other than above"
+        ],
+        [
+          "IG",
+          "B-CAN Line",
+          "1: In ignition ON mode 0: Other than above"
+        ],
+        [
+          "ILL",
+          "B-CAN Line",
+          "1: With small lights or headlights on 0: Other than above"
+        ],
+        [
+          "ILL CANCEL",
+          "B-CAN Line",
+          "1: With the small light on and illumination illumination brightness greater than 90%. 0: Other than above"
+        ],
+        [
+          "ILL STEP",
+          "B-CAN Line",
+          "Illumination illumination intensity in steps of 1 to 22 when small lights are turned on"
+        ],
+        [
+          "Speed",
+          "B-CAN Line",
+          "Display of vehicle speed in km/h"
+        ],
+        [
+          "PARK-VIDEO",
+          "PARKING BRAKE SW line",
+          "1: Apply the parking brake 0: Release the parking brake"
+        ],
+        [
+          "PARK",
+          "B-CAN Line",
+          "1: Apply the parking brake 0: Release the parking brake"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Diagnose the connection of the audio unit's built-in microphone and Bluetooth module."
+    },
+    {
+      "type": "paragraph",
+      "text": "Display Bluetooth connection diagnostic results as OK/NG. if it is displayed as NG, Replace the touch screen panel The following is a list of the most common problems with the",
+      "refs": [
+        {
+          "id": "R002064",
+          "label": "Replace the touch screen panel",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Pressing the speaking button (A) on the HFT switch enters the microphone input level measurement mode."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If you press the speech button and speak into the microphone within 5 seconds, an indicator (B) will show the input level of the detected voice (peak hold indication)."
+        },
+        {
+          "text": "Input level 6 or higher is OK and the indicator changes to green. Input level 5 or below is NG, and the indicator changes to red."
+        },
+        {
+          "text": "If NG, Perform ''Operation by voice recognition is not possible'' of symptom-based failure diagnosis. The following is a list of the most common problems with the",
+          "refs": [
+            {
+              "id": "T002095",
+              "label": "Perform ''Operation by voice recognition is not possible'' of symptom-based failure diagnosis.",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165923_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "When ''Speech volume switching'' is selected, the speech volume can be switched between high, medium, and low."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165924_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diagnose the operation of the audio unit's hard keys, face switches (AUDIO, HOME, MENU, VOL+, VOL-, and BACK buttons), audio remote switch, and HFT switch."
+    },
+    {
+      "type": "paragraph",
+      "text": "Operate each button displayed in the box, and if the operation and the button displayed on the screen match, it turns green."
+    },
+    {
+      "type": "paragraph",
+      "text": "AD values are displayed when the audio unit's hard keys, audio remote switch and HFT switch are operated."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165925_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Review error information by selecting Hardware Error or Software Error."
+    },
+    {
+      "type": "paragraph",
+      "text": "Software error is a factory feature and is not used in service."
+    },
+    {
+      "type": "paragraph",
+      "text": "How to check hard error codes? How to proceed with failure diagnosis for reference.",
+      "refs": [
+        {
+          "id": "T002079",
+          "label": "How to proceed with failure diagnosis",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165926_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Displays the rear camera connection diagnostic results as OK/NG. in case of NG, Check hard error codes The following is a list of the most common problems with the",
+      "refs": [
+        {
+          "id": "T002079",
+          "label": "Check hard error codes",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Press the HOME button to check the rear camera image. Press the HOME button again to return to the rear camera connection diagnosis screen."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11279231_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Corner camera * Connection diagnostic results are displayed as OK/NG. If the corner camera is not equipped, it is displayed as not connected."
+    },
+    {
+      "type": "paragraph",
+      "text": "*: Not provided at the factory"
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165928_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Displays the status of the audio unit's built-in radio tuner."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a radio tuner is built in, the connection diagnostic result is always displayed as OK."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "(A) can be selected to change the receiving frequency."
+        },
+        {
+          "text": "Displays the electric field strength of the radio wave being received."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165929_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "AUX connection device * Connection diagnostic results are displayed ON/OFF for the"
+    },
+    {
+      "type": "paragraph",
+      "text": "*: Not provided at the factory"
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11390524_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "For models without an external display unit connected to the audio unit, the diagnostic results are always displayed as OK."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165931_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Displays the results of the auto A/C control unit connection diagnostics as OK/NG, Check hard error codes The following is a list of the most common problems with the",
+      "refs": [
+        {
+          "id": "T002079",
+          "label": "Check hard error codes",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In the ignition ACC mode, the connection diagnostic result is unconnected and IG is displayed OFF."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165932_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Displays the date and time of the MirrorLink connection and terminal information for the past two connections via MirrorLink on the smartphone."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165942_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "iPhone (R) The date and time of the connection in App Mode and terminal information for the past two connections in App Mode are displayed."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11279232_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Displays Real VNC connection date and time and terminal information for the last two smartphone connections."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11279233_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diagnose the audio function of the audio unit."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Ensure that the audio is turned off before performing diagnostics."
+        },
+        {
+          "text": "''ANC function diagnosis'' is not available for this model."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165945_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Check the output of the speakers connected to the audio unit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Selecting Speaker Check will cause the front left speaker to sound, and selecting UP or Down will cause each speaker to sound in the order shown in the table."
+    },
+    {
+      "type": "paragraph",
+      "text": "During diagnosis, both faders and balance are set at the median."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Order of speaker sound when ''UP'' is selected: ''UP'' is selected.",
+          "→ → → → → →"
+        ],
+        [
+          "Order of speaker sound when ''Down'' is selected.",
+          "→ → → → → →"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "display screen",
+          "condition"
+        ],
+        [
+          "",
+          "FL",
+          "Front left side loudspeaker ringing"
+        ],
+        [
+          "",
+          "FR",
+          "Front right side loudspeaker ringing"
+        ],
+        [
+          "",
+          "RR",
+          "Rear right side loudspeaker sounds"
+        ],
+        [
+          "",
+          "RL",
+          "Rear left side loudspeaker sounds"
+        ],
+        [
+          "",
+          "FL-TW *",
+          "―――"
+        ],
+        [
+          "",
+          "FR-TW *",
+          "―――"
+        ],
+        [
+          "",
+          "ALL",
+          "All loudspeakers sound"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*: Diagnostics not applicable for this model"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165946_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adjust the display position of the rear camera's fixed and predictive guide lines and caution messages."
+    },
+    {
+      "type": "paragraph",
+      "text": "Select ''Rear Wide Camera'' from the Camera Guide Line Adjustment."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "''Rear camera'' is not an option for this model."
+        },
+        {
+          "text": "''Corner camera'' is not available for selection as it is not equipped at the factory."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165947_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Select ''Fixed Guideline'' or ''Predictive Guide Line Display''."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165948_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Select the field of view to be adjusted using the icon in the lower left corner of the screen."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the predictive guide line view is selected, the top-down view cannot be selected."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165949_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Press the MENU button to display the adjustment menu."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Default: Reset the display position to the factory defaults and erase the previous setting."
+        },
+        {
+          "text": "Save Settings: Saves the adjusted position display."
+        },
+        {
+          "text": "Guideline Position Adjustment: Adjusts the overall position of the guide line."
+        },
+        {
+          "text": "Message Position Adjustment: Adjusts the position of the cautionary message."
+        },
+        {
+          "text": "Rudder angle selection * Select the rudder angle at which you want to adjust the position of the guide line."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "*: Valid only when predictive guide line display is selected"
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165950_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pressing each arrow moves the entire guide line by one dot in the direction of the arrow pressed. Continuously pressing an arrow moves the display position continuously."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11390525_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165952_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pressing the HOME button returns to the previous screen with the adjustment results retained."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pressing each arrow moves the caution message (A) by one dot in the direction of the arrow pressed. The display position can be moved continuously by continuing to press the arrows."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cautionary message position is a common setting for each view."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165953_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pressing the HOME button returns to the previous screen with the adjustment results retained."
+    },
+    {
+      "type": "paragraph",
+      "text": "To adjust the predicted guide line, select from 8 different steering angles in the range of 90°-END (locked end), and then adjust the guide line position."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165954_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Configure settings related to various functions of the audio unit."
+    },
+    {
+      "type": "paragraph",
+      "text": "''LaneWatch Detailed Information Display'' and ''Anti-Theft Skip'' ''' are not available for this model."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165955_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Erase data backed up in the audio unit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cookie Clear'' and ''Cache Clear'' are not available on this model. cannot be used on this model."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165956_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "all clear"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not put the ignition in the OFF (LOCK) mode during initialization."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Initialize the data backed up in memory to the factory defaults."
+    },
+    {
+      "type": "paragraph",
+      "text": "When ''Clear All'' is selected, a confirmation screen is displayed. When ''Do'' is selected, the final confirmation screen is displayed."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165957_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Selecting ''Yes'' on the final confirmation screen will initiate initialization, and the audio unit will restart after completion."
+    },
+    {
+      "type": "paragraph",
+      "text": "When ''Clear Cookies'' is selected, a confirmation screen will appear."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165958_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "When replacing an audio unit, data can be saved to a USB memory device to take over personal setting information, and the saved data can be loaded into a new audio unit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Saved data cannot be loaded into audio units with different specifications."
+    },
+    {
+      "type": "paragraph",
+      "text": "Save Settings"
+    },
+    {
+      "type": "paragraph",
+      "text": "Save the audio unit's data to a USB memory stick."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not put the ignition OFF (LOCK) mode during storage."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Main data that cannot be saved:."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Audio setpoints (excluding display setpoints)"
+        },
+        {
+          "text": "Smartphone Connected Device Settings"
+        },
+        {
+          "text": "Wi-Fi device registration information"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Insert a USB memory stick into the USB jack and select ''Save Settings''."
+    },
+    {
+      "type": "paragraph",
+      "text": "Supported USB memory: Mass storage class (except Bulk-Only) that supports FAT16 and FAT32 file systems."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165961_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Select ''Yes'' on the confirmation screen to save the data to the USB memory. When the saving is complete, the user returns to the Save Settings Information menu screen."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165962_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "setup load"
+    },
+    {
+      "type": "paragraph",
+      "text": "Load the data stored on the USB memory into the new audio unit."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The ignition should not be in the ignition OFF (LOCK) mode during reading."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Insert the USB memory device containing the data into the USB jack and select ''Read Settings''."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165963_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Selecting ''Yes'' on the confirmation screen loads the data into the audio unit and overwrites the backup data. When the save is complete, the audio unit will restart."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165964_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Configure settings related to the display of phonebook mugshots."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165965_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "By selecting ''Face Photo Display Settings'', the display of the phonebook face photo can be switched ON or OFF."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165966_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Configure settings related to additional functions of the audio unit."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11390526_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Corner camera * Adjust the normal and top-down views of the"
+    },
+    {
+      "type": "paragraph",
+      "text": "*: Not provided at the factory"
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165968_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "See B-CAN in Unit Diagnostics for details."
+    },
+    {
+      "type": "paragraph",
+      "text": "See F-CAN in Unit Diagnostics for details."
+    },
+    {
+      "type": "paragraph",
+      "text": "Displays version information for each module in the audio unit."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11390527_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Refer to the vehicle signals in the unit diagnostics for more information."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is performed before the vehicle leaves the factory and is activated the first time power is turned on. No transition to the normal screen is allowed until all is normal and OK is displayed. After leaving the factory, the inline dialog is not displayed."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11390528_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "If an inline dialog is displayed when the audio unit is activated, cancel and reconfigure the inline dialog."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. While the inline dialog is displayed, press the eject button, the power ( Press and hold down the (▲) and HOME buttons simultaneously until the diagnostic menu screen is displayed."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11279234_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "3. With the Diagnostic Menu screen displayed, press and hold the HOME button until the Inline Dialogue Setup screen is displayed."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165988_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "4. When Inline Diag Setting is set to ''Done'' on the Inline Diag Setting screen, the screen will switch to the normal screen, and the Inline Diag will not be displayed thereafter."
+    },
+    {
+      "type": "figure",
+      "asset": "2080_3.0_jpn_11165989_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002080_jpn/web/html/T002080_jpn_Content.html",
+  "inOutline": true
+}

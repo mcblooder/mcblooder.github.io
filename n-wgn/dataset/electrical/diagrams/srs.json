@@ -1,0 +1,131 @@
+{
+  "id": "srs",
+  "category": "electrical_diagram",
+  "title": "SRS",
+  "system": "srs",
+  "sheetCount": 6,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/srs/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/srs/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/srs/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/srs/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/srs/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/srs/sheet6.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Automatic Dimming Inside Mirror",
+      "Cable Reel",
+      "Driver's Airbag",
+      "Driver's Seat Belt Buckle Switch",
+      "Engine Start/Stop Switch",
+      "Front Impact Sensor",
+      "Front Passenger's Airbag Inflator",
+      "Front Passenger's Seat Belt Buckle Switch",
+      "Front Passenger's Seat Sitting Switch",
+      "Gauge Control Module",
+      "IG1 Relay 1",
+      "Left Front Seat Belt Tensioner",
+      "Left Side Airbag Inflator",
+      "Left Side Curtain Airbag",
+      "Left Side Impact Sensor (First)",
+      "Left Side Impact Sensor (Second)",
+      "PCM",
+      "Rear Seat Belt Buckle Switch",
+      "Right Front Seat Belt Tensioner",
+      "Right Side Airbag Inflator",
+      "Right Side Curtain Airbag",
+      "Right Side Impact Sensor (First)",
+      "Right Side Impact Sensor (Second)",
+      "SRS Unit"
+    ],
+    "Couplers": [
+      "Automatic Dimming Inside Mirror 5P Connector (Female)",
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "C102 (Male)|C102 (Female)",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "Cable Reel Connector B (4P) (Female)",
+      "Data Link Connector (DLC) (Female)",
+      "Driver's Airbag 2P Connector (Female)",
+      "Driver's Seat Belt Buckle Switch 2P Connector (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Front Impact Sensor 2P Connector (Female)",
+      "Front Passenger's Airbag Inflator 4P Connector (Female)",
+      "Front Passenger's Seat Belt Buckle Switch 2P Connector (Female)",
+      "Front Passenger's Seat Sitting Switch 4P Connector (Female)",
+      "Gauge Control Module 32P Connector (Female)",
+      "Left Front Seat Belt Tensioner 2P Connector (Female)",
+      "Left Side Airbag Inflator 2P Connector (Female)",
+      "Left Side Curtain Airbag 2P Connector (Female)",
+      "Left Side Impact Sensor (First) 4P Connector (Female)",
+      "Left Side Impact Sensor (Second) 2P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "Rear Seat Belt Buckle Switch 4P Connector (Female)",
+      "Right Front Seat Belt Tensioner 2P Connector (Female)",
+      "Right Side Airbag Inflator 2P Connector (Female)",
+      "Right Side Curtain Airbag 2P Connector (Female)",
+      "Right Side Impact Sensor (First) 4P Connector (Female)",
+      "Right Side Impact Sensor (Second) 2P Connector (Female)",
+      "SRS Unit Connector A (39P) (Female)",
+      "SRS Unit Connector B (39P) (Female)",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector K (4P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Q (4P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_DC/DC_1",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "07_IG1_RELAY_1",
+      "08_IG1_SRS",
+      "IG1_METER(P/S)"
+    ],
+    "Grounds": [
+      "G401",
+      "G402",
+      "G404",
+      "G501",
+      "G503"
+    ],
+    "Harnesses": [
+      "-- --",
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "BQ Roof Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

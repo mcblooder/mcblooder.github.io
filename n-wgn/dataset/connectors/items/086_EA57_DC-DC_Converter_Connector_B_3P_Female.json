@@ -1,0 +1,76 @@
+{
+  "id": "086_EA57_DC-DC_Converter_Connector_B_3P_Female",
+  "category": "connector",
+  "connectorRef": "EA57",
+  "physicalIds": [
+    "EA57"
+  ],
+  "name": "DC-DC Converter Connector B (3P) (Female)",
+  "nameRu": "Разъём DC-DC Converter Connector B (3P), гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "90262-SMG -0030-H1",
+  "partNumbers": [
+    "90262-SMG -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Auto Idle Stop System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/90262-SMG -0030-H1.svg",
+    "viewBox": "0 0 60.185 33.751",
+    "width": 60.185,
+    "height": 33.751
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "LIN(BATT_SENSOR)",
+      "english": "LIN, battery, sensor",
+      "russian": "LIN, аккумулятор, датчик",
+      "terminal": "X31A",
+      "geometry": {
+        "x": 7.911,
+        "y": 25.596,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "CST",
+      "english": "CST",
+      "russian": "CST",
+      "terminal": "K05B",
+      "geometry": {
+        "x": 27.736,
+        "y": 25.596,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "IG1_RELAY1",
+      "english": "ignition IG1, RELAY1",
+      "russian": "зажигание IG1, RELAY1",
+      "terminal": "G33A",
+      "geometry": {
+        "x": 47.563,
+        "y": 25.596,
+        "svgTextId": "SVGID_3_"
+      }
+    }
+  ]
+}

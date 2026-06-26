@@ -1,0 +1,66 @@
+{
+  "id": "097_EA55_ECT_Sensor_2_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA55",
+  "physicalIds": [
+    "EA55"
+  ],
+  "name": "ECT Sensor 2 2P Connector (Female)",
+  "nameRu": "Разъём ECT датчик 2, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91702-R40 -0030-H1",
+  "partNumbers": [
+    "91702-R40 -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Left Side"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Climate Control",
+    "Fans",
+    "PCM (All)",
+    "PGM-FI System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91702-R40 -0030-H1.svg",
+    "viewBox": "0 0 48.207 27.554",
+    "width": 48.207,
+    "height": 27.554
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "SG6",
+      "english": "SG6",
+      "russian": "SG6",
+      "terminal": "D20A000",
+      "geometry": {
+        "x": 11.422,
+        "y": 20.405,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "TW2_SENSOR",
+      "english": "TW2, sensor",
+      "russian": "TW2, датчик",
+      "terminal": "D23B",
+      "geometry": {
+        "x": 32.074,
+        "y": 20.405,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

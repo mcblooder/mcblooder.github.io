@@ -1,0 +1,144 @@
+{
+  "id": "G000320",
+  "title": "tow",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "NA",
+  "sectionCode": "0",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000320",
+  "assets": [
+    "320_3.0_jpn_11583197_3.0_disp.png",
+    "320_3.0_jpn_11583198_3.0_disp.png",
+    "320_3.0_jpn_11583199_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "tow"
+    },
+    {
+      "type": "paragraph",
+      "text": "Towing must be performed in accordance with the following"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Tow ropes, etc., should be hung only from eye bolts (tie-down slots should only be used to secure the vehicle)."
+        },
+        {
+          "text": "Do not use bumpers to lift the vehicle."
+        },
+        {
+          "text": "Do not tow the vehicle in a manner that will cause damage to the vehicle."
+        },
+        {
+          "text": "If the N position is not reached, the four wheels shall be lifted and transported."
+        },
+        {
+          "text": "The speed shall be 30 km/h or less and the towing distance shall be 80 km or less (except for transporting by lifting four wheels)."
+        },
+        {
+          "text": "If the front and rear wheels are stuck, the four wheels shall be lifted and transported."
+        },
+        {
+          "text": "Towing in accordance with the Road Traffic Law."
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When towing with a rope while the engine is stopped, the following precautions should be taken",
+        "The brake doubling device is inoperative, resulting in poor braking.",
+        "The power steering assist function is not activated, resulting in heavy steering operation.",
+        "Transmission may be damaged."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Towing should be performed in accordance with the instructions in the table (○ in the table indicates that towing is allowed, and × indicates that towing is not allowed)."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Towing Method",
+          "Driving method",
+          "shift position",
+          "Conditions or precautions"
+        ],
+        [
+          "2WD",
+          "4WD"
+        ],
+        [
+          "Towing by rope",
+          "○",
+          "○",
+          "N-position",
+          "(1) Make sure that the HMMF amount is between the upper and lower limit of the level gauge. (If it is below the lower limit, 2WD vehicles should be towed by lifting the front wheels, and 4WD vehicles should be transported by lifting all four wheels.) (2) If the engine starts, start the engine, turn the select lever to the D position once, hold it for about 5 seconds, and then turn it to the N position. If the engine does not start, turn the ignition to ACC mode or ON mode. (3) Release the parking brake."
+        ],
+        [
+          "Towing by lifting the front wheels",
+          "○",
+          "×",
+          "N-position",
+          "Release the parking brake. 4WD vehicle: Never tow a truck with the front or rear wheels on the dolly because the drive unit may be damaged or the wheels may fly off the dolly."
+        ],
+        [
+          "Lifting and transporting 4-wheeled vehicles",
+          "○",
+          "○",
+          "P position",
+          "The vehicle must be secured to prevent it from flying out of the vehicle. Apply the parking brake."
+        ],
+        [
+          "Towing by trekker",
+          "○",
+          "×",
+          "N-position",
+          "Release the parking brake. 4WD vehicle: Never tow a truck with the front or rear wheels on the dolly because the drive unit may be damaged or the wheels may fly off the dolly."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the vehicle becomes stuck due to wheel breakage, etc., open the rear towing hook or the lid on the left side of the front bumper, attach the eyebolts, and pull the vehicle out with a rope."
+        },
+        {
+          "text": "When using the rear towing hook/rear tie-down hook, the rope may interfere with bumpers, etc., so a rag or similar material should be applied to protect the rope."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "320_3.0_jpn_11583197_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "320_3.0_jpn_11583198_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "320_3.0_jpn_11583199_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131120091740/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000320_jpn/web/html/G000320_jpn_Content.html",
+  "inOutline": true
+}

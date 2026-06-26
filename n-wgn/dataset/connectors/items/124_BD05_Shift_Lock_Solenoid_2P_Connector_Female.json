@@ -1,0 +1,64 @@
+{
+  "id": "124_BD05_Shift_Lock_Solenoid_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD05",
+  "physicalIds": [
+    "BD05"
+  ],
+  "name": "Shift Lock Solenoid 2P Connector (Female)",
+  "nameRu": "Разъём Shift Lock Solenoid, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91764-SLJ -0030-H1",
+  "partNumbers": [
+    "91764-SLJ -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "A/T Interlock System",
+    "CVT Control System",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91764-SLJ -0030-H1.svg",
+    "viewBox": "0 0 57.332 46.008",
+    "width": 57.332,
+    "height": 46.008
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "SHIFT_LOCK_SOL",
+      "english": "SHIFT, lock, solenoid",
+      "russian": "SHIFT, запирание, соленоид",
+      "terminal": "M14A",
+      "geometry": {
+        "x": 12.162,
+        "y": 34.394,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "IG1_METER",
+      "english": "ignition IG1, METER",
+      "russian": "зажигание IG1, METER",
+      "terminal": "G02B",
+      "geometry": {
+        "x": 40.476,
+        "y": 34.394,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

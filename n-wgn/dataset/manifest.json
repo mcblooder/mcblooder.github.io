@@ -1,0 +1,42 @@
+{
+  "dataset": "Honda N-WGN technical dataset",
+  "model": "Honda N-WGN (JH1/JH2)",
+  "derivation": "85",
+  "version": "1.0",
+  "generatedAt": "2026-06-26T13:53:09",
+  "categories": {
+    "service": {
+      "path": "service",
+      "index": "service/index.json",
+      "tree": "service/tree.json",
+      "entryDir": "service/pages"
+    },
+    "electrical": {
+      "path": "electrical",
+      "index": "electrical/index.json",
+      "tree": "electrical/tree.json",
+      "lookup": "electrical/lookup.json",
+      "entryDir": "electrical/diagrams"
+    },
+    "connectors": {
+      "path": "connectors",
+      "index": "connectors/index.json",
+      "entryDir": "connectors/items"
+    },
+    "fuseboxes": {
+      "path": "fuseboxes",
+      "index": "fuseboxes/index.json",
+      "entryDir": "fuseboxes/boxes"
+    }
+  },
+  "counts": {
+    "fuseboxes": {
+      "entries": 4,
+      "fuses": 61,
+      "relays": 23,
+      "fusesWithGeometry": 61,
+      "boxSvgsCopied": 4
+    }
+  },
+  "crossReferenceScheme": "Service-manual blocks and crossRefs reference other service entries by their page id (e.g. 'R000659'), resolvable via service/pages/<id>.json. Electrical lookup items and fusebox fuses reference electrical diagrams by slug id and threed assets by path."
+}

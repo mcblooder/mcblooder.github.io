@@ -1,0 +1,91 @@
+{
+  "id": "065_BB13_HFL-Navigation_Voice_Control_Switch_4P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BB13",
+  "physicalIds": [
+    "BB13"
+  ],
+  "name": "HFL-Navigation Voice Control Switch 4P Connector (Female)",
+  "nameRu": "Разъём HFL-Navigation Voice Control выключатель, 4 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 4,
+  "faceviewPart": "91794-T2AA-0030-H1",
+  "partNumbers": [
+    "91794-T2AA-0030-H1"
+  ],
+  "harnesses": [
+    "77901-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Steering"
+  ],
+  "systems": [
+    "Audio System",
+    "Dashlights"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91794-T2AA-0030-H1.svg",
+    "viewBox": "0 0 91.391 37.004",
+    "width": 91.391,
+    "height": 37.004
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND-ILL",
+      "english": "GND-ILL",
+      "russian": "GND-ILL",
+      "terminal": "Z30HA",
+      "geometry": {
+        "x": 9.636,
+        "y": 27.435,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND",
+      "english": "Ground",
+      "russian": "Масса",
+      "terminal": "Z60B",
+      "geometry": {
+        "x": 32.458,
+        "y": 27.436,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "VR&HFT",
+      "english": "VR&HFT",
+      "russian": "VR&HFT",
+      "terminal": "839C",
+      "geometry": {
+        "x": 55.583,
+        "y": 27.435,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "ILL+",
+      "english": "ILL +",
+      "russian": "ILL +",
+      "terminal": "11AHD",
+      "geometry": {
+        "x": 78.214,
+        "y": 27.436,
+        "svgTextId": "SVGID_4_"
+      }
+    }
+  ]
+}

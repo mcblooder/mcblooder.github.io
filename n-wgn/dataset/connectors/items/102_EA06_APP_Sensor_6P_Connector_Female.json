@@ -1,0 +1,122 @@
+{
+  "id": "102_EA06_APP_Sensor_6P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA06",
+  "physicalIds": [
+    "EA06"
+  ],
+  "name": "APP Sensor 6P Connector (Female)",
+  "nameRu": "Разъём APP датчик, 6 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 6,
+  "populatedPinCount": 6,
+  "faceviewPart": "91767-TF0 -0030-H1",
+  "partNumbers": [
+    "91767-TF0 -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Cruise Control",
+    "CVT Control System",
+    "ETCS (Electronic Throttle Control System)",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91767-TF0 -0030-H1.svg",
+    "viewBox": "0 0 132.879 27.554",
+    "width": 132.879,
+    "height": 27.554
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "VCC5",
+      "english": "VCC5",
+      "russian": "VCC5",
+      "terminal": "D17A",
+      "geometry": {
+        "x": 13.037,
+        "y": 19.988,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "SG5",
+      "english": "SG5",
+      "russian": "SG5",
+      "terminal": "D18B",
+      "geometry": {
+        "x": 33.689,
+        "y": 19.988,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "APS2",
+      "english": "APS2",
+      "russian": "APS2",
+      "terminal": "D12C",
+      "geometry": {
+        "x": 54.34,
+        "y": 19.988,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "VCC4",
+      "english": "VCC4",
+      "russian": "VCC4",
+      "terminal": "D15D",
+      "geometry": {
+        "x": 74.992,
+        "y": 19.988,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "SG4",
+      "english": "SG4",
+      "russian": "SG4",
+      "terminal": "D16E",
+      "geometry": {
+        "x": 95.644,
+        "y": 19.988,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "RED",
+      "circuit": "APS1",
+      "english": "APS1",
+      "russian": "APS1",
+      "terminal": "D11F",
+      "geometry": {
+        "x": 116.296,
+        "y": 19.988,
+        "svgTextId": "SVGID_6_"
+      }
+    }
+  ]
+}

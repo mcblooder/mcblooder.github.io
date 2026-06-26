@@ -1,0 +1,62 @@
+{
+  "id": "219_DN02_Right_Rear_Power_Window_Motor_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "DN02",
+  "physicalIds": [
+    "DN02"
+  ],
+  "name": "Right Rear Power Window Motor 2P Connector (Female)",
+  "nameRu": "Разъём правый задний стеклоподъёмник электродвигатель, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91765-STK -0030-H1",
+  "partNumbers": [
+    "91765-STK -0030-H1"
+  ],
+  "harnesses": [
+    "32753-T6G_-0000-"
+  ],
+  "locations": [
+    "Door > Right Rear Door"
+  ],
+  "systems": [
+    "Power Windows"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91765-STK -0030-H1.svg",
+    "viewBox": "0 0 100.709 46.709",
+    "width": 100.709,
+    "height": 46.709
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "P/W_RR_R_MTR_DOWN",
+      "english": "power window, rear/right, right, motor, down",
+      "russian": "стеклоподъёмник, задний/правый, правый, электродвигатель, вниз",
+      "terminal": "505A",
+      "geometry": {
+        "x": 15.09,
+        "y": 28.605,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "P/W_RR_R_MTR_UP",
+      "english": "power window, rear/right, right, motor, up",
+      "russian": "стеклоподъёмник, задний/правый, правый, электродвигатель, вверх",
+      "terminal": "504B000",
+      "geometry": {
+        "x": 81.169,
+        "y": 28.605,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

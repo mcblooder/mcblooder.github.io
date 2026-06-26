@@ -1,0 +1,158 @@
+{
+  "id": "license",
+  "category": "electrical_diagram",
+  "title": "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+  "system": "license",
+  "sheetCount": 8,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/license/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/license/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/license/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/license/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/license/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/license/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/license/sheet7.svg"
+    },
+    {
+      "name": "sheet8",
+      "asset": "assets/svg/license/sheet8.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Automatic Lighting/Sunlight Sensor",
+      "Brake Pedal Position Switch",
+      "Combination Light Switch",
+      "Engine Start/Stop Switch",
+      "Front Accessory Light",
+      "Gauge Control Module",
+      "Hazard Warning Switch",
+      "IG1 Relay 1",
+      "Left Front Position Light/Hood COMP",
+      "Left Front Turn Signal Light",
+      "Left Power Mirror",
+      "Left Taillight",
+      "Left-Front Wheel Speed Sensor",
+      "Left-Rear Wheel Speed Sensor",
+      "License Plate Light",
+      "PCM",
+      "Right Front Position Light/Hood COMP",
+      "Right Front Turn Signal Light",
+      "Right Power Mirror",
+      "Right Taillight",
+      "Right-Front Wheel Speed Sensor",
+      "Right-Rear Wheel Speed Sensor",
+      "Taillight Relay",
+      "VSA Modulator-Control Unit"
+    ],
+    "Couplers": [
+      "Automatic Lighting/Sunlight Sensor 7P Connector (Female)",
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "Brake Pedal Position Switch 4P Connector (Female)",
+      "C003 (Female)",
+      "C108 (Male)|C108 (Female)",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C117 (Male)|C117 (Female)",
+      "C118 (Male)|C118 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "C120 (Male)|C120 (Female)",
+      "C121 (Male)|C121 (Female)",
+      "Combination Light Switch 12P Connector (Female)",
+      "Data Link Connector (DLC) (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Front Accessory Light 2P Connector (Female)",
+      "Gauge Control Module 32P Connector (Female)",
+      "Hazard Warning Switch 4P Connector (Female)",
+      "Left Front Position Light/Hood COMP 4P Connector (Female)",
+      "Left Front Turn Signal Light 2P Connector (Female)",
+      "Left Power Mirror 14P Connector (Male)",
+      "Left Taillight 6P Connector (Male)",
+      "Left-Front Wheel Speed Sensor 2P Connector (Male)",
+      "Left-Rear Wheel Speed Sensor 2P Connector (Female)",
+      "License Plate Light 2P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "Right Front Position Light/Hood COMP 4P Connector (Female)",
+      "Right Front Turn Signal Light 2P Connector (Female)",
+      "Right Power Mirror 14P Connector (Male)",
+      "Right Taillight 6P Connector (Male)",
+      "Right-Front Wheel Speed Sensor 2P Connector (Female)",
+      "Right-Rear Wheel Speed Sensor 2P Connector (Male)",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector D (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector F (18P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector H (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector U (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box",
+      "VSA Modulator-Control Unit 38P Connector (Female)"
+    ],
+    "Fuses": [
+      "+B_BACK_UP(BST)",
+      "+B_BACK_UP_MAIN(P/S)",
+      "+B_DC/DC_1",
+      "+B_F/BOX_MAIN",
+      "+B_HAZARD",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMALL",
+      "+B_SMART",
+      "+B_STOP_&_HORN",
+      "07_IG1_RELAY_1",
+      "IG1_METER(P/S)"
+    ],
+    "Grounds": [
+      "G201",
+      "G202",
+      "G301",
+      "G302",
+      "G401",
+      "G402",
+      "G403",
+      "G502",
+      "G503"
+    ],
+    "Harnesses": [
+      "BC Combinetion Switch Subharness",
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "BQ Roof Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "DH Front Passenger's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "LB High Mount Brake Light Subharness",
+      "TH Tailgate Wire Harness"
+    ]
+  }
+}

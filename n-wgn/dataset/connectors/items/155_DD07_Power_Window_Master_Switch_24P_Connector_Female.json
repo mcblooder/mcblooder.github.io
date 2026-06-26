@@ -1,0 +1,371 @@
+{
+  "id": "155_DD07_Power_Window_Master_Switch_24P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "DD07",
+  "physicalIds": [
+    "DD07"
+  ],
+  "name": "Power Window Master Switch 24P Connector (Female)",
+  "nameRu": "Разъём стеклоподъёмник Master выключатель, 24 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 24,
+  "populatedPinCount": 19,
+  "faceviewPart": "91761-T4NA-0030-H1",
+  "partNumbers": [
+    "91761-T4NA-0030-H1"
+  ],
+  "harnesses": [
+    "32751-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Door > Driver's Door"
+  ],
+  "systems": [
+    "Dashlights",
+    "Power Windows"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91761-T4NA-0030-H1.svg",
+    "viewBox": "0 0 216.823 72.564",
+    "width": 216.823,
+    "height": 72.564
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z30A000",
+      "geometry": {
+        "x": 9.787,
+        "y": 14.405,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "P/W_RR_L_POWER",
+      "english": "power window, rear/right, left, power",
+      "russian": "стеклоподъёмник, задний/правый, левый, питание",
+      "terminal": "522B",
+      "geometry": {
+        "x": 202.266,
+        "y": 14.405,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z30C",
+      "geometry": {
+        "x": 9.787,
+        "y": 36.849,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "P/W_DR_MTR_DOWN",
+      "english": "power window, DR, motor, down",
+      "russian": "стеклоподъёмник, DR, электродвигатель, вниз",
+      "terminal": "501D",
+      "geometry": {
+        "x": 32.275,
+        "y": 36.849,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "RED",
+      "circuit": "+B_P/W_DR",
+      "english": "Constant battery power: power window, DR",
+      "russian": "Постоянное питание от АКБ: стеклоподъёмник, DR",
+      "terminal": "B21E000",
+      "geometry": {
+        "x": 54.717,
+        "y": 36.849,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "P/W_DR_MTR_UP",
+      "english": "power window, DR, motor, up",
+      "russian": "стеклоподъёмник, DR, электродвигатель, вверх",
+      "terminal": "500F",
+      "geometry": {
+        "x": 157.099,
+        "y": 36.849,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "P/W_RR_L_SW_UP",
+      "english": "power window, rear/right, left, switch, up",
+      "russian": "стеклоподъёмник, задний/правый, левый, выключатель, вверх",
+      "terminal": "512G",
+      "geometry": {
+        "x": 179.826,
+        "y": 36.849,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "P/W_RR_L_SW_DOWN",
+      "english": "power window, rear/right, left, switch, down",
+      "russian": "стеклоподъёмник, задний/правый, левый, выключатель, вниз",
+      "terminal": "513H",
+      "geometry": {
+        "x": 202.266,
+        "y": 36.849,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "RED",
+      "circuit": "P/W_AS_SW_UP",
+      "english": "power window, AS, switch, up",
+      "russian": "стеклоподъёмник, AS, выключатель, вверх",
+      "terminal": "508J",
+      "geometry": {
+        "x": 9.787,
+        "y": 59.857,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "P/W_AS_SW_DOWN",
+      "english": "power window, AS, switch, down",
+      "russian": "стеклоподъёмник, AS, выключатель, вниз",
+      "terminal": "509K",
+      "geometry": {
+        "x": 30.239,
+        "y": 59.857,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "P/W_AS_POWER",
+      "english": "power window, AS, power",
+      "russian": "стеклоподъёмник, AS, питание",
+      "terminal": "520L",
+      "geometry": {
+        "x": 52.682,
+        "y": 59.857,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "P/W_RR_R_SW_UP",
+      "english": "power window, rear/right, right, switch, up",
+      "russian": "стеклоподъёмник, задний/правый, правый, выключатель, вверх",
+      "terminal": "510M",
+      "geometry": {
+        "x": 154.875,
+        "y": 59.857,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "P/W_RR_R_SW_DOWN",
+      "english": "power window, rear/right, right, switch, down",
+      "russian": "стеклоподъёмник, задний/правый, правый, выключатель, вниз",
+      "terminal": "511N",
+      "geometry": {
+        "x": 177.6,
+        "y": 59.857,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "P/W_RR_R_POWER",
+      "english": "power window, rear/right, right, power",
+      "russian": "стеклоподъёмник, задний/правый, правый, питание",
+      "terminal": "521P",
+      "geometry": {
+        "x": 200.042,
+        "y": 59.857,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "P/W_DR_MTR_VCC",
+      "english": "power window, DR, motor, supply voltage",
+      "russian": "стеклоподъёмник, DR, электродвигатель, напряжение питания",
+      "terminal": "514R",
+      "geometry": {
+        "x": 75.124,
+        "y": 29.761,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "P/W_DR_MTR_PLSB",
+      "english": "power window, DR, motor, PLSB",
+      "russian": "стеклоподъёмник, DR, электродвигатель, PLSB",
+      "terminal": "516S",
+      "geometry": {
+        "x": 94.022,
+        "y": 29.761,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "P/W_DR_MTR_PLSA",
+      "english": "power window, DR, motor, PLSA",
+      "russian": "стеклоподъёмник, DR, электродвигатель, PLSA",
+      "terminal": "515T",
+      "geometry": {
+        "x": 112.92,
+        "y": 29.761,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "P/W_DR_MTR_SGND",
+      "english": "power window, DR, motor, SGND",
+      "russian": "стеклоподъёмник, DR, электродвигатель, SGND",
+      "terminal": "517W",
+      "geometry": {
+        "x": 131.818,
+        "y": 29.761,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11X",
+      "geometry": {
+        "x": 94.022,
+        "y": 48.659,
+        "svgTextId": "SVGID_19_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 112.92,
+        "y": 48.659,
+        "svgTextId": "SVGID_20_"
+      }
+    },
+    {
+      "pin": 21,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 75.124,
+        "y": 66.991,
+        "svgTextId": "SVGID_21_"
+      }
+    },
+    {
+      "pin": 22,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 94.022,
+        "y": 66.991,
+        "svgTextId": "SVGID_22_"
+      }
+    },
+    {
+      "pin": 23,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 112.92,
+        "y": 66.991,
+        "svgTextId": "SVGID_23_"
+      }
+    },
+    {
+      "pin": 24,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 131.818,
+        "y": 66.991,
+        "svgTextId": "SVGID_24_"
+      }
+    }
+  ]
+}

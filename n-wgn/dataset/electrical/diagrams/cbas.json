@@ -1,0 +1,112 @@
+{
+  "id": "cbas",
+  "category": "electrical_diagram",
+  "title": "City-Brake Active System",
+  "system": "cbas",
+  "sheetCount": 6,
+  "sheets": [
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/cbas/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/cbas/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/cbas/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/cbas/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/cbas/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/cbas/sheet7.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Brake Light Relay",
+      "Brake Pedal Position Switch",
+      "City-Brake Active System",
+      "City-Brake Active System OFF Switch",
+      "EPS Control Unit",
+      "Engine Start/Stop Switch",
+      "Gauge Control Module",
+      "IG1 Relay 1",
+      "IG1 Relay 2",
+      "PCM",
+      "Steering Angle Sensor",
+      "VSA Modulator-Control Unit"
+    ],
+    "Couplers": [
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "Brake Pedal Position Switch 4P Connector (Female)",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C117 (Male)|C117 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "C121 (Male)|C121 (Female)",
+      "City-Brake Active System 7P Connector (Female)",
+      "City-Brake Active System OFF Switch 6P Connector (Female)",
+      "Data Link Connector (DLC) (Female)",
+      "EPS Control Unit Connector B (10P) (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Gauge Control Module 32P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "Steering Angle Sensor 4P Connector (Female)",
+      "Sub Relay Block 2",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector D (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector K (4P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector U (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box",
+      "VSA Modulator-Control Unit 38P Connector (Female)"
+    ],
+    "Fuses": [
+      "+B_DC/DC_1",
+      "+B_DC/DC_2",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "+B_STOP_&_HORN",
+      "07_IG1_RELAY_1",
+      "16_IG1_RELAY_2",
+      "IG1_ABS/EPS(P/S)",
+      "IG1_METER(P/S)"
+    ],
+    "Grounds": [
+      "G202",
+      "G401",
+      "G402",
+      "G403"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "BQ Roof Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "LB High Mount Brake Light Subharness",
+      "TH Tailgate Wire Harness"
+    ]
+  }
+}

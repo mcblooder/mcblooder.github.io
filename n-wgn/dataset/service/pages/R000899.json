@@ -1,0 +1,105 @@
+{
+  "id": "R000899",
+  "title": "Auto A/C control unit removal/attachment",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000899",
+  "assets": [
+    "899_5.0_jpn_11581034_5.0_disp.png",
+    "899_5.0_jpn_11581035_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000770",
+      "label": "Meter panel removal",
+      "resolved": true
+    },
+    {
+      "id": "R002502",
+      "label": "Center tray removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Auto A/C control unit removal/attachment"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Meter panel removal",
+      "refs": [
+        {
+          "id": "R000770",
+          "label": "Meter panel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Center tray removal",
+      "refs": [
+        {
+          "id": "R002502",
+          "label": "Center tray removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Auto A/C control panel removal"
+    },
+    {
+      "type": "figure",
+      "asset": "899_5.0_jpn_11581034_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the auto A/C control panel (A) and disconnect the coupler (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Auto A/C control unit removal"
+    },
+    {
+      "type": "figure",
+      "asset": "899_5.0_jpn_11581035_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the auto A/C control unit (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Precautions for installation work"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000899_jpn/web/html/R000899_jpn_Content.html",
+  "inOutline": true
+}

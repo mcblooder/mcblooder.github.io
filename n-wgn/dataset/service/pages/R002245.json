@@ -1,0 +1,131 @@
+{
+  "id": "R002245",
+  "title": "City Brake Active System Radar/Control Unit Learning Value Reset",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Speed/body control",
+  "system": "City Brake Active System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002245",
+  "assets": [
+    "2245_3.0_jpn_11347568_2.0_disp.png",
+    "2245_3.0_jpn_11347569_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "T002567",
+      "label": "Inspect data link circuits",
+      "resolved": false
+    },
+    {
+      "id": "R002243",
+      "label": "City Brake Active System Radar/Control Unit Functional Inspection",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "City Brake Active System Radar/Control Unit Learning Value Reset"
+    },
+    {
+      "type": "paragraph",
+      "text": "The City Brake Active System radar/control unit emits a laser beam through the windshield, so its accuracy is compensated for the dirt and fogging of the windshield due to ageing. The correction information is recorded in the City Brake Active System radar/control unit."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When the City Brake Active System Radar/Control Unit is replaced with a new unit, the front windshield condition, which is the reference for correction, is automatically learned at the first ignition ON mode. Therefore, the unit may have been learned under unexpected circumstances (e.g., the unit is not installed in the correct location), and the procedure shown below should be followed to ensure that the unit is reset, even if it has been replaced."
+        },
+        {
+          "text": "When the City Brake Active System Radar/Control Unit is replaced with a new unit, the front windshield condition, which is the reference for correction, is automatically learned at the first ignition ON mode. Therefore, the unit may have been learned under unexpected circumstances (e.g., the unit is not installed in the correct location), and the procedure shown below should be followed to ensure that the unit is reset, even if it has been replaced."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. City Brake Active System Radar/Control Unit Reset Learned Values"
+    },
+    {
+      "type": "figure",
+      "asset": "2245_3.0_jpn_11347568_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2245_3.0_jpn_11347569_2.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not look into the laser section from close range.",
+        "The City Brake Active System radar/control unit shall be reset if any of the following operations are performed",
+        "Front Windshield Replacement",
+        "City Brake Active System Radar/Control Unit Replacement"
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition to ON mode. Connect HDS to the data link coupler (A) located in the driver's seat. Ensure that HDS communicates with the vehicle and the City Brake Active System radar/control unit. Select Adjustments from the HDS Driver Assistance System, City Brake Active System menu and perform radar calibration.",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "Inspect data link circuits",
+          "resolved": false
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If not communicating, Inspect data link circuits Do.",
+          "refs": [
+            {
+              "id": "T002567",
+              "label": "Inspect data link circuits",
+              "resolved": false
+            }
+          ]
+        },
+        {
+          "text": "If not communicating, Inspect data link circuits Do.",
+          "refs": [
+            {
+              "id": "T002567",
+              "label": "Inspect data link circuits",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. City Brake Active System Radar/Control Unit Functional Inspection",
+      "refs": [
+        {
+          "id": "R002243",
+          "label": "City Brake Active System Radar/Control Unit Functional Inspection",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002245_jpn/web/html/R002245_jpn_Content.html",
+  "inOutline": true
+}

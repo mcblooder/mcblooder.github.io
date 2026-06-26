@@ -1,0 +1,75 @@
+{
+  "id": "fog_lights",
+  "category": "electrical_diagram",
+  "title": "Fog Lights",
+  "system": "fog_lights",
+  "sheetCount": 1,
+  "sheets": [
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/fog_lights/sheet6.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Combination Light Switch",
+      "Engine Start/Stop Switch",
+      "Front Fog Light Relay",
+      "Gauge Control Module",
+      "IG1 Relay 1",
+      "Left Front Fog Light",
+      "Right Front Fog Light"
+    ],
+    "Couplers": [
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "C003 (Female)",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "C120 (Male)|C120 (Female)",
+      "Combination Light Switch 12P Connector (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Gauge Control Module 32P Connector (Female)",
+      "Left Front Fog Light 2P Connector (Female)",
+      "Right Front Fog Light 2P Connector (Female)",
+      "Sub Relay Block 3",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_DC/DC_1",
+      "+B_F/BOX_MAIN",
+      "+B_FR_FOG",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "07_IG1_RELAY_1",
+      "IG1_METER(P/S)"
+    ],
+    "Grounds": [
+      "G201",
+      "G202",
+      "G301",
+      "G401",
+      "G402"
+    ],
+    "Harnesses": [
+      "BC Combinetion Switch Subharness",
+      "BD Dashboard Wire Harness",
+      "BQ Roof Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

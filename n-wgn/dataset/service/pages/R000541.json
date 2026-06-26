@@ -1,0 +1,110 @@
+{
+  "id": "R000541",
+  "title": "Correction of Inclination Sensor Driving Learning",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM electrical system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000541",
+  "assets": [
+    "541_5.0_jpn_11582169_5.0_disp.png",
+    "541_5.0_jpn_11676647_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "T002567",
+      "label": "If there is no communication, check the data link circuit.",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Correction of Inclination Sensor Driving Learning"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the creep force is weak and the brake pedal is pressed with the brake pedal in the D position on an uphill slope and the driver moves backward when the brake pedal is relaxed, or if the creep force is strong and the driver is stopped with the brake pedal on a flat road in the D position and the brake pedal is pressed with the brake pedal, the slope sensor driving learning correction is performed when the driver moves forward when the brake pedal is relaxed. D position."
+        },
+        {
+          "text": "If the creep force is weak and the brake pedal is pressed with the brake pedal in the D position on an uphill slope and the driver moves backward when the brake pedal is relaxed, or if the creep force is strong and the driver is stopped with the brake pedal on a flat road in the D position and the brake pedal is pressed with the brake pedal, the slope sensor driving learning correction is performed when the driver moves forward when the brake pedal is relaxed. D position."
+        },
+        {
+          "text": "This work can be done in two ways: on a level surface or on an unlevel surface. If the level of the area where the vehicle is to be placed cannot be confirmed, the work should be performed on an unlevel area."
+        },
+        {
+          "text": "This work can be done in two ways: on a level surface or on an unlevel surface. If the level of the area where the vehicle is to be placed cannot be confirmed, the work should be performed on an unlevel area."
+        },
+        {
+          "text": "The work shall be performed by one occupant and shall not generate vibration during the study."
+        },
+        {
+          "text": "The work shall be performed by one occupant and shall not generate vibration during the study."
+        },
+        {
+          "text": "This process can only be performed when the driving study has been completed."
+        },
+        {
+          "text": "This process can only be performed when the driving study has been completed."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Correction of Inclination Sensor Driving Learning"
+    },
+    {
+      "type": "figure",
+      "asset": "541_5.0_jpn_11676647_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply the parking brake. Check that the tire pressure is at the standard value (see the tire label on the vehicle). (See the tire label on the vehicle.) If it is out of the standard value, adjust the air pressure to the standard value. Connect HDS to the data link coupler (A) on the left side of the driver's seat. Turn ignition to ON mode. Verify that HDS communicates with the vehicle and the PGM-FI ECU. If there is no communication, check the data link circuit. Select \"AT\" from the \"System Selection Menu\" in HDS. Select \"Various Tests\" from the \"Test Mode Menu\". Select \"Inclination Sensor Learning\" from the \"Various Tests Menu\". Select \"Correct Inclination Sensor Travel Learning\" from \"Inclination Sensor Learning\". The learning is performed once. Proceed with the work according to the HDS display, and the initial learning of the tilt sensor is completed when the display indicates that the learning is complete. If a message other than \"Learning Completed\" is displayed, the work shall be performed in accordance with the indication of HDS.",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "If there is no communication, check the data link circuit.",
+          "resolved": false
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Correction of Inclination Sensor Driving Learning"
+    },
+    {
+      "type": "figure",
+      "asset": "541_5.0_jpn_11582169_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply the parking brake. Check that the tire pressure is at the standard value (see the tire label on the vehicle). (See the tire label on the vehicle.) If it is out of the standard value, adjust the air pressure to the standard value. Mark all tire locations. Connect HDS to the data link coupler (A) on the left side of the driver's seat. Turn ignition to ON mode. Verify that HDS communicates with the vehicle and the PGM-FI ECU. If there is no communication, check the data link circuit. Select \"AT\" from the \"System Selection Menu\" in HDS. Select \"Various Tests\" from the \"Test Mode Menu\". Select \"Inclination Sensor Learning\" from the \"Various Tests Menu\". Select \"Correct inclination sensor travel learning\" from \"Inclination sensor learning\". The learning is performed twice. After completing the first study, turn the vehicle around, align the tires with the marked positions, stop the vehicle, and apply the parking brake. The correction of the inclination sensor driving learning is completed when the display indicates that the learning is complete. If a message other than \"Learning Completed\" is displayed, the work shall be performed in accordance with the indication of HDS.",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "If there is no communication, check the data link circuit.",
+          "resolved": false
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000541_jpn/web/html/R000541_jpn_Content.html",
+  "inOutline": true
+}

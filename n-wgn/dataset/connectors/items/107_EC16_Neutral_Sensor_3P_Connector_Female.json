@@ -1,0 +1,78 @@
+{
+  "id": "107_EC16_Neutral_Sensor_3P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC16",
+  "physicalIds": [
+    "EC16"
+  ],
+  "name": "Neutral Sensor 3P Connector (Female)",
+  "nameRu": "Разъём Neutral датчик, 3 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "91703-R40 -0030-H1",
+  "partNumbers": [
+    "91703-R40 -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Left Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "CVT Control System",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91703-R40 -0030-H1.svg",
+    "viewBox": "0 0 68.859 27.554",
+    "width": 68.859,
+    "height": 27.554
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "SG2",
+      "english": "SG2",
+      "russian": "SG2",
+      "terminal": "Z28A000",
+      "geometry": {
+        "x": 12.004,
+        "y": 19.988,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "NT",
+      "english": "NT",
+      "russian": "NT",
+      "terminal": "M18B",
+      "geometry": {
+        "x": 32.656,
+        "y": 19.988,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "RED",
+      "circuit": "VCC2_TC",
+      "english": "VCC2, TC",
+      "russian": "VCC2, TC",
+      "terminal": "D46C002",
+      "geometry": {
+        "x": 53.308,
+        "y": 19.988,
+        "svgTextId": "SVGID_3_"
+      }
+    }
+  ]
+}

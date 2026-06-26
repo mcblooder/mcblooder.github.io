@@ -1,0 +1,217 @@
+{
+  "id": "010_BD60_Engine_Start_Stop_Switch_10P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD60",
+  "physicalIds": [
+    "BD60"
+  ],
+  "name": "Engine Start/Stop Switch 10P Connector (Female)",
+  "nameRu": "Разъём Engine Start/Stop выключатель, 10 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 10,
+  "populatedPinCount": 9,
+  "faceviewPart": "91769-SNA -0030-H1",
+  "partNumbers": [
+    "91769-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "A/T Interlock System",
+    "Accessory Power Socket",
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "Audio System",
+    "Auto Idle Stop System",
+    "Back-Up Lights",
+    "Brake Lights",
+    "Charging System",
+    "City-Brake Active System",
+    "Climate Control",
+    "Cruise Control",
+    "CVT Control System",
+    "Dashlights",
+    "Energy Management System",
+    "Entry Light Control System",
+    "EPS",
+    "EVAP System",
+    "Fans",
+    "Fog Lights",
+    "Fuel Supply System",
+    "Gauges",
+    "Headlight Leveling System",
+    "Headlights",
+    "Idle Control System",
+    "Ignition System",
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "MIL Circuit",
+    "PCM (All)",
+    "PCM Power and Ground",
+    "PGM-FI System",
+    "Power Mirrors",
+    "Power Supply",
+    "Power Windows",
+    "Power, Grounds and Diagnostics",
+    "Rear Window/Power Mirror Defoggers",
+    "SRS",
+    "Starting System",
+    "VSA",
+    "Wiper/Washer (Rear Window)",
+    "Wiper/Washer (Windshield)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91769-SNA -0030-H1.svg",
+    "viewBox": "0 0 114.068 59.677",
+    "width": 114.068,
+    "height": 59.677
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "SS2(-)",
+      "english": "SS2,  -",
+      "russian": "SS2,  -",
+      "terminal": "940A",
+      "geometry": {
+        "x": 9.482,
+        "y": 28.538,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z34B",
+      "geometry": {
+        "x": 32.147,
+        "y": 28.538,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 54.81,
+        "y": 28.538,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "RED",
+      "circuit": "SS1(+)",
+      "english": "SS1,  +",
+      "russian": "SS1,  +",
+      "terminal": "939D",
+      "geometry": {
+        "x": 77.475,
+        "y": 28.54,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_SMART",
+      "english": "Constant battery power: SMART",
+      "russian": "Постоянное питание от АКБ: SMART",
+      "terminal": "BH4E000",
+      "geometry": {
+        "x": 100.137,
+        "y": 28.54,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "START_SW_ILL",
+      "english": "START, switch, ILL",
+      "russian": "START, выключатель, ILL",
+      "terminal": "942F",
+      "geometry": {
+        "x": 9.482,
+        "y": 50.736,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "VOUT_SLOT",
+      "english": "VOUT, SLOT",
+      "russian": "VOUT, SLOT",
+      "terminal": "953G",
+      "geometry": {
+        "x": 32.145,
+        "y": 50.736,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "START_SW_IND1",
+      "english": "START, switch, IND1",
+      "russian": "START, выключатель, IND1",
+      "terminal": "941H",
+      "geometry": {
+        "x": 54.81,
+        "y": 50.736,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "DIN/DOUT",
+      "english": "DIN / DOUT",
+      "russian": "DIN / DOUT",
+      "terminal": "958J",
+      "geometry": {
+        "x": 77.473,
+        "y": 50.736,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "DCK",
+      "english": "DCK",
+      "russian": "DCK",
+      "terminal": "959K",
+      "geometry": {
+        "x": 97.912,
+        "y": 51.129,
+        "svgTextId": "SVGID_10_"
+      }
+    }
+  ]
+}

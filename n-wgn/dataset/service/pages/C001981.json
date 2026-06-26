@@ -1,0 +1,56 @@
+{
+  "id": "C001981",
+  "title": "MICU Structure Description - Control/Function",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "integrated system",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001981",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "MICU Structure Description - Control/Function"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "self-diagnostic function"
+    },
+    {
+      "type": "paragraph",
+      "text": "The MICU has a self-diagnostic function to diagnose the communication and input systems. Diagnosis of communication system (Service Check Mode 1): If a communication error with B-CAN BUS off or combination meter is detected, a code corresponding to the error is displayed on the interior light. Input system diagnostics (Service Check Mode 2): The interior light blinks when inputs from switches and sensors change to enable input system diagnostics."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "External Fault Diagnostic Function"
+    },
+    {
+      "type": "paragraph",
+      "text": "By connecting HDS, it is possible to diagnose failures of the MICU itself and other control units connected via B-CAN."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Customized Memory Functions"
+    },
+    {
+      "type": "paragraph",
+      "text": "It has a function to hold the customized values of the MICU itself and other control units connected via B-CAN in non-volatile memory (EEPROM)."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001981_jpn/web/html/C001981_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,125 @@
+{
+  "id": "a_t_gear_position",
+  "category": "electrical_diagram",
+  "title": "A/T Gear Position Indicator",
+  "system": "a_t_gear_position",
+  "sheetCount": 10,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/a_t_gear_position/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/a_t_gear_position/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/a_t_gear_position/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/a_t_gear_position/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/a_t_gear_position/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/a_t_gear_position/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/a_t_gear_position/sheet7.svg"
+    },
+    {
+      "name": "sheet8",
+      "asset": "assets/svg/a_t_gear_position/sheet8.svg"
+    },
+    {
+      "name": "sheet9",
+      "asset": "assets/svg/a_t_gear_position/sheet9.svg"
+    },
+    {
+      "name": "sheet10",
+      "asset": "assets/svg/a_t_gear_position/sheet10.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Audio Remote/Multi-Information Display Switch",
+      "Cable Reel",
+      "Cruise Control Combination Switch",
+      "Engine Start/Stop Switch",
+      "Gauge Control Module",
+      "IG1 Relay 1",
+      "PCM",
+      "PGM-FI Main Relay 1",
+      "Paddle Shifter + (Upshift Switch)",
+      "Paddle Shifter - (Downshift Switch)",
+      "Transmission Range Sensor"
+    ],
+    "Couplers": [
+      "Audio Remote/Multi-Information Display Switch 12P Connector (Female)",
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "C002 (Female)",
+      "C105 (Male)|C105 (Female)",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "Cable Reel Connector A (20P) (Female)",
+      "Cable Reel Connector C (20P) (Female)",
+      "Cruise Control Combination Switch 12P Connector (Female)",
+      "Data Link Connector (DLC) (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Gauge Control Module 32P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "PCM Connector E (80P) (Female)",
+      "Paddle Shifter + (Upshift Switch) 2P Connector (Female)",
+      "Paddle Shifter - (Downshift Switch) 2P Connector (Female)",
+      "Sub Relay Block 1",
+      "T1",
+      "Transmission Range Sensor 10P Connector (Female)",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector K (4P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_BACK_UP(BST)",
+      "+B_BACK_UP_MAIN(P/S)",
+      "+B_DC/DC_1",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "07_IG1_RELAY_1",
+      "21_+B_IGP",
+      "IG1_METER(P/S)"
+    ],
+    "Grounds": [
+      "G401",
+      "G402",
+      "G451"
+    ],
+    "Harnesses": [
+      "BB Cable Reel Subharness",
+      "BD Dashboard Wire Harness",
+      "BQ Roof Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

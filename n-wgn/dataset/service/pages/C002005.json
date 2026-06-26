@@ -1,0 +1,44 @@
+{
+  "id": "C002005",
+  "title": "Fog Light Structure Description - Overview",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Fog Lights",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002005",
+  "assets": [
+    "2005_3.0_jpn_11390964_2.0_disp.png",
+    "2005_3.0_jpn_11390965_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fog Light Structure Description - Overview"
+    },
+    {
+      "type": "paragraph",
+      "text": "Front fog lights are equipped depending on the specifications. Front fog lights are controlled by MICU."
+    },
+    {
+      "type": "figure",
+      "asset": "2005_3.0_jpn_11390964_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2005_3.0_jpn_11390965_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002005_jpn/web/html/C002005_jpn_Content.html",
+  "inOutline": true
+}

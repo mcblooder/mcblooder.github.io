@@ -1,0 +1,258 @@
+{
+  "id": "251_U_Under-Dash_Fuse_Relay_Box_Connector_U_24P_Male",
+  "category": "connector",
+  "connectorRef": "U",
+  "physicalIds": [
+    "U"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector U (24P) (Male)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector U (24P), штыревая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 23,
+  "populatedPinCount": 14,
+  "faceviewPart": "DM",
+  "partNumbers": [],
+  "harnesses": [
+    "38200-T6G_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [],
+  "faceview": {
+    "asset": "assets/faceview/DM.svg",
+    "viewBox": "0 0 82.374 22.471",
+    "width": 82.374,
+    "height": 22.471
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "L_TURN",
+      "english": "left, turn signal",
+      "russian": "левый, указатель поворота",
+      "terminal": "17A",
+      "geometry": null
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11B001",
+      "geometry": null
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 4,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 5,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 6,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 7,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 8,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 9,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "MTR_CONT",
+      "english": "motor, CONT",
+      "russian": "электродвигатель, CONT",
+      "terminal": "946K",
+      "geometry": null
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "HORN_SW",
+      "english": "horn, switch",
+      "russian": "звуковой сигнал, выключатель",
+      "terminal": "61L",
+      "geometry": null
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "ESL_SW_B",
+      "english": "ESL, switch, B",
+      "russian": "ESL, выключатель, B",
+      "terminal": "947M",
+      "geometry": null
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_BACK_UP_BST",
+      "english": "Constant battery power: back-up, up, BST",
+      "russian": "Постоянное питание от АКБ: резервный, вверх, BST",
+      "terminal": "B79N",
+      "geometry": null
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11P",
+      "geometry": null
+    },
+    {
+      "pin": 15,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 16,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z40T",
+      "geometry": null
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ESL_SW_D",
+      "english": "ESL, switch, D",
+      "russian": "ESL, выключатель, D",
+      "terminal": "964W",
+      "geometry": null
+    },
+    {
+      "pin": 19,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "ESL_SW_C",
+      "english": "ESL, switch, C",
+      "russian": "ESL, выключатель, C",
+      "terminal": "948X",
+      "geometry": null
+    },
+    {
+      "pin": 20,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "MTR_CUT2(IG1)",
+      "english": "motor, CUT2, ignition IG1",
+      "russian": "электродвигатель, CUT2, зажигание IG1",
+      "terminal": "950Y",
+      "geometry": null
+    },
+    {
+      "pin": 21,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "MTR_CUT1(CONT)",
+      "english": "motor, CUT1, CONT",
+      "russian": "электродвигатель, CUT1, CONT",
+      "terminal": "949Z",
+      "geometry": null
+    },
+    {
+      "pin": 22,
+      "used": true,
+      "wire": "ORN",
+      "circuit": "ESL_PWR",
+      "english": "ESL, PWR",
+      "russian": "ESL, PWR",
+      "terminal": "945AA",
+      "geometry": null
+    },
+    {
+      "pin": 23,
+      "used": true,
+      "wire": "RED",
+      "circuit": "IGN_TRX",
+      "english": "IGN, TRX",
+      "russian": "IGN, TRX",
+      "terminal": "944AB",
+      "geometry": null
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "182_DH05_Front_Passenger_s_Door_Touch_Sensor_2P_Connector_Male",
+  "category": "connector",
+  "connectorRef": "DH05",
+  "physicalIds": [
+    "DH05"
+  ],
+  "name": "Front Passenger's Door Touch Sensor 2P Connector (Male)",
+  "nameRu": "Разъём передний пассажира Door Touch датчик, 2 контактов, штыревая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91972-SKN -0030-H1",
+  "partNumbers": [
+    "91972-SKN -0030-H1"
+  ],
+  "harnesses": [
+    "32752-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Door > Front Passenger's Door"
+  ],
+  "systems": [
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91972-SKN -0030-H1.svg",
+    "viewBox": "0 0 74.41 51.732",
+    "width": 74.41,
+    "height": 51.732
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-2)",
+      "english": "Ground (CTR-2)",
+      "russian": "Масса (CTR-2)",
+      "terminal": "Z48A",
+      "geometry": {
+        "x": 48.513,
+        "y": 28.918,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "AS_REQ_SW",
+      "english": "AS, REQ, switch",
+      "russian": "AS, REQ, выключатель",
+      "terminal": "969B",
+      "geometry": {
+        "x": 20.167,
+        "y": 28.918,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

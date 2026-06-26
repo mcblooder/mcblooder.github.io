@@ -1,0 +1,138 @@
+{
+  "id": "R000638",
+  "title": "Removing and installing the steering lock",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000638",
+  "assets": [
+    "638_5.0_jpn_11581878_5.0_disp.png",
+    "638_5.0_jpn_11581879_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000636",
+      "label": "Steering column removal",
+      "resolved": true
+    },
+    {
+      "id": "R000912",
+      "label": "Honda Smart Key System Registration",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removing and installing the steering lock"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Steering column removal",
+      "refs": [
+        {
+          "id": "R000636",
+          "label": "Steering column removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Steering lock removal"
+    },
+    {
+      "type": "figure",
+      "asset": "638_5.0_jpn_11581878_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Place a punch mark in the center of the set bolt (A) and drill a hole for the tap. The set bolt is left-hand threaded. Thread the set bolt with a tap, tighten the prepared screw and turn it to the right to remove the set bolt. Remove the steering lock (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When drilling the set bolt, be careful not to damage the threads of the steering lock body.",
+        "Prepare removal screws that match the size of the set bolts."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When drilling the set bolt, be careful not to damage the threads of the steering lock body."
+        },
+        {
+          "text": "When drilling the set bolt, be careful not to damage the threads of the steering lock body."
+        },
+        {
+          "text": "Prepare removal screws that match the size of the set bolts."
+        },
+        {
+          "text": "Prepare removal screws that match the size of the set bolts."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Steering lock installation"
+    },
+    {
+      "type": "figure",
+      "asset": "638_5.0_jpn_11581879_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Attach the steering lock to the steering column and temporarily tighten the set bolt (A). Tighten until the thin part (B) of the set bolt is threaded off."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Align the protrusion of the steering lock with the hole in the steering column."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Steering Column Installation",
+      "refs": [
+        {
+          "id": "R000636",
+          "label": "Steering Column Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Honda Smart Key System Registration",
+      "refs": [
+        {
+          "id": "R000912",
+          "label": "Honda Smart Key System Registration",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000638_jpn/web/html/R000638_jpn_Content.html",
+  "inOutline": true
+}

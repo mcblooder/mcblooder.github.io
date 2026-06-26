@@ -1,0 +1,63 @@
+{
+  "id": "pcm_p_and_g",
+  "category": "electrical_diagram",
+  "title": "PCM Power and Ground",
+  "system": "pcm_p_and_g",
+  "sheetCount": 3,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/pcm_p_and_g/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/pcm_p_and_g/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/pcm_p_and_g/sheet3.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Engine Start/Stop Switch",
+      "PCM",
+      "PGM-FI Main Relay 1"
+    ],
+    "Couplers": [
+      "C001 (Female)",
+      "C002 (Female)",
+      "C105 (Male)|C105 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "PCM Connector E (80P) (Female)",
+      "Sub Relay Block 1",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_DBW",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "21_+B_IGP"
+    ],
+    "Grounds": [
+      "G303",
+      "G402"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

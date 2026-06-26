@@ -1,0 +1,239 @@
+{
+  "id": "T001391",
+  "title": "Honda Smart Key System Symptom-by-Symptom Failure Diagnosis Procedure",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001391",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Honda Smart Key System Symptom-by-Symptom Failure Diagnosis Procedure"
+    },
+    {
+      "type": "paragraph",
+      "text": "The status of the Honda Smart Key system can be checked with a smart warning light."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lighting pattern 1 (Bulb check)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The smart warning light illuminates for approximately 2 seconds when the ignition is turned to the ON mode in order for the occupant to confirm that the smart warning light is not illuminated."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lighting pattern 2 (Fault detection in ignition OFF (LOCK) mode)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the Honda Smart Key System is determined to be faulty, the smart warning light will illuminate for approximately 3 seconds."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lighting pattern 3 (fault detection in ignition ON mode)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the Honda Smart Key system is determined to be faulty, the smart warning light will illuminate until it is restored."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the B-CAN bus is off, the warning light does not illuminate."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Check for DTCs before performing functional inspections, and if DTCs are present, diagnose the corresponding DTC failure."
+        },
+        {
+          "text": "If any abnormality is found during the functional inspection, follow the measures in the table."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The status of the Honda Smart Key system can be checked via the immobilizer indicator."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lighting pattern 1 (normal)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If immobilizer verification is performed correctly when the ignition is in the ignition ON mode, the immobilizer indicator lights up after the ignition is in the ignition ON mode and turns off after verification is complete."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lighting pattern 2 (immobilizer mismatch)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the immobilizer is not properly matched when the ignition is in the ON mode, the immobilizer indicator will illuminate and then flash after the ignition is in the ON mode. After the ignition is turned OFF (LOCK) mode, the indicator will blink for 10 seconds and then turn off. the registration status of the Honda Smart Key and the status of the S-NET line can be checked by checking the system check."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before inspecting the Honda Smart Key System, the following items should be checked and, if applicable, the following actions should be taken. In addition, an interview shall be conducted to determine the circumstances of the non-operation of the system."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Inspect No. A4-1 (60A), No. A4-2 (50A), and No. A10 (10A) fuses in the relay box for blown fuses and connections."
+        },
+        {
+          "text": "Inspect No.C7 (7.5A), No.C11 (10A), No.C19 (15A) and No.C29 (7.5A) fuses in the fuse box for blown fuses and connections."
+        },
+        {
+          "text": "Check the connection of the coupler of the electronic steering lock."
+        },
+        {
+          "text": "Check the coupler connection of the ENGINE START STOP switch."
+        },
+        {
+          "text": "If equipped with a HAC remote control engine starter, check for proper installation."
+        },
+        {
+          "text": "Check the connections of each coupler in the fuse box."
+        },
+        {
+          "text": "Check for abnormalities in the DC-DC converter (check the DTC of the PGM-FI system)."
+        },
+        {
+          "text": "Perform ALL DTC CHECK in HDS, and if a DTC is displayed, diagnose the corresponding DTC failure."
+        },
+        {
+          "text": "Make sure the Honda Smart Key is not touching or covered by metal."
+        },
+        {
+          "text": "Ensure that the vehicle's 12V battery is sufficiently charged."
+        },
+        {
+          "text": "Inspect the battery in the Honda Smart Key and replace if necessary."
+        },
+        {
+          "text": "Make sure it is not stored with another Honda Smart Key."
+        },
+        {
+          "text": "Make sure the Honda Smart Key is not stored in a purse or other container with coins or other metal objects."
+        },
+        {
+          "text": "If the vehicle is equipped with equipment other than genuine equipment, deactivate the equipment."
+        },
+        {
+          "text": "If electrical components are connected to the S-NET line, remove the connected electrical components."
+        },
+        {
+          "text": "If a remote engine starter is installed, check that it is properly connected."
+        },
+        {
+          "text": "If there are facilities emitting strong radio waves in the vicinity, move to a new location."
+        },
+        {
+          "text": "Check to see that they are not being carried with communication devices such as cell phones, radios, or laptops."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the failure symptoms are not reproduced, check the HDS status log and system check, and diagnose the failure according to the table."
+        },
+        {
+          "text": "When checking the status log, check the number of log counts and diagnose failures in the order of the number of detections."
+        },
+        {
+          "text": "The HDS menu is divided into the Honda Smart Key ECU and the Backup Control Unit, so check the system information for each."
+        },
+        {
+          "text": "Although the HDS has a separate menu screen, the Honda Smart Key Control Unit and Backup Control Unit are built into the MICU."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Register the PGM-FI ECU."
+        ],
+        [
+          "",
+          "Confirmation of DTC."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Confirmation of DTC."
+        ],
+        [
+          "",
+          "Inspect the S-NET line for breaks."
+        ],
+        [
+          "",
+          "Check the fuses."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Confirmation of DTC."
+        ],
+        [
+          "",
+          "Inspect the S-NET line for breaks."
+        ],
+        [
+          "",
+          "Check the fuses."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Check the history of when a problem occurred in HDS and address it based on the table."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Whether the door was opened after the door lock was unlocked"
+        ],
+        [
+          "",
+          "Time to relock in customized settings"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131120135106/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001391_jpn/web/html/T001391_jpn_Content.html",
+  "inOutline": true
+}

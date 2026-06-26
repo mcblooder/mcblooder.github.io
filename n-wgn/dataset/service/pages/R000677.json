@@ -1,0 +1,428 @@
+{
+  "id": "R000677",
+  "title": "Rear Spring Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "suspension",
+  "sectionCode": "B",
+  "subsection": "Rear Suspension",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "2WD vehicle",
+  "models": [
+    "JH1"
+  ],
+  "assetDir": "assets/R000677",
+  "assets": [
+    "677_3.0_jpn_11035811_3.0_disp.png",
+    "677_3.0_jpn_11035812_3.0_disp.png",
+    "677_3.0_jpn_11035813_3.0_disp.png",
+    "677_3.0_jpn_11035814_3.0_disp.png",
+    "677_3.0_jpn_11035815_3.0_disp.png",
+    "677_3.0_jpn_11035816_3.0_disp.png",
+    "677_3.0_jpn_11368506_2.0_disp.png",
+    "677_3.0_jpn_11368507_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Rear wheel removal",
+      "resolved": true
+    },
+    {
+      "id": "R000989",
+      "label": "Disconnect the headlight leveling sensor from the rear axle beam.",
+      "resolved": true
+    },
+    {
+      "id": "R000695",
+      "label": "Brake drum removal",
+      "resolved": true
+    },
+    {
+      "id": "R000671",
+      "label": "Remove hub bearing unit and rear wheel sensor",
+      "resolved": true
+    },
+    {
+      "id": "R000655",
+      "label": "Wheel alignment Inspection and adjustment",
+      "resolved": true
+    },
+    {
+      "id": "R000714",
+      "label": "VSA sensor Midpoint write",
+      "resolved": true
+    },
+    {
+      "id": "R000915",
+      "label": "Headlight initial position learning (vehicles equipped with headlight leveling system)",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear Spring Removal and Installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Rear wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Parking brake release"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Headlight leveling sensor disconnection (vehicles equipped with headlight leveling system)"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the headlight leveling sensor from the rear axle beam.",
+      "refs": [
+        {
+          "id": "R000989",
+          "label": "Disconnect the headlight leveling sensor from the rear axle beam.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Brake drum removal",
+      "refs": [
+        {
+          "id": "R000695",
+          "label": "Brake drum removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Remove hub bearing unit and rear wheel sensor",
+      "refs": [
+        {
+          "id": "R000671",
+          "label": "Remove hub bearing unit and rear wheel sensor",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Do not disconnect the wheel sensor cord."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Brake hose disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "677_3.0_jpn_11368506_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the brake hose retaining clip (A) and unfasten the brake hose."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Rear damper lower part disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "677_3.0_jpn_11035811_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply a jack under the rear axle beam (A) via a waste cloth to support the suspension. Disconnect the left and right dampers (B) from the rear axle beam and lower the rear axle beam."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not apply a jack to the center of the rear axle beam (torsion beam).",
+        "Spring Lower Mounting The jack should be applied so as not to damage the protrusions on the lower part of the rubber."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do not apply a jack to the center of the rear axle beam (torsion beam)."
+        },
+        {
+          "text": "Do not apply a jack to the center of the rear axle beam (torsion beam)."
+        },
+        {
+          "text": "Spring Lower Mounting The jack should be applied so as not to damage the protrusions on the lower part of the rubber."
+        },
+        {
+          "text": "Spring Lower Mounting The jack should be applied so as not to damage the protrusions on the lower part of the rubber."
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not lower the rear axle beam too far to prevent damage to the wheel sensor cords, brake hoses, and brake pipes."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Rear spring removal"
+    },
+    {
+      "type": "figure",
+      "asset": "677_3.0_jpn_11035812_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the rear spring (A). Remove the upper mounting rubber (B) and lower mounting rubber (C) from the spring."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear spring assembly"
+    },
+    {
+      "type": "figure",
+      "asset": "677_3.0_jpn_11035813_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Attach the upper mounting rubber (B) to the spring (A) and place the upper end face (C) of the spring against the stopper (D) of the upper mounting rubber."
+    },
+    {
+      "type": "figure",
+      "asset": "677_3.0_jpn_11035814_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Attach the lower mounting rubber (B) to the spring (A) and place the lower end face (C) of the spring against the stopper (D) of the lower mounting rubber."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear Spring Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "677_3.0_jpn_11035815_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply soapy water to the protrusion (A) of the lower mounting rubber and align it with the locating hole (B) of the lower spring seat."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Soapy water is a solution of neutral detergent diluted to 50% with water."
+        },
+        {
+          "text": "Soapy water is a solution of neutral detergent diluted to 50% with water."
+        },
+        {
+          "text": "Ensure that the protrusion of the lower mounting rubber is securely engaged in the rear axle beam (C)."
+        },
+        {
+          "text": "Ensure that the protrusion of the lower mounting rubber is securely engaged in the rear axle beam (C)."
+        },
+        {
+          "text": "After installation, ensure that the rubber, stopper, and other rubber parts are not engaged in the spring."
+        },
+        {
+          "text": "After installation, ensure that the rubber, stopper, and other rubber parts are not engaged in the spring."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Rear damper lower part connection"
+    },
+    {
+      "type": "figure",
+      "asset": "677_3.0_jpn_11035816_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply a jack under the rear axle beam (A) via a waste cloth to support the suspension. Connect the left and right dampers (B) to the rear axle beam with new damper mounting bolts (C) and tighten temporarily. Lift the suspension with a jack to apply the vehicle weight and tighten the damper mounting bolts to the specified torque."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not apply a jack to the center of the rear axle beam (torsion beam).",
+        "Spring Lower Mounting The jack should be applied so as not to damage the protrusions on the lower part of the rubber."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do not apply a jack to the center of the rear axle beam (torsion beam)."
+        },
+        {
+          "text": "Do not apply a jack to the center of the rear axle beam (torsion beam)."
+        },
+        {
+          "text": "Spring Lower Mounting The jack should be applied so as not to damage the protrusions on the lower part of the rubber."
+        },
+        {
+          "text": "Spring Lower Mounting The jack should be applied so as not to damage the protrusions on the lower part of the rubber."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Brake hose connection"
+    },
+    {
+      "type": "figure",
+      "asset": "677_3.0_jpn_11368507_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Secure the brake hose with the new brake hose retaining clip (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Hub bearing unit and rear wheel sensor mounting",
+      "refs": [
+        {
+          "id": "R000671",
+          "label": "Hub bearing unit and rear wheel sensor mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Headlight leveling sensor installation (for vehicles equipped with headlight leveling system)"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the headlight leveling sensor to the rear axle beam.",
+      "refs": [
+        {
+          "id": "R000989",
+          "label": "Connect the headlight leveling sensor to the rear axle beam.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Brake drum installation",
+      "refs": [
+        {
+          "id": "R000695",
+          "label": "Brake drum installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Rear wheel mounting",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Rear wheel mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Wheel alignment Inspection and adjustment",
+      "refs": [
+        {
+          "id": "R000655",
+          "label": "Wheel alignment Inspection and adjustment",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. VSA sensor Midpoint write",
+      "refs": [
+        {
+          "id": "R000714",
+          "label": "VSA sensor Midpoint write",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Headlight initial position learning (vehicles equipped with headlight leveling system)",
+      "refs": [
+        {
+          "id": "R000915",
+          "label": "Headlight initial position learning (vehicles equipped with headlight leveling system)",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000677_jpn/web/html/R000677_jpn_Content.html",
+  "inOutline": true
+}

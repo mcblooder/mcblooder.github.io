@@ -1,0 +1,104 @@
+{
+  "id": "218_DN03_Right_Rear_Power_Window_Switch_5P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "DN03",
+  "physicalIds": [
+    "DN03"
+  ],
+  "name": "Right Rear Power Window Switch 5P Connector (Female)",
+  "nameRu": "Разъём правый задний стеклоподъёмник выключатель, 5 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 5,
+  "populatedPinCount": 5,
+  "faceviewPart": "91763-T4NA-0030-H1",
+  "partNumbers": [
+    "91763-T4NA-0030-H1"
+  ],
+  "harnesses": [
+    "32753-T6G_-0000-"
+  ],
+  "locations": [
+    "Door > Right Rear Door"
+  ],
+  "systems": [
+    "Power Windows"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91763-T4NA-0030-H1.svg",
+    "viewBox": "0 0 114.134 33.797",
+    "width": 114.134,
+    "height": 33.797
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "P/W_RR_R_SW_UP",
+      "english": "power window, rear/right, right, switch, up",
+      "russian": "стеклоподъёмник, задний/правый, правый, выключатель, вверх",
+      "terminal": "510A000",
+      "geometry": {
+        "x": 9.488,
+        "y": 25.359,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "P/W_RR_R_MTR_UP",
+      "english": "power window, rear/right, right, motor, up",
+      "russian": "стеклоподъёмник, задний/правый, правый, электродвигатель, вверх",
+      "terminal": "504B",
+      "geometry": {
+        "x": 32.165,
+        "y": 25.36,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "P/W_RR_R_POWER",
+      "english": "power window, rear/right, right, power",
+      "russian": "стеклоподъёмник, задний/правый, правый, питание",
+      "terminal": "521C000",
+      "geometry": {
+        "x": 54.842,
+        "y": 25.359,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "P/W_RR_R_SW_DOWN",
+      "english": "power window, rear/right, right, switch, down",
+      "russian": "стеклоподъёмник, задний/правый, правый, выключатель, вниз",
+      "terminal": "511D",
+      "geometry": {
+        "x": 77.52,
+        "y": 25.359,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "P/W_RR_R_MTR_DOWN",
+      "english": "power window, rear/right, right, motor, down",
+      "russian": "стеклоподъёмник, задний/правый, правый, электродвигатель, вниз",
+      "terminal": "505E",
+      "geometry": {
+        "x": 100.198,
+        "y": 25.359,
+        "svgTextId": "SVGID_5_"
+      }
+    }
+  ]
+}

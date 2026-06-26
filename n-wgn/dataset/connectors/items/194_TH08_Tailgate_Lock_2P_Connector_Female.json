@@ -1,0 +1,62 @@
+{
+  "id": "194_TH08_Tailgate_Lock_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "TH08",
+  "physicalIds": [
+    "TH08"
+  ],
+  "name": "Tailgate Lock 2P Connector (Female)",
+  "nameRu": "Разъём Tailgate Lock, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91751-T2AA-0031-H1",
+  "partNumbers": [
+    "91751-T2AA-0031-H1"
+  ],
+  "harnesses": [
+    "32109-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Tailgate"
+  ],
+  "systems": [
+    "Keyless/Power Door Locks/Security System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91751-T2AA-0031-H1.svg",
+    "viewBox": "0 0 46.284 37.177",
+    "width": 46.284,
+    "height": 37.177
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "R_SIDE_DOOR_UNLOCK",
+      "english": "right, SIDE, door, unlock",
+      "russian": "правый, SIDE, дверь, отпирание",
+      "terminal": "551A",
+      "geometry": {
+        "x": 10.331,
+        "y": 27.616,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "R_SIDE_DOOR_LOCK",
+      "english": "right, SIDE, door, lock",
+      "russian": "правый, SIDE, дверь, запирание",
+      "terminal": "550B",
+      "geometry": {
+        "x": 32.971,
+        "y": 27.616,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

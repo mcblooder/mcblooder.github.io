@@ -1,0 +1,972 @@
+{
+  "id": "A002866",
+  "title": "DTC Explanation: VSA",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "VSA Control Unit",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A002866",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: VSA"
+    },
+    {
+      "type": "dtc",
+      "code": "",
+      "text": "VSA System"
+    },
+    {
+      "type": "paragraph",
+      "text": "knowledge"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Initial Diagnosis: Self-diagnosis performed after the ABS or VSA warning light comes on with the ignition in the ON mode and before the engine is started and the ABS or VSA warning light goes out."
+        },
+        {
+          "text": "Permanent Diagnostics: Self-diagnostics that continue from the time the ABS or VSA warning light goes off until the ignition is turned to the OFF (LOCK) mode."
+        },
+        {
+          "text": "When performing diagnostics, be sure to check the \"Troubleshooting Procedure\" and follow the troubleshooting procedure."
+        },
+        {
+          "text": "When conducting test drives, the driver must comply with all laws and regulations, observe good manners, and drive in accordance with the surrounding conditions."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Ground fault in cord (BRK LAMP line) between VSA modulator control unit and brake light relay"
+        ],
+        [
+          "",
+          "Brake light relay failure"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection of cord (STOP SW line) between brake switch and brake light relay"
+        ],
+        [
+          "",
+          "Disconnection of cord (STOP LT line) between VSA modulator control unit and brake light relay"
+        ],
+        [
+          "",
+          "Disconnection of the cord (BRK LAMP line) between the VSA modulator control unit and the brake light relay"
+        ],
+        [
+          "",
+          "Brake light relay failure"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Front left wheel bearing Encoder part dirty"
+        ],
+        [
+          "",
+          "Front left wheel bearing failure (encoder section)"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA modulator Cord break, ground fault, short circuit between wires, and sky fault between control unit and front left wheel sensor (FR L ABS SNSR+, FR L ABS SNSR- lines)"
+        ],
+        [
+          "",
+          "Front left wheel sensor failure"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA modulator Short circuit between wires in cord between control unit and front left wheel sensor (FR R ABS SNSR-, FR L ABS SNSR-, RR R ABS SNSR-, RR L ABS SNSR- lines)"
+        ],
+        [
+          "",
+          "Front left wheel sensor mounting faulty"
+        ],
+        [
+          "",
+          "Front left wheel bearing abnormal (encoder part)"
+        ],
+        [
+          "",
+          "Front left wheel sensor failure"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Front right wheel bearing Encoder part dirty"
+        ],
+        [
+          "",
+          "Front right wheel bearing failure (encoder section)"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA modulator Cord break, ground fault, short circuit between wires, and sky fault between control unit and front right wheel sensor (FR R ABS SNSR+, FR R ABS SNSR- lines)"
+        ],
+        [
+          "",
+          "Front right wheel sensor failure"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA modulator Short circuit between wires in cord between control unit and front right wheel sensor (FR R ABS SNSR-, FR L ABS SNSR-, RR R ABS SNSR-, RR L ABS SNSR- lines)"
+        ],
+        [
+          "",
+          "Front right wheel sensor mounting faulty"
+        ],
+        [
+          "",
+          "Front right wheel bearing abnormal (encoder part)"
+        ],
+        [
+          "",
+          "Front right wheel sensor failure"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Rear left wheel bearing Encoder stained"
+        ],
+        [
+          "",
+          "Rear left wheel bearing failure (encoder section)"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA modulator Cord break, ground fault, short circuit between wires, and sky fault (RR L ABS SNSR+, RR L ABS SNSR- lines) between control unit and rear left wheel sensor"
+        ],
+        [
+          "",
+          "Rear left wheel sensor failure"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA modulator Short circuit between wires in cord between control unit and rear left wheel sensor (FR R ABS SNSR-, FR L ABS SNSR-, RR R ABS SNSR-, RR L ABS SNSR- lines)"
+        ],
+        [
+          "",
+          "Rear left wheel sensor mounting defect"
+        ],
+        [
+          "",
+          "Rear left wheel bearing abnormal (encoder part)"
+        ],
+        [
+          "",
+          "Rear left wheel sensor failure"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Rear right wheel bearing Encoder part dirty"
+        ],
+        [
+          "",
+          "Rear right wheel bearing failure (encoder section)"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA modulator Cord break, ground fault, short circuit between wires, and sky fault between control unit and rear right wheel sensor (RR R ABS SNSR+, RR R ABS SNSR- lines)"
+        ],
+        [
+          "",
+          "Rear right wheel sensor failure"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA modulator Short circuit between wires in cord between control unit and rear right wheel sensor (FR R ABS SNSR-, FR L ABS SNSR-, RR R ABS SNSR-, RR L ABS SNSR- lines)"
+        ],
+        [
+          "",
+          "Rear right wheel sensor mounting faulty"
+        ],
+        [
+          "",
+          "Rear right wheel bearing abnormal (encoder part)"
+        ],
+        [
+          "",
+          "Rear right wheel sensor failure"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Cord sky fault between brake switch and PGM-FI ECU (BKSW line)"
+        ],
+        [
+          "",
+          "Defective brake switch height"
+        ],
+        [
+          "",
+          "Brake switch failure"
+        ],
+        [
+          "",
+          "PGM-FI ECU program is not up-to-date"
+        ],
+        [
+          "",
+          "Internal circuit failure of PGM-FI ECU"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA modulator Internal circuit failure in control unit (pressure sensor)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Ground fault in cord between combination meter and brake fluid level switch (BRAKE LEVEL SW line)"
+        ],
+        [
+          "",
+          "Low brake fluid level"
+        ],
+        [
+          "",
+          "Combination Meter Failure"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Failure of rudder angle sensor"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Failure of rudder angle sensor"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*: 4WD vehicle"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA modulator Internal circuit failure of control unit (lateral G sensor)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*: 4WD vehicle"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA modulator Internal circuit failure in the control unit (yaw rate sensor)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA modulator Internal circuit failure in the control unit (yaw rate sensor)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA modulator Disconnection of cord between control unit and relay box, ground fault (+B ABS/VSA MTR line)"
+        ],
+        [
+          "",
+          "Disconnection of cord between VSA modulator control unit and body ground (GND ABS line)"
+        ],
+        [
+          "",
+          "Blown fuse (relay box No. A3-1 (40A))"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Backlight switch failure"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Internal failure of shift position sensor (neutral switch)"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA modulator Cord breakage between control unit and other control units, short circuit between lines (F-CAN_H, F-CAN_L lines)"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ],
+        [
+          "",
+          "Unit internal circuit failure on other F-CAN"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection of cords between VSA modulator control unit and PGM-FI ECU (PGM-FI system) (F-CAN_H and F-CAN_L lines)"
+        ],
+        [
+          "",
+          "PGM-FI ECU program is not up-to-date"
+        ],
+        [
+          "",
+          "Internal circuit failure of PGM-FI ECU (PGM-FI system)"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection of cords between VSA modulator control unit and PGM-FI ECU (CVT system) (F-CAN_H and F-CAN_L lines)"
+        ],
+        [
+          "",
+          "PGM-FI ECU program is not up-to-date"
+        ],
+        [
+          "",
+          "Internal circuit failure of PGM-FI ECU (CVT system)"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Disconnection of cord between VSA modulator control unit and rudder angle sensor (F-CAN_H, F-CAN_L lines)"
+        ],
+        [
+          "",
+          "Internal circuit failure of rudder angle sensor"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA modulator Cord breakage between control unit and combination meter (F-CAN_H, F-CAN_L lines)"
+        ],
+        [
+          "",
+          "Combination Meter Failure"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "PGM-FI ECU program is not up-to-date"
+        ],
+        [
+          "",
+          "Internal circuit failure of PGM-FI ECU (PGM-FI system)"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Cord breakage between VSA modulator control unit and city brake active system radar/control unit (F-CAN_H and F-CAN_L lines)"
+        ],
+        [
+          "",
+          "CITY BRAKE ACTIVE SYSTEM Internal circuit failure in radar/control unit"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "VSA sensor midpoint unlearned"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Poor contact of cord between VSA modulator control unit and relay box (+B ABS/VSA FSR line)"
+        ],
+        [
+          "",
+          "Low 12V battery voltage"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "High 12V battery voltage"
+        ],
+        [
+          "",
+          "VSA Modulator Control Unit program is not up-to-date"
+        ],
+        [
+          "",
+          "VSA Modulator Internal circuit failure in the control unit"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A002866_jpn/web/html/A002866_jpn_Content.html",
+  "inOutline": true
+}

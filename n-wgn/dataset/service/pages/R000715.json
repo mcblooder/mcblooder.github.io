@@ -1,0 +1,221 @@
+{
+  "id": "R000715",
+  "title": "Wheel Sensor Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000715",
+  "assets": [
+    "715_3.0_jpn_11036008_3.0_disp.png",
+    "715_3.0_jpn_11036010_3.0_disp.png",
+    "715_3.0_jpn_11036011_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Front wheel removal",
+      "resolved": true
+    },
+    {
+      "id": "R000761",
+      "label": "Rear side cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000695",
+      "label": "Remove the brake drum.",
+      "resolved": true
+    },
+    {
+      "id": "R000671",
+      "label": "Remove the hub bearing unit.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Wheel Sensor Removal and Installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Ignition OFF (LOCK) mode"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Front wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Front wheel sensor removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). When removing the driver's side, remove the clip (B) and then disconnect the coupler. Remove the wire guide rubber (C) and clip (D). Remove the front wheel sensor (E)."
+    },
+    {
+      "type": "figure",
+      "asset": "715_3.0_jpn_11036008_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Install the sensor cord so that there are no kinks in it."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Ignition OFF (LOCK) mode"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Rear wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Rear wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Rear side cover removal",
+      "refs": [
+        {
+          "id": "R000761",
+          "label": "Rear side cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Rear wheel sensor removal (2WD models)"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). When removing the passenger side, remove the grommet (B) from the body. Remove the clip (C) and wire guide rubber (D). Remove the brake drum. Remove the hub bearing unit. Remove the wheel sensor (E).",
+      "refs": [
+        {
+          "id": "R000695",
+          "label": "Remove the brake drum.",
+          "resolved": true
+        },
+        {
+          "id": "R000671",
+          "label": "Remove the hub bearing unit.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "715_3.0_jpn_11036010_3.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When removing the hub bearing unit, be very careful not to damage the sensor cord."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Rear wheel sensor removal (4WD vehicles)"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). When removing the passenger side, remove the grommet (B) from the body. Remove the clip (C) and wire guide rubber (D). Remove the wheel sensor (E)."
+    },
+    {
+      "type": "figure",
+      "asset": "715_3.0_jpn_11036011_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Install the sensor cord so that there are no kinks in it."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000715_jpn/web/html/R000715_jpn_Content.html",
+  "inOutline": true
+}

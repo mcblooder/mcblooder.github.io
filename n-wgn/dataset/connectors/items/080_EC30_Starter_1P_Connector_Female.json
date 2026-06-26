@@ -1,0 +1,50 @@
+{
+  "id": "080_EC30_Starter_1P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC30",
+  "physicalIds": [
+    "EC30"
+  ],
+  "name": "Starter 1P Connector (Female)",
+  "nameRu": "Разъём Starter, 1 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "91707-RTA -0030-H1",
+  "partNumbers": [
+    "91707-RTA -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "PCM (All)",
+    "Starting System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91707-RTA -0030-H1.svg",
+    "viewBox": "0 0 21.36 29.621",
+    "width": 21.36,
+    "height": 29.621
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK/WHT",
+      "circuit": "STMG",
+      "english": "STMG",
+      "russian": "STMG",
+      "terminal": "M00A000",
+      "geometry": {
+        "x": 8.324,
+        "y": 21.052,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

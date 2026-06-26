@@ -1,0 +1,147 @@
+{
+  "id": "R000695",
+  "title": "Removal and installation of brake drum",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "",
+  "sectionCode": "",
+  "subsection": "",
+  "system": "",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000695",
+  "assets": [
+    "695_3.0_jpn_11035919_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Rear wheel removal",
+      "resolved": true
+    },
+    {
+      "id": "R000684",
+      "label": "Parking brake adjustment",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removal and installation of brake drum"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not allow oil or grease to adhere to the sliding surfaces of the brake lining and brake drum."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The figure shows a 2WD vehicle."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Rear wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Parking brake release"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Brake drum removal"
+    },
+    {
+      "type": "figure",
+      "asset": "695_3.0_jpn_11035919_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the brake drum (A)."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the brake drum does not come off easily, use a flat head screwdriver to rotate the adjuster bolt (B) through the plug hole to retract the brake shoe."
+        },
+        {
+          "text": "If the brake drum does not come off easily, use a flat head screwdriver to rotate the adjuster bolt (B) through the plug hole to retract the brake shoe."
+        },
+        {
+          "text": "If the brake drum is stuck due to rust, etc. and is difficult to remove, tighten the two 8mm bolts (C) evenly at 90° intervals to remove it."
+        },
+        {
+          "text": "If the brake drum is stuck due to rust, etc. and is difficult to remove, tighten the two 8mm bolts (C) evenly at 90° intervals to remove it."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the brake drum is removed by retracting the brake shoe, depress the brake pedal 10 or more times during installation and check that there is no change in pedal stroke.",
+        "Clean the mating surfaces of the brake drum and hub bearing unit during installation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Parking brake adjustment",
+      "refs": [
+        {
+          "id": "R000684",
+          "label": "Parking brake adjustment",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000695_jpn/web/html/R000695_jpn_Content.html",
+  "inOutline": false
+}

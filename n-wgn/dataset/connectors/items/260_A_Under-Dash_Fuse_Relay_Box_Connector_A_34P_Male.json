@@ -1,0 +1,318 @@
+{
+  "id": "260_A_Under-Dash_Fuse_Relay_Box_Connector_A_34P_Male",
+  "category": "connector",
+  "connectorRef": "A",
+  "physicalIds": [
+    "A"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector A (34P) (Male)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector A (34P), штыревая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 29,
+  "populatedPinCount": 14,
+  "faceviewPart": "DM",
+  "partNumbers": [],
+  "harnesses": [
+    "38200-T6G_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [],
+  "faceview": {
+    "asset": "assets/faceview/DM.svg",
+    "viewBox": "0 0 82.374 22.471",
+    "width": 82.374,
+    "height": 22.471
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 4,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "SHIFT_LOCK_SOL",
+      "english": "SHIFT, lock, solenoid",
+      "russian": "SHIFT, запирание, соленоид",
+      "terminal": "M14E",
+      "geometry": null
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "BRAKE_LEVEL_SW",
+      "english": "brake, level, switch",
+      "russian": "тормоз, уровень, выключатель",
+      "terminal": "91F",
+      "geometry": null
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "RED",
+      "circuit": "A/C_PRESS_SW_OUT",
+      "english": "air conditioning, PRESS, switch, output",
+      "russian": "кондиционер, PRESS, выключатель, выход",
+      "terminal": "312G",
+      "geometry": null
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "SG6",
+      "english": "SG6",
+      "russian": "SG6",
+      "terminal": "D20H",
+      "geometry": null
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "RED",
+      "circuit": "TEVA",
+      "english": "TEVA",
+      "russian": "TEVA",
+      "terminal": "332J",
+      "geometry": null
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "WASHER_RLY_OUT",
+      "english": "washer, relay, output",
+      "russian": "омыватель, реле, выход",
+      "terminal": "429K",
+      "geometry": null
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "RED",
+      "circuit": "F-CAN_L",
+      "english": "F-CAN low line",
+      "russian": "Низкая линия F-CAN",
+      "terminal": "X80L",
+      "geometry": null
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "F-CAN_H",
+      "english": "F-CAN high line",
+      "russian": "Высокая линия F-CAN",
+      "terminal": "X70M",
+      "geometry": null
+    },
+    {
+      "pin": 13,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 14,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 15,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "IG2_A/C",
+      "english": "ignition IG2, air conditioning",
+      "russian": "зажигание IG2, кондиционер",
+      "terminal": "G22R",
+      "geometry": null
+    },
+    {
+      "pin": 16,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 17,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 18,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 19,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 20,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 21,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 22,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 23,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "B-CAN_H",
+      "english": "B-CAN high line",
+      "russian": "Высокая линия B-CAN",
+      "terminal": "X50AB",
+      "geometry": null
+    },
+    {
+      "pin": 24,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "B-CAN_L",
+      "english": "B-CAN low line",
+      "russian": "Низкая линия B-CAN",
+      "terminal": "X60AC",
+      "geometry": null
+    },
+    {
+      "pin": 25,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 26,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "IG1_FR_WIPER",
+      "english": "ignition IG1, front, wiper",
+      "russian": "зажигание IG1, передний, стеклоочиститель",
+      "terminal": "G03AE",
+      "geometry": null
+    },
+    {
+      "pin": 27,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 28,
+      "used": true,
+      "wire": "RED",
+      "circuit": "F-CAN_L",
+      "english": "F-CAN low line",
+      "russian": "Низкая линия F-CAN",
+      "terminal": "X80AG",
+      "geometry": null
+    },
+    {
+      "pin": 29,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "F-CAN_H",
+      "english": "F-CAN high line",
+      "russian": "Высокая линия F-CAN",
+      "terminal": "X70AH",
+      "geometry": null
+    }
+  ]
+}

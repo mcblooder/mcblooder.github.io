@@ -1,0 +1,119 @@
+{
+  "id": "pgm_fi",
+  "category": "electrical_diagram",
+  "title": "PGM-FI System",
+  "system": "pgm_fi",
+  "sheetCount": 4,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/pgm_fi/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/pgm_fi/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/pgm_fi/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/pgm_fi/sheet4.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "A/F Sensor (Sensor 1)",
+      "CKP Sensor",
+      "CMP Sensor",
+      "CVT Driven Pulley Pressure Sensor",
+      "CVT Input Shaft (Drive Pulley) Speed Sensor",
+      "DBW Relay",
+      "ECT Sensor 1",
+      "ECT Sensor 2",
+      "ELD",
+      "Engine Start/Stop Switch",
+      "IG1 Relay 2",
+      "Knock Sensor",
+      "MAF Sensor/IAT Sensor",
+      "No.1 Primary Fuel Injector",
+      "No.1 Secondary Fuel Injector",
+      "No.2 Primary Fuel Injector",
+      "No.2 Secondary Fuel Injector",
+      "No.3 Primary Fuel Injector",
+      "No.3 Secondary Fuel Injector",
+      "PCM",
+      "PGM-FI Main Relay 1",
+      "Secondary HO2S (Sensor 2)",
+      "Vehicle Speed Sensor"
+    ],
+    "Couplers": [
+      "A/F Sensor (Sensor 1) 4P Connector (Female)",
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "C001 (Female)",
+      "C002 (Female)",
+      "C004 (Female)",
+      "C103 (Male)|C103 (Female)",
+      "C105 (Male)|C105 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "CKP Sensor 3P Connector (Female)",
+      "CMP Sensor 3P Connector (Female)",
+      "CVT Driven Pulley Pressure Sensor 3P Connector (Female)",
+      "CVT Input Shaft (Drive Pulley) Speed Sensor 3P Connector (Female)",
+      "ECT Sensor 1 2P Connector (Female)",
+      "ECT Sensor 2 2P Connector (Female)",
+      "ELD 3P Connector (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Knock Sensor 2P Connector (Female)",
+      "MAF Sensor/IAT Sensor 5P Connector (Female)",
+      "No.1 Primary Fuel Injector 2P Connector (Female)",
+      "No.1 Secondary Fuel Injector 2P Connector (Female)",
+      "No.2 Primary Fuel Injector 2P Connector (Female)",
+      "No.2 Secondary Fuel Injector 2P Connector (Female)",
+      "No.3 Primary Fuel Injector 2P Connector (Female)",
+      "No.3 Secondary Fuel Injector 2P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "PCM Connector E (80P) (Female)",
+      "Secondary HO2S (Sensor 2) 4P Connector (Male)",
+      "Sub Relay Block 1",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Y (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box",
+      "Vehicle Speed Sensor 3P Connector (Female)"
+    ],
+    "Fuses": [
+      "+B_DBW",
+      "+B_DC/DC_2",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "16_IG1_RELAY_2",
+      "21_+B_IGP",
+      "32_IG1_ACG",
+      "IG1_MICU(P/S)",
+      "LAF+"
+    ],
+    "Grounds": [
+      "G202",
+      "G303",
+      "G401",
+      "G402"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "EM Shift Solenoid Wire Harness A"
+    ]
+  }
+}

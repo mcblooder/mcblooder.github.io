@@ -1,0 +1,91 @@
+{
+  "id": "175_EA41_Right_Front_Position_Light_Hood_COMP_4P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA41",
+  "physicalIds": [
+    "EA41"
+  ],
+  "name": "Right Front Position Light/Hood COMP 4P Connector (Female)",
+  "nameRu": "Разъём правый передний Position Light/Hood COMP, 4 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 4,
+  "faceviewPart": "91702-P2A -J010-M1",
+  "partNumbers": [
+    "91702-P2A -J010-M1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Headlights",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91702-P2A -J010-M1.svg",
+    "viewBox": "0 0 68.74 66.059",
+    "width": 68.74,
+    "height": 66.059
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-L)",
+      "english": "Ground (ENG-L)",
+      "russian": "Масса (ENG-L)",
+      "terminal": "Z17A",
+      "geometry": {
+        "x": 17.847,
+        "y": 26.083,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "H/L_HI_RLY_OUT",
+      "english": "H / L, high, relay, output",
+      "russian": "H / L, высокий, реле, выход",
+      "terminal": "24B000",
+      "geometry": {
+        "x": 46.192,
+        "y": 26.083,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-L)",
+      "english": "Ground (ENG-L)",
+      "russian": "Масса (ENG-L)",
+      "terminal": "Z17C",
+      "geometry": {
+        "x": 17.847,
+        "y": 54.43,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11D001",
+      "geometry": {
+        "x": 46.192,
+        "y": 54.43,
+        "svgTextId": "SVGID_4_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "R000747",
+  "title": "Mirror holder removal/attachment",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "mirror",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000747",
+  "assets": [
+    "747_3.0_jpn_11581145_3.0_disp.png",
+    "747_3.0_jpn_11581146_3.0_disp.png",
+    "747_3.0_jpn_11581147_3.0_disp.png",
+    "747_3.0_jpn_11581148_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Mirror holder removal/attachment"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Mirror holder removal"
+    },
+    {
+      "type": "figure",
+      "asset": "747_3.0_jpn_11581145_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Press the inside of the mirror holder (A). Reach into the gap on the outside and remove the mirror holder."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Note that forcible removal of the mirror housing while it is fixed to the clip will damage the mirror housing or actuator."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "747_3.0_jpn_11581146_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the mirror holder (A). For vehicles equipped with mirror heater: Disconnect the mirror heater terminal (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Mirror Holder Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "747_3.0_jpn_11581147_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Before installing the mirror holder, inspect the installation condition of the actuator rod (A) and actuator boot (B) and lubricate the sliding parts."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Check that the actuator rod is inserted into the actuator, and if it is not, insert it securely.",
+        "Ensure that the actuator boot covers the entire actuator rod. If the actuator boot tip is misaligned or out of root, return it to the correct position."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Check that the actuator rod is inserted into the actuator, and if it is not, insert it securely."
+        },
+        {
+          "text": "Check that the actuator rod is inserted into the actuator, and if it is not, insert it securely."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Ensure that the actuator boot covers the entire actuator rod. If the actuator boot tip is misaligned or out of root, return it to the correct position."
+        },
+        {
+          "text": "Ensure that the actuator boot covers the entire actuator rod. If the actuator boot tip is misaligned or out of root, return it to the correct position."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "747_3.0_jpn_11581148_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "For vehicles equipped with mirror heater: Connect the mirror heater terminal (A). Install the mirror holder (B). Check the operation of the power mirrors."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000747_jpn/web/html/R000747_jpn_Content.html",
+  "inOutline": true
+}

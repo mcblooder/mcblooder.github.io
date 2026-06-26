@@ -1,0 +1,62 @@
+{
+  "id": "235_BI32_Right_Side_Impact_Sensor_Second_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BI32",
+  "physicalIds": [
+    "BI32"
+  ],
+  "name": "Right Side Impact Sensor (Second) 2P Connector (Female)",
+  "nameRu": "Разъём правый Side Impact датчик (Second), 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "77982-SNA -0030-H1",
+  "partNumbers": [
+    "77982-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Right Side)"
+  ],
+  "systems": [
+    "SRS"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/77982-SNA -0030-H1.svg",
+    "viewBox": "0 0 79.184 28.174",
+    "width": 79.184,
+    "height": 28.174
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "RS2-",
+      "english": "RS2 -",
+      "russian": "RS2 -",
+      "terminal": "S60A",
+      "geometry": {
+        "x": 27.143,
+        "y": 21.256,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "RS2+",
+      "english": "RS2 +",
+      "russian": "RS2 +",
+      "terminal": "S59B",
+      "geometry": {
+        "x": 47.329,
+        "y": 21.256,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

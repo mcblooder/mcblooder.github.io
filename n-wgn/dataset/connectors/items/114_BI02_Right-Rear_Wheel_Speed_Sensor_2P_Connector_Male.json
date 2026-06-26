@@ -1,0 +1,64 @@
+{
+  "id": "114_BI02_Right-Rear_Wheel_Speed_Sensor_2P_Connector_Male",
+  "category": "connector",
+  "connectorRef": "BI02",
+  "physicalIds": [
+    "BI02"
+  ],
+  "name": "Right-Rear Wheel Speed Sensor 2P Connector (Male)",
+  "nameRu": "Разъём правый-задний Wheel Speed датчик, 2 контактов, штыревая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91972-SKN -0030-H1",
+  "partNumbers": [
+    "91972-SKN -0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Right Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91972-SKN -0030-H1.svg",
+    "viewBox": "0 0 74.41 51.732",
+    "width": 74.41,
+    "height": 51.732
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "RR_R_ABS_SNSR-",
+      "english": "rear/right, right, ABS, SNSR -",
+      "russian": "задний/правый, правый, ABS, SNSR -",
+      "terminal": "A23A",
+      "geometry": {
+        "x": 48.513,
+        "y": 28.918,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "RR_R_ABS_SNSR+",
+      "english": "rear/right, right, ABS, SNSR +",
+      "russian": "задний/правый, правый, ABS, SNSR +",
+      "terminal": "A22B",
+      "geometry": {
+        "x": 20.167,
+        "y": 28.918,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

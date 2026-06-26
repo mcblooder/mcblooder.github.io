@@ -1,0 +1,413 @@
+{
+  "id": "R000622",
+  "title": "Rear differential removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "differential",
+  "system": "Rear Differential Assy.",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000622",
+  "assets": [
+    "622_3.0_jpn_11581947_3.0_disp.png",
+    "622_3.0_jpn_11581948_3.0_disp.png",
+    "622_3.0_jpn_11581949_3.0_disp.png",
+    "622_3.0_jpn_11581950_3.0_disp.png",
+    "622_3.0_jpn_11581951_3.0_disp.png",
+    "622_3.0_jpn_11581952_3.0_disp.png",
+    "622_3.0_jpn_11581953_3.0_disp.png",
+    "622_3.0_jpn_11581954_3.0_disp.png",
+    "622_3.0_jpn_11581955_3.0_disp.png",
+    "622_3.0_jpn_11581956_3.0_disp.png",
+    "622_3.0_jpn_11581957_3.0_disp.png",
+    "622_3.0_jpn_11581958_3.0_disp.png",
+    "622_3.0_jpn_11581959_3.0_disp.png",
+    "622_3.0_jpn_11581960_3.0_disp.png",
+    "622_3.0_jpn_11581961_3.0_disp.png",
+    "622_3.0_jpn_11581962_3.0_disp.png",
+    "622_3.0_jpn_11581963_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000621",
+      "label": "Rear differential fluid removal",
+      "resolved": true
+    },
+    {
+      "id": "R000416",
+      "label": "Exhaust pipe/silencer removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear differential removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear differential fluid removal",
+      "refs": [
+        {
+          "id": "R000621",
+          "label": "Rear differential fluid removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Exhaust pipe/silencer removal",
+      "refs": [
+        {
+          "id": "R000416",
+          "label": "Exhaust pipe/silencer removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. No.2 propeller shaft removal"
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581947_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Align mark (C) at the connection between No.2 propeller shaft (A) and rear differential (B). Remove the four bolts (D) and disconnect the No. 2 propeller shaft from the rear differential."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Breather hose disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581948_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the breather hose (B) from the rear differential assembly (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Rear differential jack up"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Support the rear differential assembly with a jack."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Rear differential mounting rubber A Remove"
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581949_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the rear differential mounting rubber A mounting bolt (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Rear differential mount assembly B removal"
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581950_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the rear differential mount assembly.B Remove the mounting bolts (A) and plate (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Rear drive shaft inboard joint removal"
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581951_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "While lowering the rear differential assembly (A), pull out the inboard joints (B) one on each side."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to damage the oil seal (C).",
+        "To prevent the roller from coming off the drive shaft joint, secure the rear differential assembly with string or other means after removing the rear differential assembly."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Be careful not to damage the oil seal (C)."
+        },
+        {
+          "text": "Be careful not to damage the oil seal (C)."
+        },
+        {
+          "text": "To prevent the roller from coming off the drive shaft joint, secure the rear differential assembly with string or other means after removing the rear differential assembly."
+        },
+        {
+          "text": "To prevent the roller from coming off the drive shaft joint, secure the rear differential assembly with string or other means after removing the rear differential assembly."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Set Ring Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581952_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the set ring (B) from the rear driveshaft inboard joint (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Mount, bracket removal"
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581953_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the rear differential mount bracket A and rear differential mount assembly B from the rear differential assembly (C)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be sure to follow the assembly procedure, as it may cause abnormal noise or worsening of noise and vibration."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Mount, bracket Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581954_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the rear differential mount assembly B to the rear differential assembly (C) and tighten the new bolts. Install rear differential mount bracket A and tighten new bolts. Replace the flange nut (D) with a new one and tighten temporarily."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Set Ring Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581955_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the new set ring (A) into the rear driveshaft inboard joint groove (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Rear differential jack up"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Support the rear differential assembly with a jack."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Rear Drive Shaft Inboard Joint Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581956_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Raise the rear differential assembly (B) to the mounting position while inserting the inboard joints (A) one on each side."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to damage the oil seal (C)."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581957_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Push inboard joint (C) until set ring (A) \"clicks\" into mounting groove (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Rear differential mount assembly.B Tentatively tightened"
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581958_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Tighten the rear differential mount assembly B mounting bolts (A) and plate (C) temporarily."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Rear Differential Mounting Rubber A Tentatively tightened"
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581959_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Temporarily tighten the rear differential mounting rubber A mounting bolt (B). Tighten the flange nut (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Rear differential mount assembly.B Tighten"
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581960_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Tighten the rear differential mount assembly B mounting bolt (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Rear Differential Mounting Rubber A Tighten"
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581961_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Tighten the rear differential mounting rubber A mounting bolt (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Breather Hose Connections"
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581962_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the breather hose (A) to the rear differential assembly (B). Install the breather hose so that the paint mark (C) faces straight up."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. No. 2 propeller shaft installation"
+    },
+    {
+      "type": "figure",
+      "asset": "622_3.0_jpn_11581963_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Align the No. 2 propeller shaft (A) with the alignment mark (C) on the rear differential (B). Tighten four new 12-point bolts (D)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Exhaust pipe/silencer installation",
+      "refs": [
+        {
+          "id": "R000416",
+          "label": "Exhaust pipe/silencer installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. Rear differential fluid refill",
+      "refs": [
+        {
+          "id": "R000621",
+          "label": "Rear differential fluid refill",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000622_jpn/web/html/R000622_jpn_Content.html",
+  "inOutline": true
+}

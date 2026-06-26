@@ -1,0 +1,976 @@
+{
+  "circuitSchematics": [
+    {
+      "label": "Engine",
+      "children": [
+        {
+          "label": "Charging System",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "charging_system",
+            "sheet": "sheet5.svg"
+          }
+        },
+        {
+          "label": "Energy Management System",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "energy_management",
+            "sheet": "sheet5.svg"
+          }
+        },
+        {
+          "label": "Fans",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "fans",
+            "sheet": "sheet3.svg"
+          }
+        },
+        {
+          "label": "Ground Cable",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "ground_cable",
+            "sheet": "sheet1.svg"
+          }
+        },
+        {
+          "label": "Power Supply",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "power_supply",
+            "sheet": "sheet7.svg"
+          }
+        },
+        {
+          "label": "Starting System",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "starting_system",
+            "sheet": "sheet3.svg"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Fuel and Emissions",
+      "children": [
+        {
+          "label": "Ignition System",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "ignition",
+            "sheet": "sheet3.svg"
+          }
+        },
+        {
+          "label": "PCM (All)",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "pcm_all",
+            "sheet": "sheet7.svg"
+          }
+        },
+        {
+          "label": "PCM (Sub Systems)",
+          "children": [
+            {
+              "label": "Auto Idle Stop System",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "auto_idle_stop",
+                "sheet": "sheet8.svg"
+              }
+            },
+            {
+              "label": "DLC",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "dlc",
+                "sheet": "sheet5.svg"
+              }
+            },
+            {
+              "label": "EGR System"
+            },
+            {
+              "label": "ETCS (Electronic Throttle Control System)",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "etcs",
+                "sheet": "sheet3.svg"
+              }
+            },
+            {
+              "label": "EVAP System",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "evap",
+                "sheet": "sheet3.svg"
+              }
+            },
+            {
+              "label": "Fuel Supply System",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "fuel_supply",
+                "sheet": "sheet4.svg"
+              }
+            },
+            {
+              "label": "Idle Control System",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "idle_control_system",
+                "sheet": "sheet6.svg"
+              }
+            },
+            {
+              "label": "MIL Circuit",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "mil_circuit",
+                "sheet": "sheet5.svg"
+              }
+            },
+            {
+              "label": "PCM Power and Ground",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "pcm_p_and_g",
+                "sheet": "sheet3.svg"
+              }
+            },
+            {
+              "label": "PGM-FI System",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "pgm_fi",
+                "sheet": "sheet3.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "VTC System",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "vtc",
+            "sheet": "sheet1.svg"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Transaxle",
+      "children": [
+        {
+          "label": "A/T Gear Position Indicator",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "a_t_gear_position",
+            "sheet": "sheet9.svg"
+          }
+        },
+        {
+          "label": "A/T Interlock System",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "a_t_interlock_system",
+            "sheet": "sheet3.svg"
+          }
+        },
+        {
+          "label": "CVT Control System",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "cvt_control_system",
+            "sheet": "sheet9.svg"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Steering",
+      "children": [
+        {
+          "label": "EPS",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "eps",
+            "sheet": "sheet5.svg"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Brakes",
+      "children": [
+        {
+          "label": "VSA",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "vsa",
+            "sheet": "sheet6.svg"
+          }
+        }
+      ]
+    },
+    {
+      "label": "HVAC",
+      "children": [
+        {
+          "label": "Climate Control",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "climate_control",
+            "sheet": "sheet7.svg"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Body",
+      "children": [
+        {
+          "label": "Accessory Power Socket",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "accessory_socket",
+            "sheet": "sheet3.svg"
+          }
+        },
+        {
+          "label": "Cable Reel",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "cable_reel",
+            "sheet": "sheet9.svg"
+          }
+        },
+        {
+          "label": "Exterior Lights",
+          "children": [
+            {
+              "label": "Back-Up Lights",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "back_up_lights",
+                "sheet": "sheet5.svg"
+              }
+            },
+            {
+              "label": "Brake Lights",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "brake_lights",
+                "sheet": "sheet4.svg"
+              }
+            },
+            {
+              "label": "Fog Lights",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "fog_lights",
+                "sheet": "sheet6.svg"
+              }
+            },
+            {
+              "label": "Headlights",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "headlights",
+                "sheet": "sheet6.svg"
+              }
+            },
+            {
+              "label": "Headlight Leveling System",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "headlight_leveling",
+                "sheet": "sheet4.svg"
+              }
+            },
+            {
+              "label": "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "license",
+                "sheet": "sheet7.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Gauges",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "gauges",
+            "sheet": "sheet6.svg"
+          }
+        },
+        {
+          "label": "Horns",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "horns",
+            "sheet": "sheet4.svg"
+          }
+        },
+        {
+          "label": "Interior Lights",
+          "children": [
+            {
+              "label": "Ambient Light, Cargo Area Light and Individual MAP Light",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "ambient_light",
+                "sheet": "sheet4.svg"
+              }
+            },
+            {
+              "label": "Dashlights",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "dashlights",
+                "sheet": "sheet7.svg"
+              }
+            },
+            {
+              "label": "Entry Light Control System",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "entry_light",
+                "sheet": "sheet5.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Keyless Access System",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "keyless_access",
+            "sheet": "sheet6.svg"
+          }
+        },
+        {
+          "label": "Keyless/Power Door Locks/Security System",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "keyless_security",
+            "sheet": "sheet7.svg"
+          }
+        },
+        {
+          "label": "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "reminder",
+            "sheet": "sheet6.svg"
+          }
+        },
+        {
+          "label": "Mirrors",
+          "children": [
+            {
+              "label": "Power Mirrors",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "power_mirrors",
+                "sheet": "sheet6.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Multiplex Integrated Control System",
+          "children": [
+            {
+              "label": "B-CAN Communication Line",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "b_can",
+                "sheet": "sheet3.svg"
+              }
+            },
+            {
+              "label": "F-CAN Communication Line",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "f_can",
+                "sheet": "sheet3.svg"
+              }
+            },
+            {
+              "label": "K-Line Communication Line",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "k_line",
+                "sheet": "sheet3.svg"
+              }
+            },
+            {
+              "label": "Power, Grounds and Diagnostics",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "p_and_g_diag",
+                "sheet": "sheet7.svg"
+              }
+            },
+            {
+              "label": "S-NET Communication Line",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "s_net",
+                "sheet": "sheet2.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Power Windows",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "power_windows",
+            "sheet": "sheet6.svg"
+          }
+        },
+        {
+          "label": "Rear Window/Power Mirror Defoggers",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "rear_w_power_m_defog",
+            "sheet": "sheet6.svg"
+          }
+        },
+        {
+          "label": "Wiper/Washer",
+          "children": [
+            {
+              "label": "Wiper/Washer (Rear Window)",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "wiper_washer_r",
+                "sheet": "sheet4.svg"
+              }
+            },
+            {
+              "label": "Wiper/Washer (Windshield)",
+              "ref": {
+                "kind": "diagram",
+                "diagram": "wiper_washer_f",
+                "sheet": "sheet5.svg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Audio and Visual System",
+      "children": [
+        {
+          "label": "Audio System"
+        },
+        {
+          "label": "Audioless",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "audio",
+            "sheet": "sheet6.svg"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Driving Support & Restraints",
+      "children": [
+        {
+          "label": "City-Brake Active System",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "cbas",
+            "sheet": "sheet6.svg"
+          }
+        },
+        {
+          "label": "Cruise Control",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "cruise",
+            "sheet": "sheet8.svg"
+          }
+        },
+        {
+          "label": "SRS",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "srs",
+            "sheet": "sheet6.svg"
+          }
+        }
+      ]
+    }
+  ],
+  "powerGroundDistribution": [
+    {
+      "label": "Fuse List",
+      "ref": {
+        "kind": "fuseList"
+      }
+    },
+    {
+      "label": "Ground List",
+      "ref": {
+        "kind": "groundList"
+      }
+    },
+    {
+      "label": "Fuse/Relay Box Diagram",
+      "children": [
+        {
+          "label": "Auxiliary Under-Dash Fuse/Relay Box",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "aux_under_dash",
+            "sheet": "sheet3.svg"
+          }
+        },
+        {
+          "label": "Under-Dash Fuse/Relay Box",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "under_dash",
+            "sheet": "sheet9.svg"
+          }
+        },
+        {
+          "label": "Under-Hood Fuse/Relay Box",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "under_hood",
+            "sheet": "sheet6.svg"
+          }
+        },
+        {
+          "label": "Under-Hood Sub Fuse/Relay Box",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "aux_under_hood",
+            "sheet": "sheet4.svg"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Junction Connectors Diagram",
+      "children": [
+        {
+          "label": "Junction Connectors",
+          "ref": {
+            "kind": "diagram",
+            "diagram": "junction",
+            "sheet": "sheet7.svg"
+          }
+        }
+      ]
+    }
+  ],
+  "componentLocations": [
+    {
+      "label": "Fuse/Relay Boxes",
+      "children": [
+        {
+          "label": "Under-Dash Fuse/Relay Box",
+          "children": [
+            {
+              "label": "Front Side",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/121b_under_d_f.svg"
+              }
+            },
+            {
+              "label": "Back Side",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/122b_under_d_b.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Auxiliary Under-Dash Fuse/Relay Box",
+          "ref": {
+            "kind": "threed",
+            "threed": "assets/threed/111a_under_d_sub_f.svg"
+          }
+        },
+        {
+          "label": "Under-Hood Fuse/Relay Box",
+          "children": [
+            {
+              "label": "Front Side",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/131b_under_h_f.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Under-Hood Sub Fuse/Relay Box",
+          "ref": {
+            "kind": "threed",
+            "threed": "assets/threed/141a_under_h_f.svg"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Engine Compartment",
+      "children": [
+        {
+          "label": "Engine (Left Side)",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/211b_engine_l_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/212b_engine_l_h.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Engine (Right Side)",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/221b_engine_r_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/222b_engine_r_h.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Left Side",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/231b_cabin_l_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/232b_cabin_l_h.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Right Side",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/241b_cabin_r_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/242b_cabin_r_h.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Starter/Ground Cable",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/251b_gnd_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/252b_gnd_h.svg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Dashboard",
+      "children": [
+        {
+          "label": "Dashboard Main (Left Side)",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/311e_dash_l_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/312e_dash_l_h.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Dashboard Main (Right Side)",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/321c_dash_r_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/322c_dash_r_h.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Steering",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/331a_steering_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/332b_steering_h.svg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Body",
+      "children": [
+        {
+          "label": "Antenna",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/411a_antenna_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/412a_antenna_h.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Floor (Left Side)",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/421a_floor_l_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/422a_floor_l_h.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Floor (Right Side)",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/431a_floor_r_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/432a_floor_r_h.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Roof",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/441a_roof_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/442a_roof_h.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Tailgate",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/451b_tailgate_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/452c_tailgate_h.svg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Door",
+      "children": [
+        {
+          "label": "Driver's Door",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/511a_dr_door_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/512a_dr_door_h.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Front Passenger's Door",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/521a_as_door_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/522b_as_door_h.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Left Rear Door",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/531a_rl_door_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/532a_rl_door_h.svg"
+              }
+            }
+          ]
+        },
+        {
+          "label": "Right Rear Door",
+          "children": [
+            {
+              "label": "Component",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/541a_rr_door_c.svg"
+              }
+            },
+            {
+              "label": "Connectors and Harnesses",
+              "ref": {
+                "kind": "threed",
+                "threed": "assets/threed/542a_rr_door_h.svg"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

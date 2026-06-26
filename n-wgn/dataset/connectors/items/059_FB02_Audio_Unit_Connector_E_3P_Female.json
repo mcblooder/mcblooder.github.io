@@ -1,0 +1,76 @@
+{
+  "id": "059_FB02_Audio_Unit_Connector_E_3P_Female",
+  "category": "connector",
+  "connectorRef": "FB02",
+  "physicalIds": [
+    "FB02"
+  ],
+  "name": "Audio Unit Connector E (3P) (Female)",
+  "nameRu": "Разъём аудиоблок Connector E (3P), гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "39837-TM0 -9010-HS1",
+  "partNumbers": [
+    "39837-TM0 -9010-HS1"
+  ],
+  "harnesses": [
+    "39156-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Antenna"
+  ],
+  "systems": [
+    "Audio System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/39837-TM0 -9010-HS1.svg",
+    "viewBox": "0 0 108.967 94.09",
+    "width": 108.967,
+    "height": 94.09
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "SWD_+B",
+      "english": "SWD, +B",
+      "russian": "SWD, +B",
+      "terminal": "J02D",
+      "geometry": {
+        "x": 67.346,
+        "y": 6.864,
+        "svgTextId": "_x31__1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "SH(AM/FM)",
+      "english": "shield, AM / FM",
+      "russian": "экран, AM / FM",
+      "terminal": "J03D",
+      "geometry": {
+        "x": 25.742,
+        "y": 51.425,
+        "svgTextId": "_x32__1_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "",
+      "circuit": "SH",
+      "english": "Shield",
+      "russian": "Экран",
+      "terminal": "SH2A",
+      "geometry": {
+        "x": 25.742,
+        "y": 91.492,
+        "svgTextId": "_x33__1_"
+      }
+    }
+  ]
+}

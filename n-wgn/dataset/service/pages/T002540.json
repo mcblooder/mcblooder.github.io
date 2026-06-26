@@ -1,0 +1,42 @@
+{
+  "id": "T002540",
+  "title": "Emission Control Failure Diagnostic Table by DTC",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "NA Fuel",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002540",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuel, Emission Control Failure Diagnostic Table by DTC"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "SAE DTC: DTC code displayed on HDS, which is in accordance with SAE (Society of Automotive Engineers of America) standards."
+        ],
+        [
+          "",
+          "Number of times the PGM-FI warning light blinks: Applies to the number of times the PGM-FI warning light blinks when the SCS is shorted, and the last 4 digits of the SAE DTC code are displayed on the meter for those without an indication."
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002540_jpn/web/html/T002540_jpn_Content.html",
+  "inOutline": true
+}

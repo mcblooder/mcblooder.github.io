@@ -1,0 +1,49 @@
+{
+  "id": "208_EC17_Oil_Pressure_Sensor_1P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC17",
+  "physicalIds": [
+    "EC17"
+  ],
+  "name": "Oil Pressure Sensor 1P Connector (Female)",
+  "nameRu": "Разъём Oil Pressure датчик, 1 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "91701-PHMA-0040-H1",
+  "partNumbers": [
+    "91701-PHMA-0040-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)"
+  ],
+  "systems": [
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91701-PHMA-0040-H1.svg",
+    "viewBox": "0 0 33.944 40.735",
+    "width": 33.944,
+    "height": 40.735
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "OIL_PRESS_SW",
+      "english": "OIL, PRESS, switch",
+      "russian": "OIL, PRESS, выключатель",
+      "terminal": "F18A",
+      "geometry": {
+        "x": 14.154,
+        "y": 25.869,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

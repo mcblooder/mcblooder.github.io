@@ -1,0 +1,135 @@
+{
+  "id": "068_C105_C105_Male__C105_Female",
+  "category": "connector",
+  "connectorRef": "C105",
+  "physicalIds": [
+    "C105"
+  ],
+  "name": "C105 (Male) / C105 (Female)",
+  "nameRu": "Разъём C105, штыревая часть / Разъём C105, гнездовая часть",
+  "type": "MiddleCoupler",
+  "pinCount": 6,
+  "populatedPinCount": 5,
+  "faceviewPart": "91716-RJA -0030-H1_91706-R40 -0030-H1",
+  "partNumbers": [
+    "91706-R40 -0030-H1",
+    "91716-RJA -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-",
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Left Side)",
+    "Engine Compartment > Left Side"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "Auto Idle Stop System",
+    "Charging System",
+    "Cruise Control",
+    "CVT Control System",
+    "Energy Management System",
+    "ETCS (Electronic Throttle Control System)",
+    "EVAP System",
+    "Fuel Supply System",
+    "Ignition System",
+    "Junction Connectors",
+    "PCM (All)",
+    "PCM Power and Ground",
+    "PGM-FI System",
+    "Power Supply"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91716-RJA -0030-H1_91706-R40 -0030-H1.svg",
+    "viewBox": "0 0 82.934 161.987",
+    "width": 82.934,
+    "height": 161.987
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRN / RED",
+      "circuit": "IG1(COIL) / IG1_IG_COIL1",
+      "english": "ignition IG1, coil,   /  IG1, IG, COIL1",
+      "russian": "зажигание IG1, катушка,   /  IG1, IG, COIL1",
+      "terminal": "D02A / G06A",
+      "geometry": {
+        "x": 13.214,
+        "y": 127.579,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PUR / LT_GRN",
+      "circuit": "LIN / LIN(BATT_SENSOR)",
+      "english": "LIN  /  LIN, battery, sensor",
+      "russian": "LIN  /  LIN, аккумулятор, датчик",
+      "terminal": "E00B / X31B",
+      "geometry": {
+        "x": 38.913,
+        "y": 127.579,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "WHT / GRN",
+      "circuit": "IG1(MAIN)_TC / IG1_ACG",
+      "english": "ignition IG1, main, TC  /  IG1, alternator",
+      "russian": "зажигание IG1, главный, TC  /  IG1, генератор",
+      "terminal": "D36C000 / G05C",
+      "geometry": {
+        "x": 64.328,
+        "y": 127.579,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "YEL / TAN",
+      "circuit": "IGP / FI_MAIN_RLY_OUT",
+      "english": "IGP  /  FI, main, relay, output",
+      "russian": "IGP  /  FI, главный, реле, выход",
+      "terminal": "D04D",
+      "geometry": {
+        "x": 13.214,
+        "y": 152.427,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 38.913,
+        "y": 152.427,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "LT_BLU / TAN",
+      "circuit": "IGP(LAF) / LAF_RLY_OUT",
+      "english": "IGP, LAF,   /  LAF, relay, output",
+      "russian": "IGP, LAF,   /  LAF, реле, выход",
+      "terminal": "E70F / D38F",
+      "geometry": {
+        "x": 64.328,
+        "y": 152.427,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "129_EA08_Headlight_Auto_Leveling_Control_Unit_12P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA08",
+  "physicalIds": [
+    "EA08"
+  ],
+  "name": "Headlight Auto Leveling Control Unit 12P Connector (Female)",
+  "nameRu": "Разъём Headlight Auto Leveling блок управления, 12 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 12,
+  "populatedPinCount": 10,
+  "faceviewPart": "90262-SNA -0030-H1",
+  "partNumbers": [
+    "90262-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "B-CAN Communication Line",
+    "Headlight Leveling System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/90262-SNA -0030-H1.svg",
+    "viewBox": "0 0 184.74 77.152",
+    "width": 184.74,
+    "height": 77.152
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "RED",
+      "circuit": "ADJ_SNSR_RR_SIG",
+      "english": "ADJ, SNSR, rear/right, signal",
+      "russian": "ADJ, SNSR, задний/правый, сигнал",
+      "terminal": "54A",
+      "geometry": {
+        "x": 27.153,
+        "y": 37.226,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 55.466,
+        "y": 37.226,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "ADJ_SNSR_GND",
+      "english": "ADJ, SNSR, ground",
+      "russian": "ADJ, SNSR, масса",
+      "terminal": "53C",
+      "geometry": {
+        "x": 83.779,
+        "y": 37.226,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ADJ_ACT_GND",
+      "english": "ADJ, ACT, ground",
+      "russian": "ADJ, ACT, масса",
+      "terminal": "57E",
+      "geometry": {
+        "x": 112.092,
+        "y": 37.226,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "ADJ_ACT_+5V",
+      "english": "ADJ, ACT, +5V",
+      "russian": "ADJ, ACT, +5V",
+      "terminal": "59E",
+      "geometry": {
+        "x": 140.404,
+        "y": 37.226,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "IG1_MICU(BST)",
+      "english": "ignition IG1, MICU, BST",
+      "russian": "зажигание IG1, блок MICU, BST",
+      "terminal": "G36F000",
+      "geometry": {
+        "x": 168.717,
+        "y": 37.226,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "B-CAN_H",
+      "english": "B-CAN high line",
+      "russian": "Высокая линия B-CAN",
+      "terminal": "X50G",
+      "geometry": {
+        "x": 12.997,
+        "y": 65.539,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "B-CAN_L",
+      "english": "B-CAN low line",
+      "russian": "Низкая линия B-CAN",
+      "terminal": "X60H",
+      "geometry": {
+        "x": 41.24,
+        "y": 65.539,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 69.482,
+        "y": 65.539,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "ADJ_SNSR_+5V",
+      "english": "ADJ, SNSR, +5V",
+      "russian": "ADJ, SNSR, +5V",
+      "terminal": "52K",
+      "geometry": {
+        "x": 95.5,
+        "y": 65.539,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "ADJ_ACT_SIG",
+      "english": "ADJ, ACT, signal",
+      "russian": "ADJ, ACT, сигнал",
+      "terminal": "58L000",
+      "geometry": {
+        "x": 123.742,
+        "y": 65.539,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-RR)",
+      "english": "Ground (ENG-RR)",
+      "russian": "Масса (ENG-RR)",
+      "terminal": "Z13M",
+      "geometry": {
+        "x": 151.986,
+        "y": 65.539,
+        "svgTextId": "SVGID_12_"
+      }
+    }
+  ]
+}

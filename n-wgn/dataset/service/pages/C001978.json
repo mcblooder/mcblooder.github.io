@@ -1,0 +1,33 @@
+{
+  "id": "C001978",
+  "title": "Honda Smart Key System Structure Description - Fail-safe Features",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001978",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Honda Smart Key System Structure Description - Fail-safe Features"
+    },
+    {
+      "type": "paragraph",
+      "text": "If a system malfunction occurs, the smart warning light on the combination meter illuminates and the smart function is deactivated."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001978_jpn/web/html/C001978_jpn_Content.html",
+  "inOutline": true
+}

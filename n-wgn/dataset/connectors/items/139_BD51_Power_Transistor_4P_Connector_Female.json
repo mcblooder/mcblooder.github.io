@@ -1,0 +1,90 @@
+{
+  "id": "139_BD51_Power_Transistor_4P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD51",
+  "physicalIds": [
+    "BD51"
+  ],
+  "name": "Power Transistor 4P Connector (Female)",
+  "nameRu": "Разъём Power Transistor, 4 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 4,
+  "faceviewPart": "91838-TF0 -0030-H1",
+  "partNumbers": [
+    "91838-TF0 -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Climate Control"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91838-TF0 -0030-H1.svg",
+    "viewBox": "0 0 50.709 55.856",
+    "width": 50.709,
+    "height": 55.856
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "RED",
+      "circuit": "BLOWER_HI",
+      "english": "BLOWER, high",
+      "russian": "BLOWER, высокий",
+      "terminal": "301A000",
+      "geometry": {
+        "x": 12.043,
+        "y": 24.682,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-2)",
+      "english": "Ground (CTR-2)",
+      "russian": "Масса (CTR-2)",
+      "terminal": "Z33A",
+      "geometry": {
+        "x": 34.009,
+        "y": 24.682,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "BLOWER_V",
+      "english": "BLOWER, V",
+      "russian": "BLOWER, V",
+      "terminal": "305C",
+      "geometry": {
+        "x": 11.902,
+        "y": 47.803,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "BLOWER_G",
+      "english": "BLOWER, G",
+      "russian": "BLOWER, G",
+      "terminal": "306D",
+      "geometry": {
+        "x": 34.357,
+        "y": 47.802,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

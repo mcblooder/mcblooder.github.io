@@ -1,0 +1,108 @@
+{
+  "id": "006_C113_C113_Male__C113_Female",
+  "category": "connector",
+  "connectorRef": "C113",
+  "physicalIds": [
+    "C113"
+  ],
+  "name": "C113 (Male) / C113 (Female)",
+  "nameRu": "Разъём C113, штыревая часть / Разъём C113, гнездовая часть",
+  "type": "MiddleCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91764-TF0 -0030-H1_91763-TF0 -0030-H1",
+  "partNumbers": [
+    "91763-TF0 -0030-H1",
+    "91764-TF0 -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-",
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)",
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "A/T Interlock System",
+    "Accessory Power Socket",
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "Audio System",
+    "Auto Idle Stop System",
+    "Back-Up Lights",
+    "Brake Lights",
+    "Charging System",
+    "City-Brake Active System",
+    "Climate Control",
+    "Cruise Control",
+    "CVT Control System",
+    "Dashlights",
+    "Energy Management System",
+    "Entry Light Control System",
+    "EPS",
+    "EVAP System",
+    "Fans",
+    "Fog Lights",
+    "Fuel Supply System",
+    "Gauges",
+    "Headlight Leveling System",
+    "Headlights",
+    "Idle Control System",
+    "Ignition System",
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "MIL Circuit",
+    "PCM (All)",
+    "PCM Power and Ground",
+    "PGM-FI System",
+    "Power Mirrors",
+    "Power Supply",
+    "Power Windows",
+    "Power, Grounds and Diagnostics",
+    "Rear Window/Power Mirror Defoggers",
+    "SRS",
+    "Starting System",
+    "VSA",
+    "Wiper/Washer (Rear Window)",
+    "Wiper/Washer (Windshield)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91764-TF0 -0030-H1_91763-TF0 -0030-H1.svg",
+    "viewBox": "0 0 59.069 124.159",
+    "width": 59.069,
+    "height": 124.159
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "+B_EPS",
+      "english": "Constant battery power: electric power steering",
+      "russian": "Постоянное питание от АКБ: электроусилитель руля",
+      "terminal": "B20A",
+      "geometry": {
+        "x": 11.29,
+        "y": 116.488,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_IG_MAIN",
+      "english": "Constant battery power: IG, main",
+      "russian": "Постоянное питание от АКБ: IG, главный",
+      "terminal": "B03B000 / B03P",
+      "geometry": {
+        "x": 44.664,
+        "y": 116.488,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

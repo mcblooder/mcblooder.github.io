@@ -1,0 +1,155 @@
+{
+  "id": "A000100",
+  "title": "DTC Commentary: P2135",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000100",
+  "assets": [
+    "100_3.0_jpn_11033613_3.0_disp.png",
+    "100_3.0_jpn_11033614_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Commentary: P2135"
+    },
+    {
+      "type": "dtc",
+      "code": "P2135",
+      "text": "DTC P2135: Throttle opening sensor 1/2 correlation error"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "100_3.0_jpn_11033613_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "100_3.0_jpn_11033614_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The DBW system opens and closes the throttle valve under electronic control. The system consists of a throttle actuator built into the throttle body, throttle valve and throttle position sensor 1/2, accelerator pedal position sensor 1/2, DBW relay, and PGM-FI ECU. When the accelerator pedal is operated, the accelerator pedal position sensor is driven to detect the amount of depressing the accelerator pedal. The throttle valve opening target value is set based on the amount of depressing the accelerator pedal signaled by the accelerator pedal position sensor, and the throttle actuator is driven to open and close the throttle valve to achieve the target value. The actual throttle valve opening is detected by the throttle opening sensor 1/2 attached to the throttle body. If the difference between the throttle opening degree sensor 1 opening degree and the throttle opening degree sensor 2 opening degree is compared and the difference continues below the set value for more than the set time, the PGM-FI determines that a short circuit failure has occurred between the throttle opening degree sensor 1 and throttle opening degree sensor 2, and if the difference continues above the set value for more than the set time, the PGM -FI ECU judges that a correlation error has occurred in the throttle opening degree sensor and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "D/C: Drive Cycle"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*: Short circuit fault **: Correlation anomaly [ ]: HDS Parameters"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "If any of the following is established"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Short circuit failure of throttle position sensor 1 and throttle position sensor 2"
+        },
+        {
+          "text": "Abnormal correlation between throttle opening sensor 1 and throttle opening sensor 2"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "***: If the deviation between the throttle position sensor 1 voltage [throttle position sensor 1] and the throttle position sensor 2 voltage [throttle position sensor 2] is greater than or equal to the above table, count up 19; if less than the above table, count down 1."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Short circuit in code (THL1 line and THL2 line) between PGM-FI ECU and throttle position sensor"
+        },
+        {
+          "text": "Failure of 1/2 throttle opening sensor"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "paragraph",
+      "text": "Turn ignition to ON mode."
+    },
+    {
+      "type": "paragraph",
+      "text": "Execute the DBW test in the Inspection menu with HDS."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to be faulty, the PGM-FI warning light comes on and the temporary DTC, DTC and freeze data are stored in the PGM-FI ECU memory."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000100_jpn/web/html/A000100_jpn_Content.html",
+  "inOutline": true
+}

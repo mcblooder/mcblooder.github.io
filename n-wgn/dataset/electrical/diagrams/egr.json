@@ -1,0 +1,14 @@
+{
+  "id": "egr",
+  "category": "electrical_diagram",
+  "title": "Egr",
+  "system": "egr",
+  "sheetCount": 1,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/egr/sheet1.svg"
+    }
+  ],
+  "components": {}
+}

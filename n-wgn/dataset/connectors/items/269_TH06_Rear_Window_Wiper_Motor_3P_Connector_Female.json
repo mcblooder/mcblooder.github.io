@@ -1,0 +1,76 @@
+{
+  "id": "269_TH06_Rear_Window_Wiper_Motor_3P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "TH06",
+  "physicalIds": [
+    "TH06"
+  ],
+  "name": "Rear Window Wiper Motor 3P Connector (Female)",
+  "nameRu": "Разъём задний Window Wiper электродвигатель, 3 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "91758-T2AA-0030-H1",
+  "partNumbers": [
+    "91758-T2AA-0030-H1"
+  ],
+  "harnesses": [
+    "32109-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Tailgate"
+  ],
+  "systems": [
+    "Wiper/Washer (Rear Window)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91758-T2AA-0030-H1.svg",
+    "viewBox": "0 0 68.863 37.072",
+    "width": 68.863,
+    "height": 37.072
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "IG1_RR_WIPER",
+      "english": "ignition IG1, rear/right, wiper",
+      "russian": "зажигание IG1, задний/правый, стеклоочиститель",
+      "terminal": "G13A",
+      "geometry": {
+        "x": 10.238,
+        "y": 27.442,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(RR-R)",
+      "english": "Ground (RR-R)",
+      "russian": "Масса (RR-R)",
+      "terminal": "Z90B000",
+      "geometry": {
+        "x": 32.95,
+        "y": 27.442,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "RR_WIPER_AS",
+      "english": "rear/right, wiper, AS",
+      "russian": "задний/правый, стеклоочиститель, AS",
+      "terminal": "424C",
+      "geometry": {
+        "x": 55.662,
+        "y": 27.442,
+        "svgTextId": "SVGID_3_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "R000991",
+  "title": "Headlight manual leveling switch removal and installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Headlight Leveling System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000991",
+  "assets": [
+    "991_3.0_jpn_11337362_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000771",
+      "label": "Driver lower cover removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Headlight manual leveling switch removal and installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Driver lower cover removal",
+      "refs": [
+        {
+          "id": "R000771",
+          "label": "Driver lower cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Headlight manual leveling switch removal"
+    },
+    {
+      "type": "figure",
+      "asset": "991_3.0_jpn_11337362_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000991_jpn/web/html/R000991_jpn_Content.html",
+  "inOutline": true
+}

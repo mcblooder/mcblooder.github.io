@@ -1,0 +1,72 @@
+{
+  "id": "fuel_supply",
+  "category": "electrical_diagram",
+  "title": "Fuel Supply System",
+  "system": "fuel_supply",
+  "sheetCount": 4,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/fuel_supply/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/fuel_supply/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/fuel_supply/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/fuel_supply/sheet4.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "DBW Relay",
+      "Engine Start/Stop Switch",
+      "Fuel Tank Unit",
+      "PCM",
+      "PGM-FI Main Relay 1",
+      "PGM-FI Main Relay 2"
+    ],
+    "Couplers": [
+      "C002 (Female)",
+      "C105 (Male)|C105 (Female)",
+      "C108 (Male)|C108 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Fuel Tank Unit 4P Connector",
+      "PCM Connector A (50P) (Female)",
+      "Sub Relay Block 1",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_DBW",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "19_IG1_FUEL_PUMP",
+      "21_+B_IGP"
+    ],
+    "Grounds": [
+      "G402",
+      "G501"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

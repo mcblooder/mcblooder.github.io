@@ -1,0 +1,182 @@
+{
+  "id": "101_EC23_Transmission_Range_Sensor_10P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC23",
+  "physicalIds": [
+    "EC23"
+  ],
+  "name": "Transmission Range Sensor 10P Connector (Female)",
+  "nameRu": "Разъём Transmission Range датчик, 10 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 10,
+  "populatedPinCount": 8,
+  "faceviewPart": "91701-RTA -0030-H1",
+  "partNumbers": [
+    "91701-RTA -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Left Side)"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "A/T Interlock System",
+    "Auto Idle Stop System",
+    "Back-Up Lights",
+    "Cruise Control",
+    "CVT Control System",
+    "PCM (All)",
+    "Starting System",
+    "Wiper/Washer (Rear Window)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91701-RTA -0030-H1.svg",
+    "viewBox": "0 0 131.845 62.662",
+    "width": 131.845,
+    "height": 62.662
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 23.813,
+        "y": 23.117,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ATP-D",
+      "english": "ATP-D",
+      "russian": "ATP-D",
+      "terminal": "M30B",
+      "geometry": {
+        "x": 44.464,
+        "y": 23.117,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "ATP-R",
+      "english": "ATP-R",
+      "russian": "ATP-R",
+      "terminal": "M34C",
+      "geometry": {
+        "x": 71.311,
+        "y": 23.117,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "ATP-P",
+      "english": "ATP-P",
+      "russian": "ATP-P",
+      "terminal": "M35D",
+      "geometry": {
+        "x": 98.16,
+        "y": 23.117,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "ATPGND",
+      "english": "ATPGND",
+      "russian": "ATPGND",
+      "terminal": "Z01E",
+      "geometry": {
+        "x": 118.81,
+        "y": 23.117,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "ATP-FWD",
+      "english": "ATP-FWD",
+      "russian": "ATP-FWD",
+      "terminal": "M37F",
+      "geometry": {
+        "x": 23.813,
+        "y": 43.77,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "ATP_L",
+      "english": "ATP, left",
+      "russian": "ATP, левый",
+      "terminal": "M36G",
+      "geometry": {
+        "x": 44.464,
+        "y": 43.77,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "RED",
+      "circuit": "ATP-N",
+      "english": "ATP-N",
+      "russian": "ATP-N",
+      "terminal": "M22H",
+      "geometry": {
+        "x": 71.311,
+        "y": 43.77,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 98.16,
+        "y": 43.77,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "ATP-RVS",
+      "english": "ATP-RVS",
+      "russian": "ATP-RVS",
+      "terminal": "M38K",
+      "geometry": {
+        "x": 114.263,
+        "y": 43.77,
+        "svgTextId": "SVGID_10_"
+      }
+    }
+  ]
+}

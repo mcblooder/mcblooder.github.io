@@ -1,0 +1,79 @@
+{
+  "id": "099_EC15_CVT_Input_Shaft_Drive_Pulley_Speed_Sensor_3P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC15",
+  "physicalIds": [
+    "EC15"
+  ],
+  "name": "CVT Input Shaft (Drive Pulley) Speed Sensor 3P Connector (Female)",
+  "nameRu": "Разъём CVT Input Shaft (Drive Pulley) Speed датчик, 3 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "91703-R40 -0030-H1",
+  "partNumbers": [
+    "91703-R40 -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Left Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "CVT Control System",
+    "PCM (All)",
+    "PGM-FI System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91703-R40 -0030-H1.svg",
+    "viewBox": "0 0 68.859 27.554",
+    "width": 68.859,
+    "height": 27.554
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "SO2TSG",
+      "english": "SO2TSG",
+      "russian": "SO2TSG",
+      "terminal": "Z27A000",
+      "geometry": {
+        "x": 12.004,
+        "y": 19.988,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "RED",
+      "circuit": "NDR",
+      "english": "NDR",
+      "russian": "NDR",
+      "terminal": "K22B",
+      "geometry": {
+        "x": 32.656,
+        "y": 19.988,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "VCC1",
+      "english": "VCC1",
+      "russian": "VCC1",
+      "terminal": "D45C000",
+      "geometry": {
+        "x": 53.308,
+        "y": 19.988,
+        "svgTextId": "SVGID_3_"
+      }
+    }
+  ]
+}

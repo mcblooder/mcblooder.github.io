@@ -1,0 +1,40 @@
+{
+  "id": "E001651",
+  "title": "SRS airbag system circuit diagram",
+  "category": "service",
+  "packageKind": "EWD",
+  "packageKindName": "Electrical Wiring (manual)",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "SRS",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "DENSO SRS unit",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/E001651",
+  "assets": [
+    "1651_3.0_jpn_11579387_5.0_disp.png",
+    "1651_3.0_jpn_11579388_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "SRS airbag system circuit diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "1651_3.0_jpn_11579387_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1651_3.0_jpn_11579388_4.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_EWD_20131120093904/Contents/jpn/60T6GD00_2014/EWD/SCT/SC/SYS/E001651_jpn/web/html/E001651_jpn_Content.html",
+  "inOutline": true
+}

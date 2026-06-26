@@ -1,0 +1,77 @@
+{
+  "id": "T002542",
+  "title": "Fuel and Emission Control Symptom Diagnosis - Engine Stall - Questionnaire",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002542",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuel and Emission Control Symptom Diagnosis - Engine Stall - Questionnaire"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Date of Occurrence",
+          "",
+          ""
+        ],
+        [
+          "Location of Occurrence",
+          "",
+          ""
+        ],
+        [
+          "Vehicle modifications",
+          "No modifications",
+          "Modified parts are available."
+        ],
+        [
+          "Situation at the time of occurrence (while driving, while stopped, and presence/absence of sound or vibration)"
+        ],
+        [
+          "",
+          "1) The engine stalls due to a muffled sound or vibration while decelerating or coming to a stop."
+        ],
+        [
+          "",
+          "Engine stall occurs without vibration or noise."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Transient failure of the ignition coil relay (only for vehicles equipped with an ignition coil relay)"
+        ],
+        [
+          "",
+          "PGM-FI Main Transient failure of relay 1"
+        ],
+        [
+          "",
+          "Transient failure of LAF sensor relay (only for vehicles equipped with LAF sensor relay)"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002542_jpn/web/html/T002542_jpn_Content.html",
+  "inOutline": true
+}

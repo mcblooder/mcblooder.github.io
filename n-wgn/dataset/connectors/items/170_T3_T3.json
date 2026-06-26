@@ -1,0 +1,48 @@
+{
+  "id": "170_T3_T3",
+  "category": "connector",
+  "connectorRef": "T3",
+  "physicalIds": [
+    "T3"
+  ],
+  "name": "T3",
+  "nameRu": "Разъём T3",
+  "type": "DirectCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "32124-SAP -0030-H1",
+  "partNumbers": [
+    "32124-SAP -0030-H1"
+  ],
+  "harnesses": [
+    "32610-T6G_-0000-"
+  ],
+  "locations": [
+    "Engine Compartment > Starter/Ground Cable"
+  ],
+  "systems": [
+    "Ground Cable"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/32124-SAP -0030-H1.svg",
+    "viewBox": "0 0 37.861 29.616",
+    "width": 37.861,
+    "height": 29.616
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(SUB)",
+      "english": "Ground (SUB)",
+      "russian": "Масса (SUB)",
+      "terminal": "ZZ2A000",
+      "geometry": {
+        "x": 8.956,
+        "y": 14.488,
+        "svgTextId": "_x31__1_"
+      }
+    }
+  ]
+}

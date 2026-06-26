@@ -1,0 +1,64 @@
+{
+  "id": "094_BD21_Evaporator_Temperature_Sensor_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD21",
+  "physicalIds": [
+    "BD21"
+  ],
+  "name": "Evaporator Temperature Sensor 2P Connector (Female)",
+  "nameRu": "Разъём Evaporator Temperature датчик, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91764-SLJ -0030-H1",
+  "partNumbers": [
+    "91764-SLJ -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Climate Control",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91764-SLJ -0030-H1.svg",
+    "viewBox": "0 0 57.332 46.008",
+    "width": 57.332,
+    "height": 46.008
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "SG6",
+      "english": "SG6",
+      "russian": "SG6",
+      "terminal": "D20A",
+      "geometry": {
+        "x": 12.162,
+        "y": 34.394,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "RED",
+      "circuit": "TEVA",
+      "english": "TEVA",
+      "russian": "TEVA",
+      "terminal": "332B",
+      "geometry": {
+        "x": 40.476,
+        "y": 34.394,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

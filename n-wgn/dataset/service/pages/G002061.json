@@ -1,0 +1,748 @@
+{
+  "id": "G002061",
+  "title": "Audio Unit Pin Assignment",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "AV/Communication Systems",
+  "system": "Audio Components",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G002061",
+  "assets": [
+    "2061_3.0_jpn_11580662_3.0_disp.png",
+    "2061_3.0_jpn_11580663_3.0_disp.png",
+    "2061_3.0_jpn_11580664_3.0_disp.png",
+    "2061_3.0_jpn_11580665_3.0_disp.png",
+    "2061_3.0_jpn_11580666_3.0_disp.png",
+    "2061_3.0_jpn_11580667_3.0_disp.png",
+    "2061_3.0_jpn_11580668_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Audio Unit Pin Assignment"
+    },
+    {
+      "type": "figure",
+      "asset": "2061_3.0_jpn_11580662_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "port (e.g. LAN port)",
+          "Wiring color",
+          "Terminal name",
+          "Contents"
+        ],
+        [
+          "1",
+          "black",
+          "GND",
+          "Grounding of Audio & Navigation Units (G402)"
+        ],
+        [
+          "2",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "3",
+          "yellow",
+          "＋B BACKUP BST",
+          "12V battery power"
+        ],
+        [
+          "4",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "5",
+          "white",
+          "RL SPKR＋",
+          "rear left audio signal"
+        ],
+        [
+          "6",
+          "ash",
+          "RL SPKR－",
+          "rear left audio signal"
+        ],
+        [
+          "7",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "8",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "9",
+          "green",
+          "RR SPKR＋",
+          "Rear right voice signal"
+        ],
+        [
+          "10",
+          "new leaves",
+          "RR SPKR－",
+          "Rear right voice signal"
+        ],
+        [
+          "11",
+          "ash",
+          "REMOTE SW GND",
+          "Audio Remote Switch Grounding"
+        ],
+        [
+          "12",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "13",
+          "green",
+          "K LINE",
+          "communication signal"
+        ],
+        [
+          "14",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "15",
+          "green",
+          "FL SPKR＋",
+          "Front left audio signal"
+        ],
+        [
+          "16",
+          "hollow",
+          "FL SPKR－",
+          "Front left audio signal"
+        ],
+        [
+          "17",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "18",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "19",
+          "red",
+          "FR SPKR＋",
+          "Front right audio signal"
+        ],
+        [
+          "20",
+          "peach",
+          "FR SPKR－",
+          "Front right audio signal"
+        ],
+        [
+          "21",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "22",
+          "yellow",
+          "AUDIO REMOTE SW",
+          "Audio Remote switch operation signal"
+        ],
+        [
+          "23",
+          "purple",
+          "INFO SW",
+          "Audio Remote switch (DISPLAY button) operation signal"
+        ],
+        [
+          "24",
+          "white",
+          "ACC(BST)",
+          "Accessory Power Supply"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2061_3.0_jpn_11580663_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "port (e.g. LAN port)",
+          "Wiring color",
+          "Terminal name",
+          "Contents"
+        ],
+        [
+          "1",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "2",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "3",
+          "peach",
+          "B-CAN_L",
+          "B-CAN communication signal"
+        ],
+        [
+          "4",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "5",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "6",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "7",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "8",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "9",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "10",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "11",
+          "weak matcha",
+          "PARKING BRAKE SW",
+          "Parking brake switch signal"
+        ],
+        [
+          "12",
+          "green",
+          "HFT REMOTE SW",
+          "HFT switch operation signal"
+        ],
+        [
+          "13",
+          "green",
+          "B-CAN_H",
+          "B-CAN communication signal"
+        ],
+        [
+          "14",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "15",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "16",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "17",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "18",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "19",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "20",
+          "unused",
+          "unused",
+          "―――"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2061_3.0_jpn_11580664_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "port (e.g. LAN port)",
+          "Wiring color",
+          "Terminal name",
+          "Contents"
+        ],
+        [
+          "1",
+          "red",
+          "F-CAN_L",
+          "F-CAN communication signal"
+        ],
+        [
+          "2",
+          "ash",
+          "SH CAMERA",
+          "Shields for terminals No.3, No.4, No.15 and No.16"
+        ],
+        [
+          "3",
+          "red",
+          "CAMERA GND",
+          "Rear camera Video signal grounding"
+        ],
+        [
+          "4",
+          "black",
+          "RC GND",
+          "Rear Camera Grounding"
+        ],
+        [
+          "5",
+          "tea",
+          "CAMERA BIT0",
+          "Rear camera display switching signal"
+        ],
+        [
+          "6",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "7",
+          "white",
+          "BACK LT",
+          "reverse video"
+        ],
+        [
+          "8",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "9",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "10",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "11",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "12",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "13",
+          "white",
+          "F-CAN_H",
+          "F-CAN communication signal"
+        ],
+        [
+          "14",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "15",
+          "green",
+          "CAMERA V",
+          "Rear camera NTSC signal"
+        ],
+        [
+          "16",
+          "white",
+          "CAMERA VCC",
+          "Power supply for rear camera"
+        ],
+        [
+          "17",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "18",
+          "green",
+          "CAMERA BIT1",
+          "Rear camera display switching signal"
+        ],
+        [
+          "19",
+          "purple",
+          "CAMERA ADPT",
+          "Rear Camera connection detection signal"
+        ],
+        [
+          "20",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "21",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "22",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "23",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "24",
+          "unused",
+          "unused",
+          "―――"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2061_3.0_jpn_11580665_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "port (e.g. LAN port)",
+          "Wiring color",
+          "Terminal name",
+          "Contents"
+        ],
+        [
+          "1",
+          "black",
+          "SWD＋B",
+          "Roof Antenna Power Supply"
+        ],
+        [
+          "2",
+          "―――",
+          "AM/FM",
+          "AM/FM RF input"
+        ],
+        [
+          "3",
+          "black",
+          "SH（AM/FM）",
+          "Shield of terminal No. 2"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2061_3.0_jpn_11580666_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "port (e.g. LAN port)",
+          "Wiring color",
+          "Terminal name",
+          "Contents"
+        ],
+        [
+          "1",
+          "―――",
+          "T.M.D.S DATA2＋",
+          "Audio/Video input signal"
+        ],
+        [
+          "2",
+          "―――",
+          "T.M.D.S DATA2 SHIELD",
+          "Shield of terminal No.1 and No.3"
+        ],
+        [
+          "3",
+          "―――",
+          "T.M.D.S DATA2－",
+          "Audio/Video input signal"
+        ],
+        [
+          "4",
+          "―――",
+          "T.M.D.S DATA1＋",
+          "Audio/Video input signal"
+        ],
+        [
+          "5",
+          "―――",
+          "T.M.D.S DATA1 SHIELD",
+          "Shield of terminal No.4 and No.6"
+        ],
+        [
+          "6",
+          "―――",
+          "T.M.D.S DATA1－",
+          "Audio/Video input signal"
+        ],
+        [
+          "7",
+          "―――",
+          "T.M.D.S DATA0＋",
+          "Audio/Video input signal"
+        ],
+        [
+          "8",
+          "―――",
+          "T.M.D.S DATA0 SHIELD",
+          "Shield of terminal No.7 and No.9"
+        ],
+        [
+          "9",
+          "―――",
+          "T.M.D.S DATA0－",
+          "Audio/Video input signal"
+        ],
+        [
+          "10",
+          "―――",
+          "T.M.D.S CLOCK＋",
+          "TMDS synchronous signal"
+        ],
+        [
+          "11",
+          "―――",
+          "T.M.D.S CLOCK SHIELD",
+          "Shield of terminal No.10 and No.12"
+        ],
+        [
+          "12",
+          "―――",
+          "T.M.D.S CLOCK－",
+          "TMDS synchronous signal"
+        ],
+        [
+          "13",
+          "―――",
+          "CEC",
+          "HDMI operation signal"
+        ],
+        [
+          "14",
+          "―――",
+          "UTILITY",
+          "(Not used)"
+        ],
+        [
+          "15",
+          "―――",
+          "SCL",
+          "I2C bus synchronous signal"
+        ],
+        [
+          "16",
+          "―――",
+          "SDA",
+          "I2C bus communication signal"
+        ],
+        [
+          "17",
+          "―――",
+          "DDC, CEC GROUND",
+          "HDMI operation signal grounding"
+        ],
+        [
+          "18",
+          "―――",
+          "＋5V POWER",
+          "5V output"
+        ],
+        [
+          "19",
+          "―――",
+          "HOT PLUG DETECT",
+          "connection detection signal"
+        ],
+        [
+          "20",
+          "―――",
+          "SHIELD",
+          "Shielding of all terminals"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2061_3.0_jpn_11580667_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "port (e.g. LAN port)",
+          "Wiring color",
+          "Terminal name",
+          "Contents"
+        ],
+        [
+          "1",
+          "―――",
+          "USB1 GND",
+          "Grounding of USB-connected devices"
+        ],
+        [
+          "2",
+          "―――",
+          "USB1 VBUS",
+          "Power source for USB connected devices"
+        ],
+        [
+          "3",
+          "―――",
+          "USB1 DATA＋",
+          "USB communication signal"
+        ],
+        [
+          "4",
+          "―――",
+          "USB1 DATA－",
+          "USB communication signal"
+        ],
+        [
+          "5",
+          "―――",
+          "USB1 SH",
+          "Shield of terminal No.1, No.2, No.3, No.4"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2061_3.0_jpn_11580668_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "port (e.g. LAN port)",
+          "Wiring color",
+          "Terminal name",
+          "Contents"
+        ],
+        [
+          "1",
+          "―――",
+          "USB2 GND",
+          "Grounding of USB-connected devices"
+        ],
+        [
+          "2",
+          "―――",
+          "USB2 VBUS",
+          "Power source for USB connected devices"
+        ],
+        [
+          "3",
+          "―――",
+          "USB2 DATA＋",
+          "USB communication signal"
+        ],
+        [
+          "4",
+          "―――",
+          "USB2 DATA－",
+          "USB communication signal"
+        ],
+        [
+          "5",
+          "―――",
+          "USB2 SH",
+          "Shield of terminal No.1, No.2, No.3, No.4"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131120091740/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G002061_jpn/web/html/G002061_jpn_Content.html",
+  "inOutline": true
+}

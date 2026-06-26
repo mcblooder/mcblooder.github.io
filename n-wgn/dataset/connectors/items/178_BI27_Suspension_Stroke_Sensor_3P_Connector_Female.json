@@ -1,0 +1,76 @@
+{
+  "id": "178_BI27_Suspension_Stroke_Sensor_3P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BI27",
+  "physicalIds": [
+    "BI27"
+  ],
+  "name": "Suspension Stroke Sensor 3P Connector (Female)",
+  "nameRu": "Разъём Suspension Stroke датчик, 3 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "91761-SMG -0030-H1",
+  "partNumbers": [
+    "91761-SMG -0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Right Side)"
+  ],
+  "systems": [
+    "Headlight Leveling System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91761-SMG -0030-H1.svg",
+    "viewBox": "0 0 97.087 43.229",
+    "width": 97.087,
+    "height": 43.229
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "ADJ_SNSR_GND",
+      "english": "ADJ, SNSR, ground",
+      "russian": "ADJ, SNSR, масса",
+      "terminal": "53A",
+      "geometry": {
+        "x": 17.846,
+        "y": 25.931,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "RED",
+      "circuit": "ADJ_SNSR_RR_SIG",
+      "english": "ADJ, SNSR, rear/right, signal",
+      "russian": "ADJ, SNSR, задний/правый, сигнал",
+      "terminal": "54B",
+      "geometry": {
+        "x": 46.193,
+        "y": 25.931,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "ADJ_SNSR_+5V",
+      "english": "ADJ, SNSR, +5V",
+      "russian": "ADJ, SNSR, +5V",
+      "terminal": "52C",
+      "geometry": {
+        "x": 74.539,
+        "y": 25.931,
+        "svgTextId": "SVGID_3_"
+      }
+    }
+  ]
+}

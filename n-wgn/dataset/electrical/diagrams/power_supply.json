@@ -1,0 +1,128 @@
+{
+  "id": "power_supply",
+  "category": "electrical_diagram",
+  "title": "Power Supply",
+  "system": "power_supply",
+  "sheetCount": 7,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/power_supply/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/power_supply/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/power_supply/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/power_supply/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/power_supply/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/power_supply/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/power_supply/sheet7.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "12 Volt Battery",
+      "Accessory Relay",
+      "Battery Sensor",
+      "Blower Motor Relay",
+      "Compressor Clutch Relay",
+      "Diode",
+      "Engine Start/Stop Switch",
+      "Front Wiper Motor Relay",
+      "Front/Rear Washer Motor Relay Circuit",
+      "IG1 Relay 1",
+      "IG1 Relay 2",
+      "PCM",
+      "PGM-FI Main Relay 2",
+      "Power Window Relay",
+      "Push Start System Module",
+      "Radiator Fan Relay",
+      "Reverse Relay Circuit",
+      "Starter Cut Relay 1",
+      "Starter Cut Relay 2",
+      "Washer Motor Relay"
+    ],
+    "Couplers": [
+      "(+)",
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "C001 (Female)",
+      "C002 (Female)",
+      "C105 (Male)|C105 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C117 (Male)|C117 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "Sub Relay Block 1",
+      "T1",
+      "T6",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector F (18P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector H (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Q (4P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Y (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "04_IG1_ST_CUT_RLY_COIL",
+      "05_IG1_RR_WIPER",
+      "06_IG1_BACK_LT",
+      "07_IG1_RELAY_1",
+      "08_IG1_SRS",
+      "15_IG1_COIL",
+      "16_IG1_RELAY_2",
+      "19_IG1_FUEL_PUMP",
+      "20_IG1_METER",
+      "25_IG2_RR_DEF",
+      "26_IG2_A/C",
+      "27_IG2_MIRROR",
+      "28_ACC_CIGER",
+      "29_ACC",
+      "32_IG1_ACG",
+      "IG1_WIPER(P/S)"
+    ],
+    "Grounds": [
+      "G1",
+      "G402"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "GA Battery Ground Cable",
+      "TH Tailgate Wire Harness"
+    ]
+  }
+}

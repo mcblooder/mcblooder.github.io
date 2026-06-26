@@ -1,0 +1,45 @@
+{
+  "id": "E002772",
+  "title": "Keyless Door Lock/Security Alarm System Schematic",
+  "category": "service",
+  "packageKind": "EWD",
+  "packageKindName": "Electrical Wiring (manual)",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Keyless/power door locks/anti-theft system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/E002772",
+  "assets": [
+    "2772_7.0_jpn_11673897_5.0_disp.png",
+    "2772_7.0_jpn_11673898_5.0_disp.png",
+    "2772_7.0_jpn_11673899_5.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Keyless Door Lock/Security Alarm System Schematic"
+    },
+    {
+      "type": "figure",
+      "asset": "2772_7.0_jpn_11673897_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2772_7.0_jpn_11673898_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2772_7.0_jpn_11673899_5.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_EWD_20131205174154/Contents/jpn/60T6GD00_2014/EWD/SCT/SC/SYS/E002772_jpn/web/html/E002772_jpn_Content.html",
+  "inOutline": true
+}

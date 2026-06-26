@@ -1,0 +1,136 @@
+{
+  "id": "090_BD07_Automatic_Lighting_Sunlight_Sensor_7P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD07",
+  "physicalIds": [
+    "BD07"
+  ],
+  "name": "Automatic Lighting/Sunlight Sensor 7P Connector (Female)",
+  "nameRu": "Разъём Automatic Lighting/Sunlight датчик, 7 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 7,
+  "populatedPinCount": 7,
+  "faceviewPart": "91784-TA0 -0030-H1",
+  "partNumbers": [
+    "91784-TA0 -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "B-CAN Communication Line",
+    "Climate Control",
+    "Headlights",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91784-TA0 -0030-H1.svg",
+    "viewBox": "0 0 199.134 48.898",
+    "width": 199.134,
+    "height": 48.898
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_BACK_UP_BST",
+      "english": "Constant battery power: back-up, up, BST",
+      "russian": "Постоянное питание от АКБ: резервный, вверх, BST",
+      "terminal": "B79A",
+      "geometry": {
+        "x": 12.444,
+        "y": 37.269,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "TSUN",
+      "english": "TSUN",
+      "russian": "TSUN",
+      "terminal": "333B000",
+      "geometry": {
+        "x": 40.791,
+        "y": 37.269,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "SENSER_COM",
+      "english": "sensor, common",
+      "russian": "датчик, общий",
+      "terminal": "331C",
+      "geometry": {
+        "x": 69.138,
+        "y": 37.269,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z30D",
+      "geometry": {
+        "x": 97.484,
+        "y": 37.269,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "RED",
+      "circuit": "H/L_ON_SW",
+      "english": "H / L, on, switch",
+      "russian": "H / L, включение, выключатель",
+      "terminal": "3E",
+      "geometry": {
+        "x": 125.831,
+        "y": 37.269,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "B-CAN_H",
+      "english": "B-CAN high line",
+      "russian": "Высокая линия B-CAN",
+      "terminal": "X50F000",
+      "geometry": {
+        "x": 154.177,
+        "y": 37.269,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "B-CAN_L",
+      "english": "B-CAN low line",
+      "russian": "Низкая линия B-CAN",
+      "terminal": "X60G",
+      "geometry": {
+        "x": 182.523,
+        "y": 37.269,
+        "svgTextId": "SVGID_7_"
+      }
+    }
+  ]
+}

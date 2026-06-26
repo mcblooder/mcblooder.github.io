@@ -1,0 +1,159 @@
+{
+  "id": "keyless_security",
+  "category": "electrical_diagram",
+  "title": "Keyless/Power Door Locks/Security System",
+  "system": "keyless_security",
+  "sheetCount": 8,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/keyless_security/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/keyless_security/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/keyless_security/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/keyless_security/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/keyless_security/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/keyless_security/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/keyless_security/sheet7.svg"
+    },
+    {
+      "name": "sheet8",
+      "asset": "assets/svg/keyless_security/sheet8.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Answer Back Buzzer",
+      "Door Lock/Door Unlick Relay Circuit",
+      "Driver's Door Latch",
+      "Driver's Door Switch",
+      "Driver's Door Touch Sensor",
+      "Engine Start/Stop Switch",
+      "Front Passenger's Door Latch",
+      "Front Passenger's Door Switch",
+      "Front Passenger's Door Touch Sensor",
+      "Gauge Control Module",
+      "Horn",
+      "Horn Relay",
+      "IG1 Relay 1",
+      "Left Front Turn Signal Light",
+      "Left Power Mirror",
+      "Left Rear Door Latch",
+      "Left Rear Door Switch",
+      "Right Front Turn Signal Light",
+      "Right Power Mirror",
+      "Right Rear Door Latch",
+      "Right Rear Door Switch",
+      "Security Hood Switch",
+      "Tailgate Latch Switch",
+      "Tailgate Lock",
+      "Tailgate Lock/ Unlock Switch"
+    ],
+    "Couplers": [
+      "Answer Back Buzzer 3P Connector (Female)",
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "C003 (Female)",
+      "C109 (Male)|C109 (Female)",
+      "C110 (Male)|C110 (Female)",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C116 (Male)|C116 (Female)",
+      "C117 (Male)|C117 (Female)",
+      "C118 (Male)|C118 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "C121 (Male)|C121 (Female)",
+      "Driver's Door Latch 6P Connector (Female)",
+      "Driver's Door Switch 1P Connector (Female)",
+      "Driver's Door Touch Sensor 2P Connector (Male)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Front Passenger's Door Latch 2P Connector (Female)",
+      "Front Passenger's Door Switch 1P Connector (Female)",
+      "Front Passenger's Door Touch Sensor 2P Connector (Male)",
+      "Gauge Control Module 32P Connector (Female)",
+      "Horn 1P Connector (Female)",
+      "Left Front Turn Signal Light 2P Connector (Female)",
+      "Left Power Mirror 14P Connector (Male)",
+      "Left Rear Door Latch 2P Connector (Female)",
+      "Left Rear Door Switch 1P Connector (Female)",
+      "Right Front Turn Signal Light 2P Connector (Female)",
+      "Right Power Mirror 14P Connector (Male)",
+      "Right Rear Door Latch 2P Connector (Female)",
+      "Right Rear Door Switch 1P Connector (Female)",
+      "Security Hood Switch 2P Connector (Female)",
+      "T1",
+      "Tailgate Latch Switch 2P Connector (Female)",
+      "Tailgate Lock 2P Connector (Female)",
+      "Tailgate Lock/ Unlock Switch 2P Connector (Female)",
+      "Under-Dash Fuse/Relay Box Connector D (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector E (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector F (18P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector H (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector U (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_BACK_UP(BST)",
+      "+B_BACK_UP_MAIN(P/S)",
+      "+B_DC/DC_1",
+      "+B_DOOR_LOCK_MAIN",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "+B_STOP_&_HORN",
+      "07_IG1_RELAY_1",
+      "D/L_MTR1_MAIN_LOCK",
+      "D/L_MTR1_MAIN_UNLOCK",
+      "D/L_MTR2_MAIN_LOCK",
+      "D/L_MTR2_MAIN_UNLOCK",
+      "IG1_METER(P/S)"
+    ],
+    "Grounds": [
+      "G201",
+      "G301",
+      "G401",
+      "G402",
+      "G403",
+      "G503"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "BQ Roof Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "DH Front Passenger's Door Wire Harness",
+      "DJ Left Rear Door Wire Harness",
+      "DN Right Rear Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "LB High Mount Brake Light Subharness",
+      "TH Tailgate Wire Harness"
+    ]
+  }
+}

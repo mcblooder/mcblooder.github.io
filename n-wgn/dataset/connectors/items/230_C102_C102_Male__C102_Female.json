@@ -1,0 +1,93 @@
+{
+  "id": "230_C102_C102_Male__C102_Female",
+  "category": "connector",
+  "connectorRef": "C102",
+  "physicalIds": [
+    "C102"
+  ],
+  "name": "C102 (Male) / C102 (Female)",
+  "nameRu": "Разъём C102, штыревая часть / Разъём C102, гнездовая часть",
+  "type": "MiddleCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 2,
+  "faceviewPart": "77977-SNA -0030-H1_77978-SNA -0030-H1",
+  "partNumbers": [
+    "77977-SNA -0030-H1",
+    "77978-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-",
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)",
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "SRS"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/77977-SNA -0030-H1_77978-SNA -0030-H1.svg",
+    "viewBox": "0 0 99.836 165.532",
+    "width": 99.836,
+    "height": 165.532
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 12.537,
+        "y": 147.635,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "LFS+",
+      "english": "LFS +",
+      "russian": "LFS +",
+      "terminal": "S53B / S53B000",
+      "geometry": {
+        "x": 33.188,
+        "y": 147.635,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "LFS-",
+      "english": "LFS -",
+      "russian": "LFS -",
+      "terminal": "S54C",
+      "geometry": {
+        "x": 62.101,
+        "y": 147.635,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 82.753,
+        "y": 147.635,
+        "svgTextId": "SVGID_4_"
+      }
+    }
+  ]
+}

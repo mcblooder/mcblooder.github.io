@@ -1,0 +1,190 @@
+{
+  "id": "R000795",
+  "title": "Front Seat Frame Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "sheet",
+  "system": "Front Seat",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000795",
+  "assets": [
+    "795_3.0_jpn_11337218_2.0_disp.png",
+    "795_3.0_jpn_11389286_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000910",
+      "label": "12V battery Negative (-) terminal Disconnect",
+      "resolved": true
+    },
+    {
+      "id": "R000792",
+      "label": "Front seat removal",
+      "resolved": true
+    },
+    {
+      "id": "R000796",
+      "label": "Front seat reclining cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000808",
+      "label": "Front seat belt buckle removal",
+      "resolved": true
+    },
+    {
+      "id": "R000793",
+      "label": "Front seat armrest removal",
+      "resolved": true
+    },
+    {
+      "id": "R000797",
+      "label": "Remove front seat back trim cover/pad",
+      "resolved": true
+    },
+    {
+      "id": "R000798",
+      "label": "Remove front seat cushion trim cover/pad",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front Seat Frame Removal and Installation"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If there are components of the SRS airbag system in the vicinity, refer to the work precautions and configuration drawings described for the SRS airbag system before proceeding."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the side airbags have deployed, replace the seat frame and related parts."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Negative (-) terminal Disconnect",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Negative (-) terminal Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front seat removal",
+      "refs": [
+        {
+          "id": "R000792",
+          "label": "Front seat removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Front seat reclining cover removal",
+      "refs": [
+        {
+          "id": "R000796",
+          "label": "Front seat reclining cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Front seat belt buckle removal",
+      "refs": [
+        {
+          "id": "R000808",
+          "label": "Front seat belt buckle removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Front seat armrest removal",
+      "refs": [
+        {
+          "id": "R000793",
+          "label": "Front seat armrest removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Remove front seat back trim cover/pad",
+      "refs": [
+        {
+          "id": "R000797",
+          "label": "Remove front seat back trim cover/pad",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Remove front seat cushion trim cover/pad",
+      "refs": [
+        {
+          "id": "R000798",
+          "label": "Remove front seat cushion trim cover/pad",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Remove the driver's upper rail cover (for vehicles equipped with manual height)."
+    },
+    {
+      "type": "figure",
+      "asset": "795_3.0_jpn_11337218_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "795_3.0_jpn_11389286_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the upper rail outer cover (A) and upper rail inner cover (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000795_jpn/web/html/R000795_jpn_Content.html",
+  "inOutline": true
+}

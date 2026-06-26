@@ -1,0 +1,62 @@
+{
+  "id": "236_BI31_Right_Side_Curtain_Airbag_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BI31",
+  "physicalIds": [
+    "BI31"
+  ],
+  "name": "Right Side Curtain Airbag 2P Connector (Female)",
+  "nameRu": "Разъём правый Side Curtain Airbag, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "77972-TY0A-0032-H1",
+  "partNumbers": [
+    "77972-TY0A-0032-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Right Side)"
+  ],
+  "systems": [
+    "SRS"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/77972-TY0A-0032-H1.svg",
+    "viewBox": "0 0 72.613 94.164",
+    "width": 72.613,
+    "height": 94.164
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "RCA-",
+      "english": "RCA -",
+      "russian": "RCA -",
+      "terminal": "S14A",
+      "geometry": {
+        "x": 22.739,
+        "y": 33.873,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "RCA+",
+      "english": "RCA +",
+      "russian": "RCA +",
+      "terminal": "S13B",
+      "geometry": {
+        "x": 45.232,
+        "y": 33.915,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

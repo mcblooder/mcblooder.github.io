@@ -1,0 +1,118 @@
+{
+  "id": "R000537",
+  "title": "Transmission Fluid Temperature Sensor Inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM electrical system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000537",
+  "assets": [
+    "537_3.0_jpn_11336487_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000849",
+      "label": "Left side front splash guard removal",
+      "resolved": true
+    },
+    {
+      "id": "R000538",
+      "label": "Replace transmission fluid temperature sensor.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Transmission Fluid Temperature Sensor Inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Left side front splash guard removal",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Left side front splash guard removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Transmission Fluid temperature sensor Check"
+    },
+    {
+      "type": "figure",
+      "asset": "537_3.0_jpn_11336487_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Cover the coupler with a rag, etc. and be very careful to prevent dust, oil, etc. from entering the coupler."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the resistance value deviates from the standard value, Replace transmission fluid temperature sensor.",
+          "refs": [
+            {
+              "id": "R000538",
+              "label": "Replace transmission fluid temperature sensor.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If the resistance value deviates from the standard value, Replace transmission fluid temperature sensor.",
+          "refs": [
+            {
+              "id": "R000538",
+              "label": "Replace transmission fluid temperature sensor.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If the resistance value is within the standard value, the inspection is terminated."
+        },
+        {
+          "text": "If the resistance value is within the standard value, the inspection is terminated."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Left side front splash guard installed",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Left side front splash guard installed",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000537_jpn/web/html/R000537_jpn_Content.html",
+  "inOutline": true
+}

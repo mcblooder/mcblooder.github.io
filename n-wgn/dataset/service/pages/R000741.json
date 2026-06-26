@@ -1,0 +1,227 @@
+{
+  "id": "R000741",
+  "title": "Adjustment of door glass erection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "door (Western-style)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000741",
+  "assets": [
+    "741_3.0_jpn_11036184_3.0_disp.png",
+    "741_3.0_jpn_11036185_3.0_disp.png",
+    "741_3.0_jpn_11337171_3.0_disp.png",
+    "741_3.0_jpn_11364969_3.0_disp.png",
+    "741_3.0_jpn_11370627_2.0_disp.png",
+    "741_3.0_jpn_11381313_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000720",
+      "label": "Front door",
+      "resolved": true
+    },
+    {
+      "id": "R000731",
+      "label": "Rear door",
+      "resolved": true
+    },
+    {
+      "id": "R000916",
+      "label": "Learning to reset power windows (driver's seat)",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Adjustment of door glass erection"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Work should be performed in a horizontal state."
+        },
+        {
+          "text": "Work should be performed in a horizontal state."
+        },
+        {
+          "text": "Inspect glass run channels and weatherstripping for damage, etc., and replace any that have deteriorated significantly."
+        },
+        {
+          "text": "Inspect glass run channels and weatherstripping for damage, etc., and replace any that have deteriorated significantly."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Door Lining Removal"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Front door",
+          "refs": [
+            {
+              "id": "R000720",
+              "label": "Front door",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Front door",
+          "refs": [
+            {
+              "id": "R000720",
+              "label": "Front door",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Rear door",
+          "refs": [
+            {
+              "id": "R000731",
+              "label": "Rear door",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Rear door",
+          "refs": [
+            {
+              "id": "R000731",
+              "label": "Rear door",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Door hole seal removal"
+    },
+    {
+      "type": "figure",
+      "asset": "741_3.0_jpn_11337171_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "741_3.0_jpn_11364969_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the plug cap (A). Disconnect the coupler (B). Remove the harness clip (C). Remove the door hole seal (D) as required. If the door hole seal is damaged or torn, replace it with a new door hole seal."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Door glass installation adjustment"
+    },
+    {
+      "type": "figure",
+      "asset": "741_3.0_jpn_11370627_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "741_3.0_jpn_11381313_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Move the regulator (A) so that the glass mounting bolt (B) is visible through the hole in the door panel. Loosen the glass mounting bolts. Press the front door glass (C) backward. Push the rear door glass (D) forward. Tighten the glass mounting bolts. Ensure that the glass lifts and lowers smoothly."
+    },
+    {
+      "type": "figure",
+      "asset": "741_3.0_jpn_11036184_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "7",
+      "text": "Close the glass completely and inspect the glass (A) for proper contact with the glass run channel (B) with no gaps. Inspect the glass run channel for kinks, etc."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Learning to reset power windows (driver's seat)",
+      "refs": [
+        {
+          "id": "R000916",
+          "label": "Learning to reset power windows (driver's seat)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Water Leakage Test"
+    },
+    {
+      "type": "figure",
+      "asset": "741_3.0_jpn_11036185_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Fully close the glass and doors and test for leaks."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When discharging water, prepare a hose with an inner diameter of 12 mm and adjust the water to the conditions shown in the figure.",
+        "Do not squeeze the end of the hose (A)."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When discharging water, prepare a hose with an inner diameter of 12 mm and adjust the water to the conditions shown in the figure."
+        },
+        {
+          "text": "When discharging water, prepare a hose with an inner diameter of 12 mm and adjust the water to the conditions shown in the figure."
+        },
+        {
+          "text": "Do not squeeze the end of the hose (A)."
+        },
+        {
+          "text": "Do not squeeze the end of the hose (A)."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000741_jpn/web/html/R000741_jpn_Content.html",
+  "inOutline": true
+}

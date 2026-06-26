@@ -1,0 +1,158 @@
+{
+  "id": "255_D_Under-Dash_Fuse_Relay_Box_Connector_D_16P_Female",
+  "category": "connector",
+  "connectorRef": "D",
+  "physicalIds": [
+    "D"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector D (16P) (Female)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector D (16P), гнездовая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 13,
+  "populatedPinCount": 6,
+  "faceviewPart": "DM",
+  "partNumbers": [],
+  "harnesses": [
+    "38200-T6G_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [],
+  "faceview": {
+    "asset": "assets/faceview/DM.svg",
+    "viewBox": "0 0 82.374 22.471",
+    "width": 82.374,
+    "height": 22.471
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "RR_DEF+",
+      "english": "rear/right, defogger +",
+      "russian": "задний/правый, обогрев стекла +",
+      "terminal": "425C002",
+      "geometry": null
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "ORN",
+      "circuit": "L_SIDE_DOOR_UNLOCK",
+      "english": "left, SIDE, door, unlock",
+      "russian": "левый, SIDE, дверь, отпирание",
+      "terminal": "581D000",
+      "geometry": null
+    },
+    {
+      "pin": 5,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 6,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 7,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "BACK_LT",
+      "english": "back-up, light",
+      "russian": "резервный, освещение",
+      "terminal": "M10H",
+      "geometry": null
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "RED",
+      "circuit": "STOP_LT",
+      "english": "brake light, light",
+      "russian": "стоп-сигнал, освещение",
+      "terminal": "13J",
+      "geometry": null
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11K",
+      "geometry": null
+    },
+    {
+      "pin": 11,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 12,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "R_TURN",
+      "english": "right, turn signal",
+      "russian": "правый, указатель поворота",
+      "terminal": "16N",
+      "geometry": null
+    }
+  ]
+}

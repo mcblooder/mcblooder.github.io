@@ -1,0 +1,251 @@
+{
+  "id": "R000689",
+  "title": "Front brake caliper removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "",
+  "sectionCode": "",
+  "subsection": "",
+  "system": "",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000689",
+  "assets": [
+    "689_3.0_jpn_11581586_3.0_disp.png",
+    "689_3.0_jpn_11581588_3.0_disp.png",
+    "689_3.0_jpn_11581589_3.0_disp.png",
+    "689_3.0_jpn_11581590_3.0_disp.png",
+    "689_3.0_jpn_11581593_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Front wheel removal",
+      "resolved": true
+    },
+    {
+      "id": "R002922",
+      "label": "Front brake pad removal",
+      "resolved": true
+    },
+    {
+      "id": "R000685",
+      "label": "air venting",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front brake caliper removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not allow brake fluid to adhere to painted surfaces. If it does adhere, wash it off with water immediately.",
+        "To prevent brake fluid from spilling out, the joints of the disconnected hoses should be plugged with a plug or the like.",
+        "The figure shows a vehicle with 12-inch brakes."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Brake caliper body removal"
+    },
+    {
+      "type": "figure",
+      "asset": "689_3.0_jpn_11581586_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the oil bolt (A). Disconnect the brake hose (B) from the caliper body (C). Hold the caliper pin (D) with a wrench and remove the flange bolt (E). Remove the caliper body."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Front brake pad removal",
+      "refs": [
+        {
+          "id": "R002922",
+          "label": "Front brake pad removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Caliper pin, pin boot removal"
+    },
+    {
+      "type": "figure",
+      "asset": "689_3.0_jpn_11581588_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the pin boot (C) from the groove of caliper pin A and caliper pin B. Remove the caliper pin from the caliper bracket (D). Remove the pin boot from the caliper bracket."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not allow brake fluid to adhere to painted surfaces. If it does adhere, wash it off with water immediately.",
+        "To prevent brake fluid from spilling out, the joints of the disconnected hoses should be plugged with a plug or the like."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Caliper pin mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "689_3.0_jpn_11581589_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "689_3.0_jpn_11581590_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply grease to the sliding parts of caliper pin A and B and inside the new pin boot (C). Install the pin boot. Install caliper pin A and pin B on the caliper bracket (D). Securely install the pin boot into the caliper bracket groove (E) and caliper pin groove (F)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "For vehicles equipped with 12-inch brakes, Nigroove RM made by Nippon Grease shall be applied.",
+        "For vehicles equipped with 13-inch brakes, Cosmo rubber grease must be applied.",
+        "Do not allow dust, etc. to adhere to the sliding parts of the pins."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For vehicles equipped with 12-inch brakes, Nigroove RM made by Nippon Grease shall be applied."
+        },
+        {
+          "text": "For vehicles equipped with 12-inch brakes, Nigroove RM made by Nippon Grease shall be applied."
+        },
+        {
+          "text": "For vehicles equipped with 13-inch brakes, Cosmo rubber grease must be applied."
+        },
+        {
+          "text": "For vehicles equipped with 13-inch brakes, Cosmo rubber grease must be applied."
+        },
+        {
+          "text": "Do not allow dust, etc. to adhere to the sliding parts of the pins."
+        },
+        {
+          "text": "Do not allow dust, etc. to adhere to the sliding parts of the pins."
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The caliper pins are different at the top and bottom. Check the installation position of caliper pin A and caliper pin B."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front brake pad installation",
+      "refs": [
+        {
+          "id": "R002922",
+          "label": "Front brake pad installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Brake caliper body installation"
+    },
+    {
+      "type": "figure",
+      "asset": "689_3.0_jpn_11581593_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Attach the caliper body (A) to the caliper bracket (B). Hold the caliper pin (C) with a wrench and tighten the flange bolt (D) to the specified torque. Install the brake hose (E) with the oil bolt (F) and a new sealing washer (G)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. air venting",
+      "refs": [
+        {
+          "id": "R000685",
+          "label": "air venting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Brake caliper Inspection after installation"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "After installation, inspect the brake hose for kinks, interference with other parts, or fluid leakage."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Front wheel mounting",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Front wheel mounting",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000689_jpn/web/html/R000689_jpn_Content.html",
+  "inOutline": false
+}

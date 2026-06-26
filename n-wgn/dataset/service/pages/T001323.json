@@ -1,0 +1,58 @@
+{
+  "id": "T001323",
+  "title": "Failure diagnosis table by DTC for brake negative pressure monitoring system",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "Brake Negative Pressure Monitoring System",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001323",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Failure diagnosis table by DTC for brake negative pressure monitoring system"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "DTC",
+          "Failure diagnosis detection items"
+        ],
+        [
+          "P0555",
+          "Master Power negative pressure sensor A voltage high"
+        ],
+        [
+          "P0557",
+          "Master Power Negative Pressure Sensor A Voltage Low"
+        ],
+        [
+          "P15C5",
+          "Master Power negative pressure sensor A characteristic abnormal (Lo side)"
+        ],
+        [
+          "P15C7",
+          "Master Power negative pressure sensor A characteristic abnormal (Hi side)"
+        ],
+        [
+          "P15C9",
+          "Master Power negative pressure sensor A characteristic abnormal (sticking)"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001323_jpn/web/html/T001323_jpn_Content.html",
+  "inOutline": true
+}

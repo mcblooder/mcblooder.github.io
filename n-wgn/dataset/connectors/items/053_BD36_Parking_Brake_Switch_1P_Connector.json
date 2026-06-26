@@ -1,0 +1,52 @@
+{
+  "id": "053_BD36_Parking_Brake_Switch_1P_Connector",
+  "category": "connector",
+  "connectorRef": "BD36",
+  "physicalIds": [
+    "BD36"
+  ],
+  "name": "Parking Brake Switch 1P Connector",
+  "nameRu": "Разъём Parking Brake выключатель, 1 контактов",
+  "type": "DirectCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "32112-500 -3100",
+  "partNumbers": [
+    "32112-500 -3100"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)"
+  ],
+  "systems": [
+    "Audio System",
+    "Gauges",
+    "Keyless Access System",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/32112-500 -3100.svg",
+    "viewBox": "0 0 25.489 46.142",
+    "width": 25.489,
+    "height": 46.142
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "PARKING_BRAKE_SW",
+      "english": "parking, brake, switch",
+      "russian": "стояночный, тормоз, выключатель",
+      "terminal": "90A000",
+      "geometry": {
+        "x": 10.672,
+        "y": 39.74,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

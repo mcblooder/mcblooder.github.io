@@ -1,0 +1,421 @@
+{
+  "id": "E002738",
+  "title": "Relay/Fuse Box Connections Table",
+  "category": "service",
+  "packageKind": "EWD",
+  "packageKindName": "Electrical Wiring (manual)",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "electrical wiring",
+  "system": "Relay/Fuse Box",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/E002738",
+  "assets": [
+    "2738_5.0_jpn_11579588_5.0_disp.png",
+    "2738_5.0_jpn_11579589_5.0_disp.png",
+    "2738_5.0_jpn_11579590_5.0_disp.png",
+    "2738_5.0_jpn_11579591_5.0_disp.png",
+    "2738_5.0_jpn_11579592_5.0_disp.png",
+    "2738_5.0_jpn_11579593_5.0_disp.png",
+    "2738_5.0_jpn_11579594_5.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Relay/Fuse Box Connections Table"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "internal connection",
+          "reference number",
+          "Number of coupler pins",
+          "access point"
+        ],
+        [
+          "Lighting Relay 1",
+          "1",
+          "4",
+          ""
+        ],
+        [
+          "Small Light Relay",
+          "2",
+          "4",
+          ""
+        ],
+        [
+          "Compressor Clutch Relay",
+          "3",
+          "4",
+          ""
+        ],
+        [
+          "Radiator Fan Relay",
+          "4",
+          "4",
+          ""
+        ],
+        [
+          "Front wiper motor relay",
+          "5",
+          "4",
+          ""
+        ],
+        [
+          "Starter cut Relay 1",
+          "6",
+          "4",
+          ""
+        ],
+        [
+          "Starter cut Relay 2",
+          "7",
+          "4",
+          ""
+        ],
+        [
+          "Lighting Relay 2",
+          "8",
+          "4",
+          ""
+        ],
+        [
+          "Horn Relay",
+          "9",
+          "4",
+          ""
+        ],
+        [
+          "Front wiper intermittent relay",
+          "12",
+          "5",
+          ""
+        ],
+        [
+          "ELD",
+          "13",
+          "3",
+          ""
+        ],
+        [
+          "Front wiper HI/LO relay",
+          "14",
+          "5",
+          ""
+        ],
+        [
+          "T1",
+          "10",
+          "",
+          "Engine Wire Harness"
+        ],
+        [
+          "T101",
+          "11",
+          "",
+          "Engine Wire Harness"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2738_5.0_jpn_11579588_5.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "internal connection",
+          "reference number",
+          "Number of coupler pins",
+          "access point"
+        ],
+        [
+          "Blower motor Relay",
+          "1",
+          "4",
+          ""
+        ],
+        [
+          "",
+          "2",
+          "4",
+          "unused"
+        ],
+        [
+          "",
+          "3",
+          "4",
+          "unused"
+        ],
+        [
+          "A",
+          "4",
+          "34",
+          "Engine compartment wire harness"
+        ],
+        [
+          "B",
+          "5",
+          "10",
+          "Engine compartment wire harness"
+        ],
+        [
+          "C",
+          "6",
+          "10",
+          "Engine compartment wire harness"
+        ],
+        [
+          "D",
+          "7",
+          "16",
+          "Floor Wire Harness"
+        ],
+        [
+          "E",
+          "8",
+          "8",
+          "Floor Wire Harness"
+        ],
+        [
+          "F",
+          "9",
+          "18",
+          "Driver Door Wire Harness"
+        ],
+        [
+          "Z",
+          "10",
+          "1",
+          "Engine compartment wire harness"
+        ],
+        [
+          "K",
+          "11",
+          "4",
+          ""
+        ],
+        [
+          "J",
+          "12",
+          "24",
+          "Engine compartment wire harness"
+        ],
+        [
+          "H",
+          "13",
+          "20",
+          "Floor Wire Harness"
+        ],
+        [
+          "G",
+          "14",
+          "6",
+          "unused"
+        ],
+        [
+          "Power Wind Relay",
+          "15",
+          "4",
+          ""
+        ],
+        [
+          "PGM-FI Main Relay 1",
+          "16",
+          "4",
+          ""
+        ],
+        [
+          "",
+          "17",
+          "4",
+          "unused"
+        ],
+        [
+          "X",
+          "18",
+          "1",
+          "Instrument Wire Harness"
+        ],
+        [
+          "M",
+          "19",
+          "10",
+          "Instrument Wire Harness"
+        ],
+        [
+          "N",
+          "20",
+          "4",
+          "Instrument Wire Harness"
+        ],
+        [
+          "P",
+          "21",
+          "8",
+          "Instrument Wire Harness"
+        ],
+        [
+          "Q",
+          "22",
+          "4",
+          "Instrument Wire Harness"
+        ],
+        [
+          "S",
+          "23",
+          "20",
+          "Instrument Wire Harness"
+        ],
+        [
+          "U",
+          "24",
+          "24",
+          "Instrument Wire Harness"
+        ],
+        [
+          "W",
+          "25",
+          "2",
+          "Instrument Wire Harness"
+        ],
+        [
+          "T",
+          "26",
+          "34",
+          "Instrument Wire Harness"
+        ],
+        [
+          "R",
+          "27",
+          "28",
+          "Instrument Wire Harness"
+        ],
+        [
+          "Y",
+          "28",
+          "16",
+          "Instrument Wire Harness"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2738_5.0_jpn_11579589_5.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "internal connection",
+          "reference number",
+          "Number of coupler pins",
+          "access point"
+        ],
+        [
+          "ACC Relay",
+          "3",
+          "4",
+          ""
+        ],
+        [
+          "IG1 Relay 1",
+          "1",
+          "4",
+          ""
+        ],
+        [
+          "IG1 Relay 2",
+          "2",
+          "4",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2738_5.0_jpn_11579590_5.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "internal connection",
+          "reference number",
+          "Number of coupler pins",
+          "access point"
+        ],
+        [
+          "DBW Relay",
+          "2",
+          "4",
+          ""
+        ],
+        [
+          "PGM-FI Main Relay 2",
+          "3",
+          "4",
+          ""
+        ],
+        [
+          "Washer motor Relay",
+          "1",
+          "4",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2738_5.0_jpn_11579591_5.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*1: Vehicles equipped with the City Brake Active System *2: Vehicles equipped with dual discharge headlights"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2738_5.0_jpn_11579592_5.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*：Vehicles equipped with front fog lights"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2738_5.0_jpn_11579593_5.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*：Mirror Heater-equipped vehicles"
+        ]
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2738_5.0_jpn_11579594_5.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_EWD_20131205174154/Contents/jpn/60T6GD00_2014/EWD/SCT/SC/SYS/E002738_jpn/web/html/E002738_jpn_Content.html",
+  "inOutline": true
+}

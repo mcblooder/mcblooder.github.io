@@ -1,0 +1,54 @@
+{
+  "id": "T001296",
+  "title": "Failure Diagnostic Table by Symptom for Electric Power Steering (EPS)",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001296",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Failure Diagnostic Table by Symptom for Electric Power Steering (EPS)"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "symptoms",
+          "probable cause",
+          "related item"
+        ],
+        [
+          "HDS does not communicate with EPS control unit or vehicle",
+          "Inspect data link circuits",
+          ""
+        ],
+        [
+          "EPS warning light does not illuminate",
+          "Failure Diagnosis by Symptom",
+          ""
+        ],
+        [
+          "EPS warning light does not turn off",
+          "Failure Diagnosis by Symptom",
+          ""
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001296_jpn/web/html/T001296_jpn_Content.html",
+  "inOutline": true
+}

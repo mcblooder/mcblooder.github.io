@@ -1,0 +1,116 @@
+{
+  "id": "A000048",
+  "title": "DTC Explanation: P0602",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000048",
+  "assets": [
+    "48_3.0_jpn_11033558_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0602"
+    },
+    {
+      "type": "dtc",
+      "code": "P0602",
+      "text": "DTC P0602: ECU programming not written"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "48_3.0_jpn_11033558_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI ECU has a control program rewriting function, and the control program can be rewritten in the market, In the program update process, only the powertrain control program is rewritten. The program for rewriting function is located outside the data area to be rewritten in case the work is not completed normally due to PGM-FI ECU power failure during the program rewriting process, etc. If the program rewriting is not completed successfully, the program for the rewriting function is started so that it can be rewritten again. At that time, the PGM-FI ECU judges that the program has not been rewritten and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "D/C: Drive Cycle"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "condition entry",
+          ""
+        ],
+        [
+          "Ignition switch/ ENGINE START STOP switch",
+          "Ignition ON mode"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the powertrain control program is not terminated normally within 1 second after rewriting the powertrain control program."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "PGM-FI ECU (powertrain control program) rewrite not completed"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the program is not yet written to the PGM-FI ECU, the PGM-FI warning light comes on and the temporary DTC and DTC are stored in the PGM-FI ECU memory."
+    },
+    {
+      "type": "paragraph",
+      "text": "Normal program rewriting by the PGM-FI ECU update operation causes the PGM-FI warning light to turn off and clears the temporary DTC and DTC."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000048_jpn/web/html/A000048_jpn_Content.html",
+  "inOutline": true
+}

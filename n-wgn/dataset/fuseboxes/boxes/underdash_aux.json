@@ -1,0 +1,482 @@
+{
+  "id": "underdash_aux",
+  "category": "fusebox",
+  "title": "Auxiliary Under-Dash Fuse / Relay Box",
+  "subtitle": "Interior auxiliary box",
+  "location": "Interior (under dashboard)",
+  "drawingNumbers": [
+    "38210-TF3_-ZZ00-"
+  ],
+  "fusePrefix": "D",
+  "asset": "assets/underdash_aux.svg",
+  "svgSource": "RH/threed/111a_under_d_sub_f.svgz",
+  "viewBox": "0 0 527.409 200.64",
+  "width": 527.409,
+  "height": 200.64,
+  "fuseCount": 6,
+  "relayCount": 3,
+  "fuses": [
+    {
+      "number": "D1",
+      "rating": "15A",
+      "circuit": "+B_BACK_UP_MAIN(P/S)",
+      "descriptionEn": "Module back-up/keep-alive main",
+      "descriptionRu": "Главное резервное питание памяти блоков",
+      "feeds": [
+        {
+          "name": "A/T Gear Position Indicator",
+          "system": "a_t_gear_position",
+          "nodeid": "node_25867"
+        },
+        {
+          "name": "Audio System",
+          "system": "audio",
+          "nodeid": "node_33976"
+        },
+        {
+          "name": "Charging System",
+          "system": "charging_system",
+          "nodeid": "node_13908"
+        },
+        {
+          "name": "Climate Control",
+          "system": "climate_control",
+          "nodeid": "node_22271"
+        },
+        {
+          "name": "Cruise Control",
+          "system": "cruise",
+          "nodeid": "node_18238"
+        },
+        {
+          "name": "CVT Control System",
+          "system": "cvt_control_system",
+          "nodeid": "node_38632"
+        },
+        {
+          "name": "DLC",
+          "system": "dlc",
+          "nodeid": "node_15727"
+        },
+        {
+          "name": "Energy Management System",
+          "system": "energy_management",
+          "nodeid": "node_17223"
+        },
+        {
+          "name": "EPS",
+          "system": "eps",
+          "nodeid": "node_15506"
+        },
+        {
+          "name": "Gauges",
+          "system": "gauges",
+          "nodeid": "node_25467"
+        },
+        {
+          "name": "Keyless/Power Door Locks/Security System",
+          "system": "keyless_security",
+          "nodeid": "node_31744"
+        },
+        {
+          "name": "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+          "system": "license",
+          "nodeid": "node_40167"
+        },
+        {
+          "name": "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+          "system": "reminder",
+          "nodeid": "node_23270"
+        },
+        {
+          "name": "MIL Circuit",
+          "system": "mil_circuit",
+          "nodeid": "node_11197"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_44383"
+        },
+        {
+          "name": "Power, Grounds and Diagnostics",
+          "system": "p_and_g_diag",
+          "nodeid": "node_15643"
+        },
+        {
+          "name": "VSA",
+          "system": "vsa",
+          "nodeid": "node_22866"
+        }
+      ],
+      "geometry": {
+        "x": 6.123,
+        "y": 137.261,
+        "width": 25.853,
+        "height": 52.761,
+        "cx": 19.049,
+        "cy": 163.642
+      },
+      "hotspotId": "F|38210-TF3_-ZZ00-|K0JfQkFDS19VUF9NQUlOKFAvUyk="
+    },
+    {
+      "number": "D2",
+      "rating": "7.5A",
+      "circuit": "+B_ACC(P/S)",
+      "descriptionEn": "Audio accessory supply",
+      "descriptionRu": "Питание аудиосистемы ACC",
+      "feeds": [
+        {
+          "name": "Audio System",
+          "system": "audio",
+          "nodeid": "node_21478"
+        }
+      ],
+      "geometry": {
+        "x": 36.523,
+        "y": 137.261,
+        "width": 25.853,
+        "height": 52.761,
+        "cx": 49.45,
+        "cy": 163.642
+      },
+      "hotspotId": "F|38210-TF3_-ZZ00-|K0JfQUNDKFAvUyk="
+    },
+    {
+      "number": "D3",
+      "rating": "7.5A",
+      "circuit": "+B_VBU_SOL(PUSH_SMART)",
+      "descriptionEn": "VBU solenoid power (push start)",
+      "descriptionRu": "Питание соленоида VBU, кнопка запуска",
+      "feeds": [
+        {
+          "name": "Climate Control",
+          "system": "climate_control",
+          "nodeid": "node_29537"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_45988"
+        }
+      ],
+      "geometry": {
+        "x": 66.923,
+        "y": 137.261,
+        "width": 25.854,
+        "height": 52.761,
+        "cx": 79.85,
+        "cy": 163.642
+      },
+      "hotspotId": "F|38210-TF3_-ZZ00-|K0JfVkJVX1NPTChQVVNIX1NNQVJUKQ=="
+    },
+    {
+      "number": "D4",
+      "rating": "7.5A",
+      "circuit": "IG1_METER(P/S)",
+      "descriptionEn": "Meter/module IG1 supply",
+      "descriptionRu": "Питание приборов и блоков IG1",
+      "feeds": [
+        {
+          "name": "A/T Gear Position Indicator",
+          "system": "a_t_gear_position",
+          "nodeid": "node_6160"
+        },
+        {
+          "name": "Audio System",
+          "system": "audio",
+          "nodeid": "node_19264"
+        },
+        {
+          "name": "Auto Idle Stop System",
+          "system": "auto_idle_stop",
+          "nodeid": "node_20529"
+        },
+        {
+          "name": "Charging System",
+          "system": "charging_system",
+          "nodeid": "node_16098"
+        },
+        {
+          "name": "City-Brake Active System",
+          "system": "cbas",
+          "nodeid": "node_12486"
+        },
+        {
+          "name": "Climate Control",
+          "system": "climate_control",
+          "nodeid": "node_22523"
+        },
+        {
+          "name": "Cruise Control",
+          "system": "cruise",
+          "nodeid": "node_13873"
+        },
+        {
+          "name": "CVT Control System",
+          "system": "cvt_control_system",
+          "nodeid": "node_31386"
+        },
+        {
+          "name": "DLC",
+          "system": "dlc",
+          "nodeid": "node_15979"
+        },
+        {
+          "name": "Energy Management System",
+          "system": "energy_management",
+          "nodeid": "node_15754"
+        },
+        {
+          "name": "EPS",
+          "system": "eps",
+          "nodeid": "node_10439"
+        },
+        {
+          "name": "Fog Lights",
+          "system": "fog_lights",
+          "nodeid": "node_7043"
+        },
+        {
+          "name": "Gauges",
+          "system": "gauges",
+          "nodeid": "node_24751"
+        },
+        {
+          "name": "Headlights",
+          "system": "headlights",
+          "nodeid": "node_9764"
+        },
+        {
+          "name": "Keyless Access System",
+          "system": "keyless_access",
+          "nodeid": "node_21318"
+        },
+        {
+          "name": "Keyless/Power Door Locks/Security System",
+          "system": "keyless_security",
+          "nodeid": "node_27370"
+        },
+        {
+          "name": "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+          "system": "license",
+          "nodeid": "node_21297"
+        },
+        {
+          "name": "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+          "system": "reminder",
+          "nodeid": "node_18899"
+        },
+        {
+          "name": "MIL Circuit",
+          "system": "mil_circuit",
+          "nodeid": "node_6841"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_44635"
+        },
+        {
+          "name": "Power, Grounds and Diagnostics",
+          "system": "p_and_g_diag",
+          "nodeid": "node_15895"
+        },
+        {
+          "name": "SRS",
+          "system": "srs",
+          "nodeid": "node_14355"
+        },
+        {
+          "name": "VSA",
+          "system": "vsa",
+          "nodeid": "node_18031"
+        }
+      ],
+      "geometry": {
+        "x": 97.325,
+        "y": 137.261,
+        "width": 25.854,
+        "height": 52.761,
+        "cx": 110.252,
+        "cy": 163.642
+      },
+      "hotspotId": "F|38210-TF3_-ZZ00-|SUcxX01FVEVSKFAvUyk="
+    },
+    {
+      "number": "D5",
+      "rating": "7.5A",
+      "circuit": "IG1_MICU(P/S)",
+      "descriptionEn": "MICU IG1 supply",
+      "descriptionRu": "Питание блока MICU по IG1",
+      "feeds": [
+        {
+          "name": "Ambient Light, Cargo Area Light and Individual MAP Light",
+          "system": "ambient_light",
+          "nodeid": "node_13060"
+        },
+        {
+          "name": "Charging System",
+          "system": "charging_system",
+          "nodeid": "node_14160"
+        },
+        {
+          "name": "Climate Control",
+          "system": "climate_control",
+          "nodeid": "node_22781"
+        },
+        {
+          "name": "CVT Control System",
+          "system": "cvt_control_system",
+          "nodeid": "node_16122"
+        },
+        {
+          "name": "Entry Light Control System",
+          "system": "entry_light",
+          "nodeid": "node_6705"
+        },
+        {
+          "name": "EPS",
+          "system": "eps",
+          "nodeid": "node_8947"
+        },
+        {
+          "name": "Headlight Leveling System",
+          "system": "headlight_leveling",
+          "nodeid": "node_6409"
+        },
+        {
+          "name": "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+          "system": "reminder",
+          "nodeid": "node_17407"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_44893"
+        },
+        {
+          "name": "PGM-FI System",
+          "system": "pgm_fi",
+          "nodeid": "node_11074"
+        },
+        {
+          "name": "Power, Grounds and Diagnostics",
+          "system": "p_and_g_diag",
+          "nodeid": "node_16153"
+        },
+        {
+          "name": "VSA",
+          "system": "vsa",
+          "nodeid": "node_16539"
+        }
+      ],
+      "geometry": {
+        "x": 127.724,
+        "y": 137.261,
+        "width": 25.855,
+        "height": 52.761,
+        "cx": 140.651,
+        "cy": 163.642
+      },
+      "hotspotId": "F|38210-TF3_-ZZ00-|SUcxX01JQ1UoUC9TKQ=="
+    },
+    {
+      "number": "D6",
+      "rating": "7.5A",
+      "circuit": "IG1_ABS/EPS(P/S)",
+      "descriptionEn": "ABS/EPS IG1 supply",
+      "descriptionRu": "Питание ABS/EPS по IG1",
+      "feeds": [
+        {
+          "name": "Auto Idle Stop System",
+          "system": "auto_idle_stop",
+          "nodeid": "node_19291"
+        },
+        {
+          "name": "Brake Lights",
+          "system": "brake_lights",
+          "nodeid": "node_4078"
+        },
+        {
+          "name": "City-Brake Active System",
+          "system": "cbas",
+          "nodeid": "node_10162"
+        },
+        {
+          "name": "CVT Control System",
+          "system": "cvt_control_system",
+          "nodeid": "node_18588"
+        },
+        {
+          "name": "EPS",
+          "system": "eps",
+          "nodeid": "node_12900"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_54319"
+        },
+        {
+          "name": "VSA",
+          "system": "vsa",
+          "nodeid": "node_20489"
+        }
+      ],
+      "geometry": {
+        "x": 158.166,
+        "y": 137.261,
+        "width": 25.855,
+        "height": 52.761,
+        "cx": 171.094,
+        "cy": 163.642
+      },
+      "hotspotId": "F|38210-TF3_-ZZ00-|SUcxX0FCUy9FUFMoUC9TKQ=="
+    }
+  ],
+  "relays": [
+    {
+      "hotspotId": "R|38210-TF3_-ZZ00-|QUNDX1JMWShQL1Mp",
+      "geometry": {
+        "x": 158.727,
+        "y": 6.212,
+        "width": 70.096,
+        "height": 102.627,
+        "cx": 193.775,
+        "cy": 57.526
+      },
+      "name": "ACC_RLY(P/S)",
+      "drawingNo": "38210-TF3_-ZZ00-",
+      "displayName": "Accessory Relay"
+    },
+    {
+      "hotspotId": "R|38210-TF3_-ZZ00-|SUcxX1JMWV8yKFAvUyk=",
+      "geometry": {
+        "x": 82.697,
+        "y": 6.212,
+        "width": 70.096,
+        "height": 102.627,
+        "cx": 117.745,
+        "cy": 57.526
+      },
+      "name": "IG1_RLY_2(P/S)",
+      "drawingNo": "38210-TF3_-ZZ00-",
+      "displayName": "IG1 Relay 2"
+    },
+    {
+      "hotspotId": "R|38210-TF3_-ZZ00-|SUcxX1JMWV8xKFAvUyk=",
+      "geometry": {
+        "x": 6.668,
+        "y": 6.212,
+        "width": 70.094,
+        "height": 102.627,
+        "cx": 41.715,
+        "cy": 57.526
+      },
+      "name": "IG1_RLY_1(P/S)",
+      "drawingNo": "38210-TF3_-ZZ00-",
+      "displayName": "IG1 Relay 1"
+    }
+  ]
+}

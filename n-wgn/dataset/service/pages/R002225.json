@@ -1,0 +1,154 @@
+{
+  "id": "R002225",
+  "title": "12V battery Sensor removal and installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "electrical wiring",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002225",
+  "assets": [
+    "2225_3.0_jpn_11580694_3.0_disp.png",
+    "2225_3.0_jpn_11580695_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "12V battery Sensor removal and installation"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When disconnecting cables, always do so from the minus (-) terminal."
+        },
+        {
+          "text": "When disconnecting cables, always do so from the minus (-) terminal."
+        },
+        {
+          "text": "Some systems lose stored memory by disconnecting the cable."
+        },
+        {
+          "text": "Some systems lose stored memory by disconnecting the cable."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Sensor removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2225_3.0_jpn_11580694_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode. Disconnect the coupler (A). Disconnect the 12V battery sensor (B) from the negative (-) terminal of the 12V battery. 12V battery Disconnect cable (D) from sensor. 12V battery Remove cover (E) from sensor."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "To prevent breakage, do not hold the connector part (C) and do not perform the detachment operation."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to overtighten the terminals as this may damage the fasteners."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "If 12V battery power is cancelled, the following items do not need to be learned."
+        },
+        {
+          "text": "If 12V battery power is cancelled, the following items do not need to be learned."
+        },
+        {
+          "text": "Initial position of headlights"
+        },
+        {
+          "text": "Initial position of headlights"
+        },
+        {
+          "text": "Initial position of headlights"
+        },
+        {
+          "text": "Power window reset and learning"
+        },
+        {
+          "text": "Power window reset and learning"
+        },
+        {
+          "text": "Before installing the 12V battery sensor on a 12V battery, inspect the 12V battery terminals for corrosion, and if corrosion is present, polish the terminals with a sodium bicarbonate solution and rinse them clean with warm water."
+        },
+        {
+          "text": "Before installing the 12V battery sensor on a 12V battery, inspect the 12V battery terminals for corrosion, and if corrosion is present, polish the terminals with a sodium bicarbonate solution and rinse them clean with warm water."
+        },
+        {
+          "text": "If the 12V battery and cable terminals are dirty, clean them with a wire brush or sandpaper before installation."
+        },
+        {
+          "text": "If the 12V battery and cable terminals are dirty, clean them with a wire brush or sandpaper before installation."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Sensor mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "2225_3.0_jpn_11580695_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "12V battery Attach cover (B) to sensor (A). Apply grease to the 12V battery terminals. Connect the 12V battery sensor to the negative (-) terminal of the 12V battery. 12V battery Connect cable (D) to sensor. Connect the coupler (E)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "To prevent breakage, do not hold the connector part (C) and do not perform the detachment operation.",
+        "Tighten the 12V battery terminals with torque within the specified range depending on the looseness of the terminals."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "To prevent breakage, do not hold the connector part (C) and do not perform the detachment operation."
+        },
+        {
+          "text": "To prevent breakage, do not hold the connector part (C) and do not perform the detachment operation."
+        },
+        {
+          "text": "Tighten the 12V battery terminals with torque within the specified range depending on the looseness of the terminals."
+        },
+        {
+          "text": "Tighten the 12V battery terminals with torque within the specified range depending on the looseness of the terminals."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002225_jpn/web/html/R002225_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,146 @@
+{
+  "id": "A000020",
+  "title": "DTC Explanation: P0137",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000020",
+  "assets": [
+    "20_3.0_jpn_11033520_4.0_disp.png",
+    "20_3.0_jpn_11443421_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0137"
+    },
+    {
+      "type": "dtc",
+      "code": "P0137",
+      "text": "DTC P0137: Secondary O 2 Sensor voltage low"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "20_3.0_jpn_11443421_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "20_3.0_jpn_11033520_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Secondary O 2 The sensor detects the oxygen concentration downstream of the catalytic converter during the theoretical AFR feedback control based on the output voltage of the LAF sensor; the PGM-FI ECU ensures that the purification efficiency of the catalytic converter is optimal by using a secondary O 2 The air-fuel ratio is controlled from the sensor and LAF sensor output voltage. Secondary O 2 After the sensor heater is energized, the secondary O 2 If the sensor output voltage is low (on the lean side), the PGM-FI ECU determines a fault and stores a DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*1: Models equipped with a turbo charger *2: Vehicles not equipped with a turbo charger D/C: Drive Cycle"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "[ ]: HDS Parameters"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "Secondary O 2 Sensor output voltage [secondary O 2 30* with [sensor] below 0.05V 1 (38)* 2 seconds or longer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Secondary O 2 Sensor circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Start the engine, run the radiator fan twice, and then warm up the engine for at least 2 minutes at 3,000 rpm with no load."
+        },
+        {
+          "text": "Run at a constant engine speed [engine speed] of 1,500-3,000 rpm for at least 1 minute."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When conducting test drives, the driver must comply with all laws and regulations, observe good manners, and drive in accordance with the surrounding conditions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "None."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the PGM-FI warning light comes on and the DTC and freeze data are stored."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000020_jpn/web/html/A000020_jpn_Content.html",
+  "inOutline": true
+}

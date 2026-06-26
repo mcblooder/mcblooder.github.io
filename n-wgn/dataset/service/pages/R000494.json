@@ -1,0 +1,312 @@
+{
+  "id": "R000494",
+  "title": "West Gate Control SOL.V. Inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Air intake controller",
+  "subtitle": "",
+  "dgName": "Turbo Charger equipped vehicle",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000494",
+  "assets": [
+    "494_3.0_jpn_11034710_3.0_disp.png",
+    "494_3.0_jpn_11034712_3.0_disp.png",
+    "494_3.0_jpn_11292013_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000842",
+      "label": "Front upper grille removal",
+      "resolved": true
+    },
+    {
+      "id": "R000496",
+      "label": "Replace the West Gate Control SOL.V.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "West Gate Control SOL.V. Inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front upper grille removal",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front upper grille removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Turbocharger line negative pressure holding check when not in operation"
+    },
+    {
+      "type": "figure",
+      "asset": "494_3.0_jpn_11034710_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the negative pressure tube (A) of the waste gate control SOL.V. Install the negative pressure tube (B) and hand vacuum pump (C). West Gate Actuator Hold the negative pressure tube attachment (D) on the line side with your finger."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If negative pressure is retained, release the negative pressure and proceed to the next step \"HDS Connection\"."
+        },
+        {
+          "text": "If negative pressure is retained, release the negative pressure and proceed to the next step \"HDS Connection\"."
+        },
+        {
+          "text": "If negative pressure is not maintained, Replace the West Gate Control SOL.V.",
+          "refs": [
+            {
+              "id": "R000496",
+              "label": "Replace the West Gate Control SOL.V.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If negative pressure is not maintained, Replace the West Gate Control SOL.V.",
+          "refs": [
+            {
+              "id": "R000496",
+              "label": "Replace the West Gate Control SOL.V.",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. HDS Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "494_3.0_jpn_11292013_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect HDS to the data link coupler (A) on the left side of the driver's seat."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Turbocharger line negative pressure hold check during forced drive"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "In HDS, select West Gate Control SOL.V. ON in the Inspect menu. Apply negative pressure and verify that negative pressure is not retained.",
+      "refs": [
+        {
+          "id": "R000496",
+          "label": "Replace the West Gate Control SOL.V.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "As with the inspection during non-operation, the negative pressure tube attachment area should be pressed down with the fingers."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If negative pressure is maintained, Replace the West Gate Control SOL.V.",
+          "refs": [
+            {
+              "id": "R000496",
+              "label": "Replace the West Gate Control SOL.V.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If negative pressure is maintained, Replace the West Gate Control SOL.V.",
+          "refs": [
+            {
+              "id": "R000496",
+              "label": "Replace the West Gate Control SOL.V.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If negative pressure is not held, proceed to the next step, \"Non-operating, West Gate Actuator Line Negative Pressure Hold Inspection.\""
+        },
+        {
+          "text": "If negative pressure is not held, proceed to the next step, \"Non-operating, West Gate Actuator Line Negative Pressure Hold Inspection.\""
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. West gate actuator line negative pressure holding inspection when not in operation"
+    },
+    {
+      "type": "figure",
+      "asset": "494_3.0_jpn_11034712_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode. Install the negative pressure tube (A) and hand vacuum pump (B). Press the negative pressure tube attachment (C) on the turbo charger line side with your finger. Apply negative pressure and verify that negative pressure is maintained.",
+      "refs": [
+        {
+          "id": "R000496",
+          "label": "Replace the West Gate Control SOL.V.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If negative pressure is maintained, proceed to the next step, \"West Gate Actuator Line Negative Pressure Maintenance Inspection During Forced Drive."
+        },
+        {
+          "text": "If negative pressure is maintained, proceed to the next step, \"West Gate Actuator Line Negative Pressure Maintenance Inspection During Forced Drive."
+        },
+        {
+          "text": "If negative pressure is not maintained, Replace the West Gate Control SOL.V.",
+          "refs": [
+            {
+              "id": "R000496",
+              "label": "Replace the West Gate Control SOL.V.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If negative pressure is not maintained, Replace the West Gate Control SOL.V.",
+          "refs": [
+            {
+              "id": "R000496",
+              "label": "Replace the West Gate Control SOL.V.",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. West gate actuator line negative pressure holding inspection during forced drive"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition to ON mode. In HDS, select West Gate Control SOL.V. ON in the Inspect menu. Apply negative pressure and verify that negative pressure is not retained.",
+      "refs": [
+        {
+          "id": "R000496",
+          "label": "Replace the West Gate Control SOL.V.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "As with the inspection during non-operation, the negative pressure tube attachment area should be pressed down with the fingers."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "If negative pressure is maintained, Replace the West Gate Control SOL.V.",
+          "refs": [
+            {
+              "id": "R000496",
+              "label": "Replace the West Gate Control SOL.V.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If negative pressure is maintained, Replace the West Gate Control SOL.V.",
+          "refs": [
+            {
+              "id": "R000496",
+              "label": "Replace the West Gate Control SOL.V.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If negative pressure is not maintained, inspect the following items"
+        },
+        {
+          "text": "If negative pressure is not maintained, inspect the following items"
+        },
+        {
+          "text": "Disconnected, torn and clogged negative pressure tubing between West Gate Control SOL.V. and West Gate Chamber"
+        },
+        {
+          "text": "Disconnected, torn and clogged negative pressure tubing between West Gate Control SOL.V. and West Gate Chamber"
+        },
+        {
+          "text": "Disconnected, torn and clogged negative pressure tubing between West Gate Control SOL.V. and West Gate Chamber"
+        },
+        {
+          "text": "Disconnected, torn and clogged negative pressure tubing between the west gate chamber and the west gate actuator"
+        },
+        {
+          "text": "Disconnected, torn and clogged negative pressure tubing between the west gate chamber and the west gate actuator"
+        },
+        {
+          "text": "Defective West Gate Chamber"
+        },
+        {
+          "text": "Defective West Gate Chamber"
+        },
+        {
+          "text": "Disconnected, broken and clogged negative pressure tube between West Gate Control SOL.V. and turbocharger"
+        },
+        {
+          "text": "Disconnected, broken and clogged negative pressure tube between West Gate Control SOL.V. and turbocharger"
+        },
+        {
+          "text": "West gate control SOL.V. installed"
+        },
+        {
+          "text": "West gate control SOL.V. installed"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000494_jpn/web/html/R000494_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,91 @@
+{
+  "id": "133_BD16_Cable_Reel_Connector_B_4P_Female",
+  "category": "connector",
+  "connectorRef": "BD16",
+  "physicalIds": [
+    "BD16"
+  ],
+  "name": "Cable Reel Connector B (4P) (Female)",
+  "nameRu": "Разъём Cable Reel Connector B (4P), гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 2,
+  "faceviewPart": "77978-SNA -0030-H1",
+  "partNumbers": [
+    "77978-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)"
+  ],
+  "systems": [
+    "Cable Reel",
+    "SRS"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/77978-SNA -0030-H1.svg",
+    "viewBox": "0 0 95.706 50.271",
+    "width": 95.706,
+    "height": 50.271
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 10.105,
+        "y": 31.945,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "RED",
+      "circuit": "RA1+",
+      "english": "RA1 +",
+      "russian": "RA1 +",
+      "terminal": "S01B",
+      "geometry": {
+        "x": 30.757,
+        "y": 31.945,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "RA1-",
+      "english": "RA1 -",
+      "russian": "RA1 -",
+      "terminal": "S02C",
+      "geometry": {
+        "x": 59.669,
+        "y": 31.945,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 80.322,
+        "y": 31.945,
+        "svgTextId": "SVGID_4_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "215_DD02_Driver_s_Power_Window_Motor_6P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "DD02",
+  "physicalIds": [
+    "DD02"
+  ],
+  "name": "Driver's Power Window Motor 6P Connector (Female)",
+  "nameRu": "Разъём водителя стеклоподъёмник электродвигатель, 6 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 6,
+  "populatedPinCount": 6,
+  "faceviewPart": "91762-STK -0030-H1",
+  "partNumbers": [
+    "91762-STK -0030-H1"
+  ],
+  "harnesses": [
+    "32751-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Door > Driver's Door"
+  ],
+  "systems": [
+    "Power Windows"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91762-STK -0030-H1.svg",
+    "viewBox": "0 0 103.966 48.207",
+    "width": 103.966,
+    "height": 48.207
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "P/W_DR_MTR_UP",
+      "english": "power window, DR, motor, up",
+      "russian": "стеклоподъёмник, DR, электродвигатель, вверх",
+      "terminal": "500A",
+      "geometry": {
+        "x": 16.134,
+        "y": 29.313,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "P/W_DR_MTR_DOWN",
+      "english": "power window, DR, motor, down",
+      "russian": "стеклоподъёмник, DR, электродвигатель, вниз",
+      "terminal": "501B",
+      "geometry": {
+        "x": 83.285,
+        "y": 29.313,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "P/W_DR_MTR_PLSB",
+      "english": "power window, DR, motor, PLSB",
+      "russian": "стеклоподъёмник, DR, электродвигатель, PLSB",
+      "terminal": "516C",
+      "geometry": {
+        "x": 39.884,
+        "y": 18.988,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "P/W_DR_MTR_SGND",
+      "english": "power window, DR, motor, SGND",
+      "russian": "стеклоподъёмник, DR, электродвигатель, SGND",
+      "terminal": "517D",
+      "geometry": {
+        "x": 60.536,
+        "y": 18.988,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "P/W_DR_MTR_PLSA",
+      "english": "power window, DR, motor, PLSA",
+      "russian": "стеклоподъёмник, DR, электродвигатель, PLSA",
+      "terminal": "515E",
+      "geometry": {
+        "x": 39.884,
+        "y": 39.639,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "P/W_DR_MTR_VCC",
+      "english": "power window, DR, motor, supply voltage",
+      "russian": "стеклоподъёмник, DR, электродвигатель, напряжение питания",
+      "terminal": "514F",
+      "geometry": {
+        "x": 60.536,
+        "y": 39.639,
+        "svgTextId": "SVGID_6_"
+      }
+    }
+  ]
+}

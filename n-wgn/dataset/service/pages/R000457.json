@@ -1,0 +1,130 @@
+{
+  "id": "R000457",
+  "title": "ELD desorption",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "PGM-FI System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000457",
+  "assets": [
+    "457_3.0_jpn_11582533_3.0_disp.png",
+    "457_3.0_jpn_11582534_3.0_disp.png",
+    "457_3.0_jpn_11582535_3.0_disp.png",
+    "457_3.0_jpn_11582536_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000910",
+      "label": "12V battery Negative (-) terminal Disconnect",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ELD desorption"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Negative (-) terminal Disconnect",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Negative (-) terminal Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Relay box removal"
+    },
+    {
+      "type": "figure",
+      "asset": "457_3.0_jpn_11582533_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the upper cover (B) from the relay box (A). Disconnect terminal (C). Remove the relay box from the bracket (D)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Lower cover removal"
+    },
+    {
+      "type": "figure",
+      "asset": "457_3.0_jpn_11582534_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the lower cover (A). Disconnect the coupler (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Fuse Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "457_3.0_jpn_11582535_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove fuses (A) and (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. ELD removal"
+    },
+    {
+      "type": "figure",
+      "asset": "457_3.0_jpn_11582536_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Raise the lock (A) and remove the ELD (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Work carefully to prevent damage to the lock."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When installing ELDs, set the lock until it locks securely."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000457_jpn/web/html/R000457_jpn_Content.html",
+  "inOutline": true
+}

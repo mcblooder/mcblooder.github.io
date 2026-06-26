@@ -1,0 +1,103 @@
+{
+  "id": "ambient_light",
+  "category": "electrical_diagram",
+  "title": "Ambient Light, Cargo Area Light and Individual MAP Light",
+  "system": "ambient_light",
+  "sheetCount": 4,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/ambient_light/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/ambient_light/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/ambient_light/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/ambient_light/sheet4.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Cargo Area Light",
+      "Center Tray Light",
+      "Driver's Door Switch",
+      "Driver's Foot Light",
+      "Engine Start/Stop Switch",
+      "Front Passenger's Door Switch",
+      "Front Passenger's Foot Light",
+      "IG1 Relay 2",
+      "Individual Map Light",
+      "Left Cup Holder Light",
+      "Left Rear Door Switch",
+      "Right Cup Holder Light",
+      "Right Rear Door Switch",
+      "Tailgate Latch Switch",
+      "Taillight Relay"
+    ],
+    "Couplers": [
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C116 (Male)|C116 (Female)",
+      "C117 (Male)|C117 (Female)",
+      "C121 (Male)|C121 (Female)",
+      "Cargo Area Light 3P Connector (Female)",
+      "Center Tray Light 2P Connector (Female)",
+      "Driver's Door Switch 1P Connector (Female)",
+      "Driver's Foot Light 2P Connector (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Front Passenger's Door Switch 1P Connector (Female)",
+      "Front Passenger's Foot Light 2P Connector (Female)",
+      "Individual Map Light 3P Connector (Female)",
+      "Left Cup Holder Light 2P Connector (Female)",
+      "Left Rear Door Switch 1P Connector (Female)",
+      "Right Cup Holder Light 2P Connector (Female)",
+      "Right Rear Door Switch 1P Connector (Female)",
+      "T1",
+      "Tailgate Latch Switch 2P Connector (Female)",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector H (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector K (4P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector U (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Y (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_DC/DC_2",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMALL",
+      "+B_SMART",
+      "16_IG1_RELAY_2",
+      "IG1_MICU(P/S)"
+    ],
+    "Grounds": [
+      "G401",
+      "G402",
+      "G503"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "BQ Roof Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "LB High Mount Brake Light Subharness",
+      "TH Tailgate Wire Harness"
+    ]
+  }
+}

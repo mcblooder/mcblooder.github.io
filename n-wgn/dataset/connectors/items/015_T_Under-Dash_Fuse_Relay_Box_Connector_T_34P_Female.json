@@ -1,0 +1,544 @@
+{
+  "id": "015_T_Under-Dash_Fuse_Relay_Box_Connector_T_34P_Female",
+  "category": "connector",
+  "connectorRef": "T / BD29",
+  "physicalIds": [
+    "BD29"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector T (34P), гнездовая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 34,
+  "populatedPinCount": 19,
+  "faceviewPart": "91955-SFE -0030-H1",
+  "partNumbers": [
+    "91955-SFE -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)",
+    "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Back Side"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "A/T Interlock System",
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "Audio System",
+    "Auto Idle Stop System",
+    "B-CAN Communication Line",
+    "Cable Reel",
+    "Charging System",
+    "City-Brake Active System",
+    "Climate Control",
+    "Cruise Control",
+    "CVT Control System",
+    "Dashlights",
+    "DLC",
+    "Energy Management System",
+    "Entry Light Control System",
+    "EPS",
+    "F-CAN Communication Line",
+    "Fog Lights",
+    "Gauges",
+    "Headlight Leveling System",
+    "Headlights",
+    "Junction Connectors",
+    "K-Line Communication Line",
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "MIL Circuit",
+    "PCM (All)",
+    "Power Supply",
+    "Power, Grounds and Diagnostics",
+    "SRS",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91955-SFE -0030-H1.svg",
+    "viewBox": "0 0 386.26 59.709",
+    "width": 386.26,
+    "height": 59.709
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 9.479,
+        "y": 29.081,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 32.155,
+        "y": 29.081,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 54.831,
+        "y": 29.081,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "SCS",
+      "english": "Service-check signal",
+      "russian": "Сервисный диагностический сигнал SCS",
+      "terminal": "F28D",
+      "geometry": {
+        "x": 77.508,
+        "y": 29.081,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_BACK_UP_BST",
+      "english": "Constant battery power: back-up, up, BST",
+      "russian": "Постоянное питание от АКБ: резервный, вверх, BST",
+      "terminal": "B79E",
+      "geometry": {
+        "x": 100.185,
+        "y": 29.081,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "B-CAN_L",
+      "english": "B-CAN low line",
+      "russian": "Низкая линия B-CAN",
+      "terminal": "X60F",
+      "geometry": {
+        "x": 122.863,
+        "y": 29.081,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "B-CAN_H",
+      "english": "B-CAN high line",
+      "russian": "Высокая линия B-CAN",
+      "terminal": "X50F",
+      "geometry": {
+        "x": 145.541,
+        "y": 29.081,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "B-CAN_H",
+      "english": "B-CAN high line",
+      "russian": "Высокая линия B-CAN",
+      "terminal": "X50H",
+      "geometry": {
+        "x": 168.217,
+        "y": 29.081,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "B-CAN_L",
+      "english": "B-CAN low line",
+      "russian": "Низкая линия B-CAN",
+      "terminal": "X60J",
+      "geometry": {
+        "x": 190.893,
+        "y": 29.081,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 210.518,
+        "y": 29.081,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 233.197,
+        "y": 29.081,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "RED",
+      "circuit": "F-CAN_L",
+      "english": "F-CAN low line",
+      "russian": "Низкая линия F-CAN",
+      "terminal": "X80M",
+      "geometry": {
+        "x": 255.872,
+        "y": 29.081,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "F-CAN_H",
+      "english": "F-CAN high line",
+      "russian": "Высокая линия F-CAN",
+      "terminal": "X70N000",
+      "geometry": {
+        "x": 278.55,
+        "y": 29.081,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 301.226,
+        "y": 29.081,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "PARKING_BRAKE_SW",
+      "english": "parking, brake, switch",
+      "russian": "стояночный, тормоз, выключатель",
+      "terminal": "90R",
+      "geometry": {
+        "x": 323.903,
+        "y": 29.081,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "R_TURN",
+      "english": "right, turn signal",
+      "russian": "правый, указатель поворота",
+      "terminal": "16S",
+      "geometry": {
+        "x": 346.58,
+        "y": 29.081,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "L_TURN",
+      "english": "left, turn signal",
+      "russian": "левый, указатель поворота",
+      "terminal": "17T",
+      "geometry": {
+        "x": 369.255,
+        "y": 29.081,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 6.425,
+        "y": 51.76,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 29.103,
+        "y": 51.76,
+        "svgTextId": "SVGID_19_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 51.779,
+        "y": 51.76,
+        "svgTextId": "SVGID_20_"
+      }
+    },
+    {
+      "pin": 21,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "K_LINE",
+      "english": "K-Line diagnostic communication",
+      "russian": "Диагностическая линия K-Line",
+      "terminal": "F29Z",
+      "geometry": {
+        "x": 74.456,
+        "y": 51.76,
+        "svgTextId": "SVGID_21_"
+      }
+    },
+    {
+      "pin": 22,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_BACK_UP_BST",
+      "english": "Constant battery power: back-up, up, BST",
+      "russian": "Постоянное питание от АКБ: резервный, вверх, BST",
+      "terminal": "B79AA",
+      "geometry": {
+        "x": 97.132,
+        "y": 51.76,
+        "svgTextId": "SVGID_22_"
+      }
+    },
+    {
+      "pin": 23,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 119.809,
+        "y": 51.76,
+        "svgTextId": "SVGID_23_"
+      }
+    },
+    {
+      "pin": 24,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "OTHER_DOOR_SW",
+      "english": "OTHER, door, switch",
+      "russian": "OTHER, дверь, выключатель",
+      "terminal": "96AC",
+      "geometry": {
+        "x": 142.488,
+        "y": 51.76,
+        "svgTextId": "SVGID_24_"
+      }
+    },
+    {
+      "pin": 25,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "FR_FOG_SW",
+      "english": "front, FOG, switch",
+      "russian": "передний, FOG, выключатель",
+      "terminal": "45AD",
+      "geometry": {
+        "x": 165.165,
+        "y": 51.76,
+        "svgTextId": "SVGID_25_"
+      }
+    },
+    {
+      "pin": 26,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "P-PIN_SW",
+      "english": "P-PIN, switch",
+      "russian": "P-PIN, выключатель",
+      "terminal": "M15AE",
+      "geometry": {
+        "x": 187.841,
+        "y": 51.76,
+        "svgTextId": "SVGID_26_"
+      }
+    },
+    {
+      "pin": 27,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z40AF",
+      "geometry": {
+        "x": 210.518,
+        "y": 51.76,
+        "svgTextId": "SVGID_27_"
+      }
+    },
+    {
+      "pin": 28,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 233.197,
+        "y": 51.76,
+        "svgTextId": "SVGID_28_"
+      }
+    },
+    {
+      "pin": 29,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 255.872,
+        "y": 51.76,
+        "svgTextId": "SVGID_29_"
+      }
+    },
+    {
+      "pin": 30,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 278.55,
+        "y": 51.76,
+        "svgTextId": "SVGID_30_"
+      }
+    },
+    {
+      "pin": 31,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 301.226,
+        "y": 51.76,
+        "svgTextId": "SVGID_31_"
+      }
+    },
+    {
+      "pin": 32,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "DIAG-H",
+      "english": "DIAG-H",
+      "russian": "DIAG-H",
+      "terminal": "F55AL",
+      "geometry": {
+        "x": 323.903,
+        "y": 51.76,
+        "svgTextId": "SVGID_32_"
+      }
+    },
+    {
+      "pin": 33,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11AM",
+      "geometry": {
+        "x": 346.58,
+        "y": 51.76,
+        "svgTextId": "SVGID_33_"
+      }
+    },
+    {
+      "pin": 34,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 369.255,
+        "y": 51.76,
+        "svgTextId": "SVGID_34_"
+      }
+    }
+  ]
+}

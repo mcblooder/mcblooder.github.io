@@ -1,0 +1,128 @@
+{
+  "id": "244_M_Under-Dash_Fuse_Relay_Box_Connector_M_10P_Male",
+  "category": "connector",
+  "connectorRef": "M",
+  "physicalIds": [
+    "M"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector M (10P) (Male)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector M (10P), штыревая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 10,
+  "populatedPinCount": 7,
+  "faceviewPart": "DM",
+  "partNumbers": [],
+  "harnesses": [
+    "38200-T6G_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [],
+  "faceview": {
+    "asset": "assets/faceview/DM.svg",
+    "viewBox": "0 0 82.374 22.471",
+    "width": 82.374,
+    "height": 22.471
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "ORN",
+      "circuit": "IG1_RELAY1",
+      "english": "ignition IG1, RELAY1",
+      "russian": "зажигание IG1, RELAY1",
+      "terminal": "G33A",
+      "geometry": null
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "RED",
+      "circuit": "ACC",
+      "english": "Accessory power",
+      "russian": "Питание аксессуаров ACC",
+      "terminal": "C01B",
+      "geometry": null
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "K_LINE",
+      "english": "K-Line diagnostic communication",
+      "russian": "Диагностическая линия K-Line",
+      "terminal": "F29D",
+      "geometry": null
+    },
+    {
+      "pin": 5,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "IG1_FUEL_PUMP",
+      "english": "ignition IG1, fuel, pump",
+      "russian": "зажигание IG1, топливо, насос",
+      "terminal": "G01F000",
+      "geometry": null
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "IG1_RELAY2",
+      "english": "ignition IG1, RELAY2",
+      "russian": "зажигание IG1, RELAY2",
+      "terminal": "G34G",
+      "geometry": null
+    },
+    {
+      "pin": 8,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "F-CAN_H",
+      "english": "F-CAN high line",
+      "russian": "Высокая линия F-CAN",
+      "terminal": "X70I",
+      "geometry": null
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "RED",
+      "circuit": "F-CAN_L",
+      "english": "F-CAN low line",
+      "russian": "Низкая линия F-CAN",
+      "terminal": "X80J",
+      "geometry": null
+    }
+  ]
+}

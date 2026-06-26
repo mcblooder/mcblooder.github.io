@@ -1,0 +1,90 @@
+{
+  "id": "234_BI25_Right_Side_Impact_Sensor_First_4P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BI25",
+  "physicalIds": [
+    "BI25"
+  ],
+  "name": "Right Side Impact Sensor (First) 4P Connector (Female)",
+  "nameRu": "Разъём правый Side Impact датчик (First), 4 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 4,
+  "faceviewPart": "77980-SNA -0030-H1",
+  "partNumbers": [
+    "77980-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Right Side)"
+  ],
+  "systems": [
+    "SRS"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/77980-SNA -0030-H1.svg",
+    "viewBox": "0 0 69.051 24.831",
+    "width": 69.051,
+    "height": 24.831
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "RS2+",
+      "english": "RS2 +",
+      "russian": "RS2 +",
+      "terminal": "S59A",
+      "geometry": {
+        "x": 6.789,
+        "y": 18.794,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "RS1-",
+      "english": "RS1 -",
+      "russian": "RS1 -",
+      "terminal": "S56B",
+      "geometry": {
+        "x": 23.797,
+        "y": 18.794,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "RS1+",
+      "english": "RS1 +",
+      "russian": "RS1 +",
+      "terminal": "S55C",
+      "geometry": {
+        "x": 40.805,
+        "y": 18.794,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "RS2-",
+      "english": "RS2 -",
+      "russian": "RS2 -",
+      "terminal": "S60D",
+      "geometry": {
+        "x": 57.813,
+        "y": 18.794,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

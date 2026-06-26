@@ -1,0 +1,261 @@
+{
+  "id": "R002186",
+  "title": "Water Passage Removal and Attachment",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cooling System",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002186",
+  "assets": [
+    "2186_5.0_jpn_11583089_5.0_disp.png",
+    "2186_5.0_jpn_11583090_5.0_disp.png",
+    "2186_5.0_jpn_11583091_5.0_disp.png",
+    "2186_5.0_jpn_11583092_5.0_disp.png",
+    "2186_5.0_jpn_11583093_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000435",
+      "label": "Cooling water removal",
+      "resolved": true
+    },
+    {
+      "id": "R000412",
+      "label": "Cars not equipped with a turbo charger",
+      "resolved": true
+    },
+    {
+      "id": "R000413",
+      "label": "Turbo Charger equipped vehicle",
+      "resolved": true
+    },
+    {
+      "id": "R000418",
+      "label": "Intercooler removal (turbo charger equipped vehicles)",
+      "resolved": true
+    },
+    {
+      "id": "R000505",
+      "label": "Purge control SOL.V. removal (Turbocharger equipped vehicles)",
+      "resolved": true
+    },
+    {
+      "id": "R002190",
+      "label": "Remove EGR valve and EGR pipe (for vehicles not equipped with turbo charger)",
+      "resolved": true
+    },
+    {
+      "id": "R000427",
+      "label": "Thermostat removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Water Passage Removal and Attachment"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Cooling water removal",
+      "refs": [
+        {
+          "id": "R000435",
+          "label": "Cooling water removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Air cleaner removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the air cleaner.",
+      "refs": [
+        {
+          "id": "R000412",
+          "label": "Cars not equipped with a turbo charger",
+          "resolved": true
+        },
+        {
+          "id": "R000413",
+          "label": "Turbo Charger equipped vehicle",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000412",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Cars not equipped with a turbo charger",
+          "refs": [
+            {
+              "id": "R000412",
+              "label": "Cars not equipped with a turbo charger",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000413",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Turbo Charger equipped vehicle",
+          "refs": [
+            {
+              "id": "R000413",
+              "label": "Turbo Charger equipped vehicle",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Intercooler removal (turbo charger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000418",
+          "label": "Intercooler removal (turbo charger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Purge control SOL.V. removal (Turbocharger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000505",
+          "label": "Purge control SOL.V. removal (Turbocharger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Remove EGR valve and EGR pipe (for vehicles not equipped with turbo charger)",
+      "refs": [
+        {
+          "id": "R002190",
+          "label": "Remove EGR valve and EGR pipe (for vehicles not equipped with turbo charger)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Thermostat removal",
+      "refs": [
+        {
+          "id": "R000427",
+          "label": "Thermostat removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Ground bolt removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2186_5.0_jpn_11583089_5.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Water Outlet Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2186_5.0_jpn_11583090_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2186_5.0_jpn_11583091_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the hose (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "2186_5.0_jpn_11583092_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2186_5.0_jpn_11583093_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the water passage (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Coolant Injection",
+      "refs": [
+        {
+          "id": "R000435",
+          "label": "Coolant Injection",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002186_jpn/web/html/R002186_jpn_Content.html",
+  "inOutline": true
+}

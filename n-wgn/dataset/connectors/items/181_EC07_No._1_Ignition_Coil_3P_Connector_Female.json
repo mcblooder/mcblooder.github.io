@@ -1,0 +1,77 @@
+{
+  "id": "181_EC07_No._1_Ignition_Coil_3P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC07",
+  "physicalIds": [
+    "EC07"
+  ],
+  "name": "No. 1 Ignition Coil 3P Connector (Female)",
+  "nameRu": "Разъём No. 1 Ignition Coil, 3 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "91703-R40 -0030-H1",
+  "partNumbers": [
+    "91703-R40 -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)"
+  ],
+  "systems": [
+    "Ignition System",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91703-R40 -0030-H1.svg",
+    "viewBox": "0 0 68.859 27.554",
+    "width": 68.859,
+    "height": 27.554
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "IG1(IGN_COIL_1)",
+      "english": "ignition IG1, IGN, coil, 1",
+      "russian": "зажигание IG1, IGN, катушка, 1",
+      "terminal": "D30A000",
+      "geometry": {
+        "x": 12.004,
+        "y": 19.988,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "PG1",
+      "english": "PG1",
+      "russian": "PG1",
+      "terminal": "Z01B004",
+      "geometry": {
+        "x": 32.656,
+        "y": 19.988,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "IGN_COIL_1",
+      "english": "IGN, coil, 1",
+      "russian": "IGN, катушка, 1",
+      "terminal": "E11C000",
+      "geometry": {
+        "x": 53.308,
+        "y": 19.988,
+        "svgTextId": "SVGID_3_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "038_C109_C109_Male__C109_Female",
+  "category": "connector",
+  "connectorRef": "C109",
+  "physicalIds": [
+    "C109"
+  ],
+  "name": "C109 (Male) / C109 (Female)",
+  "nameRu": "Разъём C109, штыревая часть / Разъём C109, гнездовая часть",
+  "type": "MiddleCoupler",
+  "pinCount": 8,
+  "populatedPinCount": 7,
+  "faceviewPart": "91756-T2A -0030-H1_91755-T2A -0030-H1",
+  "partNumbers": [
+    "91755-T2A -0030-H1",
+    "91756-T2A -0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-",
+    "32754-T6G_-0000-"
+  ],
+  "locations": [
+    "Body > Floor (Left Side)",
+    "Door > Left Rear Door"
+  ],
+  "systems": [
+    "Audio System",
+    "Keyless/Power Door Locks/Security System",
+    "Power Windows"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91756-T2A -0030-H1_91755-T2A -0030-H1.svg",
+    "viewBox": "0 0 114 173.933",
+    "width": 114.0,
+    "height": 173.933
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "P/W_RR_L_SW_UP",
+      "english": "power window, rear/right, left, switch, up",
+      "russian": "стеклоподъёмник, задний/правый, левый, выключатель, вверх",
+      "terminal": "512A / 512A000",
+      "geometry": {
+        "x": 22.446,
+        "y": 142.393,
+        "svgTextId": "XMLID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 45.443,
+        "y": 142.393,
+        "svgTextId": "XMLID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "P/W_RR_L_POWER",
+      "english": "power window, rear/right, left, power",
+      "russian": "стеклоподъёмник, задний/правый, левый, питание",
+      "terminal": "522C",
+      "geometry": {
+        "x": 68.44,
+        "y": 142.393,
+        "svgTextId": "XMLID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "L_SIDE_DOOR_LOCK",
+      "english": "left, SIDE, door, lock",
+      "russian": "левый, SIDE, дверь, запирание",
+      "terminal": "580D",
+      "geometry": {
+        "x": 91.438,
+        "y": 142.393,
+        "svgTextId": "XMLID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "P/W_RR_L_SW_DOWN",
+      "english": "power window, rear/right, left, switch, down",
+      "russian": "стеклоподъёмник, задний/правый, левый, выключатель, вниз",
+      "terminal": "513E",
+      "geometry": {
+        "x": 22.446,
+        "y": 165.39,
+        "svgTextId": "XMLID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "RL_SPKR+",
+      "english": "rear left, speaker +",
+      "russian": "задний левый, динамик +",
+      "terminal": "806F000 / 806F",
+      "geometry": {
+        "x": 45.443,
+        "y": 165.39,
+        "svgTextId": "XMLID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "RL_SPKR-",
+      "english": "rear left, speaker -",
+      "russian": "задний левый, динамик -",
+      "terminal": "807G",
+      "geometry": {
+        "x": 68.44,
+        "y": 165.39,
+        "svgTextId": "XMLID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "L_SIDE_DOOR_UNLOCK",
+      "english": "left, SIDE, door, unlock",
+      "russian": "левый, SIDE, дверь, отпирание",
+      "terminal": "581H",
+      "geometry": {
+        "x": 91.438,
+        "y": 165.39,
+        "svgTextId": "XMLID_8_"
+      }
+    }
+  ]
+}

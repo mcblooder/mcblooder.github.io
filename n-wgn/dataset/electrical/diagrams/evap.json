@@ -1,0 +1,62 @@
+{
+  "id": "evap",
+  "category": "electrical_diagram",
+  "title": "EVAP System",
+  "system": "evap",
+  "sheetCount": 4,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/evap/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/evap/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/evap/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/evap/sheet4.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "EVAP Canister Purge Valve",
+      "Engine Start/Stop Switch",
+      "PCM"
+    ],
+    "Couplers": [
+      "C001 (Female)",
+      "C105 (Male)|C105 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "EVAP Canister Purge Valve 2P Connector (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "PCM Connector E (80P) (Female)",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "32_IG1_ACG"
+    ],
+    "Grounds": [
+      "G402"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

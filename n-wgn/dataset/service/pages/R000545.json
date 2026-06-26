@@ -1,0 +1,78 @@
+{
+  "id": "R000545",
+  "title": "Removing and installing the drive plate",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder block",
+  "system": "crankshaft",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000545",
+  "assets": [
+    "545_3.0_jpn_11034971_3.0_disp.png",
+    "545_3.0_jpn_11034973_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000544",
+      "label": "Transmission removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removing and installing the drive plate"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Transmission removal",
+      "refs": [
+        {
+          "id": "R000544",
+          "label": "Transmission removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Drive plate removal"
+    },
+    {
+      "type": "figure",
+      "asset": "545_3.0_jpn_11034971_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "545_3.0_jpn_11034973_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the drive plate (A) and washer (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000545_jpn/web/html/R000545_jpn_Content.html",
+  "inOutline": true
+}

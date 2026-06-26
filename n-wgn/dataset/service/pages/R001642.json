@@ -1,0 +1,241 @@
+{
+  "id": "R001642",
+  "title": "Side Airbag Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "SRS",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001642",
+  "assets": [
+    "1642_3.0_jpn_11580638_3.0_disp.png",
+    "1642_3.0_jpn_11580639_3.0_disp.png",
+    "1642_3.0_jpn_11580640_3.0_disp.png",
+    "1642_3.0_jpn_11580641_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R001639",
+      "label": "Replace related parts.",
+      "resolved": true
+    },
+    {
+      "id": "R000910",
+      "label": "12V battery Negative (-) terminal Disconnect",
+      "resolved": true
+    },
+    {
+      "id": "R000792",
+      "label": "Front seat removal",
+      "resolved": true
+    },
+    {
+      "id": "R000797",
+      "label": "Turn up the front seatback trim cover on the back side of the front seatback as required.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Side Airbag Removal and Installation"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Proceed with the work while observing work precautions. ​",
+        "Disconnect the cable from the minus (-) terminal of the 12V battery and wait at least 3 minutes before starting work."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the airbag is deployed, Replace related parts. ​",
+          "refs": [
+            {
+              "id": "R001639",
+              "label": "Replace related parts.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If the airbag is deployed, Replace related parts. ​",
+          "refs": [
+            {
+              "id": "R001639",
+              "label": "Replace related parts.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "When diagnosing a malfunction, disconnect the side airbag coupler from under the front seat without removing the front seat."
+        },
+        {
+          "text": "When diagnosing a malfunction, disconnect the side airbag coupler from under the front seat without removing the front seat."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Negative (-) terminal Disconnect",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Negative (-) terminal Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front seat removal",
+      "refs": [
+        {
+          "id": "R000792",
+          "label": "Front seat removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Side airbag removal"
+    },
+    {
+      "type": "figure",
+      "asset": "1642_3.0_jpn_11580638_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1642_3.0_jpn_11580639_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the side airbag coupler clip (A) from the back side of the seat cushion and remove the harness clip (B). Unplug the side airbag harnesses (D) from the seat cushion trim cover (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "1642_3.0_jpn_11580640_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Turn up the front seatback trim cover on the back side of the front seatback as required. Remove the nuts (A) and harness clips (B), and remove the side airbags (C) along with the front seatback trim cover/pad (D).",
+      "refs": [
+        {
+          "id": "R000797",
+          "label": "Turn up the front seatback trim cover on the back side of the front seatback as required.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1642_3.0_jpn_11580641_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Remove the side airbags (B) from the front seatback trim covers/pads (A). Pull the side airbag screws (D) out of the holes (C) in the front seat back trim cover/pad bag while dodging the side airbag screws (D)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure.",
+      "refs": [
+        {
+          "id": "R000797",
+          "label": "When installing the seat back trim cover/pad, the airbag attachment wires must be properly assembled on the seat back frame.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not install the side airbag in a plastic packing bag.",
+        "Side airbag mounting nuts shall be replaced with new ones at the time of installation and tightened to the specified torque.",
+        "When installing the seat back trim cover/pad, the airbag attachment wires must be properly assembled on the seat back frame.",
+        "The side airbag wire harnesses shall be assembled so that there is no binding or abnormal tension. Before connecting the side airbag coupler, operate the seat slide/recline to confirm that there is no abnormality."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do not install the side airbag in a plastic packing bag."
+        },
+        {
+          "text": "Do not install the side airbag in a plastic packing bag."
+        },
+        {
+          "text": "Side airbag mounting nuts shall be replaced with new ones at the time of installation and tightened to the specified torque."
+        },
+        {
+          "text": "Side airbag mounting nuts shall be replaced with new ones at the time of installation and tightened to the specified torque."
+        },
+        {
+          "text": "When installing the seat back trim cover/pad, the airbag attachment wires must be properly assembled on the seat back frame.",
+          "refs": [
+            {
+              "id": "R000797",
+              "label": "When installing the seat back trim cover/pad, the airbag attachment wires must be properly assembled on the seat back frame.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "When installing the seat back trim cover/pad, the airbag attachment wires must be properly assembled on the seat back frame.",
+          "refs": [
+            {
+              "id": "R000797",
+              "label": "When installing the seat back trim cover/pad, the airbag attachment wires must be properly assembled on the seat back frame.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "The side airbag wire harnesses shall be assembled so that there is no binding or abnormal tension. Before connecting the side airbag coupler, operate the seat slide/recline to confirm that there is no abnormality."
+        },
+        {
+          "text": "The side airbag wire harnesses shall be assembled so that there is no binding or abnormal tension. Before connecting the side airbag coupler, operate the seat slide/recline to confirm that there is no abnormality."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. SRS warning light Check"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the cable to the (-) terminal of the 12V battery, turn the ignition to the ON mode, and check that the SRS warning light comes on for 6 seconds and then goes off."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001642_jpn/web/html/R001642_jpn_Content.html",
+  "inOutline": true
+}

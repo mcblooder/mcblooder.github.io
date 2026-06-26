@@ -1,0 +1,160 @@
+{
+  "id": "R001645",
+  "title": "Removing and installing the SRS unit",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "SRS",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001645",
+  "assets": [
+    "1645_3.0_jpn_11347566_2.0_disp.png",
+    "1645_3.0_jpn_11347567_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000910",
+      "label": "12V battery Negative (-) terminal Disconnect",
+      "resolved": true
+    },
+    {
+      "id": "R000780",
+      "label": "Center lower cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R001638",
+      "label": "Update SRS unit.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removing and installing the SRS unit"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Proceed with the work while observing work precautions. ​",
+        "Disconnect the cable from the minus (-) terminal of the 12V battery and wait at least 3 minutes before starting work."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When checking the manufacturer name of the SRS unit, use HDS to check the ECU manufacturer displayed in the data list."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Negative (-) terminal Disconnect",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Negative (-) terminal Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Center lower cover removal",
+      "refs": [
+        {
+          "id": "R000780",
+          "label": "Center lower cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. SRS unit removal"
+    },
+    {
+      "type": "figure",
+      "asset": "1645_3.0_jpn_11347566_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1645_3.0_jpn_11347567_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Remove the Torx bolt (B) using the Torx bit T30 and remove the SRS unit (C)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not subject the SRS unit and its vicinity to any strong impact (not for removal and attachment using an impact wrench)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure.",
+      "refs": [
+        {
+          "id": "R001638",
+          "label": "Update SRS unit.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Torx bolts shall be replaced with new ones at the time of installation and tightened to the specified torque.",
+        "The center lower cover must be installed after confirming the operation of the SRS warning light.",
+        "For TRW SRS units, check to see if the unit's program is up-to-date. If the program is not up-to-date, Update SRS unit."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Torx bolts shall be replaced with new ones at the time of installation and tightened to the specified torque."
+        },
+        {
+          "text": "Torx bolts shall be replaced with new ones at the time of installation and tightened to the specified torque."
+        },
+        {
+          "text": "The center lower cover must be installed after confirming the operation of the SRS warning light."
+        },
+        {
+          "text": "The center lower cover must be installed after confirming the operation of the SRS warning light."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. SRS warning light Check"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the cable to the (-) terminal of the 12V battery, turn the ignition to the ON mode, and check that the SRS warning light comes on for 6 seconds and then goes off."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001645_jpn/web/html/R001645_jpn_Content.html",
+  "inOutline": true
+}

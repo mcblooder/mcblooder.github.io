@@ -1,0 +1,208 @@
+{
+  "id": "257_F_Under-Dash_Fuse_Relay_Box_Connector_F_18P_Female",
+  "category": "connector",
+  "connectorRef": "F",
+  "physicalIds": [
+    "F"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector F (18P)」 (Female)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector F (18P)」, гнездовая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 18,
+  "populatedPinCount": 13,
+  "faceviewPart": "DM",
+  "partNumbers": [],
+  "harnesses": [
+    "38200-T6G_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [],
+  "faceview": {
+    "asset": "assets/faceview/DM.svg",
+    "viewBox": "0 0 82.374 22.471",
+    "width": 82.374,
+    "height": 22.471
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "P/W_RR_L_POWER",
+      "english": "power window, rear/right, left, power",
+      "russian": "стеклоподъёмник, задний/правый, левый, питание",
+      "terminal": "522A001",
+      "geometry": null
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "P/W_AS_POWER",
+      "english": "power window, AS, power",
+      "russian": "стеклоподъёмник, AS, питание",
+      "terminal": "520B000",
+      "geometry": null
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "RED",
+      "circuit": "R_SIDE_DOOR_LOCK",
+      "english": "right, SIDE, door, lock",
+      "russian": "правый, SIDE, дверь, запирание",
+      "terminal": "550C",
+      "geometry": null
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "P/W_RR_R_POWER",
+      "english": "power window, rear/right, right, power",
+      "russian": "стеклоподъёмник, задний/правый, правый, питание",
+      "terminal": "521D001",
+      "geometry": null
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "R_SIDE_DOOR_UNLOCK",
+      "english": "right, SIDE, door, unlock",
+      "russian": "правый, SIDE, дверь, отпирание",
+      "terminal": "551E",
+      "geometry": null
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "RED",
+      "circuit": "+B_P/W_DR",
+      "english": "Constant battery power: power window, DR",
+      "russian": "Постоянное питание от АКБ: стеклоподъёмник, DR",
+      "terminal": "B21F",
+      "geometry": null
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "DR_SILCON_UNLOCK",
+      "english": "DR, SILCON, unlock",
+      "russian": "DR, SILCON, отпирание",
+      "terminal": "555G",
+      "geometry": null
+    },
+    {
+      "pin": 8,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 9,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 10,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "DR_SILCON_LOCK",
+      "english": "DR, SILCON, lock",
+      "russian": "DR, SILCON, запирание",
+      "terminal": "554L",
+      "geometry": null
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "IG2_MIRROR",
+      "english": "ignition IG2, mirror",
+      "russian": "зажигание IG2, зеркало",
+      "terminal": "G24M",
+      "geometry": null
+    },
+    {
+      "pin": 13,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "DR_REQ_SW",
+      "english": "DR, REQ, switch",
+      "russian": "DR, REQ, выключатель",
+      "terminal": "968P",
+      "geometry": null
+    },
+    {
+      "pin": 15,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "EXT_FR_DR-",
+      "english": "EXT, front, DR -",
+      "russian": "EXT, передний, DR -",
+      "terminal": "909S",
+      "geometry": null
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "EXT_FR_DR+",
+      "english": "EXT, front, DR +",
+      "russian": "EXT, передний, DR +",
+      "terminal": "908T",
+      "geometry": null
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "R_TURN",
+      "english": "right, turn signal",
+      "russian": "правый, указатель поворота",
+      "terminal": "16W",
+      "geometry": null
+    }
+  ]
+}

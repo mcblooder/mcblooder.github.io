@@ -1,0 +1,92 @@
+{
+  "id": "166_BI18_Fuel_Tank_Unit_4P_Connector",
+  "category": "connector",
+  "connectorRef": "BI18",
+  "physicalIds": [
+    "BI18"
+  ],
+  "name": "Fuel Tank Unit 4P Connector",
+  "nameRu": "Разъём Fuel Tank Unit, 4 контактов",
+  "type": "DirectCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 4,
+  "faceviewPart": "91765-SNA -0030-H1",
+  "partNumbers": [
+    "91765-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Left Side)"
+  ],
+  "systems": [
+    "Fuel Supply System",
+    "Gauges",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91765-SNA -0030-H1.svg",
+    "viewBox": "0 0 77.152 79.983",
+    "width": 77.152,
+    "height": 79.983
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "FUEL_PUMP_RLY_OUT",
+      "english": "fuel, pump, relay, output",
+      "russian": "топливо, насос, реле, выход",
+      "terminal": "F12A",
+      "geometry": {
+        "x": 19.241,
+        "y": 31.563,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "FUEL_GAGE+",
+      "english": "fuel, GAGE +",
+      "russian": "топливо, GAGE +",
+      "terminal": "F11B",
+      "geometry": {
+        "x": 53.216,
+        "y": 31.563,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(FLOOR)",
+      "english": "Ground (FLOOR)",
+      "russian": "Масса (FLOOR)",
+      "terminal": "Z60C",
+      "geometry": {
+        "x": 19.241,
+        "y": 65.538,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "FUEL_GAGE-",
+      "english": "fuel, GAGE -",
+      "russian": "топливо, GAGE -",
+      "terminal": "F13D",
+      "geometry": {
+        "x": 53.216,
+        "y": 65.538,
+        "svgTextId": "SVGID_4_"
+      }
+    }
+  ]
+}

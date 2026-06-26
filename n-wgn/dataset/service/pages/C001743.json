@@ -1,0 +1,44 @@
+{
+  "id": "C001743",
+  "title": "Vehicle Stability Assist (VSA) System Structure Description - Brake Assist Control",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001743",
+  "assets": [
+    "1743_3.0_jpn_11114102_3.0_disp.png",
+    "1743_3.0_jpn_11114103_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Vehicle Stability Assist (VSA) System Structure Description - Brake Assist Control"
+    },
+    {
+      "type": "paragraph",
+      "text": "Braking operation is constantly monitored by the master pressure sensor, and when the depressing speed and amount of depressing exceeds a predetermined value, it is judged to be an emergency brake. When an emergency brake is detected, the VSA modulator control unit increases the braking force and shortens the braking distance compared to normal braking."
+    },
+    {
+      "type": "figure",
+      "asset": "1743_3.0_jpn_11114102_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1743_3.0_jpn_11114103_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001743_jpn/web/html/C001743_jpn_Content.html",
+  "inOutline": true
+}

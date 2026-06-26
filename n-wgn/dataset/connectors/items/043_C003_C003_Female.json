@@ -1,0 +1,215 @@
+{
+  "id": "043_C003_C003_Female",
+  "category": "connector",
+  "connectorRef": "C003",
+  "physicalIds": [
+    "C003"
+  ],
+  "name": "C003 (Female)",
+  "nameRu": "Разъём C003, гнездовая часть",
+  "type": "ShortCoupler",
+  "pinCount": 12,
+  "populatedPinCount": 8,
+  "faceviewPart": "91960-SHJ -0030-H1",
+  "partNumbers": [
+    "91960-SHJ -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Audio System",
+    "Auto Idle Stop System",
+    "B-CAN Communication Line",
+    "Climate Control",
+    "Energy Management System",
+    "Fog Lights",
+    "Gauges",
+    "Headlight Leveling System",
+    "Headlights",
+    "Junction Connectors",
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91960-SHJ -0030-H1.svg",
+    "viewBox": "0 0 170.584 74.32",
+    "width": 170.584,
+    "height": 74.32
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 12.163,
+        "y": 34.894,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 40.476,
+        "y": 34.894,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "B-CAN_H",
+      "english": "B-CAN high line",
+      "russian": "Высокая линия B-CAN",
+      "terminal": "X50C",
+      "geometry": {
+        "x": 68.788,
+        "y": 34.894,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "B-CAN_H",
+      "english": "B-CAN high line",
+      "russian": "Высокая линия B-CAN",
+      "terminal": "X50D",
+      "geometry": {
+        "x": 97.101,
+        "y": 34.894,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "B-CAN_H",
+      "english": "B-CAN high line",
+      "russian": "Высокая линия B-CAN",
+      "terminal": "X50E000",
+      "geometry": {
+        "x": 125.414,
+        "y": 34.894,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "B-CAN_H",
+      "english": "B-CAN high line",
+      "russian": "Высокая линия B-CAN",
+      "terminal": "X50F001",
+      "geometry": {
+        "x": 153.726,
+        "y": 34.894,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 12.163,
+        "y": 63.208,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 40.476,
+        "y": 63.208,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "B-CAN_L",
+      "english": "B-CAN low line",
+      "russian": "Низкая линия B-CAN",
+      "terminal": "X60J000",
+      "geometry": {
+        "x": 68.788,
+        "y": 63.208,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "B-CAN_L",
+      "english": "B-CAN low line",
+      "russian": "Низкая линия B-CAN",
+      "terminal": "X60K",
+      "geometry": {
+        "x": 94.876,
+        "y": 63.208,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "B-CAN_L",
+      "english": "B-CAN low line",
+      "russian": "Низкая линия B-CAN",
+      "terminal": "X60L",
+      "geometry": {
+        "x": 123.189,
+        "y": 63.208,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "B-CAN_L",
+      "english": "B-CAN low line",
+      "russian": "Низкая линия B-CAN",
+      "terminal": "X60M",
+      "geometry": {
+        "x": 151.501,
+        "y": 63.208,
+        "svgTextId": "SVGID_12_"
+      }
+    }
+  ]
+}

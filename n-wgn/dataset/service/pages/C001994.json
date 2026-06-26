@@ -1,0 +1,68 @@
+{
+  "id": "C001994",
+  "title": "Exterior Light Structure Description - Overview",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001994",
+  "assets": [
+    "1994_3.0_jpn_11391136_2.0_disp.png",
+    "1994_3.0_jpn_11391137_2.0_disp.png",
+    "1994_3.0_jpn_11391138_2.0_disp.png",
+    "1994_3.0_jpn_11391139_2.0_disp.png",
+    "1994_3.0_jpn_11391140_2.0_disp.png",
+    "1994_3.0_jpn_11391141_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Exterior Light Structure Description - Overview"
+    },
+    {
+      "type": "paragraph",
+      "text": "The low-beam headlights use halogen bulbs or discharge lamps, depending on the specifications. The taillights are integrated with the taillight, brake light, rear turn signal light, and back light."
+    },
+    {
+      "type": "paragraph",
+      "text": "The auto light system automatically turns position lights and headlights on and off according to ambient illumination. The auto light control unit/sensor determines whether to turn the lights on or off based on the illuminance information from the sensor and the vehicle speed signal, and sends the on/off signal to the MICU via B-CAN communication to control the position lights and headlights."
+    },
+    {
+      "type": "figure",
+      "asset": "1994_3.0_jpn_11391136_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1994_3.0_jpn_11391137_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1994_3.0_jpn_11391138_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1994_3.0_jpn_11391139_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1994_3.0_jpn_11391140_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1994_3.0_jpn_11391141_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001994_jpn/web/html/C001994_jpn_Content.html",
+  "inOutline": true
+}

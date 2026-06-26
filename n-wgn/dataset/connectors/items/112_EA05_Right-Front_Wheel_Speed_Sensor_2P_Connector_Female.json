@@ -1,0 +1,64 @@
+{
+  "id": "112_EA05_Right-Front_Wheel_Speed_Sensor_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA05",
+  "physicalIds": [
+    "EA05"
+  ],
+  "name": "Right-Front Wheel Speed Sensor 2P Connector (Female)",
+  "nameRu": "Разъём правый-передний Wheel Speed датчик, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91982-SKN -0030-H1",
+  "partNumbers": [
+    "91982-SKN -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91982-SKN -0030-H1.svg",
+    "viewBox": "0 0 68.658 37.514",
+    "width": 68.658,
+    "height": 37.514
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "RED",
+      "circuit": "FR_R_ABS_SNSR+",
+      "english": "front, right, ABS, SNSR +",
+      "russian": "передний, правый, ABS, SNSR +",
+      "terminal": "A18A",
+      "geometry": {
+        "x": 17.825,
+        "y": 25.901,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "FR_R_ABS_SNSR-",
+      "english": "front, right, ABS, SNSR -",
+      "russian": "передний, правый, ABS, SNSR -",
+      "terminal": "A19B",
+      "geometry": {
+        "x": 46.138,
+        "y": 25.901,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

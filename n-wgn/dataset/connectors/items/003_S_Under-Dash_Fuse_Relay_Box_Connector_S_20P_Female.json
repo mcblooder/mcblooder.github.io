@@ -1,0 +1,358 @@
+{
+  "id": "003_S_Under-Dash_Fuse_Relay_Box_Connector_S_20P_Female",
+  "category": "connector",
+  "connectorRef": "S / BD28",
+  "physicalIds": [
+    "BD28"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector S (20P), гнездовая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 20,
+  "populatedPinCount": 12,
+  "faceviewPart": "91951-S7A -0030-H1",
+  "partNumbers": [
+    "91951-S7A -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)",
+    "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Back Side"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "A/T Interlock System",
+    "Accessory Power Socket",
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "Audio System",
+    "Auto Idle Stop System",
+    "Back-Up Lights",
+    "Brake Lights",
+    "Charging System",
+    "City-Brake Active System",
+    "Climate Control",
+    "Cruise Control",
+    "CVT Control System",
+    "Dashlights",
+    "Energy Management System",
+    "Entry Light Control System",
+    "EPS",
+    "EVAP System",
+    "Fans",
+    "Fog Lights",
+    "Fuel Supply System",
+    "Gauges",
+    "Headlight Leveling System",
+    "Headlights",
+    "Idle Control System",
+    "Ignition System",
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "MIL Circuit",
+    "PCM (All)",
+    "PCM Power and Ground",
+    "PGM-FI System",
+    "Power Mirrors",
+    "Power Supply",
+    "Power Windows",
+    "Power, Grounds and Diagnostics",
+    "Rear Window/Power Mirror Defoggers",
+    "SRS",
+    "Starting System",
+    "VSA",
+    "Wiper/Washer (Rear Window)",
+    "Wiper/Washer (Windshield)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91951-S7A -0030-H1.svg",
+    "viewBox": "0 0 220.708 57.908",
+    "width": 220.708,
+    "height": 57.908
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "START_SW_IND1",
+      "english": "START, switch, IND1",
+      "russian": "START, выключатель, IND1",
+      "terminal": "941A",
+      "geometry": {
+        "x": 8.479,
+        "y": 28.304,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 30.482,
+        "y": 28.304,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 52.485,
+        "y": 28.304,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "RED",
+      "circuit": "SS1(+)",
+      "english": "SS1,  +",
+      "russian": "SS1,  +",
+      "terminal": "939D000",
+      "geometry": {
+        "x": 74.487,
+        "y": 28.304,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 96.49,
+        "y": 28.304,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 118.494,
+        "y": 28.304,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "EXT_FR_AS-",
+      "english": "EXT, front, AS -",
+      "russian": "EXT, передний, AS -",
+      "terminal": "911G",
+      "geometry": {
+        "x": 140.496,
+        "y": 28.304,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "START_SW_ILL",
+      "english": "START, switch, ILL",
+      "russian": "START, выключатель, ILL",
+      "terminal": "942H",
+      "geometry": {
+        "x": 162.499,
+        "y": 28.304,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 184.501,
+        "y": 28.304,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "EXT_F-",
+      "english": "EXT, F -",
+      "russian": "EXT, F -",
+      "terminal": "901K",
+      "geometry": {
+        "x": 204.28,
+        "y": 28.304,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "VOUT_SLOT",
+      "english": "VOUT, SLOT",
+      "russian": "VOUT, SLOT",
+      "terminal": "953L",
+      "geometry": {
+        "x": 6.254,
+        "y": 50.304,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "DIN/DOUT",
+      "english": "DIN / DOUT",
+      "russian": "DIN / DOUT",
+      "terminal": "958M",
+      "geometry": {
+        "x": 28.257,
+        "y": 50.304,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "DCK",
+      "english": "DCK",
+      "russian": "DCK",
+      "terminal": "959N",
+      "geometry": {
+        "x": 50.26,
+        "y": 50.304,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 72.263,
+        "y": 50.304,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 94.266,
+        "y": 50.304,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 116.269,
+        "y": 50.304,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "RED",
+      "circuit": "EXT_FR_AS+",
+      "english": "EXT, front, AS +",
+      "russian": "EXT, передний, AS +",
+      "terminal": "910T",
+      "geometry": {
+        "x": 138.271,
+        "y": 50.304,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "SS2(-)",
+      "english": "SS2,  -",
+      "russian": "SS2,  -",
+      "terminal": "940W",
+      "geometry": {
+        "x": 160.274,
+        "y": 50.304,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "AS_REQ_SW",
+      "english": "AS, REQ, switch",
+      "russian": "AS, REQ, выключатель",
+      "terminal": "969X",
+      "geometry": {
+        "x": 182.277,
+        "y": 50.304,
+        "svgTextId": "SVGID_19_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "EXT_F+",
+      "english": "EXT, F +",
+      "russian": "EXT, F +",
+      "terminal": "900Y",
+      "geometry": {
+        "x": 204.28,
+        "y": 50.304,
+        "svgTextId": "SVGID_20_"
+      }
+    }
+  ]
+}

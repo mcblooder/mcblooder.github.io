@@ -1,0 +1,104 @@
+{
+  "id": "141_BD01_Air_Mix_Control_Motor_5P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD01",
+  "physicalIds": [
+    "BD01"
+  ],
+  "name": "Air Mix Control Motor 5P Connector (Female)",
+  "nameRu": "Разъём Air Mix Control электродвигатель, 5 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 5,
+  "populatedPinCount": 5,
+  "faceviewPart": "98680-00005-00",
+  "partNumbers": [
+    "98680-00005-00"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Climate Control"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/98680-00005-00.svg",
+    "viewBox": "0 0 142.271 46.008",
+    "width": 142.271,
+    "height": 46.008
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "SENSER_COM",
+      "english": "sensor, common",
+      "russian": "датчик, общий",
+      "terminal": "331A000",
+      "geometry": {
+        "x": 12.163,
+        "y": 34.394,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "AMD-P",
+      "english": "AMD-P",
+      "russian": "AMD-P",
+      "terminal": "326B",
+      "geometry": {
+        "x": 40.476,
+        "y": 34.394,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "S_5V",
+      "english": "S, 5V",
+      "russian": "S, 5V",
+      "terminal": "330C",
+      "geometry": {
+        "x": 68.789,
+        "y": 34.394,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "M-COOL",
+      "english": "M-COOL",
+      "russian": "M-COOL",
+      "terminal": "325D",
+      "geometry": {
+        "x": 97.102,
+        "y": 34.394,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "ORN",
+      "circuit": "M-HOT",
+      "english": "M-HOT",
+      "russian": "M-HOT",
+      "terminal": "324E",
+      "geometry": {
+        "x": 125.414,
+        "y": 34.394,
+        "svgTextId": "SVGID_5_"
+      }
+    }
+  ]
+}

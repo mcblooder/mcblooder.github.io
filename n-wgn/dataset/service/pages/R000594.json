@@ -1,0 +1,90 @@
+{
+  "id": "R000594",
+  "title": "Inspect differential case bearing side clearances.",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM differential",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000594",
+  "assets": [
+    "594_4.0_jpn_11582451_4.0_disp.png",
+    "594_4.0_jpn_11582452_4.0_disp.png",
+    "594_4.0_jpn_11582453_4.0_disp.png",
+    "594_4.0_jpn_11582454_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect differential case bearing side clearances."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Set Ring Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "594_4.0_jpn_11582451_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the set ring (A) in the transmission case. When replacing the set ring, install and adjust a set ring of the same thickness as the installed set ring."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Differential Assy. installation"
+    },
+    {
+      "type": "figure",
+      "asset": "594_4.0_jpn_11582452_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the differential assembly. Securely install the differential assembly to the transmission case with the 40 inner driver handle."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Torque converter case mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "594_4.0_jpn_11582453_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the knock pin (A). Install the torque converter case and tighten the mounting bolts two to three times. Place the transmission case side up. If the input shaft and driven pulley shaft are attached, place the torque converter case on a stand to avoid damaging the shaft end."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Differential Case Bearing Side Clearance Check"
+    },
+    {
+      "type": "figure",
+      "asset": "594_4.0_jpn_11582454_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Measure the side clearance between the set ring (A) and the differential case bearing (B) with a Thickness Gauge (C). Clearance standard value: 0-0.15mm If the clearance is out of the standard value, remove the set ring, measure the thickness, and select a set ring from the table to install so that the clearance is within the standard value. Set Ring 77mm No. Thickness (mm) 1 1.5 2 1.6 3 1.7 4 1.8 5 1.9 6 2.0 If the set ring is replaced, inspect the clearance again."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000594_jpn/web/html/R000594_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,124 @@
+{
+  "id": "C002119",
+  "title": "SRS airbag system structure description - Pretensioner ELR seat belt with load limiter",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Seat Belt",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002119",
+  "assets": [
+    "2119_3.0_jpn_11188933_3.0_disp.png",
+    "2119_3.0_jpn_11188934_3.0_disp.png",
+    "2119_3.0_jpn_11188936_3.0_disp.png",
+    "2119_3.0_jpn_11188937_3.0_disp.png",
+    "2119_3.0_jpn_11188938_3.0_disp.png",
+    "2119_3.0_jpn_11188939_3.0_disp.png",
+    "2119_3.0_jpn_11188941_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "SRS airbag system structure description - Pretensioner ELR seat belt with load limiter"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "The pretensioner ELR with load limiter consists of a gas generator, ring gear, pinion, ELR locking section and spool. When the pretensioner is activated, it instantly engages the seat belt to further enhance the initial restraint effect (preventing the body from moving forward) of the occupant. The load limiter also reduces chest injury to the occupant by ejecting the belt while maintaining the restraint effect when a load above a certain level is applied to the seat belt."
+    },
+    {
+      "type": "figure",
+      "asset": "2119_3.0_jpn_11188933_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2119_3.0_jpn_11188934_3.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "A:",
+          "Winding spring section"
+        ],
+        [
+          "",
+          "B:",
+          "Pre-tensioner section"
+        ],
+        [
+          "",
+          "C:",
+          "Seat belt winding and load limiter section"
+        ],
+        [
+          "",
+          "D:",
+          "ELR lock section"
+        ]
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Gas pressure from the gas generator causes the ball to pass through the pipe and push the ring gear. At this time, the ring gear is connected to the pinion."
+    },
+    {
+      "type": "figure",
+      "asset": "2119_3.0_jpn_11188936_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. The passage of the ball rotates the ring gear, which in turn rotates the connected pinion. The spool directly connected to the pinion rotates to wind the seat belt."
+    },
+    {
+      "type": "figure",
+      "asset": "2119_3.0_jpn_11188937_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "3. The rapid ejection of the seat belt activates the locking mechanism of the ELR, causing the pawl to engage the frame gear. This locks the locking base and its integral torsion bar and spool."
+    },
+    {
+      "type": "figure",
+      "asset": "2119_3.0_jpn_11188938_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "4. When a specified load is applied to the seat belt with the locking base locked, the torsion bar is twisted, the spool rotates, and the seat belt is ejected."
+    },
+    {
+      "type": "figure",
+      "asset": "2119_3.0_jpn_11188939_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "5. As the seat belt is eased out, the ring gear pushes back the ball, releasing the ring gear from the pinion."
+    },
+    {
+      "type": "figure",
+      "asset": "2119_3.0_jpn_11188941_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002119_jpn/web/html/C002119_jpn_Content.html",
+  "inOutline": true
+}

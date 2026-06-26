@@ -1,0 +1,190 @@
+{
+  "id": "E001622",
+  "title": "Overall Circuit Diagram",
+  "category": "service",
+  "packageKind": "EWD",
+  "packageKindName": "Electrical Wiring (manual)",
+  "section": "NA",
+  "sectionCode": "0",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/E001622",
+  "assets": [
+    "1622_5.0_jpn_11589168_4.0_disp.png",
+    "1622_5.0_jpn_11589169_4.0_disp.png",
+    "1622_5.0_jpn_11589170_4.0_disp.png",
+    "1622_5.0_jpn_11589173_4.0_disp.png",
+    "1622_5.0_jpn_11589176_4.0_disp.png",
+    "1622_5.0_jpn_11589185_4.0_disp.png",
+    "1622_5.0_jpn_11589188_4.0_disp.png",
+    "1622_5.0_jpn_11589190_4.0_disp.png",
+    "1622_5.0_jpn_11589192_4.0_disp.png",
+    "1622_5.0_jpn_11589195_4.0_disp.png",
+    "1622_5.0_jpn_11589198_4.0_disp.png",
+    "1622_5.0_jpn_11678040_3.0_disp.png",
+    "1622_5.0_jpn_11678041_3.0_disp.png",
+    "1622_5.0_jpn_11678042_3.0_disp.png",
+    "1622_5.0_jpn_11678043_3.0_disp.png",
+    "1622_5.0_jpn_11678044_3.0_disp.png",
+    "1622_5.0_jpn_11678045_3.0_disp.png",
+    "1622_5.0_jpn_11678046_3.0_disp.png",
+    "1622_5.0_jpn_11678047_3.0_disp.png",
+    "1622_5.0_jpn_11678048_3.0_disp.png",
+    "1622_5.0_jpn_11678049_3.0_disp.png",
+    "1622_5.0_jpn_11678050_3.0_disp.png",
+    "1622_5.0_jpn_11678051_3.0_disp.png",
+    "1622_5.0_jpn_11678052_3.0_disp.png",
+    "1622_5.0_jpn_11678053_3.0_disp.png",
+    "1622_5.0_jpn_11678054_3.0_disp.png",
+    "1622_5.0_jpn_11678055_3.0_disp.png",
+    "1622_5.0_jpn_11678056_3.0_disp.png",
+    "1622_5.0_jpn_11678057_3.0_disp.png",
+    "1622_5.0_jpn_11678058_3.0_disp.png",
+    "1622_5.0_jpn_11678059_3.0_disp.png",
+    "1622_5.0_jpn_11678060_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Overall Circuit Diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11589168_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11589169_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11589170_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678040_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678041_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11589173_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678042_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678043_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11589176_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678044_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678045_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678046_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678047_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678048_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678049_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678050_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678051_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11589185_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678052_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678053_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11589188_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678054_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11589190_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678055_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11589192_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678056_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678057_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11589195_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678058_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678059_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11589198_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1622_5.0_jpn_11678060_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_EWD_20131205174154/Contents/jpn/60T6GD00_2014/EWD/SCT/SC/SYS/E001622_jpn/web/html/E001622_jpn_Content.html",
+  "inOutline": true
+}

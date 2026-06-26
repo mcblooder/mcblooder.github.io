@@ -1,0 +1,105 @@
+{
+  "id": "206_EC31_MAF_Sensor_IAT_Sensor_5P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC31",
+  "physicalIds": [
+    "EC31"
+  ],
+  "name": "MAF Sensor/IAT Sensor 5P Connector (Female)",
+  "nameRu": "Разъём MAF датчик/IAT датчик, 5 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 5,
+  "populatedPinCount": 4,
+  "faceviewPart": "91705-RTA -0030-H1",
+  "partNumbers": [
+    "91705-RTA -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)"
+  ],
+  "systems": [
+    "PCM (All)",
+    "PGM-FI System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91705-RTA -0030-H1.svg",
+    "viewBox": "0 0 110.162 27.554",
+    "width": 110.162,
+    "height": 27.554
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "RED",
+      "circuit": "PB_TC",
+      "english": "PB, TC",
+      "russian": "PB, TC",
+      "terminal": "E86A",
+      "geometry": {
+        "x": 11.422,
+        "y": 18.988,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "SO2TSG",
+      "english": "SO2TSG",
+      "russian": "SO2TSG",
+      "terminal": "Z27B001",
+      "geometry": {
+        "x": 32.073,
+        "y": 18.988,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 52.725,
+        "y": 18.988,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "VCC1",
+      "english": "VCC1",
+      "russian": "VCC1",
+      "terminal": "D45D",
+      "geometry": {
+        "x": 73.378,
+        "y": 18.988,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "TA_TC",
+      "english": "TA, TC",
+      "russian": "TA, TC",
+      "terminal": "E91E",
+      "geometry": {
+        "x": 94.028,
+        "y": 18.988,
+        "svgTextId": "SVGID_5_"
+      }
+    }
+  ]
+}

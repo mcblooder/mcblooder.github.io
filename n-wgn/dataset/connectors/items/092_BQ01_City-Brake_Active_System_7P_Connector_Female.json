@@ -1,0 +1,135 @@
+{
+  "id": "092_BQ01_City-Brake_Active_System_7P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BQ01",
+  "physicalIds": [
+    "BQ01"
+  ],
+  "name": "City-Brake Active System 7P Connector (Female)",
+  "nameRu": "Разъём система предотвращения столкновений City-Brake, 7 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 7,
+  "populatedPinCount": 4,
+  "faceviewPart": "98680-00007-00",
+  "partNumbers": [
+    "98680-00007-00"
+  ],
+  "harnesses": [
+    "32155-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Roof"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "City-Brake Active System",
+    "F-CAN Communication Line",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/98680-00007-00.svg",
+    "viewBox": "0 0 198.896 46.008",
+    "width": 198.896,
+    "height": 46.008
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 12.163,
+        "y": 34.394,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 40.476,
+        "y": 34.394,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "RED",
+      "circuit": "F-CAN_L",
+      "english": "F-CAN low line",
+      "russian": "Низкая линия F-CAN",
+      "terminal": "X80C",
+      "geometry": {
+        "x": 68.789,
+        "y": 34.394,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "F-CAN_H",
+      "english": "F-CAN high line",
+      "russian": "Высокая линия F-CAN",
+      "terminal": "X70D",
+      "geometry": {
+        "x": 97.101,
+        "y": 34.394,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "IG1_VSA/ABS",
+      "english": "ignition IG1, VSA / ABS",
+      "russian": "зажигание IG1, VSA / ABS",
+      "terminal": "G17E000",
+      "geometry": {
+        "x": 125.414,
+        "y": 34.394,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 153.727,
+        "y": 34.394,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z30G",
+      "geometry": {
+        "x": 182.039,
+        "y": 34.394,
+        "svgTextId": "SVGID_7_"
+      }
+    }
+  ]
+}

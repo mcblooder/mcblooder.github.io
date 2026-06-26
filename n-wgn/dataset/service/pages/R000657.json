@@ -1,0 +1,119 @@
+{
+  "id": "R000657",
+  "title": "Wheel inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "suspension",
+  "sectionCode": "B",
+  "subsection": "Wheels tires",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000657",
+  "assets": [
+    "657_3.0_jpn_11035674_3.0_disp.png",
+    "657_3.0_jpn_11035675_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Set",
+      "resolved": true
+    },
+    {
+      "id": "R000656",
+      "label": "Inspect the wheel bearings.",
+      "resolved": true
+    },
+    {
+      "id": "R000659",
+      "label": "Replace wheels.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Wheel inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Set",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Set",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Wheel runout inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "657_3.0_jpn_11035674_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "657_3.0_jpn_11035675_3.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "When measuring the runout of a wheel on the drive wheel, rotate the wheel on the opposite side of the wheel to be measured."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Jack up the vehicle to lift the wheels. Turn the wheel slowly by hand and inspect for abnormal runout in the longitudinal direction at the tire periphery and in the transverse direction at the sidewalls. Release the parking brake when inspecting the rear wheel. Place the dial gauge on the rim of the wheel. Inspect the front and rear wheels for runout by turning the wheels slowly by hand. Wheel rim runout:. Steel wheels Reference value Sideways Vibration: (1) 0－0.7mm Vertical Vertical Vertical Vibration 0－0.5mm Limit value: 1 Sideways Vibration: (1) 2.0mm Vertical Vertical Vertical Vibration 1.5mm Aluminum wheels Reference value Sideways Vibration: (1) 0－0.3mm Vertical Vertical Vertical Vibration 0－0.3mm Limit value: 1 Sideways Vibration: (1) 2.0mm Vertical Vertical Vertical Vibration 1.5mm If the measurement result is out of the standard value, check that there is no adhesion on the mating surface of the wheel and brake disc or brake drum, Inspect the wheel bearings. If the wheel bearing end free play is within the standard value, Replace wheels.",
+      "refs": [
+        {
+          "id": "R000656",
+          "label": "Inspect the wheel bearings.",
+          "resolved": true
+        },
+        {
+          "id": "R000659",
+          "label": "Replace wheels.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When jacking up the front wheels, be sure to apply the parking brake and secure the wheels to the rear wheels.",
+        "When jacking up the rear wheels, be sure to use wheel stops on the front wheels."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When jacking up the front wheels, be sure to apply the parking brake and secure the wheels to the rear wheels."
+        },
+        {
+          "text": "When jacking up the front wheels, be sure to apply the parking brake and secure the wheels to the rear wheels."
+        },
+        {
+          "text": "When jacking up the rear wheels, be sure to use wheel stops on the front wheels."
+        },
+        {
+          "text": "When jacking up the rear wheels, be sure to use wheel stops on the front wheels."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000657_jpn/web/html/R000657_jpn_Content.html",
+  "inOutline": true
+}

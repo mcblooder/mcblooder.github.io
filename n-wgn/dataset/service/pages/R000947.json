@@ -1,0 +1,73 @@
+{
+  "id": "R000947",
+  "title": "Removal and installation of Honda Smart LF antenna (rear bumper)",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000947",
+  "assets": [
+    "947_3.0_jpn_11287900_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000816",
+      "label": "Rear bumper removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removal and installation of Honda Smart LF antenna (rear bumper)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear bumper removal",
+      "refs": [
+        {
+          "id": "R000816",
+          "label": "Rear bumper removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear bumper LF antenna removal"
+    },
+    {
+      "type": "figure",
+      "asset": "947_3.0_jpn_11287900_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Remove the rear bumper LF antenna (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000947_jpn/web/html/R000947_jpn_Content.html",
+  "inOutline": true
+}

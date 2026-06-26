@@ -1,0 +1,120 @@
+{
+  "id": "A002195",
+  "title": "DTC Explanation: P15C9",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A002195",
+  "assets": [
+    "2195_3.0_jpn_11240543_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P15C9"
+    },
+    {
+      "type": "dtc",
+      "code": "",
+      "text": "DTC P15C9: Master Power negative pressure sensor A characteristic error (sticking)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "2195_3.0_jpn_11240543_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI ECU calculates the negative pressure in the master power based on the output voltage of the master power negative pressure sensor and determines whether idling stop is permitted. If the master power negative pressure sensor value does not change when the vehicle repeats stop→run→stop (a situation in which the master power negative pressure consumption due to brake operation or the negative pressure supply from the negative pressure supply source causes fluctuations) a predetermined number of times, the PGM-FI ECU judges a failure and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*: Idling stop system warning light (orange) illuminates D/C: Drive Cycle"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "[ ]: HDS Parameters"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the master power negative pressure sensor value does not change by 1 kPa (9 mmHg) or more when the vehicle speed [vehicle speed] changes from 0 km/h to 30 km/h to 0 km/h five times repeatedly due to consumption of master power negative pressure by brake operation or negative pressure supply from the negative pressure supply source."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Check Valve blockage"
+        },
+        {
+          "text": "Master Power Vacuum Hose leaking or blocked"
+        },
+        {
+          "text": "Master Power negative pressure sensor failure"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to be faulty, the idling stop system warning light (orange) will illuminate without the brake warning light (orange) and the temporary DTC, DTC and freeze data will be stored in the PGM-FI ECU memory."
+    },
+    {
+      "type": "paragraph",
+      "text": "If no vehicle malfunction is detected in the next ignition ON mode, the Idle Stop System warning light (orange) will turn off. The temporary DTCs, DTCs and freeze data are cleared by using the clear command of the scan tool (including HDS) or by disconnecting the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A002195_jpn/web/html/A002195_jpn_Content.html",
+  "inOutline": true
+}

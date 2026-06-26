@@ -1,0 +1,128 @@
+{
+  "id": "C002017",
+  "title": "Combination Meter Structure Description - Control/Function",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "meter",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002017",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Combination Meter Structure Description - Control/Function"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Speedometer, tachometer"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI ECU receives information from the F-CAN and drives the stepping motor to display vehicle speed and engine RPM. The stepping motor is driven by IG1 power and constant power (+B). When the ignition switch is in the ON mode, the stepping motor is driven by the IG1 power supply, and when the ignition switch is in the OFF (LOCK) mode, the stepping motor is driven by the constant power supply to return the pointer to the 0 position."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fuel meter, fuel level warning light"
+    },
+    {
+      "type": "paragraph",
+      "text": "The fuel meter displays on the information display based on the input value from the fuel sender unit in the fuel tank; information from the PGM-FI ECU is received from the F-CAN to correct the displayed value when parking on an incline, for example. The fuel level warning light illuminates when the indicated value of the fuel meter falls below the lighted tank capacity. If the input from the fuel sender unit is outside the specified range, the fuel meter indication value is set to the lowest value and the fuel level warning light blinks to indicate the abnormality."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Low water temperature indicator light, high water temperature warning light"
+    },
+    {
+      "type": "paragraph",
+      "text": "Receives information from the PGM-FI ECU from F-CAN and turns on or blinks the LED. The low water temperature indicator light turns off when the engine water temperature is above 53°C and turns on again when the engine water temperature is below 42°C. The high water temperature warning light blinks when the engine water temperature is 118-123°C, illuminates when the engine water temperature is 124°C or higher, and turns off when the engine water temperature falls below 116°C."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Odometer/Trip meter"
+    },
+    {
+      "type": "paragraph",
+      "text": "Information from the PGM-FI ECU is received from the F-CAN and the distance traveled is displayed on the information display."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Information Display"
+    },
+    {
+      "type": "paragraph",
+      "text": "The information display shows the odometer/trip meter, outside temperature, average fuel consumption, remaining range, instantaneous fuel consumption, and the status of the Honda smart key system. In addition, the display shows communication errors and DTCs for diagnostic purposes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Average fuel economy, instantaneous fuel economy, cruising range"
+    },
+    {
+      "type": "paragraph",
+      "text": "Information from the PGM-FI ECU is received from the F-CAN, and the average fuel consumption, instantaneous fuel consumption, and cruising range are displayed on the information display based on results calculated from fuel consumption, vehicle speed, engine rpm, distance traveled, and remaining fuel level."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Outside temperature display"
+    },
+    {
+      "type": "paragraph",
+      "text": "The outside temperature signal from the outside temperature sensor input or from the auto A/C control unit is received from B-CAN and displayed on the information display. The outside temperature display is corrected by the engine water temperature and vehicle speed. When the displayed value falls below 3°C, an interruption is displayed. If the temperature is already below 3°C when the ignition is in the ON mode, the displayed value blinks 10 times to indicate a drop in temperature. A customizable function allows the displayed value to be corrected between -3°C and +3°C."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Shift position indicator"
+    },
+    {
+      "type": "paragraph",
+      "text": "Receives information from the PGM-FI ECU via F-CAN and displays the shift position."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Warning and indicator lights"
+    },
+    {
+      "type": "paragraph",
+      "text": "Receives information from other control units via F-CAN or B-CAN and turns on or blinks the LED. In addition to information from the F-CAN, the brake warning light is activated by inputs from the brake fluid level switch and parking brake switch. Turn Signal Indicator flashes upon receiving a signal from the MICU."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Honda Smart Key System Display"
+    },
+    {
+      "type": "paragraph",
+      "text": "Information from the smart ECU is received from B-CAN and displayed on the information display."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "ECON Display"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the ECON switch is pressed, the ECON indicator light is turned on; the ON signal from the ECON switch is sent to the PGM-FI ECU by F-CAN and to the auto A/C control unit by B-CAN. The PGM-FI ECU calculates fuel consumption information based on the information from each sensor (vehicle speed, fuel injection, distance traveled, cooling water temperature, etc.) and sends a signal to the combination meter to change the color tone of the ECO ring. The color tone changes to blue, blue/green, or green depending on the situation."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002017_jpn/web/html/C002017_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,212 @@
+{
+  "id": "T002259",
+  "title": "CITY BRAKE ACTIVE How to proceed with system fault diagnosis",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Speed/body control",
+  "system": "City Brake Active System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002259",
+  "assets": [
+    "2259_3.0_jpn_11289186_2.0_disp.png",
+    "2259_3.0_jpn_11289187_2.0_disp.png",
+    "2259_3.0_jpn_11289188_2.0_disp.png",
+    "2259_3.0_jpn_11316871_2.0_disp.png",
+    "2259_3.0_jpn_11316872_2.0_disp.png",
+    "2259_3.0_jpn_11316873_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "T002567",
+      "label": "Inspect data link circuits",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "CITY BRAKE ACTIVE How to proceed with system fault diagnosis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before starting failure diagnosis, freeze data and on-board snapshot information should be stored in HDS to confirm how to proceed with failure diagnosis."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Inquire the user about the condition or conditions under which the failure occurred, and try to reproduce the same situation."
+        },
+        {
+          "text": "If the system abnormality is not reproduced after a test run and the warning light does not come on, a transient failure due to poor coupler contact, etc. may be the cause, and the coupler connection should be inspected before performing failure diagnosis."
+        },
+        {
+          "text": "After the repair is completed, clear the DTC and test drive the vehicle under the conditions where the malfunction occurred. Verify that the city brake active system warning light and brake warning light (amber) do not illuminate again."
+        },
+        {
+          "text": "Even if the City Brake Active System is normal, the operation of the City Brake Active System will be temporarily suspended due to the environment surrounding the system (weather, road surface conditions, and driving conditions). In these cases, a malfunction may be detected and an Auto Cancel History may be stored. The Auto Cancel History is stored in the City Brake Active System radar/control unit and can be retrieved from the History Data in the City Brake Active System menu in HDS."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The City Brake Active System radar/control unit transmits and receives data between other control system units via a CAN-based multiple communication system. If there is a system failure associated with the City Brake Active System or an error in communication between systems, the City Brake Active System control will stop even if the City Brake Active System radar/control unit is normal. Other system warning lights and the City Brake Active System warning light will illuminate."
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Connect HDS to the data link coupler (A) located in the driver's seat. 2. Turn ignition to ON mode. 3. Ensure that HDS communicates with the vehicle and the City Brake Active System radar/control unit. If not communicating, Inspect data link circuits Do. 4. Check DTC (Diagnostic Trouble Code) and freeze data displayed on HDS. 5. Turn ignition OFF (LOCK) mode. 6. Remove the HDS from the data link coupler.",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "Inspect data link circuits",
+          "resolved": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2259_3.0_jpn_11289186_2.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For information on the use of HDS, refer to the HDS instruction manual."
+        },
+        {
+          "text": "HDS can display various ECU data such as freeze data and snapshots."
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Connect HDS to the data link coupler (A) located in the driver's seat. 2. Turn ignition to ON mode. 3. Ensure that HDS communicates with the vehicle and the City Brake Active System radar/control unit. If not communicating, Inspect data link circuits Do. 4. Clear DTC with HDS. 5. Turn ignition OFF (LOCK) mode. 6. Remove the HDS from the data link coupler.",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "Inspect data link circuits",
+          "resolved": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2259_3.0_jpn_11289187_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "If an abnormality is detected in self-diagnosis, the following control is performed."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If the City Brake Active System function is turned OFF (deactivated), the City Brake Active System warning light illuminates to notify that the function is OFF (deactivated)."
+        },
+        {
+          "text": "If the system is paused, the CITY BRAKE ACTIVE SYSTEM warning light will flash."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The City Brake Active System radar/control unit emits a laser beam from the main unit and receives the reflected laser beam to recognize the distance from the vehicle in front. When the distance from the vehicle in front narrows and the possibility of a rear-end collision increases, the system alerts the driver of the danger of a rear-end collision and simultaneously instructs the VSA modulator control unit to apply preload for emergency braking. When the distance from the vehicle in front becomes even closer and the system determines that emergency braking is necessary, it instructs the VSA modulator control unit to apply emergency braking."
+    },
+    {
+      "type": "paragraph",
+      "text": "City Brake Active System Perform a City Brake Active System Functional Inspection whenever the radar/control unit is replaced or removed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the City Brake Active System radar/control unit emits a laser beam through the windshield, the accuracy of the correction value is adjusted to the contamination and fogging of the windshield due to ageing. Since the correction information is recorded in the Citi Brake Active System radar/control unit, the correction values must be initialized when the front windshield is replaced or the Citi Brake Active System radar/control unit is replaced."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the City Brake Active System Radar/Control Unit is replaced with a new one, the learned values of the City Brake Active System Radar/Control Unit are automatically reset when the ignition is turned to the ON mode. Therefore, the learning may have been performed under unexpected circumstances (e.g., the sensor is not installed in the correct location). When the unit is replaced, HDS shall also be used to reset the learning value of the City Brake Active System radar/control unit."
+    },
+    {
+      "type": "paragraph",
+      "text": "The city brake active system warning light comes on when the system is normal and the ignition is in the ON mode, and goes off after 6 seconds."
+    },
+    {
+      "type": "paragraph",
+      "text": "The City Brake Active System operates in conjunction with other control units (PGM-FI system, VSA system, combination meters, etc.). If there is a system malfunction in any of these related control units, the City Brake Active System will not operate. In this case, the warning lights of the related control units, the City Brake Active System warning light, and the brake warning light (orange) will illuminate and DTCs will be stored."
+    },
+    {
+      "type": "figure",
+      "asset": "2259_3.0_jpn_11316871_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The City Brake Active System radar/control unit detects obstructions in front of the sensor. If an obstacle is detected, the City Brake Active System function is temporarily deactivated."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the system is paused, the City Brake Active System warning light will flash. The history of system function pauses is recorded in the Auto Cancel History and can be retrieved from the History Data in the City Brake Active System menu of HDS."
+    },
+    {
+      "type": "figure",
+      "asset": "2259_3.0_jpn_11316872_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The City Brake Active System radar/control unit detects an abnormal temperature rise in the unit. If an abnormal temperature rise is detected, the City Brake Active System function will be temporarily deactivated."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the system is paused, the City Brake Active System warning light will flash. The history of system function pauses is recorded in the Auto Cancel History and can be retrieved from the History Data in the City Brake Active System menu of HDS."
+    },
+    {
+      "type": "figure",
+      "asset": "2259_3.0_jpn_11316873_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Connect HDS to the data link coupler (A) located in the driver's seat. 2. Turn ignition to ON mode. 3. Ensure that HDS communicates with the vehicle and the City Brake Active System radar/control unit. 4. Select History Data in the City Brake Active System menu and check the pause history in HDS. Auto Cancel History (Pause History) Pause history detection item Status Indicators CITY BRAKE ACTIVE SYSTEM warning light Brake warning light (orange) illuminated or not Sensor Shielding Normal or with shielding history Flashing. ○ Unit temperature Normal or with high temperature history Flashing. ○ Steering Condition Normal or with unlearned history Lights up - 5. Turn ignition OFF (LOCK) mode. 6. Remove the HDS from the data link coupler. Once auto cancel history (auto stop history) is detected, the history is not deleted until DTC clearing is performed",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "Inspect data link circuits",
+          "resolved": false
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2259_3.0_jpn_11289188_2.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If not communicating, Inspect data link circuits Do.",
+          "refs": [
+            {
+              "id": "T002567",
+              "label": "Inspect data link circuits",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002259_jpn/web/html/T002259_jpn_Content.html",
+  "inOutline": true
+}

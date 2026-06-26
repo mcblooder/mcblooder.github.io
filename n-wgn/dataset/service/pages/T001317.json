@@ -1,0 +1,42 @@
+{
+  "id": "T001317",
+  "title": "Vehicle Stability Assist (VSA) System Failure Diagnostic Table by Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001317",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Vehicle Stability Assist (VSA) System Failure Diagnostic Table by Symptom"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "1.",
+          "Failure Diagnosis by Symptom ​"
+        ],
+        [
+          "2.",
+          "If the VSA Modulator Control Unit program is not up-to-date, Update to the latest program and recheck. If the program is up-to-date Replace VSA modulator control unit"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001317_jpn/web/html/T001317_jpn_Content.html",
+  "inOutline": true
+}

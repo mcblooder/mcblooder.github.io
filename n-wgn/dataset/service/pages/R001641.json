@@ -1,0 +1,338 @@
+{
+  "id": "R001641",
+  "title": "Passenger airbag removal/replacement",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "SRS",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001641",
+  "assets": [
+    "1641_3.0_jpn_11347552_2.0_disp.png",
+    "1641_3.0_jpn_11347553_2.0_disp.png",
+    "1641_3.0_jpn_11347555_2.0_disp.png",
+    "1641_3.0_jpn_11368224_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R001639",
+      "label": "Replace related parts.",
+      "resolved": true
+    },
+    {
+      "id": "R000910",
+      "label": "12V battery Negative (-) terminal Disconnect",
+      "resolved": true
+    },
+    {
+      "id": "R000783",
+      "label": "Glove box removal",
+      "resolved": true
+    },
+    {
+      "id": "R000788",
+      "label": "Instrument panel removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Passenger airbag removal/replacement"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Proceed with the work while observing work precautions. ​",
+        "Disconnect the cable from the minus (-) terminal of the 12V battery and wait at least 3 minutes before starting work."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Work shall be performed in such a way as not to damage the instrument panel."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the airbag is deployed, Replace related parts.",
+      "refs": [
+        {
+          "id": "R001639",
+          "label": "Replace related parts.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Negative (-) terminal Disconnect",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Negative (-) terminal Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Glove box removal",
+      "refs": [
+        {
+          "id": "R000783",
+          "label": "Glove box removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Passenger airbag removal"
+    },
+    {
+      "type": "figure",
+      "asset": "1641_3.0_jpn_11347552_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the insulator (A) and remove the mounting bolt (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "1641_3.0_jpn_11347553_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Insert a plastic spatula or the like near the hook hole (A) on the interior side of the instrument panel as shown in the illustration, and remove the hook (C) of the passenger side airbag (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not scratch the instrument panel hook holes.",
+        "Do not use sharp tools for removal work.",
+        "Do not scratch or deform the passenger airbag with tools."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Negative (-) terminal Disconnect",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Negative (-) terminal Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Instrument panel removal",
+      "refs": [
+        {
+          "id": "R000788",
+          "label": "Instrument panel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Proceed with the work while observing work precautions."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the airbag is deployed, Replace related parts.",
+      "refs": [
+        {
+          "id": "R001639",
+          "label": "Replace related parts.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Passenger airbag installation"
+    },
+    {
+      "type": "figure",
+      "asset": "1641_3.0_jpn_11347555_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Insert the hook of the passenger airbag into the hook hole on the instrument panel. Install the passenger airbag mounting bolts (A) and (B). Connect insulator (C)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The instrument panel shall be free of dust and foreign matter.",
+        "Do not use tools during installation. Tools may damage or deform the passenger airbag.",
+        "All hooks for the front passenger airbag shall be securely mounted in the hook holes on the instrument panel."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The instrument panel shall be free of dust and foreign matter."
+        },
+        {
+          "text": "The instrument panel shall be free of dust and foreign matter."
+        },
+        {
+          "text": "Do not use tools during installation. Tools may damage or deform the passenger airbag."
+        },
+        {
+          "text": "Do not use tools during installation. Tools may damage or deform the passenger airbag."
+        },
+        {
+          "text": "All hooks for the front passenger airbag shall be securely mounted in the hook holes on the instrument panel."
+        },
+        {
+          "text": "All hooks for the front passenger airbag shall be securely mounted in the hook holes on the instrument panel."
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The airbag mounting bolt for the front passenger seat shall be replaced with a new one at the time of installation and tightened to the specified torque."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. SRS warning light Check"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the cable to the (-) terminal of the 12V battery, turn the ignition to the ON mode, and check that the SRS warning light comes on for 6 seconds and then goes off."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Glove box mounting",
+      "refs": [
+        {
+          "id": "R000783",
+          "label": "Glove box mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Passenger airbag installation"
+    },
+    {
+      "type": "figure",
+      "asset": "1641_3.0_jpn_11368224_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Insert the hook (A) of the passenger airbag into the hook hole (B) on the instrument panel. Insert the hook (C) of the passenger airbag into the hook hole (D) in the instrument panel and install the left and right passenger airbag mounting bolts (E)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The airbag mounting bolt for the front passenger seat shall be replaced with a new one at the time of installation.",
+        "Do not scratch the instrument panel.",
+        "To avoid placing a burden on the airbag deployment area, work with a cushion or similar material underneath.",
+        "The instrument panel shall be free of dust and foreign matter.",
+        "Do not use tools during installation. Tools may damage or deform the passenger airbag.",
+        "All hooks for the front passenger airbag shall be securely mounted in the hook holes on the instrument panel."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "The airbag mounting bolt for the front passenger seat shall be replaced with a new one at the time of installation."
+        },
+        {
+          "text": "The airbag mounting bolt for the front passenger seat shall be replaced with a new one at the time of installation."
+        },
+        {
+          "text": "Do not scratch the instrument panel."
+        },
+        {
+          "text": "Do not scratch the instrument panel."
+        },
+        {
+          "text": "To avoid placing a burden on the airbag deployment area, work with a cushion or similar material underneath."
+        },
+        {
+          "text": "To avoid placing a burden on the airbag deployment area, work with a cushion or similar material underneath."
+        },
+        {
+          "text": "The instrument panel shall be free of dust and foreign matter."
+        },
+        {
+          "text": "The instrument panel shall be free of dust and foreign matter."
+        },
+        {
+          "text": "Do not use tools during installation. Tools may damage or deform the passenger airbag."
+        },
+        {
+          "text": "Do not use tools during installation. Tools may damage or deform the passenger airbag."
+        },
+        {
+          "text": "All hooks for the front passenger airbag shall be securely mounted in the hook holes on the instrument panel."
+        },
+        {
+          "text": "All hooks for the front passenger airbag shall be securely mounted in the hook holes on the instrument panel."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Instrument Panel Installation",
+      "refs": [
+        {
+          "id": "R000788",
+          "label": "Instrument Panel Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. SRS warning light Check"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the cable to the (-) terminal of the 12V battery, turn the ignition to the ON mode, and check that the SRS warning light comes on for 6 seconds and then goes off."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001641_jpn/web/html/R001641_jpn_Content.html",
+  "inOutline": true
+}

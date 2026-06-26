@@ -1,0 +1,383 @@
+{
+  "id": "073_C002_C002_Female",
+  "category": "connector",
+  "connectorRef": "C002",
+  "physicalIds": [
+    "C002"
+  ],
+  "name": "C002 (Female)",
+  "nameRu": "Разъём C002, гнездовая часть",
+  "type": "ShortCoupler",
+  "pinCount": 24,
+  "populatedPinCount": 22,
+  "faceviewPart": "91952-R9G -0030-H1",
+  "partNumbers": [
+    "91952-R9G -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Left Side)"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "Auto Idle Stop System",
+    "Charging System",
+    "Cruise Control",
+    "CVT Control System",
+    "ETCS (Electronic Throttle Control System)",
+    "Fuel Supply System",
+    "Ignition System",
+    "Junction Connectors",
+    "PCM (All)",
+    "PCM Power and Ground",
+    "PGM-FI System",
+    "Power Supply",
+    "VTC System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91952-R9G -0030-H1.svg",
+    "viewBox": "0 0 315.269 87.833",
+    "width": 315.269,
+    "height": 87.833
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "PG",
+      "english": "PG",
+      "russian": "PG",
+      "terminal": "Z02A000",
+      "geometry": {
+        "x": 30.247,
+        "y": 34.816,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 52.968,
+        "y": 34.816,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "PG(VTC)",
+      "english": "PG, VTC",
+      "russian": "PG, VTC",
+      "terminal": "Z02C",
+      "geometry": {
+        "x": 75.689,
+        "y": 34.816,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "IGP(PINJ1)",
+      "english": "IGP, PINJ1",
+      "russian": "IGP, PINJ1",
+      "terminal": "D12D",
+      "geometry": {
+        "x": 98.41,
+        "y": 34.816,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "IGP(PINJ2)",
+      "english": "IGP, PINJ2",
+      "russian": "IGP, PINJ2",
+      "terminal": "D13E",
+      "geometry": {
+        "x": 121.13,
+        "y": 34.816,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "IGP(PINJ3)",
+      "english": "IGP, PINJ3",
+      "russian": "IGP, PINJ3",
+      "terminal": "D14F",
+      "geometry": {
+        "x": 143.868,
+        "y": 34.648,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "IGP(SINJ1)",
+      "english": "IGP, SINJ1",
+      "russian": "IGP, SINJ1",
+      "terminal": "D15G",
+      "geometry": {
+        "x": 166.57,
+        "y": 34.816,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "IGP(SINJ2)",
+      "english": "IGP, SINJ2",
+      "russian": "IGP, SINJ2",
+      "terminal": "D16H",
+      "geometry": {
+        "x": 189.291,
+        "y": 34.816,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "IGP(SINJ3)",
+      "english": "IGP, SINJ3",
+      "russian": "IGP, SINJ3",
+      "terminal": "D17J",
+      "geometry": {
+        "x": 212.012,
+        "y": 34.816,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "IGP",
+      "english": "IGP",
+      "russian": "IGP",
+      "terminal": "D04K",
+      "geometry": {
+        "x": 232.305,
+        "y": 34.816,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "IGP(TDC)",
+      "english": "IGP, TDC",
+      "russian": "IGP, TDC",
+      "terminal": "D10L",
+      "geometry": {
+        "x": 255.025,
+        "y": 34.816,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "IGP(CRANK)",
+      "english": "IGP, CRANK",
+      "russian": "IGP, CRANK",
+      "terminal": "D11M",
+      "geometry": {
+        "x": 277.746,
+        "y": 34.816,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "PG1",
+      "english": "PG1",
+      "russian": "PG1",
+      "terminal": "Z01N",
+      "geometry": {
+        "x": 27.819,
+        "y": 58.935,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "PG1",
+      "english": "PG1",
+      "russian": "PG1",
+      "terminal": "Z01P",
+      "geometry": {
+        "x": 50.54,
+        "y": 58.935,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "PG1",
+      "english": "PG1",
+      "russian": "PG1",
+      "terminal": "Z01R",
+      "geometry": {
+        "x": 73.261,
+        "y": 58.935,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "PG1",
+      "english": "PG1",
+      "russian": "PG1",
+      "terminal": "Z01S",
+      "geometry": {
+        "x": 95.982,
+        "y": 58.935,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "VCC1",
+      "english": "VCC1",
+      "russian": "VCC1",
+      "terminal": "D45T",
+      "geometry": {
+        "x": 118.702,
+        "y": 58.935,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "VCC1",
+      "english": "VCC1",
+      "russian": "VCC1",
+      "terminal": "D45W",
+      "geometry": {
+        "x": 141.422,
+        "y": 58.935,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "VCC1",
+      "english": "VCC1",
+      "russian": "VCC1",
+      "terminal": "D45X",
+      "geometry": {
+        "x": 164.143,
+        "y": 58.935,
+        "svgTextId": "SVGID_19_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 186.863,
+        "y": 58.935,
+        "svgTextId": "SVGID_20_"
+      }
+    },
+    {
+      "pin": 21,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "IG1(IGN_COIL_1)",
+      "english": "ignition IG1, IGN, coil, 1",
+      "russian": "зажигание IG1, IGN, катушка, 1",
+      "terminal": "D30Z",
+      "geometry": {
+        "x": 209.584,
+        "y": 58.935,
+        "svgTextId": "SVGID_21_"
+      }
+    },
+    {
+      "pin": 22,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "IG1(IGN_COIL_2)",
+      "english": "ignition IG1, IGN, coil, 2",
+      "russian": "зажигание IG1, IGN, катушка, 2",
+      "terminal": "D31AA",
+      "geometry": {
+        "x": 232.305,
+        "y": 58.935,
+        "svgTextId": "SVGID_22_"
+      }
+    },
+    {
+      "pin": 23,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "IG1(IGN_COIL_3)",
+      "english": "ignition IG1, IGN, coil, 3",
+      "russian": "зажигание IG1, IGN, катушка, 3",
+      "terminal": "D32AB",
+      "geometry": {
+        "x": 255.025,
+        "y": 58.935,
+        "svgTextId": "SVGID_23_"
+      }
+    },
+    {
+      "pin": 24,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "IG1(COIL)",
+      "english": "ignition IG1, coil",
+      "russian": "зажигание IG1, катушка",
+      "terminal": "D02AC",
+      "geometry": {
+        "x": 277.746,
+        "y": 58.935,
+        "svgTextId": "SVGID_24_"
+      }
+    }
+  ]
+}

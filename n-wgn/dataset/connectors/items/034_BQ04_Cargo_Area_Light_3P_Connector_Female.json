@@ -1,0 +1,77 @@
+{
+  "id": "034_BQ04_Cargo_Area_Light_3P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BQ04",
+  "physicalIds": [
+    "BQ04"
+  ],
+  "name": "Cargo Area Light 3P Connector (Female)",
+  "nameRu": "Разъём Cargo Area Light, 3 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 2,
+  "faceviewPart": "91770-T2AA-0030-H1",
+  "partNumbers": [
+    "91770-T2AA-0030-H1"
+  ],
+  "harnesses": [
+    "32155-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Roof"
+  ],
+  "systems": [
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "Entry Light Control System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91770-T2AA-0030-H1.svg",
+    "viewBox": "0 0 23.52 87.28",
+    "width": 23.52,
+    "height": 87.28
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "INTR_LIGHT-",
+      "english": "INTR, LIGHT -",
+      "russian": "INTR, LIGHT -",
+      "terminal": "200A000",
+      "geometry": {
+        "x": 9.398,
+        "y": 27.462,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_BACK_UP_BST",
+      "english": "Constant battery power: back-up, up, BST",
+      "russian": "Постоянное питание от АКБ: резервный, вверх, BST",
+      "terminal": "B79B000",
+      "geometry": {
+        "x": 9.434,
+        "y": 50.63,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 9.433,
+        "y": 72.94,
+        "svgTextId": "SVGID_3_"
+      }
+    }
+  ]
+}

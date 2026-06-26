@@ -1,0 +1,315 @@
+{
+  "id": "R000357",
+  "title": "Remove and install side engine mounts.",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Single engine mounts",
+  "system": "Engine Mount",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000357",
+  "assets": [
+    "357_3.0_jpn_11034016_4.0_disp.png",
+    "357_3.0_jpn_11034022_3.0_disp.png",
+    "357_3.0_jpn_11034023_4.0_disp.png",
+    "357_3.0_jpn_11034024_3.0_disp.png",
+    "357_3.0_jpn_11034026_4.0_disp.png",
+    "357_3.0_jpn_11034027_3.0_disp.png",
+    "357_3.0_jpn_11034028_3.0_disp.png",
+    "357_3.0_jpn_11369973_2.0_disp.png",
+    "357_3.0_jpn_11393734_2.0_disp.png",
+    "357_3.0_jpn_11393735_2.0_disp.png",
+    "357_3.0_jpn_11393736_2.0_disp.png",
+    "357_3.0_jpn_11393738_2.0_disp.png",
+    "357_3.0_jpn_11393740_2.0_disp.png",
+    "357_3.0_jpn_11402273_2.0_disp.png",
+    "357_3.0_jpn_11402274_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000814",
+      "label": "Front bumper removal",
+      "resolved": true
+    },
+    {
+      "id": "R000842",
+      "label": "Front upper grille removal",
+      "resolved": true
+    },
+    {
+      "id": "R000964",
+      "label": "Right side headlight removal",
+      "resolved": true
+    },
+    {
+      "id": "R002224",
+      "label": "Remove the 12V battery.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Remove and install side engine mounts."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front bumper removal",
+      "refs": [
+        {
+          "id": "R000814",
+          "label": "Front bumper removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front upper grille removal",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front upper grille removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Right side headlight removal",
+      "refs": [
+        {
+          "id": "R000964",
+          "label": "Right side headlight removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Engine Support"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Place the oil pan on a plate and support it with a garage jack."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. A/C pipe Move"
+    },
+    {
+      "type": "figure",
+      "asset": "357_3.0_jpn_11034016_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the A/C pipe clamp bolt (A). Remove the harness clamp (B) on the A/C compressor. Remove the A/C pipe from the clamp (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "357_3.0_jpn_11393734_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Remove the A/C pipe (A) from the clamp (B) and move the A/C pipe."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Remove side engine mount assembly."
+    },
+    {
+      "type": "figure",
+      "asset": "357_3.0_jpn_11393735_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the ground cable (A), and remove the side engine mount assembly."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Side engine mount assembly."
+    },
+    {
+      "type": "figure",
+      "asset": "357_3.0_jpn_11393736_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Tighten the new side engine mount mounting bolts (A). Temporarily tighten the new side engine mount bracket mounting nut (B) and loosen the side engine mount bracket mounting bolt (C). Install the ground cable (D). Remove the garage jack."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Side Engine Mount Tightening"
+    },
+    {
+      "type": "figure",
+      "asset": "357_3.0_jpn_11402273_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the 12V battery. Remove the coolant reserve tank.",
+      "refs": [
+        {
+          "id": "R002224",
+          "label": "Remove the 12V battery.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "357_3.0_jpn_11034022_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the 12V battery base."
+    },
+    {
+      "type": "figure",
+      "asset": "357_3.0_jpn_11034023_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Loosen transmission mount bracket mounting bolt/nut (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "357_3.0_jpn_11034024_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "Loosen the torque rod mounting bolt (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "357_3.0_jpn_11393738_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "8",
+      "text": "Tighten the side engine mount bracket mounting bolts/nuts in the order of their numbers."
+    },
+    {
+      "type": "figure",
+      "asset": "357_3.0_jpn_11034026_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "9",
+      "text": "Tighten the transmission mount bracket mounting bolts/nuts in numerical order."
+    },
+    {
+      "type": "figure",
+      "asset": "357_3.0_jpn_11034027_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "11",
+      "text": "Tighten the torque rod mounting bolts."
+    },
+    {
+      "type": "figure",
+      "asset": "357_3.0_jpn_11034028_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "13",
+      "text": "Install the 12V battery base."
+    },
+    {
+      "type": "figure",
+      "asset": "357_3.0_jpn_11402274_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "14",
+      "text": "Install the coolant reserve tank."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. A/C Pipe Fixed"
+    },
+    {
+      "type": "figure",
+      "asset": "357_3.0_jpn_11369973_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Attach A/C pipe to clamp (A). Install the harness clamp (B) on the A/C compressor. Install the A/C pipe clamp bolt (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "357_3.0_jpn_11393740_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Attach A/C pipe (A) to clamp (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Right side headlight installation",
+      "refs": [
+        {
+          "id": "R000964",
+          "label": "Right side headlight installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Front upper grille installation",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front upper grille installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Front Bumper Mounting",
+      "refs": [
+        {
+          "id": "R000814",
+          "label": "Front Bumper Mounting",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000357_jpn/web/html/R000357_jpn_Content.html",
+  "inOutline": true
+}

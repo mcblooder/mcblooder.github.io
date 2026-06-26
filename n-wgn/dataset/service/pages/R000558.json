@@ -1,0 +1,341 @@
+{
+  "id": "R000558",
+  "title": "Remove and install the shift position sensor.",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "A/T shift position indicator system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000558",
+  "assets": [
+    "558_5.0_jpn_11582305_5.0_disp.png",
+    "558_5.0_jpn_11582306_5.0_disp.png",
+    "558_5.0_jpn_11582307_5.0_disp.png",
+    "558_5.0_jpn_11582308_5.0_disp.png",
+    "558_5.0_jpn_11582309_5.0_disp.png",
+    "558_5.0_jpn_11582310_5.0_disp.png",
+    "558_5.0_jpn_11582311_5.0_disp.png",
+    "558_5.0_jpn_11582312_5.0_disp.png",
+    "558_5.0_jpn_11582313_5.0_disp.png",
+    "558_5.0_jpn_11582314_5.0_disp.png",
+    "558_5.0_jpn_11582315_5.0_disp.png",
+    "558_5.0_jpn_11676649_3.0_disp.png",
+    "558_5.0_jpn_11676650_3.0_disp.png",
+    "558_5.0_jpn_11676651_3.0_disp.png",
+    "558_5.0_jpn_11676652_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000412",
+      "label": "Remove air cleaner (for vehicles without turbo charger)",
+      "resolved": true
+    },
+    {
+      "id": "R000418",
+      "label": "Intercooler removal (turbo charger equipped vehicles)",
+      "resolved": true
+    },
+    {
+      "id": "R000553",
+      "label": "Replace control wires.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Remove and install the shift position sensor."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Remove air cleaner (for vehicles without turbo charger)",
+      "refs": [
+        {
+          "id": "R000412",
+          "label": "Remove air cleaner (for vehicles without turbo charger)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Intercooler removal (turbo charger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000418",
+          "label": "Intercooler removal (turbo charger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Air cleaner stay removal (for vehicles not equipped with turbo charger)"
+    },
+    {
+      "type": "figure",
+      "asset": "558_5.0_jpn_11676649_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove heater hose clamp (A). Remove the air cleaner stay (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Intercooler stay removal (for vehicles equipped with turbo charger)"
+    },
+    {
+      "type": "figure",
+      "asset": "558_5.0_jpn_11676650_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove heater hose clamp (A). Remove the intercooler stay (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Transmission side Control wire removal"
+    },
+    {
+      "type": "figure",
+      "asset": "558_5.0_jpn_11582305_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Set the select lever to the P position. Remove the snap pin (A) and pull out the control pin (B). Remove the control wire bracket (C) and separate the control wire (D) from the control lever (E). Inspect the bushings (F) at the control wire ends for detachment, wear, or other damage. If there is damage, check for Replace control wires.",
+      "refs": [
+        {
+          "id": "R000553",
+          "label": "Replace control wires.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not bend control wires more than necessary."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Control lever removal"
+    },
+    {
+      "type": "figure",
+      "asset": "558_5.0_jpn_11582306_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn the control lever (A) to the N position."
+    },
+    {
+      "type": "figure",
+      "asset": "558_5.0_jpn_11582307_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Caulk the lock washer (A). Remove the mounting bolt (B) and lock washer. Remove the control lever (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Shift position sensor removal"
+    },
+    {
+      "type": "figure",
+      "asset": "558_5.0_jpn_11582308_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A) and remove the control shaft cover (B). Remove the shift position sensor (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Shift Position Sensor Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "558_5.0_jpn_11582309_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Adjust the shift position sensor (A) to the N position. Align the notch (B) in the rotating frame with the reference notch (C) and insert a 2.0 mm thick Thickness Gauge (D) to fix the N position."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be sure to use 2.0 mm thick Thickness Gauges or equivalent."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "558_5.0_jpn_11582310_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "While holding the shift position sensor (B) in the N position with the sickness gauge (A), align the shift position sensor (B) with the control shaft and gently install it."
+    },
+    {
+      "type": "figure",
+      "asset": "558_5.0_jpn_11582311_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Further, tighten the mounting bolts to the specified torque while keeping the N position fixed."
+    },
+    {
+      "type": "figure",
+      "asset": "558_5.0_jpn_11582312_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Connect the coupler (A) and install the control shaft cover (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Ensure that there is no rust, debris, oil, etc. in the coupler."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Control Lever Mounting"
+    },
+    {
+      "type": "figure",
+      "asset": "558_5.0_jpn_11582313_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the control lever (A). Install the new lock washer (B) and install the mounting bolt (C). Crimp the lock washer."
+    },
+    {
+      "type": "figure",
+      "asset": "558_5.0_jpn_11582314_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Turn the control lever (A) to the P position."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Transmission-side control wire installation"
+    },
+    {
+      "type": "figure",
+      "asset": "558_5.0_jpn_11582315_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Set the select lever to the P position. Apply a thin coat of molybdenum grease to the inside of the control wire end bushing (A). Install the control wire bracket (B). Attach the control wire end with the bushing facing up to the control lever (C) and insert the control pin (D) to secure it in place. Attach the snap pin (F) to the control pin. Install the snap pin (F) onto the control pin securely until the tip of the snap pin (G) comes out of the bottom of the guide (H) on the control lever."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Push the control pin into the hole (E) of the control lever until it hits the hole (B) and install it securely."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The hook (I) of the snap pin should rest on the chamfer (J) of the control pin hole."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Air cleaner stay installed (for vehicles not equipped with turbo charger)"
+    },
+    {
+      "type": "figure",
+      "asset": "558_5.0_jpn_11676651_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the air cleaner stay (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Intercooler stay installation (turbocharger-equipped vehicles)"
+    },
+    {
+      "type": "figure",
+      "asset": "558_5.0_jpn_11676652_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the intercooler stay (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Air cleaner installed (for vehicles not equipped with turbo charger)",
+      "refs": [
+        {
+          "id": "R000412",
+          "label": "Air cleaner installed (for vehicles not equipped with turbo charger)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Intercooler installation (Turbocharger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000418",
+          "label": "Intercooler installation (Turbocharger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Shift position sensor Check after installation"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition to ON mode. Shift the select lever to each position and check that the shift position sensor and the shift position indicator display are in sync. Confirm that the engine can be started in the P and N positions. Also confirm that the engine cannot be started in any other position. Verify that the back-up light illuminates in the R position and that the chime sounds. Shift to each position and check the operating status."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000558_jpn/web/html/R000558_jpn_Content.html",
+  "inOutline": true
+}

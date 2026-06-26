@@ -1,0 +1,56 @@
+{
+  "id": "horns",
+  "category": "electrical_diagram",
+  "title": "Horns",
+  "system": "horns",
+  "sheetCount": 5,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/horns/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/horns/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/horns/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/horns/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/horns/sheet5.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Cable Reel",
+      "Horn",
+      "Horn Relay",
+      "Horn Switch"
+    ],
+    "Couplers": [
+      "Cable Reel Connector A (20P) (Female)",
+      "Cable Reel Connector C (20P) (Female)",
+      "Horn 1P Connector (Female)",
+      "Horn Switch 1P Connector",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector U (24P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_STOP_&_HORN"
+    ],
+    "Harnesses": [
+      "BB Cable Reel Subharness",
+      "BD Dashboard Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "id": "R001639",
+  "title": "SRS airbag system post-crash activation inspection and replacement",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "SRS",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001639",
+  "assets": [
+    "1639_3.0_jpn_11051184_3.0_disp.png",
+    "1639_3.0_jpn_11051185_3.0_disp.png",
+    "1639_3.0_jpn_11051186_3.0_disp.png",
+    "1639_3.0_jpn_11051187_3.0_disp.png",
+    "1639_3.0_jpn_11347559_2.0_disp.png",
+    "1639_3.0_jpn_11347560_2.0_disp.png",
+    "1639_3.0_jpn_11347561_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "SRS airbag system post-crash activation inspection and replacement"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Before repairing or inspecting the SRS, Check DTC in HDS. For DTCs, refer to Failure Diagnosis by DTC."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. SRS airbag system after collision activation Inspect and replace"
+    },
+    {
+      "type": "paragraph",
+      "text": "Parts damaged during airbag deployment must be replaced, and the following replacement parts must be replaced even if they are not visually damaged."
+    },
+    {
+      "type": "paragraph",
+      "text": "When replacing the seat belt pretensioner, check for deformation of the seat belt mounting area and make the necessary modifications if deformation is found."
+    },
+    {
+      "type": "paragraph",
+      "text": "Seat belt Parts to be replaced when the pretensioner is deployed: 1."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "SRS Unit"
+        },
+        {
+          "text": "SRS Unit"
+        },
+        {
+          "text": "Seat belt pretensioner"
+        },
+        {
+          "text": "Seat belt pretensioner"
+        },
+        {
+          "text": "Front Impact Sensor"
+        },
+        {
+          "text": "Front Impact Sensor"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Parts to be replaced during driver/front passenger airbag deployment:."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "SRS Unit"
+        },
+        {
+          "text": "SRS Unit"
+        },
+        {
+          "text": "Driver and passenger airbags"
+        },
+        {
+          "text": "Driver and passenger airbags"
+        },
+        {
+          "text": "Seat belt pretensioner"
+        },
+        {
+          "text": "Seat belt pretensioner"
+        },
+        {
+          "text": "Front Impact Sensor"
+        },
+        {
+          "text": "Front Impact Sensor"
+        },
+        {
+          "text": "Cable reel (when driver's airbag is deployed)"
+        },
+        {
+          "text": "Cable reel (when driver's airbag is deployed)"
+        },
+        {
+          "text": "Instrument panel (with passenger airbag deployed)"
+        },
+        {
+          "text": "Instrument panel (with passenger airbag deployed)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Side Parts to be replaced when airbag deploys"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "SRS Unit"
+        },
+        {
+          "text": "SRS Unit"
+        },
+        {
+          "text": "Side airbag on deployed side"
+        },
+        {
+          "text": "Side airbag on deployed side"
+        },
+        {
+          "text": "Seat belt pretensioner on the deployed side"
+        },
+        {
+          "text": "Seat belt pretensioner on the deployed side"
+        },
+        {
+          "text": "Side of deploying side Impact Sensor 1"
+        },
+        {
+          "text": "Side of deploying side Impact Sensor 1"
+        },
+        {
+          "text": "Side of deploying side Impact Sensor 2"
+        },
+        {
+          "text": "Side of deploying side Impact Sensor 2"
+        },
+        {
+          "text": "Seat back trim cover/pad on the side being deployed"
+        },
+        {
+          "text": "Seat back trim cover/pad on the side being deployed"
+        },
+        {
+          "text": "Seat frame and related parts on the deployed side"
+        },
+        {
+          "text": "Seat frame and related parts on the deployed side"
+        },
+        {
+          "text": "Center pillar lower garnish on deployed side"
+        },
+        {
+          "text": "Center pillar lower garnish on deployed side"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Side curtains Parts to be replaced when airbags deploy: 1."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "SRS Unit"
+        },
+        {
+          "text": "SRS Unit"
+        },
+        {
+          "text": "Side curtain airbag on the side that is deployed"
+        },
+        {
+          "text": "Side curtain airbag on the side that is deployed"
+        },
+        {
+          "text": "Seat belt pretensioner on the deployed side"
+        },
+        {
+          "text": "Seat belt pretensioner on the deployed side"
+        },
+        {
+          "text": "Side of deploying side Impact Sensor 1"
+        },
+        {
+          "text": "Side of deploying side Impact Sensor 1"
+        },
+        {
+          "text": "Side of deploying side Impact Sensor 2"
+        },
+        {
+          "text": "Side of deploying side Impact Sensor 2"
+        },
+        {
+          "text": "Front pillar garnish on the deployed side"
+        },
+        {
+          "text": "Front pillar garnish on the deployed side"
+        },
+        {
+          "text": "Center pillar upper garnish on the deployed side"
+        },
+        {
+          "text": "Center pillar upper garnish on the deployed side"
+        },
+        {
+          "text": "Quarter pillar garnish on the deployed side"
+        },
+        {
+          "text": "Quarter pillar garnish on the deployed side"
+        },
+        {
+          "text": "Front grab rail on the side being deployed"
+        },
+        {
+          "text": "Front grab rail on the side being deployed"
+        },
+        {
+          "text": "Second grab rail on the side being deployed"
+        },
+        {
+          "text": "Second grab rail on the side being deployed"
+        },
+        {
+          "text": "Sunvisor on the deploying side"
+        },
+        {
+          "text": "Sunvisor on the deploying side"
+        },
+        {
+          "text": "Roof Lining"
+        },
+        {
+          "text": "Roof Lining"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. SRS airbag system After collision activation Interior parts Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "1639_3.0_jpn_11347559_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1639_3.0_jpn_11347560_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1639_3.0_jpn_11347561_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Other interior parts should be inspected and replaced if deformed or damaged. However, be sure to replace the clips and upper clips (A) of each pillar garnish even if they appear normal in appearance after the side curtain airbags are deployed."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. SRS warning light Check"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "After completing the work, connect the cable to the 12V battery minus (-) terminal, turn the ignition to the ON mode, and confirm that the SRS warning light comes on for 6 seconds and then goes off."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the overlap between the roof lining and each pillar garnish (front pillar, center pillar upper and quarter pillar) is too large, it may result in abnormal deployment when the side curtain airbags are triggered. If the lap allowance of the front pillar, center pillar upper or quarter pillar exceeds 8mm, trim the roof lining."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Adjustment of wrap allowance for roof lining/pillar garnish"
+    },
+    {
+      "type": "figure",
+      "asset": "1639_3.0_jpn_11051184_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Temporarily assemble the pillar garnish (B) to the roof lining (A). The figure shows the front pillar garnish."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The upper clip of the front pillar garnish is designed to be partially damaged when removed (not reusable), so it must not be attached when temporarily assembling."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1639_3.0_jpn_11051185_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Align the masking tape (A) with the edge of the pillar garnish (B) and apply it to the roof lining side (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "1639_3.0_jpn_11051186_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the pillar garnish and measure the lap allowance."
+    },
+    {
+      "type": "figure",
+      "asset": "1639_3.0_jpn_11051187_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "If the lap allowance is 8 mm or more, trim the roof lining so that the lap allowance is 8 + 0/-2 mm."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001639_jpn/web/html/R001639_jpn_Content.html",
+  "inOutline": true
+}

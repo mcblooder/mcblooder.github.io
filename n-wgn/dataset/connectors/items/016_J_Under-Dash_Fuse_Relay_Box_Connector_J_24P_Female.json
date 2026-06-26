@@ -1,0 +1,401 @@
+{
+  "id": "016_J_Under-Dash_Fuse_Relay_Box_Connector_J_24P_Female",
+  "category": "connector",
+  "connectorRef": "J / EA15",
+  "physicalIds": [
+    "EA15"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector J (24P), гнездовая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 24,
+  "populatedPinCount": 18,
+  "faceviewPart": "91953-S7A -0030-H1",
+  "partNumbers": [
+    "91953-S7A -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side",
+    "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Front Side"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "A/T Interlock System",
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "Audio System",
+    "Back-Up Lights",
+    "Cable Reel",
+    "Charging System",
+    "Climate Control",
+    "Cruise Control",
+    "CVT Control System",
+    "Dashlights",
+    "DLC",
+    "Energy Management System",
+    "EPS",
+    "Fog Lights",
+    "Gauges",
+    "Headlight Leveling System",
+    "Headlights",
+    "Horns",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "MIL Circuit",
+    "PCM (All)",
+    "Power Supply",
+    "Power, Grounds and Diagnostics",
+    "S-NET Communication Line",
+    "Starting System",
+    "VSA",
+    "Wiper/Washer (Rear Window)",
+    "Wiper/Washer (Windshield)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91953-S7A -0030-H1.svg",
+    "viewBox": "0 0 220.708 48.375",
+    "width": 220.708,
+    "height": 48.375
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_BACK_UP_BST",
+      "english": "Constant battery power: back-up, up, BST",
+      "russian": "Постоянное питание от АКБ: резервный, вверх, BST",
+      "terminal": "B79A",
+      "geometry": {
+        "x": 5.921,
+        "y": 23.396,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "STS",
+      "english": "STS",
+      "russian": "STS",
+      "terminal": "M01B",
+      "geometry": {
+        "x": 24.294,
+        "y": 23.396,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "H/L_HI_RLY_CL-",
+      "english": "H / L, high, relay, coil control -",
+      "russian": "H / L, высокий, реле, управление катушкой -",
+      "terminal": "26C",
+      "geometry": {
+        "x": 42.667,
+        "y": 23.396,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "H/L_LO_RLY_CL-",
+      "english": "H / L, low, relay, coil control -",
+      "russian": "H / L, низкий, реле, управление катушкой -",
+      "terminal": "18C",
+      "geometry": {
+        "x": 61.041,
+        "y": 23.396,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "SMALL_LT_RLY_CL-",
+      "english": "SMALL, light, relay, coil control -",
+      "russian": "SMALL, освещение, реле, управление катушкой -",
+      "terminal": "20E",
+      "geometry": {
+        "x": 79.414,
+        "y": 23.396,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 97.787,
+        "y": 23.396,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 116.159,
+        "y": 23.396,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "WIPER_HI/LO_RLY_CL-",
+      "english": "wiper, HI / LO, relay, coil control -",
+      "russian": "стеклоочиститель, HI / LO, реле, управление катушкой -",
+      "terminal": "411H",
+      "geometry": {
+        "x": 134.532,
+        "y": 23.396,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "FR_WIPER_INT_RLY_CL-",
+      "english": "front, wiper, intermittent, relay, coil control -",
+      "russian": "передний, стеклоочиститель, прерывистый режим, реле, управление катушкой -",
+      "terminal": "410J",
+      "geometry": {
+        "x": 152.906,
+        "y": 23.396,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 169.055,
+        "y": 23.396,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "R_TURN",
+      "english": "right, turn signal",
+      "russian": "правый, указатель поворота",
+      "terminal": "16D",
+      "geometry": {
+        "x": 187.428,
+        "y": 23.396,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "L_TURN",
+      "english": "left, turn signal",
+      "russian": "левый, указатель поворота",
+      "terminal": "17M",
+      "geometry": {
+        "x": 205.801,
+        "y": 23.396,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "RED",
+      "circuit": "ATP-P",
+      "english": "ATP-P",
+      "russian": "ATP-P",
+      "terminal": "M12N",
+      "geometry": {
+        "x": 3.697,
+        "y": 42.23,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "SCS",
+      "english": "Service-check signal",
+      "russian": "Сервисный диагностический сигнал SCS",
+      "terminal": "F28P",
+      "geometry": {
+        "x": 22.07,
+        "y": 42.23,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "FR_WIPER_AS",
+      "english": "front, wiper, AS",
+      "russian": "передний, стеклоочиститель, AS",
+      "terminal": "402R",
+      "geometry": {
+        "x": 40.443,
+        "y": 42.23,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 58.816,
+        "y": 42.23,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "HOOD_SW",
+      "english": "HOOD, switch",
+      "russian": "HOOD, выключатель",
+      "terminal": "71T",
+      "geometry": {
+        "x": 77.189,
+        "y": 42.23,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "RED",
+      "circuit": "FR_FOG_LT_RLY_CL-",
+      "english": "front, FOG, light, relay, coil control -",
+      "russian": "передний, FOG, освещение, реле, управление катушкой -",
+      "terminal": "46W",
+      "geometry": {
+        "x": 95.562,
+        "y": 42.23,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "HORN_SW",
+      "english": "horn, switch",
+      "russian": "звуковой сигнал, выключатель",
+      "terminal": "61X",
+      "geometry": {
+        "x": 113.935,
+        "y": 42.23,
+        "svgTextId": "SVGID_19_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 132.308,
+        "y": 42.23,
+        "svgTextId": "SVGID_20_"
+      }
+    },
+    {
+      "pin": 21,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 150.682,
+        "y": 42.23,
+        "svgTextId": "SVGID_21_"
+      }
+    },
+    {
+      "pin": 22,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "S-NET",
+      "english": "S-NET",
+      "russian": "S-NET",
+      "terminal": "70AA",
+      "geometry": {
+        "x": 169.055,
+        "y": 42.23,
+        "svgTextId": "SVGID_22_"
+      }
+    },
+    {
+      "pin": 23,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "ATP-R",
+      "english": "ATP-R",
+      "russian": "ATP-R",
+      "terminal": "M13AB",
+      "geometry": {
+        "x": 187.428,
+        "y": 42.23,
+        "svgTextId": "SVGID_23_"
+      }
+    },
+    {
+      "pin": 24,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "+B_HAZARD",
+      "english": "Constant battery power: HAZARD",
+      "russian": "Постоянное питание от АКБ: HAZARD",
+      "terminal": "B02AC",
+      "geometry": {
+        "x": 205.801,
+        "y": 42.23,
+        "svgTextId": "SVGID_24_"
+      }
+    }
+  ]
+}

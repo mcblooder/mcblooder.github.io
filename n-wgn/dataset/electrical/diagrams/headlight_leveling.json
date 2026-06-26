@@ -1,0 +1,87 @@
+{
+  "id": "headlight_leveling",
+  "category": "electrical_diagram",
+  "title": "Headlight Leveling System",
+  "system": "headlight_leveling",
+  "sheetCount": 4,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/headlight_leveling/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/headlight_leveling/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/headlight_leveling/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/headlight_leveling/sheet4.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Engine Start/Stop Switch",
+      "Gauge Control Module",
+      "Headlight Auto Leveling Control Unit",
+      "IG1 Relay 2",
+      "Left Headlight Leveling Motor",
+      "Right Headlight Leveling Motor",
+      "Suspension Stroke Sensor",
+      "Taillight Relay"
+    ],
+    "Couplers": [
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "C003 (Female)",
+      "C004 (Female)",
+      "C108 (Male)|C108 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Gauge Control Module 32P Connector (Female)",
+      "Headlight Auto Leveling Control Unit 12P Connector (Female)",
+      "Left Headlight Leveling Motor 3P Connector (Female)",
+      "Right Headlight Leveling Motor 3P Connector (Female)",
+      "Suspension Stroke Sensor 3P Connector (Female)",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Y (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_DC/DC_2",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMALL",
+      "+B_SMART",
+      "16_IG1_RELAY_2",
+      "IG1_MICU(P/S)"
+    ],
+    "Grounds": [
+      "G202",
+      "G401",
+      "G402"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

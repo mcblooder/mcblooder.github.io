@@ -1,0 +1,100 @@
+{
+  "id": "110_EA51_Brake_Pedal_Position_Switch_4P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA51",
+  "physicalIds": [
+    "EA51"
+  ],
+  "name": "Brake Pedal Position Switch 4P Connector (Female)",
+  "nameRu": "Разъём Brake Pedal Position выключатель, 4 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 4,
+  "faceviewPart": "91771-TY0A-0030-H1",
+  "partNumbers": [
+    "91771-TY0A-0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "A/T Interlock System",
+    "Auto Idle Stop System",
+    "Brake Lights",
+    "City-Brake Active System",
+    "Cruise Control",
+    "CVT Control System",
+    "Idle Control System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "PCM (All)",
+    "Starting System",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91771-TY0A-0030-H1.svg",
+    "viewBox": "272.779 384.902 50.639 71.044",
+    "width": 50.639,
+    "height": 71.044
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "STOP_SW",
+      "english": "brake light, switch",
+      "russian": "стоп-сигнал, выключатель",
+      "terminal": "37E",
+      "geometry": {
+        "x": 282.548,
+        "y": 419.873,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "+B_STOP",
+      "english": "Constant battery power: brake light",
+      "russian": "Постоянное питание от АКБ: стоп-сигнал",
+      "terminal": "B01B000",
+      "geometry": {
+        "x": 304.704,
+        "y": 419.873,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "BKSWNC",
+      "english": "BKSWNC",
+      "russian": "BKSWNC",
+      "terminal": "702C",
+      "geometry": {
+        "x": 282.548,
+        "y": 442.55,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "IG1_ACG",
+      "english": "ignition IG1, alternator",
+      "russian": "зажигание IG1, генератор",
+      "terminal": "G05D001",
+      "geometry": {
+        "x": 304.704,
+        "y": 442.55,
+        "svgTextId": "SVGID_4_"
+      }
+    }
+  ]
+}

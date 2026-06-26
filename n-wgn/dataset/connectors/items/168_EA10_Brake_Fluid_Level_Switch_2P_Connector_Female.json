@@ -1,0 +1,63 @@
+{
+  "id": "168_EA10_Brake_Fluid_Level_Switch_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA10",
+  "physicalIds": [
+    "EA10"
+  ],
+  "name": "Brake Fluid Level Switch 2P Connector (Female)",
+  "nameRu": "Разъём Brake Fluid Level выключатель, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91702-S5A -0030-H1",
+  "partNumbers": [
+    "91702-S5A -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Gauges",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91702-S5A -0030-H1.svg",
+    "viewBox": "0 0 65.826 43.176",
+    "width": 65.826,
+    "height": 43.176
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-R)",
+      "english": "Ground (ENG-R)",
+      "russian": "Масса (ENG-R)",
+      "terminal": "Z15A",
+      "geometry": {
+        "x": 15.827,
+        "y": 31.563,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "BRAKE_LEVEL_SW",
+      "english": "brake, level, switch",
+      "russian": "тормоз, уровень, выключатель",
+      "terminal": "91B",
+      "geometry": {
+        "x": 44.141,
+        "y": 31.563,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

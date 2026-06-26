@@ -1,0 +1,125 @@
+{
+  "id": "gauges",
+  "category": "electrical_diagram",
+  "title": "Gauges",
+  "system": "gauges",
+  "sheetCount": 8,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/gauges/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/gauges/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/gauges/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/gauges/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/gauges/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/gauges/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/gauges/sheet7.svg"
+    },
+    {
+      "name": "sheet8",
+      "asset": "assets/svg/gauges/sheet8.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Automatic Dimming Inside Mirror",
+      "Brake Fluid Level Switch",
+      "Cable Reel",
+      "City-Brake Active System OFF Switch",
+      "Cruise Control Combination Switch",
+      "ECON Switch",
+      "Engine Start/Stop Switch",
+      "Fuel Tank Unit",
+      "Gauge Control Module",
+      "IG1 Relay 1",
+      "Parking Brake Switch",
+      "VSA OFF Switch"
+    ],
+    "Couplers": [
+      "Automatic Dimming Inside Mirror 5P Connector (Female)",
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "Brake Fluid Level Switch 2P Connector (Female)",
+      "C003 (Female)",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C116 (Male)|C116 (Female)",
+      "C118 (Male)|C118 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "Cable Reel Connector A (20P) (Female)",
+      "Cable Reel Connector C (20P) (Female)",
+      "City-Brake Active System OFF Switch 6P Connector (Female)",
+      "Cruise Control Combination Switch 12P Connector (Female)",
+      "Data Link Connector (DLC) (Female)",
+      "ECON Switch 4P Connector (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Fuel Tank Unit 4P Connector",
+      "Gauge Control Module 32P Connector (Female)",
+      "Parking Brake Switch 1P Connector",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector D (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector F (18P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector H (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector K (4P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector U (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Y (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box",
+      "VSA OFF Switch 5P Connector (Female)"
+    ],
+    "Fuses": [
+      "+B_BACK_UP(BST)",
+      "+B_BACK_UP_MAIN(P/S)",
+      "+B_DC/DC_1",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "07_IG1_RELAY_1",
+      "IG1_METER(P/S)"
+    ],
+    "Grounds": [
+      "G201",
+      "G202",
+      "G401",
+      "G402",
+      "G403"
+    ],
+    "Harnesses": [
+      "BB Cable Reel Subharness",
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "BQ Roof Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "DH Front Passenger's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

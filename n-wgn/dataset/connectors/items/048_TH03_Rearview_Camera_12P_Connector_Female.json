@@ -1,0 +1,202 @@
+{
+  "id": "048_TH03_Rearview_Camera_12P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "TH03",
+  "physicalIds": [
+    "TH03"
+  ],
+  "name": "Rearview Camera 12P Connector (Female)",
+  "nameRu": "Разъём заднийview Camera, 12 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 12,
+  "populatedPinCount": 8,
+  "faceviewPart": "91960-SHJ -0030-H1",
+  "partNumbers": [
+    "91960-SHJ -0030-H1"
+  ],
+  "harnesses": [
+    "32109-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Tailgate"
+  ],
+  "systems": [
+    "Audio System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91960-SHJ -0030-H1.svg",
+    "viewBox": "0 0 170.584 74.32",
+    "width": 170.584,
+    "height": 74.32
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "CAMERA_BIT1",
+      "english": "camera, BIT1",
+      "russian": "камера, BIT1",
+      "terminal": "N39A",
+      "geometry": {
+        "x": 12.163,
+        "y": 34.894,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "CAMERA_BIT0",
+      "english": "camera, BIT0",
+      "russian": "камера, BIT0",
+      "terminal": "N38B",
+      "geometry": {
+        "x": 40.476,
+        "y": 34.894,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 68.788,
+        "y": 34.894,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "CAMERA_VCC",
+      "english": "camera, supply voltage",
+      "russian": "камера, напряжение питания",
+      "terminal": "N16D",
+      "geometry": {
+        "x": 97.101,
+        "y": 34.894,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 125.414,
+        "y": 34.894,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "RC_GND",
+      "english": "RC, ground",
+      "russian": "RC, масса",
+      "terminal": "N19F",
+      "geometry": {
+        "x": 153.726,
+        "y": 34.894,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "RED",
+      "circuit": "CAMERA_GND",
+      "english": "camera, ground",
+      "russian": "камера, масса",
+      "terminal": "N18G",
+      "geometry": {
+        "x": 12.163,
+        "y": 63.208,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 40.476,
+        "y": 63.208,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "CAMERA_V",
+      "english": "camera, V",
+      "russian": "камера, V",
+      "terminal": "N17J",
+      "geometry": {
+        "x": 68.788,
+        "y": 63.208,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 94.876,
+        "y": 63.208,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "CAMERA_ADPT",
+      "english": "camera, ADPT",
+      "russian": "камера, ADPT",
+      "terminal": "N21L",
+      "geometry": {
+        "x": 123.189,
+        "y": 63.208,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "SH_CAMERA",
+      "english": "shield, camera",
+      "russian": "экран, камера",
+      "terminal": "N20M",
+      "geometry": {
+        "x": 151.501,
+        "y": 63.208,
+        "svgTextId": "SVGID_12_"
+      }
+    }
+  ]
+}

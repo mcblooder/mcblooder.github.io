@@ -1,0 +1,64 @@
+{
+  "id": "095_EA02_A_C_Pressure_Sensor_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA02",
+  "physicalIds": [
+    "EA02"
+  ],
+  "name": "A/C Pressure Sensor 2P Connector (Female)",
+  "nameRu": "Разъём A/C Pressure датчик, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "986CE-00002-00",
+  "partNumbers": [
+    "986CE-00002-00"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Left Side"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Climate Control",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/986CE-00002-00.svg",
+    "viewBox": "0 0 56.41 50.735",
+    "width": 56.41,
+    "height": 50.735
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "RED",
+      "circuit": "A/C_PRESS_SW_OUT",
+      "english": "air conditioning, PRESS, switch, output",
+      "russian": "кондиционер, PRESS, выключатель, выход",
+      "terminal": "312A",
+      "geometry": {
+        "x": 14.642,
+        "y": 30.525,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "ACS",
+      "english": "ACS",
+      "russian": "ACS",
+      "terminal": "311B",
+      "geometry": {
+        "x": 37.319,
+        "y": 30.525,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

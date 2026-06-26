@@ -1,0 +1,89 @@
+{
+  "id": "rear_w_power_m_defog",
+  "category": "electrical_diagram",
+  "title": "Rear Window/Power Mirror Defoggers",
+  "system": "rear_w_power_m_defog",
+  "sheetCount": 6,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/rear_w_power_m_defog/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/rear_w_power_m_defog/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/rear_w_power_m_defog/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/rear_w_power_m_defog/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/rear_w_power_m_defog/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/rear_w_power_m_defog/sheet6.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Climate Control Unit",
+      "Engine Start/Stop Switch",
+      "Left Power Mirror",
+      "Mirror Heater Relay",
+      "Rear Window Defogger",
+      "Rear Window Defogger Relay",
+      "Right Power Mirror"
+    ],
+    "Couplers": [
+      "C113 (Male)|C113 (Female)",
+      "C117 (Male)|C117 (Female)",
+      "C118 (Male)|C118 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "C121 (Male)|C121 (Female)",
+      "Climate Control Unit 32P Connector (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Left Power Mirror 14P Connector (Male)",
+      "Rear Window Defogger 1P Connector",
+      "Relay Block 1",
+      "Right Power Mirror 14P Connector (Male)",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector D (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Y (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "10_+B_HEATED_MIRROR",
+      "25_IG2_RR_DEF"
+    ],
+    "Grounds": [
+      "G402",
+      "G403",
+      "G503"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "DH Front Passenger's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "LB High Mount Brake Light Subharness",
+      "TH Tailgate Wire Harness"
+    ]
+  }
+}

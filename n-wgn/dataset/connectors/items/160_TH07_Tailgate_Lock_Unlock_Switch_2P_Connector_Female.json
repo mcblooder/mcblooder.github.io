@@ -1,0 +1,64 @@
+{
+  "id": "160_TH07_Tailgate_Lock_Unlock_Switch_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "TH07",
+  "physicalIds": [
+    "TH07"
+  ],
+  "name": "Tailgate Lock/ Unlock Switch 2P Connector (Female)",
+  "nameRu": "Разъём Tailgate Lock/ Unlock выключатель, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91751-T2AA-0031-H1",
+  "partNumbers": [
+    "91751-T2AA-0031-H1"
+  ],
+  "harnesses": [
+    "32109-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Tailgate"
+  ],
+  "systems": [
+    "Entry Light Control System",
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91751-T2AA-0031-H1.svg",
+    "viewBox": "0 0 46.284 37.177",
+    "width": 46.284,
+    "height": 37.177
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "T/G_REQ_SW",
+      "english": "T / G, REQ, switch",
+      "russian": "T / G, REQ, выключатель",
+      "terminal": "970A",
+      "geometry": {
+        "x": 10.331,
+        "y": 27.616,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(RR-R)",
+      "english": "Ground (RR-R)",
+      "russian": "Масса (RR-R)",
+      "terminal": "Z90B",
+      "geometry": {
+        "x": 32.971,
+        "y": 27.616,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

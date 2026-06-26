@@ -1,0 +1,63 @@
+{
+  "id": "162_EC19_EVAP_Canister_Purge_Valve_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC19",
+  "physicalIds": [
+    "EC19"
+  ],
+  "name": "EVAP Canister Purge Valve 2P Connector (Female)",
+  "nameRu": "Разъём EVAP Canister Purge Valve, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91702-R40 -0030-H1",
+  "partNumbers": [
+    "91702-R40 -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)"
+  ],
+  "systems": [
+    "EVAP System",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91702-R40 -0030-H1.svg",
+    "viewBox": "0 0 48.207 27.554",
+    "width": 48.207,
+    "height": 27.554
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "PCS",
+      "english": "PCS",
+      "russian": "PCS",
+      "terminal": "E97A",
+      "geometry": {
+        "x": 11.422,
+        "y": 20.405,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "IG1(PCS)_TC",
+      "english": "ignition IG1, PCS, TC",
+      "russian": "зажигание IG1, PCS, TC",
+      "terminal": "D26B000",
+      "geometry": {
+        "x": 32.074,
+        "y": 20.405,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "b_can",
+  "category": "electrical_diagram",
+  "title": "B-CAN Communication Line",
+  "system": "b_can",
+  "sheetCount": 4,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/b_can/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/b_can/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/b_can/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/b_can/sheet4.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Audio Unit",
+      "Automatic Lighting/Sunlight Sensor",
+      "Climate Control Unit",
+      "Gauge Control Module",
+      "Headlight Auto Leveling Control Unit"
+    ],
+    "Couplers": [
+      "Audio Unit Connector B (20P) (Female)",
+      "Automatic Lighting/Sunlight Sensor 7P Connector (Female)",
+      "C003 (Female)",
+      "Climate Control Unit 32P Connector (Female)",
+      "Gauge Control Module 32P Connector (Female)",
+      "Headlight Auto Leveling Control Unit 12P Connector (Female)",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "EA Engine Compartment Wire Harness"
+    ]
+  }
+}

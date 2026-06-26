@@ -1,0 +1,62 @@
+{
+  "id": "232_BI24_Left_Side_Impact_Sensor_Second_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BI24",
+  "physicalIds": [
+    "BI24"
+  ],
+  "name": "Left Side Impact Sensor (Second) 2P Connector (Female)",
+  "nameRu": "Разъём левый Side Impact датчик (Second), 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "77982-SNA -0030-H1",
+  "partNumbers": [
+    "77982-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Left Side)"
+  ],
+  "systems": [
+    "SRS"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/77982-SNA -0030-H1.svg",
+    "viewBox": "0 0 79.184 28.174",
+    "width": 79.184,
+    "height": 28.174
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "LS2-",
+      "english": "LS2 -",
+      "russian": "LS2 -",
+      "terminal": "S62A",
+      "geometry": {
+        "x": 27.143,
+        "y": 21.256,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "LS2+",
+      "english": "LS2 +",
+      "russian": "LS2 +",
+      "terminal": "S61B",
+      "geometry": {
+        "x": 47.329,
+        "y": 21.256,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

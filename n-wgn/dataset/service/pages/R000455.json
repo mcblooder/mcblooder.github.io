@@ -1,0 +1,132 @@
+{
+  "id": "R000455",
+  "title": "Removal and installation of radiator water temperature sensor",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cooling System",
+  "system": "cooling device",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000455",
+  "assets": [
+    "455_3.0_jpn_11582531_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Up",
+      "resolved": true
+    },
+    {
+      "id": "R000435",
+      "label": "Cooling water removal",
+      "resolved": true
+    },
+    {
+      "id": "R000850",
+      "label": "Front under cover removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removal and installation of radiator water temperature sensor"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Up",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Up",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Cooling water removal",
+      "refs": [
+        {
+          "id": "R000435",
+          "label": "Cooling water removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Front under cover removal",
+      "refs": [
+        {
+          "id": "R000850",
+          "label": "Front under cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Radiator water temperature sensor removal"
+    },
+    {
+      "type": "figure",
+      "asset": "455_3.0_jpn_11582531_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Remove the water temperature sensor (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "O-rings shall be replaced upon disassembly.",
+        "When replenishing cooling water, do not allow the cooling water to adhere to electrical components or painted surfaces. If it does adhere, wipe it off immediately."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "O-rings shall be replaced upon disassembly."
+        },
+        {
+          "text": "O-rings shall be replaced upon disassembly."
+        },
+        {
+          "text": "When replenishing cooling water, do not allow the cooling water to adhere to electrical components or painted surfaces. If it does adhere, wipe it off immediately."
+        },
+        {
+          "text": "When replenishing cooling water, do not allow the cooling water to adhere to electrical components or painted surfaces. If it does adhere, wipe it off immediately."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000455_jpn/web/html/R000455_jpn_Content.html",
+  "inOutline": true
+}

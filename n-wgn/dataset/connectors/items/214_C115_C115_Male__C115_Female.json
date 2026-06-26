@@ -1,0 +1,93 @@
+{
+  "id": "214_C115_C115_Male__C115_Female",
+  "category": "connector",
+  "connectorRef": "C115",
+  "physicalIds": [
+    "C115"
+  ],
+  "name": "C115 (Male) / C115 (Female)",
+  "nameRu": "Разъём C115, штыревая часть / Разъём C115, гнездовая часть",
+  "type": "MiddleCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 4,
+  "faceviewPart": "91778-T2AA-0030-H1_91794-T2AA-0030-H1",
+  "partNumbers": [
+    "91778-T2AA-0030-H1",
+    "91794-T2AA-0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-",
+    "32751-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Right Side)",
+    "Door > Driver's Door"
+  ],
+  "systems": [
+    "Power Windows"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91778-T2AA-0030-H1_91794-T2AA-0030-H1.svg",
+    "viewBox": "0 0 106.627 127.557",
+    "width": 106.627,
+    "height": 127.557
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "P/W_RR_R_SW_UP",
+      "english": "power window, rear/right, right, switch, up",
+      "russian": "стеклоподъёмник, задний/правый, правый, выключатель, вверх",
+      "terminal": "510A",
+      "geometry": {
+        "x": 85.342,
+        "y": 33.698,
+        "svgTextId": "XMLID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "P/W_RR_R_SW_DOWN",
+      "english": "power window, rear/right, right, switch, down",
+      "russian": "стеклоподъёмник, задний/правый, правый, выключатель, вниз",
+      "terminal": "511B",
+      "geometry": {
+        "x": 62.336,
+        "y": 33.698,
+        "svgTextId": "XMLID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "P/W_RR_L_SW_UP",
+      "english": "power window, rear/right, left, switch, up",
+      "russian": "стеклоподъёмник, задний/правый, левый, выключатель, вверх",
+      "terminal": "512C",
+      "geometry": {
+        "x": 39.578,
+        "y": 33.698,
+        "svgTextId": "XMLID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "P/W_RR_L_SW_DOWN",
+      "english": "power window, rear/right, left, switch, down",
+      "russian": "стеклоподъёмник, задний/правый, левый, выключатель, вниз",
+      "terminal": "513D",
+      "geometry": {
+        "x": 16.98,
+        "y": 33.698,
+        "svgTextId": "XMLID_4_"
+      }
+    }
+  ]
+}

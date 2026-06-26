@@ -1,0 +1,76 @@
+{
+  "id": "R000476",
+  "title": "defueling",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Fuel supply equipment",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000476",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "R000488",
+      "label": "Fuel pump removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "defueling"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Fire is strictly prohibited. ​",
+        "Gasoline that has been drained should be stored in a safe place. ​"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Fuel pump removal",
+      "refs": [
+        {
+          "id": "R000488",
+          "label": "Fuel pump removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Fuel Extraction"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove fuel from the fuel pump side using a hand pump or similar device."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Fuel pump installation",
+      "refs": [
+        {
+          "id": "R000488",
+          "label": "Fuel pump installation",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000476_jpn/web/html/R000476_jpn_Content.html",
+  "inOutline": true
+}

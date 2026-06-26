@@ -1,0 +1,417 @@
+{
+  "id": "R000474",
+  "title": "Removal of fuel pressure",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Fuel supply equipment",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000474",
+  "assets": [
+    "474_3.0_jpn_11034614_3.0_disp.png",
+    "474_3.0_jpn_11034619_3.0_disp.png",
+    "474_3.0_jpn_11291997_2.0_disp.png",
+    "474_3.0_jpn_11291998_2.0_disp.png",
+    "474_3.0_jpn_11291999_2.0_disp.png",
+    "474_3.0_jpn_11292000_2.0_disp.png",
+    "474_3.0_jpn_11292001_2.0_disp.png",
+    "474_3.0_jpn_11292002_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000910",
+      "label": "Disconnect the cable from the negative (-) terminal of the 12V battery.",
+      "resolved": true
+    },
+    {
+      "id": "R000412",
+      "label": "Remove air cleaner (for vehicles without turbo charger)",
+      "resolved": true
+    },
+    {
+      "id": "R000418",
+      "label": "Intercooler removal (turbo charger equipped vehicles)",
+      "resolved": true
+    },
+    {
+      "id": "R000483",
+      "label": "Remove the cover (C) of the quick-connect fuel tube (B).",
+      "resolved": true
+    },
+    {
+      "id": "G000482",
+      "label": "After removing the quick-connect fuel tube, handle it with care.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removal of fuel pressure"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Fire is strictly prohibited. ​",
+        "Fuel should be received with a rag to prevent it from getting on the top of the engine. ​"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. HDS Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "474_3.0_jpn_11291997_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect HDS to the data link coupler (A) on the left side of the driver's seat."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Fuel filler cap removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the fuel filler cap and relieve the pressure in the fuel tank."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Fuel pump stop"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Select Fuel Pump Forced Shutdown in the HDS inspection menu, start the engine according to the on-screen instructions, and leave the engine idling until it stops."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not step on the accelerator pedal before stopping the engine.",
+        "The PGM-FI warning light may come on and DTCs may be detected during this procedure, but clearing the DTCs should be done after all work related to fuel pressure removal has been completed."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do not step on the accelerator pedal before stopping the engine."
+        },
+        {
+          "text": "Do not step on the accelerator pedal before stopping the engine."
+        },
+        {
+          "text": "The PGM-FI warning light may come on and DTCs may be detected during this procedure, but clearing the DTCs should be done after all work related to fuel pressure removal has been completed."
+        },
+        {
+          "text": "The PGM-FI warning light may come on and DTCs may be detected during this procedure, but clearing the DTCs should be done after all work related to fuel pressure removal has been completed."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. 12V battery Negative (-) terminal Disconnect"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode. Disconnect the cable from the negative (-) terminal of the 12V battery.",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "Disconnect the cable from the negative (-) terminal of the 12V battery.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Remove air cleaner (for vehicles without turbo charger)",
+      "refs": [
+        {
+          "id": "R000412",
+          "label": "Remove air cleaner (for vehicles without turbo charger)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Intercooler removal (turbo charger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000418",
+          "label": "Intercooler removal (turbo charger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Fuel pressure Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "474_3.0_jpn_11291998_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the clamp (A), Remove the cover (C) of the quick-connect fuel tube (B).",
+      "refs": [
+        {
+          "id": "R000483",
+          "label": "Remove the cover (C) of the quick-connect fuel tube (B).",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Inspect the quick-connect fuel tube for dirt, etc., and clean if necessary."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "474_3.0_jpn_11291999_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Wrap a rag (B) or similar material around the quick-connect fuel tube (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "474_3.0_jpn_11034614_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Hold the connector (A) by hand and be sure to grasp the retainer (B) by hand and pull out the connector."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "To avoid damaging the pipe, be sure to pull it out by hand without using any tools.",
+        "If there is a sticking point between the connector and the pipe, push and pull the connector with the retainer pinched by hand until it moves freely before pulling it out.",
+        "Do not remove the retainer remaining on the pipe side.",
+        "When a retainer is removed from a pipe, it must be replaced with a new retainer."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "To avoid damaging the pipe, be sure to pull it out by hand without using any tools."
+        },
+        {
+          "text": "To avoid damaging the pipe, be sure to pull it out by hand without using any tools."
+        },
+        {
+          "text": "If there is a sticking point between the connector and the pipe, push and pull the connector with the retainer pinched by hand until it moves freely before pulling it out."
+        },
+        {
+          "text": "If there is a sticking point between the connector and the pipe, push and pull the connector with the retainer pinched by hand until it moves freely before pulling it out."
+        },
+        {
+          "text": "Do not remove the retainer remaining on the pipe side."
+        },
+        {
+          "text": "Do not remove the retainer remaining on the pipe side."
+        },
+        {
+          "text": "When a retainer is removed from a pipe, it must be replaced with a new retainer."
+        },
+        {
+          "text": "When a retainer is removed from a pipe, it must be replaced with a new retainer."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Fuel filler cap removal"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the fuel filler cap and relieve the pressure in the fuel tank."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Fuel pump stop"
+    },
+    {
+      "type": "figure",
+      "asset": "474_3.0_jpn_11292000_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove PGM-FI main relay 2 (B) from relay holder A. Start the engine and leave it idling until the engine stops."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "During this procedure, the PGM-FI warning light may come on and the DTC may be detected, but clearing the DTC should be done after all work related to fuel pressure removal has been completed."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. 12V battery Negative (-) terminal Disconnect"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode. Disconnect the cable from the negative (-) terminal of the 12V battery.",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "Disconnect the cable from the negative (-) terminal of the 12V battery.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Remove air cleaner (for vehicles without turbo charger)",
+      "refs": [
+        {
+          "id": "R000412",
+          "label": "Remove air cleaner (for vehicles without turbo charger)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Intercooler removal (turbo charger equipped vehicles)",
+      "refs": [
+        {
+          "id": "R000418",
+          "label": "Intercooler removal (turbo charger equipped vehicles)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Fuel pressure Removal"
+    },
+    {
+      "type": "figure",
+      "asset": "474_3.0_jpn_11292001_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the clamp (A), Remove the cover (C) of the quick-connect fuel tube (B).",
+      "refs": [
+        {
+          "id": "R000483",
+          "label": "Remove the cover (C) of the quick-connect fuel tube (B).",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Inspect the quick-connect fuel tube for dirt, etc., and clean if necessary."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "474_3.0_jpn_11292002_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Wrap a rag (B) or similar material around the quick-connect fuel tube (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "474_3.0_jpn_11034619_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Hold the connector (A) by hand and be sure to grasp the retainer (B) by hand and pull out the connector. After removing the quick-connect fuel tube, handle it with care.",
+      "refs": [
+        {
+          "id": "G000482",
+          "label": "After removing the quick-connect fuel tube, handle it with care.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "To avoid damaging the pipe, be sure to pull it out by hand without using any tools.",
+        "If there is a sticking point between the connector and the pipe, push and pull the connector with the retainer pinched by hand until it moves freely before pulling it out.",
+        "Do not remove the retainer remaining on the pipe side.",
+        "When a retainer is removed from a pipe, it must be replaced with a new retainer."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "To avoid damaging the pipe, be sure to pull it out by hand without using any tools."
+        },
+        {
+          "text": "To avoid damaging the pipe, be sure to pull it out by hand without using any tools."
+        },
+        {
+          "text": "If there is a sticking point between the connector and the pipe, push and pull the connector with the retainer pinched by hand until it moves freely before pulling it out."
+        },
+        {
+          "text": "If there is a sticking point between the connector and the pipe, push and pull the connector with the retainer pinched by hand until it moves freely before pulling it out."
+        },
+        {
+          "text": "Do not remove the retainer remaining on the pipe side."
+        },
+        {
+          "text": "Do not remove the retainer remaining on the pipe side."
+        },
+        {
+          "text": "When a retainer is removed from a pipe, it must be replaced with a new retainer."
+        },
+        {
+          "text": "When a retainer is removed from a pipe, it must be replaced with a new retainer."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000474_jpn/web/html/R000474_jpn_Content.html",
+  "inOutline": true
+}

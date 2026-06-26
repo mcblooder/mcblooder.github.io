@@ -1,0 +1,150 @@
+{
+  "id": "R000391",
+  "title": "Inspect cylinder block/piston",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder block",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000391",
+  "assets": [
+    "391_3.0_jpn_11582957_3.0_disp.png",
+    "391_3.0_jpn_11582958_3.0_disp.png",
+    "391_3.0_jpn_11582959_3.0_disp.png",
+    "391_3.0_jpn_11582960_3.0_disp.png",
+    "391_3.0_jpn_11582961_3.0_disp.png",
+    "391_3.0_jpn_11588153_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000392",
+      "label": "Piston/con-rod assembly removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect cylinder block/piston"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Piston/con-rod assembly removal",
+      "refs": [
+        {
+          "id": "R000392",
+          "label": "Piston/con-rod assembly removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Cylinder block inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "391_3.0_jpn_11588153_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "391_3.0_jpn_11582957_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Measure the wear and taper of the cylinder block bore. Measure 3 locations each in the X and Y directions. Cylinder Block I.D. Std. X direction 64.000－64.020mm Y direction 64.000－64.015mm Limit value: 1 X direction 64.065mm Y direction 64.065mm Difference between upper and lower I.D. Limit value: 1 0.05mm"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not scratch or dent the gasket mating surface of the cylinder block.",
+        "If the limit value is exceeded, the cylinder block should be replaced."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do not scratch or dent the gasket mating surface of the cylinder block."
+        },
+        {
+          "text": "Do not scratch or dent the gasket mating surface of the cylinder block."
+        },
+        {
+          "text": "If the limit value is exceeded, the cylinder block should be replaced."
+        },
+        {
+          "text": "If the limit value is exceeded, the cylinder block should be replaced."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "391_3.0_jpn_11582958_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "391_3.0_jpn_11582959_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Measure the strain on the cylinder block. Cylinder block strain Std. 0.07mm or less"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the strain is greater than the standard value, the cylinder block should be replaced."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Piston Inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "391_3.0_jpn_11582960_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "391_3.0_jpn_11582961_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect pistons for strains and cracks and replace if necessary. Measure the outside diameter (A) of the piston. Piston skirt outer diameter Std. 63.970－63.977mm Limit value: 1 63.97mm Clearance with cylinder block bore (Y-direction) Std. 0.023－0.045mm Limit value: 1 0.055mm"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If it is below the limit value, the piston should be replaced."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000391_jpn/web/html/R000391_jpn_Content.html",
+  "inOutline": true
+}

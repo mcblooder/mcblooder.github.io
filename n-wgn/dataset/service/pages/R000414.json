@@ -1,0 +1,255 @@
+{
+  "id": "R000414",
+  "title": "Intake manifold removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Air intake controller",
+  "subtitle": "",
+  "dgName": "Cars not equipped with a turbo charger",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000414",
+  "assets": [
+    "414_3.0_jpn_11583026_3.0_disp.png",
+    "414_3.0_jpn_11583027_3.0_disp.png",
+    "414_3.0_jpn_11583028_3.0_disp.png",
+    "414_3.0_jpn_11583029_3.0_disp.png",
+    "414_3.0_jpn_11583030_3.0_disp.png",
+    "414_3.0_jpn_11583031_3.0_disp.png",
+    "414_3.0_jpn_11583032_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000412",
+      "label": "Air cleaner removal",
+      "resolved": true
+    },
+    {
+      "id": "R000465",
+      "label": "Throttle body removal",
+      "resolved": true
+    },
+    {
+      "id": "R002190",
+      "label": "EGR pipe B removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Intake manifold removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Intake manifold development"
+    },
+    {
+      "type": "figure",
+      "asset": "414_3.0_jpn_11583026_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Air cleaner removal",
+      "refs": [
+        {
+          "id": "R000412",
+          "label": "Air cleaner removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Throttle body removal",
+      "refs": [
+        {
+          "id": "R000465",
+          "label": "Throttle body removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not disconnect the water bypass hose."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. EGR pipe B removal",
+      "refs": [
+        {
+          "id": "R002190",
+          "label": "EGR pipe B removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Intake manifold stay removal"
+    },
+    {
+      "type": "figure",
+      "asset": "414_3.0_jpn_11583027_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove engine wire harness clamp (A) and purge hose clamp (B). Remove the intake manifold stay."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Tube/Coupler Disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "414_3.0_jpn_11583028_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Disconnect purge tube (B), PCV tube (C) and master power tube (D)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Intake manifold removal"
+    },
+    {
+      "type": "figure",
+      "asset": "414_3.0_jpn_11583029_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the harness holder (A). Remove the intake manifold (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Refer to the development diagram when removing the addition."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Intake manifold installation"
+    },
+    {
+      "type": "figure",
+      "asset": "414_3.0_jpn_11583030_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install the intake manifold (B) using new gaskets (A). Install the harness holder (C)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When tightening the intake manifold mounting bolts, tighten them several times diagonally from inside to outside.",
+        "Refer to the development drawing when installing add-ons."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When tightening the intake manifold mounting bolts, tighten them several times diagonally from inside to outside."
+        },
+        {
+          "text": "When tightening the intake manifold mounting bolts, tighten them several times diagonally from inside to outside."
+        },
+        {
+          "text": "Refer to the development drawing when installing add-ons."
+        },
+        {
+          "text": "Refer to the development drawing when installing add-ons."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Tube/Coupler Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "414_3.0_jpn_11583031_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the master power tube (A), PCV tube (B) and purge tube (C). Connect the coupler (D)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Intake manifold stay installation"
+    },
+    {
+      "type": "figure",
+      "asset": "414_3.0_jpn_11583032_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Tighten the intake manifold stay mounting bolts in order of number and install the engine wire harness clamp (A). Install purge hose clamp (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. EGR pipe B mounting",
+      "refs": [
+        {
+          "id": "R002190",
+          "label": "EGR pipe B mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Throttle Body Mounting",
+      "refs": [
+        {
+          "id": "R000465",
+          "label": "Throttle Body Mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Air Cleaner Installation",
+      "refs": [
+        {
+          "id": "R000412",
+          "label": "Air Cleaner Installation",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000414_jpn/web/html/R000414_jpn_Content.html",
+  "inOutline": true
+}

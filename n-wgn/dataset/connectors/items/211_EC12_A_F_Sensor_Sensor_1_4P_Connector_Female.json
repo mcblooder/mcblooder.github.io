@@ -1,0 +1,91 @@
+{
+  "id": "211_EC12_A_F_Sensor_Sensor_1_4P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC12",
+  "physicalIds": [
+    "EC12"
+  ],
+  "name": "A/F Sensor (Sensor 1) 4P Connector (Female)",
+  "nameRu": "Разъём A/F датчик (датчик 1), 4 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 4,
+  "faceviewPart": "91704-R70 -A010-Y1",
+  "partNumbers": [
+    "91704-R70 -A010-Y1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)"
+  ],
+  "systems": [
+    "PCM (All)",
+    "PGM-FI System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91704-R70 -A010-Y1.svg",
+    "viewBox": "0 0 55.654 55.761",
+    "width": 55.654,
+    "height": 55.761
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "AFV",
+      "english": "AFV",
+      "russian": "AFV",
+      "terminal": "E80A000",
+      "geometry": {
+        "x": 13.97,
+        "y": 24.686,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "RED",
+      "circuit": "AFC",
+      "english": "AFC",
+      "russian": "AFC",
+      "terminal": "E78B000",
+      "geometry": {
+        "x": 37.355,
+        "y": 24.731,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "AFHT",
+      "english": "AFHT",
+      "russian": "AFHT",
+      "terminal": "E79C000",
+      "geometry": {
+        "x": 13.97,
+        "y": 47.545,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "IGP(LAF)",
+      "english": "IGP, LAF",
+      "russian": "IGP, LAF",
+      "terminal": "E70D000",
+      "geometry": {
+        "x": 37.355,
+        "y": 47.545,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

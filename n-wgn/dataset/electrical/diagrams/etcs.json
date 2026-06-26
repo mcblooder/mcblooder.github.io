@@ -1,0 +1,57 @@
+{
+  "id": "etcs",
+  "category": "electrical_diagram",
+  "title": "ETCS (Electronic Throttle Control System)",
+  "system": "etcs",
+  "sheetCount": 3,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/etcs/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/etcs/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/etcs/sheet3.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "APP Sensor",
+      "DBW Relay",
+      "PCM",
+      "PGM-FI Main Relay 1",
+      "Throttle Body"
+    ],
+    "Couplers": [
+      "APP Sensor 6P Connector (Female)",
+      "C002 (Female)",
+      "C105 (Male)|C105 (Female)",
+      "PCM Connector A (50P) (Female)",
+      "PCM Connector E (80P) (Female)",
+      "Sub Relay Block 1",
+      "T1",
+      "Throttle Body 6P Connector (Female)",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_DBW",
+      "+B_F/BOX_MAIN",
+      "+B_MAIN",
+      "21_+B_IGP"
+    ],
+    "Grounds": [
+      "G303"
+    ],
+    "Harnesses": [
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

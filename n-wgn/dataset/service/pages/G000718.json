@@ -1,0 +1,325 @@
+{
+  "id": "G000718",
+  "title": "Front Door Configuration",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "door (Western-style)",
+  "system": "Front door",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000718",
+  "assets": [
+    "718_3.0_jpn_11581045_3.0_disp.png",
+    "718_3.0_jpn_11581046_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000730",
+      "label": "R000730",
+      "resolved": true
+    },
+    {
+      "id": "R000728",
+      "label": "R000728",
+      "resolved": true
+    },
+    {
+      "id": "R000742",
+      "label": "R000742",
+      "resolved": true
+    },
+    {
+      "id": "R000729",
+      "label": "R000729",
+      "resolved": true
+    },
+    {
+      "id": "R000720",
+      "label": "R000720",
+      "resolved": true
+    },
+    {
+      "id": "R000726",
+      "label": "R000726",
+      "resolved": true
+    },
+    {
+      "id": "R000721",
+      "label": "R000721",
+      "resolved": true
+    },
+    {
+      "id": "R000743",
+      "label": "R000743",
+      "resolved": true
+    },
+    {
+      "id": "R000725",
+      "label": "R000725",
+      "resolved": true
+    },
+    {
+      "id": "R000722",
+      "label": "R000722",
+      "resolved": true
+    },
+    {
+      "id": "R000723",
+      "label": "R000723",
+      "resolved": true
+    },
+    {
+      "id": "R000724",
+      "label": "R000724",
+      "resolved": true
+    },
+    {
+      "id": "R000741",
+      "label": "R000741",
+      "resolved": true
+    },
+    {
+      "id": "R002514",
+      "label": "R002514",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front Door Configuration"
+    },
+    {
+      "type": "figure",
+      "asset": "718_3.0_jpn_11581045_3.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            26.0,
+            58.0,
+            48.0,
+            72.0
+          ],
+          "ref": {
+            "id": "R000730",
+            "label": "R000730",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            18.0,
+            368.0,
+            40.0,
+            382.0
+          ],
+          "ref": {
+            "id": "R000728",
+            "label": "R000728",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            30.0,
+            536.0,
+            84.0,
+            550.0
+          ],
+          "ref": {
+            "id": "R000742",
+            "label": "R000742",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            516.0,
+            102.0,
+            538.0,
+            116.0
+          ],
+          "ref": {
+            "id": "R000729",
+            "label": "R000729",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            497.0,
+            512.0,
+            519.0,
+            526.0
+          ],
+          "ref": {
+            "id": "R000720",
+            "label": "R000720",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            280.0,
+            548.0,
+            302.0,
+            562.0
+          ],
+          "ref": {
+            "id": "R000726",
+            "label": "R000726",
+            "resolved": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "718_3.0_jpn_11581046_3.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            280.0,
+            46.0,
+            302.0,
+            60.0
+          ],
+          "ref": {
+            "id": "R000721",
+            "label": "R000721",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            541.0,
+            246.0,
+            563.0,
+            260.0
+          ],
+          "ref": {
+            "id": "R000743",
+            "label": "R000743",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            431.0,
+            605.0,
+            453.0,
+            619.0
+          ],
+          "ref": {
+            "id": "R000725",
+            "label": "R000725",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            505.0,
+            542.0,
+            527.0,
+            556.0
+          ],
+          "ref": {
+            "id": "R000722",
+            "label": "R000722",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            97.0,
+            216.0,
+            119.0,
+            230.0
+          ],
+          "ref": {
+            "id": "R000723",
+            "label": "R000723",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            21.0,
+            633.0,
+            43.0,
+            647.0
+          ],
+          "ref": {
+            "id": "R000722",
+            "label": "R000722",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            478.0,
+            40.0,
+            500.0,
+            54.0
+          ],
+          "ref": {
+            "id": "R000724",
+            "label": "R000724",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            478.0,
+            51.0,
+            532.0,
+            65.0
+          ],
+          "ref": {
+            "id": "R000741",
+            "label": "R000741",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            23.0,
+            263.0,
+            45.0,
+            277.0
+          ],
+          "ref": {
+            "id": "R002514",
+            "label": "R002514",
+            "resolved": true
+          }
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131120091740/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000718_jpn/web/html/G000718_jpn_Content.html",
+  "inOutline": true
+}

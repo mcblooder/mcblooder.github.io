@@ -1,0 +1,63 @@
+{
+  "id": "266_EA58_Windshield_Rear_Window_Washer_Motor_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA58",
+  "physicalIds": [
+    "EA58"
+  ],
+  "name": "Windshield/Rear Window Washer Motor 2P Connector (Female)",
+  "nameRu": "Разъём Windshield/задний Window Washer электродвигатель, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91761-STK -0030-H1",
+  "partNumbers": [
+    "91761-STK -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Left Side"
+  ],
+  "systems": [
+    "Wiper/Washer (Rear Window)",
+    "Wiper/Washer (Windshield)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91761-STK -0030-H1.svg",
+    "viewBox": "0 0 48.279 25.01",
+    "width": 48.279,
+    "height": 25.01
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "FR_WASHER_MTR",
+      "english": "front, washer, motor",
+      "russian": "передний, омыватель, электродвигатель",
+      "terminal": "430A",
+      "geometry": {
+        "x": 11.041,
+        "y": 17.74,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "RR_WASHER_MTR",
+      "english": "rear/right, washer, motor",
+      "russian": "задний/правый, омыватель, электродвигатель",
+      "terminal": "431B",
+      "geometry": {
+        "x": 31.657,
+        "y": 17.74,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": "G000977",
+  "title": "Turn Signal/Hazard Light Configuration Diagram",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Turn Signal/Hazard Lights",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000977",
+  "assets": [
+    "977_3.0_jpn_11337355_2.0_disp.png",
+    "977_3.0_jpn_11337356_2.0_disp.png",
+    "977_3.0_jpn_11337357_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000981",
+      "label": "R000981",
+      "resolved": true
+    },
+    {
+      "id": "R000980",
+      "label": "R000980",
+      "resolved": true
+    },
+    {
+      "id": "R000961",
+      "label": "R000961",
+      "resolved": true
+    },
+    {
+      "id": "T001411",
+      "label": "T001411",
+      "resolved": true
+    },
+    {
+      "id": "R000925",
+      "label": "R000925",
+      "resolved": true
+    },
+    {
+      "id": "R000962",
+      "label": "R000962",
+      "resolved": true
+    },
+    {
+      "id": "R000960",
+      "label": "R000960",
+      "resolved": true
+    },
+    {
+      "id": "R000978",
+      "label": "R000978",
+      "resolved": true
+    },
+    {
+      "id": "R000979",
+      "label": "R000979",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Turn Signal/Hazard Light Configuration Diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "977_3.0_jpn_11337355_2.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            38.0,
+            60.0,
+            60.0,
+            74.0
+          ],
+          "ref": {
+            "id": "R000981",
+            "label": "R000981",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            453.0,
+            628.0,
+            475.0,
+            642.0
+          ],
+          "ref": {
+            "id": "R000980",
+            "label": "R000980",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            16.0,
+            593.0,
+            81.0,
+            607.0
+          ],
+          "ref": {
+            "id": "R000961",
+            "label": "R000961",
+            "resolved": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "977_3.0_jpn_11337356_2.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            429.0,
+            466.0,
+            473.0,
+            480.0
+          ],
+          "ref": {
+            "id": "T001411",
+            "label": "T001411",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            429.0,
+            476.0,
+            451.0,
+            490.0
+          ],
+          "ref": {
+            "id": "R000925",
+            "label": "R000925",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            31.0,
+            521.0,
+            96.0,
+            535.0
+          ],
+          "ref": {
+            "id": "R000962",
+            "label": "R000962",
+            "resolved": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "977_3.0_jpn_11337357_2.0_disp.png",
+      "areas": [
+        {
+          "shape": "rect",
+          "coords": [
+            204.0,
+            623.0,
+            255.0,
+            637.0
+          ],
+          "ref": {
+            "id": "R000960",
+            "label": "R000960",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            165.0,
+            160.0,
+            187.0,
+            174.0
+          ],
+          "ref": {
+            "id": "R000978",
+            "label": "R000978",
+            "resolved": true
+          }
+        },
+        {
+          "shape": "rect",
+          "coords": [
+            165.0,
+            171.0,
+            187.0,
+            185.0
+          ],
+          "ref": {
+            "id": "R000979",
+            "label": "R000979",
+            "resolved": true
+          }
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000977_jpn/web/html/G000977_jpn_Content.html",
+  "inOutline": true
+}

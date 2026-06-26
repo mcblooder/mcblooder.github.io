@@ -1,0 +1,76 @@
+{
+  "id": "R000811",
+  "title": "Check seat belts",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Seat Belt",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000811",
+  "assets": [
+    "811_3.0_jpn_11581430_3.0_disp.png",
+    "811_3.0_jpn_11581431_3.0_disp.png",
+    "811_3.0_jpn_11581432_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Check seat belts"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. inspection"
+    },
+    {
+      "type": "paragraph",
+      "text": "If any of the inspection items in the figure applies, replace the seat belt with a new one."
+    },
+    {
+      "type": "figure",
+      "asset": "811_3.0_jpn_11581430_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "811_3.0_jpn_11581431_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "811_3.0_jpn_11581432_3.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If there are components of the SRS airbag system in the vicinity, refer to the work precautions and configuration drawings described for the SRS airbag system before proceeding."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Check that the seat belt can be pulled out smoothly when installed in the vehicle. When the seat belt assy.(A) is gently folded down from the installation angle, check that it does not lock within 15° and that it remains locked at an angle of 40° or more."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not disassemble the seat belt assembly."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Check that the seat belt is not installed in a twisted position. After mounting each anchor, check that each anchor moves in the circumferential direction of the bolt. If there is any defect, remove the bolts and check the installation order and damage of washers. Inspect the seat belt for dirt, damage, fading, etc., and if dirty, remove the dirt with a rag. Check that the seat belt does not lock when pulled slowly, and that it locks when pulled abruptly. Check that the seat belt is correctly wound onto the seat belt assembly when the seat belt is slowly pulled back and released."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000811_jpn/web/html/R000811_jpn_Content.html",
+  "inOutline": true
+}

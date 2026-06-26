@@ -1,0 +1,39 @@
+{
+  "id": "C001747",
+  "title": "Vehicle Stability Assist (VSA) system structure description - VSA OFF mode",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001747",
+  "assets": [
+    "1747_3.0_jpn_11114106_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Vehicle Stability Assist (VSA) system structure description - VSA OFF mode"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the VSA OFF switch is pressed, the VSA OFF warning light illuminates and VSA enters the OFF mode; in the OFF mode, the TCS function is deactivated at low speeds to ensure escape from rough roads such as sandy or deep snow roads. When starting off on different road surface conditions, TCS is activated even in OFF mode to ensure stability; if TCS is activated in OFF mode, the VSA warning light flashes while the VSA OFF warning light remains on. The TCS function is completely deactivated by activating the VSA maintenance mode."
+    },
+    {
+      "type": "figure",
+      "asset": "1747_3.0_jpn_11114106_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001747_jpn/web/html/C001747_jpn_Content.html",
+  "inOutline": true
+}

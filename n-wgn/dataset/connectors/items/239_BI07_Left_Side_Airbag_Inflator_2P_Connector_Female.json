@@ -1,0 +1,62 @@
+{
+  "id": "239_BI07_Left_Side_Airbag_Inflator_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BI07",
+  "physicalIds": [
+    "BI07"
+  ],
+  "name": "Left Side Airbag Inflator 2P Connector (Female)",
+  "nameRu": "Разъём левый Side Airbag Inflator, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "77982-SNA -0030-H1",
+  "partNumbers": [
+    "77982-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Left Side)"
+  ],
+  "systems": [
+    "SRS"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/77982-SNA -0030-H1.svg",
+    "viewBox": "0 0 79.184 28.174",
+    "width": 79.184,
+    "height": 28.174
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "LSA-",
+      "english": "LSA -",
+      "russian": "LSA -",
+      "terminal": "S12A",
+      "geometry": {
+        "x": 27.143,
+        "y": 21.256,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "LSA+",
+      "english": "LSA +",
+      "russian": "LSA +",
+      "terminal": "S11B",
+      "geometry": {
+        "x": 47.329,
+        "y": 21.256,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

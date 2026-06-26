@@ -1,0 +1,80 @@
+{
+  "id": "wiper_washer_f",
+  "category": "electrical_diagram",
+  "title": "Wiper/Washer (Windshield)",
+  "system": "wiper_washer_f",
+  "sheetCount": 5,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/wiper_washer_f/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/wiper_washer_f/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/wiper_washer_f/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/wiper_washer_f/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/wiper_washer_f/sheet5.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Engine Start/Stop Switch",
+      "Front Wiper HI/LO Relay",
+      "Front Wiper Intermittent Relay",
+      "Front Wiper Motor Relay",
+      "Front/Rear Washer Motor Relay Circuit",
+      "Washer Motor Relay",
+      "Windshield Wiper Motor",
+      "Windshield/Rear Window Washer Motor",
+      "Wiper/Washer Switch"
+    ],
+    "Couplers": [
+      "C113 (Male)|C113 (Female)",
+      "C120 (Male)|C120 (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Sub Relay Block 1",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box",
+      "Windshield Wiper Motor 4P Connector (Female)",
+      "Windshield/Rear Window Washer Motor 2P Connector (Female)",
+      "Wiper/Washer Switch 10P Connector (Female)"
+    ],
+    "Fuses": [
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "+B_WASHER",
+      "+B_WIPER",
+      "IG1_WIPER(P/S)"
+    ],
+    "Grounds": [
+      "G201",
+      "G202",
+      "G402"
+    ],
+    "Harnesses": [
+      "BC Combinetion Switch Subharness",
+      "BD Dashboard Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

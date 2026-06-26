@@ -1,0 +1,119 @@
+{
+  "id": "158_DD01_Driver_s_Door_Latch_6P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "DD01",
+  "physicalIds": [
+    "DD01"
+  ],
+  "name": "Driver's Door Latch 6P Connector (Female)",
+  "nameRu": "Разъём водителя Door Latch, 6 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 6,
+  "populatedPinCount": 5,
+  "faceviewPart": "91781-S04 -0030-H1",
+  "partNumbers": [
+    "91781-S04 -0030-H1"
+  ],
+  "harnesses": [
+    "32751-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Door > Driver's Door"
+  ],
+  "systems": [
+    "Entry Light Control System",
+    "Keyless/Power Door Locks/Security System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91781-S04 -0030-H1.svg",
+    "viewBox": "0 0 91.46 55.174",
+    "width": 91.46,
+    "height": 55.174
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z40A",
+      "geometry": {
+        "x": 9.548,
+        "y": 19.649,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "DR_SILCON_UNLOCK",
+      "english": "DR, SILCON, unlock",
+      "russian": "DR, SILCON, отпирание",
+      "terminal": "555B",
+      "geometry": {
+        "x": 77.581,
+        "y": 19.649,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 9.548,
+        "y": 42.328,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "R_SIDE_DOOR_UNLOCK",
+      "english": "right, SIDE, door, unlock",
+      "russian": "правый, SIDE, дверь, отпирание",
+      "terminal": "551D",
+      "geometry": {
+        "x": 32.224,
+        "y": 42.328,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "R_SIDE_DOOR_LOCK",
+      "english": "right, SIDE, door, lock",
+      "russian": "правый, SIDE, дверь, запирание",
+      "terminal": "550E",
+      "geometry": {
+        "x": 54.903,
+        "y": 42.328,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "DR_SILCON_LOCK",
+      "english": "DR, SILCON, lock",
+      "russian": "DR, SILCON, запирание",
+      "terminal": "554F",
+      "geometry": {
+        "x": 77.581,
+        "y": 42.328,
+        "svgTextId": "SVGID_6_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "T002198",
+  "title": "Cruise control (ECU) input inspection",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Speed/body control",
+  "system": "Cruise control system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002198",
+  "assets": [
+    "2198_3.0_jpn_11289834_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "T002567",
+      "label": "Inspect data link circuits",
+      "resolved": false
+    },
+    {
+      "id": "R000448",
+      "label": "Replace with a new PGM-FI ECU.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cruise control (ECU) input inspection"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Work shall be performed using the latest HDS software.",
+        "Since transient failures are often due to poor coupler connections, check the state of the connections if a problem is found during input inspection."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Connect HDS to the data link coupler (A) located in the driver's seat. 2. Turn ignition to ON mode. 3. Verify that HDS communicates with the vehicle and the PGM-FI ECU. 4. Check DTC. 5. Check the cruise control input. signal Measuring conditions display items Inspection items in case of abnormality Cruise Main SW Press (release) the CRUISE button. Cruise Main SW signal value turns ON when button is pressed and OFF when released Cruise Set SW Press (release) the SET- button. Cruise Set SW signal value turns ON when button is pressed and OFF when released Cruise Resume SW Press (release) the RES+ button. Cruise Resume SW signal value turns ON when button is pressed and OFF when released Cruise Cancel SW Press (release) the CANCEL button. Cruise Cancel SW signal value turns ON when button is pressed and OFF when released Cruise Brake SW Brake pedal (release) Cruise The value of the brake SW signal becomes OPEN when the brake pedal is depressed and CLOSE when it is released. Cruise Indicator Press the CRUISE button when the car is ready to run, and set (cancel) cruise while driving at 40 km/h or more. Cruise indicator signal value turns ON when cruise is set and OFF when canceled",
+      "refs": [
+        {
+          "id": "T002567",
+          "label": "Inspect data link circuits",
+          "resolved": false
+        },
+        {
+          "id": "R000448",
+          "label": "Replace with a new PGM-FI ECU.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2198_3.0_jpn_11289834_2.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If not communicating, Inspect data link circuits Do.",
+          "refs": [
+            {
+              "id": "T002567",
+              "label": "Inspect data link circuits",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If DTCs are detected, perform DTC-specific fault diagnosis."
+        },
+        {
+          "text": "If DTC is not detected, perform the following input checks while checking the items displayed in the data list of the PGM-FI menu."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If there is no abnormality, Replace with a new PGM-FI ECU.",
+          "refs": [
+            {
+              "id": "R000448",
+              "label": "Replace with a new PGM-FI ECU.",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cruise control Combination switch"
+        },
+        {
+          "text": "Disconnected or shorted cord between combination meter and cruise control combination switch"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Cruise control Combination switch"
+        },
+        {
+          "text": "Disconnected or shorted cord between combination meter and cruise control combination switch"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Brake switch"
+        },
+        {
+          "text": "No. C32 (7.5A) fuse in fuse box"
+        },
+        {
+          "text": "Disconnection or short circuit of cord between PGM-FI ECU and brake switch"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Combination Meter"
+        },
+        {
+          "text": "Cruise control Combination switch"
+        },
+        {
+          "text": "Disconnected or shorted cord between combination meter and cruise control combination switch"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002198_jpn/web/html/T002198_jpn_Content.html",
+  "inOutline": true
+}

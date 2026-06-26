@@ -1,0 +1,33 @@
+{
+  "id": "C002920",
+  "title": "Air Conditioner Construction Description - A/C Pressure Switch",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002920",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Air Conditioner Construction Description - A/C Pressure Switch"
+    },
+    {
+      "type": "paragraph",
+      "text": "This switch is mounted on the receiver pipe at the condenser outlet and turns the ACS signal ON/OFF according to the refrigerant pressure in the A/C system. The output signal is sent to the PGM-FI ECU, which controls the A/C compressor clutch relay ON/OFF and radiator fan control. Refrigerant pressure in the system is 2,550 kPa (26.00 kgf/cm) 2 ) kPa or higher, or 196 kPa (2.00 kgf/cm) 2 When the A/C compressor clutch relay is turned off to protect the system, the A/C compressor is stopped."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002920_jpn/web/html/C002920_jpn_Content.html",
+  "inOutline": true
+}

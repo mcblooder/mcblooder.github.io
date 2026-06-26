@@ -1,0 +1,58 @@
+{
+  "id": "C001916",
+  "title": "Fan Control Structure Description - Cooling System",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cooling System",
+  "system": "cooling device",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001916",
+  "assets": [
+    "1916_3.0_jpn_11242751_2.0_disp.png",
+    "1916_3.0_jpn_11242752_2.0_disp.png",
+    "1916_3.0_jpn_11242753_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fan Control Structure Description - Cooling System"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cooling performance has been improved by reviewing the cooling water circulation route. This is a water-cooled pressurized circulation system with the thermostat located on the water inlet side, bottom bypass type."
+    },
+    {
+      "type": "figure",
+      "asset": "1916_3.0_jpn_11242751_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1916_3.0_jpn_11242752_2.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Coolant temperature is detected by the radiator water temperature sensor. The PGM FI-ECU determines the optimal fan drive based on signals from various sensors and the radiator water temperature sensor, and switches LOW/HIGH fan rotation speed. By controlling the drive according to the situation, the cooling water temperature is efficiently maintained and fan noise is reduced."
+    },
+    {
+      "type": "figure",
+      "asset": "1916_3.0_jpn_11242753_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001916_jpn/web/html/C001916_jpn_Content.html",
+  "inOutline": true
+}

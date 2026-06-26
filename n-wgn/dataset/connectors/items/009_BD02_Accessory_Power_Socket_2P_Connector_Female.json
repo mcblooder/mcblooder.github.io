@@ -1,0 +1,62 @@
+{
+  "id": "009_BD02_Accessory_Power_Socket_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD02",
+  "physicalIds": [
+    "BD02"
+  ],
+  "name": "Accessory Power Socket 2P Connector (Female)",
+  "nameRu": "Разъём Accessory Power Socket, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "98456-30002-00",
+  "partNumbers": [
+    "98456-30002-00"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Accessory Power Socket"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/98456-30002-00.svg",
+    "viewBox": "0 0 40.345 57.333",
+    "width": 40.345,
+    "height": 57.333
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-2)",
+      "english": "Ground (CTR-2)",
+      "russian": "Масса (CTR-2)",
+      "terminal": "Z36A",
+      "geometry": {
+        "x": 14.994,
+        "y": 17.407,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "RED",
+      "circuit": "ACC_CIGAR",
+      "english": "ACC, CIGAR",
+      "russian": "ACC, CIGAR",
+      "terminal": "C02B",
+      "geometry": {
+        "x": 14.994,
+        "y": 45.72,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

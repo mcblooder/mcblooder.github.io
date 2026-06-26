@@ -1,0 +1,105 @@
+{
+  "id": "E002538",
+  "title": "Fuel and emission control circuit diagram",
+  "category": "service",
+  "packageKind": "EWD",
+  "packageKindName": "Electrical Wiring (manual)",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/E002538",
+  "assets": [
+    "2538_5.0_jpn_11580132_5.0_disp.png",
+    "2538_5.0_jpn_11580135_5.0_disp.png",
+    "2538_5.0_jpn_11580136_5.0_disp.png",
+    "2538_5.0_jpn_11580137_5.0_disp.png",
+    "2538_5.0_jpn_11580139_5.0_disp.png",
+    "2538_5.0_jpn_11588391_4.0_disp.png",
+    "2538_5.0_jpn_11588393_4.0_disp.png",
+    "2538_5.0_jpn_11588395_4.0_disp.png",
+    "2538_5.0_jpn_11588396_4.0_disp.png",
+    "2538_5.0_jpn_11588397_4.0_disp.png",
+    "2538_5.0_jpn_11588398_4.0_disp.png",
+    "2538_5.0_jpn_11588399_4.0_disp.png",
+    "2538_5.0_jpn_11588400_4.0_disp.png",
+    "2538_5.0_jpn_11673902_3.0_disp.png",
+    "2538_5.0_jpn_11673903_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuel and emission control circuit diagram"
+    },
+    {
+      "type": "figure",
+      "asset": "2538_5.0_jpn_11588391_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2538_5.0_jpn_11580132_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2538_5.0_jpn_11673902_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2538_5.0_jpn_11588393_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2538_5.0_jpn_11580135_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2538_5.0_jpn_11580136_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2538_5.0_jpn_11580137_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2538_5.0_jpn_11673903_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2538_5.0_jpn_11580139_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2538_5.0_jpn_11588395_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2538_5.0_jpn_11588396_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2538_5.0_jpn_11588397_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2538_5.0_jpn_11588398_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2538_5.0_jpn_11588399_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2538_5.0_jpn_11588400_4.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_EWD_20131205174154/Contents/jpn/60T6GD00_2014/EWD/SCT/SC/SYS/E002538_jpn/web/html/E002538_jpn_Content.html",
+  "inOutline": true
+}

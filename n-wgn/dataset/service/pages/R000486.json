@@ -1,0 +1,122 @@
+{
+  "id": "R000486",
+  "title": "Fuel filter removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Fuel supply equipment",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000486",
+  "assets": [
+    "486_3.0_jpn_11582608_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000488",
+      "label": "Fuel pump removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuel filter removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Fire is strictly prohibited. ​",
+        "Removal should be performed with the engine stopped and the battery (-) terminal disconnected. ​"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the fuel pressure does not reach the specified value, check that the fuel pump and pressure regulator are normal before replacing the fuel filter."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Fuel pump removal",
+      "refs": [
+        {
+          "id": "R000488",
+          "label": "Fuel pump removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Fuel filter removal"
+    },
+    {
+      "type": "figure",
+      "asset": "486_3.0_jpn_11582608_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the sender unit (A) and reservoir (B). Remove the pressure regulator (D), fuel pump (E) and wire harness (F) from the strainer case (C) (fuel filter)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When removing the sender unit, do not deform the float arm or other parts."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Parts supplied as a set, including O-rings, must be replaced upon disassembly.",
+        "Lubricate the O-ring with engine oil (genuine Honda) and install the O-ring with care to avoid binding. Never apply brake fluid, radiator fluid, vegetable or alcohol based oil or grease.",
+        "When installing the fuel sender unit, set it in place until it locks securely, and do not deform the float arm or other parts."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Parts supplied as a set, including O-rings, must be replaced upon disassembly."
+        },
+        {
+          "text": "Parts supplied as a set, including O-rings, must be replaced upon disassembly."
+        },
+        {
+          "text": "Lubricate the O-ring with engine oil (genuine Honda) and install the O-ring with care to avoid binding. Never apply brake fluid, radiator fluid, vegetable or alcohol based oil or grease."
+        },
+        {
+          "text": "Lubricate the O-ring with engine oil (genuine Honda) and install the O-ring with care to avoid binding. Never apply brake fluid, radiator fluid, vegetable or alcohol based oil or grease."
+        },
+        {
+          "text": "When installing the fuel sender unit, set it in place until it locks securely, and do not deform the float arm or other parts."
+        },
+        {
+          "text": "When installing the fuel sender unit, set it in place until it locks securely, and do not deform the float arm or other parts."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000486_jpn/web/html/R000486_jpn_Content.html",
+  "inOutline": true
+}

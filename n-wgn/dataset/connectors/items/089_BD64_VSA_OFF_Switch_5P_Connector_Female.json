@@ -1,0 +1,107 @@
+{
+  "id": "089_BD64_VSA_OFF_Switch_5P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD64",
+  "physicalIds": [
+    "BD64"
+  ],
+  "name": "VSA OFF Switch 5P Connector (Female)",
+  "nameRu": "Разъём VSA OFF выключатель, 5 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 5,
+  "populatedPinCount": 4,
+  "faceviewPart": "91764-TV0 -0030-H1",
+  "partNumbers": [
+    "91764-TV0 -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Dashlights",
+    "Gauges",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91764-TV0 -0030-H1.svg",
+    "viewBox": "0 0 114.092 36.99",
+    "width": 114.092,
+    "height": 36.99
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z40A",
+      "geometry": {
+        "x": 9.639,
+        "y": 27.277,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "VSA_OFF_SW",
+      "english": "VSA, off, switch",
+      "russian": "VSA, выключение, выключатель",
+      "terminal": "A53B",
+      "geometry": {
+        "x": 32.315,
+        "y": 27.277,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 54.992,
+        "y": 27.277,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11D",
+      "geometry": {
+        "x": 77.67,
+        "y": 27.277,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z30E",
+      "geometry": {
+        "x": 100.346,
+        "y": 27.277,
+        "svgTextId": "SVGID_5_"
+      }
+    }
+  ]
+}

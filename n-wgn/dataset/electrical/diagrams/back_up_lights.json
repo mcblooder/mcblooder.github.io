@@ -1,0 +1,85 @@
+{
+  "id": "back_up_lights",
+  "category": "electrical_diagram",
+  "title": "Back-Up Lights",
+  "system": "back_up_lights",
+  "sheetCount": 6,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/back_up_lights/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/back_up_lights/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/back_up_lights/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/back_up_lights/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/back_up_lights/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/back_up_lights/sheet6.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Diode",
+      "Engine Start/Stop Switch",
+      "Left Taillight",
+      "PCM",
+      "Reverse Relay Circuit",
+      "Right Taillight",
+      "Transmission Range Sensor"
+    ],
+    "Couplers": [
+      "C113 (Male)|C113 (Female)",
+      "C116 (Male)|C116 (Female)",
+      "C117 (Male)|C117 (Female)",
+      "C121 (Male)|C121 (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Left Taillight 6P Connector (Male)",
+      "PCM Connector A (50P) (Female)",
+      "PCM Connector E (80P) (Female)",
+      "Right Taillight 6P Connector (Male)",
+      "T1",
+      "Transmission Range Sensor 10P Connector (Female)",
+      "Under-Dash Fuse/Relay Box Connector D (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "06_IG1_BACK_LT"
+    ],
+    "Grounds": [
+      "G303",
+      "G402",
+      "G502",
+      "G503"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "LB High Mount Brake Light Subharness",
+      "TH Tailgate Wire Harness"
+    ]
+  }
+}

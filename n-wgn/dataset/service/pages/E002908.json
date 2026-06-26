@@ -1,0 +1,158 @@
+{
+  "id": "E002908",
+  "title": "Overall Schematic Table of Contents",
+  "category": "service",
+  "packageKind": "EWD",
+  "packageKindName": "Electrical Wiring (manual)",
+  "section": "NA",
+  "sectionCode": "0",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/E002908",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Overall Schematic Table of Contents"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Fuse Load List",
+          "1, 2, 3, 4, 5, 6"
+        ],
+        [
+          "MICU",
+          "7, 8"
+        ],
+        [
+          "Honda Smart Key System",
+          "7, 8"
+        ],
+        [
+          "Keyless Door Lock/Security Alarm System",
+          "7, 8, 9"
+        ],
+        [
+          "Charging device",
+          "10"
+        ],
+        [
+          "starter",
+          "10"
+        ],
+        [
+          "PGM-FI ECU",
+          "11, 12, 13, 14"
+        ],
+        [
+          "lubricating device",
+          "11"
+        ],
+        [
+          "Brake Negative Pressure Monitoring System",
+          "12"
+        ],
+        [
+          "Fuel and emission control",
+          "14"
+        ],
+        [
+          "horn",
+          "14"
+        ],
+        [
+          "Combination Meter",
+          "15"
+        ],
+        [
+          "Exterior Lights",
+          "16, 17, 18, 19"
+        ],
+        [
+          "fog light",
+          "17"
+        ],
+        [
+          "Headlight leveling system",
+          "20"
+        ],
+        [
+          "Power Mirror",
+          "21"
+        ],
+        [
+          "Power Window",
+          "22"
+        ],
+        [
+          "Interior Lights",
+          "23"
+        ],
+        [
+          "Wiper/washer",
+          "24"
+        ],
+        [
+          "Rear defroster",
+          "24"
+        ],
+        [
+          "Accessory Socket",
+          "24"
+        ],
+        [
+          "Electric Power Steering (EPS)",
+          "25"
+        ],
+        [
+          "Vehicle stability assist (VSA) system",
+          "25"
+        ],
+        [
+          "Auto Air Conditioner",
+          "26"
+        ],
+        [
+          "Fan Control",
+          "26"
+        ],
+        [
+          "Audio & Visual System (for vehicles equipped with audio system)",
+          "27, 28"
+        ],
+        [
+          "Audio & Visual System (vehicles not equipped with audio system)",
+          "29"
+        ],
+        [
+          "SRS airbag system (TRW)",
+          "30"
+        ],
+        [
+          "SRS airbag system (DENSO)",
+          "31"
+        ],
+        [
+          "Cruise Control",
+          "32"
+        ],
+        [
+          "City Brake Active System",
+          "32"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_EWD_20131205174154/Contents/jpn/60T6GD00_2014/EWD/SCT/SC/SYS/E002908_jpn/web/html/E002908_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,62 @@
+{
+  "id": "128_LB01_High_Mount_Brake_Light_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "LB01",
+  "physicalIds": [
+    "LB01"
+  ],
+  "name": "High Mount Brake Light 2P Connector (Female)",
+  "nameRu": "Разъём High Mount Brake Light, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91775-T5A -0030-H1",
+  "partNumbers": [
+    "91775-T5A -0030-H1"
+  ],
+  "harnesses": [
+    "34271-T6G_-J010-"
+  ],
+  "locations": [
+    "Body > Tailgate"
+  ],
+  "systems": [
+    "Brake Lights"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91775-T5A -0030-H1.svg",
+    "viewBox": "0 0 61.076 48.607",
+    "width": 61.076,
+    "height": 48.607
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT/BLK",
+      "circuit": "GND(RR-R)",
+      "english": "Ground (RR-R)",
+      "russian": "Масса (RR-R)",
+      "terminal": "Z90J",
+      "geometry": {
+        "x": 16.972,
+        "y": 33.157,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "WHT/BLK",
+      "circuit": "STOP_LT",
+      "english": "brake light, light",
+      "russian": "стоп-сигнал, освещение",
+      "terminal": "13D",
+      "geometry": {
+        "x": 39.652,
+        "y": 33.157,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

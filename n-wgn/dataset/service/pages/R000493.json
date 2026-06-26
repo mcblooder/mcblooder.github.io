@@ -1,0 +1,281 @@
+{
+  "id": "R000493",
+  "title": "Inspect P2 relief valve control SOL.V.",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Air intake controller",
+  "subtitle": "",
+  "dgName": "Turbo Charger equipped vehicle",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000493",
+  "assets": [
+    "493_3.0_jpn_11582633_3.0_disp.png",
+    "493_3.0_jpn_11582634_3.0_disp.png",
+    "493_3.0_jpn_11582635_3.0_disp.png",
+    "493_3.0_jpn_11582636_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000495",
+      "label": "Replace the P2 relief valve control SOL.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect P2 relief valve control SOL.V."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Turbocharger out-pipe line negative pressure holding inspection when not in operation"
+    },
+    {
+      "type": "figure",
+      "asset": "493_3.0_jpn_11582633_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the P2 relief valve control SOL.V. bracket (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "493_3.0_jpn_11582634_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Disconnect the negative pressure tube (A) of the P2 relief valve control SOL. Install the negative pressure tube (B) and hand vacuum pump (C)."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If negative pressure is retained, release the negative pressure and proceed to the next step \"HDS Connection\"."
+        },
+        {
+          "text": "If negative pressure is retained, release the negative pressure and proceed to the next step \"HDS Connection\"."
+        },
+        {
+          "text": "If negative pressure is not maintained, Replace the P2 relief valve control SOL.",
+          "refs": [
+            {
+              "id": "R000495",
+              "label": "Replace the P2 relief valve control SOL.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If negative pressure is not maintained, Replace the P2 relief valve control SOL.",
+          "refs": [
+            {
+              "id": "R000495",
+              "label": "Replace the P2 relief valve control SOL.",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. HDS Connection"
+    },
+    {
+      "type": "figure",
+      "asset": "493_3.0_jpn_11582635_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect HDS to the data link coupler (A) on the left side of the driver's seat."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Turbocharger out-pipe line negative pressure holding inspection during forced drive"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "In HDS, select P2 relief valve control SOL.V. ON in the INSPECTION menu. Apply negative pressure and verify that negative pressure is not retained.",
+      "refs": [
+        {
+          "id": "R000495",
+          "label": "Replace the P2 relief valve control SOL.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If negative pressure is maintained, Replace the P2 relief valve control SOL.",
+          "refs": [
+            {
+              "id": "R000495",
+              "label": "Replace the P2 relief valve control SOL.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If negative pressure is maintained, Replace the P2 relief valve control SOL.",
+          "refs": [
+            {
+              "id": "R000495",
+              "label": "Replace the P2 relief valve control SOL.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If negative pressure is not maintained, proceed to the next step, \"Non-operational, Intake Manifold Line Negative Pressure Maintenance Check\"."
+        },
+        {
+          "text": "If negative pressure is not maintained, proceed to the next step, \"Non-operational, Intake Manifold Line Negative Pressure Maintenance Check\"."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Intake manifold line negative pressure holding check when not in operation"
+    },
+    {
+      "type": "figure",
+      "asset": "493_3.0_jpn_11582636_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition OFF (LOCK) mode. Remove the negative pressure tube and hand vacuum pump. Install the negative pressure tube (A) and hand vacuum pump (B). Apply negative pressure and verify that negative pressure is not retained.",
+      "refs": [
+        {
+          "id": "R000495",
+          "label": "Replace the P2 relief valve control SOL.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If negative pressure is not maintained, proceed to the next step \"Intake manifold line negative pressure maintenance check during forced drive\"."
+        },
+        {
+          "text": "If negative pressure is not maintained, proceed to the next step \"Intake manifold line negative pressure maintenance check during forced drive\"."
+        },
+        {
+          "text": "If negative pressure is maintained, Replace the P2 relief valve control SOL.",
+          "refs": [
+            {
+              "id": "R000495",
+              "label": "Replace the P2 relief valve control SOL.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If negative pressure is maintained, Replace the P2 relief valve control SOL.",
+          "refs": [
+            {
+              "id": "R000495",
+              "label": "Replace the P2 relief valve control SOL.",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Intake manifold line negative pressure holding check during forced drive"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn ignition to ON mode. In HDS, select P2 relief valve control SOL.V. ON in the INSPECTION menu. Apply negative pressure and verify that negative pressure is maintained.",
+      "refs": [
+        {
+          "id": "R000495",
+          "label": "Replace the P2 relief valve control SOL.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "If negative pressure is not maintained, Replace the P2 relief valve control SOL.",
+          "refs": [
+            {
+              "id": "R000495",
+              "label": "Replace the P2 relief valve control SOL.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If negative pressure is not maintained, Replace the P2 relief valve control SOL.",
+          "refs": [
+            {
+              "id": "R000495",
+              "label": "Replace the P2 relief valve control SOL.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If negative pressure is maintained, inspect the following items"
+        },
+        {
+          "text": "If negative pressure is maintained, inspect the following items"
+        },
+        {
+          "text": "P2 relief valve Disconnected, broken, or clogged negative pressure tube between control SOL.V. and P2 relief valve"
+        },
+        {
+          "text": "P2 relief valve Disconnected, broken, or clogged negative pressure tube between control SOL.V. and P2 relief valve"
+        },
+        {
+          "text": "P2 relief valve Disconnected, broken, or clogged negative pressure tube between control SOL.V. and P2 relief valve"
+        },
+        {
+          "text": "Disconnected, torn and clogged negative pressure tubing between P2 relief valve control SOL.V. and intake manifold"
+        },
+        {
+          "text": "Disconnected, torn and clogged negative pressure tubing between P2 relief valve control SOL.V. and intake manifold"
+        },
+        {
+          "text": "Disconnected, torn and clogged negative pressure tube between P2 relief valve control SOL.V. and turbocharger out pipe"
+        },
+        {
+          "text": "Disconnected, torn and clogged negative pressure tube between P2 relief valve control SOL.V. and turbocharger out pipe"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000493_jpn/web/html/R000493_jpn_Content.html",
+  "inOutline": true
+}

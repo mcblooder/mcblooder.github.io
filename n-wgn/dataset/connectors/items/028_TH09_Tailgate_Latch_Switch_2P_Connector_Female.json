@@ -1,0 +1,65 @@
+{
+  "id": "028_TH09_Tailgate_Latch_Switch_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "TH09",
+  "physicalIds": [
+    "TH09"
+  ],
+  "name": "Tailgate Latch Switch 2P Connector (Female)",
+  "nameRu": "Разъём Tailgate Latch выключатель, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91764-SLJ -0030-H1",
+  "partNumbers": [
+    "91764-SLJ -0030-H1"
+  ],
+  "harnesses": [
+    "32109-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Tailgate"
+  ],
+  "systems": [
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "Entry Light Control System",
+    "Keyless/Power Door Locks/Security System",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91764-SLJ -0030-H1.svg",
+    "viewBox": "0 0 57.332 46.008",
+    "width": 57.332,
+    "height": 46.008
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(RR-R)",
+      "english": "Ground (RR-R)",
+      "russian": "Масса (RR-R)",
+      "terminal": "Z90A",
+      "geometry": {
+        "x": 12.162,
+        "y": 34.394,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "OTHER_DOOR_SW",
+      "english": "OTHER, door, switch",
+      "russian": "OTHER, дверь, выключатель",
+      "terminal": "99A",
+      "geometry": {
+        "x": 40.476,
+        "y": 34.394,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

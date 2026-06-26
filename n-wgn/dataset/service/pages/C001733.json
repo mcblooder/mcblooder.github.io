@@ -1,0 +1,82 @@
+{
+  "id": "C001733",
+  "title": "Brake Structure Description - Overview",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "Brake Components",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001733",
+  "assets": [
+    "1733_3.0_jpn_11242716_2.0_disp.png",
+    "1733_3.0_jpn_11390460_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Brake Structure Description - Overview"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "summary"
+    },
+    {
+      "type": "figure",
+      "asset": "1733_3.0_jpn_11390460_2.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "(data) item",
+          "form (something takes)"
+        ],
+        [
+          "Front Brake",
+          "12\" solid disc brakes or 13\" ventilated disc brakes"
+        ],
+        [
+          "Rear brake",
+          "Φ180mm drum brake"
+        ],
+        [
+          "Parking Brake",
+          "foot-operated"
+        ],
+        [
+          "Rear brake common type"
+        ],
+        [
+          "Master Power/Master Cylinder",
+          "8-inch single type, vacuum double power type"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Master Power/Master Cylinder"
+    },
+    {
+      "type": "paragraph",
+      "text": "Master Power uses an integrated master power negative pressure sensor with the brake negative pressure monitoring system."
+    },
+    {
+      "type": "figure",
+      "asset": "1733_3.0_jpn_11242716_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001733_jpn/web/html/C001733_jpn_Content.html",
+  "inOutline": true
+}

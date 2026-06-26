@@ -1,0 +1,51 @@
+{
+  "id": "025_BI17_Front_Passenger_s_Door_Switch_1P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BI17",
+  "physicalIds": [
+    "BI17"
+  ],
+  "name": "Front Passenger's Door Switch 1P Connector (Female)",
+  "nameRu": "Разъём передний пассажира Door выключатель, 1 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "91848-S5A -0030-H1",
+  "partNumbers": [
+    "91848-S5A -0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Left Side)"
+  ],
+  "systems": [
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "Entry Light Control System",
+    "Keyless/Power Door Locks/Security System",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91848-S5A -0030-H1.svg",
+    "viewBox": "0 0 29.021 37.514",
+    "width": 29.021,
+    "height": 37.514
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "OTHER_DOOR_SW",
+      "english": "OTHER, door, switch",
+      "russian": "OTHER, дверь, выключатель",
+      "terminal": "96A000",
+      "geometry": {
+        "x": 12.163,
+        "y": 25.901,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

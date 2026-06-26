@@ -1,0 +1,135 @@
+{
+  "id": "G000869",
+  "title": "Cooling cycle maintenance precautions",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000869",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cooling cycle maintenance precautions"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following precautions must be taken to ensure correct and safe maintenance of the air conditioner."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be sure to remove the minus terminal of the battery before removing and installing the battery.",
+        "Never allow moisture, debris, or air to enter the air conditioner components.",
+        "Avoid working outdoors or in the rain as much as possible.",
+        "Air conditioner components should not be left unattended with the seal plug removed.",
+        "The seal plug must be removed immediately before connection.",
+        "Immediately after removal, seal plugs, vinyl tape, etc. must be used to keep out the atmosphere.",
+        "When connecting hoses and pipes, do not use compressor oil on the O-rings. * The application of the",
+        "Hose and pipe connections shall be tightened to the specified torque.",
+        "Precautions for handling refrigerant can HFC-134a (R-134a)",
+        "Do not handle refrigerant cans near your face. Also, be sure to wear protective goggles.",
+        "Avoid direct skin contact with refrigerant (liquid).",
+        "Refrigerant can HFC-134a (R-134a) should never be heated above 35°C.",
+        "Refrigerant can HFC-134a (R-134a) should be handled in a well ventilated area.",
+        "Do not work near heat sources because refrigerant gas emits toxic gases when it comes in contact with flames or other heat sources.",
+        "What to do if refrigerant gets in your eyes",
+        "(1) Do not rub your eyes with your hand or handkerchief.",
+        "(2) Wash thoroughly with water.",
+        "(iii) Receive treatment from an ophthalmologist.",
+        "Observe other precautions on the label attached to the refrigerant can.",
+        "Do not run the compressor with the refrigerant drained.",
+        "When replacing each component, some compressor oil will remain in the old component to some extent, so there will be insufficient oil for the cooling cycle. If there are no oil leaks, measure the amount of oil remaining in the old component and replenish the compressor with that amount."
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "When replacing capacitor (including 10mL receiver tank capacity)",
+          "25mL"
+        ],
+        [
+          "Receiver When replacing tank",
+          "10mL"
+        ],
+        [
+          "When replacing the evaporator",
+          "35mL"
+        ],
+        [
+          "When replacing pipes (per pipe)",
+          "10mL each"
+        ],
+        [
+          "In case of refrigerant gas leakage",
+          "25mL"
+        ],
+        [
+          "",
+          "Be sure to use the specified oil, since the use of non-designated oil for the A/C system with refrigerant HFC-134a (R-134a) may cause compressor failure due to poor lubrication. Do not use oil specifically for the refrigerant HFC-134a (R-134a) as it will adversely affect the acrylic resin, so do not splash the oil. Also, be sure to plug the oil after use because it is highly water absorbent."
+        ],
+        [
+          "",
+          "",
+          "When replacing a compressor, remove the amount of oil from the new compressor using the following formula. Amount of oil removed from a new compressor = Amount of oil that can be removed from a new compressor - Amount removed from the removed compressor."
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Before filling with refrigerant, be sure to vacuum to remove water from the cycle."
+        },
+        {
+          "text": "When adjusting the refrigerant fill volume, recover all refrigerant in the cycle and then fill with the specified amount. (Additional replenishment prohibited)"
+        },
+        {
+          "text": "The amount of refrigerant contained shall be controlled by weight."
+        },
+        {
+          "text": "When removing refrigerant for repair, etc., be sure to use a refrigerant recovery machine and do not release refrigerant into the atmosphere."
+        },
+        {
+          "text": "Refrigerant must be recovered at the time of vehicle disposal or air conditioner disposal."
+        },
+        {
+          "text": "Ensure that the radiator fan is rotating while the compressor is running."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "P/N 38897-P13-003（120mL）"
+        ],
+        [
+          "",
+          "P/N 38898-P13-003（250mL）"
+        ],
+        [
+          "",
+          "P/N 38899-P13-J01（40mL）"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000869_jpn/web/html/G000869_jpn_Content.html",
+  "inOutline": true
+}

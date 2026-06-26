@@ -1,0 +1,102 @@
+{
+  "id": "R001024",
+  "title": "Wiper arm/washer nozzle adjustment",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "Wiper/washer",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001024",
+  "assets": [
+    "1024_3.0_jpn_11580911_3.0_disp.png",
+    "1024_3.0_jpn_11580912_3.0_disp.png",
+    "1024_3.0_jpn_11580913_3.0_disp.png",
+    "1024_3.0_jpn_11580914_3.0_disp.png",
+    "1024_3.0_jpn_11580915_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Wiper arm/washer nozzle adjustment"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When adjusting the washer nozzle, press on the outside of the washer nozzle (A).",
+        "Since the washer nozzle is made of resin, it may be deformed and the washer fluid may not diffuse if a tool or other object is inserted into the discharge port to adjust it."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1024_3.0_jpn_11580911_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Check front wiper arm stop position"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "When the front wiper arm stops at the automatic stop position, confirm that it is in the reference position. a: 23.1mm±5mm from cowl top edge (A) b: 26.9mm±5mm from cowl top edge (A)"
+    },
+    {
+      "type": "figure",
+      "asset": "1024_3.0_jpn_11580912_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Check the position of the front washer fluid landing."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "When washer fluid is sprayed, at least 50% of the sprayed fluid should land within the shaded area. If not in the standard position, adjust the front washer nozzle. landing on the water position Black Ceramic solid terminal line landing on the water position Black Ceramic solid terminal line landing zone Black Ceramic solid terminal line landing on the water position Black Ceramic solid terminal line a From A to 238.9mm b From A to 465.3mm c From A to 504.9mm d From A to 214.9mm"
+    },
+    {
+      "type": "figure",
+      "asset": "1024_3.0_jpn_11580913_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Rear wiper arm stop position check"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "When the rear wiper arm stops at the automatic stop position, confirm that it is in the reference position. a: 40.8mm from glass end line (A)"
+    },
+    {
+      "type": "figure",
+      "asset": "1024_3.0_jpn_11580914_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Check rear washer fluid landing position."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "When washer fluid is sprayed, it should land at the water landing position. If it is not in the standard position, adjust the rear washer nozzle. landing on the water position Black Ceramic solid terminal line landing on the water position width a A to 38.5mm b 88.3mm"
+    },
+    {
+      "type": "figure",
+      "asset": "1024_3.0_jpn_11580915_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001024_jpn/web/html/R001024_jpn_Content.html",
+  "inOutline": true
+}

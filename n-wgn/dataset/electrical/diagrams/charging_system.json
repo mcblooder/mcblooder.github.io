@@ -1,0 +1,107 @@
+{
+  "id": "charging_system",
+  "category": "electrical_diagram",
+  "title": "Charging System",
+  "system": "charging_system",
+  "sheetCount": 5,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/charging_system/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/charging_system/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/charging_system/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/charging_system/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/charging_system/sheet5.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "12 Volt Battery",
+      "Alternator",
+      "Battery Sensor",
+      "ELD",
+      "Engine Start/Stop Switch",
+      "Gauge Control Module",
+      "IG1 Relay 1",
+      "IG1 Relay 2",
+      "PCM",
+      "PGM-FI Main Relay 1"
+    ],
+    "Couplers": [
+      "(+)",
+      "Alternator 1P Connector (Female)",
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "Battery Sensor 3P Connector (Female)",
+      "C002 (Female)",
+      "C004 (Female)",
+      "C105 (Male)|C105 (Female)",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "Data Link Connector (DLC) (Female)",
+      "ELD 3P Connector (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Gauge Control Module 32P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "Sub Relay Block 1",
+      "T1",
+      "T101",
+      "T5",
+      "T6",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Y (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_BACK_UP(BST)",
+      "+B_BACK_UP_MAIN(P/S)",
+      "+B_BATT_SNSR",
+      "+B_DC/DC_1",
+      "+B_DC/DC_2",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "+B_STOP_&_HORN",
+      "07_IG1_RELAY_1",
+      "16_IG1_RELAY_2",
+      "21_+B_IGP",
+      "IG1_METER(P/S)",
+      "IG1_MICU(P/S)"
+    ],
+    "Grounds": [
+      "G1",
+      "G202",
+      "G401",
+      "G402"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "BQ Roof Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "GA Battery Ground Cable"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "T986129",
+  "title": "Smart operation does not turn ON mode (backup operation (when smart key contacts ENGINE START STOP switch) also does not turn ON mode)",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Honda Smart Key System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T986129",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T001398",
+      "label": "Failure Diagnosis by Symptom",
+      "resolved": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Smart operation does not turn ON mode (backup operation (when smart key contacts ENGINE START STOP switch) also does not turn ON mode)"
+    },
+    {
+      "type": "paragraph",
+      "text": "diagnostic procedure"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Failure Diagnosis by Symptom ​",
+          "refs": [
+            {
+              "id": "T001398",
+              "label": "Failure Diagnosis by Symptom",
+              "resolved": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "checklist"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Disconnection or short-circuit of SS1 (+) line"
+        },
+        {
+          "text": "Disconnection or short-circuit of SS2 (-) line"
+        },
+        {
+          "text": "ENGINE START STOP switch"
+        },
+        {
+          "text": "ESL PWR line disconnected or shorted"
+        },
+        {
+          "text": "Disconnection or short-circuit of MTR CUT1 (CONT) line"
+        },
+        {
+          "text": "Disconnection or short-circuit of MTR CUT2 (IG1) line"
+        },
+        {
+          "text": "ESL SW B/C/D line disconnected or shorted"
+        },
+        {
+          "text": "Disconnection or short-circuit of IGN TRX line"
+        },
+        {
+          "text": "Disconnection or short-circuit of MTR CONT line"
+        },
+        {
+          "text": "Honda Smart Key"
+        },
+        {
+          "text": "LF Antenna"
+        },
+        {
+          "text": "Electronic Steering Lock"
+        },
+        {
+          "text": "MICU"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T986129_jpn/web/html/T986129_jpn_Content.html",
+  "inOutline": true
+}

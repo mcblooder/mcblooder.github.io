@@ -1,0 +1,765 @@
+{
+  "id": "108_EA17_PCM_Connector_A_50P_Female",
+  "category": "connector",
+  "connectorRef": "EA17",
+  "physicalIds": [
+    "EA17"
+  ],
+  "name": "PCM Connector A (50P) (Female)",
+  "nameRu": "Разъём PCM Connector A (50P), гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 50,
+  "populatedPinCount": 42,
+  "faceviewPart": "91771-T5AA-V000",
+  "partNumbers": [
+    "91771-T5AA-V000"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Left Side"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "A/T Interlock System",
+    "Auto Idle Stop System",
+    "Back-Up Lights",
+    "Brake Lights",
+    "Cable Reel",
+    "Charging System",
+    "City-Brake Active System",
+    "Climate Control",
+    "Cruise Control",
+    "CVT Control System",
+    "DLC",
+    "Energy Management System",
+    "EPS",
+    "ETCS (Electronic Throttle Control System)",
+    "F-CAN Communication Line",
+    "Fans",
+    "Fuel Supply System",
+    "Idle Control System",
+    "Ignition System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "MIL Circuit",
+    "PCM (All)",
+    "PCM Power and Ground",
+    "PGM-FI System",
+    "Power Supply",
+    "S-NET Communication Line",
+    "SRS",
+    "Starting System",
+    "VSA",
+    "Wiper/Washer (Rear Window)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91771-T5AA-V000.svg",
+    "viewBox": "0 0 372.864 188.057",
+    "width": 372.864,
+    "height": 188.057
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "FI_MAIN_RLY_OUT",
+      "english": "fuel injection, main, relay, output",
+      "russian": "впрыск топлива, главный, реле, выход",
+      "terminal": "D04A",
+      "geometry": {
+        "x": 28.311,
+        "y": 51.511,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "DBW_RLY_OUT",
+      "english": "electronic throttle, relay, output",
+      "russian": "электронная дроссельная заслонка, реле, выход",
+      "terminal": "D32B",
+      "geometry": {
+        "x": 62.324,
+        "y": 51.511,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "DBW_RLY_CL-",
+      "english": "electronic throttle, relay, coil control -",
+      "russian": "электронная дроссельная заслонка, реле, управление катушкой -",
+      "terminal": "D34C",
+      "geometry": {
+        "x": 130.352,
+        "y": 51.511,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_VB_SOL_IS",
+      "english": "Constant battery power: VB, solenoid, IS",
+      "russian": "Постоянное питание от АКБ: VB, соленоид, IS",
+      "terminal": "B18D",
+      "geometry": {
+        "x": 164.367,
+        "y": 51.511,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "SHIFT_LOCK_SOL",
+      "english": "SHIFT, lock, solenoid",
+      "russian": "SHIFT, запирание, соленоид",
+      "terminal": "M14E",
+      "geometry": {
+        "x": 198.381,
+        "y": 51.511,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 266.409,
+        "y": 51.511,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ABS)",
+      "english": "Ground (ABS)",
+      "russian": "Масса (ABS)",
+      "terminal": "ZE1S",
+      "geometry": {
+        "x": 300.423,
+        "y": 51.511,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "IG1_FUEL_PUMP",
+      "english": "ignition IG1, fuel, pump",
+      "russian": "зажигание IG1, топливо, насос",
+      "terminal": "G01H000",
+      "geometry": {
+        "x": 28.311,
+        "y": 74.186,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "FI_MAIN_RLY_CL-",
+      "english": "fuel injection, main, relay, coil control -",
+      "russian": "впрыск топлива, главный, реле, управление катушкой -",
+      "terminal": "D05J",
+      "geometry": {
+        "x": 62.324,
+        "y": 74.186,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "+B_DBW",
+      "english": "Constant battery power: electronic throttle",
+      "russian": "Постоянное питание от АКБ: электронная дроссельная заслонка",
+      "terminal": "B12K",
+      "geometry": {
+        "x": 93.32,
+        "y": 74.186,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "FUEL_PUMP_RLY_CL-",
+      "english": "fuel, pump, relay, coil control -",
+      "russian": "топливо, насос, реле, управление катушкой -",
+      "terminal": "F23L",
+      "geometry": {
+        "x": 127.137,
+        "y": 74.186,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "CST",
+      "english": "CST",
+      "russian": "CST",
+      "terminal": "K05M",
+      "geometry": {
+        "x": 160.952,
+        "y": 74.186,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 195.066,
+        "y": 74.186,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "RED",
+      "circuit": "F-CAN_L",
+      "english": "F-CAN low line",
+      "russian": "Низкая линия F-CAN",
+      "terminal": "X80P",
+      "geometry": {
+        "x": 229.179,
+        "y": 74.186,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "F-CAN_H",
+      "english": "F-CAN high line",
+      "russian": "Высокая линия F-CAN",
+      "terminal": "X70R000",
+      "geometry": {
+        "x": 263.292,
+        "y": 74.186,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ABS)",
+      "english": "Ground (ABS)",
+      "russian": "Масса (ABS)",
+      "terminal": "ZE2G",
+      "geometry": {
+        "x": 297.405,
+        "y": 74.186,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "VCC4",
+      "english": "VCC4",
+      "russian": "VCC4",
+      "terminal": "D15T",
+      "geometry": {
+        "x": 37.481,
+        "y": 98.846,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "SG4",
+      "english": "SG4",
+      "russian": "SG4",
+      "terminal": "D16W",
+      "geometry": {
+        "x": 60.156,
+        "y": 98.846,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "VCC5",
+      "english": "VCC5",
+      "russian": "VCC5",
+      "terminal": "D17X",
+      "geometry": {
+        "x": 82.834,
+        "y": 98.846,
+        "svgTextId": "SVGID_19_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "VCC6",
+      "english": "VCC6",
+      "russian": "VCC6",
+      "terminal": "D19Y",
+      "geometry": {
+        "x": 105.509,
+        "y": 98.846,
+        "svgTextId": "SVGID_20_"
+      }
+    },
+    {
+      "pin": 21,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "SG6",
+      "english": "SG6",
+      "russian": "SG6",
+      "terminal": "D20Z",
+      "geometry": {
+        "x": 128.185,
+        "y": 98.846,
+        "svgTextId": "SVGID_21_"
+      }
+    },
+    {
+      "pin": 22,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "ST_CUT_RLY2_CL-",
+      "english": "starter, CUT, RLY2, coil control -",
+      "russian": "стартер, CUT, RLY2, управление катушкой -",
+      "terminal": "M09AA",
+      "geometry": {
+        "x": 150.86,
+        "y": 98.846,
+        "svgTextId": "SVGID_22_"
+      }
+    },
+    {
+      "pin": 23,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "A/C_MG_CLUTCH_RLY_CL-",
+      "english": "air conditioning, magnetic, clutch, relay, coil control -",
+      "russian": "кондиционер, электромагнитный, муфта, реле, управление катушкой -",
+      "terminal": "308AB",
+      "geometry": {
+        "x": 173.537,
+        "y": 98.846,
+        "svgTextId": "SVGID_23_"
+      }
+    },
+    {
+      "pin": 24,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ST_CUT_RLY1_CL-",
+      "english": "starter, CUT, RLY1, coil control -",
+      "russian": "стартер, CUT, RLY1, управление катушкой -",
+      "terminal": "M06AC",
+      "geometry": {
+        "x": 196.214,
+        "y": 98.846,
+        "svgTextId": "SVGID_24_"
+      }
+    },
+    {
+      "pin": 25,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 218.89,
+        "y": 98.846,
+        "svgTextId": "SVGID_25_"
+      }
+    },
+    {
+      "pin": 26,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "ACS",
+      "english": "ACS",
+      "russian": "ACS",
+      "terminal": "311AE",
+      "geometry": {
+        "x": 241.565,
+        "y": 98.846,
+        "svgTextId": "SVGID_26_"
+      }
+    },
+    {
+      "pin": 27,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "LIN(BATT_SENSOR)",
+      "english": "LIN, battery, sensor",
+      "russian": "LIN, аккумулятор, датчик",
+      "terminal": "X31AF",
+      "geometry": {
+        "x": 264.241,
+        "y": 98.846,
+        "svgTextId": "SVGID_27_"
+      }
+    },
+    {
+      "pin": 28,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "S-NET",
+      "english": "S-NET",
+      "russian": "S-NET",
+      "terminal": "70A",
+      "geometry": {
+        "x": 286.918,
+        "y": 98.846,
+        "svgTextId": "SVGID_28_"
+      }
+    },
+    {
+      "pin": 29,
+      "used": true,
+      "wire": "RED",
+      "circuit": "TEVA",
+      "english": "TEVA",
+      "russian": "TEVA",
+      "terminal": "332AH",
+      "geometry": {
+        "x": 37.481,
+        "y": 121.522,
+        "svgTextId": "SVGID_29_"
+      }
+    },
+    {
+      "pin": 30,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "SG5",
+      "english": "SG5",
+      "russian": "SG5",
+      "terminal": "D18AJ",
+      "geometry": {
+        "x": 60.156,
+        "y": 121.522,
+        "svgTextId": "SVGID_30_"
+      }
+    },
+    {
+      "pin": 31,
+      "used": true,
+      "wire": "RED",
+      "circuit": "APS1",
+      "english": "APS1",
+      "russian": "APS1",
+      "terminal": "D11AK",
+      "geometry": {
+        "x": 82.834,
+        "y": 121.522,
+        "svgTextId": "SVGID_31_"
+      }
+    },
+    {
+      "pin": 32,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "VAC1",
+      "english": "VAC1",
+      "russian": "VAC1",
+      "terminal": "A41AL",
+      "geometry": {
+        "x": 105.509,
+        "y": 121.522,
+        "svgTextId": "SVGID_32_"
+      }
+    },
+    {
+      "pin": 33,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 128.185,
+        "y": 121.522,
+        "svgTextId": "SVGID_33_"
+      }
+    },
+    {
+      "pin": 34,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "ELD",
+      "english": "ELD",
+      "russian": "ELD",
+      "terminal": "D24AN",
+      "geometry": {
+        "x": 150.86,
+        "y": 121.522,
+        "svgTextId": "SVGID_34_"
+      }
+    },
+    {
+      "pin": 35,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 173.537,
+        "y": 121.522,
+        "svgTextId": "SVGID_35_"
+      }
+    },
+    {
+      "pin": 36,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 196.214,
+        "y": 121.522,
+        "svgTextId": "SVGID_36_"
+      }
+    },
+    {
+      "pin": 37,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "SCS",
+      "english": "Service-check signal",
+      "russian": "Сервисный диагностический сигнал SCS",
+      "terminal": "F28AS",
+      "geometry": {
+        "x": 218.89,
+        "y": 121.522,
+        "svgTextId": "SVGID_37_"
+      }
+    },
+    {
+      "pin": 38,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "STS",
+      "english": "STS",
+      "russian": "STS",
+      "terminal": "M01C",
+      "geometry": {
+        "x": 241.565,
+        "y": 121.522,
+        "svgTextId": "SVGID_38_"
+      }
+    },
+    {
+      "pin": 39,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "STOP_SW",
+      "english": "brake light, switch",
+      "russian": "стоп-сигнал, выключатель",
+      "terminal": "37D",
+      "geometry": {
+        "x": 264.241,
+        "y": 121.522,
+        "svgTextId": "SVGID_39_"
+      }
+    },
+    {
+      "pin": 40,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "PADDLE_SW_UP",
+      "english": "PADDLE, switch, up",
+      "russian": "PADDLE, выключатель, вверх",
+      "terminal": "M18AX",
+      "geometry": {
+        "x": 286.918,
+        "y": 121.522,
+        "svgTextId": "SVGID_40_"
+      }
+    },
+    {
+      "pin": 41,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 37.481,
+        "y": 144.2,
+        "svgTextId": "SVGID_41_"
+      }
+    },
+    {
+      "pin": 42,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "APS2",
+      "english": "APS2",
+      "russian": "APS2",
+      "terminal": "D12AZ",
+      "geometry": {
+        "x": 60.156,
+        "y": 144.2,
+        "svgTextId": "SVGID_42_"
+      }
+    },
+    {
+      "pin": 43,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 105.509,
+        "y": 144.2,
+        "svgTextId": "SVGID_43_"
+      }
+    },
+    {
+      "pin": 44,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "START_DIAG",
+      "english": "START, DIAG",
+      "russian": "START, DIAG",
+      "terminal": "M05BB",
+      "geometry": {
+        "x": 128.185,
+        "y": 144.2,
+        "svgTextId": "SVGID_44_"
+      }
+    },
+    {
+      "pin": 45,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "TW2_SENSOR",
+      "english": "TW2, sensor",
+      "russian": "TW2, датчик",
+      "terminal": "D23BC",
+      "geometry": {
+        "x": 150.86,
+        "y": 144.2,
+        "svgTextId": "SVGID_45_"
+      }
+    },
+    {
+      "pin": 46,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "FAN_CONTROL",
+      "english": "FAN, CONTROL",
+      "russian": "FAN, CONTROL",
+      "terminal": "D31BD",
+      "geometry": {
+        "x": 173.537,
+        "y": 144.2,
+        "svgTextId": "SVGID_46_"
+      }
+    },
+    {
+      "pin": 47,
+      "used": true,
+      "wire": "RED",
+      "circuit": "ATP-P",
+      "english": "ATP-P",
+      "russian": "ATP-P",
+      "terminal": "M12BE",
+      "geometry": {
+        "x": 196.214,
+        "y": 144.2,
+        "svgTextId": "SVGID_47_"
+      }
+    },
+    {
+      "pin": 48,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "ATP-R",
+      "english": "ATP-R",
+      "russian": "ATP-R",
+      "terminal": "M13BF",
+      "geometry": {
+        "x": 218.89,
+        "y": 144.2,
+        "svgTextId": "SVGID_48_"
+      }
+    },
+    {
+      "pin": 49,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "BKSWNC",
+      "english": "BKSWNC",
+      "russian": "BKSWNC",
+      "terminal": "702BG",
+      "geometry": {
+        "x": 264.241,
+        "y": 144.2,
+        "svgTextId": "SVGID_49_"
+      }
+    },
+    {
+      "pin": 50,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "PADDLE_SW_DOWN",
+      "english": "PADDLE, switch, down",
+      "russian": "PADDLE, выключатель, вниз",
+      "terminal": "M19BH",
+      "geometry": {
+        "x": 286.918,
+        "y": 144.2,
+        "svgTextId": "SVGID_50_"
+      }
+    }
+  ]
+}

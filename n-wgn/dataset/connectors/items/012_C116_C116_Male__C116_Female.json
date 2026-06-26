@@ -1,0 +1,295 @@
+{
+  "id": "012_C116_C116_Male__C116_Female",
+  "category": "connector",
+  "connectorRef": "C116",
+  "physicalIds": [
+    "C116"
+  ],
+  "name": "C116 (Male) / C116 (Female)",
+  "nameRu": "Разъём C116, штыревая часть / Разъём C116, гнездовая часть",
+  "type": "MiddleCoupler",
+  "pinCount": 18,
+  "populatedPinCount": 16,
+  "faceviewPart": "91783-T2A -0030-H1_91782-T2A -0030-H1",
+  "partNumbers": [
+    "91782-T2A -0030-H1",
+    "91783-T2A -0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-",
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Right Side)",
+    "Dashboard > Dashboard Main (Right Side)"
+  ],
+  "systems": [
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "Audio System",
+    "Back-Up Lights",
+    "Entry Light Control System",
+    "Gauges",
+    "Keyless/Power Door Locks/Security System",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91783-T2A -0030-H1_91782-T2A -0030-H1.svg",
+    "viewBox": "0 0 225.348 182.649",
+    "width": 225.348,
+    "height": 182.649
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "OTHER_DOOR_SW",
+      "english": "OTHER, door, switch",
+      "russian": "OTHER, дверь, выключатель",
+      "terminal": "96A",
+      "geometry": {
+        "x": 19.742,
+        "y": 150.391,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "RR_SPKR+",
+      "english": "rear/right, speaker +",
+      "russian": "задний/правый, динамик +",
+      "terminal": "804B",
+      "geometry": {
+        "x": 42.419,
+        "y": 150.391,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "RR_SPKR-",
+      "english": "rear/right, speaker -",
+      "russian": "задний/правый, динамик -",
+      "terminal": "805C",
+      "geometry": {
+        "x": 65.096,
+        "y": 150.391,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "FUEL_GAGE+",
+      "english": "fuel, GAGE +",
+      "russian": "топливо, GAGE +",
+      "terminal": "F11D",
+      "geometry": {
+        "x": 87.772,
+        "y": 150.391,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "RL_SPKR-",
+      "english": "rear left, speaker -",
+      "russian": "задний левый, динамик -",
+      "terminal": "807E",
+      "geometry": {
+        "x": 110.449,
+        "y": 150.391,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "RL_SPKR+",
+      "english": "rear left, speaker +",
+      "russian": "задний левый, динамик +",
+      "terminal": "806F",
+      "geometry": {
+        "x": 133.126,
+        "y": 150.391,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "FUEL_GAGE-",
+      "english": "fuel, GAGE -",
+      "russian": "топливо, GAGE -",
+      "terminal": "F13G",
+      "geometry": {
+        "x": 155.803,
+        "y": 150.391,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "BACK_LT",
+      "english": "back-up, light",
+      "russian": "резервный, освещение",
+      "terminal": "M10H000 / M10H",
+      "geometry": {
+        "x": 178.48,
+        "y": 150.391,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 201.156,
+        "y": 150.391,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 17.518,
+        "y": 173.069,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "CAMERA_BIT1",
+      "english": "camera, BIT1",
+      "russian": "камера, BIT1",
+      "terminal": "N39L",
+      "geometry": {
+        "x": 40.194,
+        "y": 173.069,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "CAMERA_BIT0",
+      "english": "camera, BIT0",
+      "russian": "камера, BIT0",
+      "terminal": "N38M",
+      "geometry": {
+        "x": 62.871,
+        "y": 173.069,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "CAMERA_ADPT",
+      "english": "camera, ADPT",
+      "russian": "камера, ADPT",
+      "terminal": "N21N",
+      "geometry": {
+        "x": 85.548,
+        "y": 173.069,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "SH_CAMERA",
+      "english": "shield, camera",
+      "russian": "экран, камера",
+      "terminal": "N20P",
+      "geometry": {
+        "x": 108.225,
+        "y": 173.069,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "RC_GND",
+      "english": "RC, ground",
+      "russian": "RC, масса",
+      "terminal": "N19R",
+      "geometry": {
+        "x": 130.901,
+        "y": 173.069,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "RED",
+      "circuit": "CAMERA_GND",
+      "english": "camera, ground",
+      "russian": "камера, масса",
+      "terminal": "N18S",
+      "geometry": {
+        "x": 153.578,
+        "y": 173.069,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "CAMERA_V",
+      "english": "camera, V",
+      "russian": "камера, V",
+      "terminal": "N17T",
+      "geometry": {
+        "x": 176.255,
+        "y": 173.069,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "CAMERA_VCC",
+      "english": "camera, supply voltage",
+      "russian": "камера, напряжение питания",
+      "terminal": "N16W",
+      "geometry": {
+        "x": 198.932,
+        "y": 173.069,
+        "svgTextId": "SVGID_9_"
+      }
+    }
+  ]
+}

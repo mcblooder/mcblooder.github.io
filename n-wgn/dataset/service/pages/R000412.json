@@ -1,0 +1,55 @@
+{
+  "id": "R000412",
+  "title": "Air Cleaner Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Air intake controller",
+  "subtitle": "",
+  "dgName": "Cars not equipped with a turbo charger",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000412",
+  "assets": [
+    "412_3.0_jpn_11393789_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Air Cleaner Removal and Installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Air cleaner removal"
+    },
+    {
+      "type": "figure",
+      "asset": "412_3.0_jpn_11393789_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the coupler (A). Remove the harness clamp (B). Remove the air cleaner."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000412_jpn/web/html/R000412_jpn_Content.html",
+  "inOutline": true
+}

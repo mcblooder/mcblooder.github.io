@@ -1,0 +1,89 @@
+{
+  "id": "brake_lights",
+  "category": "electrical_diagram",
+  "title": "Brake Lights",
+  "system": "brake_lights",
+  "sheetCount": 4,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/brake_lights/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/brake_lights/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/brake_lights/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/brake_lights/sheet4.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Brake Light Relay",
+      "Brake Pedal Position Switch",
+      "Engine Start/Stop Switch",
+      "High Mount Brake Light",
+      "IG1 Relay 2",
+      "Left Taillight",
+      "PCM",
+      "Right Taillight",
+      "VSA Modulator-Control Unit"
+    ],
+    "Couplers": [
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "Brake Pedal Position Switch 4P Connector (Female)",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C117 (Male)|C117 (Female)",
+      "C121 (Male)|C121 (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "High Mount Brake Light 2P Connector (Female)",
+      "Left Taillight 6P Connector (Male)",
+      "PCM Connector A (50P) (Female)",
+      "Right Taillight 6P Connector (Male)",
+      "Sub Relay Block 2",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector D (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box",
+      "VSA Modulator-Control Unit 38P Connector (Female)"
+    ],
+    "Fuses": [
+      "+B_DC/DC_2",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "+B_STOP_&_HORN",
+      "16_IG1_RELAY_2",
+      "IG1_ABS/EPS(P/S)"
+    ],
+    "Grounds": [
+      "G302",
+      "G401",
+      "G402",
+      "G502",
+      "G503"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "BQ Roof Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "LB High Mount Brake Light Subharness",
+      "TH Tailgate Wire Harness"
+    ]
+  }
+}

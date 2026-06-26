@@ -1,0 +1,164 @@
+{
+  "id": "R000402",
+  "title": "Change engine oil",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "lubricating device",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000402",
+  "assets": [
+    "402_5.0_jpn_11582995_5.0_disp.png",
+    "402_5.0_jpn_11582996_5.0_disp.png",
+    "402_5.0_jpn_11582997_5.0_disp.png",
+    "402_5.0_jpn_11582998_5.0_disp.png",
+    "402_5.0_jpn_11582999_5.0_disp.png",
+    "402_5.0_jpn_11583000_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Up",
+      "resolved": true
+    },
+    {
+      "id": "R000401",
+      "label": "Oil quantity check",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Change engine oil"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "For vehicles equipped with a turbocharger, the engine oil maintenance indicator light must be reset after the engine oil is changed."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Waste oil after oil change should be disposed of in accordance with laws, regulations, and ordinances."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Lift Up",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Up",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Engine oil draining"
+    },
+    {
+      "type": "figure",
+      "asset": "402_5.0_jpn_11582995_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Loosen the drain bolt (A) and drain the engine oil. Tighten the drain bolt using a new washer (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to loosen the drain bolt while the engine is hot, as the oil temperature is high and it is easy to burn yourself."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not overtighten the drain bolts."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Lift Down"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Engine Oil Fill"
+    },
+    {
+      "type": "figure",
+      "asset": "402_5.0_jpn_11582996_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "402_5.0_jpn_11582997_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "402_5.0_jpn_11582998_5.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "402_5.0_jpn_11582999_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Fill the engine with the specified amount of engine oil according to the recommended oil table. Cars not equipped with a turbo charger Recommended oil Honda Genuine Oil ULTRA NEXT (Honda's new fuel-saving oil) Ultra Green (Honda's fuel-saving oil) Ultra LEO (API SN class SAE 0W-20) Or, API SM or SN class or higher of the above oil viscosity, or engine oil with the API CERTIFICATION mark on the oil can. Turbo Charger equipped vehicle Recommended oil Honda Genuine Oil Ultra LEO (API SN class SAE 0W-20)* Ultra LTD (API SN class SAE 5W-30) Or, API SM or SN class or higher of the above oil viscosity, or engine oil with API CERTIFICATION mark on the oil can. *: Only Ultra LEO can be used with SAE 0W-20 Prescribed volume (L) During disassembly and assembly 3.0 When only oil is changed 2.4 When oil and filter are changed at the same time 2.6"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Oil quantity/oil leakage Check"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "After filling the engine with engine oil, run the engine for at least 3 minutes, Oil quantity check and oil leaks.",
+      "refs": [
+        {
+          "id": "R000401",
+          "label": "Oil quantity check",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Reset engine oil maintenance indicator light (Turbocharged vehicles)"
+    },
+    {
+      "type": "figure",
+      "asset": "402_5.0_jpn_11583000_5.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Stopping.",
+        "Small light must be OFF."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Press and hold the select/reset knob (A) and put the ignition in the ignition ON mode. After confirming that the engine oil maintenance indicator light (B) is blinking, release the select/reset knob."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000402_jpn/web/html/R000402_jpn_Content.html",
+  "inOutline": true
+}

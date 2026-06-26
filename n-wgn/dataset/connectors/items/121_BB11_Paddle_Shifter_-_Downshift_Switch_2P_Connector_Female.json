@@ -1,0 +1,64 @@
+{
+  "id": "121_BB11_Paddle_Shifter_-_Downshift_Switch_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BB11",
+  "physicalIds": [
+    "BB11"
+  ],
+  "name": "Paddle Shifter - (Downshift Switch) 2P Connector (Female)",
+  "nameRu": "Разъём Paddle Shifter - (Downshift выключатель), 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91712-SDA -0030-H1",
+  "partNumbers": [
+    "91712-SDA -0030-H1"
+  ],
+  "harnesses": [
+    "77901-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Steering"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "Cable Reel",
+    "CVT Control System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91712-SDA -0030-H1.svg",
+    "viewBox": "0 0 49.654 39.865",
+    "width": 49.654,
+    "height": 39.865
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "PADDLE_DOWN",
+      "english": "PADDLE, down",
+      "russian": "PADDLE, вниз",
+      "terminal": "M19A",
+      "geometry": {
+        "x": 10.016,
+        "y": 30.567,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND",
+      "english": "Ground",
+      "russian": "Масса",
+      "terminal": "Z62B",
+      "geometry": {
+        "x": 35.393,
+        "y": 30.693,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

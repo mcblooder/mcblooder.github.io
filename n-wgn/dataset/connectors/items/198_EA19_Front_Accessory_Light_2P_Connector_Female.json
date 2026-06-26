@@ -1,0 +1,62 @@
+{
+  "id": "198_EA19_Front_Accessory_Light_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA19",
+  "physicalIds": [
+    "EA19"
+  ],
+  "name": "Front Accessory Light 2P Connector (Female)",
+  "nameRu": "Разъём передний Accessory Light, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91982-SKN -0030-H1",
+  "partNumbers": [
+    "91982-SKN -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91982-SKN -0030-H1.svg",
+    "viewBox": "0 0 68.658 37.514",
+    "width": 68.658,
+    "height": 37.514
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11A",
+      "geometry": {
+        "x": 17.825,
+        "y": 25.901,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-R)",
+      "english": "Ground (ENG-R)",
+      "russian": "Масса (ENG-R)",
+      "terminal": "Z10B",
+      "geometry": {
+        "x": 46.138,
+        "y": 25.901,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

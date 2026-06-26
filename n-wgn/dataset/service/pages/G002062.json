@@ -1,0 +1,118 @@
+{
+  "id": "G002062",
+  "title": "Rear camera terminal arrangement",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "AV/Communication Systems",
+  "system": "Rear camera system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G002062",
+  "assets": [
+    "2062_3.0_jpn_11347603_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear camera terminal arrangement"
+    },
+    {
+      "type": "figure",
+      "asset": "2062_3.0_jpn_11347603_2.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "port (e.g. LAN port)",
+          "Wiring color",
+          "Terminal name",
+          "Contents"
+        ],
+        [
+          "1",
+          "green",
+          "CAMERA BIT1",
+          "Rear camera display switching signal"
+        ],
+        [
+          "2",
+          "tea",
+          "CAMERA BIT0",
+          "Rear camera display switching signal"
+        ],
+        [
+          "3",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "4",
+          "white",
+          "CAMERA VCC",
+          "Power supply for rear camera"
+        ],
+        [
+          "5",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "6",
+          "black",
+          "RC GND",
+          "Rear Camera Grounding"
+        ],
+        [
+          "7",
+          "red",
+          "CAMERA GND",
+          "Rear Camera NTSC signal grounding"
+        ],
+        [
+          "8",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "9",
+          "green",
+          "CAMERA V",
+          "Rear camera NTSC signal"
+        ],
+        [
+          "10",
+          "unused",
+          "unused",
+          "―――"
+        ],
+        [
+          "11",
+          "purple",
+          "CAMERA ADPT",
+          "Rear Camera connection detection signal"
+        ],
+        [
+          "12",
+          "ash",
+          "SH CAMERA",
+          "Shield of terminal No.4, No.6, No.7, No.9"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G002062_jpn/web/html/G002062_jpn_Content.html",
+  "inOutline": true
+}

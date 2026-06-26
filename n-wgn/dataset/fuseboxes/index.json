@@ -1,0 +1,34 @@
+[
+  {
+    "id": "underhood_main",
+    "title": "Under-Hood Fuse / Relay Box",
+    "location": "Engine compartment",
+    "fuseCount": 23,
+    "relayCount": 11,
+    "file": "boxes/underhood_main.json"
+  },
+  {
+    "id": "underhood_sub",
+    "title": "Under-Hood Sub Fuse / Relay Box",
+    "location": "Engine compartment",
+    "fuseCount": 3,
+    "relayCount": 3,
+    "file": "boxes/underhood_sub.json"
+  },
+  {
+    "id": "underdash_main",
+    "title": "Under-Dash Fuse / Relay Box",
+    "location": "Interior (under dashboard)",
+    "fuseCount": 29,
+    "relayCount": 6,
+    "file": "boxes/underdash_main.json"
+  },
+  {
+    "id": "underdash_aux",
+    "title": "Auxiliary Under-Dash Fuse / Relay Box",
+    "location": "Interior (under dashboard)",
+    "fuseCount": 6,
+    "relayCount": 3,
+    "file": "boxes/underdash_aux.json"
+  }
+]

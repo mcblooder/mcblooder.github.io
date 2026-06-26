@@ -1,0 +1,56 @@
+{
+  "id": "accessory_socket",
+  "category": "electrical_diagram",
+  "title": "Accessory Power Socket",
+  "system": "accessory_socket",
+  "sheetCount": 3,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/accessory_socket/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/accessory_socket/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/accessory_socket/sheet3.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Accessory Power Socket",
+      "Engine Start/Stop Switch"
+    ],
+    "Couplers": [
+      "Accessory Power Socket 2P Connector (Female)",
+      "C113 (Male)|C113 (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "28_ACC_CIGER",
+      "29_ACC"
+    ],
+    "Grounds": [
+      "G402",
+      "G403"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

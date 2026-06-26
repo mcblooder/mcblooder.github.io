@@ -1,0 +1,1413 @@
+{
+  "id": "underdash_main",
+  "category": "fusebox",
+  "title": "Under-Dash Fuse / Relay Box",
+  "subtitle": "Interior, front side",
+  "location": "Interior (under dashboard)",
+  "drawingNumbers": [
+    "38200-T6G_-ZZ00-"
+  ],
+  "fusePrefix": "C",
+  "asset": "assets/underdash_main.svg",
+  "svgSource": "RH/threed/121b_under_d_f.svgz",
+  "viewBox": "0 0 471.054 261.12",
+  "width": 471.054,
+  "height": 261.12,
+  "fuseCount": 29,
+  "relayCount": 6,
+  "fuses": [
+    {
+      "number": "C3",
+      "rating": "20A",
+      "circuit": "+B_BLOWER",
+      "descriptionEn": "Blower motor",
+      "descriptionRu": "Электродвигатель вентилятора отопителя",
+      "feeds": [
+        {
+          "name": "Climate Control",
+          "system": "climate_control",
+          "nodeid": "node_30208"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_55269"
+        }
+      ],
+      "geometry": {
+        "x": 35.987,
+        "y": 127.792,
+        "width": 17.5,
+        "height": 15.043,
+        "cx": 44.737,
+        "cy": 135.314
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|K0JfQkxPV0VS"
+    },
+    {
+      "number": "C4",
+      "rating": "7.5A",
+      "circuit": "04_IG1_ST_CUT_RLY_COIL",
+      "descriptionEn": "Starter-cut relay coil",
+      "descriptionRu": "Катушка реле блокировки стартера",
+      "feeds": [
+        {
+          "name": "Auto Idle Stop System",
+          "system": "auto_idle_stop",
+          "nodeid": "node_57486"
+        },
+        {
+          "name": "CVT Control System",
+          "system": "cvt_control_system",
+          "nodeid": "node_54137"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_87023"
+        },
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_29901"
+        },
+        {
+          "name": "Starting System",
+          "system": "starting_system",
+          "nodeid": "node_15484"
+        }
+      ],
+      "geometry": {
+        "x": 37.314,
+        "y": 146.536,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 44.049,
+        "cy": 149.048
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MDRfSUcxX1NUX0NVVF9STFlfQ09JTA=="
+    },
+    {
+      "number": "C5",
+      "rating": "10A",
+      "circuit": "05_IG1_RR_WIPER",
+      "descriptionEn": "Rear-window wiper",
+      "descriptionRu": "Очиститель заднего стекла",
+      "feeds": [
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_28462"
+        },
+        {
+          "name": "Power Windows",
+          "system": "power_windows",
+          "nodeid": "node_19658"
+        },
+        {
+          "name": "Wiper/Washer (Rear Window)",
+          "system": "wiper_washer_r",
+          "nodeid": "node_18578"
+        }
+      ],
+      "geometry": {
+        "x": 37.314,
+        "y": 154.933,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 44.049,
+        "cy": 157.445
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MDVfSUcxX1JSX1dJUEVS"
+    },
+    {
+      "number": "C6",
+      "rating": "7.5A",
+      "circuit": "06_IG1_BACK_LT",
+      "descriptionEn": "Back-up lights",
+      "descriptionRu": "Фонари заднего хода",
+      "feeds": [
+        {
+          "name": "Audio System",
+          "system": "audio",
+          "nodeid": "node_43091"
+        },
+        {
+          "name": "Back-Up Lights",
+          "system": "back_up_lights",
+          "nodeid": "node_10827"
+        },
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_28699"
+        }
+      ],
+      "geometry": {
+        "x": 37.314,
+        "y": 163.33,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 44.049,
+        "cy": 165.842
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MDZfSUcxX0JBQ0tfTFQ="
+    },
+    {
+      "number": "C7",
+      "rating": "7.5A",
+      "circuit": "07_IG1_RELAY_1",
+      "descriptionEn": "IG1 relay 1 circuits",
+      "descriptionRu": "Цепи реле зажигания IG1-1",
+      "feeds": [
+        {
+          "name": "A/T Gear Position Indicator",
+          "system": "a_t_gear_position",
+          "nodeid": "node_28911"
+        },
+        {
+          "name": "Audio System",
+          "system": "audio",
+          "nodeid": "node_42832"
+        },
+        {
+          "name": "Auto Idle Stop System",
+          "system": "auto_idle_stop",
+          "nodeid": "node_56983"
+        },
+        {
+          "name": "Charging System",
+          "system": "charging_system",
+          "nodeid": "node_29320"
+        },
+        {
+          "name": "City-Brake Active System",
+          "system": "cbas",
+          "nodeid": "node_27098"
+        },
+        {
+          "name": "Climate Control",
+          "system": "climate_control",
+          "nodeid": "node_45492"
+        },
+        {
+          "name": "Cruise Control",
+          "system": "cruise",
+          "nodeid": "node_32590"
+        },
+        {
+          "name": "CVT Control System",
+          "system": "cvt_control_system",
+          "nodeid": "node_54626"
+        },
+        {
+          "name": "DLC",
+          "system": "dlc",
+          "nodeid": "node_19016"
+        },
+        {
+          "name": "Energy Management System",
+          "system": "energy_management",
+          "nodeid": "node_21474"
+        },
+        {
+          "name": "EPS",
+          "system": "eps",
+          "nodeid": "node_23125"
+        },
+        {
+          "name": "Fog Lights",
+          "system": "fog_lights",
+          "nodeid": "node_18802"
+        },
+        {
+          "name": "Gauges",
+          "system": "gauges",
+          "nodeid": "node_32217"
+        },
+        {
+          "name": "Headlights",
+          "system": "headlights",
+          "nodeid": "node_25613"
+        },
+        {
+          "name": "Keyless Access System",
+          "system": "keyless_access",
+          "nodeid": "node_33596"
+        },
+        {
+          "name": "Keyless/Power Door Locks/Security System",
+          "system": "keyless_security",
+          "nodeid": "node_39479"
+        },
+        {
+          "name": "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+          "system": "license",
+          "nodeid": "node_46219"
+        },
+        {
+          "name": "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+          "system": "reminder",
+          "nodeid": "node_33885"
+        },
+        {
+          "name": "MIL Circuit",
+          "system": "mil_circuit",
+          "nodeid": "node_16176"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_87262"
+        },
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_30376"
+        },
+        {
+          "name": "Power, Grounds and Diagnostics",
+          "system": "p_and_g_diag",
+          "nodeid": "node_20862"
+        },
+        {
+          "name": "SRS",
+          "system": "srs",
+          "nodeid": "node_28507"
+        },
+        {
+          "name": "VSA",
+          "system": "vsa",
+          "nodeid": "node_35567"
+        }
+      ],
+      "geometry": {
+        "x": 37.314,
+        "y": 173.419,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 44.049,
+        "cy": 175.931
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MDdfSUcxX1JFTEFZXzE="
+    },
+    {
+      "number": "C8",
+      "rating": "10A",
+      "circuit": "08_IG1_SRS",
+      "descriptionEn": "SRS airbag system",
+      "descriptionRu": "Система подушек безопасности SRS",
+      "feeds": [
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_30140"
+        },
+        {
+          "name": "SRS",
+          "system": "srs",
+          "nodeid": "node_28271"
+        }
+      ],
+      "geometry": {
+        "x": 37.314,
+        "y": 181.817,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 44.049,
+        "cy": 184.329
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MDhfSUcxX1NSUw=="
+    },
+    {
+      "number": "C10",
+      "rating": "10A",
+      "circuit": "10_+B_HEATED_MIRROR",
+      "descriptionEn": "Heated power mirrors",
+      "descriptionRu": "Обогрев наружных зеркал",
+      "feeds": [
+        {
+          "name": "Rear Window/Power Mirror Defoggers",
+          "system": "rear_w_power_m_defog",
+          "nodeid": "node_13582"
+        }
+      ],
+      "geometry": {
+        "x": 37.314,
+        "y": 200.303,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 44.049,
+        "cy": 202.815
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MTBfK0JfSEVBVEVEX01JUlJPUg=="
+    },
+    {
+      "number": "C11",
+      "rating": "10A",
+      "circuit": "+B_SMART",
+      "descriptionEn": "Smart/keyless main supply",
+      "descriptionRu": "Главное питание Smart/бесключевого доступа",
+      "feeds": [
+        {
+          "name": "A/T Gear Position Indicator",
+          "system": "a_t_gear_position",
+          "nodeid": "node_13028"
+        },
+        {
+          "name": "A/T Interlock System",
+          "system": "a_t_interlock_system",
+          "nodeid": "node_10034"
+        },
+        {
+          "name": "Accessory Power Socket",
+          "system": "accessory_socket",
+          "nodeid": "node_2719"
+        },
+        {
+          "name": "Ambient Light, Cargo Area Light and Individual MAP Light",
+          "system": "ambient_light",
+          "nodeid": "node_6224"
+        },
+        {
+          "name": "Audio System",
+          "system": "audio",
+          "nodeid": "node_23836"
+        },
+        {
+          "name": "Auto Idle Stop System",
+          "system": "auto_idle_stop",
+          "nodeid": "node_17131"
+        },
+        {
+          "name": "Back-Up Lights",
+          "system": "back_up_lights",
+          "nodeid": "node_5854"
+        },
+        {
+          "name": "Brake Lights",
+          "system": "brake_lights",
+          "nodeid": "node_9615"
+        },
+        {
+          "name": "Charging System",
+          "system": "charging_system",
+          "nodeid": "node_28320"
+        },
+        {
+          "name": "City-Brake Active System",
+          "system": "cbas",
+          "nodeid": "node_15820"
+        },
+        {
+          "name": "Climate Control",
+          "system": "climate_control",
+          "nodeid": "node_15776"
+        },
+        {
+          "name": "Cruise Control",
+          "system": "cruise",
+          "nodeid": "node_10153"
+        },
+        {
+          "name": "CVT Control System",
+          "system": "cvt_control_system",
+          "nodeid": "node_54885"
+        },
+        {
+          "name": "Dashlights",
+          "system": "dashlights",
+          "nodeid": "node_5009"
+        },
+        {
+          "name": "DLC",
+          "system": "dlc",
+          "nodeid": "node_4672"
+        },
+        {
+          "name": "Energy Management System",
+          "system": "energy_management",
+          "nodeid": "node_17877"
+        },
+        {
+          "name": "Entry Light Control System",
+          "system": "entry_light",
+          "nodeid": "node_11151"
+        },
+        {
+          "name": "EPS",
+          "system": "eps",
+          "nodeid": "node_4575"
+        },
+        {
+          "name": "EVAP System",
+          "system": "evap",
+          "nodeid": "node_3509"
+        },
+        {
+          "name": "Fans",
+          "system": "fans",
+          "nodeid": "node_3420"
+        },
+        {
+          "name": "Fog Lights",
+          "system": "fog_lights",
+          "nodeid": "node_11772"
+        },
+        {
+          "name": "Fuel Supply System",
+          "system": "fuel_supply",
+          "nodeid": "node_4620"
+        },
+        {
+          "name": "Gauges",
+          "system": "gauges",
+          "nodeid": "node_23353"
+        },
+        {
+          "name": "Headlight Leveling System",
+          "system": "headlight_leveling",
+          "nodeid": "node_10356"
+        },
+        {
+          "name": "Headlights",
+          "system": "headlights",
+          "nodeid": "node_15754"
+        },
+        {
+          "name": "Idle Control System",
+          "system": "idle_control_system",
+          "nodeid": "node_11675"
+        },
+        {
+          "name": "Ignition System",
+          "system": "ignition",
+          "nodeid": "node_3414"
+        },
+        {
+          "name": "Keyless Access System",
+          "system": "keyless_access",
+          "nodeid": "node_16612"
+        },
+        {
+          "name": "Keyless/Power Door Locks/Security System",
+          "system": "keyless_security",
+          "nodeid": "node_23650"
+        },
+        {
+          "name": "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+          "system": "license",
+          "nodeid": "node_17577"
+        },
+        {
+          "name": "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+          "system": "reminder",
+          "nodeid": "node_13032"
+        },
+        {
+          "name": "MIL Circuit",
+          "system": "mil_circuit",
+          "nodeid": "node_7858"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_51731"
+        },
+        {
+          "name": "PCM Power and Ground",
+          "system": "pcm_p_and_g",
+          "nodeid": "node_3499"
+        },
+        {
+          "name": "PGM-FI System",
+          "system": "pgm_fi",
+          "nodeid": "node_13502"
+        },
+        {
+          "name": "Power Mirrors",
+          "system": "power_mirrors",
+          "nodeid": "node_9249"
+        },
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_4905"
+        },
+        {
+          "name": "Power Windows",
+          "system": "power_windows",
+          "nodeid": "node_7881"
+        },
+        {
+          "name": "Power, Grounds and Diagnostics",
+          "system": "p_and_g_diag",
+          "nodeid": "node_4869"
+        },
+        {
+          "name": "Rear Window/Power Mirror Defoggers",
+          "system": "rear_w_power_m_defog",
+          "nodeid": "node_6999"
+        },
+        {
+          "name": "SRS",
+          "system": "srs",
+          "nodeid": "node_10641"
+        },
+        {
+          "name": "Starting System",
+          "system": "starting_system",
+          "nodeid": "node_6582"
+        },
+        {
+          "name": "VSA",
+          "system": "vsa",
+          "nodeid": "node_12167"
+        },
+        {
+          "name": "Wiper/Washer (Rear Window)",
+          "system": "wiper_washer_r",
+          "nodeid": "node_11340"
+        },
+        {
+          "name": "Wiper/Washer (Windshield)",
+          "system": "wiper_washer_f",
+          "nodeid": "node_12201"
+        }
+      ],
+      "geometry": {
+        "x": 37.314,
+        "y": 208.7,
+        "width": 13.47,
+        "height": 5.025,
+        "cx": 44.049,
+        "cy": 211.213
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|K0JfU01BUlQ="
+    },
+    {
+      "number": "C13",
+      "rating": "7.5A",
+      "circuit": "IG1_WIPER(P/S)",
+      "descriptionEn": "Wiper IG1 supply (push start)",
+      "descriptionRu": "Питание очистителей IG1, кнопка запуска",
+      "feeds": [
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_20167"
+        },
+        {
+          "name": "Wiper/Washer (Rear Window)",
+          "system": "wiper_washer_r",
+          "nodeid": "node_9760"
+        },
+        {
+          "name": "Wiper/Washer (Windshield)",
+          "system": "wiper_washer_f",
+          "nodeid": "node_15926"
+        }
+      ],
+      "geometry": {
+        "x": 56.518,
+        "y": 119.454,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 63.253,
+        "cy": 121.966
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|SUcxX1dJUEVSKFAvUyk="
+    },
+    {
+      "number": "C15",
+      "rating": "15A",
+      "circuit": "15_IG1_COIL",
+      "descriptionEn": "Ignition coils",
+      "descriptionRu": "Катушки зажигания",
+      "feeds": [
+        {
+          "name": "Ignition System",
+          "system": "ignition",
+          "nodeid": "node_9561"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_85814"
+        },
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_29414"
+        }
+      ],
+      "geometry": {
+        "x": 56.518,
+        "y": 136.248,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 63.253,
+        "cy": 138.76
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MTVfSUcxX0NPSUw="
+    },
+    {
+      "number": "C16",
+      "rating": "7.5A",
+      "circuit": "16_IG1_RELAY_2",
+      "descriptionEn": "IG1 relay 2 circuits",
+      "descriptionRu": "Цепи реле зажигания IG1-2",
+      "feeds": [
+        {
+          "name": "Ambient Light, Cargo Area Light and Individual MAP Light",
+          "system": "ambient_light",
+          "nodeid": "node_19184"
+        },
+        {
+          "name": "Auto Idle Stop System",
+          "system": "auto_idle_stop",
+          "nodeid": "node_56733"
+        },
+        {
+          "name": "Brake Lights",
+          "system": "brake_lights",
+          "nodeid": "node_16286"
+        },
+        {
+          "name": "Charging System",
+          "system": "charging_system",
+          "nodeid": "node_29579"
+        },
+        {
+          "name": "City-Brake Active System",
+          "system": "cbas",
+          "nodeid": "node_26848"
+        },
+        {
+          "name": "Climate Control",
+          "system": "climate_control",
+          "nodeid": "node_45242"
+        },
+        {
+          "name": "CVT Control System",
+          "system": "cvt_control_system",
+          "nodeid": "node_54376"
+        },
+        {
+          "name": "Entry Light Control System",
+          "system": "entry_light",
+          "nodeid": "node_19989"
+        },
+        {
+          "name": "EPS",
+          "system": "eps",
+          "nodeid": "node_22875"
+        },
+        {
+          "name": "Headlight Leveling System",
+          "system": "headlight_leveling",
+          "nodeid": "node_17772"
+        },
+        {
+          "name": "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+          "system": "reminder",
+          "nodeid": "node_34144"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_86773"
+        },
+        {
+          "name": "PGM-FI System",
+          "system": "pgm_fi",
+          "nodeid": "node_28019"
+        },
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_29651"
+        },
+        {
+          "name": "Power, Grounds and Diagnostics",
+          "system": "p_and_g_diag",
+          "nodeid": "node_20612"
+        },
+        {
+          "name": "VSA",
+          "system": "vsa",
+          "nodeid": "node_35317"
+        }
+      ],
+      "geometry": {
+        "x": 56.518,
+        "y": 146.536,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 63.253,
+        "cy": 149.048
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MTZfSUcxX1JFTEFZXzI="
+    },
+    {
+      "number": "C17",
+      "rating": "15A",
+      "circuit": "17_P/W_RR_L_MAIN",
+      "descriptionEn": "Rear-left power window",
+      "descriptionRu": "Левый задний стеклоподъёмник",
+      "feeds": [
+        {
+          "name": "Power Windows",
+          "system": "power_windows",
+          "nodeid": "node_19188"
+        }
+      ],
+      "geometry": {
+        "x": 56.518,
+        "y": 154.933,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 63.253,
+        "cy": 157.445
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MTdfUC9XX1JSX0xfTUFJTg=="
+    },
+    {
+      "number": "C18",
+      "rating": "15A",
+      "circuit": "18_P/W_AS_MAIN",
+      "descriptionEn": "Front-passenger power window",
+      "descriptionRu": "Стеклоподъёмник переднего пассажира",
+      "feeds": [
+        {
+          "name": "Power Windows",
+          "system": "power_windows",
+          "nodeid": "node_19423"
+        }
+      ],
+      "geometry": {
+        "x": 56.518,
+        "y": 163.33,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 63.253,
+        "cy": 165.842
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MThfUC9XX0FTX01BSU4="
+    },
+    {
+      "number": "C19",
+      "rating": "15A",
+      "circuit": "19_IG1_FUEL_PUMP",
+      "descriptionEn": "Fuel-pump IG1 supply",
+      "descriptionRu": "Питание топливного насоса IG1",
+      "feeds": [
+        {
+          "name": "Fuel Supply System",
+          "system": "fuel_supply",
+          "nodeid": "node_14526"
+        },
+        {
+          "name": "Ignition System",
+          "system": "ignition",
+          "nodeid": "node_9322"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_86534"
+        },
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_28937"
+        }
+      ],
+      "geometry": {
+        "x": 56.518,
+        "y": 173.419,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 63.253,
+        "cy": 175.931
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MTlfSUcxX0ZVRUxfUFVNUA=="
+    },
+    {
+      "number": "C20",
+      "rating": "7.5A",
+      "circuit": "20_IG1_METER",
+      "descriptionEn": "Gauge/meter IG1 supply",
+      "descriptionRu": "Питание комбинации приборов IG1",
+      "feeds": [
+        {
+          "name": "A/T Interlock System",
+          "system": "a_t_interlock_system",
+          "nodeid": "node_18853"
+        },
+        {
+          "name": "CVT Control System",
+          "system": "cvt_control_system",
+          "nodeid": "node_53654"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_85331"
+        },
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_29176"
+        }
+      ],
+      "geometry": {
+        "x": 56.518,
+        "y": 181.817,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 63.253,
+        "cy": 184.329
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MjBfSUcxX01FVEVS"
+    },
+    {
+      "number": "C21",
+      "rating": "15A",
+      "circuit": "21_+B_IGP",
+      "descriptionEn": "PGM-FI/PCM power supply",
+      "descriptionRu": "Питание системы PGM-FI/PCM",
+      "feeds": [
+        {
+          "name": "A/T Gear Position Indicator",
+          "system": "a_t_gear_position",
+          "nodeid": "node_29170"
+        },
+        {
+          "name": "Auto Idle Stop System",
+          "system": "auto_idle_stop",
+          "nodeid": "node_57242"
+        },
+        {
+          "name": "Charging System",
+          "system": "charging_system",
+          "nodeid": "node_29076"
+        },
+        {
+          "name": "Cruise Control",
+          "system": "cruise",
+          "nodeid": "node_32849"
+        },
+        {
+          "name": "CVT Control System",
+          "system": "cvt_control_system",
+          "nodeid": "node_53410"
+        },
+        {
+          "name": "ETCS (Electronic Throttle Control System)",
+          "system": "etcs",
+          "nodeid": "node_10819"
+        },
+        {
+          "name": "Fuel Supply System",
+          "system": "fuel_supply",
+          "nodeid": "node_14282"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_86051"
+        },
+        {
+          "name": "PCM Power and Ground",
+          "system": "pcm_p_and_g",
+          "nodeid": "node_10730"
+        },
+        {
+          "name": "PGM-FI System",
+          "system": "pgm_fi",
+          "nodeid": "node_27775"
+        }
+      ],
+      "geometry": {
+        "x": 56.518,
+        "y": 190.214,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 63.253,
+        "cy": 192.726
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MjFfK0JfSUdQ"
+    },
+    {
+      "number": "C23",
+      "rating": "15A",
+      "circuit": "D/L_MTR2_MAIN_LOCK",
+      "descriptionEn": "Door-lock motor 2, lock",
+      "descriptionRu": "Мотор замка 2, запирание",
+      "feeds": [
+        {
+          "name": "Keyless/Power Door Locks/Security System",
+          "system": "keyless_security",
+          "nodeid": "node_20140"
+        }
+      ],
+      "geometry": {
+        "x": 56.518,
+        "y": 208.7,
+        "width": 13.47,
+        "height": 5.025,
+        "cx": 63.253,
+        "cy": 211.213
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|RC9MX01UUjJfTUFJTl9MT0NL"
+    },
+    {
+      "number": "C25",
+      "rating": "20A",
+      "circuit": "25_IG2_RR_DEF",
+      "descriptionEn": "Rear-window defogger",
+      "descriptionRu": "Обогрев заднего стекла",
+      "feeds": [
+        {
+          "name": "Climate Control",
+          "system": "climate_control",
+          "nodeid": "node_44766"
+        },
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_30635"
+        },
+        {
+          "name": "Rear Window/Power Mirror Defoggers",
+          "system": "rear_w_power_m_defog",
+          "nodeid": "node_13817"
+        }
+      ],
+      "geometry": {
+        "x": 75.538,
+        "y": 119.454,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 82.273,
+        "cy": 121.966
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MjVfSUcyX1JSX0RFRg=="
+    },
+    {
+      "number": "C26",
+      "rating": "7.5A",
+      "circuit": "26_IG2_A/C",
+      "descriptionEn": "Climate-control/fan control",
+      "descriptionRu": "Управление климатом и вентилятором",
+      "feeds": [
+        {
+          "name": "Climate Control",
+          "system": "climate_control",
+          "nodeid": "node_45003"
+        },
+        {
+          "name": "Fans",
+          "system": "fans",
+          "nodeid": "node_10705"
+        },
+        {
+          "name": "Idle Control System",
+          "system": "idle_control_system",
+          "nodeid": "node_15320"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_86295"
+        },
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_30872"
+        }
+      ],
+      "geometry": {
+        "x": 75.538,
+        "y": 127.851,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 82.273,
+        "cy": 130.363
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MjZfSUcyX0EvQw=="
+    },
+    {
+      "number": "C27",
+      "rating": "7.5A",
+      "circuit": "27_IG2_MIRROR",
+      "descriptionEn": "Power mirrors",
+      "descriptionRu": "Электропривод зеркал",
+      "feeds": [
+        {
+          "name": "Power Mirrors",
+          "system": "power_mirrors",
+          "nodeid": "node_12460"
+        },
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_31111"
+        }
+      ],
+      "geometry": {
+        "x": 75.538,
+        "y": 136.248,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 82.273,
+        "cy": 138.76
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MjdfSUcyX01JUlJPUg=="
+    },
+    {
+      "number": "C28",
+      "rating": "20A",
+      "circuit": "28_ACC_CIGER",
+      "descriptionEn": "Accessory power socket",
+      "descriptionRu": "Розетка питания аксессуаров",
+      "feeds": [
+        {
+          "name": "A/T Interlock System",
+          "system": "a_t_interlock_system",
+          "nodeid": "node_18377"
+        },
+        {
+          "name": "Accessory Power Socket",
+          "system": "accessory_socket",
+          "nodeid": "node_6252"
+        },
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_27741"
+        }
+      ],
+      "geometry": {
+        "x": 75.538,
+        "y": 146.536,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 82.273,
+        "cy": 149.048
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MjhfQUNDX0NJR0VS"
+    },
+    {
+      "number": "C29",
+      "rating": "7.5A",
+      "circuit": "29_ACC",
+      "descriptionEn": "Accessory/audio supply",
+      "descriptionRu": "Питание аксессуаров и аудиосистемы",
+      "feeds": [
+        {
+          "name": "A/T Interlock System",
+          "system": "a_t_interlock_system",
+          "nodeid": "node_18614"
+        },
+        {
+          "name": "Accessory Power Socket",
+          "system": "accessory_socket",
+          "nodeid": "node_6489"
+        },
+        {
+          "name": "Audio System",
+          "system": "audio",
+          "nodeid": "node_42593"
+        },
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_27978"
+        }
+      ],
+      "geometry": {
+        "x": 75.538,
+        "y": 154.933,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 82.273,
+        "cy": 157.445
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MjlfQUND"
+    },
+    {
+      "number": "C30",
+      "rating": "15A",
+      "circuit": "P/W_RR_R_MAIN",
+      "descriptionEn": "Rear-right power window",
+      "descriptionRu": "Правый задний стеклоподъёмник",
+      "feeds": [
+        {
+          "name": "Power Windows",
+          "system": "power_windows",
+          "nodeid": "node_16538"
+        }
+      ],
+      "geometry": {
+        "x": 75.538,
+        "y": 163.33,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 82.273,
+        "cy": 165.842
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|UC9XX1JSX1JfTUFJTg=="
+    },
+    {
+      "number": "C32",
+      "rating": "7.5A",
+      "circuit": "32_IG1_ACG",
+      "descriptionEn": "Alternator/PGM-FI IG1 supply",
+      "descriptionRu": "Питание генератора/PGM-FI по IG1",
+      "feeds": [
+        {
+          "name": "Cruise Control",
+          "system": "cruise",
+          "nodeid": "node_33093"
+        },
+        {
+          "name": "CVT Control System",
+          "system": "cvt_control_system",
+          "nodeid": "node_53892"
+        },
+        {
+          "name": "EVAP System",
+          "system": "evap",
+          "nodeid": "node_6906"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_85569"
+        },
+        {
+          "name": "PGM-FI System",
+          "system": "pgm_fi",
+          "nodeid": "node_27530"
+        },
+        {
+          "name": "Power Supply",
+          "system": "power_supply",
+          "nodeid": "node_28217"
+        }
+      ],
+      "geometry": {
+        "x": 75.538,
+        "y": 181.817,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 82.273,
+        "cy": 184.329
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|MzJfSUcxX0FDRw=="
+    },
+    {
+      "number": "C34",
+      "rating": "30A",
+      "circuit": "+B_DOOR_LOCK_MAIN",
+      "descriptionEn": "Door-lock main supply",
+      "descriptionRu": "Главное питание центрального замка",
+      "feeds": [
+        {
+          "name": "Keyless/Power Door Locks/Security System",
+          "system": "keyless_security",
+          "nodeid": "node_20610"
+        }
+      ],
+      "geometry": {
+        "x": 75.482,
+        "y": 200.303,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 82.217,
+        "cy": 202.815
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|K0JfRE9PUl9MT0NLX01BSU4="
+    },
+    {
+      "number": "C35",
+      "rating": "15A",
+      "circuit": "D/L_MTR2_MAIN_UNLOCK",
+      "descriptionEn": "Door-lock motor 2, unlock",
+      "descriptionRu": "Мотор замка 2, отпирание",
+      "feeds": [
+        {
+          "name": "Keyless/Power Door Locks/Security System",
+          "system": "keyless_security",
+          "nodeid": "node_20375"
+        }
+      ],
+      "geometry": {
+        "x": 75.482,
+        "y": 208.7,
+        "width": 13.47,
+        "height": 5.025,
+        "cx": 82.217,
+        "cy": 211.213
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|RC9MX01UUjJfTUFJTl9VTkxPQ0s="
+    },
+    {
+      "number": "C37",
+      "rating": "15A",
+      "circuit": "D/L_MTR1_MAIN_UNLOCK",
+      "descriptionEn": "Door-lock motor 1, unlock",
+      "descriptionRu": "Мотор замка 1, отпирание",
+      "feeds": [
+        {
+          "name": "Keyless/Power Door Locks/Security System",
+          "system": "keyless_security",
+          "nodeid": "node_19905"
+        }
+      ],
+      "geometry": {
+        "x": 94.685,
+        "y": 200.303,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 101.42,
+        "cy": 202.815
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|RC9MX01UUjFfTUFJTl9VTkxPQ0s="
+    },
+    {
+      "number": "C38",
+      "rating": "15A",
+      "circuit": "D/L_MTR1_MAIN_LOCK",
+      "descriptionEn": "Door-lock motor 1, lock",
+      "descriptionRu": "Мотор замка 1, запирание",
+      "feeds": [
+        {
+          "name": "Keyless/Power Door Locks/Security System",
+          "system": "keyless_security",
+          "nodeid": "node_21117"
+        }
+      ],
+      "geometry": {
+        "x": 94.685,
+        "y": 208.7,
+        "width": 13.47,
+        "height": 5.025,
+        "cx": 101.42,
+        "cy": 211.213
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|RC9MX01UUjFfTUFJTl9MT0NL"
+    },
+    {
+      "number": "C39",
+      "rating": "20A",
+      "circuit": "+B_P/W_DR",
+      "descriptionEn": "Driver's power window",
+      "descriptionRu": "Стеклоподъёмник водителя",
+      "feeds": [
+        {
+          "name": "Power Windows",
+          "system": "power_windows",
+          "nodeid": "node_16773"
+        }
+      ],
+      "geometry": {
+        "x": 94.685,
+        "y": 217.098,
+        "width": 13.47,
+        "height": 5.024,
+        "cx": 101.42,
+        "cy": 219.61
+      },
+      "hotspotId": "F|38200-T6G_-ZZ00-|K0JfUC9XX0RS"
+    }
+  ],
+  "relays": [
+    {
+      "hotspotId": "R|38200-T6G_-ZZ00-|UC9XX1JFTEFZ",
+      "geometry": {
+        "x": 94.412,
+        "y": 149.004,
+        "width": 18.993,
+        "height": 27.821,
+        "cx": 103.909,
+        "cy": 162.915
+      },
+      "name": "P/W_RELAY",
+      "drawingNo": "38200-T6G_-ZZ00-",
+      "displayName": "Power Window Relay"
+    },
+    {
+      "hotspotId": "R|38200-T6G_-ZZ00-|RUNVX1JFTEFZ",
+      "geometry": {
+        "x": 94.412,
+        "y": 115.39,
+        "width": 18.993,
+        "height": 27.821,
+        "cx": 103.909,
+        "cy": 129.3
+      },
+      "name": "ECU_RELAY",
+      "drawingNo": "38200-T6G_-ZZ00-",
+      "displayName": "PGM-FI Main Relay 1"
+    },
+    {
+      "hotspotId": "R|38200-T6G_-ZZ00-|SUcxX1JMWV8yKEsvUyk=",
+      "geometry": {
+        "x": 94.412,
+        "y": 82.668,
+        "width": 18.993,
+        "height": 27.822,
+        "cx": 103.909,
+        "cy": 96.579
+      },
+      "name": "IG1_RLY_2(K/S)",
+      "drawingNo": "38200-T6G_-ZZ00-",
+      "displayName": ""
+    },
+    {
+      "hotspotId": "R|38200-T6G_-ZZ00-|SUcxX1JMWV8xKEsvUyk=",
+      "geometry": {
+        "x": 72.545,
+        "y": 82.668,
+        "width": 18.993,
+        "height": 27.822,
+        "cx": 82.041,
+        "cy": 96.579
+      },
+      "name": "IG1_RLY_1(K/S)",
+      "drawingNo": "38200-T6G_-ZZ00-",
+      "displayName": ""
+    },
+    {
+      "hotspotId": "R|38200-T6G_-ZZ00-|QUNDX1JMWShLL1Mp",
+      "geometry": {
+        "x": 50.745,
+        "y": 82.668,
+        "width": 18.993,
+        "height": 27.822,
+        "cx": 60.242,
+        "cy": 96.579
+      },
+      "name": "ACC_RLY(K/S)",
+      "drawingNo": "38200-T6G_-ZZ00-",
+      "displayName": ""
+    },
+    {
+      "hotspotId": "R|38200-T6G_-ZZ00-|QkxPV0VSX1JFTEFZ",
+      "geometry": {
+        "x": 46.331,
+        "y": 58.481,
+        "width": 27.821,
+        "height": 18.993,
+        "cx": 60.242,
+        "cy": 67.978
+      },
+      "name": "BLOWER_RELAY",
+      "drawingNo": "38200-T6G_-ZZ00-",
+      "displayName": "Blower Motor Relay"
+    }
+  ]
+}

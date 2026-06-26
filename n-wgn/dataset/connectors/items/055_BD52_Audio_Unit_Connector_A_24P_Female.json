@@ -1,0 +1,371 @@
+{
+  "id": "055_BD52_Audio_Unit_Connector_A_24P_Female",
+  "category": "connector",
+  "connectorRef": "BD52",
+  "physicalIds": [
+    "BD52"
+  ],
+  "name": "Audio Unit Connector A (24P) (Female)",
+  "nameRu": "Разъём аудиоблок Connector A (24P), гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 24,
+  "populatedPinCount": 15,
+  "faceviewPart": "91774-TA0 -0030-H1",
+  "partNumbers": [
+    "91774-TA0 -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Audio System",
+    "K-Line Communication Line"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91774-TA0 -0030-H1.svg",
+    "viewBox": "0 0 220.708 44.482",
+    "width": 220.708,
+    "height": 44.482
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z42A000",
+      "geometry": {
+        "x": 9.801,
+        "y": 18.749,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 205.745,
+        "y": 18.749,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_BACK_UP_BST",
+      "english": "Constant battery power: back-up, up, BST",
+      "russian": "Постоянное питание от АКБ: резервный, вверх, BST",
+      "terminal": "B79C000",
+      "geometry": {
+        "x": 9.801,
+        "y": 37.9,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 205.745,
+        "y": 37.9,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "RL_SPKR+",
+      "english": "rear left, speaker +",
+      "russian": "задний левый, динамик +",
+      "terminal": "806E000",
+      "geometry": {
+        "x": 39.015,
+        "y": 22.852,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "RL_SPKR-",
+      "english": "rear left, speaker -",
+      "russian": "задний левый, динамик -",
+      "terminal": "807F000",
+      "geometry": {
+        "x": 55.222,
+        "y": 22.852,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 71.43,
+        "y": 22.852,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 87.637,
+        "y": 22.852,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "RR_SPKR+",
+      "english": "rear/right, speaker +",
+      "russian": "задний/правый, динамик +",
+      "terminal": "804J000",
+      "geometry": {
+        "x": 103.845,
+        "y": 22.852,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "RR_SPKR-",
+      "english": "rear/right, speaker -",
+      "russian": "задний/правый, динамик -",
+      "terminal": "805K000",
+      "geometry": {
+        "x": 117.828,
+        "y": 22.852,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "REMOTE_SW_GND",
+      "english": "remote control, switch, ground",
+      "russian": "дистанционное управление, выключатель, масса",
+      "terminal": "819L000",
+      "geometry": {
+        "x": 134.036,
+        "y": 22.852,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 150.243,
+        "y": 22.852,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "K_LINE",
+      "english": "K-Line diagnostic communication",
+      "russian": "Диагностическая линия K-Line",
+      "terminal": "F29N",
+      "geometry": {
+        "x": 166.45,
+        "y": 22.852,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 182.658,
+        "y": 22.852,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "FL_SPKR+",
+      "english": "front left, speaker +",
+      "russian": "передний левый, динамик +",
+      "terminal": "802R000",
+      "geometry": {
+        "x": 27.986,
+        "y": 39.269,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "FL_SPKR-",
+      "english": "front left, speaker -",
+      "russian": "передний левый, динамик -",
+      "terminal": "803S000",
+      "geometry": {
+        "x": 44.269,
+        "y": 39.269,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 60.551,
+        "y": 39.269,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 76.834,
+        "y": 39.269,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": true,
+      "wire": "RED",
+      "circuit": "FR_SPKR+",
+      "english": "front, speaker +",
+      "russian": "передний, динамик +",
+      "terminal": "800X000",
+      "geometry": {
+        "x": 93.117,
+        "y": 39.269,
+        "svgTextId": "SVGID_19_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "FR_SPKR-",
+      "english": "front, speaker -",
+      "russian": "передний, динамик -",
+      "terminal": "801Y000",
+      "geometry": {
+        "x": 109.399,
+        "y": 39.269,
+        "svgTextId": "SVGID_20_"
+      }
+    },
+    {
+      "pin": 21,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 125.682,
+        "y": 39.269,
+        "svgTextId": "SVGID_21_"
+      }
+    },
+    {
+      "pin": 22,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "AUDIO_REMOTE_SW",
+      "english": "audio, remote control, switch",
+      "russian": "аудиосистема, дистанционное управление, выключатель",
+      "terminal": "808AA000",
+      "geometry": {
+        "x": 141.964,
+        "y": 39.269,
+        "svgTextId": "SVGID_22_"
+      }
+    },
+    {
+      "pin": 23,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "INFO_SW",
+      "english": "INFO, switch",
+      "russian": "INFO, выключатель",
+      "terminal": "235AB",
+      "geometry": {
+        "x": 158.247,
+        "y": 39.269,
+        "svgTextId": "SVGID_23_"
+      }
+    },
+    {
+      "pin": 24,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "ACC(BST)",
+      "english": "ACC, BST",
+      "russian": "ACC, BST",
+      "terminal": "C05AC000",
+      "geometry": {
+        "x": 174.53,
+        "y": 39.269,
+        "svgTextId": "SVGID_24_"
+      }
+    }
+  ]
+}

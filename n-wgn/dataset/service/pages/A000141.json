@@ -1,0 +1,185 @@
+{
+  "id": "A000141",
+  "title": "DTC Commentary: P1841",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000141",
+  "assets": [
+    "141_3.0_jpn_11033677_4.0_disp.png",
+    "141_3.0_jpn_11033678_4.0_disp.png",
+    "141_3.0_jpn_11033679_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Commentary: P1841"
+    },
+    {
+      "type": "dtc",
+      "code": "P1841",
+      "text": "DTC P1841: Driven pulley speed sensor Backward direction detection function failure"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "141_3.0_jpn_11033677_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "141_3.0_jpn_11033678_4.0_disp.png"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Tr1",
+          "Tr2",
+          "Pulse signal voltage level"
+        ],
+        [
+          "OFF",
+          "OFF",
+          "VOH"
+        ],
+        [
+          "OFF",
+          "ON",
+          "VOM"
+        ],
+        [
+          "ON",
+          "OFF",
+          "VOL"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The driven pulley speed sensor is mounted on the transmission case. The driven pulley speed sensor contains a semiconductor that detects the driven pulley position. As the driven pulley rotates, the magnetic flux of the driven pulley speed sensor fluctuates. The magnetic flux variation is converted into a pulse signal and sent to the PGM-FI ECU. The direction of rotation of the rotor is detected by the voltage level of the pulse signal. If there is a discrepancy between the vehicle running status and the direction of rotation indicated by the pulse signal, the PGM-FI ECU determines a failure and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "D/C: Drive Cycle"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "[ ]: HDS Parameters"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "Driven Pulley Speed When the sensor rotation direction output signal continues to indicate forward rotation for more than 2 seconds during backward traveling."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Driven Pulley Speed sensor failure"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reproducibility Testing Methodology"
+    },
+    {
+      "type": "figure",
+      "asset": "141_3.0_jpn_11033679_4.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        {
+          "text": "Start the engine."
+        },
+        {
+          "text": "Select lever is turned to \"R\" position and the vehicle is driven at a speed [vehicle speed] of 3 km/h or more for at least 5 seconds."
+        },
+        {
+          "text": "Turn ignition OFF (LOCK) mode."
+        },
+        {
+          "text": "Repeat test run steps 1 through 3."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When conducting test drives, the driver must comply with all laws and regulations, observe good manners, and drive in accordance with the surrounding conditions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "None."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to have a fault, a temporary DTC is stored in the PGM-FI ECU memory. If the same failure is detected at the next D/C (two consecutive detections), the D indicator light will flash without the PGM-FI warning light illuminating, and the DTC and freeze data will be stored."
+    },
+    {
+      "type": "paragraph",
+      "text": "Use of the clear command of the scan tool (including HDS) or removal of the 12V battery terminal will clear the D indicator light, temporary DTC, DTC, and freeze data."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000141_jpn/web/html/A000141_jpn_Content.html",
+  "inOutline": true
+}

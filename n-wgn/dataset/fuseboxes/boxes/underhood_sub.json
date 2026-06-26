@@ -1,0 +1,153 @@
+{
+  "id": "underhood_sub",
+  "category": "fusebox",
+  "title": "Under-Hood Sub Fuse / Relay Box",
+  "subtitle": "Engine compartment auxiliary box",
+  "location": "Engine compartment",
+  "drawingNumbers": [
+    "91750-TF3_-E010-Y1"
+  ],
+  "fusePrefix": "B",
+  "asset": "assets/underhood_sub.svg",
+  "svgSource": "RH/threed/141a_under_h_f.svgz",
+  "viewBox": "0 0 402.842 200.64",
+  "width": 402.842,
+  "height": 200.64,
+  "fuseCount": 3,
+  "relayCount": 3,
+  "fuses": [
+    {
+      "number": "B1",
+      "rating": "7.5A",
+      "circuit": "ST_MG_FUSE",
+      "descriptionEn": "Starter magnetic-switch circuit",
+      "descriptionRu": "Цепь тягового реле стартера",
+      "feeds": [
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_48273"
+        },
+        {
+          "name": "Starting System",
+          "system": "starting_system",
+          "nodeid": "node_11457"
+        }
+      ],
+      "geometry": {
+        "x": 74.836,
+        "y": 132.551,
+        "width": 11.205,
+        "height": 25.083,
+        "cx": 80.439,
+        "cy": 145.092
+      },
+      "hotspotId": "F|91750-TF3_-E010-Y1|U1RfTUdfRlVTRQ=="
+    },
+    {
+      "number": "B3",
+      "rating": "7.5A",
+      "circuit": "LAF+",
+      "descriptionEn": "A/F sensor power",
+      "descriptionRu": "Питание датчика состава смеси A/F",
+      "feeds": [
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_48509"
+        },
+        {
+          "name": "PGM-FI System",
+          "system": "pgm_fi",
+          "nodeid": "node_11915"
+        }
+      ],
+      "geometry": {
+        "x": 74.836,
+        "y": 99.05,
+        "width": 11.205,
+        "height": 25.083,
+        "cx": 80.439,
+        "cy": 111.591
+      },
+      "hotspotId": "F|91750-TF3_-E010-Y1|TEFGKw=="
+    },
+    {
+      "number": "B4",
+      "rating": "7.5A",
+      "circuit": "STRLD+",
+      "descriptionEn": "Starter-load signal supply",
+      "descriptionRu": "Питание сигнала нагрузки стартера",
+      "feeds": [
+        {
+          "name": "CVT Control System",
+          "system": "cvt_control_system",
+          "nodeid": "node_24884"
+        },
+        {
+          "name": "PCM (All)",
+          "system": "pcm_all",
+          "nodeid": "node_48745"
+        },
+        {
+          "name": "Starting System",
+          "system": "starting_system",
+          "nodeid": "node_11693"
+        }
+      ],
+      "geometry": {
+        "x": 90.586,
+        "y": 99.05,
+        "width": 11.205,
+        "height": 25.083,
+        "cx": 96.189,
+        "cy": 111.591
+      },
+      "hotspotId": "F|91750-TF3_-E010-Y1|U1RSTEQr"
+    }
+  ],
+  "relays": [
+    {
+      "hotspotId": "R|91750-TF3_-E010-Y1|V0FTSEVSX01BSU5fUkVMQVk=",
+      "geometry": {
+        "x": 32.916,
+        "y": 40.911,
+        "width": 35.166,
+        "height": 52.944,
+        "cx": 50.499,
+        "cy": 67.383
+      },
+      "name": "WASHER_MAIN_RELAY",
+      "drawingNo": "91750-TF3_-E010-Y1",
+      "displayName": "Washer Motor Relay"
+    },
+    {
+      "hotspotId": "R|91750-TF3_-E010-Y1|REJXX1JFTEFZ",
+      "geometry": {
+        "x": 72.416,
+        "y": 40.911,
+        "width": 35.166,
+        "height": 52.944,
+        "cx": 89.999,
+        "cy": 67.383
+      },
+      "name": "DBW_RELAY",
+      "drawingNo": "91750-TF3_-E010-Y1",
+      "displayName": "DBW Relay"
+    },
+    {
+      "hotspotId": "R|91750-TF3_-E010-Y1|RlVFTF9QVU1QX1JFTEFZ",
+      "geometry": {
+        "x": 32.916,
+        "y": 106.577,
+        "width": 35.166,
+        "height": 52.946,
+        "cx": 50.499,
+        "cy": 133.05
+      },
+      "name": "FUEL_PUMP_RELAY",
+      "drawingNo": "91750-TF3_-E010-Y1",
+      "displayName": "PGM-FI Main Relay 2"
+    }
+  ]
+}

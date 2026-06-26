@@ -1,0 +1,107 @@
+{
+  "id": "R000774",
+  "title": "Instrument Driver Outer Panel Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "interior",
+  "system": "Instrument Panel",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000774",
+  "assets": [
+    "774_3.0_jpn_11337193_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002064",
+      "label": "Audio panel removal (for vehicles equipped with audio system)",
+      "resolved": true
+    },
+    {
+      "id": "R000777",
+      "label": "Center panel removal (for vehicles not equipped with audio system)",
+      "resolved": true
+    },
+    {
+      "id": "R000770",
+      "label": "Meter panel removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Instrument Driver Outer Panel Removal and Installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Audio panel removal (for vehicles equipped with audio system)",
+      "refs": [
+        {
+          "id": "R002064",
+          "label": "Audio panel removal (for vehicles equipped with audio system)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Center panel removal (for vehicles not equipped with audio system)",
+      "refs": [
+        {
+          "id": "R000777",
+          "label": "Center panel removal (for vehicles not equipped with audio system)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Meter panel removal",
+      "refs": [
+        {
+          "id": "R000770",
+          "label": "Meter panel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Driver Outer panel removal"
+    },
+    {
+      "type": "figure",
+      "asset": "774_3.0_jpn_11337193_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Pry on part (B) of the driver outer panel (A) to create a gap between the driver outer panel and the instrument panel (C). Remove the hooks (D) and (E) in this order, and remove the driver outer panel."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000774_jpn/web/html/R000774_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,549 @@
+{
+  "id": "T001389",
+  "title": "Failure Diagnostic Table by Network Communication DTC",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Network Communication",
+  "system": "Body Communication",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001389",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Failure Diagnostic Table by Network Communication DTC"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "B1002",
+          "MICU (EEPROM) error",
+          "internal error"
+        ],
+        [
+          "B1003",
+          "MICS unit update error",
+          "internal error"
+        ],
+        [
+          "B1028",
+          "Rear wiper switch (RR WIPER AS) signal error (intermittent wipers do not operate), wiper switch does not auto-stop when turned OFF",
+          "signal error"
+        ],
+        [
+          "B1036",
+          "IG1 input abnormal",
+          "signal error"
+        ],
+        [
+          "B1077",
+          "Wiper switch (AS) signal error (intermittent wipers do not operate, wiper switch does not auto-stop when turned OFF)",
+          "signal error"
+        ],
+        [
+          "B1129",
+          "Driver Door lock knob switch LOCK/UNLOCK signal input simultaneously",
+          "signal error"
+        ],
+        [
+          "B1275",
+          "Headlight switch OFF position circuit abnormal",
+          "signal error"
+        ],
+        [
+          "B1276",
+          "Headlight switch SMALL position circuit failure",
+          "signal error"
+        ],
+        [
+          "B1277",
+          "Headlight switch AUTO position circuit failure",
+          "signal error"
+        ],
+        [
+          "B1278",
+          "Headlight switch LO position circuit failure",
+          "signal error"
+        ],
+        [
+          "B1279",
+          "DIMMER/Passing switch circuit error",
+          "signal error"
+        ],
+        [
+          "B1280",
+          "Turn Signal Switch circuit abnormal",
+          "signal error"
+        ],
+        [
+          "B1281",
+          "Wiper switch MIST position circuit error",
+          "signal error"
+        ],
+        [
+          "B1282",
+          "Wiper switch INT position circuit error",
+          "signal error"
+        ],
+        [
+          "B1283",
+          "Wiper switch LOW position circuit error",
+          "signal error"
+        ],
+        [
+          "B1284",
+          "Wiper switch HIGH position circuit error",
+          "signal error"
+        ],
+        [
+          "U1280",
+          "Communication circuit error (BUS off)",
+          "Communication line error"
+        ],
+        [
+          "U128D",
+          "MICU cannot receive communication from Combination Meter Control Unit",
+          "Communication line error"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "B1175",
+          "Combination meter (fuel meter sender unit) circuit error (disconnection)",
+          "signal error"
+        ],
+        [
+          "B1176",
+          "Combination meter (fuel meter sender unit) circuit error (short circuit)",
+          "signal error"
+        ],
+        [
+          "U0029",
+          "F-CAN communication circuit error (BUS off)",
+          "Communication line error"
+        ],
+        [
+          "U0100",
+          "Combination Meter Control Unit cannot receive transmission from PGM-FI ECU",
+          "Communication line error"
+        ],
+        [
+          "U0122",
+          "Combination Meter Control Unit cannot receive VSA frames sent from VSA Modulator Control Unit",
+          "Communication line error"
+        ],
+        [
+          "U12A7",
+          "Combination Meter Control Unit cannot receive communication from City Brake Active System Radar/Control Unit",
+          "Communication line error"
+        ],
+        [
+          "U0131",
+          "Combination Meter Control Unit cannot receive EPS frames sent from the EPS Control Unit",
+          "Communication line error"
+        ],
+        [
+          "U0151",
+          "Combination Meter Control Unit cannot receive SRS frames sent from SRS unit",
+          "Communication line error"
+        ],
+        [
+          "U1280",
+          "B-CAN communication circuit error (BUS off)",
+          "Communication line error"
+        ],
+        [
+          "U1281",
+          "Combination Meter Control Unit cannot receive communication from MICU",
+          "Communication line error"
+        ],
+        [
+          "U3000-49",
+          "ECU internal circuit error",
+          "internal error"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "B1225",
+          "Disconnection of cord of internal air temperature sensor, sensor failure",
+          "signal error"
+        ],
+        [
+          "B1226",
+          "Shorted cord of internal air temperature sensor, defective sensor",
+          "signal error"
+        ],
+        [
+          "B1227",
+          "Disconnection of cord of outside temperature sensor, sensor failure",
+          "signal error"
+        ],
+        [
+          "B1228",
+          "Short-circuited cord of outside temperature sensor, defective sensor",
+          "signal error"
+        ],
+        [
+          "B1229",
+          "Disconnection of cord of solar radiation sensor, sensor failure",
+          "signal error"
+        ],
+        [
+          "B1230",
+          "Short circuit in cord of solar radiation sensor, sensor failure",
+          "signal error"
+        ],
+        [
+          "B1231",
+          "Evaporator Disconnection of sensor cord, sensor failure",
+          "signal error"
+        ],
+        [
+          "B1232",
+          "Evaporator Shorted sensor cord, defective sensor",
+          "signal error"
+        ],
+        [
+          "B1233",
+          "Disconnection of potentiometer of air mix motor",
+          "signal error"
+        ],
+        [
+          "B1234",
+          "Short circuit of potentiometer of air mix motor",
+          "signal error"
+        ],
+        [
+          "B1235",
+          "Air Mix Motor Locks",
+          "signal error"
+        ],
+        [
+          "B1239",
+          "Mode Disconnection or short-circuit of motor cord",
+          "signal error"
+        ],
+        [
+          "B1240",
+          "Mode Motor Lock",
+          "signal error"
+        ],
+        [
+          "B1241",
+          "Blower Motor cord break, short, blown fuse, motor lock",
+          "signal error"
+        ],
+        [
+          "B2969",
+          "Unable to receive wiper frames from MICU",
+          "Communication line error"
+        ],
+        [
+          "U1280",
+          "Auto A/C control unit communication circuit error (BUS off)",
+          "Communication line error"
+        ],
+        [
+          "U128D",
+          "Auto A/C control unit cannot receive communication from combination meter control unit",
+          "Communication line error"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "B1575",
+          "Auto Light Sensor Abnormality",
+          "internal error"
+        ],
+        [
+          "U1280",
+          "Communication circuit error (BUS off)",
+          "Communication line error"
+        ],
+        [
+          "U1281",
+          "Auto Light Control Unit cannot receive communication from MICU",
+          "Communication line error"
+        ],
+        [
+          "U128D",
+          "Auto Light Control Unit cannot receive communication from Combination Meter Control Unit",
+          "Communication line error"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "B1002",
+          "MICU (EEPROM) error",
+          "internal error"
+        ],
+        [
+          "B1601",
+          "Smart Key ECU (CPU) error",
+          "internal error"
+        ],
+        [
+          "B1632",
+          "MTR CONT ON sticking to",
+          "signal error"
+        ],
+        [
+          "B1644",
+          "Honda Smart Key LF circuit failure or short circuit failure",
+          "signal error"
+        ],
+        [
+          "B1645",
+          "Short circuit in driver door LF antenna line",
+          "signal error"
+        ],
+        [
+          "B1646",
+          "Disconnection of driver door LF antenna line",
+          "signal error"
+        ],
+        [
+          "B1647",
+          "Assisted door LF antenna Short circuit in line",
+          "signal error"
+        ],
+        [
+          "B1648",
+          "Assistant Door LF Antenna Disconnection of line",
+          "signal error"
+        ],
+        [
+          "B1657",
+          "Short circuit in rear bumper LF antenna line",
+          "signal error"
+        ],
+        [
+          "B1658",
+          "Disconnection of rear bumper LF antenna line",
+          "signal error"
+        ],
+        [
+          "B1659",
+          "Short circuit in front LF antenna line inside the vehicle",
+          "signal error"
+        ],
+        [
+          "B1660",
+          "Disconnection of front LF antenna line inside the vehicle",
+          "signal error"
+        ],
+        [
+          "B1663",
+          "Short circuit in the rear LF antenna line inside the vehicle",
+          "signal error"
+        ],
+        [
+          "B1664",
+          "Disconnection of rear LF antenna line inside the vehicle",
+          "signal error"
+        ],
+        [
+          "U1280",
+          "Communication circuit error (BUS off)",
+          "Communication line error"
+        ],
+        [
+          "U128D",
+          "Honda Smart Key ECU cannot receive VSP/NE frames sent from the combination meter",
+          "Communication line error"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "B1926",
+          "Backup control Antenna disconnection or short circuit",
+          "internal error"
+        ],
+        [
+          "B1931",
+          "Backup Control Unit No Reply",
+          "signal error"
+        ],
+        [
+          "U1280",
+          "Backup control unit Bus line failure (BUS off)",
+          "Communication line error"
+        ],
+        [
+          "U128D",
+          "Backup control unit cannot receive communication from combination meter control unit",
+          "Communication line error"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "B12C5",
+          "ENGINE START STOP switch failure",
+          "internal error"
+        ],
+        [
+          "B12C6",
+          "Electronic steering lock switch C or D failure",
+          "internal error"
+        ],
+        [
+          "B12C7",
+          "Electronic Steering Lock Motor Failure",
+          "internal error"
+        ],
+        [
+          "B12D0",
+          "IG1a output abnormal",
+          "internal error"
+        ],
+        [
+          "B12D1",
+          "IG1b output abnormal",
+          "internal error"
+        ],
+        [
+          "B12D2",
+          "IG2 output abnormal",
+          "internal error"
+        ],
+        [
+          "B12D3",
+          "IG latch failure",
+          "internal error"
+        ],
+        [
+          "B12E0",
+          "Electronic steering lock failure",
+          "internal error"
+        ],
+        [
+          "B12E1",
+          "Electronic Steering Lock Motor Circuit Failure",
+          "internal error"
+        ],
+        [
+          "B12E2",
+          "MTR-CUT1 Lo failure",
+          "signal error"
+        ],
+        [
+          "B12E3",
+          "MTR-CUT1 Hi failure",
+          "signal error"
+        ],
+        [
+          "B12E4",
+          "MTR-CUT2 failure",
+          "signal error"
+        ],
+        [
+          "B12F0",
+          "Communication failure between smart power control unit and electronic steering lock",
+          "Communication line error"
+        ],
+        [
+          "B12F1",
+          "Communication failure between Smart Power Control Unit and Backup Control Unit",
+          "Communication line error"
+        ],
+        [
+          "B12F2",
+          "Communication error between Smart Power Control Unit and Honda Smart Key ECU",
+          "Communication line error"
+        ],
+        [
+          "U0073",
+          "Smart Power Control Unit F-CAN communication circuit error (BUS off)",
+          "Communication line error"
+        ],
+        [
+          "U0100",
+          "Communication error between Smart Power Control Unit and PGM-FI ECU",
+          "Communication line error"
+        ],
+        [
+          "U0122",
+          "Communication error between Smart Power Control Unit and VSA Modulator Control Unit",
+          "Communication line error"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "B2477",
+          "Rear headlight leveling sensor circuit error",
+          "signal error"
+        ],
+        [
+          "B2479",
+          "Auto Leveling Control Unit (EEPROM) Error",
+          "internal error"
+        ],
+        [
+          "B2480",
+          "Vehicle speed sensor failure value detection",
+          "signal error"
+        ],
+        [
+          "B2481",
+          "Abnormal value detection of speed sensor",
+          "signal error"
+        ],
+        [
+          "B2482",
+          "Lighting switch signal abnormal",
+          "signal error"
+        ],
+        [
+          "U1280",
+          "ALV Unit Bath Off",
+          "Communication line error"
+        ],
+        [
+          "U1281",
+          "Auto Leveling Control Unit cannot receive communication from MICU",
+          "Communication line error"
+        ],
+        [
+          "U128D",
+          "Auto Leveling Control Unit cannot receive communication from Combination Meter Control Unit",
+          "Communication line error"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131120135106/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001389_jpn/web/html/T001389_jpn_Content.html",
+  "inOutline": true
+}

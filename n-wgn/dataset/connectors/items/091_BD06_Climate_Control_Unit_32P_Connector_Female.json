@@ -1,0 +1,486 @@
+{
+  "id": "091_BD06_Climate_Control_Unit_32P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD06",
+  "physicalIds": [
+    "BD06"
+  ],
+  "name": "Climate Control Unit 32P Connector (Female)",
+  "nameRu": "Разъём блок управления климатом, 32 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 32,
+  "populatedPinCount": 28,
+  "faceviewPart": "90255-SJA -0030-H1",
+  "partNumbers": [
+    "90255-SJA -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "B-CAN Communication Line",
+    "Climate Control",
+    "Dashlights",
+    "Rear Window/Power Mirror Defoggers"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/90255-SJA -0030-H1.svg",
+    "viewBox": "0 0 410.76 66.719",
+    "width": 410.76,
+    "height": 66.719
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "BLOWER_G",
+      "english": "BLOWER, G",
+      "russian": "BLOWER, G",
+      "terminal": "306A",
+      "geometry": {
+        "x": 22.903,
+        "y": 33.162,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "BLOWER_V",
+      "english": "BLOWER, V",
+      "russian": "BLOWER, V",
+      "terminal": "305B",
+      "geometry": {
+        "x": 47.631,
+        "y": 33.162,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "RED",
+      "circuit": "MODE_MTR_DEF",
+      "english": "MODE, motor, defogger",
+      "russian": "MODE, электродвигатель, обогрев стекла",
+      "terminal": "315C",
+      "geometry": {
+        "x": 72.36,
+        "y": 33.162,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "MODE_MTR_VENT",
+      "english": "MODE, motor, VENT",
+      "russian": "MODE, электродвигатель, VENT",
+      "terminal": "314D",
+      "geometry": {
+        "x": 97.089,
+        "y": 33.162,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "M-COOL",
+      "english": "M-COOL",
+      "russian": "M-COOL",
+      "terminal": "325E",
+      "geometry": {
+        "x": 121.818,
+        "y": 33.162,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "ORN",
+      "circuit": "M-HOT",
+      "english": "M-HOT",
+      "russian": "M-HOT",
+      "terminal": "324F",
+      "geometry": {
+        "x": 146.546,
+        "y": 33.162,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "F/R_MTR(FRESH)",
+      "english": "F / R, motor, FRESH",
+      "russian": "F / R, электродвигатель, FRESH",
+      "terminal": "321G",
+      "geometry": {
+        "x": 171.276,
+        "y": 33.162,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "F/R_MTR(REC)",
+      "english": "F / R, motor, REC",
+      "russian": "F / R, электродвигатель, REC",
+      "terminal": "322H",
+      "geometry": {
+        "x": 196.004,
+        "y": 33.162,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "RR_DEF_RLY_CL-",
+      "english": "rear/right, defogger, relay, coil control -",
+      "russian": "задний/правый, обогрев стекла, реле, управление катушкой -",
+      "terminal": "426J",
+      "geometry": {
+        "x": 220.733,
+        "y": 33.162,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "RED",
+      "circuit": "A/C_PRESS_SW_OUT",
+      "english": "air conditioning, PRESS, switch, output",
+      "russian": "кондиционер, PRESS, выключатель, выход",
+      "terminal": "312K",
+      "geometry": {
+        "x": 242.777,
+        "y": 33.162,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-2)",
+      "english": "Ground (CTR-2)",
+      "russian": "Масса (CTR-2)",
+      "terminal": "Z37L",
+      "geometry": {
+        "x": 268.059,
+        "y": 33.162,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 292.233,
+        "y": 33.162,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "S_5V",
+      "english": "S, 5V",
+      "russian": "S, 5V",
+      "terminal": "330N",
+      "geometry": {
+        "x": 316.963,
+        "y": 33.162,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 341.691,
+        "y": 33.162,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11R",
+      "geometry": {
+        "x": 366.421,
+        "y": 33.162,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "IG2_A/C",
+      "english": "ignition IG2, air conditioning",
+      "russian": "зажигание IG2, кондиционер",
+      "terminal": "G22S",
+      "geometry": {
+        "x": 391.149,
+        "y": 33.162,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "B-CAN_H",
+      "english": "B-CAN high line",
+      "russian": "Высокая линия B-CAN",
+      "terminal": "X50T",
+      "geometry": {
+        "x": 8.357,
+        "y": 58.12,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "B-CAN_L",
+      "english": "B-CAN low line",
+      "russian": "Низкая линия B-CAN",
+      "terminal": "X60W",
+      "geometry": {
+        "x": 33.111,
+        "y": 58.12,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "TSUN",
+      "english": "TSUN",
+      "russian": "TSUN",
+      "terminal": "333X",
+      "geometry": {
+        "x": 57.866,
+        "y": 58.12,
+        "svgTextId": "SVGID_19_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "TAM",
+      "english": "TAM",
+      "russian": "TAM",
+      "terminal": "335Y",
+      "geometry": {
+        "x": 82.62,
+        "y": 58.12,
+        "svgTextId": "SVGID_20_"
+      }
+    },
+    {
+      "pin": 21,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "TR",
+      "english": "TR",
+      "russian": "TR",
+      "terminal": "334Z",
+      "geometry": {
+        "x": 107.374,
+        "y": 58.12,
+        "svgTextId": "SVGID_21_"
+      }
+    },
+    {
+      "pin": 22,
+      "used": true,
+      "wire": "RED",
+      "circuit": "TEVA",
+      "english": "TEVA",
+      "russian": "TEVA",
+      "terminal": "332AA",
+      "geometry": {
+        "x": 132.126,
+        "y": 58.12,
+        "svgTextId": "SVGID_22_"
+      }
+    },
+    {
+      "pin": 23,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 156.881,
+        "y": 58.12,
+        "svgTextId": "SVGID_23_"
+      }
+    },
+    {
+      "pin": 24,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "AMD-P",
+      "english": "AMD-P",
+      "russian": "AMD-P",
+      "terminal": "326AC",
+      "geometry": {
+        "x": 181.636,
+        "y": 58.12,
+        "svgTextId": "SVGID_24_"
+      }
+    },
+    {
+      "pin": 25,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "MODE1",
+      "english": "MODE1",
+      "russian": "MODE1",
+      "terminal": "316AD",
+      "geometry": {
+        "x": 206.39,
+        "y": 58.12,
+        "svgTextId": "SVGID_25_"
+      }
+    },
+    {
+      "pin": 26,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "MODE2",
+      "english": "MODE2",
+      "russian": "MODE2",
+      "terminal": "317AE",
+      "geometry": {
+        "x": 231.144,
+        "y": 58.12,
+        "svgTextId": "SVGID_26_"
+      }
+    },
+    {
+      "pin": 27,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "MODE3",
+      "english": "MODE3",
+      "russian": "MODE3",
+      "terminal": "318AF",
+      "geometry": {
+        "x": 255.898,
+        "y": 58.12,
+        "svgTextId": "SVGID_27_"
+      }
+    },
+    {
+      "pin": 28,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "MODE4",
+      "english": "MODE4",
+      "russian": "MODE4",
+      "terminal": "319AG",
+      "geometry": {
+        "x": 280.651,
+        "y": 58.12,
+        "svgTextId": "SVGID_28_"
+      }
+    },
+    {
+      "pin": 29,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "SENSER_COM",
+      "english": "sensor, common",
+      "russian": "датчик, общий",
+      "terminal": "331AH",
+      "geometry": {
+        "x": 305.405,
+        "y": 58.12,
+        "svgTextId": "SVGID_29_"
+      }
+    },
+    {
+      "pin": 30,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-2)",
+      "english": "Ground (CTR-2)",
+      "russian": "Масса (CTR-2)",
+      "terminal": "Z37AJ",
+      "geometry": {
+        "x": 330.159,
+        "y": 58.12,
+        "svgTextId": "SVGID_30_"
+      }
+    },
+    {
+      "pin": 31,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 354.913,
+        "y": 58.12,
+        "svgTextId": "SVGID_31_"
+      }
+    },
+    {
+      "pin": 32,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_BACK_UP_BST",
+      "english": "Constant battery power: back-up, up, BST",
+      "russian": "Постоянное питание от АКБ: резервный, вверх, BST",
+      "terminal": "B79AL",
+      "geometry": {
+        "x": 379.667,
+        "y": 58.12,
+        "svgTextId": "SVGID_32_"
+      }
+    }
+  ]
+}

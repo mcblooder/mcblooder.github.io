@@ -1,0 +1,437 @@
+{
+  "id": "R000789",
+  "title": "Instrument panel/steering hanger beam removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000789",
+  "assets": [
+    "789_3.0_jpn_11581284_3.0_disp.png",
+    "789_3.0_jpn_11581287_3.0_disp.png",
+    "789_3.0_jpn_11581288_3.0_disp.png",
+    "789_3.0_jpn_11581289_3.0_disp.png",
+    "789_3.0_jpn_11581291_3.0_disp.png",
+    "789_3.0_jpn_11581293_3.0_disp.png",
+    "789_3.0_jpn_11581296_3.0_disp.png",
+    "789_3.0_jpn_11581297_3.0_disp.png",
+    "789_3.0_jpn_11581300_3.0_disp.png",
+    "789_3.0_jpn_11581301_3.0_disp.png",
+    "789_3.0_jpn_11581302_3.0_disp.png",
+    "789_3.0_jpn_11589048_2.0_disp.png",
+    "789_3.0_jpn_11589049_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000910",
+      "label": "12V battery Negative (-) terminal Disconnect",
+      "resolved": true
+    },
+    {
+      "id": "R000846",
+      "label": "Cowl top removal",
+      "resolved": true
+    },
+    {
+      "id": "R001021",
+      "label": "Wiper motor removal",
+      "resolved": true
+    },
+    {
+      "id": "R000780",
+      "label": "Center lower cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000771",
+      "label": "Driver lower cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000783",
+      "label": "Glove box removal",
+      "resolved": true
+    },
+    {
+      "id": "R000786",
+      "label": "Steering column cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000636",
+      "label": "Steering column removal",
+      "resolved": true
+    },
+    {
+      "id": "R000757",
+      "label": "Driver's side cowl side lining removal",
+      "resolved": true
+    },
+    {
+      "id": "R000758",
+      "label": "Side curtains Non-equipped vehicles without airbags",
+      "resolved": true
+    },
+    {
+      "id": "R000759",
+      "label": "Side curtain airbag-equipped vehicles",
+      "resolved": true
+    },
+    {
+      "id": "R000553",
+      "label": "Select Lever Control Wire Disconnect",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Instrument panel/steering hanger beam removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If there are components of the SRS airbag system in the vicinity, refer to the work precautions and configuration drawings described for the SRS airbag system before proceeding."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The work is done while being held by another person."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Negative (-) terminal Disconnect",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Negative (-) terminal Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Cowl top removal",
+      "refs": [
+        {
+          "id": "R000846",
+          "label": "Cowl top removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Wiper motor removal",
+      "refs": [
+        {
+          "id": "R001021",
+          "label": "Wiper motor removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Center lower cover removal",
+      "refs": [
+        {
+          "id": "R000780",
+          "label": "Center lower cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Driver lower cover removal",
+      "refs": [
+        {
+          "id": "R000771",
+          "label": "Driver lower cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Glove box removal",
+      "refs": [
+        {
+          "id": "R000783",
+          "label": "Glove box removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Steering column cover removal",
+      "refs": [
+        {
+          "id": "R000786",
+          "label": "Steering column cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Steering column removal",
+      "refs": [
+        {
+          "id": "R000636",
+          "label": "Steering column removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Driver's side cowl side lining removal",
+      "refs": [
+        {
+          "id": "R000757",
+          "label": "Driver's side cowl side lining removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Remove both front pillar garnishes."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Side curtains Non-equipped vehicles without airbags",
+          "refs": [
+            {
+              "id": "R000758",
+              "label": "Side curtains Non-equipped vehicles without airbags",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtains Non-equipped vehicles without airbags",
+          "refs": [
+            {
+              "id": "R000758",
+              "label": "Side curtains Non-equipped vehicles without airbags",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtain airbag-equipped vehicles",
+          "refs": [
+            {
+              "id": "R000759",
+              "label": "Side curtain airbag-equipped vehicles",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Side curtain airbag-equipped vehicles",
+          "refs": [
+            {
+              "id": "R000759",
+              "label": "Side curtain airbag-equipped vehicles",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Select Lever Control Wire Disconnect",
+      "refs": [
+        {
+          "id": "R000553",
+          "label": "Select Lever Control Wire Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. Heater Duct removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "13. Instrument panel/steering hanger beam removal (driver's side)"
+    },
+    {
+      "type": "figure",
+      "asset": "789_3.0_jpn_11581284_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler and remove the coupler clip (B) from the fuse box (A) and its surroundings."
+    },
+    {
+      "type": "figure",
+      "asset": "789_3.0_jpn_11589048_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the harness clip (A). Remove the brake pedal support stay (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "789_3.0_jpn_11589049_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Remove the bolts (A, B). Disconnect the coupler (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "789_3.0_jpn_11581287_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "Disconnect the air hose (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "789_3.0_jpn_11581288_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "7",
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "14. Instrument panel/steering hanger beam removal (passenger side)"
+    },
+    {
+      "type": "figure",
+      "asset": "789_3.0_jpn_11581289_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the cover (A). Disconnect the coupler (B). Remove the harness clip (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "789_3.0_jpn_11581291_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Disconnect the coupler (A). Remove harness clip (B) and ground bolt (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "789_3.0_jpn_11581293_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "Disconnect the coupler (A)."
+    },
+    {
+      "type": "figure",
+      "asset": "789_3.0_jpn_11581296_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "7",
+      "text": "Disconnect the coupler (A) and harness clip (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "15. Remove instrument panel/steering hanger beam (engine compartment side)"
+    },
+    {
+      "type": "figure",
+      "asset": "789_3.0_jpn_11581297_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the cap (A) and remove the steering hanger beam mounting bolt."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "16. Remove instrument panel/steering hanger beam"
+    },
+    {
+      "type": "figure",
+      "asset": "789_3.0_jpn_11581300_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the bolt from the passenger side."
+    },
+    {
+      "type": "figure",
+      "asset": "789_3.0_jpn_11581301_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the bolt from the driver's side."
+    },
+    {
+      "type": "figure",
+      "asset": "789_3.0_jpn_11581302_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Slightly lift up the instrument panel/steering hanger beam (A) and pull it toward you to remove it from the guide pins (B and C) on the body, then remove the instrument panel/steering hanger beam from the front door opening to the outside."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "17. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000789_jpn/web/html/R000789_jpn_Content.html",
+  "inOutline": true
+}

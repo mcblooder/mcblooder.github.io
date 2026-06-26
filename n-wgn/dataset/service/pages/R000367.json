@@ -1,0 +1,101 @@
+{
+  "id": "R000367",
+  "title": "Check valve timing",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder head",
+  "system": "valve",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000367",
+  "assets": [
+    "367_5.0_jpn_11582754_5.0_disp.png",
+    "367_5.0_jpn_11582755_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000371",
+      "label": "Cylinder head cover removal",
+      "resolved": true
+    },
+    {
+      "id": "R000369",
+      "label": "Remove the cam chain and install it according to the regular installation procedure.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Check valve timing"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Cylinder head cover removal",
+      "refs": [
+        {
+          "id": "R000371",
+          "label": "Cylinder head cover removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Valve timing Check"
+    },
+    {
+      "type": "figure",
+      "asset": "367_5.0_jpn_11582754_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Rotate the crankshaft pulley in a clockwise direction to align the alignment mark (A) with the TDC mark (white marking) (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Confirmation shall be made from the specified viewing direction (C)."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "367_5.0_jpn_11582755_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Align the TDC mark (A) on the VTC actuator and exhaust camshaft sprocket with the top of the cylinder head, with the TDC marks (A) facing outward. This is the position at which the No. 1 piston is at the top dead center of the exhaust. Inspect that all TDC marks on crankshaft pulley and TDC marks on VTC actuator and exhaust camshaft sprocket are aligned If TDC marks are misaligned, Remove the cam chain and install it according to the regular installation procedure.",
+      "refs": [
+        {
+          "id": "R000369",
+          "label": "Remove the cam chain and install it according to the regular installation procedure.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000367_jpn/web/html/R000367_jpn_Content.html",
+  "inOutline": true
+}

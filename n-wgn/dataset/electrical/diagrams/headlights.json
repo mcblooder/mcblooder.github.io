@@ -1,0 +1,104 @@
+{
+  "id": "headlights",
+  "category": "electrical_diagram",
+  "title": "Headlights",
+  "system": "headlights",
+  "sheetCount": 6,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/headlights/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/headlights/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/headlights/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/headlights/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/headlights/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/headlights/sheet6.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Automatic Lighting/Sunlight Sensor",
+      "Combination Light Switch",
+      "Engine Start/Stop Switch",
+      "Food COMP Relay",
+      "Gauge Control Module",
+      "IG1 Relay 1",
+      "Left Discharge Headlight Unit",
+      "Left Front Position Light/Hood COMP",
+      "Lighting Relay 1",
+      "Lighting Relay 2",
+      "Right Discharge Headlight Unit",
+      "Right Front Position Light/Hood COMP"
+    ],
+    "Couplers": [
+      "Automatic Lighting/Sunlight Sensor 7P Connector (Female)",
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "C003 (Female)",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "C120 (Male)|C120 (Female)",
+      "Combination Light Switch 12P Connector (Female)",
+      "Data Link Connector (DLC) (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Gauge Control Module 32P Connector (Female)",
+      "Left Discharge Headlight Unit 2P Connector (Female)",
+      "Left Front Position Light/Hood COMP 4P Connector (Female)",
+      "Right Discharge Headlight Unit 2P Connector (Female)",
+      "Right Front Position Light/Hood COMP 4P Connector (Female)",
+      "Sub Relay Block 2",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_DC/DC_1",
+      "+B_F/BOX_MAIN",
+      "+B_H/L_HI_SOL",
+      "+B_H/L_LO-L(HID)",
+      "+B_H/L_LO-R(HID)",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "07_IG1_RELAY_1",
+      "IG1_METER(P/S)"
+    ],
+    "Grounds": [
+      "G201",
+      "G301",
+      "G401",
+      "G402"
+    ],
+    "Harnesses": [
+      "BC Combinetion Switch Subharness",
+      "BD Dashboard Wire Harness",
+      "BQ Roof Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "C001926",
+  "title": "Fuel and emission control structure description - Ignition timing control",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "PGM-FI System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001926",
+  "assets": [
+    "1926_3.0_jpn_11153804_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuel and emission control structure description - Ignition timing control"
+    },
+    {
+      "type": "paragraph",
+      "text": "The PGM-FI ECU calculates the basic ignition timing according to the engine speed and intake manifold negative pressure, determines the optimal ignition timing according to the situation by adding corrections based on each sensor signal, and sends ignition signals to the ignition coils."
+    },
+    {
+      "type": "figure",
+      "asset": "1926_3.0_jpn_11153804_3.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001926_jpn/web/html/C001926_jpn_Content.html",
+  "inOutline": true
+}

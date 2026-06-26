@@ -1,0 +1,77 @@
+{
+  "id": "183_BI08_Answer_Back_Buzzer_3P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BI08",
+  "physicalIds": [
+    "BI08"
+  ],
+  "name": "Answer Back Buzzer 3P Connector (Female)",
+  "nameRu": "Разъём Answer Back Buzzer, 3 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 2,
+  "faceviewPart": "91983-SJK -0030-H1",
+  "partNumbers": [
+    "91983-SJK -0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Right Side)"
+  ],
+  "systems": [
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91983-SJK -0030-H1.svg",
+    "viewBox": "0 0 97.087 46.063",
+    "width": 97.087,
+    "height": 46.063
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 18.114,
+        "y": 25.931,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "SMART_BUZZER",
+      "english": "SMART, BUZZER",
+      "russian": "SMART, BUZZER",
+      "terminal": "965B",
+      "geometry": {
+        "x": 46.46,
+        "y": 25.931,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(RR-R)",
+      "english": "Ground (RR-R)",
+      "russian": "Масса (RR-R)",
+      "terminal": "Z70C",
+      "geometry": {
+        "x": 74.808,
+        "y": 25.931,
+        "svgTextId": "SVGID_3_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "id": "047_C118_C118_Male__C118_Female",
+  "category": "connector",
+  "connectorRef": "C118",
+  "physicalIds": [
+    "C118"
+  ],
+  "name": "C118 (Male) / C118 (Female)",
+  "nameRu": "Разъём C118, штыревая часть / Разъём C118, гнездовая часть",
+  "type": "MiddleCoupler",
+  "pinCount": 20,
+  "populatedPinCount": 19,
+  "faceviewPart": "91767-T2A -0030-H1_91766-T2A -0030-H1",
+  "partNumbers": [
+    "91766-T2A -0030-H1",
+    "91767-T2A -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-",
+    "32752-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)",
+    "Door > Front Passenger's Door"
+  ],
+  "systems": [
+    "Audio System",
+    "Gauges",
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Power Mirrors",
+    "Power Windows",
+    "Rear Window/Power Mirror Defoggers"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91767-T2A -0030-H1_91766-T2A -0030-H1.svg",
+    "viewBox": "0 0 274.183 221.789",
+    "width": 274.183,
+    "height": 221.789
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU / PUR/BLU",
+      "circuit": "P/W_AS_POWER",
+      "english": "power window, AS, power",
+      "russian": "стеклоподъёмник, AS, питание",
+      "terminal": "520A001",
+      "geometry": {
+        "x": 25.454,
+        "y": 172.468,
+        "svgTextId": "XMLID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "RED / PUR",
+      "circuit": "P/W_AS_SW_UP",
+      "english": "power window, AS, switch, up",
+      "russian": "стеклоподъёмник, AS, выключатель, вверх",
+      "terminal": "508G001",
+      "geometry": {
+        "x": 243.08,
+        "y": 172.358,
+        "svgTextId": "XMLID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-2)",
+      "english": "Ground (CTR-2)",
+      "russian": "Масса (CTR-2)",
+      "terminal": "Z38H001",
+      "geometry": {
+        "x": 25.454,
+        "y": 206.486,
+        "svgTextId": "XMLID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "PNK / PUR/GRN",
+      "circuit": "P/W_AS_SW_DOWN",
+      "english": "power window, AS, switch, down",
+      "russian": "стеклоподъёмник, AS, выключатель, вниз",
+      "terminal": "509P001",
+      "geometry": {
+        "x": 243.08,
+        "y": 206.379,
+        "svgTextId": "XMLID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "H/MIRROR",
+      "english": "H / MIRROR",
+      "russian": "H / MIRROR",
+      "terminal": "635B001",
+      "geometry": {
+        "x": 53.949,
+        "y": 177.837,
+        "svgTextId": "XMLID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "RETRA_CLOSE",
+      "english": "retract, close",
+      "russian": "складывание, закрытие",
+      "terminal": "612C001",
+      "geometry": {
+        "x": 76.778,
+        "y": 177.837,
+        "svgTextId": "XMLID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "RETRA_OPEN",
+      "english": "retract, open",
+      "russian": "складывание, открытие",
+      "terminal": "611D001",
+      "geometry": {
+        "x": 99.585,
+        "y": 177.837,
+        "svgTextId": "XMLID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "L_SIDE_DOOR_UNLOCK",
+      "english": "left, SIDE, door, unlock",
+      "russian": "левый, SIDE, дверь, отпирание",
+      "terminal": "581E001",
+      "geometry": {
+        "x": 122.682,
+        "y": 177.837,
+        "svgTextId": "XMLID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "L_SIDE_DOOR_LOCK",
+      "english": "left, SIDE, door, lock",
+      "russian": "левый, SIDE, дверь, запирание",
+      "terminal": "580F001",
+      "geometry": {
+        "x": 145.325,
+        "y": 177.837,
+        "svgTextId": "XMLID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "RED",
+      "circuit": "EXT_FR_AS+",
+      "english": "EXT, front, AS +",
+      "russian": "EXT, передний, AS +",
+      "terminal": "910B",
+      "geometry": {
+        "x": 166.049,
+        "y": 177.837,
+        "svgTextId": "XMLID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "L_TURN",
+      "english": "left, turn signal",
+      "russian": "левый, указатель поворота",
+      "terminal": "17C",
+      "geometry": {
+        "x": 189.234,
+        "y": 177.837,
+        "svgTextId": "XMLID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 211.819,
+        "y": 177.837,
+        "svgTextId": "XMLID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "MIRROR_UD",
+      "english": "mirror, up/down",
+      "russian": "зеркало, вверх/вниз",
+      "terminal": "604J001",
+      "geometry": {
+        "x": 51.654,
+        "y": 200.44,
+        "svgTextId": "XMLID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "MIRROR_L_COM",
+      "english": "mirror, left, common",
+      "russian": "зеркало, левый, общий",
+      "terminal": "601K001",
+      "geometry": {
+        "x": 74.307,
+        "y": 200.44,
+        "svgTextId": "XMLID_14_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "MIRROR_L_LR",
+      "english": "mirror, left, LR",
+      "russian": "зеркало, левый, LR",
+      "terminal": "603L001",
+      "geometry": {
+        "x": 97.113,
+        "y": 200.44,
+        "svgTextId": "XMLID_15_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "FL_SPKR+",
+      "english": "front left, speaker +",
+      "russian": "передний левый, динамик +",
+      "terminal": "802M001",
+      "geometry": {
+        "x": 120.21,
+        "y": 200.44,
+        "svgTextId": "XMLID_16_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "FL_SPKR-",
+      "english": "front left, speaker -",
+      "russian": "передний левый, динамик -",
+      "terminal": "803N001",
+      "geometry": {
+        "x": 142.853,
+        "y": 200.44,
+        "svgTextId": "XMLID_17_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "EXT_FR_AS-",
+      "english": "EXT, front, AS -",
+      "russian": "EXT, передний, AS -",
+      "terminal": "911E",
+      "geometry": {
+        "x": 166.048,
+        "y": 200.44,
+        "svgTextId": "XMLID_18_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-2)",
+      "english": "Ground (CTR-2)",
+      "russian": "Масса (CTR-2)",
+      "terminal": "Z48A001 / Z48A",
+      "geometry": {
+        "x": 188.919,
+        "y": 200.44,
+        "svgTextId": "XMLID_19_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "AS_REQ_SW",
+      "english": "AS, REQ, switch",
+      "russian": "AS, REQ, выключатель",
+      "terminal": "969F",
+      "geometry": {
+        "x": 211.82,
+        "y": 200.44,
+        "svgTextId": "XMLID_20_"
+      }
+    }
+  ]
+}

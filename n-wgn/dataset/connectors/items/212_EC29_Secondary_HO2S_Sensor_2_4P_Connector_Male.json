@@ -1,0 +1,91 @@
+{
+  "id": "212_EC29_Secondary_HO2S_Sensor_2_4P_Connector_Male",
+  "category": "connector",
+  "connectorRef": "EC29",
+  "physicalIds": [
+    "EC29"
+  ],
+  "name": "Secondary HO2S (Sensor 2) 4P Connector (Male)",
+  "nameRu": "Разъём Secondary HO2S (датчик 2), 4 контактов, штыревая часть",
+  "type": "DirectCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 4,
+  "faceviewPart": "91714-RNAA-A010-Y1",
+  "partNumbers": [
+    "91714-RNAA-A010-Y1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)"
+  ],
+  "systems": [
+    "PCM (All)",
+    "PGM-FI System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91714-RNAA-A010-Y1.svg",
+    "viewBox": "0 0 77.244 82.914",
+    "width": 77.244,
+    "height": 82.914
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "SO2T",
+      "english": "SO2T",
+      "russian": "SO2T",
+      "terminal": "E71A",
+      "geometry": {
+        "x": 50.445,
+        "y": 30.184,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "SO2TSG",
+      "english": "SO2TSG",
+      "russian": "SO2TSG",
+      "terminal": "Z27B",
+      "geometry": {
+        "x": 22.098,
+        "y": 30.184,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "IG1(SO2HT)_TC",
+      "english": "ignition IG1, SO2HT, TC",
+      "russian": "зажигание IG1, SO2HT, TC",
+      "terminal": "D22C",
+      "geometry": {
+        "x": 50.445,
+        "y": 58.529,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "SO2HT",
+      "english": "SO2HT",
+      "russian": "SO2HT",
+      "terminal": "E73D",
+      "geometry": {
+        "x": 22.098,
+        "y": 58.529,
+        "svgTextId": "SVGID_4_"
+      }
+    }
+  ]
+}

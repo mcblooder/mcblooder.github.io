@@ -1,0 +1,99 @@
+{
+  "id": "cable_reel",
+  "category": "electrical_diagram",
+  "title": "Cable Reel",
+  "system": "cable_reel",
+  "sheetCount": 10,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/cable_reel/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/cable_reel/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/cable_reel/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/cable_reel/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/cable_reel/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/cable_reel/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/cable_reel/sheet7.svg"
+    },
+    {
+      "name": "sheet8",
+      "asset": "assets/svg/cable_reel/sheet8.svg"
+    },
+    {
+      "name": "sheet9",
+      "asset": "assets/svg/cable_reel/sheet9.svg"
+    },
+    {
+      "name": "sheet10",
+      "asset": "assets/svg/cable_reel/sheet10.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Cable Reel",
+      "Driver's Airbag",
+      "Horn",
+      "Horn Relay",
+      "Horn Switch",
+      "PCM",
+      "Paddle Shifter + (Upshift Switch)",
+      "Paddle Shifter - (Downshift Switch)",
+      "Taillight Relay"
+    ],
+    "Couplers": [
+      "C112 (Male)|C112 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "Cable Reel Connector A (20P) (Female)",
+      "Cable Reel Connector B (4P) (Female)",
+      "Cable Reel Connector C (20P) (Female)",
+      "Driver's Airbag 2P Connector (Female)",
+      "Horn 1P Connector (Female)",
+      "Horn Switch 1P Connector",
+      "PCM Connector A (50P) (Female)",
+      "Paddle Shifter + (Upshift Switch) 2P Connector (Female)",
+      "Paddle Shifter - (Downshift Switch) 2P Connector (Female)",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector U (24P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_MAIN",
+      "+B_SMALL",
+      "+B_STOP_&_HORN"
+    ],
+    "Grounds": [
+      "G402",
+      "G451"
+    ],
+    "Harnesses": [
+      "-- --",
+      "BB Cable Reel Subharness",
+      "BD Dashboard Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

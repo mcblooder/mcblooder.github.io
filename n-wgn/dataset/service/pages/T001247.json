@@ -1,0 +1,46 @@
+{
+  "id": "T001247",
+  "title": "Diagnostic Table of Electrical System Failures by CVT Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM electrical system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001247",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Diagnostic Table of Electrical System Failures by CVT Symptom"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Defective combination meter"
+        ],
+        [
+          "",
+          "Disconnection of F-CAN communication line between PGM-FI ECU and combination meter"
+        ],
+        [
+          "",
+          "Defective PGM-FI ECU"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001247_jpn/web/html/T001247_jpn_Content.html",
+  "inOutline": true
+}

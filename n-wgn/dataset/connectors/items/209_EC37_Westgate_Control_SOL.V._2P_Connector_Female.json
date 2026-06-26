@@ -1,0 +1,62 @@
+{
+  "id": "209_EC37_Westgate_Control_SOL.V._2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC37",
+  "physicalIds": [
+    "EC37"
+  ],
+  "name": "Westgate Control SOL.V. 2P Connector (Female)",
+  "nameRu": "Разъём Westgate Control SOL.V., 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91702-R40 -0030-H1",
+  "partNumbers": [
+    "91702-R40 -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)"
+  ],
+  "systems": [
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91702-R40 -0030-H1.svg",
+    "viewBox": "0 0 48.207 27.554",
+    "width": 48.207,
+    "height": 27.554
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "WGS",
+      "english": "WGS",
+      "russian": "WGS",
+      "terminal": "K15A",
+      "geometry": {
+        "x": 11.422,
+        "y": 20.405,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "IG1(WGS)",
+      "english": "ignition IG1, WGS",
+      "russian": "зажигание IG1, WGS",
+      "terminal": "K12B",
+      "geometry": {
+        "x": 32.074,
+        "y": 20.405,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

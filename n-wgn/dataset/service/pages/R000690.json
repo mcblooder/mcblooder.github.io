@@ -1,0 +1,300 @@
+{
+  "id": "R000690",
+  "title": "Front brake caliper overhaul",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "",
+  "sectionCode": "",
+  "subsection": "",
+  "system": "",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000690",
+  "assets": [
+    "690_3.0_jpn_11581594_3.0_disp.png",
+    "690_3.0_jpn_11581595_3.0_disp.png",
+    "690_3.0_jpn_11581596_3.0_disp.png",
+    "690_3.0_jpn_11581597_3.0_disp.png",
+    "690_3.0_jpn_11581598_3.0_disp.png",
+    "690_3.0_jpn_11581599_3.0_disp.png",
+    "690_3.0_jpn_11581600_3.0_disp.png",
+    "690_3.0_jpn_11581601_3.0_disp.png",
+    "690_3.0_jpn_11581602_3.0_disp.png",
+    "690_3.0_jpn_11581603_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front brake caliper overhaul"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. development"
+    },
+    {
+      "type": "figure",
+      "asset": "690_3.0_jpn_11581594_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "690_3.0_jpn_11581595_3.0_disp.png"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Parts that are specified to be replaced must be replaced with new ones.",
+        "Do not allow foreign matter to enter the cylinder, pin sliding area, and dust cover.",
+        "Do not allow brake fluid to adhere to painted surfaces. If it does adhere, wash it off with water immediately.",
+        "Disassembled parts shall be cleaned and each port shall be checked for ventilation with compressed air.",
+        "See Pad and Shim Installation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Piston removal"
+    },
+    {
+      "type": "figure",
+      "asset": "690_3.0_jpn_11581596_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply a piece of wood (A) or a rag to the caliper body as shown in the figure. Gradually turn on compressed air from the brake hose attachment port to blow out the piston."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to put your hand or other objects inside the caliper, as the piston may fly out with great force."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Remove piston seal and dust cover"
+    },
+    {
+      "type": "figure",
+      "asset": "690_3.0_jpn_11581597_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the dust cover (A) and piston seal (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to damage the cylinder inner surface (C)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Caliper pin, pin boot removal"
+    },
+    {
+      "type": "figure",
+      "asset": "690_3.0_jpn_11581598_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "690_3.0_jpn_11581599_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the pin boot (C) from the groove of caliper pin A and caliper pin B. Remove the caliper pin from the caliper bracket (D). Remove the pin boot from the caliper bracket."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not allow brake fluid, oil, or grease to adhere to the sliding surfaces of the disc or pad.",
+        "Parts that are specified to be replaced must be replaced with new ones.",
+        "Do not allow foreign matter to enter the cylinder, pin sliding area, and dust cover.",
+        "Do not allow brake fluid to adhere to painted surfaces. If it does adhere, wash it off with water immediately.",
+        "Make sure that each component is free of dust and debris before assembly.",
+        "Do not reuse drained brake fluid.",
+        "Genuine Honda Ultra Brake Fluid DOT3 or DOT4 must be used.",
+        "Do not use different brands of brake fluid to prevent chemical changes.",
+        "Disassembled parts shall be cleaned and each port shall be checked for ventilation with compressed air.",
+        "See Pad and Shim Installation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Piston seals, dust cover assembly"
+    },
+    {
+      "type": "figure",
+      "asset": "690_3.0_jpn_11581600_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Lubricate the new piston seal (A) with grease. Install the piston seal into the caliper body groove. Apply grease to the seals (inside and outside) of the new dust cover (B). Install the dust cover in the caliper body groove."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For vehicles equipped with 12-inch brakes, Shin-Etsu Chemical KS62M shall be applied."
+        },
+        {
+          "text": "For vehicles equipped with 12-inch brakes, Shin-Etsu Chemical KS62M shall be applied."
+        },
+        {
+          "text": "For vehicles equipped with 13-inch brakes, apply Cosmo rubber grease."
+        },
+        {
+          "text": "For vehicles equipped with 13-inch brakes, apply Cosmo rubber grease."
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to damage the inner surface of the cylinder."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For vehicles equipped with 12-inch brakes, apply Cosmo rubber grease."
+        },
+        {
+          "text": "For vehicles equipped with 12-inch brakes, apply Cosmo rubber grease."
+        },
+        {
+          "text": "For vehicles equipped with 13-inch brakes, apply metal rubber grease #20."
+        },
+        {
+          "text": "For vehicles equipped with 13-inch brakes, apply metal rubber grease #20."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Piston assembly"
+    },
+    {
+      "type": "figure",
+      "asset": "690_3.0_jpn_11581601_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Gently push in the piston using a brake caliper wrench (aftermarket tool) (A). Securely place the dust cover into the piston groove."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "For vehicles equipped with 12-inch brakes, brake fluid shall be applied to the outer surface of the piston and the inner surface of the cylinder in the caliper body.",
+        "For vehicles equipped with 13-inch brakes, metal rubber grease #20 shall be applied to the outer circumference of the piston and the inner surface of the caliper body cylinder.",
+        "Do not insert at an angle or push in forcibly."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For vehicles equipped with 12-inch brakes, brake fluid shall be applied to the outer surface of the piston and the inner surface of the cylinder in the caliper body."
+        },
+        {
+          "text": "For vehicles equipped with 12-inch brakes, brake fluid shall be applied to the outer surface of the piston and the inner surface of the cylinder in the caliper body."
+        },
+        {
+          "text": "For vehicles equipped with 13-inch brakes, metal rubber grease #20 shall be applied to the outer circumference of the piston and the inner surface of the caliper body cylinder."
+        },
+        {
+          "text": "For vehicles equipped with 13-inch brakes, metal rubber grease #20 shall be applied to the outer circumference of the piston and the inner surface of the caliper body cylinder."
+        },
+        {
+          "text": "Do not insert at an angle or push in forcibly."
+        },
+        {
+          "text": "Do not insert at an angle or push in forcibly."
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to damage the dust cover."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Caliper pin, pin boot installation"
+    },
+    {
+      "type": "figure",
+      "asset": "690_3.0_jpn_11581602_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "690_3.0_jpn_11581603_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Apply grease to the sliding parts of caliper pin A and B and inside the new pin boot (C). Install the pin boot. Install caliper pin A and pin B on the caliper bracket (D). Securely install the pin boot into the caliper bracket groove (E) and caliper pin groove (F)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "For vehicles equipped with 12-inch brakes, Nigroove RM made by Nippon Grease shall be applied.",
+        "For vehicles equipped with 13-inch brakes, Cosmo rubber grease must be applied.",
+        "Do not allow dust, etc. to adhere to the sliding parts of the pins."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "For vehicles equipped with 12-inch brakes, Nigroove RM made by Nippon Grease shall be applied."
+        },
+        {
+          "text": "For vehicles equipped with 12-inch brakes, Nigroove RM made by Nippon Grease shall be applied."
+        },
+        {
+          "text": "For vehicles equipped with 13-inch brakes, Cosmo rubber grease must be applied."
+        },
+        {
+          "text": "For vehicles equipped with 13-inch brakes, Cosmo rubber grease must be applied."
+        },
+        {
+          "text": "Do not allow dust, etc. to adhere to the sliding parts of the pins."
+        },
+        {
+          "text": "Do not allow dust, etc. to adhere to the sliding parts of the pins."
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The caliper pins are different at the top and bottom. Check the installation position of caliper pin A and caliper pin B."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000690_jpn/web/html/R000690_jpn_Content.html",
+  "inOutline": false
+}

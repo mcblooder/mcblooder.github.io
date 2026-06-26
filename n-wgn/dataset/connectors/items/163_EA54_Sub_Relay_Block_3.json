@@ -1,0 +1,160 @@
+{
+  "id": "163_EA54_Sub_Relay_Block_3",
+  "category": "connector",
+  "connectorRef": "EA54",
+  "physicalIds": [
+    "EA54"
+  ],
+  "name": "Sub Relay Block 3",
+  "nameRu": "Разъём Sub реле Block 3",
+  "type": "DirectCoupler",
+  "pinCount": 9,
+  "populatedPinCount": 4,
+  "faceviewPart": "91750-S84 -9110-H1",
+  "partNumbers": [
+    "91750-S84 -9110-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Fog Lights"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91750-S84 -9110-H1.svg",
+    "viewBox": "0 0 227.607 180.076",
+    "width": 227.607,
+    "height": 180.076
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "+B_FR_FOG",
+      "english": "Constant battery power: front, FOG",
+      "russian": "Постоянное питание от АКБ: передний, FOG",
+      "terminal": "B96A",
+      "geometry": {
+        "x": 68.748,
+        "y": 52.614,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "FR_FOG_LT_RLY_OUT",
+      "english": "front, FOG, light, relay, output",
+      "russian": "передний, FOG, освещение, реле, выход",
+      "terminal": "47B",
+      "geometry": {
+        "x": 68.748,
+        "y": 74.22,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "+B_FR_FOG",
+      "english": "Constant battery power: front, FOG",
+      "russian": "Постоянное питание от АКБ: передний, FOG",
+      "terminal": "B96C",
+      "geometry": {
+        "x": 47.143,
+        "y": 95.825,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "RED",
+      "circuit": "FR_FOG_LT_RLY_CL-",
+      "english": "front, FOG, light, relay, coil control -",
+      "russian": "передний, FOG, освещение, реле, управление катушкой -",
+      "terminal": "46D",
+      "geometry": {
+        "x": 90.354,
+        "y": 95.825,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 133.565,
+        "y": 72.14,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 155.169,
+        "y": 72.14,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 176.777,
+        "y": 72.14,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 155.169,
+        "y": 93.745,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 155.169,
+        "y": 115.351,
+        "svgTextId": "SVGID_9_"
+      }
+    }
+  ]
+}

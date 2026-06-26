@@ -1,0 +1,138 @@
+{
+  "id": "R000808",
+  "title": "Front seat belt buckle removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "Seat Belt",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000808",
+  "assets": [
+    "808_3.0_jpn_11036559_3.0_disp.png",
+    "808_3.0_jpn_11036560_3.0_disp.png",
+    "808_3.0_jpn_11036561_3.0_disp.png",
+    "808_3.0_jpn_11036562_3.0_disp.png",
+    "808_3.0_jpn_11337309_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000910",
+      "label": "12V battery Negative (-) terminal Disconnect",
+      "resolved": true
+    },
+    {
+      "id": "R000792",
+      "label": "Front seat removal",
+      "resolved": true
+    },
+    {
+      "id": "R000798",
+      "label": "Front seat cushion trim cover/pad removal (passenger side)",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Front seat belt buckle removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If there are components of the SRS airbag system in the vicinity, refer to the work precautions and configuration drawings described for the SRS airbag system before proceeding."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Negative (-) terminal Disconnect",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Negative (-) terminal Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Front seat removal",
+      "refs": [
+        {
+          "id": "R000792",
+          "label": "Front seat removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Front seat cushion trim cover/pad removal (passenger side)",
+      "refs": [
+        {
+          "id": "R000798",
+          "label": "Front seat cushion trim cover/pad removal (passenger side)",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Front seat belt buckle removal"
+    },
+    {
+      "type": "figure",
+      "asset": "808_3.0_jpn_11036559_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A) and harness clip (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "808_3.0_jpn_11036560_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "808_3.0_jpn_11036561_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "808_3.0_jpn_11036562_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the harness clip (A) and seat belt buckle (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Installation Precautions"
+    },
+    {
+      "type": "figure",
+      "asset": "808_3.0_jpn_11337309_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure. If the anchor bolts are disassembled, assemble them in the order shown in the figure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000808_jpn/web/html/R000808_jpn_Content.html",
+  "inOutline": true
+}

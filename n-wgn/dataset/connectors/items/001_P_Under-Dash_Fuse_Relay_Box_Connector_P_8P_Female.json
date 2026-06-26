@@ -1,0 +1,162 @@
+{
+  "id": "001_P_Under-Dash_Fuse_Relay_Box_Connector_P_8P_Female",
+  "category": "connector",
+  "connectorRef": "P / BD25",
+  "physicalIds": [
+    "BD25"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector P (8P), гнездовая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 8,
+  "populatedPinCount": 7,
+  "faceviewPart": "91761-T4G -0030-H1",
+  "partNumbers": [
+    "91761-T4G -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)",
+    "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Back Side"
+  ],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "A/T Interlock System",
+    "Accessory Power Socket",
+    "Cable Reel",
+    "Climate Control",
+    "CVT Control System",
+    "Dashlights",
+    "Fog Lights",
+    "Headlights",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Power Mirrors",
+    "Power Supply",
+    "Power Windows",
+    "Power, Grounds and Diagnostics",
+    "Rear Window/Power Mirror Defoggers"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91761-T4G -0030-H1.svg",
+    "viewBox": "0 0 114.142 55.179",
+    "width": 114.142,
+    "height": 55.179
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z30A",
+      "geometry": {
+        "x": 9.494,
+        "y": 18.396,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "L_SIDE_DOOR_LOCK",
+      "english": "left, SIDE, door, lock",
+      "russian": "левый, SIDE, дверь, запирание",
+      "terminal": "580B",
+      "geometry": {
+        "x": 77.524,
+        "y": 18.396,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "RR_DEF+",
+      "english": "rear/right, defogger +",
+      "russian": "задний/правый, обогрев стекла +",
+      "terminal": "425C",
+      "geometry": {
+        "x": 100.201,
+        "y": 18.396,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "L_SIDE_DOOR_UNLOCK",
+      "english": "left, SIDE, door, unlock",
+      "russian": "левый, SIDE, дверь, отпирание",
+      "terminal": "581D",
+      "geometry": {
+        "x": 9.494,
+        "y": 41.073,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "PUR/BLU",
+      "circuit": "P/W_AS_POWER",
+      "english": "power window, AS, power",
+      "russian": "стеклоподъёмник, AS, питание",
+      "terminal": "520E",
+      "geometry": {
+        "x": 32.17,
+        "y": 41.073,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "RED",
+      "circuit": "ACC_CIGAR",
+      "english": "ACC, CIGAR",
+      "russian": "ACC, CIGAR",
+      "terminal": "C02F",
+      "geometry": {
+        "x": 54.847,
+        "y": 41.073,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "RED",
+      "circuit": "IG2_RR_DEF",
+      "english": "ignition IG2, rear/right, defogger",
+      "russian": "зажигание IG2, задний/правый, обогрев стекла",
+      "terminal": "G25G",
+      "geometry": {
+        "x": 77.524,
+        "y": 41.073,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 100.201,
+        "y": 41.073,
+        "svgTextId": "SVGID_8_"
+      }
+    }
+  ]
+}

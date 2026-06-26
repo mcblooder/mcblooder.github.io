@@ -1,0 +1,254 @@
+{
+  "id": "R000927",
+  "title": "Power Relay Inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cooling System",
+  "system": "cooling device",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000927",
+  "assets": [
+    "927_4.0_jpn_11580702_4.0_disp.png",
+    "927_4.0_jpn_11580703_4.0_disp.png",
+    "927_4.0_jpn_11580704_4.0_disp.png",
+    "927_4.0_jpn_11580705_4.0_disp.png",
+    "927_4.0_jpn_11580706_4.0_disp.png",
+    "927_4.0_jpn_11580707_4.0_disp.png",
+    "927_4.0_jpn_11580708_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Power Relay Inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Power Relay Check"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the relay. The inspection method is the same for each relay. No continuity between No. 1 and No. 2 terminals. There should be continuity between No.3 and No.4 terminals. There should be continuity between No.1 and No.2 terminals when battery voltage is applied between No.3 and No.4 terminals. *1: Cars equipped with mirror heaters *2: Vehicles equipped with front fog lights"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When inspecting diode-type relays, apply the battery voltage backwards, as this may damage the diodes in the relay."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "IG1 Relay 1"
+        },
+        {
+          "text": "IG1 Relay 1"
+        },
+        {
+          "text": "IG1 Relay 2"
+        },
+        {
+          "text": "IG1 Relay 2"
+        },
+        {
+          "text": "PGM-FI Main Relay 1"
+        },
+        {
+          "text": "PGM-FI Main Relay 1"
+        },
+        {
+          "text": "PGM-FI Main Relay 2"
+        },
+        {
+          "text": "PGM-FI Main Relay 2"
+        },
+        {
+          "text": "Starter cut Relay 1"
+        },
+        {
+          "text": "Starter cut Relay 1"
+        },
+        {
+          "text": "Starter cut Relay 2"
+        },
+        {
+          "text": "Starter cut Relay 2"
+        },
+        {
+          "text": "Power Wind Relay"
+        },
+        {
+          "text": "Power Wind Relay"
+        },
+        {
+          "text": "Compressor Clutch Relay"
+        },
+        {
+          "text": "Compressor Clutch Relay"
+        },
+        {
+          "text": "Blower motor Relay"
+        },
+        {
+          "text": "Blower motor Relay"
+        },
+        {
+          "text": "Radiator Fan Relay"
+        },
+        {
+          "text": "Radiator Fan Relay"
+        },
+        {
+          "text": "Rear defroster relay"
+        },
+        {
+          "text": "Rear defroster relay"
+        },
+        {
+          "text": "Miller Heater Relay *1"
+        },
+        {
+          "text": "Miller Heater Relay *1"
+        },
+        {
+          "text": "DBW Relays"
+        },
+        {
+          "text": "DBW Relays"
+        },
+        {
+          "text": "Horn Relay"
+        },
+        {
+          "text": "Horn Relay"
+        },
+        {
+          "text": "Lighting Relay 1"
+        },
+        {
+          "text": "Lighting Relay 1"
+        },
+        {
+          "text": "Lighting Relay 2"
+        },
+        {
+          "text": "Lighting Relay 2"
+        },
+        {
+          "text": "Front Fog Light Relay *2"
+        },
+        {
+          "text": "Front Fog Light Relay *2"
+        },
+        {
+          "text": "Front wiper motor relay"
+        },
+        {
+          "text": "Front wiper motor relay"
+        },
+        {
+          "text": "Small Light Relay"
+        },
+        {
+          "text": "Small Light Relay"
+        },
+        {
+          "text": "Washer motor Relay"
+        },
+        {
+          "text": "Washer motor Relay"
+        },
+        {
+          "text": "ACC Relay *1"
+        },
+        {
+          "text": "ACC Relay *1"
+        },
+        {
+          "text": "Hood COMP Relay"
+        },
+        {
+          "text": "Hood COMP Relay"
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "927_4.0_jpn_11580702_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "927_4.0_jpn_11580703_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "927_4.0_jpn_11580704_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "927_4.0_jpn_11580705_4.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the relay. The inspection method is the same for each relay. There shall be continuity between No. 3 and No. 5 terminals and between No. 1 and No. 4 terminals and no continuity between No. 1 and No. 2 terminals. When battery voltage is applied between No. 3 and No. 5 terminals, there should be continuity between No. 1 and No. 2 terminals and no continuity between No. 1 and No. 4 terminals."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When inspecting diode-type relays, apply the battery voltage backwards, as this may damage the diodes in the relay."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Front wiper intermittent relay"
+        },
+        {
+          "text": "Front wiper intermittent relay"
+        },
+        {
+          "text": "Front wiper HI/LO relay"
+        },
+        {
+          "text": "Front wiper HI/LO relay"
+        },
+        {
+          "text": "Brake light relay"
+        },
+        {
+          "text": "Brake light relay"
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "927_4.0_jpn_11580706_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "927_4.0_jpn_11580707_4.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "927_4.0_jpn_11580708_4.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000927_jpn/web/html/R000927_jpn_Content.html",
+  "inOutline": true
+}

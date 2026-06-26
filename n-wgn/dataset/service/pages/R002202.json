@@ -1,0 +1,110 @@
+{
+  "id": "R002202",
+  "title": "Rear seat back frame removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "sheet",
+  "system": "Rear seat",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R002202",
+  "assets": [
+    "2202_3.0_jpn_11337278_3.0_disp.png",
+    "2202_3.0_jpn_11337280_3.0_disp.png",
+    "2202_3.0_jpn_11390223_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000799",
+      "label": "Rear seat removal",
+      "resolved": true
+    },
+    {
+      "id": "R000797",
+      "label": "Remove rear seat back trim cover/pad",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rear seat back frame removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear seat removal",
+      "refs": [
+        {
+          "id": "R000799",
+          "label": "Rear seat removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Remove rear seat back trim cover/pad",
+      "refs": [
+        {
+          "id": "R000797",
+          "label": "Remove rear seat back trim cover/pad",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Rear seat back frame removal"
+    },
+    {
+      "type": "figure",
+      "asset": "2202_3.0_jpn_11390223_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove cable clamp (A) and disconnect cable (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "2202_3.0_jpn_11337278_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the bolts (A, B) and separate the rear seat back frame (C) and rear seat cushion frame (D)."
+    },
+    {
+      "type": "figure",
+      "asset": "2202_3.0_jpn_11337280_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "If necessary, remove the nylon bushing (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R002202_jpn/web/html/R002202_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,154 @@
+{
+  "id": "067_C108_C108_Male__C108_Female",
+  "category": "connector",
+  "connectorRef": "C108",
+  "physicalIds": [
+    "C108"
+  ],
+  "name": "C108 (Male) / C108 (Female)",
+  "nameRu": "Разъём C108, штыревая часть / Разъём C108, гнездовая часть",
+  "type": "MiddleCoupler",
+  "pinCount": 8,
+  "populatedPinCount": 8,
+  "faceviewPart": "91756-T2AA-0030-H1_91755-T2AA-0030-H1",
+  "partNumbers": [
+    "91755-T2AA-0030-H1",
+    "91756-T2AA-0030-H1"
+  ],
+  "harnesses": [
+    "32107-T6G_-ZZ00-",
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Floor (Right Side)",
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Fuel Supply System",
+    "Headlight Leveling System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "PCM (All)",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91756-T2AA-0030-H1_91755-T2AA-0030-H1.svg",
+    "viewBox": "0 0 114 173.933",
+    "width": 114.0,
+    "height": 173.933
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "ADJ_SNSR_+5V",
+      "english": "ADJ, SNSR, +5V",
+      "russian": "ADJ, SNSR, +5V",
+      "terminal": "52A",
+      "geometry": {
+        "x": 22.446,
+        "y": 142.393,
+        "svgTextId": "XMLID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "ADJ_SNSR_GND",
+      "english": "ADJ, SNSR, ground",
+      "russian": "ADJ, SNSR, масса",
+      "terminal": "53B",
+      "geometry": {
+        "x": 45.443,
+        "y": 142.393,
+        "svgTextId": "XMLID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "RED",
+      "circuit": "ADJ_SNSR_RR_SIG",
+      "english": "ADJ, SNSR, rear/right, signal",
+      "russian": "ADJ, SNSR, задний/правый, сигнал",
+      "terminal": "54C",
+      "geometry": {
+        "x": 68.44,
+        "y": 142.393,
+        "svgTextId": "XMLID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "FUEL_PUMP_RLY_OUT",
+      "english": "fuel, pump, relay, output",
+      "russian": "топливо, насос, реле, выход",
+      "terminal": "F12D",
+      "geometry": {
+        "x": 91.438,
+        "y": 142.393,
+        "svgTextId": "XMLID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "RR_L_ABS_SNSR-",
+      "english": "rear/right, left, ABS, SNSR -",
+      "russian": "задний/правый, левый, ABS, SNSR -",
+      "terminal": "A25E",
+      "geometry": {
+        "x": 22.446,
+        "y": 165.39,
+        "svgTextId": "XMLID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "RR_L_ABS_SNSR+",
+      "english": "rear/right, left, ABS, SNSR +",
+      "russian": "задний/правый, левый, ABS, SNSR +",
+      "terminal": "A24F",
+      "geometry": {
+        "x": 45.443,
+        "y": 165.39,
+        "svgTextId": "XMLID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "RR_R_ABS_SNSR-",
+      "english": "rear/right, right, ABS, SNSR -",
+      "russian": "задний/правый, правый, ABS, SNSR -",
+      "terminal": "A23G",
+      "geometry": {
+        "x": 68.44,
+        "y": 165.39,
+        "svgTextId": "XMLID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "RR_R_ABS_SNSR+",
+      "english": "rear/right, right, ABS, SNSR +",
+      "russian": "задний/правый, правый, ABS, SNSR +",
+      "terminal": "A22H",
+      "geometry": {
+        "x": 91.438,
+        "y": 165.39,
+        "svgTextId": "XMLID_8_"
+      }
+    }
+  ]
+}

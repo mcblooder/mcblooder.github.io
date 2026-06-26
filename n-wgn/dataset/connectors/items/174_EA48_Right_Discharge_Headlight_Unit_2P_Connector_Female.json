@@ -1,0 +1,62 @@
+{
+  "id": "174_EA48_Right_Discharge_Headlight_Unit_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA48",
+  "physicalIds": [
+    "EA48"
+  ],
+  "name": "Right Discharge Headlight Unit 2P Connector (Female)",
+  "nameRu": "Разъём правый Discharge Headlight Unit, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91722-PY4 -0030",
+  "partNumbers": [
+    "91722-PY4 -0030"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Headlights"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91722-PY4 -0030.svg",
+    "viewBox": "0 0 65.906 37.56",
+    "width": 65.906,
+    "height": 37.56
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "R_H/L_LO",
+      "english": "right, H / L, low",
+      "russian": "правый, H / L, низкий",
+      "terminal": "5A001",
+      "geometry": {
+        "x": 16.929,
+        "y": 25.931,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-R)",
+      "english": "Ground (ENG-R)",
+      "russian": "Масса (ENG-R)",
+      "terminal": "Z10B001",
+      "geometry": {
+        "x": 45.276,
+        "y": 25.931,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

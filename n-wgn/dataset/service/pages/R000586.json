@@ -1,0 +1,89 @@
+{
+  "id": "R000586",
+  "title": "Disassembly, assembly, and inspection of input shaft assy.",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "",
+  "sectionCode": "",
+  "subsection": "",
+  "system": "",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000586",
+  "assets": [
+    "586_3.0_jpn_11582432_3.0_disp.png",
+    "586_3.0_jpn_11582433_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000587",
+      "label": "Thrust clearance shall be adjusted.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Disassembly, assembly, and inspection of input shaft assy."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Input shaft assembly. disassembly"
+    },
+    {
+      "type": "figure",
+      "asset": "586_3.0_jpn_11582432_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the sealing ring (A). Remove the thrust needle bearing (B). Remove the 43 x 54.5 mm thrust shim (C). Remove the forward clutch assembly (D). Remove the input shaft (E) and remove the O-ring (F). Remove the thrust needle bearing (G). Remove the forward drive gear (H). Remove the needle bearing (I). Remove the thrust needle bearing (J). Remove the reverse drive gear (K)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Input shaft assembly."
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Input shafts should be inspected for damaged or worn splines and scratched or worn bearing mounting surfaces. Bearings should be inspected for roller damage and operation. Inspect each component for damage, wear, scratches, etc."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Input shaft assy. assembly"
+    },
+    {
+      "type": "figure",
+      "asset": "586_3.0_jpn_11582433_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install reverse drive gear (A). Install thrust needle bearing (B). Install the needle bearing (C). Install forward drive gear (D). Install thrust needle bearing (E). Install a new O-ring (F) and install the input shaft (G). Install the forward clutch assembly (H). Install 43 x 54.5 mm thrust shim (I). Install thrust needle bearing (J). Install a new sealing ring (K).",
+      "refs": [
+        {
+          "id": "R000587",
+          "label": "Thrust clearance shall be adjusted.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the input shaft assy. is removed and installed, Thrust clearance shall be adjusted."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000586_jpn/web/html/R000586_jpn_Content.html",
+  "inOutline": false
+}

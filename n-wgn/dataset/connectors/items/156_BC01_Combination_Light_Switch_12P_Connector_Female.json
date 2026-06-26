@@ -1,0 +1,206 @@
+{
+  "id": "156_BC01_Combination_Light_Switch_12P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BC01",
+  "physicalIds": [
+    "BC01"
+  ],
+  "name": "Combination Light Switch 12P Connector (Female)",
+  "nameRu": "Разъём Combination Light выключатель, 12 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 12,
+  "populatedPinCount": 9,
+  "faceviewPart": "91960-SHJ -0030-H1",
+  "partNumbers": [
+    "91960-SHJ -0030-H1"
+  ],
+  "harnesses": [
+    "35253-T4G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)"
+  ],
+  "systems": [
+    "Dashlights",
+    "Fog Lights",
+    "Headlights",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91960-SHJ -0030-H1.svg",
+    "viewBox": "0 0 170.584 74.32",
+    "width": 170.584,
+    "height": 74.32
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND_COMBI_LT",
+      "english": "ground, COMBI, light",
+      "russian": "масса, COMBI, освещение",
+      "terminal": "ZM3A000",
+      "geometry": {
+        "x": 12.163,
+        "y": 34.894,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 40.476,
+        "y": 34.894,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 68.788,
+        "y": 34.894,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 97.101,
+        "y": 34.894,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "FR_FOG_SW",
+      "english": "front, FOG, switch",
+      "russian": "передний, FOG, выключатель",
+      "terminal": "45E000",
+      "geometry": {
+        "x": 125.414,
+        "y": 34.894,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "H/L_OFF_SW",
+      "english": "H / L, off, switch",
+      "russian": "H / L, выключение, выключатель",
+      "terminal": "4F000",
+      "geometry": {
+        "x": 153.726,
+        "y": 34.894,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "PASSING_SW",
+      "english": "PASSING, switch",
+      "russian": "PASSING, выключатель",
+      "terminal": "23G000",
+      "geometry": {
+        "x": 12.163,
+        "y": 63.208,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "H/L_HI_SW",
+      "english": "H / L, high, switch",
+      "russian": "H / L, высокий, выключатель",
+      "terminal": "21H000",
+      "geometry": {
+        "x": 40.476,
+        "y": 63.208,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "L_TURN_SW",
+      "english": "left, turn signal, switch",
+      "russian": "левый, указатель поворота, выключатель",
+      "terminal": "15J000",
+      "geometry": {
+        "x": 68.788,
+        "y": 63.208,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "R_TURN_SW",
+      "english": "right, turn signal, switch",
+      "russian": "правый, указатель поворота, выключатель",
+      "terminal": "14K000",
+      "geometry": {
+        "x": 94.876,
+        "y": 63.208,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "ORN",
+      "circuit": "SMALL_LT_SW",
+      "english": "SMALL, light, switch",
+      "russian": "SMALL, освещение, выключатель",
+      "terminal": "1L000",
+      "geometry": {
+        "x": 123.189,
+        "y": 63.208,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "RED",
+      "circuit": "H/L_ON_SW",
+      "english": "H / L, on, switch",
+      "russian": "H / L, включение, выключатель",
+      "terminal": "3M000",
+      "geometry": {
+        "x": 151.501,
+        "y": 63.208,
+        "svgTextId": "SVGID_12_"
+      }
+    }
+  ]
+}

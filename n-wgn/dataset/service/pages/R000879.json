@@ -1,0 +1,227 @@
+{
+  "id": "R000879",
+  "title": "Heater Unit/Core Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "Heater Unit",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000879",
+  "assets": [
+    "879_5.0_jpn_11580978_5.0_disp.png",
+    "879_5.0_jpn_11580979_5.0_disp.png",
+    "879_5.0_jpn_11580980_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000435",
+      "label": "Cooling water removal",
+      "resolved": true
+    },
+    {
+      "id": "R000878",
+      "label": "Disconnect suction hose and receiver pipe",
+      "resolved": true
+    },
+    {
+      "id": "R000789",
+      "label": "Remove instrument panel/steering hanger beam",
+      "resolved": true
+    },
+    {
+      "id": "R002698",
+      "label": "Vacuuming/leak testing/refrigerant sealing",
+      "resolved": true
+    },
+    {
+      "id": "R000907",
+      "label": "performance test",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Heater Unit/Core Removal and Installation"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the engine is hot, allow it to cool sufficiently before working on it.",
+        "If there are components of the SRS airbag system in the vicinity, refer to the work precautions and configuration drawings described for the SRS airbag system before proceeding."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Cooling water removal",
+      "refs": [
+        {
+          "id": "R000435",
+          "label": "Cooling water removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Disconnect suction hose and receiver pipe",
+      "refs": [
+        {
+          "id": "R000878",
+          "label": "Disconnect suction hose and receiver pipe",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Heater hose disconnect"
+    },
+    {
+      "type": "figure",
+      "asset": "879_5.0_jpn_11580978_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Slide the clamp (A) and disconnect the inlet side heater hose (B) from the outlet side heater hose (C)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "As coolant flows out, use a receiving rag or similar item in a container to prevent it from adhering to the body."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Remove instrument panel/steering hanger beam",
+      "refs": [
+        {
+          "id": "R000789",
+          "label": "Remove instrument panel/steering hanger beam",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Blower/heater unit removal"
+    },
+    {
+      "type": "figure",
+      "asset": "879_5.0_jpn_11580979_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the drain hose (A). Remove the blower/heater unit (B). Remove the intake duct (C)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Coolant will flow out, so a vinyl sheet or similar material should be placed on the floor and a rag should be used to prevent it from sticking to the body."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Heater core removal"
+    },
+    {
+      "type": "figure",
+      "asset": "879_5.0_jpn_11580980_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the dust seal (A). Remove the cover (B) and remove the heater core (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Precautions for installation work"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not mistake the heater hose for the inlet side or the outlet side.",
+        "Heater hose clamps must be securely attached.",
+        "The O-ring at the pipe connection must be replaced with a new one, and compressor oil (SP-10) must be applied before installation."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do not mistake the heater hose for the inlet side or the outlet side."
+        },
+        {
+          "text": "Do not mistake the heater hose for the inlet side or the outlet side."
+        },
+        {
+          "text": "Heater hose clamps must be securely attached."
+        },
+        {
+          "text": "Heater hose clamps must be securely attached."
+        },
+        {
+          "text": "The O-ring at the pipe connection must be replaced with a new one, and compressor oil (SP-10) must be applied before installation."
+        },
+        {
+          "text": "The O-ring at the pipe connection must be replaced with a new one, and compressor oil (SP-10) must be applied before installation."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Vacuuming/leak testing/refrigerant sealing",
+      "refs": [
+        {
+          "id": "R002698",
+          "label": "Vacuuming/leak testing/refrigerant sealing",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "After installation, perform vacuuming, leak test, and refrigerant sealing."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. performance test",
+      "refs": [
+        {
+          "id": "R000907",
+          "label": "performance test",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000879_jpn/web/html/R000879_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,696 @@
+{
+  "id": "G000312",
+  "title": "abbreviation",
+  "category": "service",
+  "packageKind": "GEN",
+  "packageKindName": "General Information",
+  "section": "NA",
+  "sectionCode": "0",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/G000312",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "abbreviation"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "abbreviation",
+          ""
+        ],
+        [
+          "2WD",
+          "2-wheel (front or rear) drive"
+        ],
+        [
+          "4WD",
+          "4-wheel (all-wheel) drive"
+        ],
+        [
+          "2WS",
+          "2-wheel (front wheel) steering"
+        ],
+        [
+          "con-rod",
+          "Connecting Rods"
+        ],
+        [
+          "halo (esp. in Christian art)",
+          "Short to power supply side"
+        ],
+        [
+          "halftone",
+          "Short to GND side"
+        ],
+        [
+          "torque",
+          "Tightening torque"
+        ],
+        [
+          "torque converter",
+          "Torque Converter"
+        ],
+        [
+          "differential gear",
+          "differential"
+        ],
+        [
+          "ABDC",
+          "After bottom dead center"
+        ],
+        [
+          "ABS",
+          "Anti-lock brake system"
+        ],
+        [
+          "A/C",
+          "air conditioner"
+        ],
+        [
+          "ACC",
+          "Accessory/Adaptive Cruise Control (cruise control with speed and distance control)"
+        ],
+        [
+          "A.C.G.",
+          "A.C. Generator"
+        ],
+        [
+          "ADS",
+          "Active Door Locked Striker"
+        ],
+        [
+          "AFS",
+          "Adaptive Front Lighting System"
+        ],
+        [
+          "AHB",
+          "Advanced Hydraulics Booster"
+        ],
+        [
+          "API",
+          "American Petroleum Institute"
+        ],
+        [
+          "Assy.",
+          "assembly"
+        ],
+        [
+          "AT",
+          "Automatic transmission"
+        ],
+        [
+          "ATDC",
+          "after upper dead point"
+        ],
+        [
+          "ATF",
+          "Automatic transmission fluid"
+        ],
+        [
+          "ATT",
+          "attachment"
+        ],
+        [
+          "AWD",
+          "All Wheel Drive"
+        ],
+        [
+          "BAT",
+          "12V battery"
+        ],
+        [
+          "BBC",
+          "Buck Boost Converter"
+        ],
+        [
+          "BBDC",
+          "before the bottom dead point"
+        ],
+        [
+          "B-CAN",
+          "Body Controller Area Network"
+        ],
+        [
+          "BTDC",
+          "before upper dead point"
+        ],
+        [
+          "CESS",
+          "Continuous Electric Supply System"
+        ],
+        [
+          "CMBS",
+          "Collision Mitigation Braking System"
+        ],
+        [
+          "CNG",
+          "compressed natural gas"
+        ],
+        [
+          "Comp.",
+          "complete"
+        ],
+        [
+          "CPC",
+          "Clutch Pressure Control"
+        ],
+        [
+          "CPU",
+          "Central Processing Unit"
+        ],
+        [
+          "CVT",
+          "Continuously Variable Automatic Transmission"
+        ],
+        [
+          "CYL",
+          "cylinder"
+        ],
+        [
+          "DBW",
+          "Drive-by-wire"
+        ],
+        [
+          "DCT",
+          "Dual clutch transmission"
+        ],
+        [
+          "DLC",
+          "Data Link Coupler"
+        ],
+        [
+          "DOHC",
+          "Double overhead camshafts"
+        ],
+        [
+          "DPS",
+          "Dual pump system"
+        ],
+        [
+          "DPSF",
+          "Dual Pump System Fluid"
+        ],
+        [
+          "DSP",
+          "Digital Signal Processor"
+        ],
+        [
+          "DSRC",
+          "Dedicated short range communication"
+        ],
+        [
+          "DTC",
+          "Diagnostic Trouble Code"
+        ],
+        [
+          "EBD",
+          "Electronic Brake Distribution (Electronic Brake Force Distribution System)"
+        ],
+        [
+          "ECU",
+          "Electronic Control Unit"
+        ],
+        [
+          "EDLC",
+          "Electric Double Layer Capacitor"
+        ],
+        [
+          "EGR",
+          "Exhaust gas recirculation"
+        ],
+        [
+          "ELD",
+          "Electrical Load Detectors"
+        ],
+        [
+          "ELR",
+          "Emergency Locked Retractor"
+        ],
+        [
+          "EPS",
+          "Electric power steering"
+        ],
+        [
+          "ETC",
+          "Electronic toll collection (non-stop automatic toll payment system)"
+        ],
+        [
+          "EVSE",
+          "Electric vehicle charging facilities"
+        ],
+        [
+          "EX",
+          "Exhaust"
+        ],
+        [
+          "F-CAN",
+          "Fast Controller Area Network"
+        ],
+        [
+          "FL/FR",
+          "Front left/front right"
+        ],
+        [
+          "FOP",
+          "Factory-installed options"
+        ],
+        [
+          "GND",
+          "(electrical) ground"
+        ],
+        [
+          "HDD",
+          "Hard disk drive"
+        ],
+        [
+          "HDS",
+          "Honda Diagnostics System"
+        ],
+        [
+          "HFT",
+          "Hands-free telephony"
+        ],
+        [
+          "HI",
+          "High (in schematic)"
+        ],
+        [
+          "HID",
+          "High intensity discharge"
+        ],
+        [
+          "HIM",
+          "Honda Interface Module"
+        ],
+        [
+          "HIMS",
+          "Honda Integrated Monitor System"
+        ],
+        [
+          "HMM",
+          "Honda Multi Matic Transmission"
+        ],
+        [
+          "HMMF",
+          "Honda Multi Matic Transmission Fluid"
+        ],
+        [
+          "i-DSI",
+          "Intelligent Dual & Sequential Ignition"
+        ],
+        [
+          "IG",
+          "ignition"
+        ],
+        [
+          "IGBT",
+          "Integrated Gate Transistor"
+        ],
+        [
+          "IMA",
+          "Integrated Motor Assist"
+        ],
+        [
+          "IPM",
+          "Intelligent Power Module"
+        ],
+        [
+          "IPU",
+          "Intelligent Power Unit"
+        ],
+        [
+          "IN",
+          "Intake"
+        ],
+        [
+          "INT",
+          "intermittent"
+        ],
+        [
+          "ISO",
+          "ISO"
+        ],
+        [
+          "i-VTEC",
+          "Intelligent Variable Valve Timing/Valve Lift Electronic Control"
+        ],
+        [
+          "L.",
+          "left"
+        ],
+        [
+          "LAF",
+          "Linear Air Fuel Ratio"
+        ],
+        [
+          "L/C",
+          "Lock-up clutch"
+        ],
+        [
+          "LED",
+          "Light Emitting Diode (Light Emitting Diode)"
+        ],
+        [
+          "LEV",
+          "Low Emission Vehicle (Low Emission Vehicle)"
+        ],
+        [
+          "LKAS",
+          "Lane keeping assist system (lane keeping assist system)"
+        ],
+        [
+          "LO",
+          "Low (in schematic)"
+        ],
+        [
+          "LSD",
+          "Limited Slip Differential"
+        ],
+        [
+          "MBS",
+          "Main Shaft Brake System"
+        ],
+        [
+          "MICS",
+          "Multiplex Integrated Control System"
+        ],
+        [
+          "MICU",
+          "Multiplex Integrated Control Unit"
+        ],
+        [
+          "MT",
+          "Manual Transmission"
+        ],
+        [
+          "MTF",
+          "Manual Transmission Fluid"
+        ],
+        [
+          "MVCI",
+          "Modular Vehicle Communication Interface"
+        ],
+        [
+          "OPDS",
+          "Occupant Position Detection System"
+        ],
+        [
+          "PCU",
+          "Power Control Unit"
+        ],
+        [
+          "PCV",
+          "Positive crank case ventilation"
+        ],
+        [
+          "PDU",
+          "Power Drive Unit"
+        ],
+        [
+          "PGM-FI",
+          "Programmed fuel injection (electronically controlled fuel injection)"
+        ],
+        [
+          "P/L",
+          "Pilot Light"
+        ],
+        [
+          "P/N",
+          "Part Number"
+        ],
+        [
+          "P/S",
+          "Power Steering"
+        ],
+        [
+          "P/W",
+          "Power Window"
+        ],
+        [
+          "R.",
+          "right"
+        ],
+        [
+          "RES",
+          "Rear Entertainment System"
+        ],
+        [
+          "RFC",
+          "Radiator Fan Controls"
+        ],
+        [
+          "RL/RR",
+          "Rear left/rear right"
+        ],
+        [
+          "SAE",
+          "American Society of Automotive Engineers"
+        ],
+        [
+          "SCS",
+          "Service Check Signal"
+        ],
+        [
+          "SH-AWD",
+          "Super Handling All Wheel Drive"
+        ],
+        [
+          "SOC",
+          "Battery Capacity"
+        ],
+        [
+          "SOHC",
+          "Single overhead camshaft"
+        ],
+        [
+          "SOL.V.",
+          "Solenoid valve"
+        ],
+        [
+          "SRS",
+          "Supplemental restraint system"
+        ],
+        [
+          "SW",
+          "switch"
+        ],
+        [
+          "TCS",
+          "Traction Control System"
+        ],
+        [
+          "TCU",
+          "Telematics Control Unit"
+        ],
+        [
+          "TDC",
+          "upper dead point"
+        ],
+        [
+          "VC",
+          "Viscous coupling"
+        ],
+        [
+          "VCM",
+          "Variable cylinder system"
+        ],
+        [
+          "VSA",
+          "Vehicle stability assist system (vehicle behavior stabilization control system)"
+        ],
+        [
+          "VTC",
+          "Variable timing control"
+        ],
+        [
+          "VTEC",
+          "Variable Valve Timing/Valve Lift Electronic Control"
+        ],
+        [
+          "VTM-4",
+          "Variable Torque Management 4WD System"
+        ],
+        [
+          "WARN",
+          "Warning (warning light)"
+        ],
+        [
+          "YOP",
+          "Dealer-installed options"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "abbreviation",
+          ""
+        ],
+        [
+          "P",
+          "parking"
+        ],
+        [
+          "R",
+          "reverse"
+        ],
+        [
+          "N",
+          "neutral"
+        ],
+        [
+          "D",
+          "drive"
+        ],
+        [
+          "D4",
+          "Drive (1st - 4th gear)"
+        ],
+        [
+          "D3",
+          "Drive (1st-3rd gear)"
+        ],
+        [
+          "M",
+          "Sequential mode or manual shift mode"
+        ],
+        [
+          "S",
+          "Sport mode or S switch or automatic continuously variable transmission Sport mode"
+        ],
+        [
+          "B",
+          "Drive (regenerative braking)"
+        ],
+        [
+          "2",
+          "2nd gear hold"
+        ],
+        [
+          "1",
+          "1st gear hold"
+        ],
+        [
+          "L",
+          "low"
+        ],
+        [
+          "O/D",
+          "Over Drive"
+        ],
+        [
+          "LOW",
+          "LOW switch (1st gear hold, 4WD)"
+        ],
+        [
+          "UL",
+          "Ultra-low (ultra-low speed forward, 4WD)"
+        ],
+        [
+          "UR",
+          "Ultra Reverse (ultra-low speed reverse, 4WD)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "abbreviation",
+          ""
+        ],
+        [
+          "ANT",
+          "antenna"
+        ],
+        [
+          "CD-CHG",
+          "CD changer"
+        ],
+        [
+          "CD-ROM",
+          "Compact Disc ROM"
+        ],
+        [
+          "CPU",
+          "Central Processing Unit"
+        ],
+        [
+          "DIN",
+          "Deutsche Institut fuer Normung"
+        ],
+        [
+          "DISP",
+          "display"
+        ],
+        [
+          "DVD-ROM",
+          "Digital Versatile Disk ROM"
+        ],
+        [
+          "EEPROM",
+          "Electrically erasable programmable ROM (electrically erasable read-only memory)"
+        ],
+        [
+          "ENT",
+          "entourage"
+        ],
+        [
+          "EPROM",
+          "Erasable Programmable ROM (UV erasable read-only memory)"
+        ],
+        [
+          "GPS",
+          "Global Positioning System (a system that uses radio waves from satellites to determine current location)"
+        ],
+        [
+          "HDD",
+          "Hard disk drive"
+        ],
+        [
+          "LCD",
+          "Liquid crystal display (LCD)"
+        ],
+        [
+          "RAM",
+          "Random access memory (read and write memory)"
+        ],
+        [
+          "RESET",
+          "reset"
+        ],
+        [
+          "ROM",
+          "Read-only memory"
+        ],
+        [
+          "TFT",
+          "Thin Film Transistor (Thin Film Transistor)"
+        ],
+        [
+          "TV",
+          "TV"
+        ],
+        [
+          "VICS",
+          "Vehicle Information and Communication Systems"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_GEN_20131015114213/Contents/jpn/60T6GD00_2014/GEN/SCT/SC/SYS/G000312_jpn/web/html/G000312_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,190 @@
+{
+  "id": "R000643",
+  "title": "Steering Rack Guide Adjustment",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000643",
+  "assets": [
+    "643_5.0_jpn_11581923_5.0_disp.png",
+    "643_5.0_jpn_11581924_5.0_disp.png",
+    "643_5.0_jpn_11581925_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000641",
+      "label": "Refer to the steering gearbox development drawing for the rack guide configuration.",
+      "resolved": true
+    },
+    {
+      "id": "R000640",
+      "label": "Steering gear box removal",
+      "resolved": true
+    },
+    {
+      "id": "G000321",
+      "label": "In this work, the effective length changes when a special tool is connected to the torque wrench. Therefore, the tightening work shall be performed with the correct torque reading calculated by the calculation formula.",
+      "resolved": true
+    },
+    {
+      "id": "R000632",
+      "label": "Steering wheel play inspection",
+      "resolved": true
+    },
+    {
+      "id": "R000633",
+      "label": "Stationary operation load Inspection",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Steering Rack Guide Adjustment"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Always make adjustments with the steering wheel in the straight ahead position."
+        },
+        {
+          "text": "Always make adjustments with the steering wheel in the straight ahead position."
+        },
+        {
+          "text": "Refer to the steering gearbox development drawing for the rack guide configuration.",
+          "refs": [
+            {
+              "id": "R000641",
+              "label": "Refer to the steering gearbox development drawing for the rack guide configuration.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "Refer to the steering gearbox development drawing for the rack guide configuration.",
+          "refs": [
+            {
+              "id": "R000641",
+              "label": "Refer to the steering gearbox development drawing for the rack guide configuration.",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Steering gear box removal",
+      "refs": [
+        {
+          "id": "R000640",
+          "label": "Steering gear box removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rack Guide Adjustment"
+    },
+    {
+      "type": "figure",
+      "asset": "643_5.0_jpn_11581923_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Loosen the lock nut (A) with the dedicated tool and remove the rack guide screw (B). Completely remove old sealant from the rack guide screw and steering gearbox housing threads."
+    },
+    {
+      "type": "figure",
+      "asset": "643_5.0_jpn_11581924_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Apply new sealant (Seal End No. 22) evenly around the entire circumference of the rack guide threads (A) and lightly install it in the gearbox. Tighten the rack guide screw to 25 N-m (2.5 kgf-m). Return the rack guide screw and tighten it again to 7.9 N-m (0.8 kgf-m)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Rack guide screws shall be installed and adjusted within 5 minutes after the sealant is applied; if more than 5 minutes have elapsed, the sealant shall be removed and reapplied."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "643_5.0_jpn_11581925_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "6",
+      "text": "From the tightened position, return the rack guide screw (A) to the standard return angle (B). Reference Return Angle: 1.5 17±3° Secure the rack guide screw with a wrench and tighten the locknut (C).",
+      "refs": [
+        {
+          "id": "G000321",
+          "label": "In this work, the effective length changes when a special tool is connected to the torque wrench. Therefore, the tightening work shall be performed with the correct torque reading calculated by the calculation formula.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "In this work, the effective length changes when a special tool is connected to the torque wrench. Therefore, the tightening work shall be performed with the correct torque reading calculated by the calculation formula."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Steering gearbox installation",
+      "refs": [
+        {
+          "id": "R000640",
+          "label": "Steering gearbox installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Steering wheel play inspection",
+      "refs": [
+        {
+          "id": "R000632",
+          "label": "Steering wheel play inspection",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Stationary operation load Inspection",
+      "refs": [
+        {
+          "id": "R000633",
+          "label": "Stationary operation load Inspection",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000643_jpn/web/html/R000643_jpn_Content.html",
+  "inOutline": true
+}

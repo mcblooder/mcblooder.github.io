@@ -1,0 +1,55 @@
+{
+  "id": "R000503",
+  "title": "PCV valve removal and installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Blow-by gas reduction system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000503",
+  "assets": [
+    "503_3.0_jpn_11582657_3.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "PCV valve removal and installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. PCV valve removal"
+    },
+    {
+      "type": "figure",
+      "asset": "503_3.0_jpn_11582657_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "With the PCV hose (A) connected, remove the PCV valve (B) from the head cover. Remove the PCV valve from the PCV hose."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000503_jpn/web/html/R000503_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,51 @@
+{
+  "id": "082_EC01_Alternator_1P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC01",
+  "physicalIds": [
+    "EC01"
+  ],
+  "name": "Alternator 1P Connector (Female)",
+  "nameRu": "Разъём Alternator, 1 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "91721-R9G -0030-H1",
+  "partNumbers": [
+    "91721-R9G -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Charging System",
+    "Energy Management System",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91721-R9G -0030-H1.svg",
+    "viewBox": "0 0 31.686 27.554",
+    "width": 31.686,
+    "height": 27.554
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "LIN",
+      "english": "LIN",
+      "russian": "LIN",
+      "terminal": "E00A",
+      "geometry": {
+        "x": 13.487,
+        "y": 18.988,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1143 @@
+{
+  "id": "007_EA37_Under-Hood_Fuse_Relay_Box",
+  "category": "connector",
+  "connectorRef": "EA37",
+  "physicalIds": [
+    "EA37"
+  ],
+  "name": "Under-Hood Fuse/Relay Box",
+  "nameRu": "Разъём блок предохранителей и реле под капотом",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 76,
+  "populatedPinCount": 67,
+  "faceviewPart": "38250-TY0A-9011-Y1",
+  "partNumbers": [
+    "38250-TY0A-9011-Y1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [
+    "A/T Gear Position Indicator",
+    "A/T Interlock System",
+    "Accessory Power Socket",
+    "Ambient Light, Cargo Area Light and Individual MAP Light",
+    "Audio System",
+    "Auto Idle Stop System",
+    "Back-Up Lights",
+    "Brake Lights",
+    "Cable Reel",
+    "Charging System",
+    "City-Brake Active System",
+    "Climate Control",
+    "Cruise Control",
+    "CVT Control System",
+    "Dashlights",
+    "DLC",
+    "Energy Management System",
+    "Entry Light Control System",
+    "EPS",
+    "ETCS (Electronic Throttle Control System)",
+    "EVAP System",
+    "Fans",
+    "Fog Lights",
+    "Fuel Supply System",
+    "Gauges",
+    "Headlight Leveling System",
+    "Headlights",
+    "Horns",
+    "Idle Control System",
+    "Ignition System",
+    "Keyless Access System",
+    "Keyless/Power Door Locks/Security System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "Low Oil Pressure Indicator, Reminder Systems, Safety Indicator",
+    "MIL Circuit",
+    "PCM (All)",
+    "PCM Power and Ground",
+    "PGM-FI System",
+    "Power Mirrors",
+    "Power Supply",
+    "Power Windows",
+    "Power, Grounds and Diagnostics",
+    "Rear Window/Power Mirror Defoggers",
+    "SRS",
+    "Starting System",
+    "VSA",
+    "Wiper/Washer (Rear Window)",
+    "Wiper/Washer (Windshield)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/38250-TY0A-9011-Y1.svg",
+    "viewBox": "0 0 853.871 595.07",
+    "width": 853.871,
+    "height": 595.07
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "RED",
+      "circuit": "+B_F/BOX_MAIN",
+      "english": "Constant battery power: F / BOX, main",
+      "russian": "Постоянное питание от АКБ: F / BOX, главный",
+      "terminal": "B04A000",
+      "geometry": {
+        "x": 96.293,
+        "y": 384.826,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_IG_MAIN",
+      "english": "Constant battery power: IG, main",
+      "russian": "Постоянное питание от АКБ: IG, главный",
+      "terminal": "B03B",
+      "geometry": {
+        "x": 96.293,
+        "y": 437.602,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "+B_EPS",
+      "english": "Constant battery power: electric power steering",
+      "russian": "Постоянное питание от АКБ: электроусилитель руля",
+      "terminal": "B20C",
+      "geometry": {
+        "x": 580.861,
+        "y": 500.762,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "+B_ABS/VSA_MTR",
+      "english": "Constant battery power: ABS / VSA, motor",
+      "russian": "Постоянное питание от АКБ: ABS / VSA, электродвигатель",
+      "terminal": "B80D",
+      "geometry": {
+        "x": 580.861,
+        "y": 553.537,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "+B_DC/DC1",
+      "english": "Constant battery power: DC / DC1",
+      "russian": "Постоянное питание от АКБ: DC / DC1",
+      "terminal": "B77E",
+      "geometry": {
+        "x": 722.472,
+        "y": 539.106,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "RED",
+      "circuit": "+B_DC/DC2",
+      "english": "Constant battery power: DC / DC2",
+      "russian": "Постоянное питание от АКБ: DC / DC2",
+      "terminal": "B78F",
+      "geometry": {
+        "x": 775.247,
+        "y": 539.106,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "RED",
+      "circuit": "+B_R_H/L_LO",
+      "english": "Constant battery power: right, H / L, low",
+      "russian": "Постоянное питание от АКБ: правый, H / L, низкий",
+      "terminal": "B92B",
+      "geometry": {
+        "x": 191.206,
+        "y": 197.28,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "R_H/L_LO",
+      "english": "right, H / L, low",
+      "russian": "правый, H / L, низкий",
+      "terminal": "5H",
+      "geometry": {
+        "x": 214.112,
+        "y": 197.28,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "+B_SMALL",
+      "english": "Constant battery power: SMALL",
+      "russian": "Постоянное питание от АКБ: SMALL",
+      "terminal": "B91J",
+      "geometry": {
+        "x": 335.704,
+        "y": 197.28,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ILLUMI+",
+      "english": "Illumination positive",
+      "russian": "Плюс подсветки",
+      "terminal": "11K",
+      "geometry": {
+        "x": 353.664,
+        "y": 197.28,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "+B_MG_CLUTCH",
+      "english": "Constant battery power: magnetic, clutch",
+      "russian": "Постоянное питание от АКБ: электромагнитный, муфта",
+      "terminal": "B17L",
+      "geometry": {
+        "x": 489.956,
+        "y": 197.28,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "A/C_MG_CLUTCH",
+      "english": "air conditioning, magnetic, clutch",
+      "russian": "кондиционер, электромагнитный, муфта",
+      "terminal": "310M",
+      "geometry": {
+        "x": 512.859,
+        "y": 197.28,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "MAIN_FAN_MOTOR",
+      "english": "main, FAN, motor",
+      "russian": "главный, FAN, электродвигатель",
+      "terminal": "D26N",
+      "geometry": {
+        "x": 674.214,
+        "y": 88.326,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "FR_WIPER_MAIN_RLY_OUT",
+      "english": "front, wiper, main, relay, output",
+      "russian": "передний, стеклоочиститель, главный, реле, выход",
+      "terminal": "403P",
+      "geometry": {
+        "x": 674.162,
+        "y": 214.67,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "+B_WIPER",
+      "english": "Constant battery power: wiper",
+      "russian": "Постоянное питание от АКБ: стеклоочиститель",
+      "terminal": "B09R",
+      "geometry": {
+        "x": 674.162,
+        "y": 237.576,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "FR_WIPER_HI/LO_RLY_COM",
+      "english": "front, wiper, HI / LO, relay, common",
+      "russian": "передний, стеклоочиститель, HI / LO, реле, общий",
+      "terminal": "404S",
+      "geometry": {
+        "x": 188.981,
+        "y": 310.899,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "RED",
+      "circuit": "FR_WIPER_LO",
+      "english": "front, wiper, low",
+      "russian": "передний, стеклоочиститель, низкий",
+      "terminal": "400T",
+      "geometry": {
+        "x": 211.888,
+        "y": 310.899,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_L_H/L_LO",
+      "english": "Constant battery power: left, H / L, low",
+      "russian": "Постоянное питание от АКБ: левый, H / L, низкий",
+      "terminal": "B93B",
+      "geometry": {
+        "x": 333.244,
+        "y": 310.899,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "L_H/L_LO",
+      "english": "left, H / L, low",
+      "russian": "левый, H / L, низкий",
+      "terminal": "6X",
+      "geometry": {
+        "x": 356.149,
+        "y": 310.899,
+        "svgTextId": "SVGID_19_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "ST_MG_SW",
+      "english": "starter, magnetic, switch",
+      "russian": "стартер, электромагнитный, выключатель",
+      "terminal": "M00Y",
+      "geometry": {
+        "x": 512.859,
+        "y": 310.899,
+        "svgTextId": "SVGID_20_"
+      }
+    },
+    {
+      "pin": 21,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "ST_RLY_1_TO_2",
+      "english": "starter, relay, 1, TO, 2",
+      "russian": "стартер, реле, 1, TO, 2",
+      "terminal": "M07Z",
+      "geometry": {
+        "x": 535.766,
+        "y": 310.899,
+        "svgTextId": "SVGID_21_"
+      }
+    },
+    {
+      "pin": 22,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "FR_WIPER_HI/LO_RLY_COM",
+      "english": "front, wiper, HI / LO, relay, common",
+      "russian": "передний, стеклоочиститель, HI / LO, реле, общий",
+      "terminal": "404AA",
+      "geometry": {
+        "x": 188.981,
+        "y": 424.521,
+        "svgTextId": "SVGID_22_"
+      }
+    },
+    {
+      "pin": 23,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "FR_WIPER_MAIN_RLY_OUT",
+      "english": "front, wiper, main, relay, output",
+      "russian": "передний, стеклоочиститель, главный, реле, выход",
+      "terminal": "403AB",
+      "geometry": {
+        "x": 211.888,
+        "y": 424.521,
+        "svgTextId": "SVGID_23_"
+      }
+    },
+    {
+      "pin": 24,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "+B_STOP",
+      "english": "Constant battery power: brake light",
+      "russian": "Постоянное питание от АКБ: стоп-сигнал",
+      "terminal": "B01AC",
+      "geometry": {
+        "x": 333.244,
+        "y": 424.521,
+        "svgTextId": "SVGID_24_"
+      }
+    },
+    {
+      "pin": 25,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "HORN_RLY_OUT",
+      "english": "horn, relay, output",
+      "russian": "звуковой сигнал, реле, выход",
+      "terminal": "60AD",
+      "geometry": {
+        "x": 356.149,
+        "y": 424.521,
+        "svgTextId": "SVGID_25_"
+      }
+    },
+    {
+      "pin": 26,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "ST_RLY_1_TO_2",
+      "english": "starter, relay, 1, TO, 2",
+      "russian": "стартер, реле, 1, TO, 2",
+      "terminal": "M07AE",
+      "geometry": {
+        "x": 512.859,
+        "y": 423.874,
+        "svgTextId": "SVGID_26_"
+      }
+    },
+    {
+      "pin": 27,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "H/L_LO_RLY_CL-",
+      "english": "H / L, low, relay, coil control -",
+      "russian": "H / L, низкий, реле, управление катушкой -",
+      "terminal": "18D",
+      "geometry": {
+        "x": 234.794,
+        "y": 174.375,
+        "svgTextId": "SVGID_27_"
+      }
+    },
+    {
+      "pin": 28,
+      "used": true,
+      "wire": "RED",
+      "circuit": "+B_R_H/L_LO",
+      "english": "Constant battery power: right, H / L, low",
+      "russian": "Постоянное питание от АКБ: правый, H / L, низкий",
+      "terminal": "B92AG",
+      "geometry": {
+        "x": 234.794,
+        "y": 220.186,
+        "svgTextId": "SVGID_28_"
+      }
+    },
+    {
+      "pin": 29,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "SMALL_LT_RLY_CL-",
+      "english": "SMALL, light, relay, coil control -",
+      "russian": "SMALL, освещение, реле, управление катушкой -",
+      "terminal": "20AH",
+      "geometry": {
+        "x": 379.055,
+        "y": 174.488,
+        "svgTextId": "SVGID_29_"
+      }
+    },
+    {
+      "pin": 30,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "+B_SMALL",
+      "english": "Constant battery power: SMALL",
+      "russian": "Постоянное питание от АКБ: SMALL",
+      "terminal": "B91AJ",
+      "geometry": {
+        "x": 379.055,
+        "y": 220.299,
+        "svgTextId": "SVGID_30_"
+      }
+    },
+    {
+      "pin": 31,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "A/C_MG_CLUTCH_RLY_CL-",
+      "english": "air conditioning, magnetic, clutch, relay, coil control -",
+      "russian": "кондиционер, электромагнитный, муфта, реле, управление катушкой -",
+      "terminal": "308AK",
+      "geometry": {
+        "x": 535.766,
+        "y": 174.488,
+        "svgTextId": "SVGID_31_"
+      }
+    },
+    {
+      "pin": 32,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "IG2_A/C",
+      "english": "ignition IG2, air conditioning",
+      "russian": "зажигание IG2, кондиционер",
+      "terminal": "G22AL",
+      "geometry": {
+        "x": 535.766,
+        "y": 220.299,
+        "svgTextId": "SVGID_32_"
+      }
+    },
+    {
+      "pin": 33,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "IG2_A/C",
+      "english": "ignition IG2, air conditioning",
+      "russian": "зажигание IG2, кондиционер",
+      "terminal": "G22AM",
+      "geometry": {
+        "x": 651.193,
+        "y": 65.306,
+        "svgTextId": "SVGID_33_"
+      }
+    },
+    {
+      "pin": 34,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "FAN_CONTROL",
+      "english": "FAN, CONTROL",
+      "russian": "FAN, CONTROL",
+      "terminal": "D31AN",
+      "geometry": {
+        "x": 651.193,
+        "y": 111.118,
+        "svgTextId": "SVGID_34_"
+      }
+    },
+    {
+      "pin": 35,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-R)",
+      "english": "Ground (ENG-R)",
+      "russian": "Масса (ENG-R)",
+      "terminal": "Z09AP",
+      "geometry": {
+        "x": 651.142,
+        "y": 191.765,
+        "svgTextId": "SVGID_35_"
+      }
+    },
+    {
+      "pin": 36,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "IG1_FR_WIPER",
+      "english": "ignition IG1, front, wiper",
+      "russian": "зажигание IG1, передний, стеклоочиститель",
+      "terminal": "G03AR",
+      "geometry": {
+        "x": 696.953,
+        "y": 191.765,
+        "svgTextId": "SVGID_36_"
+      }
+    },
+    {
+      "pin": 37,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "WIPER_HI/LO_RLY_CL-",
+      "english": "wiper, HI / LO, relay, coil control -",
+      "russian": "стеклоочиститель, HI / LO, реле, управление катушкой -",
+      "terminal": "411AS",
+      "geometry": {
+        "x": 234.794,
+        "y": 287.996,
+        "svgTextId": "SVGID_37_"
+      }
+    },
+    {
+      "pin": 38,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "FR_WIPER_HI",
+      "english": "front, wiper, high",
+      "russian": "передний, стеклоочиститель, высокий",
+      "terminal": "401AT",
+      "geometry": {
+        "x": 234.794,
+        "y": 310.901,
+        "svgTextId": "SVGID_38_"
+      }
+    },
+    {
+      "pin": 39,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "FR_WIPER_MAIN_RLY_OUT",
+      "english": "front, wiper, main, relay, output",
+      "russian": "передний, стеклоочиститель, главный, реле, выход",
+      "terminal": "403AW",
+      "geometry": {
+        "x": 234.794,
+        "y": 333.807,
+        "svgTextId": "SVGID_39_"
+      }
+    },
+    {
+      "pin": 40,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "H/L_LO_RLY_CL-",
+      "english": "H / L, low, relay, coil control -",
+      "russian": "H / L, низкий, реле, управление катушкой -",
+      "terminal": "18AX",
+      "geometry": {
+        "x": 379.055,
+        "y": 287.995,
+        "svgTextId": "SVGID_40_"
+      }
+    },
+    {
+      "pin": 41,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_L_H/L_LO",
+      "english": "Constant battery power: left, H / L, low",
+      "russian": "Постоянное питание от АКБ: левый, H / L, низкий",
+      "terminal": "B93AY",
+      "geometry": {
+        "x": 379.055,
+        "y": 333.807,
+        "svgTextId": "SVGID_41_"
+      }
+    },
+    {
+      "pin": 42,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "IG1_ST_CUT_RLY_COIL",
+      "english": "ignition IG1, starter, CUT, relay, coil",
+      "russian": "зажигание IG1, стартер, CUT, реле, катушка",
+      "terminal": "G08AZ",
+      "geometry": {
+        "x": 489.954,
+        "y": 287.994,
+        "svgTextId": "SVGID_42_"
+      }
+    },
+    {
+      "pin": 43,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "ST_CUT_RLY2_CL-",
+      "english": "starter, CUT, RLY2, coil control -",
+      "russian": "стартер, CUT, RLY2, управление катушкой -",
+      "terminal": "M09BA",
+      "geometry": {
+        "x": 489.954,
+        "y": 333.806,
+        "svgTextId": "SVGID_43_"
+      }
+    },
+    {
+      "pin": 44,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "FR_WIPER_INT_RLY_CL-",
+      "english": "front, wiper, intermittent, relay, coil control -",
+      "russian": "передний, стеклоочиститель, прерывистый режим, реле, управление катушкой -",
+      "terminal": "410BB",
+      "geometry": {
+        "x": 234.794,
+        "y": 401.613,
+        "svgTextId": "SVGID_44_"
+      }
+    },
+    {
+      "pin": 45,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-RR)",
+      "english": "Ground (ENG-RR)",
+      "russian": "Масса (ENG-RR)",
+      "terminal": "Z02BC",
+      "geometry": {
+        "x": 234.794,
+        "y": 424.521,
+        "svgTextId": "SVGID_45_"
+      }
+    },
+    {
+      "pin": 46,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "FR_WIPER_MAIN_RLY_OUT",
+      "english": "front, wiper, main, relay, output",
+      "russian": "передний, стеклоочиститель, главный, реле, выход",
+      "terminal": "403BD",
+      "geometry": {
+        "x": 234.794,
+        "y": 447.425,
+        "svgTextId": "SVGID_46_"
+      }
+    },
+    {
+      "pin": 47,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "HORN_SW",
+      "english": "horn, switch",
+      "russian": "звуковой сигнал, выключатель",
+      "terminal": "61BE",
+      "geometry": {
+        "x": 379.055,
+        "y": 401.613,
+        "svgTextId": "SVGID_47_"
+      }
+    },
+    {
+      "pin": 48,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "+B_STOP",
+      "english": "Constant battery power: brake light",
+      "russian": "Постоянное питание от АКБ: стоп-сигнал",
+      "terminal": "B01BF",
+      "geometry": {
+        "x": 379.055,
+        "y": 447.425,
+        "svgTextId": "SVGID_48_"
+      }
+    },
+    {
+      "pin": 49,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "IG1_ST_CUT_RLY_COIL",
+      "english": "ignition IG1, starter, CUT, relay, coil",
+      "russian": "зажигание IG1, стартер, CUT, реле, катушка",
+      "terminal": "G08BG",
+      "geometry": {
+        "x": 489.954,
+        "y": 400.968,
+        "svgTextId": "SVGID_49_"
+      }
+    },
+    {
+      "pin": 50,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "ST_CUT_RLY1_CL-",
+      "english": "starter, CUT, RLY1, coil control -",
+      "russian": "стартер, CUT, RLY1, управление катушкой -",
+      "terminal": "M06BH",
+      "geometry": {
+        "x": 489.954,
+        "y": 446.78,
+        "svgTextId": "SVGID_50_"
+      }
+    },
+    {
+      "pin": 51,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 213.931,
+        "y": 85.334,
+        "svgTextId": "SVGID_51_"
+      }
+    },
+    {
+      "pin": 52,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "+B_DBW",
+      "english": "Constant battery power: electronic throttle",
+      "russian": "Постоянное питание от АКБ: электронная дроссельная заслонка",
+      "terminal": "B12BK",
+      "geometry": {
+        "x": 236.61,
+        "y": 85.334,
+        "svgTextId": "SVGID_52_"
+      }
+    },
+    {
+      "pin": 53,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_L_H/L_LO",
+      "english": "Constant battery power: left, H / L, low",
+      "russian": "Постоянное питание от АКБ: левый, H / L, низкий",
+      "terminal": "B93BL",
+      "geometry": {
+        "x": 259.289,
+        "y": 85.334,
+        "svgTextId": "SVGID_53_"
+      }
+    },
+    {
+      "pin": 54,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "+B_SMALL",
+      "english": "Constant battery power: SMALL",
+      "russian": "Постоянное питание от АКБ: SMALL",
+      "terminal": "B91BM",
+      "geometry": {
+        "x": 281.968,
+        "y": 85.334,
+        "svgTextId": "SVGID_54_"
+      }
+    },
+    {
+      "pin": 55,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "+B_WIPER",
+      "english": "Constant battery power: wiper",
+      "russian": "Постоянное питание от АКБ: стеклоочиститель",
+      "terminal": "B09BN",
+      "geometry": {
+        "x": 372.655,
+        "y": 85.334,
+        "svgTextId": "SVGID_55_"
+      }
+    },
+    {
+      "pin": 56,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "+B_WASHER",
+      "english": "Constant battery power: washer",
+      "russian": "Постоянное питание от АКБ: омыватель",
+      "terminal": "B64BP",
+      "geometry": {
+        "x": 395.334,
+        "y": 85.334,
+        "svgTextId": "SVGID_56_"
+      }
+    },
+    {
+      "pin": 57,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "+B_MG_CLUTCH",
+      "english": "Constant battery power: magnetic, clutch",
+      "russian": "Постоянное питание от АКБ: электромагнитный, муфта",
+      "terminal": "B17BR",
+      "geometry": {
+        "x": 418.014,
+        "y": 85.334,
+        "svgTextId": "SVGID_57_"
+      }
+    },
+    {
+      "pin": 58,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "+B_BATT_SNSR",
+      "english": "Constant battery power: battery, SNSR",
+      "russian": "Постоянное питание от АКБ: аккумулятор, SNSR",
+      "terminal": "B19BS",
+      "geometry": {
+        "x": 440.691,
+        "y": 85.334,
+        "svgTextId": "SVGID_58_"
+      }
+    },
+    {
+      "pin": 59,
+      "used": true,
+      "wire": "RED",
+      "circuit": "+B_R_H/L_LO",
+      "english": "Constant battery power: right, H / L, low",
+      "russian": "Постоянное питание от АКБ: правый, H / L, низкий",
+      "terminal": "B92BT",
+      "geometry": {
+        "x": 116.409,
+        "y": 275.21,
+        "svgTextId": "SVGID_59_"
+      }
+    },
+    {
+      "pin": 60,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "+B_H/L_HI",
+      "english": "Constant battery power: H / L, high",
+      "russian": "Постоянное питание от АКБ: H / L, высокий",
+      "terminal": "B94BW",
+      "geometry": {
+        "x": 116.409,
+        "y": 297.889,
+        "svgTextId": "SVGID_60_"
+      }
+    },
+    {
+      "pin": 61,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "+B_FR_FOG",
+      "english": "Constant battery power: front, FOG",
+      "russian": "Постоянное питание от АКБ: передний, FOG",
+      "terminal": "B96BX",
+      "geometry": {
+        "x": 623.96,
+        "y": 323.376,
+        "svgTextId": "SVGID_61_"
+      }
+    },
+    {
+      "pin": 62,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "+B_HAZARD",
+      "english": "Constant battery power: HAZARD",
+      "russian": "Постоянное питание от АКБ: HAZARD",
+      "terminal": "B02BY",
+      "geometry": {
+        "x": 623.96,
+        "y": 346.277,
+        "svgTextId": "SVGID_62_"
+      }
+    },
+    {
+      "pin": 63,
+      "used": true,
+      "wire": "RED",
+      "circuit": "+B_ABS/VSA_FSR",
+      "english": "Constant battery power: ABS / VSA, FSR",
+      "russian": "Постоянное питание от АКБ: ABS / VSA, FSR",
+      "terminal": "B81BZ",
+      "geometry": {
+        "x": 623.96,
+        "y": 368.734,
+        "svgTextId": "SVGID_63_"
+      }
+    },
+    {
+      "pin": 64,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "+B_STOP",
+      "english": "Constant battery power: brake light",
+      "russian": "Постоянное питание от АКБ: стоп-сигнал",
+      "terminal": "B01CA",
+      "geometry": {
+        "x": 623.96,
+        "y": 391.413,
+        "svgTextId": "SVGID_64_"
+      }
+    },
+    {
+      "pin": 65,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 769.395,
+        "y": 323.376,
+        "svgTextId": "SVGID_65_"
+      }
+    },
+    {
+      "pin": 66,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 769.395,
+        "y": 346.277,
+        "svgTextId": "SVGID_66_"
+      }
+    },
+    {
+      "pin": 67,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 769.395,
+        "y": 368.734,
+        "svgTextId": "SVGID_67_"
+      }
+    },
+    {
+      "pin": 68,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 769.395,
+        "y": 391.413,
+        "svgTextId": "SVGID_68_"
+      }
+    },
+    {
+      "pin": 69,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 814.754,
+        "y": 323.376,
+        "svgTextId": "SVGID_69_"
+      }
+    },
+    {
+      "pin": 70,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 814.754,
+        "y": 346.277,
+        "svgTextId": "SVGID_70_"
+      }
+    },
+    {
+      "pin": 71,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 814.754,
+        "y": 368.734,
+        "svgTextId": "SVGID_71_"
+      }
+    },
+    {
+      "pin": 72,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 814.754,
+        "y": 391.413,
+        "svgTextId": "SVGID_72_"
+      }
+    },
+    {
+      "pin": 73,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "+B_BACK_UP_BST",
+      "english": "Constant battery power: back-up, up, BST",
+      "russian": "Постоянное питание от АКБ: резервный, вверх, BST",
+      "terminal": "B79CK",
+      "geometry": {
+        "x": 419.748,
+        "y": 499.379,
+        "svgTextId": "SVGID_73_"
+      }
+    },
+    {
+      "pin": 74,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "+B_BACK_UP_MAIN",
+      "english": "Constant battery power: back-up, up, main",
+      "russian": "Постоянное питание от АКБ: резервный, вверх, главный",
+      "terminal": "B70CL",
+      "geometry": {
+        "x": 465.106,
+        "y": 499.379,
+        "svgTextId": "SVGID_74_"
+      }
+    },
+    {
+      "pin": 75,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-RR)",
+      "english": "Ground (ENG-RR)",
+      "russian": "Масса (ENG-RR)",
+      "terminal": "Z41CM",
+      "geometry": {
+        "x": 808.556,
+        "y": 165.344,
+        "svgTextId": "SVGID_75_"
+      }
+    },
+    {
+      "pin": 76,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "ST_MG_DIODE+",
+      "english": "starter, magnetic, DIODE +",
+      "russian": "стартер, электромагнитный, DIODE +",
+      "terminal": "M08CN",
+      "geometry": {
+        "x": 808.556,
+        "y": 188.245,
+        "svgTextId": "SVGID_76_"
+      }
+    }
+  ]
+}

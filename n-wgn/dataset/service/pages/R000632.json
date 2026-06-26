@@ -1,0 +1,68 @@
+{
+  "id": "R000632",
+  "title": "Steering wheel play inspection",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "NA",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000632",
+  "assets": [
+    "632_3.0_jpn_11293120_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000631",
+      "label": "Inspect steering coupling",
+      "resolved": true
+    },
+    {
+      "id": "R000643",
+      "label": "Rack Guide Adjustment",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Steering wheel play inspection"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Steering wheel play inspection"
+    },
+    {
+      "type": "figure",
+      "asset": "632_3.0_jpn_11293120_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Turn the steering wheel to the straight ahead position. Move the steering wheel to the left or right as far as the front wheel will not move and measure the amount of play. Steering Wheel Circumferential Play Std. 0－10mm If above standard value, Inspect steering coupling and if there are no abnormalities Rack Guide Adjustment (1) The company shall",
+      "refs": [
+        {
+          "id": "R000631",
+          "label": "Inspect steering coupling",
+          "resolved": true
+        },
+        {
+          "id": "R000643",
+          "label": "Rack Guide Adjustment",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000632_jpn/web/html/R000632_jpn_Content.html",
+  "inOutline": true
+}

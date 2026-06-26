@@ -1,0 +1,42 @@
+{
+  "id": "T002544",
+  "title": "Fuel and Emission Controls Failure Diagnostic Table by Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "PGM-FI System",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002544",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuel and Emission Controls Failure Diagnostic Table by Symptom"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "1.",
+          "Worn intake or exhaust valves"
+        ],
+        [
+          "2.",
+          "Valve timing, ignition timing failure"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002544_jpn/web/html/T002544_jpn_Content.html",
+  "inOutline": true
+}

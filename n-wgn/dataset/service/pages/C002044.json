@@ -1,0 +1,53 @@
+{
+  "id": "C002044",
+  "title": "Wiper/Washer Structure Description - Overview",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "Wiper/washer",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002044",
+  "assets": [
+    "2044_3.0_jpn_11390995_2.0_disp.png",
+    "2044_3.0_jpn_11391000_2.0_disp.png",
+    "2044_3.0_jpn_11409954_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Wiper/Washer Structure Description - Overview"
+    },
+    {
+      "type": "paragraph",
+      "text": "Equipped with washer-linked intermittent front wiper and washer-linked intermittent rear wiper."
+    },
+    {
+      "type": "paragraph",
+      "text": "The wiper/washer controls the wiper motor and washer motor by the MICU from the wiper/washer switch signal."
+    },
+    {
+      "type": "figure",
+      "asset": "2044_3.0_jpn_11409954_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2044_3.0_jpn_11390995_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2044_3.0_jpn_11391000_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002044_jpn/web/html/C002044_jpn_Content.html",
+  "inOutline": true
+}

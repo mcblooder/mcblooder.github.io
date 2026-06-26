@@ -1,0 +1,126 @@
+{
+  "id": "A000113",
+  "title": "DTC Explanation: U0131",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000113",
+  "assets": [
+    "113_3.0_jpn_11033633_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: U0131"
+    },
+    {
+      "type": "dtc",
+      "code": "U0131",
+      "text": "DTC U0131: F-CAN communication error (PGM-FI ECU-EPS control unit communication failure)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "113_3.0_jpn_11033633_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inter-control unit communication (F-CAN) for powertrain/chassis systems uses two communication lines (F-CAN_H and F-CAN_L) to send and receive multiple signals simultaneously between multiple control units. If signals from the EPS control unit sent using F-CAN_H and F-CAN_L cannot be received for a predetermined period of time, the PGM-FI ECU judges a failure and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "D/C: Drive Cycle"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "[ ]: HDS Parameters"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the PGM-FI ECU cannot receive signals from the EPS control unit sent using F-CAN_H and F-CAN_L for more than 1.5 seconds."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Disconnection of F-CAN circuit code (F-CAN_H line)"
+        },
+        {
+          "text": "Disconnection of F-CAN circuit code (F-CAN_L line)"
+        },
+        {
+          "text": "Ground fault in F-CAN circuit code (F-CAN_H line)"
+        },
+        {
+          "text": "Ground fault in F-CAN circuit code (F-CAN_L line)"
+        },
+        {
+          "text": "EPS control unit failure (including blown or blown fuse)"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to be faulty, the temporary DTC, DTC and freeze data are stored in the PGM-FI ECU memory without the PGM-FI warning light being turned on."
+    },
+    {
+      "type": "paragraph",
+      "text": "Temporary DTCs, DTCs and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000113_jpn/web/html/A000113_jpn_Content.html",
+  "inOutline": true
+}

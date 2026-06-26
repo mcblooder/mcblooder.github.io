@@ -1,0 +1,18 @@
+{
+  "id": "aux_under_dash",
+  "category": "electrical_diagram",
+  "title": "Aux Under Dash",
+  "system": "aux_under_dash",
+  "sheetCount": 2,
+  "sheets": [
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/aux_under_dash/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/aux_under_dash/sheet3.svg"
+    }
+  ],
+  "components": {}
+}

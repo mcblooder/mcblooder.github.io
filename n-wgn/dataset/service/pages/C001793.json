@@ -1,0 +1,145 @@
+{
+  "id": "C001793",
+  "title": "CVT structure description - Hydraulic circuit diagram",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "CVT/HMM hydraulic system control",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C001793",
+  "assets": [
+    "1793_4.0_jpn_11583510_4.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "CVT structure description - Hydraulic circuit diagram"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "schematic"
+    },
+    {
+      "type": "figure",
+      "asset": "1793_4.0_jpn_11583510_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "The hydraulic circuit has a circuit name with circuit symbols designated by function."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "symbol",
+          "Hydraulic circuit name",
+          "symbol",
+          "Hydraulic circuit name"
+        ],
+        [
+          "PH",
+          "High hydraulic pressure",
+          "90",
+          "Torque Converter pressure"
+        ],
+        [
+          "PH'",
+          "High hydraulic pressure",
+          "90'",
+          "Torque Converter pressure"
+        ],
+        [
+          "DN",
+          "Driven Puli Pressure",
+          "91",
+          "Torque Converter pressure"
+        ],
+        [
+          "DR",
+          "Drive pulley pressure",
+          "92",
+          "Torque Converter pressure"
+        ],
+        [
+          "CR",
+          "Clutch Reducing pressure",
+          "92'",
+          "Torque Converter pressure"
+        ],
+        [
+          "CR'",
+          "Clutch Reducing pressure",
+          "93",
+          "Oil Cooler Pressure"
+        ],
+        [
+          "CR''",
+          "Clutch Reducing pressure",
+          "94",
+          "Torque Converter pressure"
+        ],
+        [
+          "5",
+          "clutch pressure",
+          "95",
+          "Lubrication pressure"
+        ],
+        [
+          "FWD",
+          "Forward Clutch Pressure",
+          "96",
+          "Torque Converter pressure"
+        ],
+        [
+          "RVS",
+          "Reverse Clutch Pressure",
+          "96'",
+          "Torque Converter pressure"
+        ],
+        [
+          "PHC",
+          "High hydraulic control pressure",
+          "99",
+          "Suction pressure"
+        ],
+        [
+          "DNC",
+          "Driven Pulley Control Pressure",
+          "B/U",
+          "System Backup"
+        ],
+        [
+          "DRC",
+          "Drive Pulley Control Pressure",
+          "X",
+          "drain"
+        ],
+        [
+          "CPC",
+          "Clutch Pressure Control Pressure",
+          "HX",
+          "High position drain"
+        ],
+        [
+          "LCC",
+          "Lock-up clutch control pressure",
+          "",
+          ""
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131205112612/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C001793_jpn/web/html/C001793_jpn_Content.html",
+  "inOutline": true
+}

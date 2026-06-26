@@ -1,0 +1,97 @@
+{
+  "id": "R000874",
+  "title": "Removing and installing A/C filter",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Heater air conditioning/ventilation",
+  "sectionCode": "G",
+  "subsection": "Heater Ventilation A/C",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000874",
+  "assets": [
+    "874_5.0_jpn_11580964_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000783",
+      "label": "Glove box removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Removing and installing A/C filter"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Glove box removal",
+      "refs": [
+        {
+          "id": "R000783",
+          "label": "Glove box removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. A/C filter removal"
+    },
+    {
+      "type": "figure",
+      "asset": "874_5.0_jpn_11580964_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the left and right locks (A) and remove the lid (B). Pull out and remove the filter element (C)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not clean the filter element."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Precautions for installation work"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "When installing the A/C filter, install it with the arrow of the AIR FLOW mark pointing downward."
+        },
+        {
+          "text": "When installing the A/C filter, install it with the arrow of the AIR FLOW mark pointing downward."
+        },
+        {
+          "text": "Install the lid securely and make sure there are no air leaks."
+        },
+        {
+          "text": "Install the lid securely and make sure there are no air leaks."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000874_jpn/web/html/R000874_jpn_Content.html",
+  "inOutline": true
+}

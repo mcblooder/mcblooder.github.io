@@ -1,0 +1,105 @@
+{
+  "id": "R000485",
+  "title": "Fuel pressure regulator removal and installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Fuel emission",
+  "system": "Fuel supply equipment",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000485",
+  "assets": [
+    "485_3.0_jpn_11582607_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000488",
+      "label": "Fuel pump removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fuel pressure regulator removal and installation"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Fire is strictly prohibited. ​",
+        "Removal should be performed with the engine stopped and the battery (-) terminal disconnected. ​"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Fuel pump removal",
+      "refs": [
+        {
+          "id": "R000488",
+          "label": "Fuel pump removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Fuel pressure regulator removal"
+    },
+    {
+      "type": "figure",
+      "asset": "485_3.0_jpn_11582607_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the reservoir (A) and remove the pressure regulator (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Parts supplied as a set, including O-rings, must be replaced upon disassembly.",
+        "Lubricate the O-ring with engine oil (genuine Honda) and install the O-ring with care to avoid binding. Never apply brake fluid, radiator fluid, vegetable or alcohol based oil or grease."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Parts supplied as a set, including O-rings, must be replaced upon disassembly."
+        },
+        {
+          "text": "Parts supplied as a set, including O-rings, must be replaced upon disassembly."
+        },
+        {
+          "text": "Lubricate the O-ring with engine oil (genuine Honda) and install the O-ring with care to avoid binding. Never apply brake fluid, radiator fluid, vegetable or alcohol based oil or grease."
+        },
+        {
+          "text": "Lubricate the O-ring with engine oil (genuine Honda) and install the O-ring with care to avoid binding. Never apply brake fluid, radiator fluid, vegetable or alcohol based oil or grease."
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131120133233/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000485_jpn/web/html/R000485_jpn_Content.html",
+  "inOutline": true
+}

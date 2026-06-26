@@ -1,0 +1,205 @@
+{
+  "id": "R000529",
+  "title": "Valve body assembly removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "CVT/HMM",
+  "system": "Valve Body",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000529",
+  "assets": [
+    "529_5.0_jpn_11582153_5.0_disp.png",
+    "529_5.0_jpn_11582154_5.0_disp.png",
+    "529_5.0_jpn_11582155_5.0_disp.png",
+    "529_5.0_jpn_11582156_5.0_disp.png",
+    "529_5.0_jpn_11582157_5.0_disp.png",
+    "529_5.0_jpn_11582158_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000527",
+      "label": "Oil pan removal",
+      "resolved": true
+    },
+    {
+      "id": "R000576",
+      "label": "Inspect the transmission fluid strainer.",
+      "resolved": true
+    },
+    {
+      "id": "R000543",
+      "label": "Transmission Fluid Refill",
+      "resolved": true
+    },
+    {
+      "id": "R000542",
+      "label": "Transmission Fluid Level Check",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Valve body assembly removal"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be very careful to prevent dust and other debris from entering the transmission.",
+        "The select lever must work in the P position.",
+        "The following parts are incorporated into the valve body assembly and must be replaced as a set with the valve body assembly.",
+        "Drive Pulley Control SOL.V.",
+        "Driven Pouri Control SOL.V.",
+        "Clutch Pressure Control SOL.V.",
+        "Lock-up clutch control SOL.V.",
+        "Accumulator Control SOL.V."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Oil pan removal",
+      "refs": [
+        {
+          "id": "R000527",
+          "label": "Oil pan removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Transmission fluid strainer removal"
+    },
+    {
+      "type": "figure",
+      "asset": "529_5.0_jpn_11582153_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the transmission fluid strainer (A). Remove the O-ring (B). Inspect the transmission fluid strainer.",
+      "refs": [
+        {
+          "id": "R000576",
+          "label": "Inspect the transmission fluid strainer.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Valve body assembly removal"
+    },
+    {
+      "type": "figure",
+      "asset": "529_5.0_jpn_11582154_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the coupler (A). Remove the ground terminal (B). Remove the transmission fluid temperature sensor (C)."
+    },
+    {
+      "type": "figure",
+      "asset": "529_5.0_jpn_11582155_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Remove the oil guide plate (A). Remove the valve body assembly (B). Remove the knock pin (C). Remove the 10.9 x 112 mm pipe (D). Remove the 8 x 56.5 mm pipe (E). Remove the 10.9 x 48 mm pipe (F). Remove the O-ring (G) from each oil pipe."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Valve body assembly. installation"
+    },
+    {
+      "type": "figure",
+      "asset": "529_5.0_jpn_11582156_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install a new O-ring (A) on each oil pipe. Install 10.9 x 48 mm pipe (B). Install 8 x 56.5 mm pipe (C). Install 10.9 x 112 mm pipe (D). Install the knock pin (E). Align the control lever pin (F) on the control shaft with the manual valve guide (G) and install the valve body assembly (H)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Transmission should be worked in P position."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "529_5.0_jpn_11582157_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "9",
+      "text": "Install the transmission fluid temperature sensor (A). Install the ground terminal (B). Connect the coupler (C)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Transmission Fluid Strainer Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "529_5.0_jpn_11582158_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Install a new O-ring (A). Install the transmission fluid strainer (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Oil pan installation",
+      "refs": [
+        {
+          "id": "R000527",
+          "label": "Oil pan installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Transmission Fluid Refill",
+      "refs": [
+        {
+          "id": "R000543",
+          "label": "Transmission Fluid Refill",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Transmission Fluid Level Check",
+      "refs": [
+        {
+          "id": "R000542",
+          "label": "Transmission Fluid Level Check",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000529_jpn/web/html/R000529_jpn_Content.html",
+  "inOutline": true
+}

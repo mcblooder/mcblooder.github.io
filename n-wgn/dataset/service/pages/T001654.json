@@ -1,0 +1,37 @@
+{
+  "id": "T001654",
+  "title": "SRS Airbag System Failure Diagnostic Table by DTC",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "SRS",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001654",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "SRS Airbag System Failure Diagnostic Table by DTC"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "When checking the manufacturer name of the SRS unit, use HDS to check the ECU manufacturer displayed in the data list."
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001654_jpn/web/html/T001654_jpn_Content.html",
+  "inOutline": true
+}

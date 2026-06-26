@@ -1,0 +1,179 @@
+{
+  "id": "R000740",
+  "title": "Replace rear door sash tape",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "door (Western-style)",
+  "system": "Rear door",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000740",
+  "assets": [
+    "740_3.0_jpn_11372019_2.0_disp.png",
+    "740_3.0_jpn_11372020_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000737",
+      "label": "Rear door molding removal",
+      "resolved": true
+    },
+    {
+      "id": "R000741",
+      "label": "Water Leakage Test",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Replace rear door sash tape"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Work in an area free of dust, etc.",
+        "In winter (low temperatures) and other conditions, use a dryer to warm the door sash and sash tape before working on them.",
+        "Door sash: around 15°C",
+        "Sash tape: around 30°C",
+        "When heating sash tape, do not heat a portion of the tape rapidly to prevent deformation of the tape.",
+        "If there is more than 10 mm of air entrapment, the tape shall be reapplied."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear door molding removal",
+      "refs": [
+        {
+          "id": "R000737",
+          "label": "Rear door molding removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear door sash tape replacement"
+    },
+    {
+      "type": "figure",
+      "asset": "740_3.0_jpn_11372019_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Prepare the following items Remove the rear door glass run channel (A) as required. Gradually peel off the old sash tape while warming it in a dryer. Degrease the surface to which the sash tape is attached completely with white gasoline or alcohol on a rag."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Plastic Squeegee"
+        },
+        {
+          "text": "Plastic Squeegee"
+        },
+        {
+          "text": "White Gasoline, alcohol, etc."
+        },
+        {
+          "text": "White Gasoline, alcohol, etc."
+        },
+        {
+          "text": "waste (cloth)"
+        },
+        {
+          "text": "waste (cloth)"
+        },
+        {
+          "text": "dryer"
+        },
+        {
+          "text": "dryer"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "If adhesive is adhered to the surface to which the tape is attached, soak the surface thoroughly with white gasoline or alcohol, and remove the adhesive by rubbing it with your finger."
+        },
+        {
+          "text": "If adhesive is adhered to the surface to which the tape is attached, soak the surface thoroughly with white gasoline or alcohol, and remove the adhesive by rubbing it with your finger."
+        },
+        {
+          "text": "After degreasing, do not allow dirt, grease, or moisture to adhere to the surface."
+        },
+        {
+          "text": "After degreasing, do not allow dirt, grease, or moisture to adhere to the surface."
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "5",
+      "text": "Apply sash tape. ‐1. Peel off a little of the release paper at the end of the sash tape. ‐2. Align the sash tape with the door sash. ‐3. While checking the parallelism, gradually peel off the release paper and apply the sash tape. ‐4. Crimp the sash tape to the door sash with the felt side of the squeegee."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Do not wrap the sash tape all at once."
+        },
+        {
+          "text": "Do not wrap the sash tape all at once."
+        },
+        {
+          "text": "Crimp gradually from the corners to avoid air entrapment."
+        },
+        {
+          "text": "Crimp gradually from the corners to avoid air entrapment."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "740_3.0_jpn_11372020_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Rear door molding installation",
+      "refs": [
+        {
+          "id": "R000737",
+          "label": "Rear door molding installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Water Leakage Test",
+      "refs": [
+        {
+          "id": "R000741",
+          "label": "Water Leakage Test",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000740_jpn/web/html/R000740_jpn_Content.html",
+  "inOutline": true
+}

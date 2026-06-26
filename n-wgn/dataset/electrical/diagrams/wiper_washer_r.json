@@ -1,0 +1,85 @@
+{
+  "id": "wiper_washer_r",
+  "category": "electrical_diagram",
+  "title": "Wiper/Washer (Rear Window)",
+  "system": "wiper_washer_r",
+  "sheetCount": 4,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/wiper_washer_r/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/wiper_washer_r/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/wiper_washer_r/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/wiper_washer_r/sheet4.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Engine Start/Stop Switch",
+      "Front/Rear Washer Motor Relay Circuit",
+      "PCM",
+      "Rear Window Wiper Motor",
+      "Transmission Range Sensor",
+      "Washer Motor Relay",
+      "Windshield/Rear Window Washer Motor",
+      "Wiper/Washer Switch"
+    ],
+    "Couplers": [
+      "C113 (Male)|C113 (Female)",
+      "C117 (Male)|C117 (Female)",
+      "C120 (Male)|C120 (Female)",
+      "C121 (Male)|C121 (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "PCM Connector E (80P) (Female)",
+      "Rear Window Wiper Motor 3P Connector (Female)",
+      "Sub Relay Block 1",
+      "T1",
+      "Transmission Range Sensor 10P Connector (Female)",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector H (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box",
+      "Windshield/Rear Window Washer Motor 2P Connector (Female)",
+      "Wiper/Washer Switch 10P Connector (Female)"
+    ],
+    "Fuses": [
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "+B_WASHER",
+      "05_IG1_RR_WIPER",
+      "IG1_WIPER(P/S)"
+    ],
+    "Grounds": [
+      "G201",
+      "G202",
+      "G402",
+      "G503"
+    ],
+    "Harnesses": [
+      "BC Combinetion Switch Subharness",
+      "BD Dashboard Wire Harness",
+      "BI Floor Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "LB High Mount Brake Light Subharness",
+      "TH Tailgate Wire Harness"
+    ]
+  }
+}

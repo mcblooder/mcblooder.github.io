@@ -1,0 +1,177 @@
+{
+  "id": "cvt_control_system",
+  "category": "electrical_diagram",
+  "title": "CVT Control System",
+  "system": "cvt_control_system",
+  "sheetCount": 10,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/cvt_control_system/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/cvt_control_system/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/cvt_control_system/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/cvt_control_system/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/cvt_control_system/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/cvt_control_system/sheet6.svg"
+    },
+    {
+      "name": "sheet7",
+      "asset": "assets/svg/cvt_control_system/sheet7.svg"
+    },
+    {
+      "name": "sheet8",
+      "asset": "assets/svg/cvt_control_system/sheet8.svg"
+    },
+    {
+      "name": "sheet9",
+      "asset": "assets/svg/cvt_control_system/sheet9.svg"
+    },
+    {
+      "name": "sheet10",
+      "asset": "assets/svg/cvt_control_system/sheet10.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "APP Sensor",
+      "ATF Temperature Sensor",
+      "Accumulator Control Solenoid Valve",
+      "Audio Remote/Multi-Information Display Switch",
+      "Brake Light Relay",
+      "Brake Pedal Position Switch",
+      "CVT Clutch Pressure Control Solenoid Valve",
+      "CVT Drive Pulley Pressure Control Solenoid Valve",
+      "CVT Driven Pulley Pressure Control Solenoid Valve",
+      "CVT Driven Pulley Pressure Sensor",
+      "CVT Input Shaft (Drive Pulley) Speed Sensor",
+      "CVT Lock-Up Clutch Control Solenoid Valve",
+      "Cable Reel",
+      "Cruise Control Combination Switch",
+      "Engine Start/Stop Switch",
+      "Gauge Control Module",
+      "IG1 Relay 1",
+      "IG1 Relay 2",
+      "Neutral Sensor",
+      "P2 Relief Valve Control SOL.V",
+      "PCM",
+      "PGM-FI Main Relay 1",
+      "Paddle Shifter + (Upshift Switch)",
+      "Paddle Shifter - (Downshift Switch)",
+      "Shift Lock Solenoid",
+      "Starter Cut Relay 1",
+      "Transmission Range Sensor",
+      "Vehicle Speed Sensor"
+    ],
+    "Couplers": [
+      "APP Sensor 6P Connector (Female)",
+      "ATF Temperature Sensor 2P Connector (Female)",
+      "Accumulator Control Solenoid Valve 2P Connector (Female)",
+      "Audio Remote/Multi-Information Display Switch 12P Connector (Female)",
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "Brake Pedal Position Switch 4P Connector (Female)",
+      "C001 (Female)",
+      "C002 (Female)",
+      "C103 (Male)|C103 (Female)",
+      "C104 (Male)|C104 (Female)",
+      "C105 (Male)|C105 (Female)",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "CVT Clutch Pressure Control Solenoid Valve 2P Connector (Female)",
+      "CVT Drive Pulley Pressure Control Solenoid Valve 2P Connector (Female)",
+      "CVT Driven Pulley Pressure Control Solenoid Valve 2P Connector (Female)",
+      "CVT Driven Pulley Pressure Sensor 3P Connector (Female)",
+      "CVT Input Shaft (Drive Pulley) Speed Sensor 3P Connector (Female)",
+      "CVT Lock-Up Clutch Control Solenoid Valve 2P Connector (Female)",
+      "Cable Reel Connector A (20P) (Female)",
+      "Cable Reel Connector C (20P) (Female)",
+      "Cruise Control Combination Switch 12P Connector (Female)",
+      "Data Link Connector (DLC) (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "Gauge Control Module 32P Connector (Female)",
+      "Neutral Sensor 3P Connector (Female)",
+      "P2 Relief Valve Control SOL.V 2P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "PCM Connector E (80P) (Female)",
+      "Paddle Shifter + (Upshift Switch) 2P Connector (Female)",
+      "Paddle Shifter - (Downshift Switch) 2P Connector (Female)",
+      "Shift Lock Solenoid 2P Connector (Female)",
+      "Sub Relay Block 1",
+      "Sub Relay Block 2",
+      "T1",
+      "Transmission Range Sensor 10P Connector (Female)",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector B (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector C (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Q (4P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Y (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box",
+      "Vehicle Speed Sensor 3P Connector (Female)"
+    ],
+    "Fuses": [
+      "+B_BACK_UP(BST)",
+      "+B_BACK_UP_MAIN(P/S)",
+      "+B_DBW",
+      "+B_DC/DC_1",
+      "+B_DC/DC_2",
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "+B_STARTER",
+      "+B_STOP_&_HORN",
+      "04_IG1_ST_CUT_RLY_COIL",
+      "07_IG1_RELAY_1",
+      "16_IG1_RELAY_2",
+      "20_IG1_METER",
+      "21_+B_IGP",
+      "32_IG1_ACG",
+      "IG1_ABS/EPS(P/S)",
+      "IG1_METER(P/S)",
+      "IG1_MICU(P/S)",
+      "STRLD+"
+    ],
+    "Grounds": [
+      "G151",
+      "G152",
+      "G303",
+      "G401",
+      "G402",
+      "G451"
+    ],
+    "Harnesses": [
+      "BB Cable Reel Subharness",
+      "BD Dashboard Wire Harness",
+      "BQ Roof Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness",
+      "EM Shift Solenoid Wire Harness A",
+      "EN Shift Solenoid Wire Harness B"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "T002082",
+  "title": "Audio & Visual System Fault Diagnostic Table by DTC",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "AV/Communication Systems",
+  "system": "Audio Components",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002082",
+  "assets": [],
+  "crossRefs": [
+    {
+      "id": "T002079",
+      "label": "DTCs (Hard Error Codes) for audio units cannot be checked by HDS; refer to the Error History of the audio system self-diagnostics for information on how to check DTCs.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Audio & Visual System Fault Diagnostic Table by DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "DTCs (Hard Error Codes) for audio units cannot be checked by HDS; refer to the Error History of the audio system self-diagnostics for information on how to check DTCs.",
+      "refs": [
+        {
+          "id": "T002079",
+          "label": "DTCs (Hard Error Codes) for audio units cannot be checked by HDS; refer to the Error History of the audio system self-diagnostics for information on how to check DTCs.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "DTC (Hardware) error (Code)",
+          "Failure diagnosis detection items"
+        ],
+        [
+          "1101",
+          "Media Bus Send Error",
+          "Audio unit internal communication error"
+        ],
+        [
+          "1102",
+          "USB Diag",
+          "USB memory stick detection error"
+        ],
+        [
+          "1401",
+          "Audio Error1",
+          "Internal AMP abnormal"
+        ],
+        [
+          "2608 *",
+          "R-Camera Diag",
+          "Rear camera connection error"
+        ],
+        [
+          "2610 *",
+          "DRAM Diag",
+          "Audio unit DRAM error"
+        ],
+        [
+          "2703 *",
+          "Aircon Diag",
+          "Air conditioner communication error"
+        ],
+        [
+          "2705 *",
+          "HFT Diag",
+          "HFT abnormalities"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "*: Detected when system connection diagnostics are performed."
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002082_jpn/web/html/T002082_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,396 @@
+{
+  "id": "R000368",
+  "title": "Crankshaft pulley removal",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cylinder head",
+  "system": "Timing belt/cam chain",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000368",
+  "assets": [
+    "368_5.0_jpn_11582756_5.0_disp.png",
+    "368_5.0_jpn_11582757_5.0_disp.png",
+    "368_5.0_jpn_11582758_5.0_disp.png",
+    "368_5.0_jpn_11582759_5.0_disp.png",
+    "368_5.0_jpn_11582760_5.0_disp.png",
+    "368_5.0_jpn_11582761_5.0_disp.png",
+    "368_5.0_jpn_11582762_5.0_disp.png",
+    "368_5.0_jpn_11582763_5.0_disp.png",
+    "368_5.0_jpn_11582764_5.0_disp.png",
+    "368_5.0_jpn_11582765_5.0_disp.png",
+    "368_5.0_jpn_11677567_3.0_disp.png",
+    "368_5.0_jpn_11677568_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000659",
+      "label": "Right side front wheel removal",
+      "resolved": true
+    },
+    {
+      "id": "R000849",
+      "label": "Right side front splash guard removal",
+      "resolved": true
+    },
+    {
+      "id": "R000351",
+      "label": "A.C. generator belt removal",
+      "resolved": true
+    },
+    {
+      "id": "R000433",
+      "label": "Water pump Belt removal",
+      "resolved": true
+    },
+    {
+      "id": "R000814",
+      "label": "Front bumper removal",
+      "resolved": true
+    },
+    {
+      "id": "R000842",
+      "label": "Front upper grille removal",
+      "resolved": true
+    },
+    {
+      "id": "R000357",
+      "label": "Perform the side engine mount tightening procedure.",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Crankshaft pulley removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Right side front wheel removal",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Right side front wheel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Right side front splash guard removal",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Right side front splash guard removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Crankshaft Pulley TDC mark Alignment"
+    },
+    {
+      "type": "figure",
+      "asset": "368_5.0_jpn_11582756_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Rotate the crankshaft pulley in a clockwise direction to align the alignment mark (A) with the TDC mark (white marking) (B)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Confirmation shall be made from the specified viewing direction (C)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. A.C. generator belt removal",
+      "refs": [
+        {
+          "id": "R000351",
+          "label": "A.C. generator belt removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Water pump Belt removal",
+      "refs": [
+        {
+          "id": "R000433",
+          "label": "Water pump Belt removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Remove side engine mount bracket mounting nut"
+    },
+    {
+      "type": "figure",
+      "asset": "368_5.0_jpn_11582757_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Place the oil pan on a plate and support it with a garage jack. Remove the side engine mount bracket mounting nut."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Crankshaft pulley removal"
+    },
+    {
+      "type": "figure",
+      "asset": "368_5.0_jpn_11582758_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Lower the engine. Pulley Holder Attachment 50x25 (07JAB-0010400), Handle 6-25-660L (07JAB-001020B), and Socket Wrench 19 Use the 90L (07JAA-001020A) to remove the crankshaft pulley."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Do not lower the engine too much."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Crankshaft pulley Installation"
+    },
+    {
+      "type": "figure",
+      "asset": "368_5.0_jpn_11582759_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Before installing the crankshaft pulley, do the following Wipe off dirt with a rag. Oil application: Apply oil."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Never use an impact wrench."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Crankshaft pulley Tightening (when pulley bolts or crankshaft is replaced)"
+    },
+    {
+      "type": "figure",
+      "asset": "368_5.0_jpn_11582760_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Pulley Holder Attachment 50x25 (07JAB-0010400), Handle 6-25-660L (07JAB-001020B), Socket Wrench 19 Tighten the pulley bolts to 30 N-m (3.1 kgf-m) using the 90L (07JAA-001020A) and a torque wrench."
+    },
+    {
+      "type": "figure",
+      "asset": "368_5.0_jpn_11582761_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Tighten the pulley bolts 90°. Remove the pulley bolt."
+    },
+    {
+      "type": "figure",
+      "asset": "368_5.0_jpn_11582762_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Tighten the pulley bolts to 46 N-m (4.7 kgf-m). Tighten the pulley bolts 90°."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Crankshaft pulley tightening (when pulley bolts and crankshaft are reused)"
+    },
+    {
+      "type": "figure",
+      "asset": "368_5.0_jpn_11582763_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Pulley Holder Attachment 50x25 (07JAB-0010400), Handle 6-25-660L (07JAB-001020B), Socket Wrench 19 Tighten the pulley bolts to 46 N-m (4.7 kgf-m) using 90L (07JAA-001020A) and a torque wrench."
+    },
+    {
+      "type": "figure",
+      "asset": "368_5.0_jpn_11582764_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Tighten the pulley bolts 90°."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Front bumper removal",
+      "refs": [
+        {
+          "id": "R000814",
+          "label": "Front bumper removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Front upper grille removal",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front upper grille removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Right side front bulkhead box removal"
+    },
+    {
+      "type": "figure",
+      "asset": "368_5.0_jpn_11677567_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Tighten side engine mount brackets."
+    },
+    {
+      "type": "figure",
+      "asset": "368_5.0_jpn_11582765_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Temporarily tighten the new side engine mount bracket mounting nut (A) and loosen the side engine mount bracket mounting bolt (B). Perform the side engine mount tightening procedure.",
+      "refs": [
+        {
+          "id": "R000357",
+          "label": "Perform the side engine mount tightening procedure.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the side engine mount bracket fasteners are removed, the transmission mount and torque rod must be tightened in the correct sequence."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Right side front bulkhead box installation"
+    },
+    {
+      "type": "figure",
+      "asset": "368_5.0_jpn_11677568_3.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Front upper grille installation",
+      "refs": [
+        {
+          "id": "R000842",
+          "label": "Front upper grille installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Front Bumper Mounting",
+      "refs": [
+        {
+          "id": "R000814",
+          "label": "Front Bumper Mounting",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "11. Water Pump Belt Installation",
+      "refs": [
+        {
+          "id": "R000433",
+          "label": "Water Pump Belt Installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "12. A.C. generator Belt installation",
+      "refs": [
+        {
+          "id": "R000351",
+          "label": "A.C. generator Belt installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "13. Right side front splash guard installed",
+      "refs": [
+        {
+          "id": "R000849",
+          "label": "Right side front splash guard installed",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "14. Right side front wheel installation",
+      "refs": [
+        {
+          "id": "R000659",
+          "label": "Right side front wheel installation",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000368_jpn/web/html/R000368_jpn_Content.html",
+  "inOutline": true
+}

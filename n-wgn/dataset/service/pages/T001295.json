@@ -1,0 +1,133 @@
+{
+  "id": "T001295",
+  "title": "Electric Power Steering (EPS) Failure Diagnostic Table by DTC",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "steering",
+  "sectionCode": "F",
+  "subsection": "Electric Power Steering (EPS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001295",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Electric Power Steering (EPS) Failure Diagnostic Table by DTC"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "DTC",
+          "Failure diagnosis detection items"
+        ],
+        [
+          "C0051",
+          "-96",
+          "Rudder angle sensor failure check"
+        ],
+        [
+          "C1400",
+          "-11",
+          "EPS motor current abnormal"
+        ],
+        [
+          "-13",
+          "Abnormal EPS motor current measurement"
+        ],
+        [
+          "-14",
+          "EPS motor voltage abnormal"
+        ],
+        [
+          "C1420",
+          "-29",
+          "Torque sensor Main-sub comparison error"
+        ],
+        [
+          "C1421",
+          "-14",
+          "Torque sensor Main detection voltage abnormal"
+        ],
+        [
+          "C1422",
+          "-14",
+          "Torque sensor sub detection voltage abnormal"
+        ],
+        [
+          "C1423",
+          "-14",
+          "Torque Sensor power supply voltage abnormal"
+        ],
+        [
+          "C1430",
+          "-13",
+          "Fail safe Relay voltage abnormal"
+        ],
+        [
+          "C1432",
+          "-62",
+          "Abnormal vehicle speed-engine speed comparison"
+        ],
+        [
+          "U0029",
+          "-00",
+          "F-CAN bus off error"
+        ],
+        [
+          "U0100",
+          "-00",
+          "F-CAN communication error (EPS-PGM-FI)"
+        ],
+        [
+          "U0122",
+          "-00",
+          "F-CAN communication error (EPS-VSA)"
+        ],
+        [
+          "U0126",
+          "-00",
+          "F-CAN communication error (EPS - rudder angle sensor)"
+        ],
+        [
+          "U3000",
+          "-49",
+          "Internal circuit error of EPS control unit"
+        ],
+        [
+          "-51",
+          "ECU update not completed"
+        ],
+        [
+          "U3003",
+          "-16",
+          "Abnormal battery voltage drop"
+        ],
+        [
+          "-17",
+          "Abnormal battery voltage rise"
+        ],
+        [
+          "U3006",
+          "-17",
+          "IG voltage rise abnormal"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ECU: Indicates the EPS control unit."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131120135106/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001295_jpn/web/html/T001295_jpn_Content.html",
+  "inOutline": true
+}

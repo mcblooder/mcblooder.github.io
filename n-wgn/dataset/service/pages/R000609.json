@@ -1,0 +1,210 @@
+{
+  "id": "R000609",
+  "title": "Drive shaft dynamic damper weight removal and installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Transmission/Driveline",
+  "sectionCode": "E",
+  "subsection": "drive shaft",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000609",
+  "assets": [
+    "609_3.0_jpn_11035408_3.0_disp.png",
+    "609_3.0_jpn_11035410_3.0_disp.png",
+    "609_3.0_jpn_11035411_3.0_disp.png",
+    "609_3.0_jpn_11035412_3.0_disp.png",
+    "609_3.0_jpn_11035413_3.0_disp.png",
+    "609_3.0_jpn_11035414_3.0_disp.png",
+    "609_3.0_jpn_11035415_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000607",
+      "label": "Front drive shaft removal",
+      "resolved": true
+    },
+    {
+      "id": "R000608",
+      "label": "Inboard joint removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Drive shaft dynamic damper weight removal and installation"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Front drive shaft removal",
+      "refs": [
+        {
+          "id": "R000607",
+          "label": "Front drive shaft removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Inboard joint removal",
+      "refs": [
+        {
+          "id": "R000608",
+          "label": "Inboard joint removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Dynamic damper band removal"
+    },
+    {
+      "type": "figure",
+      "asset": "609_3.0_jpn_11035408_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "609_3.0_jpn_11035410_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the dynamic damper band."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Dynamic damper Be careful not to damage the weights."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "In case of welding band (A), cut and remove it."
+        },
+        {
+          "text": "In case of welding band (A), cut and remove it."
+        },
+        {
+          "text": "In the case of the low-profile band (B), pinch the band with pliers (C) or similar tool to remove it."
+        },
+        {
+          "text": "In the case of the low-profile band (B), pinch the band with pliers (C) or similar tool to remove it."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Dynamic damper weight removal"
+    },
+    {
+      "type": "figure",
+      "asset": "609_3.0_jpn_11035411_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Wrap the vinyl tape (B) from the end of the drive shaft (A) to the spline. Remove the dynamic damper weight from the drive shaft. Remove the vinyl tape."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to damage the dynamic damper weight (C)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Dynamic damper weight installation"
+    },
+    {
+      "type": "figure",
+      "asset": "609_3.0_jpn_11035412_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Wrap the vinyl tape (B) from the end of the drive shaft (A) to the spline. Install dynamic damper weight on drive shaft Remove the vinyl tape."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Be careful not to damage the dynamic damper weight (C)."
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "609_3.0_jpn_11035413_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "4",
+      "text": "Set the dynamic damper weight at the specified dimension (A). Std. 455－461mm"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Dynamic damper band installation"
+    },
+    {
+      "type": "figure",
+      "asset": "609_3.0_jpn_11035414_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Wrap the new low-profile band (A) around the dynamic damper weight (B) and hook the hole (D) in the band to the protrusion (C) in the band."
+    },
+    {
+      "type": "figure",
+      "asset": "609_3.0_jpn_11035415_3.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Attach the hole (C) in the band to the protruding portion (B) of the band at the specified position using pliers (A) or similar."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Inboard joint installation",
+      "refs": [
+        {
+          "id": "R000608",
+          "label": "Inboard joint installation",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Front Drive Shaft Mounting",
+      "refs": [
+        {
+          "id": "R000607",
+          "label": "Front Drive Shaft Mounting",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000609_jpn/web/html/R000609_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,137 @@
+{
+  "id": "T002766",
+  "title": "Headlight Leveling Motor Input Inspection",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Exterior Lights",
+  "system": "Headlight Leveling System",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002766",
+  "assets": [
+    "2766_3.0_jpn_11579706_3.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R002231",
+      "label": "Disconnect headlight leveling motor 3-pin coupler",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Headlight Leveling Motor Input Inspection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perform the following checks before performing input inspections"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Confirmation of DTC at HDS."
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "1. Disconnect headlight leveling motor 3-pin coupler The following is a list of the most common problems with the *1: Vehicles equipped with headlight auto-leveling system *2: Vehicles without headlight auto-leveling system 2. Check the input and if all is normal and there is an abnormality in the operation of the headlight leveling, Replace headlight leveling motor Do. Vehicles equipped with headlight auto-leveling system inspection terminal Wiring color Measuring conditions result Inspection items in case of abnormality 1 peach 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. 3 green Ignition ON mode Battery voltage must be present between the inspection terminal and ground. 2 white Ignition ON mode 10 to 90% of battery voltage between inspection terminal and body ground Vehicles not equipped with the headlight auto-leveling system inspection terminal Wiring color Measuring conditions result Inspection items in case of abnormality 1 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. 3 peach Ignition ON mode Battery voltage must be present between the inspection terminal and ground. Cord disconnection and terminal connection condition 2 white Headlight leveling switch dial 3 positions Resistance of approx. 2.5 kΩ between inspection terminal and body ground",
+      "refs": [
+        {
+          "id": "R002231",
+          "label": "Disconnect headlight leveling motor 3-pin coupler",
+          "resolved": true
+        },
+        {
+          "id": "R002231",
+          "label": "Replace headlight leveling motor",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "2766_3.0_jpn_11579706_3.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G202)"
+        },
+        {
+          "text": "Headlight auto-leveling control unit"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Headlight auto-leveling control unit"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Headlight auto-leveling control unit"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G201, G301)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G402)"
+        },
+        {
+          "text": "Headlight manual leveling switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131120135106/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002766_jpn/web/html/T002766_jpn_Content.html",
+  "inOutline": true
+}

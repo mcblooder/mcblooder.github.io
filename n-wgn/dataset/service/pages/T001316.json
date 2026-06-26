@@ -1,0 +1,280 @@
+{
+  "id": "T001316",
+  "title": "Vehicle Stability Assist (VSA) System Failure Diagnostic Table by DTC",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "brake",
+  "sectionCode": "D",
+  "subsection": "VSA system (including ABS and TCS)",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001316",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Vehicle Stability Assist (VSA) System Failure Diagnostic Table by DTC"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "DTC",
+          "diagnostic item"
+        ],
+        [
+          "C0010",
+          "-49",
+          "ABS solenoid Valve failure"
+        ],
+        [
+          "C0011",
+          "-49",
+          "ABS solenoid Valve failure"
+        ],
+        [
+          "C0014",
+          "-49",
+          "ABS solenoid Valve failure"
+        ],
+        [
+          "C0015",
+          "-49",
+          "ABS solenoid Valve failure"
+        ],
+        [
+          "C0018",
+          "-49",
+          "ABS solenoid Valve failure"
+        ],
+        [
+          "C0019",
+          "-49",
+          "ABS solenoid Valve failure"
+        ],
+        [
+          "C001C",
+          "-49",
+          "ABS solenoid Valve failure"
+        ],
+        [
+          "C001D",
+          "-49",
+          "ABS solenoid Valve failure"
+        ],
+        [
+          "C0023",
+          "-12",
+          "Brake Lamp Relay Diag Line ON Failure"
+        ],
+        [
+          "-14",
+          "Brake Lamp Relay Diag Line OFF Failure"
+        ],
+        [
+          "C0030",
+          "-38",
+          "Front left wheel Sensor waveform missing"
+        ],
+        [
+          "C0031",
+          "-14",
+          "Front left wheel sensor circuit abnormal"
+        ],
+        [
+          "-62",
+          "Front left wheel sensor signal abnormal"
+        ],
+        [
+          "C0033",
+          "-38",
+          "Front right wheel Sensor waveform missing"
+        ],
+        [
+          "C0034",
+          "-14",
+          "Front right wheel Sensor circuit abnormal"
+        ],
+        [
+          "-62",
+          "Front right wheel sensor signal abnormal"
+        ],
+        [
+          "C0036",
+          "-38",
+          "Rear left wheel Sensor waveform missing"
+        ],
+        [
+          "C0037",
+          "-14",
+          "Rear left wheel sensor circuit abnormal"
+        ],
+        [
+          "-62",
+          "Rear left wheel sensor signal abnormal"
+        ],
+        [
+          "C0039",
+          "-38",
+          "Rear right wheel missing sensor waveform"
+        ],
+        [
+          "C003A",
+          "-14",
+          "Rear right wheel sensor circuit abnormal"
+        ],
+        [
+          "-62",
+          "Rear right wheel sensor signal abnormal"
+        ],
+        [
+          "C0040",
+          "-62",
+          "Brake switch abnormal"
+        ],
+        [
+          "C0044",
+          "-49",
+          "Pressure sensor abnormal"
+        ],
+        [
+          "C0049",
+          "-7B",
+          "Brake fluid level switch circuit abnormal"
+        ],
+        [
+          "C0051",
+          "-62",
+          "Abnormal rudder angle sensor output"
+        ],
+        [
+          "-96",
+          "Internal abnormality of steering angle sensor"
+        ],
+        [
+          "C0061",
+          "-49",
+          "G sensor (with built-in modulator) abnormal"
+        ],
+        [
+          "-62",
+          "Abnormal output of lateral G sensor (built-in modulator)"
+        ],
+        [
+          "C0062",
+          "-62",
+          "Abnormal output of front/rear G sensor (with built-in modulator)"
+        ],
+        [
+          "C0063",
+          "-49",
+          "Yaw rate sensor (with built-in modulator) abnormal"
+        ],
+        [
+          "-62",
+          "Yaw rate sensor (with built-in modulator) output abnormal"
+        ],
+        [
+          "C1000",
+          "-94",
+          "VSA continuous operation abnormal"
+        ],
+        [
+          "C1020",
+          "-49",
+          "VSA solenoid Valve failure"
+        ],
+        [
+          "C1021",
+          "-49",
+          "VSA solenoid Valve failure"
+        ],
+        [
+          "C1022",
+          "-14",
+          "Motor drive circuit abnormal"
+        ],
+        [
+          "C1C21",
+          "-62",
+          "Reverse Gear signal abnormal"
+        ],
+        [
+          "C1C22",
+          "-62",
+          "Neutral Gear signal abnormal"
+        ],
+        [
+          "U0029",
+          "-00",
+          "F-CAN communication error Bus off"
+        ],
+        [
+          "U0100",
+          "-00",
+          "F-CAN communication abnormal PGM-FI"
+        ],
+        [
+          "U0101",
+          "-00",
+          "F-CAN communication error CVT"
+        ],
+        [
+          "U0126",
+          "-00",
+          "F-CAN communication error Steering angle sensor"
+        ],
+        [
+          "U0155",
+          "-00",
+          "F-CAN communication error Meter"
+        ],
+        [
+          "U0401",
+          "-68",
+          "PGM-FI Anomaly"
+        ],
+        [
+          "U12A7",
+          "-00",
+          "F-CAN communication error CITY BRAKE ACTIVE SYSTEM"
+        ],
+        [
+          "U3000",
+          "-49",
+          "Control unit Internal error"
+        ],
+        [
+          "U3000",
+          "-51",
+          "Control unit update incomplete"
+        ],
+        [
+          "U3000",
+          "-54",
+          "VSA sensor midpoint write incomplete"
+        ],
+        [
+          "U3006",
+          "-16",
+          "Control unit power supply voltage low"
+        ],
+        [
+          "U3006",
+          "-17",
+          "Control unit power supply voltage rise"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001316_jpn/web/html/T001316_jpn_Content.html",
+  "inOutline": true
+}

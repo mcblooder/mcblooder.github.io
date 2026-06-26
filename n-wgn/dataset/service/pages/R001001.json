@@ -1,0 +1,90 @@
+{
+  "id": "R001001",
+  "title": "Inspect rear power window switch.",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "wind",
+  "system": "Power Window",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001001",
+  "assets": [
+    "1001_3.0_jpn_11287723_2.0_disp.png",
+    "1001_3.0_jpn_11369867_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R000731",
+      "label": "Rear door power window switch panel removal",
+      "resolved": true
+    },
+    {
+      "id": "R001007",
+      "label": "Replace rear power window switch (B).",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inspect rear power window switch."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rear door power window switch panel removal",
+      "refs": [
+        {
+          "id": "R000731",
+          "label": "Rear door power window switch panel removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Rear power window switch Check"
+    },
+    {
+      "type": "figure",
+      "asset": "1001_3.0_jpn_11369867_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "1001_3.0_jpn_11287723_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Inspect the continuity between terminals in each position of the coupler (A) and confirm that there is continuity only between ○ and ○. If there is no continuity, Replace rear power window switch (B).",
+      "refs": [
+        {
+          "id": "R001007",
+          "label": "Replace rear power window switch (B).",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001001_jpn/web/html/R001001_jpn_Content.html",
+  "inOutline": true
+}

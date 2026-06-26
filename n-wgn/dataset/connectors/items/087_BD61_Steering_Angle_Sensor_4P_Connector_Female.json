@@ -1,0 +1,94 @@
+{
+  "id": "087_BD61_Steering_Angle_Sensor_4P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BD61",
+  "physicalIds": [
+    "BD61"
+  ],
+  "name": "Steering Angle Sensor 4P Connector (Female)",
+  "nameRu": "Разъём Steering Angle датчик, 4 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 4,
+  "faceviewPart": "91766-SLJ -0030-H1",
+  "partNumbers": [
+    "91766-SLJ -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "City-Brake Active System",
+    "EPS",
+    "F-CAN Communication Line",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91766-SLJ -0030-H1.svg",
+    "viewBox": "0 0 69.051 29.934",
+    "width": 69.051,
+    "height": 29.934
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "TAN",
+      "circuit": "IG1_VSA/ABS",
+      "english": "ignition IG1, VSA / ABS",
+      "russian": "зажигание IG1, VSA / ABS",
+      "terminal": "G17F",
+      "geometry": {
+        "x": 6.789,
+        "y": 23.897,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "F-CAN_H",
+      "english": "F-CAN high line",
+      "russian": "Высокая линия F-CAN",
+      "terminal": "X70B000",
+      "geometry": {
+        "x": 23.797,
+        "y": 23.897,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "RED",
+      "circuit": "F-CAN_L",
+      "english": "F-CAN low line",
+      "russian": "Низкая линия F-CAN",
+      "terminal": "X80C000",
+      "geometry": {
+        "x": 40.805,
+        "y": 23.897,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z40D001",
+      "geometry": {
+        "x": 57.813,
+        "y": 23.897,
+        "svgTextId": "SVGID_3_"
+      }
+    }
+  ]
+}

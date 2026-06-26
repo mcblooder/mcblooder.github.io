@@ -1,0 +1,92 @@
+{
+  "id": "136_N_Under-Dash_Fuse_Relay_Box_Connector_N_4P_Female",
+  "category": "connector",
+  "connectorRef": "N / BD24",
+  "physicalIds": [
+    "BD24"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector N (4P) (Female)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector N (4P), гнездовая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 4,
+  "populatedPinCount": 1,
+  "faceviewPart": "91188-SNA -0030-H1",
+  "partNumbers": [
+    "91188-SNA -0030-H1"
+  ],
+  "harnesses": [
+    "32117-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Right Side)",
+    "Fuse/Relay Boxes > Under-Dash Fuse/Relay Box > Back Side"
+  ],
+  "systems": [
+    "Climate Control",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91188-SNA -0030-H1.svg",
+    "viewBox": "0 0 91.462 43.837",
+    "width": 91.462,
+    "height": 43.837
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BRN",
+      "circuit": "BLOWER_MTR",
+      "english": "BLOWER, motor",
+      "russian": "BLOWER, электродвигатель",
+      "terminal": "300A",
+      "geometry": {
+        "x": 8.866,
+        "y": 34.947,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 32.131,
+        "y": 34.947,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 54.843,
+        "y": 34.947,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 77.555,
+        "y": 34.947,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

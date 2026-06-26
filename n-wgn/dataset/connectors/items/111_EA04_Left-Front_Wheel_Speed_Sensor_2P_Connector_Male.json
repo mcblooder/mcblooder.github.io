@@ -1,0 +1,64 @@
+{
+  "id": "111_EA04_Left-Front_Wheel_Speed_Sensor_2P_Connector_Male",
+  "category": "connector",
+  "connectorRef": "EA04",
+  "physicalIds": [
+    "EA04"
+  ],
+  "name": "Left-Front Wheel Speed Sensor 2P Connector (Male)",
+  "nameRu": "Разъём левый-передний Wheel Speed датчик, 2 контактов, штыревая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91982-SKN -0030-H1",
+  "partNumbers": [
+    "91982-SKN -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Left Side"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "License Plate Light, Taillights and Turn Signal/Hazard Warning Lights",
+    "VSA"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91982-SKN -0030-H1.svg",
+    "viewBox": "0 0 68.658 37.514",
+    "width": 68.658,
+    "height": 37.514
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "FR_L_ABS_SNSR+",
+      "english": "front, left, ABS, SNSR +",
+      "russian": "передний, левый, ABS, SNSR +",
+      "terminal": "A20B",
+      "geometry": {
+        "x": 17.825,
+        "y": 25.901,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "FR_L_ABS_SNSR-",
+      "english": "front, left, ABS, SNSR -",
+      "russian": "передний, левый, ABS, SNSR -",
+      "terminal": "A21A",
+      "geometry": {
+        "x": 46.138,
+        "y": 25.901,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

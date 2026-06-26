@@ -1,0 +1,177 @@
+{
+  "id": "R000435",
+  "title": "Coolant replacement",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "Cooling System",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000435",
+  "assets": [
+    "435_5.0_jpn_11583083_5.0_disp.png",
+    "435_5.0_jpn_11583084_5.0_disp.png",
+    "435_5.0_jpn_11583085_5.0_disp.png",
+    "435_5.0_jpn_11583086_5.0_disp.png",
+    "435_5.0_jpn_11583087_5.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000319",
+      "label": "Lift Up",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Coolant replacement"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the cap is removed when the water temperature is high, the coolant is under pressure and may spurt out, which is dangerous. After the water temperature has dropped, wrap the cap with a piece of cloth and open it gently."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Radiator cap removal"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Drain cooling water from reserve tank"
+    },
+    {
+      "type": "figure",
+      "asset": "435_5.0_jpn_11583083_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Remove the coolant reserve tank and drain the coolant."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Lift Up",
+      "refs": [
+        {
+          "id": "G000319",
+          "label": "Lift Up",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Cooling water removal"
+    },
+    {
+      "type": "figure",
+      "asset": "435_5.0_jpn_11583084_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Loosen the drain cock (A) and drain the coolant from the radiator."
+    },
+    {
+      "type": "figure",
+      "asset": "435_5.0_jpn_11583085_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "3",
+      "text": "Remove the front license plate. Remove the drain bolt (A) and drain the coolant from the engine. Tighten the drain bolt using a new washer (B)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Lift Down"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Coolant Replacement"
+    },
+    {
+      "type": "figure",
+      "asset": "435_5.0_jpn_11583086_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Replace at each recommended replacement time to prevent rusting of the cooling water. designated money Genuine Honda Ultra e-Coolant Regulated volume (L) (including 0.33L for reserve tank) Cars not equipped with a turbo charger at breakdown time 3.86 time to switch over 2.80 Turbo Charger equipped vehicle at breakdown time 3.93 time to switch over 2.85 Fill to the top of the water filler with genuine Honda Ultra e-Coolant."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "It is toxic and should never be consumed."
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Avoid mixing with other brands.",
+        "Do not use coolant other than that specified, as it may cause rust, etc."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Avoid mixing with other brands."
+        },
+        {
+          "text": "Avoid mixing with other brands."
+        },
+        {
+          "text": "Do not use coolant other than that specified, as it may cause rust, etc."
+        },
+        {
+          "text": "Do not use coolant other than that specified, as it may cause rust, etc."
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "When injecting cooling water, do not allow the liquid to adhere to couplers, relay boxes, other electrical components, or painted surfaces. If there is a possibility of adhesion, install a protective cover before injection."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Air extraction"
+    },
+    {
+      "type": "figure",
+      "asset": "435_5.0_jpn_11583087_5.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Tighten the radiator cap one step and warm up the engine at a slightly higher rpm than the specified idling rpm (approximately 1,500 rpm) until the radiator fan operates twice. Stop the engine and refill the Genuine Honda Ultra e-Coolant to the top of the water filler again, and at the same time fill the reserve tank to the upper limit (MAX) (A). Start the engine again, and at approximately 1,500 rpm, check that the fluid level does not drop, and tighten the radiator cap. Install the front license plate."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "If the fluid level drops, add more coolant."
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131205174356/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000435_jpn/web/html/R000435_jpn_Content.html",
+  "inOutline": true
+}

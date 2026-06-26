@@ -1,0 +1,51 @@
+{
+  "id": "130_EA21_Horn_1P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA21",
+  "physicalIds": [
+    "EA21"
+  ],
+  "name": "Horn 1P Connector (Female)",
+  "nameRu": "Разъём Horn, 1 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "91702-P5M -0030",
+  "partNumbers": [
+    "91702-P5M -0030"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Cable Reel",
+    "Horns",
+    "Keyless/Power Door Locks/Security System",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91702-P5M -0030.svg",
+    "viewBox": "0 0 27.555 27.554",
+    "width": 27.555,
+    "height": 27.554
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "HORN_RLY_OUT",
+      "english": "horn, relay, output",
+      "russian": "звуковой сигнал, реле, выход",
+      "terminal": "60A",
+      "geometry": {
+        "x": 11.421,
+        "y": 18.988,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

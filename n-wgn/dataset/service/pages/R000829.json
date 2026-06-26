@@ -1,0 +1,99 @@
+{
+  "id": "R000829",
+  "title": "Tailgate open stay detachable",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "tailgate",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000829",
+  "assets": [
+    "829_3.0_jpn_11390113_2.0_disp.png",
+    "829_3.0_jpn_11394720_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "G000326",
+      "label": "Refer to Open Stay Disposal for disposal procedures.",
+      "resolved": true
+    },
+    {
+      "id": "R000761",
+      "label": "Cargo side lining removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Tailgate open stay detachable"
+    },
+    {
+      "type": "paragraph",
+      "text": "Refer to Open Stay Disposal for disposal procedures.",
+      "refs": [
+        {
+          "id": "G000326",
+          "label": "Refer to Open Stay Disposal for disposal procedures.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Cargo side lining removal",
+      "refs": [
+        {
+          "id": "R000761",
+          "label": "Cargo side lining removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Tailgate open stay removal"
+    },
+    {
+      "type": "figure",
+      "asset": "829_3.0_jpn_11390113_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Insert a flat-blade screwdriver to release the open stay clip (A) and remove the tailgate open stay (B)."
+    },
+    {
+      "type": "figure",
+      "asset": "829_3.0_jpn_11394720_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "If necessary, remove the tailgate open stay bracket (A)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000829_jpn/web/html/R000829_jpn_Content.html",
+  "inOutline": true
+}

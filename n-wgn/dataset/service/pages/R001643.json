@@ -1,0 +1,239 @@
+{
+  "id": "R001643",
+  "title": "Side Curtain Airbag Removal and Installation",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "Driver assistance SRS airbags seat belts",
+  "sectionCode": "H",
+  "subsection": "SRS",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R001643",
+  "assets": [
+    "1643_3.0_jpn_11347556_2.0_disp.png",
+    "1643_3.0_jpn_11347557_2.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R001639",
+      "label": "Replace related parts.",
+      "resolved": true
+    },
+    {
+      "id": "R000910",
+      "label": "12V battery Negative (-) terminal Disconnect",
+      "resolved": true
+    },
+    {
+      "id": "R000766",
+      "label": "Roof Lining Removal",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Side Curtain Airbag Removal and Installation"
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Proceed with the work while observing work precautions. ​",
+        "Disconnect the cable from the minus (-) terminal of the 12V battery and wait at least 3 minutes before starting work.",
+        "If the garnish is damaged or improperly installed, the airbag may not deploy properly. Therefore, if garnishes are removed and attached for other work, etc., check to see if they are damaged or not and if they are attached correctly."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If the airbag is deployed, Replace related parts.",
+      "refs": [
+        {
+          "id": "R001639",
+          "label": "Replace related parts.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. 12V battery Negative (-) terminal Disconnect",
+      "refs": [
+        {
+          "id": "R000910",
+          "label": "12V battery Negative (-) terminal Disconnect",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Roof Lining Removal",
+      "refs": [
+        {
+          "id": "R000766",
+          "label": "Roof Lining Removal",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Side curtain airbag removal"
+    },
+    {
+      "type": "figure",
+      "asset": "1643_3.0_jpn_11347556_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Disconnect the socket insulator (A)."
+    },
+    {
+      "type": "attention",
+      "items": [
+        "The socket insulator should be pulled in the direction of the arrow shown in the figure, holding the slider (B)."
+      ]
+    },
+    {
+      "type": "step",
+      "number": "2",
+      "text": "Remove the grab rail bracket mounting bolts (A, B) and remove the grab rail bracket (C). Remove the bolts (D) and remove the side curtain airbags."
+    },
+    {
+      "type": "figure",
+      "asset": "1643_3.0_jpn_11347557_2.0_disp.png"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Installation Precautions"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Installation is the reverse of the removal procedure.",
+      "refs": [
+        {
+          "id": "R001639",
+          "label": "If the airbags are deployed, adjust the lap allowance of the roof lining and pillar garnish.",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "attention",
+      "items": [
+        "Side curtain airbag mounting bolts shall be replaced with new ones at the time of installation and tightened to the specified torque.",
+        "The side curtain airbag wire harnesses must be assembled in such a way that they do not become entangled.",
+        "Side curtains If the airbag is frayed or damaged, it must be replaced. Do not repair airbags.",
+        "When installing the side curtain airbags, make sure that no bolts or other objects are caught between the side curtain airbags and the bracket, since deployment of the airbags with an object caught in them can cause serious injury to the occupants.",
+        "Apply light force to the inflator and adapter pipe to make sure there is no rattle or looseness.",
+        "Side curtains After the airbags are installed, make sure that they are not twisted.",
+        "The roof lining must be installed after confirming the operation of the SRS warning light."
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Side curtain airbag mounting bolts shall be replaced with new ones at the time of installation and tightened to the specified torque."
+        },
+        {
+          "text": "Side curtain airbag mounting bolts shall be replaced with new ones at the time of installation and tightened to the specified torque."
+        },
+        {
+          "text": "The side curtain airbag wire harnesses must be assembled in such a way that they do not become entangled."
+        },
+        {
+          "text": "The side curtain airbag wire harnesses must be assembled in such a way that they do not become entangled."
+        },
+        {
+          "text": "Side curtains If the airbag is frayed or damaged, it must be replaced. Do not repair airbags."
+        },
+        {
+          "text": "Side curtains If the airbag is frayed or damaged, it must be replaced. Do not repair airbags."
+        },
+        {
+          "text": "When installing the side curtain airbags, make sure that no bolts or other objects are caught between the side curtain airbags and the bracket, since deployment of the airbags with an object caught in them can cause serious injury to the occupants."
+        },
+        {
+          "text": "When installing the side curtain airbags, make sure that no bolts or other objects are caught between the side curtain airbags and the bracket, since deployment of the airbags with an object caught in them can cause serious injury to the occupants."
+        },
+        {
+          "text": "Apply light force to the inflator and adapter pipe to make sure there is no rattle or looseness."
+        },
+        {
+          "text": "Apply light force to the inflator and adapter pipe to make sure there is no rattle or looseness."
+        },
+        {
+          "text": "Side curtains After the airbags are installed, make sure that they are not twisted."
+        },
+        {
+          "text": "Side curtains After the airbags are installed, make sure that they are not twisted."
+        },
+        {
+          "text": "The roof lining must be installed after confirming the operation of the SRS warning light."
+        },
+        {
+          "text": "The roof lining must be installed after confirming the operation of the SRS warning light."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Clips shall be inspected for damage or deterioration and replaced if necessary. Also, confirm that each clip is securely attached with no floating."
+        },
+        {
+          "text": "Clips shall be inspected for damage or deterioration and replaced if necessary. Also, confirm that each clip is securely attached with no floating."
+        },
+        {
+          "text": "If the airbags are deployed, adjust the lap allowance of the roof lining and pillar garnish.",
+          "refs": [
+            {
+              "id": "R001639",
+              "label": "If the airbags are deployed, adjust the lap allowance of the roof lining and pillar garnish.",
+              "resolved": true
+            }
+          ]
+        },
+        {
+          "text": "If the airbags are deployed, adjust the lap allowance of the roof lining and pillar garnish.",
+          "refs": [
+            {
+              "id": "R001639",
+              "label": "If the airbags are deployed, adjust the lap allowance of the roof lining and pillar garnish.",
+              "resolved": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. SRS warning light Check"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Connect the cable to the (-) terminal of the 12V battery, turn the ignition to the ON mode, and check that the SRS warning light comes on for 6 seconds and then goes off."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R001643_jpn/web/html/R001643_jpn_Content.html",
+  "inOutline": true
+}

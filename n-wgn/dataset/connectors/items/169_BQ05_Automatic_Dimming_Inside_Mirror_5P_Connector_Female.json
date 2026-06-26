@@ -1,0 +1,105 @@
+{
+  "id": "169_BQ05_Automatic_Dimming_Inside_Mirror_5P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "BQ05",
+  "physicalIds": [
+    "BQ05"
+  ],
+  "name": "Automatic Dimming Inside Mirror 5P Connector (Female)",
+  "nameRu": "Разъём Automatic Dimming Inside Mirror, 5 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 5,
+  "populatedPinCount": 4,
+  "faceviewPart": "90264-SMG -0030-H1",
+  "partNumbers": [
+    "90264-SMG -0030-H1"
+  ],
+  "harnesses": [
+    "32155-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Body > Roof"
+  ],
+  "systems": [
+    "Gauges",
+    "SRS"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/90264-SMG -0030-H1.svg",
+    "viewBox": "0 0 103.966 35.815",
+    "width": 103.966,
+    "height": 35.815
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "IG1_METER(BST)",
+      "english": "ignition IG1, METER, BST",
+      "russian": "зажигание IG1, METER, BST",
+      "terminal": "G35A",
+      "geometry": {
+        "x": 7.906,
+        "y": 28.582,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": {
+        "x": 28.558,
+        "y": 28.582,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "RL_SBR_IND",
+      "english": "rear left, SBR, IND",
+      "russian": "задний левый, SBR, IND",
+      "terminal": "S36C",
+      "geometry": {
+        "x": 49.209,
+        "y": 28.582,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(CTR-1)",
+      "english": "Ground (CTR-1)",
+      "russian": "Масса (CTR-1)",
+      "terminal": "Z30D",
+      "geometry": {
+        "x": 69.862,
+        "y": 28.582,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "RR_SBR_IND",
+      "english": "rear/right, SBR, IND",
+      "russian": "задний/правый, SBR, IND",
+      "terminal": "S34E",
+      "geometry": {
+        "x": 90.513,
+        "y": 28.582,
+        "svgTextId": "SVGID_5_"
+      }
+    }
+  ]
+}

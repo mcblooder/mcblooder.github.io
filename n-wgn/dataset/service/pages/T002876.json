@@ -1,0 +1,83 @@
+{
+  "id": "T002876",
+  "title": "Keyless Door Lock/Security Alarm System Failure Diagnostic Table by Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Keyless/power door locks/anti-theft system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T002876",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Keyless Door Lock/Security Alarm System Failure Diagnostic Table by Symptom"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diagnosis of Door Lock Failures"
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on defective phenomena, work and inspections are carried out starting with those with the highest priority."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Check the door switch. (Check door switch ON/OFF information in HDS.)"
+        ],
+        [
+          "",
+          "Inspect the coupler connections."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Diagnosis of keyless-related malfunctions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Based on defective phenomena, work and inspections are carried out starting with those with the highest priority."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "priority",
+          "fault phenomenon"
+        ],
+        [
+          "1",
+          "Locking the door after opening it with the keyless key"
+        ],
+        [
+          "2",
+          "Security Alarm System not set"
+        ],
+        [
+          "3",
+          "Locked and unlocked but not answered"
+        ],
+        [
+          "4",
+          "Keyless works even in ignition ON mode."
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131015112028/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T002876_jpn/web/html/T002876_jpn_Content.html",
+  "inOutline": true
+}

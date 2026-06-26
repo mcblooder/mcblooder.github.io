@@ -1,0 +1,63 @@
+{
+  "id": "142_EA38_Radiator_Fan_Motor_2P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA38",
+  "physicalIds": [
+    "EA38"
+  ],
+  "name": "Radiator Fan Motor 2P Connector (Female)",
+  "nameRu": "Разъём Radiator Fan электродвигатель, 2 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 2,
+  "populatedPinCount": 2,
+  "faceviewPart": "91765-SJK -0030-H1",
+  "partNumbers": [
+    "91765-SJK -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Left Side"
+  ],
+  "systems": [
+    "Climate Control",
+    "Fans"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91765-SJK -0030-H1.svg",
+    "viewBox": "0 0 57.332 37.514",
+    "width": 57.332,
+    "height": 37.514
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "MAIN_FAN_MOTOR",
+      "english": "main, FAN, motor",
+      "russian": "главный, FAN, электродвигатель",
+      "terminal": "D26A",
+      "geometry": {
+        "x": 12.162,
+        "y": 25.901,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLK",
+      "circuit": "GND(ENG-L)",
+      "english": "Ground (ENG-L)",
+      "russian": "Масса (ENG-L)",
+      "terminal": "Z26B",
+      "geometry": {
+        "x": 40.476,
+        "y": 25.901,
+        "svgTextId": "SVGID_2_"
+      }
+    }
+  ]
+}

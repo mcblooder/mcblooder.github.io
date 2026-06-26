@@ -1,0 +1,356 @@
+{
+  "id": "T001433",
+  "title": "MICU) Input Inspection",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "indicator",
+  "system": "Driver Information System Driver Information System (Combination Meter Control Unit",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001433",
+  "assets": [
+    "1433_3.0_jpn_11579666_3.0_disp.png",
+    "1433_3.0_jpn_11579667_4.0_disp.png"
+  ],
+  "crossRefs": [
+    {
+      "id": "R001029",
+      "label": "Replace the combination meter",
+      "resolved": true
+    },
+    {
+      "id": "R000925",
+      "label": "Replace fuse box",
+      "resolved": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Driver Information System (Combination Meter Control Unit, MICU) Input Inspection"
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "2. Perform input checks and if all is normal and there is an abnormality in the system Replace the combination meter inspection terminal Wiring color Measuring conditions result Inspection items in case of abnormality 4 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. 1 yellow 24-hour (e.g. observation, operation (of a machine), care (of patient)) Battery voltage must be present between the inspection terminal and body ground. 17 purple ON mode Battery voltage must be present between the inspection terminal and body ground. 23 weak matcha Parking brake Switch ON (depress the pedal) Continuity must exist between the inspection terminal and body ground. 25 hollow VSA OFF switch ON Continuity must exist between the inspection terminal and body ground.",
+      "refs": [
+        {
+          "id": "R001029",
+          "label": "Replace the combination meter",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1433_3.0_jpn_11579666_3.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G402)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Blown No. A14 (10A) fuse in relay box"
+        },
+        {
+          "text": "Blown No. D1 (15A) fuse in sub fuse/relay box"
+        },
+        {
+          "text": "Fuse Box"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Blown No. D4 (7.5A) fuse in sub fuse/relay box"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Parking brake switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G402)"
+        },
+        {
+          "text": "VSA OFF switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "step",
+      "number": "",
+      "text": "4. Perform input checks and if all is normal and all systems do not buzz Combination Meter Replacement If there is an abnormality in some systems, please contact us. Replace fuse box be just about to Each coupler is all female terminal cord side inspection terminal Wiring color Measuring conditions result Inspection items in case of abnormality P1 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. B8 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. T27 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. U17 black 24-hour (e.g. observation, operation (of a machine), care (of patient)) Continuity must exist between the inspection terminal and body ground. J1 yellow 24-hour (e.g. observation, operation (of a machine), care (of patient)) Battery voltage must be present between the inspection terminal and body ground. T5 yellow Short circuit between No.J1 and No.T5 terminals Battery voltage must be present between the inspection terminal and body ground. H4 red Driver Open the door Continuity must exist between the inspection terminal and body ground. H2 *1 T24 *2 purple Assistant Open the door Continuity must exist between the inspection terminal and body ground. H3 *1 H2 *2 purple *1 peach *2 R. Open rear door Continuity must exist between the inspection terminal and body ground. H11 *2 purple Open the tailgate. Continuity must exist between the inspection terminal and body ground. H11 *1 H3 *2 purple *1 white *2 L. Open rear door Continuity must exist between the inspection terminal and body ground. J13 red Shift Position P Position Continuity must exist between the inspection terminal and body ground. J23 ash Shift Position R position Continuity must exist between the inspection terminal and body ground. R10 ash Headlight switch OFF position There should be continuity between the inspection terminals. R21 black R19 red Headlight switch ON position, disconnect auto light control unit/sensor 7P coupler There should be continuity between the inspection terminals. R21 black R9 weak matcha Headlight switch SMALL position There should be continuity between the inspection terminals. R21 black *1: Models equipped with TRW's SRS unit *2: Vehicles equipped with DENSO SRS unit",
+      "refs": [
+        {
+          "id": "R001029",
+          "label": "Combination Meter Replacement",
+          "resolved": true
+        },
+        {
+          "id": "R000925",
+          "label": "Replace fuse box",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "1433_3.0_jpn_11579667_4.0_disp.png"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G402)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G202)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G402)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G403)"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Blown No. A14 (10A) fuse in relay box"
+        },
+        {
+          "text": "Blown sub fuse/relay box No. D1 (15A) fuse"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Relay box No. A14 (10A) fuse blown"
+        },
+        {
+          "text": "Fuse Box"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Driver Door switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Assisted door switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "R. Rear door switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G503)"
+        },
+        {
+          "text": "Tailgate latch switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "L. Rear door switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "PGM-FI ECU"
+        },
+        {
+          "text": "Shift position sensor"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Grounding failure (G101)"
+        },
+        {
+          "text": "Shift position sensor failure"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Lighting Switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Lighting Switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Lighting Switch"
+        },
+        {
+          "text": "Cord disconnection and terminal connection condition"
+        }
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131120135106/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001433_jpn/web/html/T001433_jpn_Content.html",
+  "inOutline": true
+}

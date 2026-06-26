@@ -1,0 +1,80 @@
+{
+  "id": "106_EC35_Vehicle_Speed_Sensor_3P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC35",
+  "physicalIds": [
+    "EC35"
+  ],
+  "name": "Vehicle Speed Sensor 3P Connector (Female)",
+  "nameRu": "Разъём Vehicle Speed датчик, 3 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "91703-RB0 -0030-H1",
+  "partNumbers": [
+    "91703-RB0 -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Left Side)"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Cruise Control",
+    "CVT Control System",
+    "PCM (All)",
+    "PGM-FI System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91703-RB0 -0030-H1.svg",
+    "viewBox": "0 0 68.912 27.602",
+    "width": 68.912,
+    "height": 27.602
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "RED",
+      "circuit": "VCC2_TC",
+      "english": "VCC2, TC",
+      "russian": "VCC2, TC",
+      "terminal": "D46A000",
+      "geometry": {
+        "x": 11.642,
+        "y": 19.846,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "SG2",
+      "english": "SG2",
+      "russian": "SG2",
+      "terminal": "Z28B",
+      "geometry": {
+        "x": 33.079,
+        "y": 19.661,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "VEL-DD",
+      "english": "VEL-DD",
+      "russian": "VEL-DD",
+      "terminal": "M21C",
+      "geometry": {
+        "x": 53.028,
+        "y": 19.846,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

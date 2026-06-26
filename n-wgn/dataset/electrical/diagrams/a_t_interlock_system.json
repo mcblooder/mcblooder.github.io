@@ -1,0 +1,81 @@
+{
+  "id": "a_t_interlock_system",
+  "category": "electrical_diagram",
+  "title": "A/T Interlock System",
+  "system": "a_t_interlock_system",
+  "sheetCount": 4,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/a_t_interlock_system/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/a_t_interlock_system/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/a_t_interlock_system/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/a_t_interlock_system/sheet4.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "Brake Pedal Position Switch",
+      "Electric Steering Lock",
+      "Engine Start/Stop Switch",
+      "PCM",
+      "Park Pin Switch",
+      "Shift Lock Solenoid",
+      "Transmission Range Sensor"
+    ],
+    "Couplers": [
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "Brake Pedal Position Switch 4P Connector (Female)",
+      "C113 (Male)|C113 (Female)",
+      "C119 (Male)|C119 (Female)",
+      "Electric Steering Lock 12P Connector (Female)",
+      "Engine Start/Stop Switch 10P Connector (Female)",
+      "PCM Connector A (50P) (Female)",
+      "PCM Connector E (80P) (Female)",
+      "Park Pin Switch 6P Connector (Female)",
+      "Shift Lock Solenoid 2P Connector (Female)",
+      "T1",
+      "Transmission Range Sensor 10P Connector (Female)",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector P (8P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector R (28P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector S (20P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector U (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector X (1P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Y (16P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_F/BOX_MAIN",
+      "+B_IG_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "+B_STOP_&_HORN",
+      "20_IG1_METER",
+      "28_ACC_CIGER",
+      "29_ACC"
+    ],
+    "Grounds": [
+      "G402"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "DD Driver's Door Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

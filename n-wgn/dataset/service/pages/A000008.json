@@ -1,0 +1,151 @@
+{
+  "id": "A000008",
+  "title": "DTC Explanation: P0107",
+  "category": "service",
+  "packageKind": "ADI",
+  "packageKindName": "Advanced Diagnostics (DTC)",
+  "section": "DTC Diagnosis",
+  "sectionCode": "K",
+  "subsection": "PGM-FI ECU",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/A000008",
+  "assets": [
+    "8_3.0_jpn_11033501_4.0_disp.png",
+    "8_3.0_jpn_11393209_3.0_disp.png",
+    "8_3.0_jpn_11393419_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "DTC Explanation: P0107"
+    },
+    {
+      "type": "dtc",
+      "code": "P0107",
+      "text": "DTC P0107: Intake air pressure sensor voltage low"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection principle explanation"
+    },
+    {
+      "type": "figure",
+      "asset": "8_3.0_jpn_11393419_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "8_3.0_jpn_11393209_3.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "8_3.0_jpn_11033501_4.0_disp.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Intake air pressure sensor detects intake air pressure (negative pressure) and converts it to a voltage signal. The intake pressure sensor outputs a lower voltage when the intake pressure (negative pressure) is high (when the throttle valve is fully closed) and a higher voltage when the intake pressure (negative pressure) is low (when the throttle valve is fully open). If the intake pressure sensor voltage remains below a predetermined value for a predetermined period of time, the PGM-FI ECU determines a failure and stores the DTC."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection frequency, detection sequence, detection time required, detection method type, OBD status"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "D/C: Drive Cycle"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Detection execution conditions"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "condition entry",
+          ""
+        ],
+        [
+          "Ignition switch/ ENGINE START STOP switch",
+          "Ignition ON mode"
+        ],
+        [
+          "DTC requesting the prohibition of detection of the relevant DTC",
+          "P0108"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Failure Criteria"
+    },
+    {
+      "type": "paragraph",
+      "text": "Intake air pressure sensor output voltage [intake air pressure sensor] remains below 0.23V for more than 2 seconds."
+    },
+    {
+      "type": "paragraph",
+      "text": "[ ]: HDS Parameters"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimated Failure Site"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Code between PGM-FI ECU and intake pressure sensor (PB TC line)* 1 (PB NA line)* 2 earth fault"
+        },
+        {
+          "text": "Disconnection of cord (VCC line) between PGM-FI ECU and intake pressure sensor"
+        },
+        {
+          "text": "Intake air pressure sensor failure"
+        },
+        {
+          "text": "PGM-FI ECU internal circuit failure"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "*1: Models equipped with a turbo charger"
+    },
+    {
+      "type": "paragraph",
+      "text": "*2: Vehicles not equipped with a turbo charger"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Store and clear DTC"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is determined to be faulty, the PGM-FI warning light comes on and the temporary DTC, DTC and freeze data are stored in the PGM-FI ECU memory."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is diagnosed and determined to be normal after running consecutive 3D/C runs, the PGM-FI warning light will turn off. In addition, the PGM-FI warning light, temporary DTC, DTC and freeze data are cleared by using the clear command of the scan tool (including HDS) or by removing the 12V battery terminal."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_ADI_20131015115714/Contents/jpn/60T6GD00_2014/ADI/SCT/SC/SYS/A000008_jpn/web/html/A000008_jpn_Content.html",
+  "inOutline": true
+}

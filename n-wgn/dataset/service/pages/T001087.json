@@ -1,0 +1,42 @@
+{
+  "id": "T001087",
+  "title": "Failure Diagnostic Table by Starting Device Symptom",
+  "category": "service",
+  "packageKind": "TRS",
+  "packageKindName": "Troubleshooting",
+  "section": "engine",
+  "sectionCode": "A",
+  "subsection": "starter",
+  "system": "NA",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/T001087",
+  "assets": [],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Failure Diagnostic Table by Starting Device Symptom"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "Increased engine rotational resistance"
+        ],
+        [
+          "",
+          "12V battery status"
+        ]
+      ]
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_TRS_20131205175231/Contents/jpn/60T6GD00_2014/TRS/SCT/SC/SYS/T001087_jpn/web/html/T001087_jpn_Content.html",
+  "inOutline": true
+}

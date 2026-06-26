@@ -1,0 +1,228 @@
+{
+  "id": "249_S_Under-Dash_Fuse_Relay_Box_Connector_S_20P_Male",
+  "category": "connector",
+  "connectorRef": "S",
+  "physicalIds": [
+    "S"
+  ],
+  "name": "Under-Dash Fuse/Relay Box Connector S (20P) (Male)",
+  "nameRu": "Разъём блок предохранителей и реле под панелью Connector S (20P), штыревая часть",
+  "type": "HarnessBoxCoupler",
+  "pinCount": 20,
+  "populatedPinCount": 12,
+  "faceviewPart": "DM",
+  "partNumbers": [],
+  "harnesses": [
+    "38200-T6G_-ZZ00-"
+  ],
+  "locations": [],
+  "systems": [],
+  "faceview": {
+    "asset": "assets/faceview/DM.svg",
+    "viewBox": "0 0 82.374 22.471",
+    "width": 82.374,
+    "height": 22.471
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "START_SW_IND1",
+      "english": "START, switch, IND1",
+      "russian": "START, выключатель, IND1",
+      "terminal": "941A",
+      "geometry": null
+    },
+    {
+      "pin": 2,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 3,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "RED",
+      "circuit": "SS1(+)",
+      "english": "SS1,  +",
+      "russian": "SS1,  +",
+      "terminal": "939D",
+      "geometry": null
+    },
+    {
+      "pin": 5,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 6,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "EXT_FR_AS-",
+      "english": "EXT, front, AS -",
+      "russian": "EXT, передний, AS -",
+      "terminal": "911G",
+      "geometry": null
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "PNK",
+      "circuit": "START_SW_ILL",
+      "english": "START, switch, ILL",
+      "russian": "START, выключатель, ILL",
+      "terminal": "942H",
+      "geometry": null
+    },
+    {
+      "pin": 9,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "EXT_F-",
+      "english": "EXT, F -",
+      "russian": "EXT, F -",
+      "terminal": "901K",
+      "geometry": null
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "VOUT_SLOT",
+      "english": "VOUT, SLOT",
+      "russian": "VOUT, SLOT",
+      "terminal": "953L",
+      "geometry": null
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "DIN/DOUT",
+      "english": "DIN / DOUT",
+      "russian": "DIN / DOUT",
+      "terminal": "958M",
+      "geometry": null
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "GRY",
+      "circuit": "DCK",
+      "english": "DCK",
+      "russian": "DCK",
+      "terminal": "959N",
+      "geometry": null
+    },
+    {
+      "pin": 14,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 15,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 16,
+      "used": false,
+      "wire": "",
+      "circuit": "",
+      "english": "Not used",
+      "russian": "Не используется",
+      "terminal": "",
+      "geometry": null
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "RED",
+      "circuit": "EXT_FR_AS+",
+      "english": "EXT, front, AS +",
+      "russian": "EXT, передний, AS +",
+      "terminal": "910T",
+      "geometry": null
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "SS2(-)",
+      "english": "SS2,  -",
+      "russian": "SS2,  -",
+      "terminal": "940W",
+      "geometry": null
+    },
+    {
+      "pin": 19,
+      "used": true,
+      "wire": "PUR",
+      "circuit": "AS_REQ_SW",
+      "english": "AS, REQ, switch",
+      "russian": "AS, REQ, выключатель",
+      "terminal": "969X",
+      "geometry": null
+    },
+    {
+      "pin": 20,
+      "used": true,
+      "wire": "LT_BLU",
+      "circuit": "EXT_F+",
+      "english": "EXT, F +",
+      "russian": "EXT, F +",
+      "terminal": "900Y",
+      "geometry": null
+    }
+  ]
+}

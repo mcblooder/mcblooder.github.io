@@ -1,0 +1,53 @@
+{
+  "id": "C002010",
+  "title": "Keyless Door Lock/Security Alarm System Structure Description - Overview",
+  "category": "service",
+  "packageKind": "CFN",
+  "packageKindName": "Component / Function",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "Security/Keyless Entry/Door Locks",
+  "system": "Keyless/power door locks/anti-theft system",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/C002010",
+  "assets": [
+    "2010_3.0_jpn_11390973_2.0_disp.png",
+    "2010_3.0_jpn_11390974_2.0_disp.png",
+    "2010_3.0_jpn_11409949_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Keyless Door Lock/Security Alarm System Structure Description - Overview"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lock/unlock control of each seat door and tailgate is controlled by MICU from each switch signal and RF signal, and includes door lock control, keyless door lock control, key lock prevention control, and keyless answerback control. The door lock system circuit is divided into two actuator circuits, one for the driver door and R. rear door and the other for the assistant door, L. rear door, and tailgate lock actuator, so that if one circuit fails or a fuse blows, the other circuit will still operate normally and lock/unlock. The lock/unlock function is still possible in the event of a circuit failure or blown fuse on one side."
+    },
+    {
+      "type": "paragraph",
+      "text": "A security alarm system is provided depending on the specifications. The security alarm system monitors the opening and closing of the hood, doors, and tailgate. When the alarm is activated, the security horn blows and the turn signal light flashes repeatedly."
+    },
+    {
+      "type": "figure",
+      "asset": "2010_3.0_jpn_11409949_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2010_3.0_jpn_11390973_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "2010_3.0_jpn_11390974_2.0_disp.png"
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_CFN_20131015115544/Contents/jpn/60T6GD00_2014/CFN/SCT/SC/SYS/C002010_jpn/web/html/C002010_jpn_Content.html",
+  "inOutline": true
+}

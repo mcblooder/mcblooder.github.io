@@ -1,0 +1,78 @@
+{
+  "id": "R000820",
+  "title": "Adjustment of hood construction",
+  "category": "service",
+  "packageKind": "RIN",
+  "packageKindName": "Removal / Installation",
+  "section": "body",
+  "sectionCode": "J",
+  "subsection": "exterior",
+  "system": "hood",
+  "subtitle": "",
+  "dgName": "",
+  "models": [
+    "JH1",
+    "JH2"
+  ],
+  "assetDir": "assets/R000820",
+  "assets": [
+    "820_3.0_jpn_11384117_2.0_disp.png",
+    "820_3.0_jpn_11384119_2.0_disp.png",
+    "820_3.0_jpn_11388889_2.0_disp.png"
+  ],
+  "crossRefs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Adjustment of hood construction"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Hood Construction Adjustment"
+    },
+    {
+      "type": "step",
+      "number": "1",
+      "text": "Loosen the bolts and tighten them to the extent that each component does not move. Adjust the position and closure of the hood (A). Vertical adjustment of the bonnet lock (D) shall be made to adjust the hood closure. Also, the bonnet lock shall be adjusted in the left and right directions so that it locks at the center without interference with the striker (E). Tighten each bolt. Ensure that the hood locks securely and opens smoothly. Apply touch-up paint to each hinge mounting bolt and to the hinge mounting points on the body to prevent rusting."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        {
+          "text": "Adjust the bonnet hinge (B) in the forward/backward and left/right directions to adjust the clearance between the hood and the body. When adjusting the left/right direction, the hood lock must also be adjusted at the same time."
+        },
+        {
+          "text": "Adjust the bonnet hinge (B) in the forward/backward and left/right directions to adjust the clearance between the hood and the body. When adjusting the left/right direction, the hood lock must also be adjusted at the same time."
+        },
+        {
+          "text": "Hood Rotate the cushion (C) to adjust the front end of the hood in the vertical direction."
+        },
+        {
+          "text": "Hood Rotate the cushion (C) to adjust the front end of the hood in the vertical direction."
+        }
+      ]
+    },
+    {
+      "type": "figure",
+      "asset": "820_3.0_jpn_11388889_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "820_3.0_jpn_11384117_2.0_disp.png"
+    },
+    {
+      "type": "figure",
+      "asset": "820_3.0_jpn_11384119_2.0_disp.png"
+    },
+    {
+      "type": "step",
+      "number": "7",
+      "text": "Lubricate the hood lock and hood hinges in the positions shown."
+    }
+  ],
+  "source": "sm_contents/60T6GD00_2014_jpn_RIN_20131015114331/Contents/jpn/60T6GD00_2014/RIN/SCT/SC/SYS/R000820_jpn/web/html/R000820_jpn_Content.html",
+  "inOutline": true
+}

@@ -1,0 +1,76 @@
+{
+  "id": "dlc",
+  "category": "electrical_diagram",
+  "title": "DLC",
+  "system": "dlc",
+  "sheetCount": 6,
+  "sheets": [
+    {
+      "name": "sheet1",
+      "asset": "assets/svg/dlc/sheet1.svg"
+    },
+    {
+      "name": "sheet2",
+      "asset": "assets/svg/dlc/sheet2.svg"
+    },
+    {
+      "name": "sheet3",
+      "asset": "assets/svg/dlc/sheet3.svg"
+    },
+    {
+      "name": "sheet4",
+      "asset": "assets/svg/dlc/sheet4.svg"
+    },
+    {
+      "name": "sheet5",
+      "asset": "assets/svg/dlc/sheet5.svg"
+    },
+    {
+      "name": "sheet6",
+      "asset": "assets/svg/dlc/sheet6.svg"
+    }
+  ],
+  "components": {
+    "Components": [
+      "IG1 Relay 1",
+      "PCM"
+    ],
+    "Couplers": [
+      "Auxiliary Under-Dash Fuse/Relay Box",
+      "C111 (Male)|C111 (Female)",
+      "C112 (Male)|C112 (Female)",
+      "Data Link Connector (DLC) (Female)",
+      "PCM Connector A (50P) (Female)",
+      "T1",
+      "Under-Dash Fuse/Relay Box Connector A (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector J (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector K (4P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector M (10P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector T (34P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector U (24P) (Female)",
+      "Under-Dash Fuse/Relay Box Connector Z (1P) (Female)",
+      "Under-Hood Fuse/Relay Box"
+    ],
+    "Fuses": [
+      "+B_BACK_UP(BST)",
+      "+B_BACK_UP_MAIN(P/S)",
+      "+B_DC/DC_1",
+      "+B_F/BOX_MAIN",
+      "+B_MAIN",
+      "+B_SMART",
+      "07_IG1_RELAY_1",
+      "IG1_METER(P/S)"
+    ],
+    "Grounds": [
+      "G401",
+      "G402",
+      "G403"
+    ],
+    "Harnesses": [
+      "BD Dashboard Wire Harness",
+      "BQ Roof Wire Harness",
+      "EA Engine Compartment Wire Harness",
+      "EC Engine Wire Harness"
+    ]
+  }
+}

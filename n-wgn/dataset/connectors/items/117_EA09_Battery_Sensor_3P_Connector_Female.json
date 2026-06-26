@@ -1,0 +1,78 @@
+{
+  "id": "117_EA09_Battery_Sensor_3P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA09",
+  "physicalIds": [
+    "EA09"
+  ],
+  "name": "Battery Sensor 3P Connector (Female)",
+  "nameRu": "Разъём Battery датчик, 3 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "91983-SJK -0030-H1",
+  "partNumbers": [
+    "91983-SJK -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Left Side"
+  ],
+  "systems": [
+    "Auto Idle Stop System",
+    "Charging System",
+    "Energy Management System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91983-SJK -0030-H1.svg",
+    "viewBox": "0 0 97.087 46.063",
+    "width": 97.087,
+    "height": 46.063
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "WHT",
+      "circuit": "+B_BATT_SNSR",
+      "english": "Constant battery power: battery, SNSR",
+      "russian": "Постоянное питание от АКБ: аккумулятор, SNSR",
+      "terminal": "B19A",
+      "geometry": {
+        "x": 18.114,
+        "y": 25.931,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "+B_STOP",
+      "english": "Constant battery power: brake light",
+      "russian": "Постоянное питание от АКБ: стоп-сигнал",
+      "terminal": "B01B",
+      "geometry": {
+        "x": 46.46,
+        "y": 25.931,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "LT_GRN",
+      "circuit": "LIN(BATT_SENSOR)",
+      "english": "LIN, battery, sensor",
+      "russian": "LIN, аккумулятор, датчик",
+      "terminal": "X31C000",
+      "geometry": {
+        "x": 74.808,
+        "y": 25.931,
+        "svgTextId": "SVGID_3_"
+      }
+    }
+  ]
+}

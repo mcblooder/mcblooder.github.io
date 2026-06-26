@@ -1,0 +1,77 @@
+{
+  "id": "199_EC33_CMP_Sensor_3P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EC33",
+  "physicalIds": [
+    "EC33"
+  ],
+  "name": "CMP Sensor 3P Connector (Female)",
+  "nameRu": "Разъём CMP датчик, 3 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 3,
+  "populatedPinCount": 3,
+  "faceviewPart": "91703-R40 -0030-H1",
+  "partNumbers": [
+    "91703-R40 -0030-H1"
+  ],
+  "harnesses": [
+    "32110-5Z1_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Engine (Right Side)"
+  ],
+  "systems": [
+    "PCM (All)",
+    "PGM-FI System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91703-R40 -0030-H1.svg",
+    "viewBox": "0 0 68.859 27.554",
+    "width": 68.859,
+    "height": 27.554
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "YEL",
+      "circuit": "IGP(TDC)",
+      "english": "IGP, TDC",
+      "russian": "IGP, TDC",
+      "terminal": "D10A",
+      "geometry": {
+        "x": 12.004,
+        "y": 19.988,
+        "svgTextId": "SVGID_1_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "BLU",
+      "circuit": "LG1",
+      "english": "LG1",
+      "russian": "LG1",
+      "terminal": "Z20B",
+      "geometry": {
+        "x": 32.656,
+        "y": 19.988,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "TDCAM",
+      "english": "TDCAM",
+      "russian": "TDCAM",
+      "terminal": "E63C",
+      "geometry": {
+        "x": 53.308,
+        "y": 19.988,
+        "svgTextId": "SVGID_3_"
+      }
+    }
+  ]
+}

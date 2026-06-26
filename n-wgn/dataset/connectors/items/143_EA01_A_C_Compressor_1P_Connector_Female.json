@@ -1,0 +1,50 @@
+{
+  "id": "143_EA01_A_C_Compressor_1P_Connector_Female",
+  "category": "connector",
+  "connectorRef": "EA01",
+  "physicalIds": [
+    "EA01"
+  ],
+  "name": "A/C Compressor 1P Connector (Female)",
+  "nameRu": "Разъём A/C Compressor, 1 контактов, гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 1,
+  "populatedPinCount": 1,
+  "faceviewPart": "91701-PNA -0030-H1",
+  "partNumbers": [
+    "91701-PNA -0030-H1"
+  ],
+  "harnesses": [
+    "32200-T6G_-ZZ00-"
+  ],
+  "locations": [
+    "Engine Compartment > Right Side"
+  ],
+  "systems": [
+    "Climate Control",
+    "Idle Control System",
+    "PCM (All)"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/91701-PNA -0030-H1.svg",
+    "viewBox": "0 0 31.686 27.554",
+    "width": 31.686,
+    "height": 27.554
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "GRN",
+      "circuit": "A/C_MG_CLUTCH",
+      "english": "air conditioning, magnetic, clutch",
+      "russian": "кондиционер, электромагнитный, муфта",
+      "terminal": "310A",
+      "geometry": {
+        "x": 13.069,
+        "y": 18.988,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "id": "058_BD70_Audio_Unit_Connector_H_5P_Female",
+  "category": "connector",
+  "connectorRef": "BD70",
+  "physicalIds": [
+    "BD70"
+  ],
+  "name": "Audio Unit Connector H (5P) (Female)",
+  "nameRu": "Разъём аудиоблок Connector H (5P), гнездовая часть",
+  "type": "DirectCoupler",
+  "pinCount": 20,
+  "populatedPinCount": 20,
+  "faceviewPart": "39837-TK8 -A010-Y1",
+  "partNumbers": [
+    "39837-TK8 -A010-Y1"
+  ],
+  "harnesses": [
+    "39117-T6G_-J010-"
+  ],
+  "locations": [
+    "Dashboard > Dashboard Main (Left Side)"
+  ],
+  "systems": [
+    "Audio System"
+  ],
+  "faceview": {
+    "asset": "assets/faceview/39837-TK8 -A010-Y1.svg",
+    "viewBox": "0 0 225.377 105.956",
+    "width": 225.377,
+    "height": 105.956
+  },
+  "pins": [
+    {
+      "pin": 1,
+      "used": true,
+      "wire": "",
+      "circuit": "T.M.D.S._DATA2+",
+      "english": "T.M.D.S., DATA2 +",
+      "russian": "T.M.D.S., DATA2 +",
+      "terminal": "HDMI01A",
+      "geometry": {
+        "x": 33.357,
+        "y": 39.106,
+        "svgTextId": "SVGID_2_"
+      }
+    },
+    {
+      "pin": 2,
+      "used": true,
+      "wire": "",
+      "circuit": "T.M.D.S._DATA2_SH",
+      "english": "T.M.D.S., DATA2, shield",
+      "russian": "T.M.D.S., DATA2, экран",
+      "terminal": "HDMI02_SH01B",
+      "geometry": {
+        "x": 39.459,
+        "y": 78.703,
+        "svgTextId": "SVGID_3_"
+      }
+    },
+    {
+      "pin": 3,
+      "used": true,
+      "wire": "",
+      "circuit": "T.M.D.S._DATA2-",
+      "english": "T.M.D.S., DATA2 -",
+      "russian": "T.M.D.S., DATA2 -",
+      "terminal": "HDMI03A",
+      "geometry": {
+        "x": 46.107,
+        "y": 39.106,
+        "svgTextId": "SVGID_6_"
+      }
+    },
+    {
+      "pin": 4,
+      "used": true,
+      "wire": "",
+      "circuit": "T.M.D.S._DATA1+",
+      "english": "T.M.D.S., DATA1 +",
+      "russian": "T.M.D.S., DATA1 +",
+      "terminal": "HDMI04A",
+      "geometry": {
+        "x": 52.298,
+        "y": 78.703,
+        "svgTextId": "SVGID_7_"
+      }
+    },
+    {
+      "pin": 5,
+      "used": true,
+      "wire": "",
+      "circuit": "T.M.D.S._DATA1_SH",
+      "english": "T.M.D.S., DATA1, shield",
+      "russian": "T.M.D.S., DATA1, экран",
+      "terminal": "HDMI05_SH02B",
+      "geometry": {
+        "x": 58.857,
+        "y": 39.106,
+        "svgTextId": "SVGID_8_"
+      }
+    },
+    {
+      "pin": 6,
+      "used": true,
+      "wire": "",
+      "circuit": "T.M.D.S._DATA1-",
+      "english": "T.M.D.S., DATA1 -",
+      "russian": "T.M.D.S., DATA1 -",
+      "terminal": "HDMI06A",
+      "geometry": {
+        "x": 65.136,
+        "y": 78.703,
+        "svgTextId": "SVGID_9_"
+      }
+    },
+    {
+      "pin": 7,
+      "used": true,
+      "wire": "",
+      "circuit": "T.M.D.S._DATA0+",
+      "english": "T.M.D.S., DATA0 +",
+      "russian": "T.M.D.S., DATA0 +",
+      "terminal": "HDMI07A",
+      "geometry": {
+        "x": 71.608,
+        "y": 39.106,
+        "svgTextId": "SVGID_10_"
+      }
+    },
+    {
+      "pin": 8,
+      "used": true,
+      "wire": "",
+      "circuit": "T.M.D.S._DATA0_SH",
+      "english": "T.M.D.S., DATA0, shield",
+      "russian": "T.M.D.S., DATA0, экран",
+      "terminal": "HDMI08_SH03B",
+      "geometry": {
+        "x": 77.975,
+        "y": 78.703,
+        "svgTextId": "SVGID_11_"
+      }
+    },
+    {
+      "pin": 9,
+      "used": true,
+      "wire": "",
+      "circuit": "T.M.D.S._DATA0-",
+      "english": "T.M.D.S., DATA0 -",
+      "russian": "T.M.D.S., DATA0 -",
+      "terminal": "HDMI09A",
+      "geometry": {
+        "x": 84.358,
+        "y": 39.106,
+        "svgTextId": "SVGID_12_"
+      }
+    },
+    {
+      "pin": 10,
+      "used": true,
+      "wire": "",
+      "circuit": "T.M.D.S._CLOCK+",
+      "english": "T.M.D.S., clock +",
+      "russian": "T.M.D.S., тактовый сигнал +",
+      "terminal": "HDMI10A",
+      "geometry": {
+        "x": 88.67,
+        "y": 78.703,
+        "svgTextId": "SVGID_13_"
+      }
+    },
+    {
+      "pin": 11,
+      "used": true,
+      "wire": "",
+      "circuit": "T.M.D.S._CLOCK_SH",
+      "english": "T.M.D.S., clock, shield",
+      "russian": "T.M.D.S., тактовый сигнал, экран",
+      "terminal": "HDMI11_SH04B",
+      "geometry": {
+        "x": 94.701,
+        "y": 39.106,
+        "svgTextId": "SVGID_14_"
+      }
+    },
+    {
+      "pin": 12,
+      "used": true,
+      "wire": "",
+      "circuit": "T.M.D.S._CLOCK-",
+      "english": "T.M.D.S., clock -",
+      "russian": "T.M.D.S., тактовый сигнал -",
+      "terminal": "HDMI12A",
+      "geometry": {
+        "x": 101.22,
+        "y": 78.703,
+        "svgTextId": "SVGID_15_"
+      }
+    },
+    {
+      "pin": 13,
+      "used": true,
+      "wire": "",
+      "circuit": "CEC",
+      "english": "CEC",
+      "russian": "CEC",
+      "terminal": "HDMI13A",
+      "geometry": {
+        "x": 107.436,
+        "y": 39.106,
+        "svgTextId": "SVGID_16_"
+      }
+    },
+    {
+      "pin": 14,
+      "used": true,
+      "wire": "",
+      "circuit": "UTILITY",
+      "english": "UTILITY",
+      "russian": "UTILITY",
+      "terminal": "HDMI14A",
+      "geometry": {
+        "x": 113.769,
+        "y": 78.703,
+        "svgTextId": "SVGID_17_"
+      }
+    },
+    {
+      "pin": 15,
+      "used": true,
+      "wire": "",
+      "circuit": "SCL",
+      "english": "SCL",
+      "russian": "SCL",
+      "terminal": "HDMI15A",
+      "geometry": {
+        "x": 120.171,
+        "y": 39.106,
+        "svgTextId": "SVGID_18_"
+      }
+    },
+    {
+      "pin": 16,
+      "used": true,
+      "wire": "",
+      "circuit": "SDA",
+      "english": "SDA",
+      "russian": "SDA",
+      "terminal": "HDMI16A",
+      "geometry": {
+        "x": 126.318,
+        "y": 78.703,
+        "svgTextId": "SVGID_19_"
+      }
+    },
+    {
+      "pin": 17,
+      "used": true,
+      "wire": "",
+      "circuit": "DDC_CEC_GROUND",
+      "english": "DDC, CEC, GROUND",
+      "russian": "DDC, CEC, GROUND",
+      "terminal": "HDMI17A",
+      "geometry": {
+        "x": 132.906,
+        "y": 39.106,
+        "svgTextId": "SVGID_20_"
+      }
+    },
+    {
+      "pin": 18,
+      "used": true,
+      "wire": "",
+      "circuit": "+5V_POWER",
+      "english": "+5V, power",
+      "russian": "+5V, питание",
+      "terminal": "HDMI18A",
+      "geometry": {
+        "x": 138.868,
+        "y": 78.703,
+        "svgTextId": "SVGID_4_"
+      }
+    },
+    {
+      "pin": 19,
+      "used": true,
+      "wire": "",
+      "circuit": "HOT_PLUG_DETECT",
+      "english": "HOT, PLUG, DETECT",
+      "russian": "HOT, PLUG, DETECT",
+      "terminal": "HDMI19A",
+      "geometry": {
+        "x": 145.642,
+        "y": 39.106,
+        "svgTextId": "SVGID_5_"
+      }
+    },
+    {
+      "pin": 20,
+      "used": true,
+      "wire": "",
+      "circuit": "SHIELD",
+      "english": "SHIELD",
+      "russian": "SHIELD",
+      "terminal": "HDMI20_SH05B",
+      "geometry": {
+        "x": 216.478,
+        "y": 58.429,
+        "svgTextId": "SVGID_1_"
+      }
+    }
+  ]
+}
