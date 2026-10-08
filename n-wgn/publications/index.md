@@ -2,6 +2,10 @@
 
 Projects, repairs and notes from my N-WGN ownership.
 
+## References
+
+- [OBD2 Honda ref.](/n-wgn/#/other/obd2-honda-ref)
+
 ## On DRIVE2
 
 - [Колхозим датчик ABS](https://www.drive2.ru/l/735579602247767059/)
